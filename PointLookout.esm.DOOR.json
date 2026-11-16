@@ -1,0 +1,148 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@PointLookout.esm:00AC48",
+      "FORMID": "00AC48",
+      "EDID": "DLC04Cathgate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@PointLookout.esm:004FC1",
+      "FORMID": "004FC1",
+      "EDID": "DLC04MDoorSmL01Hidden",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C1C2",
+      "FORMID": "00C1C2",
+      "EDID": "DLC04MQ05LabDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E27D",
+      "FORMID": "00E27D",
+      "EDID": "DLC04BargeHatch",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F2F6",
+      "FORMID": "00F2F6",
+      "EDID": "DLC04ShackCabinet01DoorSingle",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F2F2",
+      "FORMID": "00F2F2",
+      "EDID": "DLC04ShackCabinet01Door",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F2DC",
+      "FORMID": "00F2DC",
+      "EDID": "DLC04ShackDoorInterior01",
+      "FULL": "Contra-Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C0B0",
+      "FORMID": "00C0B0",
+      "EDID": "DLC04Mudhole01",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@PointLookout.esm:002F78",
+      "FORMID": "002F78",
+      "EDID": "DLC04MDoorBig01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:002F77",
+      "FORMID": "002F77",
+      "EDID": "DLC04MDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:002F25",
+      "FORMID": "002F25",
+      "EDID": "DLC04Ladder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00951D",
+      "FORMID": "00951D",
+      "EDID": "DLC04WellTopDOOR",
+      "FULL": "Poço"
+    },
+    {
+      "FORM": "@PointLookout.esm:00951C",
+      "FORMID": "00951C",
+      "EDID": "DLC04SeaCaveLadderDOOR",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A545",
+      "FORMID": "00A545",
+      "EDID": "DLC04ShackDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DF1D",
+      "FORMID": "00DF1D",
+      "EDID": "DLC04LabDoorSm01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B85B",
+      "FORMID": "00B85B",
+      "EDID": "DLC04ShackDoorAnim01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:01183D",
+      "FORMID": "01183D",
+      "EDID": "DLC04LabDoorSm01MinUse",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A543",
+      "FORMID": "00A543",
+      "EDID": "DLC04ShackDoorBasement01",
+      "FULL": "Porta da Cabana"
+    },
+    {
+      "FORM": "@PointLookout.esm:006BE4",
+      "FORMID": "006BE4",
+      "EDID": "DLC04LighthouseDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6F1",
+      "FORMID": "00C6F1",
+      "EDID": "DLC04BogDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:009278",
+      "FORMID": "009278",
+      "EDID": "DLC04MDoorBig01Cathedral",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:003DBF",
+      "FORMID": "003DBF",
+      "EDID": "DLC04MDoorSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:003DBE",
+      "FORMID": "003DBE",
+      "EDID": "DLC04MDoorSmL03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B7AA",
+      "FORMID": "00B7AA",
+      "EDID": "DLC04ManDoorPreBreak",
+      "FULL": "Porta"
+    }
+  ]
+}

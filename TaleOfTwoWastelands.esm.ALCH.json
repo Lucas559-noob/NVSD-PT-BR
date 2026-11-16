@@ -1,0 +1,1408 @@
+{
+  "ALCH": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C754",
+      "FORMID": "01C754",
+      "EDID": "TTWPoisonKite",
+      "FULL": "Kite"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C752",
+      "FORMID": "01C752",
+      "EDID": "TTWPoisonRustRot",
+      "FULL": "Podridão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C750",
+      "FORMID": "01C750",
+      "EDID": "TTWPoisonDeathclawPoison",
+      "FULL": "Veneno de Deathclaw"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C74E",
+      "FORMID": "01C74E",
+      "EDID": "TTWPoisonToxicWaste",
+      "FULL": "Resíduo Tóxico"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01809A",
+      "FORMID": "01809A",
+      "EDID": "TTWOutOfThisWorldPie",
+      "FULL": "Torta de Outro Mundo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018099",
+      "FORMID": "018099",
+      "EDID": "TTWMutfruitMarinade",
+      "FULL": "Marinada de Mutafruta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018098",
+      "FORMID": "018098",
+      "EDID": "TTWCentaurSangria",
+      "FULL": "Sangria de Centauro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018097",
+      "FORMID": "018097",
+      "EDID": "TTWWastelandlHotDog",
+      "FULL": "Cachorro-Quente do Ermo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018096",
+      "FORMID": "018096",
+      "EDID": "TTWBrainFreeze",
+      "FULL": "Congelamento Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018095",
+      "FORMID": "018095",
+      "EDID": "TTWStartencle",
+      "FULL": "Startencle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018092",
+      "FORMID": "018092",
+      "EDID": "TTWMirelurkSpecial",
+      "FULL": "Especial de Mirelurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018090",
+      "FORMID": "018090",
+      "EDID": "TTWBrainFood",
+      "FULL": "Alimento Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01806B",
+      "FORMID": "01806B",
+      "EDID": "TTWBrainFungus",
+      "FULL": "Fungo Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFC3",
+      "FORMID": "00DFC3",
+      "EDID": "TTWSpicyNukalurkRoll",
+      "FULL": "Rolinho Picante de Nukalurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFC2",
+      "FORMID": "00DFC2",
+      "EDID": "TTWSpicyQuantumSauce",
+      "FULL": "Molho Quântico Picante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFC1",
+      "FORMID": "00DFC1",
+      "EDID": "TTWNukalurkSushi",
+      "FULL": "Sushi de Nukalurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DF9C",
+      "FORMID": "00DF9C",
+      "EDID": "TTWYaoGuaiMedallions",
+      "FULL": "Medalhões de Yao Guai"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DF9B",
+      "FORMID": "00DF9B",
+      "EDID": "TTWMeltdown",
+      "FULL": "Meltdown"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DF9A",
+      "FORMID": "00DF9A",
+      "EDID": "TTWGlowingMushroom",
+      "FULL": "Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2E",
+      "FORMID": "007D2E",
+      "EDID": "TTWMoleRatSteak",
+      "FULL": "Bife de Rato-toupeira"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2D",
+      "FORMID": "007D2D",
+      "EDID": "TTWFireAntBits",
+      "FULL": "Pedaços de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2C",
+      "FORMID": "007D2C",
+      "EDID": "TTWFireAntNog",
+      "FULL": "Nog de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2B",
+      "FORMID": "007D2B",
+      "EDID": "TTWAntBits",
+      "FULL": "Pedaços de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2A",
+      "FORMID": "007D2A",
+      "EDID": "TTWAntNog",
+      "FULL": "Nog de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D29",
+      "FORMID": "007D29",
+      "EDID": "TTWBloatFlySmoothie",
+      "FULL": "Vitamina de Mosca-Bota"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D28",
+      "FORMID": "007D28",
+      "EDID": "TTWSteamedRadRoach",
+      "FULL": "Baratarro no Vapor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004BFD",
+      "FORMID": "004BFD",
+      "EDID": "TTWSteamedMirelurk",
+      "FULL": "Mirelurk no Vapor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004BFC",
+      "FORMID": "004BFC",
+      "EDID": "TTWMirelurkThermador",
+      "FULL": "Thermador de Mirelurk"
+    },
+    {
+      "FORM": "@Zeta.esm:007A6C",
+      "FORMID": "007A6C",
+      "EDID": "DLC05AlienBiogelAdapted",
+      "FULL": "Biogel adaptado"
+    },
+    {
+      "FORM": "@Zeta.esm:007A6B",
+      "FORMID": "007A6B",
+      "EDID": "DLC05AlienBiogel",
+      "FULL": "Biogel alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006BE3",
+      "FORMID": "006BE3",
+      "EDID": "DLC05AlienEpoxy",
+      "FULL": "Epoxy Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:000F8D",
+      "FORMID": "000F8D",
+      "EDID": "DLC05AlienSquid",
+      "FULL": "Alimento Alienígena: Lulas"
+    },
+    {
+      "FORM": "@Zeta.esm:000F8C",
+      "FORMID": "000F8C",
+      "EDID": "DLC05AlienWorm",
+      "FULL": "Alimento Alienígena: Vermes"
+    },
+    {
+      "FORM": "@PointLookout.esm:00422D",
+      "FORMID": "00422D",
+      "EDID": "DLC04FF03Moonshine",
+      "FULL": "Bebida"
+    },
+    {
+      "FORM": "@PointLookout.esm:003FE9",
+      "FORMID": "003FE9",
+      "EDID": "DLC04PungaRefined",
+      "FULL": "Fruta Punga Refinada"
+    },
+    {
+      "FORM": "@PointLookout.esm:003FC6",
+      "FORMID": "003FC6",
+      "EDID": "DLC04PungaWild",
+      "FULL": "Fruta Punga Silvestre"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F62",
+      "FORMID": "006F62",
+      "EDID": "DLC03WQ02AquaCura",
+      "FULL": "Aqua Cura"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C7A",
+      "FORMID": "004C7A",
+      "EDID": "DLC03WQ03WaterHoly",
+      "FULL": "Água Benta"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00104F",
+      "FORMID": "00104F",
+      "EDID": "DLC03AquaPura",
+      "FULL": "Aqua Pura"
+    },
+    {
+      "FORM": "@ThePitt.esm:005208",
+      "FORMID": "005208",
+      "EDID": "DLC01Slop",
+      "FULL": "Ensopado"
+    },
+    {
+      "FORM": "@Fallout3.esm:03404D",
+      "FORMID": "03404D",
+      "EDID": "MirelurkCakes",
+      "FULL": "Torta de Mirelurk"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD51",
+      "FORMID": "00CD51",
+      "EDID": "NVDLC04RoughinItBedrollKit",
+      "FULL": "Kit de Cama Rústica!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009180",
+      "FORMID": "009180",
+      "EDID": "NVDLC04RushingWater",
+      "FULL": "Água Corrente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00917E",
+      "FORMID": "00917E",
+      "EDID": "NVDLC04MRE",
+      "FULL": "Ração MRE"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00917D",
+      "FORMID": "00917D",
+      "EDID": "NVDLC04AutoInjectSuperStimpak",
+      "FULL": "Superestimulante de Auto-Injeção"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00917C",
+      "FORMID": "00917C",
+      "EDID": "NVDLC04AutoInjectStimpak",
+      "FULL": "Stimpak de Auto-Injeção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01495E",
+      "FORMID": "01495E",
+      "EDID": "NVDLC03BattleBrew",
+      "FULL": "Bebida de Batalha"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01495D",
+      "FORMID": "01495D",
+      "EDID": "NVDLC03PreWarMeat",
+      "FULL": "Carne Conservada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B6",
+      "FORMID": "0133B6",
+      "EDID": "NVDLC03ThickRedPaste",
+      "FULL": "Pasta Vermelha Grossa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B3",
+      "FORMID": "0133B3",
+      "EDID": "NVDLC03BlackBloodSausage",
+      "FULL": "Salsicha de Sangue Preta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B1",
+      "FORMID": "0133B1",
+      "EDID": "NVDLC03SalientGreen",
+      "FULL": "Verde Saliente"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01213E",
+      "FORMID": "01213E",
+      "EDID": "NVDLC03CaveFungusINGESTIBLE",
+      "FULL": "Fungo Mutante da Caverna"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C5",
+      "FORMID": "0098C5",
+      "EDID": "NVDLC03BloodSausage",
+      "FULL": "Salsicha de Sangue"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C4",
+      "FORMID": "0098C4",
+      "EDID": "NVDLC03ThinRedPaste",
+      "FULL": "Pasta Vermelha Rala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009618",
+      "FORMID": "009618",
+      "EDID": "NVDLC03NightstalkerSqueezins",
+      "FULL": "Esmagando Perseguidor Noturno"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011112",
+      "FORMID": "011112",
+      "EDID": "NVDLC02BlackCoffee",
+      "FULL": "Café Preto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01110A",
+      "FORMID": "01110A",
+      "EDID": "NVDLC02BloodShield",
+      "FULL": "Escudo de Sangue"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F948",
+      "FORMID": "00F948",
+      "EDID": "NVDLC02Antivenom",
+      "FULL": "Antiveneno de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCF5",
+      "FORMID": "00CCF5",
+      "EDID": "NVDLC02WeapBindRitual",
+      "FULL": "Ritual de Ligação de Arma"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCF4",
+      "FORMID": "00CCF4",
+      "EDID": "NVDLC02Daturana",
+      "FULL": "Daturana"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00990A",
+      "FORMID": "00990A",
+      "EDID": "NVDLC02DarkDatura",
+      "FULL": "Datura Negra"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094BB",
+      "FORMID": "0094BB",
+      "EDID": "NVDLC02SacredDaturaRoot",
+      "FULL": "Raiz de Datura Sagrada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F3E",
+      "FORMID": "012F3E",
+      "EDID": "NVDLC01CloudKissLethal",
+      "FULL": "Beijo de Nuvem (Letal)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F3D",
+      "FORMID": "012F3D",
+      "EDID": "NVDLC01CloudKissWeak",
+      "FULL": "Beijo de Nuvem (Fraco)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F3C",
+      "FORMID": "012F3C",
+      "EDID": "NVDLC01CloudKissStrong",
+      "FULL": "Beijo de Nuvem (Potente)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012C38",
+      "FORMID": "012C38",
+      "EDID": "NVDLC01GhostSight",
+      "FULL": "Visão Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010A69",
+      "FORMID": "010A69",
+      "EDID": "NVDLC01PreWarMeat",
+      "FULL": "Bife Pré-Guerra"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010395",
+      "FORMID": "010395",
+      "EDID": "NVDLC01SierraMadreMartini",
+      "FULL": "Martini Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CDB1",
+      "FORMID": "00CDB1",
+      "EDID": "NVDLC01GhostPeopleMeat",
+      "FULL": "Carne de Povo Fantasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AAE",
+      "FORMID": "175AAE",
+      "EDID": "CookCooksFiendStew",
+      "FULL": "Ensopado de Demônio do Cook-Cook"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AA8",
+      "FORMID": "175AA8",
+      "EDID": "BighornerSteak",
+      "FULL": "Bife de Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16D5BA",
+      "FORMID": "16D5BA",
+      "EDID": "BigHornerMeat",
+      "FULL": "Carne de Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167477",
+      "FORMID": "167477",
+      "EDID": "Tremble",
+      "FULL": "Tremer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167476",
+      "FORMID": "167476",
+      "EDID": "MotherDarkness",
+      "FULL": "Mãe Escuridão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167475",
+      "FORMID": "167475",
+      "EDID": "SilverSting",
+      "FULL": "Ferrão de Prata"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673D6",
+      "FORMID": "1673D6",
+      "EDID": "ScotchGood",
+      "FULL": "Suco do Jake"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161F18",
+      "FORMID": "161F18",
+      "EDID": "NVBrahminWellington",
+      "FULL": "Wellington de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613D0",
+      "FORMID": "1613D0",
+      "EDID": "BleakVenom",
+      "FULL": "Veneno Sombrio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C5",
+      "FORMID": "1613C5",
+      "EDID": "GeckoKebab",
+      "FULL": "Gecko Kebab"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C4",
+      "FORMID": "1613C4",
+      "EDID": "MoleRatStew",
+      "FULL": "Ensopado de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C3",
+      "FORMID": "1613C3",
+      "EDID": "FireAntFricassee",
+      "FULL": "Fricassé de Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C2",
+      "FORMID": "1613C2",
+      "EDID": "DogSteak",
+      "FULL": "Bife de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C1",
+      "FORMID": "1613C1",
+      "EDID": "CoyoteSteak",
+      "FULL": "Bife de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C0",
+      "FORMID": "1613C0",
+      "EDID": "BloatflySlider",
+      "FULL": "Slider de Mosca-Bota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613BF",
+      "FORMID": "1613BF",
+      "EDID": "BrahminMeat",
+      "FULL": "Carne de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613BD",
+      "FORMID": "1613BD",
+      "EDID": "NVBitterDrink",
+      "FULL": "Bebida Amarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0E9",
+      "FORMID": "15F0E9",
+      "EDID": "BuffaloGourdSeed",
+      "FULL": "Semente de Abóbora-búfalo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0E8",
+      "FORMID": "15F0E8",
+      "EDID": "PintoBeanPod",
+      "FULL": "Vagem de Feijão Carioca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0E7",
+      "FORMID": "15F0E7",
+      "EDID": "JalapenoPepper",
+      "FULL": "Pimenta Jalapeño"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EACF",
+      "FORMID": "15EACF",
+      "EDID": "NVCannibalFood",
+      "FULL": "Restos Humanos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5CD",
+      "FORMID": "15E5CD",
+      "EDID": "CazadorEgg",
+      "FULL": "Ovo de Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5CC",
+      "FORMID": "15E5CC",
+      "EDID": "AntEgg",
+      "FULL": "Ovo de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5CB",
+      "FORMID": "15E5CB",
+      "EDID": "FireAntEgg",
+      "FULL": "Ovo de Formiga-de-Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3A5",
+      "FORMID": "15E3A5",
+      "EDID": "DesertSalad",
+      "FULL": "Salada do Deserto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3A4",
+      "FORMID": "15E3A4",
+      "EDID": "MushroomCloud",
+      "FULL": "Cogumelo Atômico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9B2",
+      "FORMID": "15D9B2",
+      "EDID": "FireAntMeat",
+      "FULL": "Carne de Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D225",
+      "FORMID": "15D225",
+      "EDID": "NightstalkerTail",
+      "FULL": "Cauda de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BD07",
+      "FORMID": "15BD07",
+      "EDID": "NVPoisonGreaseScorpionDummy",
+      "FULL": "Gordura de Veneno de Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157FFB",
+      "FORMID": "157FFB",
+      "EDID": "CoyoteMeat",
+      "FULL": "Carne de coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151F7D",
+      "FORMID": "151F7D",
+      "EDID": "GiantRatMeat",
+      "FULL": "Carne de Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C11C",
+      "FORMID": "14C11C",
+      "EDID": "NVHealingPowderLegate",
+      "FULL": "Pó de Cura do Legado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1449CA",
+      "FORMID": "1449CA",
+      "EDID": "LakeLurkEgg",
+      "FULL": "Ovo de Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FF2",
+      "FORMID": "143FF2",
+      "EDID": "IrradiatedPotato",
+      "FULL": "Batata Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FF1",
+      "FORMID": "143FF1",
+      "EDID": "IrradiatedWaterUnpurified",
+      "FULL": "Irradiated Water"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FF0",
+      "FORMID": "143FF0",
+      "EDID": "IrradiatedSugarBombs01",
+      "FULL": "Bombas de Açúcar Irradiadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FEF",
+      "FORMID": "143FEF",
+      "EDID": "IrradiatedScotch",
+      "FULL": "Uísque Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FEE",
+      "FORMID": "143FEE",
+      "EDID": "IrradiatedSalisburySteak",
+      "FULL": "Bife Salisbury Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FED",
+      "FORMID": "143FED",
+      "EDID": "IrradiatedPotatoCrisps",
+      "FULL": "Batatas Crocantes Irradiadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FEC",
+      "FORMID": "143FEC",
+      "EDID": "IrradiatedPorkNBeans",
+      "FULL": "Porco e Feijões Irradiados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FEB",
+      "FORMID": "143FEB",
+      "EDID": "IrradiatedSSBottleFull",
+      "FULL": "Sunset Sarsaparilla Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FEA",
+      "FORMID": "143FEA",
+      "EDID": "IrradiatedFancyLadsSnackCakes",
+      "FULL": "Salgadinhos Fancy Lads Irradiados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE9",
+      "FORMID": "143FE9",
+      "EDID": "IrradiatedDandyBoyApples",
+      "FULL": "Maçãs Dandy Boy Irradiadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE8",
+      "FORMID": "143FE8",
+      "EDID": "IrradiatedCram",
+      "FULL": "Cram Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE7",
+      "FORMID": "143FE7",
+      "EDID": "IrradiatedInstaMash",
+      "FULL": "Purê Instantâneo Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE6",
+      "FORMID": "143FE6",
+      "EDID": "IrradiatedBlamcoMacandCheese",
+      "FULL": "Macarrão com Queijo Blamco Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE5",
+      "FORMID": "143FE5",
+      "EDID": "IrradiatedNVFreshBarrelCactusFruit",
+      "FULL": "Irradiated Barrel Cactus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE4",
+      "FORMID": "143FE4",
+      "EDID": "IrradiatedNVFreshBananaYuccaFruit",
+      "FULL": "Irradiated Banana Yucca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE3",
+      "FORMID": "143FE3",
+      "EDID": "IrradiatedMutfruit2",
+      "FULL": "Mutafruta Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE2",
+      "FORMID": "143FE2",
+      "EDID": "IrradiatedMutfruit1",
+      "FULL": "Mutafruta Crocante Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE1",
+      "FORMID": "143FE1",
+      "EDID": "IrradiatedWhiskey",
+      "FULL": "Uísque Irradiado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FE0",
+      "FORMID": "143FE0",
+      "EDID": "IrradiatedNVGeckoMeat",
+      "FULL": "Carne de Gecko Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FDF",
+      "FORMID": "143FDF",
+      "EDID": "IrradiatedYumYumDeviledEggs",
+      "FULL": "Ovos Recheados YumYum Irradiados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FDE",
+      "FORMID": "143FDE",
+      "EDID": "IrradiatedBeer",
+      "FULL": "Cerveja Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A68",
+      "FORMID": "140A68",
+      "EDID": "NVRepairKit",
+      "FULL": "Kit de Reparos de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D60F",
+      "FORMID": "13D60F",
+      "EDID": "NVPoisonGreaseScorpion",
+      "FULL": "Veneno de Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D572",
+      "FORMID": "13D572",
+      "EDID": "TrailMix",
+      "FULL": "Mistura de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D531",
+      "FORMID": "13D531",
+      "EDID": "CaravanLunch",
+      "FULL": "Almoço de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2C3",
+      "FORMID": "13B2C3",
+      "EDID": "NVHydra",
+      "FULL": "Hidra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2BA",
+      "FORMID": "13B2BA",
+      "EDID": "BrocFlower",
+      "FULL": "Flor de Broc"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B9",
+      "FORMID": "13B2B9",
+      "EDID": "XanderRoot",
+      "FULL": "Raiz de Xander"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B4",
+      "FORMID": "13B2B4",
+      "EDID": "WhiteHorsenettleBerry",
+      "FULL": "Solanácia Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136E13",
+      "FORMID": "136E13",
+      "EDID": "LakelurkMeat",
+      "FULL": "Carne de Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135689",
+      "FORMID": "135689",
+      "EDID": "MagazineNVCritical",
+      "FULL": "Histórias Reais da Polícia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13215B",
+      "FORMID": "13215B",
+      "EDID": "NVCCBunkerRadroachMeat",
+      "FULL": "Carne de Baratarro Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12939E",
+      "FORMID": "12939E",
+      "EDID": "RatMeat",
+      "FULL": "Carne de Rato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B4A",
+      "FORMID": "122B4A",
+      "EDID": "WhiskeyDixon",
+      "FULL": "Uísque do Dixon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120D81",
+      "FORMID": "120D81",
+      "EDID": "NVTurbo",
+      "FULL": "Turbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B9AE",
+      "FORMID": "11B9AE",
+      "EDID": "NVGeckoMeat",
+      "FULL": "Carne de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A10D",
+      "FORMID": "11A10D",
+      "EDID": "VMS18StrangeMeatPie",
+      "FULL": "Torta de Carne Esquisita de Imitação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118356",
+      "FORMID": "118356",
+      "EDID": "VMS18DruggedWine",
+      "FULL": "Vinho Batizado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11702C",
+      "FORMID": "11702C",
+      "EDID": "RumNukaCola",
+      "FULL": "Rum com Nuka"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1E",
+      "FORMID": "103B1E",
+      "EDID": "SSBottleFull",
+      "FULL": "Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1865",
+      "FORMID": "0F1865",
+      "EDID": "NVContrerasMedicalSupplies",
+      "FULL": "Suprimentos Médicos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4B1",
+      "FORMID": "0EC4B1",
+      "EDID": "MagazineNVScience",
+      "FULL": "Guia do Programador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4B0",
+      "FORMID": "0EC4B0",
+      "EDID": "MagazineNVUnarmed",
+      "FULL": "Tempos do Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AF",
+      "FORMID": "0EC4AF",
+      "EDID": "MagazineNVSurvival",
+      "FULL": "Vida de Rapaz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AE",
+      "FORMID": "0EC4AE",
+      "EDID": "MagazineNVSpeech",
+      "FULL": "Conhecendo Pessoas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AD",
+      "FORMID": "0EC4AD",
+      "EDID": "MagazineNVSneak",
+      "FULL": "A Fantasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AC",
+      "FORMID": "0EC4AC",
+      "EDID": "MagazineNVGuns",
+      "FULL": "Revista Militar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AB",
+      "FORMID": "0EC4AB",
+      "EDID": "MagazineNVRepair",
+      "FULL": "Consertando Coisas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4AA",
+      "FORMID": "0EC4AA",
+      "EDID": "MagazineNVMeleeWeapons",
+      "FULL": "Contos da Cavalaria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4A9",
+      "FORMID": "0EC4A9",
+      "EDID": "MagazineNVMedicine",
+      "FULL": "O Médico de Hoje"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4A8",
+      "FORMID": "0EC4A8",
+      "EDID": "MagazineNVLockpick",
+      "FULL": "Manual do Chaveiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4A7",
+      "FORMID": "0EC4A7",
+      "EDID": "MagazineNVExplosives",
+      "FULL": "Livro de Receitas do Patriota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4A6",
+      "FORMID": "0EC4A6",
+      "EDID": "MagazineNVEnergyWeapons",
+      "FULL": "Armas do Futuro Hoje"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC4A4",
+      "FORMID": "0EC4A4",
+      "EDID": "MagazineNVBarter",
+      "FULL": "Vendedor Semanal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC01E",
+      "FORMID": "0EC01E",
+      "EDID": "PricklyPearCactusFruit",
+      "FULL": "Fruta da Pera Espinhosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC01D",
+      "FORMID": "0EC01D",
+      "EDID": "NVFreshBarrelCactusFruit",
+      "FULL": "Fruta de Cacto Barril"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC01C",
+      "FORMID": "0EC01C",
+      "EDID": "NevadaAgaveFruit",
+      "FULL": "Fruta de Agave de Nevada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACA4",
+      "FORMID": "0EACA4",
+      "EDID": "NVFreshBananaYuccaFruit",
+      "FULL": "Fruta de Iuca Banana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACA1",
+      "FORMID": "0EACA1",
+      "EDID": "NVFreshHoneyMesquiteFruit",
+      "FULL": "Vagem de Algaroba Doutore"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9AD1",
+      "FORMID": "0E9AD1",
+      "EDID": "NVFreshMaize",
+      "FULL": "Milho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F6D",
+      "FORMID": "0E2F6D",
+      "EDID": "NVNukaColaQuartz",
+      "FULL": "Nuka-Cola Quartz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F6C",
+      "FORMID": "0E2F6C",
+      "EDID": "NVNukaColaVictory",
+      "FULL": "Nuka-Cola Victory"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F6A",
+      "FORMID": "0E2F6A",
+      "EDID": "NVAtomicCocktail",
+      "FULL": "Coquetel Atômico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F69",
+      "FORMID": "0E2F69",
+      "EDID": "NVSporePlantPods",
+      "FULL": "Tampinhas de Esporos de Planta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F68",
+      "FORMID": "0E2F68",
+      "EDID": "WastelandOmeletNV",
+      "FULL": "Omelete do Deserto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F67",
+      "FORMID": "0E2F67",
+      "EDID": "NVPinyonNuts",
+      "FULL": "Pinhões"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F65",
+      "FORMID": "0E2F65",
+      "EDID": "NVGeckoSteak",
+      "FULL": "Bife de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F64",
+      "FORMID": "0E2F64",
+      "EDID": "NVGrilledMantis",
+      "FULL": "Louva-a-Deus Grelhado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C6F",
+      "FORMID": "0E2C6F",
+      "EDID": "NVAntivenom",
+      "FULL": "Antídoto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CED8C",
+      "FORMID": "0CED8C",
+      "EDID": "NVSteadyChem",
+      "FULL": "Steady"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEA5F",
+      "FORMID": "0CEA5F",
+      "EDID": "NVReboundChem",
+      "FULL": "Rebound"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEF2",
+      "FORMID": "0CCEF2",
+      "EDID": "NVSuperStimpak",
+      "FULL": "Superestimulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5A9",
+      "FORMID": "0CB5A9",
+      "EDID": "NVFixer",
+      "FULL": "drogado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB05C",
+      "FORMID": "0CB05C",
+      "EDID": "NVDoctorBag",
+      "FULL": "Maleta de Médico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABD17",
+      "FORMID": "0ABD17",
+      "EDID": "MoleRatWonderMeat",
+      "FULL": "Carne Maravilhosa de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A29D6",
+      "FORMID": "0A29D6",
+      "EDID": "PrimmSpicyCasserole",
+      "FULL": "Casserole da Ruby"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09C957",
+      "FORMID": "09C957",
+      "EDID": "RadroachMeat",
+      "FULL": "Carne de Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:095F48",
+      "FORMID": "095F48",
+      "EDID": "MS05NukalurkMeat",
+      "FULL": "Carne de Nukalurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C564",
+      "FORMID": "08C564",
+      "EDID": "RadioactiveGumDrops",
+      "FULL": "Jujubas Radioativas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C562",
+      "FORMID": "08C562",
+      "EDID": "PotatoCrisps",
+      "FULL": "Batatas Crocantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C560",
+      "FORMID": "08C560",
+      "EDID": "Bubblegum",
+      "FULL": "Chicletes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C55E",
+      "FORMID": "08C55E",
+      "EDID": "PorkNBeans",
+      "FULL": "Porco e Feijões"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C55C",
+      "FORMID": "08C55C",
+      "EDID": "YumYumDeviledEggs",
+      "FULL": "Ovos Recheados YumYum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C55A",
+      "FORMID": "08C55A",
+      "EDID": "FancyLadsSnackCakes",
+      "FULL": "Bolinhos Fancy Lads"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C558",
+      "FORMID": "08C558",
+      "EDID": "InstaMash",
+      "FULL": "Purê Instantâneo InstaMash"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C556",
+      "FORMID": "08C556",
+      "EDID": "BlamcoMacandCheese",
+      "FULL": "Macarrão com Queijo Blamco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C554",
+      "FORMID": "08C554",
+      "EDID": "DandyBoyApples",
+      "FULL": "Maçãs Dandy Boy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C552",
+      "FORMID": "08C552",
+      "EDID": "Cram",
+      "FULL": "Cram Clássico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C551",
+      "FORMID": "08C551",
+      "EDID": "SugarBombs01",
+      "FULL": "Bombas de Açúcar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:085ABB",
+      "FORMID": "085ABB",
+      "EDID": "MS04FireAntNectar",
+      "FULL": "Néctar de Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA1B",
+      "FORMID": "07EA1B",
+      "EDID": "NVCateye",
+      "FULL": "Olho de Gato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E173",
+      "FORMID": "07E173",
+      "EDID": "StrangeMeatPie",
+      "FULL": "Torta de Carne Esquisita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C10D",
+      "FORMID": "07C10D",
+      "EDID": "BloatflyMeat",
+      "FULL": "Carne de Mosca-vermelha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:065175",
+      "FORMID": "065175",
+      "EDID": "MirelurkMeatHatchling",
+      "FULL": "Carne de Mirelurk Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0552CE",
+      "FORMID": "0552CE",
+      "EDID": "MirelurkMeatSoftshell",
+      "FULL": "Carne de Mirelurk de Casca Mole"
+    },
+    {
+      "FORM": "@FalloutNV.esm:049076",
+      "FORMID": "049076",
+      "EDID": "MS05FinNukaPie",
+      "FULL": "Torta Quântica do Mississippi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:043E94",
+      "FORMID": "043E94",
+      "EDID": "StealthBoy",
+      "FULL": "Stealth Boy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03C345",
+      "FORMID": "03C345",
+      "EDID": "AntMeat",
+      "FULL": "Carne de formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038E0C",
+      "FORMID": "038E0C",
+      "EDID": "CaveFungus",
+      "FULL": "Fungo da Caverna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034051",
+      "FORMID": "034051",
+      "EDID": "BloodPack",
+      "FULL": "Bolsa de Sangue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034050",
+      "FORMID": "034050",
+      "EDID": "DogMeat",
+      "FULL": "Carne de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03404F",
+      "FORMID": "03404F",
+      "EDID": "HumanFlesh",
+      "FULL": "Carne Humana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03404E",
+      "FORMID": "03404E",
+      "EDID": "MirelurkMeat",
+      "FULL": "Carne de Mirelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03404C",
+      "FORMID": "03404C",
+      "EDID": "MoleRatMeat",
+      "FULL": "Carne de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03404B",
+      "FORMID": "03404B",
+      "EDID": "YaoGuaiMeat",
+      "FULL": "Carne de Yao Guai"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03404A",
+      "FORMID": "03404A",
+      "EDID": "Wine",
+      "FULL": "Vinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034049",
+      "FORMID": "034049",
+      "EDID": "Mutfruit2",
+      "FULL": "Mutafruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03359C",
+      "FORMID": "03359C",
+      "EDID": "JunkFood",
+      "FULL": "Comida Industrializada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032C75",
+      "FORMID": "032C75",
+      "EDID": "Whiskey",
+      "FULL": "Uísque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032C74",
+      "FORMID": "032C74",
+      "EDID": "Vodka",
+      "FULL": "Vodka"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03194A",
+      "FORMID": "03194A",
+      "EDID": "SquirrelStew",
+      "FULL": "Ensopado de Esquilo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031949",
+      "FORMID": "031949",
+      "EDID": "SquirrelOnAStick",
+      "FULL": "Esquilo no Espeto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031948",
+      "FORMID": "031948",
+      "EDID": "SquirrelBits",
+      "FULL": "Pedaços Crocantes de Esquilo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030A23",
+      "FORMID": "030A23",
+      "EDID": "CG02Sweetroll",
+      "FULL": "Bolinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E376",
+      "FORMID": "02E376",
+      "EDID": "StrangeMeat",
+      "FULL": "Carne Estranha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0293A9",
+      "FORMID": "0293A9",
+      "EDID": "SalisburySteak",
+      "FULL": "Bife Salisbury"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0284F9",
+      "FORMID": "0284F9",
+      "EDID": "MS05NukaColaQtm",
+      "FULL": "Nuka-Cola Quantum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151A4",
+      "FORMID": "0151A4",
+      "EDID": "WaterUnpurified",
+      "FULL": "Dirty Water"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151A3",
+      "FORMID": "0151A3",
+      "EDID": "WaterPurified",
+      "FULL": "Purified Water"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151A1",
+      "FORMID": "0151A1",
+      "EDID": "Scotch",
+      "FULL": "Uísque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151A0",
+      "FORMID": "0151A0",
+      "EDID": "Potato",
+      "FULL": "Batata Fresca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01519F",
+      "FORMID": "01519F",
+      "EDID": "Pear",
+      "FULL": "Pera Fresca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01519D",
+      "FORMID": "01519D",
+      "EDID": "Noodles",
+      "FULL": "Macarrão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01519C",
+      "FORMID": "01519C",
+      "EDID": "Mutfruit1",
+      "FULL": "Mutafruta Crocante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01519B",
+      "FORMID": "01519B",
+      "EDID": "IguanaOnAStick",
+      "FULL": "Iguana no Palito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01519A",
+      "FORMID": "01519A",
+      "EDID": "IguanaBits",
+      "FULL": "Pedaços de Iguana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015199",
+      "FORMID": "015199",
+      "EDID": "Carrot",
+      "FULL": "Cenoura Fresca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015198",
+      "FORMID": "015198",
+      "EDID": "BrahminSteak",
+      "FULL": "Bife de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015197",
+      "FORMID": "015197",
+      "EDID": "Beer",
+      "FULL": "Cerveja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015196",
+      "FORMID": "015196",
+      "EDID": "Apple",
+      "FULL": "Maçã Fresca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015169",
+      "FORMID": "015169",
+      "EDID": "Stimpak",
+      "FULL": "Stimpak"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015168",
+      "FORMID": "015168",
+      "EDID": "RadX",
+      "FULL": "Rad-X"
+    }
+  ]
+}

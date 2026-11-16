@@ -1,0 +1,53 @@
+{
+  "PERK": [
+    {
+      "FORM": "@PointLookout.esm:011097",
+      "FORMID": "011097",
+      "EDID": "DLC04PungaPoweralt02",
+      "FULL": "Poder Punga!",
+      "DESC": "Eis o poder Punga! Ao colher plantas Punga, você receberá mais frutas."
+    },
+    {
+      "FORM": "@PointLookout.esm:011096",
+      "FORMID": "011096",
+      "EDID": "DLC04PungaPoweralt01",
+      "FULL": "Poder Punga!",
+      "DESC": "Eis o poder do Punga! Os efeitos restauradores da fruta Punga agora têm um efeito maior sobre você."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FE",
+      "FORMID": "00D1FE",
+      "EDID": "DLC04FF06GhoulEcology",
+      "FULL": "Ecologia Ghoul",
+      "DESC": "Você aprendeu especificamente a aproveitar os pontos fracos dos ghouls, e ganha +5 de bônus de dano ao atacar um."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FC2E",
+      "FORMID": "00FC2E",
+      "EDID": "DLC04MirelurkEcology",
+      "FULL": "Ecologia Mirelurk",
+      "DESC": "Depois de horas de estudo, você finalmente aprendeu a aproveitar as fraquezas dos mirelurks, e ganha +5 de bônus de dano ao atacar um."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FD",
+      "FORMID": "00D1FD",
+      "EDID": "DLC04GrayMatters",
+      "FULL": "Matéria Cinza",
+      "DESC": "Proteja o que é importante.  Com a perk Matéria Cinza você recebe menos 25% de dano quando atingido na cabeça."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FB",
+      "FORMID": "00D1FB",
+      "EDID": "DLC04SwingForTheFences",
+      "FULL": "Rebater com Tudo",
+      "DESC": "Com a Rebater com Tudo você recebe 10 pontos de dano adicionais quando uma arma de uma ou duas mãos estiver equipada."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FA",
+      "FORMID": "00D1FA",
+      "EDID": "DLC04SuperiorDefender",
+      "FULL": "Defesa Superior",
+      "DESC": "Com a Defesa Superior, o jogador recebe +5 de dano e +10 de armadura enquanto estiver parado."
+    }
+  ]
+}

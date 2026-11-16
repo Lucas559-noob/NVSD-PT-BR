@@ -1,0 +1,412 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@PointLookout.esm:00426E",
+      "FORMID": "00426E",
+      "EDID": "DLC04PungaPlantRefined02",
+      "FULL": "Planta de Punga"
+    },
+    {
+      "FORM": "@PointLookout.esm:00426D",
+      "FORMID": "00426D",
+      "EDID": "DLC04PungaPlantRefined01",
+      "FULL": "Planta de Punga"
+    },
+    {
+      "FORM": "@PointLookout.esm:00426A",
+      "FORMID": "00426A",
+      "EDID": "DLC04PungaPlant02",
+      "FULL": "Planta de Punga"
+    },
+    {
+      "FORM": "@PointLookout.esm:004269",
+      "FORMID": "004269",
+      "EDID": "DLC04PungaPlant01",
+      "FULL": "Punga Silvestre"
+    },
+    {
+      "FORM": "@PointLookout.esm:0041FE",
+      "FORMID": "0041FE",
+      "EDID": "DLC04FerrisWheelControlPanel",
+      "FULL": "Controles da Roda Gigante"
+    },
+    {
+      "FORM": "@PointLookout.esm:003FE4",
+      "FORMID": "003FE4",
+      "EDID": "DLC04FF03Still",
+      "FULL": "Alambique de Bebida"
+    },
+    {
+      "FORM": "@PointLookout.esm:003631",
+      "FORMID": "003631",
+      "EDID": "DLC04MQ02LDSeq01Spawn03TableTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00360B",
+      "FORMID": "00360B",
+      "EDID": "DLC04MQ02LDSeq01Spawn05Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0035FD",
+      "FORMID": "0035FD",
+      "EDID": "DLC04MQ02LDSeq01Spawn04Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0035F9",
+      "FORMID": "0035F9",
+      "EDID": "DLC04MQ02LDSeq01Spawn03MakeRag",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0035D7",
+      "FORMID": "0035D7",
+      "EDID": "DLC04ManStage01Start01b",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0035D3",
+      "FORMID": "0035D3",
+      "EDID": "DLC04ManStage01Start01a",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0035B8",
+      "FORMID": "0035B8",
+      "EDID": "DLC04ManStage01Start02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00359E",
+      "FORMID": "00359E",
+      "EDID": "DLC04ManMasterTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:003149",
+      "FORMID": "003149",
+      "EDID": "DLC04FF02Altar",
+      "FULL": "Púlpito Cerimonial"
+    },
+    {
+      "FORM": "@PointLookout.esm:012D9F",
+      "FORMID": "012D9F",
+      "EDID": "DLC04ManKillWingTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:012CBF",
+      "FORMID": "012CBF",
+      "EDID": "DLC04ManBaseFloorHoleSoundTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:011CA5",
+      "FORMID": "011CA5",
+      "EDID": "DLC04BogMusicStartTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:011C9A",
+      "FORMID": "011C9A",
+      "EDID": "DLC04LighthouseSwitch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ACB",
+      "FORMID": "010ACB",
+      "EDID": "DLC04MonumentPlaque",
+      "FULL": "Placa Inscrita"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B7BC",
+      "FORMID": "00B7BC",
+      "EDID": "DLC04MQ02LDSeq02Spawn01Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B785",
+      "FORMID": "00B785",
+      "EDID": "DLC04ManBaseFloorHoleTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B76A",
+      "FORMID": "00B76A",
+      "EDID": "DLC04Man1stFloorHoleSwapTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:0105EB",
+      "FORMID": "0105EB",
+      "EDID": "DLC04FF05RadiationVent",
+      "FULL": "Duto de Ventilação"
+    },
+    {
+      "FORM": "@PointLookout.esm:0105E1",
+      "FORMID": "0105E1",
+      "EDID": "DLC04FF05FuseBox",
+      "FULL": "Caixa de Circuito"
+    },
+    {
+      "FORM": "@PointLookout.esm:01030F",
+      "FORMID": "01030F",
+      "EDID": "DLC04FerrisWheelWheel",
+      "FULL": "Roda Gigante"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B766",
+      "FORMID": "00B766",
+      "EDID": "DLC04Man2ndFloorHoleSwapTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B72F",
+      "FORMID": "00B72F",
+      "EDID": "DLC04ManBlock01KillTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B5ED",
+      "FORMID": "00B5ED",
+      "EDID": "DLC04LookoutDuchessTravelActivator",
+      "FULL": "Berço de Passageiros"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AD52",
+      "FORMID": "00AD52",
+      "EDID": "DLC04LabTrapComputer",
+      "FULL": "Terminal de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F9C7",
+      "FORMID": "00F9C7",
+      "EDID": "DLC04ElectricalSwitchBoatTest",
+      "FULL": "Teste de Barco"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A86C",
+      "FORMID": "00A86C",
+      "EDID": "DLC04SeaCaveTrigger02REF",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00664D",
+      "FORMID": "00664D",
+      "EDID": "DLC04PortaShelter01",
+      "FULL": "Refúgio de Pulowski"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED92",
+      "FORMID": "00ED92",
+      "EDID": "DLC04FF04KennyBearActivator",
+      "FULL": "Ursinho Kenny"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED2E",
+      "FORMID": "00ED2E",
+      "EDID": "DLC04BogBobbleEND",
+      "FULL": "Bobblehead - Resistência"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED2A",
+      "FORMID": "00ED2A",
+      "EDID": "DLC04BogBobbleSTR",
+      "FULL": "Bobblehead - Força"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED26",
+      "FORMID": "00ED26",
+      "EDID": "DLC04BogBobbleLCK",
+      "FULL": "Bobblehead - Sorte"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED1C",
+      "FORMID": "00ED1C",
+      "EDID": "DLC04BeachLooseSand",
+      "FULL": "Pilha de areia"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A276",
+      "FORMID": "00A276",
+      "EDID": "DLC04MQ04Compactor",
+      "FULL": "Compactador de Lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:009547",
+      "FORMID": "009547",
+      "EDID": "DLC04SeaCaveDummyTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E437",
+      "FORMID": "00E437",
+      "EDID": "DLC04PungaLight01",
+      "FULL": "Experimento Punga"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E272",
+      "FORMID": "00E272",
+      "EDID": "DLC04BogBobbleINT",
+      "FULL": "Bobblehead - Inteligência"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1FC",
+      "FORMID": "00E1FC",
+      "EDID": "DLC04BrainJarPlayerActivator",
+      "FULL": "Pedaço de Cérebro Familiar"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E00E",
+      "FORMID": "00E00E",
+      "EDID": "DLC04muckLauncher",
+      "FULL": "TESTE!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DD3C",
+      "FORMID": "00DD3C",
+      "EDID": "DLC04LighthouseLightMech01",
+      "FULL": "Mecanismo do Farol"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DCF9",
+      "FORMID": "00DCF9",
+      "EDID": "DLC04EastSwitch",
+      "FULL": "Leste"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DCF8",
+      "FORMID": "00DCF8",
+      "EDID": "DLC04SouthSwitch",
+      "FULL": "Sul"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D972",
+      "FORMID": "00D972",
+      "EDID": "DLC04FF05SafetyDepositBoxDoor",
+      "FULL": "Caixa de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D701",
+      "FORMID": "00D701",
+      "EDID": "DLC04CrematorySwitch",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D5DA",
+      "FORMID": "00D5DA",
+      "EDID": "DLC04LabRoundRoomBypassTerminalOLD",
+      "FULL": "Terminal de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D5D9",
+      "FORMID": "00D5D9",
+      "EDID": "DLC04LabRoundRoomPrimaryTerminalOLD",
+      "FULL": "Terminal de Laboratório primário"
+    },
+    {
+      "FORM": "@PointLookout.esm:00845B",
+      "FORMID": "00845B",
+      "EDID": "DLC04CapitalDuchessTravelActivator",
+      "FULL": "Cama dos Passageiros"
+    },
+    {
+      "FORM": "@PointLookout.esm:008330",
+      "FORMID": "008330",
+      "EDID": "DLC04BrainTriggerBox",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:008329",
+      "FORMID": "008329",
+      "EDID": "DLC04MQ05DoorTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:00732C",
+      "FORMID": "00732C",
+      "EDID": "DLC04FF05aviaryButton",
+      "FULL": "Painel Escondido"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D3B2",
+      "FORMID": "00D3B2",
+      "EDID": "DLC04TrapPitchingMachine",
+      "FULL": "Máquina de Arremesso"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D21D",
+      "FORMID": "00D21D",
+      "EDID": "DLC04MorgueDrawerSkeletonNoJaw",
+      "FULL": "Gaveta de Necrotério"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D21C",
+      "FORMID": "00D21C",
+      "EDID": "DLC04MorgueDrawerSkeleton",
+      "FULL": "Gaveta de Necrotério"
+    },
+    {
+      "FORM": "@PointLookout.esm:007030",
+      "FORMID": "007030",
+      "EDID": "DLC04PungaSeedPod",
+      "FULL": "Sementes Punga"
+    },
+    {
+      "FORM": "@PointLookout.esm:006BF5",
+      "FORMID": "006BF5",
+      "EDID": "DLC04BrainPowerBox01",
+      "FULL": "Conexão"
+    },
+    {
+      "FORM": "@PointLookout.esm:006AB2",
+      "FORMID": "006AB2",
+      "EDID": "DLC04FF05SelfDestructSwitch",
+      "FULL": "Interruptor de Autodestruição"
+    },
+    {
+      "FORM": "@PointLookout.esm:006AB1",
+      "FORMID": "006AB1",
+      "EDID": "DLC04FF05WantedPosterACTIVATOR",
+      "FULL": "Procura-se; Pessoa de Interesse"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C5EF",
+      "FORMID": "00C5EF",
+      "EDID": "DLC04FF05ExplosionDummy",
+      "FULL": "Explosão Falsa Object"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C5C5",
+      "FORMID": "00C5C5",
+      "EDID": "DLC04FF05NukeExplosionDummy",
+      "FULL": "Explosão Falsa Object"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C08A",
+      "FORMID": "00C08A",
+      "EDID": "DLC04BogBobblePER",
+      "FULL": "Bobblehead - Percepção"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C07B",
+      "FORMID": "00C07B",
+      "EDID": "DLC04BogBobbleCHA",
+      "FULL": "Bobblehead - Carisma"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C079",
+      "FORMID": "00C079",
+      "EDID": "DLC04BogBobbleAGI",
+      "FULL": "Bobblehead - Agilidade"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B852",
+      "FORMID": "00B852",
+      "EDID": "DLC04MQ05DoorTrigger01",
+      "FULL": "Válvula de Gás"
+    }
+  ]
+}

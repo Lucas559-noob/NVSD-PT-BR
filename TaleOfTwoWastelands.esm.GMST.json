@@ -1,0 +1,559 @@
+{
+  "GMST": [
+    {
+      "FORMID": "0093FC",
+      "EDID": "fCombatSpeakPowerAttackChance",
+      "DATA": "100.000000"
+    },
+    {
+      "FORMID": "0093F7",
+      "EDID": "fSubmergedLODDistance",
+      "DATA": "7000.000000"
+    },
+    {
+      "FORMID": "009265",
+      "EDID": "fVATSGrenadeTargetMelee",
+      "DATA": "0.750000"
+    },
+    {
+      "FORMID": "009264",
+      "EDID": "iLevelsPerPerk",
+      "DATA": "1"
+    },
+    {
+      "FORMID": "0090EA",
+      "EDID": "sKarmicTitleNeutral30",
+      "DATA": "Paradigma da Humanidade"
+    },
+    {
+      "FORMID": "0090E9",
+      "EDID": "sKarmicTitleNeutral29",
+      "DATA": "Ápice da Sobrevivência"
+    },
+    {
+      "FORMID": "0090E8",
+      "EDID": "sKarmicTitleNeutral28",
+      "DATA": "Ápice da Sobrevivência"
+    },
+    {
+      "FORMID": "0090E7",
+      "EDID": "sKarmicTitleNeutral27",
+      "DATA": "Mito Urbano"
+    },
+    {
+      "FORMID": "0090E6",
+      "EDID": "sKarmicTitleNeutral26",
+      "DATA": "Mito Urbano"
+    },
+    {
+      "FORMID": "0090E5",
+      "EDID": "sKarmicTitleNeutral25",
+      "DATA": "Guardião"
+    },
+    {
+      "FORMID": "0090E4",
+      "EDID": "sKarmicTitleNeutral24",
+      "DATA": "Guardião"
+    },
+    {
+      "FORMID": "0090E3",
+      "EDID": "sKarmicTitleNeutral23",
+      "DATA": "Conselheiro"
+    },
+    {
+      "FORMID": "0090E2",
+      "EDID": "sKarmicTitleNeutral22",
+      "DATA": "Conselheiro"
+    },
+    {
+      "FORMID": "0090E1",
+      "EDID": "sKarmicTitleNeutral21",
+      "DATA": "Observador"
+    },
+    {
+      "FORMID": "0090E0",
+      "EDID": "sKarmicTitleNeutral20",
+      "DATA": "Observador"
+    },
+    {
+      "FORMID": "0090DF",
+      "EDID": "sKarmicTitleNeutral19",
+      "DATA": "Catador"
+    },
+    {
+      "FORMID": "0090DE",
+      "EDID": "sKarmicTitleNeutral18",
+      "DATA": "Catador"
+    },
+    {
+      "FORMID": "0090DD",
+      "EDID": "sKarmicTitleNeutral17",
+      "DATA": "Mercenário"
+    },
+    {
+      "FORMID": "0090DC",
+      "EDID": "sKarmicTitleNeutral16",
+      "DATA": "Mercenário"
+    },
+    {
+      "FORMID": "0090DB",
+      "EDID": "sKarmicTitleNeutral15",
+      "DATA": "Vagabundo dos Ermos"
+    },
+    {
+      "FORMID": "0090DA",
+      "EDID": "sKarmicTitleNeutral14",
+      "DATA": "Vagabundo dos Ermos"
+    },
+    {
+      "FORMID": "0090D9",
+      "EDID": "sKarmicTitleNeutral13",
+      "DATA": "Aventureiro"
+    },
+    {
+      "FORMID": "0090D8",
+      "EDID": "sKarmicTitleNeutral12",
+      "DATA": "Aventureiro"
+    },
+    {
+      "FORMID": "0090D7",
+      "EDID": "sKarmicTitleNeutral11",
+      "DATA": "Cidadão"
+    },
+    {
+      "FORMID": "0090D6",
+      "EDID": "sKarmicTitleNeutral10",
+      "DATA": "Cidadão"
+    },
+    {
+      "FORMID": "0090D5",
+      "EDID": "sKarmicTitleNeutral09",
+      "DATA": "Andarilho"
+    },
+    {
+      "FORMID": "0090D4",
+      "EDID": "sKarmicTitleNeutral08",
+      "DATA": "Andarilho"
+    },
+    {
+      "FORMID": "0090D3",
+      "EDID": "sKarmicTitleNeutral07",
+      "DATA": "Buscador"
+    },
+    {
+      "FORMID": "0090D2",
+      "EDID": "sKarmicTitleNeutral06",
+      "DATA": "Buscador"
+    },
+    {
+      "FORMID": "0090D1",
+      "EDID": "sKarmicTitleNeutral05",
+      "DATA": "Renegado"
+    },
+    {
+      "FORMID": "0090D0",
+      "EDID": "sKarmicTitleNeutral04",
+      "DATA": "Renegado"
+    },
+    {
+      "FORMID": "0090CF",
+      "EDID": "sKarmicTitleNeutral03",
+      "DATA": "Vagante"
+    },
+    {
+      "FORMID": "0090CE",
+      "EDID": "sKarmicTitleNeutral02",
+      "DATA": "Vagante"
+    },
+    {
+      "FORMID": "0090CD",
+      "EDID": "sKarmicTitleNeutral01",
+      "DATA": "Morador"
+    },
+    {
+      "FORMID": "0090CC",
+      "EDID": "sKarmicTitleGood30",
+      "DATA": "Embaixador da Paz"
+    },
+    {
+      "FORMID": "0090CB",
+      "EDID": "sKarmicTitleGood29",
+      "DATA": "Escudo da Esperança"
+    },
+    {
+      "FORMID": "0090CA",
+      "EDID": "sKarmicTitleGood28",
+      "DATA": "Escudo da Esperança"
+    },
+    {
+      "FORMID": "0090C9",
+      "EDID": "sKarmicTitleGood27",
+      "DATA": "Lenda Urbana"
+    },
+    {
+      "FORMID": "0090C8",
+      "EDID": "sKarmicTitleGood26",
+      "DATA": "Lenda Urbana"
+    },
+    {
+      "FORMID": "0090C7",
+      "EDID": "sKarmicTitleGood25",
+      "DATA": "Paladino"
+    },
+    {
+      "FORMID": "0090C6",
+      "EDID": "sKarmicTitleGood24",
+      "DATA": "Paladino"
+    },
+    {
+      "FORMID": "0090C5",
+      "EDID": "sKarmicTitleGood23",
+      "DATA": "Cruzado"
+    },
+    {
+      "FORMID": "0090C4",
+      "EDID": "sKarmicTitleGood22",
+      "DATA": "Cruzado"
+    },
+    {
+      "FORMID": "0090C3",
+      "EDID": "sKarmicTitleGood21",
+      "DATA": "Exemplar"
+    },
+    {
+      "FORMID": "0090C2",
+      "EDID": "sKarmicTitleGood20",
+      "DATA": "Exemplar"
+    },
+    {
+      "FORMID": "0090C1",
+      "EDID": "sKarmicTitleGood19",
+      "DATA": "Vingador"
+    },
+    {
+      "FORMID": "0090C0",
+      "EDID": "sKarmicTitleGood18",
+      "DATA": "Vingador"
+    },
+    {
+      "FORMID": "0090BF",
+      "EDID": "sKarmicTitleGood17",
+      "DATA": "Protetor"
+    },
+    {
+      "FORMID": "0090BE",
+      "EDID": "sKarmicTitleGood16",
+      "DATA": "Protetor"
+    },
+    {
+      "FORMID": "0090BD",
+      "EDID": "sKarmicTitleGood15",
+      "DATA": "Patrulheiro dos Ermos"
+    },
+    {
+      "FORMID": "0090BC",
+      "EDID": "sKarmicTitleGood14",
+      "DATA": "Patrulheiro dos Ermos"
+    },
+    {
+      "FORMID": "0090BB",
+      "EDID": "sKarmicTitleGood13",
+      "DATA": "Pacificador"
+    },
+    {
+      "FORMID": "0090BA",
+      "EDID": "sKarmicTitleGood12",
+      "DATA": "Pacificador"
+    },
+    {
+      "FORMID": "0090B9",
+      "EDID": "sKarmicTitleGood11",
+      "DATA": "Dignitário"
+    },
+    {
+      "FORMID": "0090B8",
+      "EDID": "sKarmicTitleGood10",
+      "DATA": "Dignitário"
+    },
+    {
+      "FORMID": "0090B7",
+      "EDID": "sKarmicTitleGood09",
+      "DATA": "Defensor"
+    },
+    {
+      "FORMID": "0090B6",
+      "EDID": "sKarmicTitleGood08",
+      "DATA": "Defensor"
+    },
+    {
+      "FORMID": "0090B5",
+      "EDID": "sKarmicTitleGood07",
+      "DATA": "Sentinela"
+    },
+    {
+      "FORMID": "0090B4",
+      "EDID": "sKarmicTitleGood06",
+      "DATA": "Sentinela"
+    },
+    {
+      "FORMID": "0090B3",
+      "EDID": "sKarmicTitleGood05",
+      "DATA": "Mártir"
+    },
+    {
+      "FORMID": "0090B2",
+      "EDID": "sKarmicTitleGood04",
+      "DATA": "Mártir"
+    },
+    {
+      "FORMID": "0090B1",
+      "EDID": "sKarmicTitleGood03",
+      "DATA": "Samaritano"
+    },
+    {
+      "FORMID": "0090B0",
+      "EDID": "sKarmicTitleGood02",
+      "DATA": "Samaritano"
+    },
+    {
+      "FORMID": "0090AF",
+      "EDID": "sKarmicTitleGood01",
+      "DATA": "Consular"
+    },
+    {
+      "FORMID": "0090AE",
+      "EDID": "sKarmicTitleEvil30",
+      "DATA": "Arauto da Guerra"
+    },
+    {
+      "FORMID": "0090AD",
+      "EDID": "sKarmicTitleEvil29",
+      "DATA": "Espada do Desespero"
+    },
+    {
+      "FORMID": "0090AC",
+      "EDID": "sKarmicTitleEvil28",
+      "DATA": "Espada do Desespero"
+    },
+    {
+      "FORMID": "0090AB",
+      "EDID": "sKarmicTitleEvil27",
+      "DATA": "Bicho-papão Urbano"
+    },
+    {
+      "FORMID": "0090AA",
+      "EDID": "sKarmicTitleEvil26",
+      "DATA": "Superstição Urbana"
+    },
+    {
+      "FORMID": "0090A9",
+      "EDID": "sKarmicTitleEvil25",
+      "DATA": "Profanador"
+    },
+    {
+      "FORMID": "0090A8",
+      "EDID": "sKarmicTitleEvil24",
+      "DATA": "Profanador"
+    },
+    {
+      "FORMID": "0090A7",
+      "EDID": "sKarmicTitleEvil23",
+      "DATA": "Senhor do Crime"
+    },
+    {
+      "FORMID": "0090A6",
+      "EDID": "sKarmicTitleEvil22",
+      "DATA": "Senhor do Crime"
+    },
+    {
+      "FORMID": "0090A5",
+      "EDID": "sKarmicTitleEvil21",
+      "DATA": "Pessoa Inútil"
+    },
+    {
+      "FORMID": "0090A4",
+      "EDID": "sKarmicTitleEvil20",
+      "DATA": "Pessoa Inútil"
+    },
+    {
+      "FORMID": "0090A3",
+      "EDID": "sKarmicTitleEvil19",
+      "DATA": "Predador"
+    },
+    {
+      "FORMID": "0090A2",
+      "EDID": "sKarmicTitleEvil18",
+      "DATA": "Terror"
+    },
+    {
+      "FORMID": "0090A1",
+      "EDID": "sKarmicTitleEvil17",
+      "DATA": "Invasor"
+    },
+    {
+      "FORMID": "0090A0",
+      "EDID": "sKarmicTitleEvil16",
+      "DATA": "Traidor"
+    },
+    {
+      "FORMID": "00909F",
+      "EDID": "sKarmicTitleEvil15",
+      "DATA": "Pirata dos Ermos"
+    },
+    {
+      "FORMID": "00909E",
+      "EDID": "sKarmicTitleEvil14",
+      "DATA": "Pirata dos Ermos"
+    },
+    {
+      "FORMID": "00909D",
+      "EDID": "sKarmicTitleEvil13",
+      "DATA": "Pilhador"
+    },
+    {
+      "FORMID": "00909C",
+      "EDID": "sKarmicTitleEvil12",
+      "DATA": "Pilhador"
+    },
+    {
+      "FORMID": "00909B",
+      "EDID": "sKarmicTitleEvil11",
+      "DATA": "Peixe Grande"
+    },
+    {
+      "FORMID": "00909A",
+      "EDID": "sKarmicTitleEvil10",
+      "DATA": "Peixe Grande"
+    },
+    {
+      "FORMID": "009099",
+      "EDID": "sKarmicTitleEvil09",
+      "DATA": "Saqueador"
+    },
+    {
+      "FORMID": "009098",
+      "EDID": "sKarmicTitleEvil08",
+      "DATA": "Saqueador"
+    },
+    {
+      "FORMID": "009097",
+      "EDID": "sKarmicTitleEvil07",
+      "DATA": "Oportunista"
+    },
+    {
+      "FORMID": "009096",
+      "EDID": "sKarmicTitleEvil06",
+      "DATA": "Oportunista"
+    },
+    {
+      "FORMID": "009095",
+      "EDID": "sKarmicTitleEvil05",
+      "DATA": "Fora da Lei"
+    },
+    {
+      "FORMID": "009094",
+      "EDID": "sKarmicTitleEvil04",
+      "DATA": "Fora da Lei"
+    },
+    {
+      "FORMID": "009093",
+      "EDID": "sKarmicTitleEvil03",
+      "DATA": "Trambiqueiro"
+    },
+    {
+      "FORMID": "009092",
+      "EDID": "sKarmicTitleEvil02",
+      "DATA": "Trambiqueiro"
+    },
+    {
+      "FORMID": "009091",
+      "EDID": "sKarmicTitleEvil01",
+      "DATA": "Delinquente"
+    },
+    {
+      "FORMID": "0086C6",
+      "EDID": "fCombatSpeakTauntChance",
+      "DATA": "100.000000"
+    },
+    {
+      "FORMID": "008581",
+      "EDID": "sEnterName",
+      "DATA": "Qual o seu nome?"
+    },
+    {
+      "FORMID": "007C64",
+      "EDID": "fKarmaModKillingVeryEvilActor",
+      "DATA": "200.000000"
+    },
+    {
+      "FORMID": "00107B",
+      "EDID": "iMaxCharacterLevel",
+      "DATA": "60"
+    },
+    {
+      "FORMID": "00E21F",
+      "EDID": "iMapMarkerVisibleDistance",
+      "DATA": "20000"
+    },
+    {
+      "FORMID": "1377FF",
+      "EDID": "fBookPerkBonus",
+      "DATA": "1.000000"
+    },
+    {
+      "FORMID": "116897",
+      "EDID": "sDefaultPlayerName",
+      "DATA": "Mensageiro"
+    },
+    {
+      "FORMID": "0CA013",
+      "EDID": "fVATSDamageToWeaponMult",
+      "DATA": "5.000000"
+    },
+    {
+      "FORMID": "0734F5",
+      "EDID": "fVATSRangeSpreadMax",
+      "DATA": "3.000000"
+    },
+    {
+      "FORMID": "06DE1C",
+      "EDID": "fCombatTeammateFollowRadiusMult",
+      "DATA": "3.000000"
+    },
+    {
+      "FORMID": "0603A8",
+      "EDID": "iLevelUpSkillPointsBase",
+      "DATA": "8"
+    },
+    {
+      "FORMID": "0513F7",
+      "EDID": "fVATSSpreadMult",
+      "DATA": "0.500000"
+    },
+    {
+      "FORMID": "02FDA7",
+      "EDID": "fVATSRangeSpreadUncertainty",
+      "DATA": "0.700000"
+    },
+    {
+      "FORMID": "02BED3",
+      "EDID": "fVATSPlayerDamageMult",
+      "DATA": "0.100000"
+    },
+    {
+      "FORMID": "015652",
+      "EDID": "fCombatSpeakHitThreshold",
+      "DATA": "100.000000"
+    },
+    {
+      "FORMID": "015651",
+      "EDID": "fCombatSpeakHitChance",
+      "DATA": "100.000000"
+    },
+    {
+      "FORMID": "01505B",
+      "EDID": "fCombatSpeakAttackChance",
+      "DATA": "100.000000"
+    }
+  ]
+}

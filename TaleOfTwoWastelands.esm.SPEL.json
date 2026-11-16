@@ -1,0 +1,388 @@
+{
+  "SPEL": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01F4D2",
+      "FORMID": "01F4D2",
+      "EDID": "TTWAER14DisintegrationFXSpell",
+      "FULL": "Disintegration"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185E9",
+      "FORMID": "0185E9",
+      "EDID": "TTWChallengeTasteofDeathAbility",
+      "FULL": "Gosto da Morte"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185E8",
+      "FORMID": "0185E8",
+      "EDID": "TTWChallengeTasteofLifeAbility",
+      "FULL": "Gosto da Vida"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0160FA",
+      "FORMID": "0160FA",
+      "EDID": "TTWPlasmaPurpleEffect",
+      "FULL": "Gooification"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00929C",
+      "FORMID": "00929C",
+      "EDID": "RobobrainDTDC",
+      "FULL": "DRDC do Robocérebro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00929B",
+      "FORMID": "00929B",
+      "EDID": "TurretDT",
+      "FULL": "DR da Torreta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00929A",
+      "FORMID": "00929A",
+      "EDID": "SentryBotDTDC",
+      "FULL": "DRDC do Robô Sentinela"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009253",
+      "FORMID": "009253",
+      "EDID": "TTWBobbleCharisma",
+      "FULL": "Aumento de Resistência a Dano do Companheiro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00910B",
+      "FORMID": "00910B",
+      "EDID": "RadscorpionDTDC",
+      "FULL": "DRDC do Escorpião Radioativo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0090FE",
+      "FORMID": "0090FE",
+      "EDID": "SuperMutantDCDT",
+      "FULL": "DRDC do Super Mutante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00908A",
+      "FORMID": "00908A",
+      "EDID": "TTWFollowerButchAbilityFollower",
+      "FULL": "Tunnel Snakes Dominam"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D7F",
+      "FORMID": "008D7F",
+      "EDID": "NVDLC05DragonsBreathPyroActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D7E",
+      "FORMID": "008D7E",
+      "EDID": "FlamerPyroActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D7C",
+      "FORMID": "008D7C",
+      "EDID": "NVDLC04EnchRedGlareRocketIncendiaryPyroActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D7B",
+      "FORMID": "008D7B",
+      "EDID": "IncendiaryGrenadePyroActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D79",
+      "FORMID": "008D79",
+      "EDID": "NVDLC04EnchRedGlareRocketIncendiaryActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D78",
+      "FORMID": "008D78",
+      "EDID": "IncendiaryGrenadeActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D6D",
+      "FORMID": "008D6D",
+      "EDID": "FrostImmunity",
+      "FULL": "Imune a Gelo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D57",
+      "FORMID": "008D57",
+      "EDID": "MrGutsyDTDC",
+      "FULL": "DRDC do Sr. Corajoso"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D04",
+      "FORMID": "008D04",
+      "EDID": "CryolatorCritEffect",
+      "FULL": "Explosão Congelante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE0",
+      "FORMID": "008CE0",
+      "EDID": "TTWBobbleEndurance",
+      "FULL": "Aumento de Resistência a Dano"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CDF",
+      "FORMID": "008CDF",
+      "EDID": "TTWBobbleStrength",
+      "FULL": "Strength Boost"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008375",
+      "FORMID": "008375",
+      "EDID": "DLC05GuardianDroneDT",
+      "FULL": "DR do Drone Guardião"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008374",
+      "FORMID": "008374",
+      "EDID": "DLC05SupportDroneDT",
+      "FULL": "DR do Drone de Suporte"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008309",
+      "FORMID": "008309",
+      "EDID": "YaoGuaiDT",
+      "FULL": "DR do Yao Guai"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E98",
+      "FORMID": "007E98",
+      "EDID": "TTWFollowerRL3Ability",
+      "FULL": "Drill Sergeant"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E96",
+      "FORMID": "007E96",
+      "EDID": "TTWFollowerCrossAbility",
+      "FULL": "Segunda Pele"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E95",
+      "FORMID": "007E95",
+      "EDID": "TTWFollowerButchAbility",
+      "FULL": "Tunnel Snakes Dominam"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E94",
+      "FORMID": "007E94",
+      "EDID": "TTWFollowerCharonAbility",
+      "FULL": "O Contrato"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E93",
+      "FORMID": "007E93",
+      "EDID": "TTWFollowerCloverAbility",
+      "FULL": "Ficar com Sorte"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004B8C",
+      "FORMID": "004B8C",
+      "EDID": "BehemothDT",
+      "FULL": "DR do Behemoth"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004B8B",
+      "FORMID": "004B8B",
+      "EDID": "MirelurkDT",
+      "FULL": "DR do Mirelurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001242",
+      "FORMID": "001242",
+      "EDID": "FirelanceDisintegrationFXSpell",
+      "FULL": "Desintegração por Explosão Incandescente da Firelance"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:000DBC",
+      "FORMID": "000DBC",
+      "EDID": "FlamerBlueCritEffect02",
+      "FULL": "Explosão Azul Incandescente"
+    },
+    {
+      "FORM": "@Zeta.esm:00C697",
+      "FORMID": "00C697",
+      "EDID": "DLC05AsmBossSpell",
+      "FULL": "Supressão inércia"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1F9",
+      "FORMID": "00D1F9",
+      "EDID": "DLC04PerkSuperiorDefender",
+      "FULL": "Defesa Superior"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B400",
+      "FORMID": "00B400",
+      "EDID": "DLC03TidalBasinWaterEffect",
+      "FULL": "Água da Bacia das Marés"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000ABE",
+      "FORMID": "000ABE",
+      "EDID": "NVDLC05DragonsBreathActorEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D067",
+      "FORMID": "00D067",
+      "EDID": "NVDLC04TourniquetEffect",
+      "FULL": "Efeito de Torniquete"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C432",
+      "FORMID": "00C432",
+      "EDID": "NVDLC04BroadDaylightPerkEffect",
+      "FULL": "Em Plena Luz do Dia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC7",
+      "FORMID": "015BC7",
+      "EDID": "NVDLC03MadScienceWeapAE",
+      "FULL": "Ataque da Ciência Maluca!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C570",
+      "FORMID": "15C570",
+      "EDID": "PerkCompanionSuite",
+      "FULL": "Suíte de Companheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DE70",
+      "FORMID": "13DE70",
+      "EDID": "BigHornerKnockback",
+      "FULL": "Repulsão do BigHorner"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FAB12",
+      "FORMID": "0FAB12",
+      "EDID": "WithdrawalTobacco",
+      "FULL": "Abstinência de Tabaco Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB40E",
+      "FORMID": "0EB40E",
+      "EDID": "DeathClawKnockback",
+      "FULL": "Repulsão de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29CF",
+      "FORMID": "0E29CF",
+      "EDID": "DLC03ShockHammerEffect",
+      "FULL": "Chocado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C9CF5",
+      "FORMID": "0C9CF5",
+      "EDID": "MS09WithdrawalUltrajet",
+      "FULL": "Abstinência de Ultrajet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C34D1",
+      "FORMID": "0C34D1",
+      "EDID": "MS01Lucky8BallAbility",
+      "FULL": "Boa sorte."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC3",
+      "FORMID": "094EC3",
+      "EDID": "PerkKamikaze",
+      "FULL": "Kamikaze"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07D4F2",
+      "FORMID": "07D4F2",
+      "EDID": "RL3Survive",
+      "FULL": "RL3 Sobreviva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B201",
+      "FORMID": "07B201",
+      "EDID": "PerkNinja",
+      "FULL": "Ninja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:079A3A",
+      "FORMID": "079A3A",
+      "EDID": "MQ08FawkesDT",
+      "FULL": "Limiar de Dano do Fawkes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F592",
+      "FORMID": "06F592",
+      "EDID": "MS03PerkRCBargain",
+      "FULL": "Melhores Preços em Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06698C",
+      "FORMID": "06698C",
+      "EDID": "WithdrawalAlcohol",
+      "FULL": "Abstinência Alcoólica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0617BE",
+      "FORMID": "0617BE",
+      "EDID": "GhoulRadHeal",
+      "FULL": "Cura por Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060C12",
+      "FORMID": "060C12",
+      "EDID": "FlamerNormalEffect",
+      "FULL": "Queimando"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA3",
+      "FORMID": "044CA3",
+      "EDID": "PerkImpartialMediation",
+      "FULL": "Mediação Imparcial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033063",
+      "FORMID": "033063",
+      "EDID": "WithdrawalMentats",
+      "FULL": "Abstinência de Mentats"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032DEE",
+      "FORMID": "032DEE",
+      "EDID": "Radiation200",
+      "FULL": "Intoxicação Leve por Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA2",
+      "FORMID": "031DA2",
+      "EDID": "PerkIronFist3",
+      "FULL": "Punho de Ferro (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA1",
+      "FORMID": "031DA1",
+      "EDID": "PerkIronFist2",
+      "FULL": "Punho de Ferro (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA0",
+      "FORMID": "031DA0",
+      "EDID": "PerkIronFist1",
+      "FULL": "Punho de Ferro (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D8D",
+      "FORMID": "031D8D",
+      "EDID": "PerkCyborg",
+      "FULL": "Cyborg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02AE29",
+      "FORMID": "02AE29",
+      "EDID": "WithdrawalMorphine",
+      "FULL": "Abstinência de Med-X"
+    }
+  ]
+}

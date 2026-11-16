@@ -1,0 +1,4666 @@
+{
+  "CELL": [
+    {
+      "FORM": "@PointLookout.esm:008853",
+      "FORMID": "008853",
+      "EDID": "DLC04Mine03",
+      "FULL": "Poço de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EDF",
+      "FORMID": "002EDF",
+      "EDID": "DLC04surveyHole01",
+      "FULL": "Fossa de Resíduos Escavada"
+    },
+    {
+      "FORM": "@Fallout3.esm:06FD0F",
+      "FORMID": "06FD0F",
+      "EDID": "zDCWorld03B",
+      "FULL": "Esgoto Afundado"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F33",
+      "FORMID": "017F33",
+      "EDID": "Tenpenny02",
+      "FULL": "Suites Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:016D9F",
+      "FORMID": "016D9F",
+      "EDID": "MarigoldStation01",
+      "FULL": "Estação Marigold"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A33",
+      "FORMID": "003A33",
+      "EDID": "MegatonBillyCreelsHouse",
+      "FULL": "Casa de Billy Creel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151E3",
+      "FORMID": "0151E3",
+      "EDID": "MegatonPlayerHouse",
+      "FULL": "Casa Vazia"
+    },
+    {
+      "FORM": "@Zeta.esm:000F95",
+      "FORMID": "000F95",
+      "EDID": "DLC05Hangar",
+      "FULL": "Hangar"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AC1",
+      "FORMID": "010AC1",
+      "EDID": "DLC04PanicRoom",
+      "FULL": "Sala de Emergência"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B8AA5",
+      "FORMID": "0B8AA5",
+      "EDID": "MinefieldInterior02",
+      "FULL": "Casa de Gillian"
+    },
+    {
+      "FORM": "@Fallout3.esm:02798D",
+      "FORMID": "02798D",
+      "EDID": "zDCint09a",
+      "FULL": "Abrigo Subterrâneo"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A29",
+      "FORMID": "003A29",
+      "EDID": "MegatonLucasSimmsHouse",
+      "FULL": "Casa de Lucas Simms"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003D49",
+      "FORMID": "003D49",
+      "EDID": "NVDLC03X8Cave",
+      "FULL": "Instalações Residenciais de Teste X-8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1591D5",
+      "FORMID": "1591D5",
+      "EDID": "SLRemnantsBunkerINT",
+      "FULL": "Bunker dos Remanescentes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153159",
+      "FORMID": "153159",
+      "EDID": "SLGoodspringsCaveINT",
+      "FULL": "Caverna de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133FB1",
+      "FORMID": "133FB1",
+      "EDID": "HooverDamIntIntakeTower01",
+      "FULL": "Torre de Captação 01 da Represa Hoover"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C7B",
+      "FORMID": "004C7B",
+      "EDID": "DLC03GhoulHideout",
+      "FULL": "Museu Authority"
+    },
+    {
+      "FORM": "@Fallout3.esm:06A8FF",
+      "FORMID": "06A8FF",
+      "EDID": "TaftTunnel02",
+      "FULL": "Túnel Taft"
+    },
+    {
+      "FORM": "@Fallout3.esm:0572D7",
+      "FORMID": "0572D7",
+      "EDID": "zToxicDump02",
+      "FULL": "Oficina"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D743",
+      "FORMID": "02D743",
+      "EDID": "zPS04Interior",
+      "FULL": "Subestação Elétrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:0035D3",
+      "FORMID": "0035D3",
+      "EDID": "zcChevyToVernon",
+      "FULL": "Junção do metrô"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10FDEB",
+      "FORMID": "10FDEB",
+      "EDID": "2EOVault21",
+      "FULL": "Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E03B",
+      "FORMID": "10E03B",
+      "EDID": "FreesideKingsHouse",
+      "FULL": "Escola de Imitação do King"
+    },
+    {
+      "FORM": "@PointLookout.esm:002881",
+      "FORMID": "002881",
+      "EDID": "DLC04Mansion01",
+      "FULL": "Mansão Calvert"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C25A5",
+      "FORMID": "0C25A5",
+      "EDID": "ShackTownInterior01",
+      "FULL": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE889",
+      "FORMID": "0FE889",
+      "EDID": "1EHostetlerHome",
+      "FULL": "Casa dos Hostetler"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:014027",
+      "FORMID": "014027",
+      "EDID": "TTWUnStnGrandHall",
+      "FULL": "Grande Salão da Union Station"
+    },
+    {
+      "FORM": "@PointLookout.esm:012C3B",
+      "FORMID": "012C3B",
+      "EDID": "DLC04zTestDar",
+      "FULL": "Cabine do Gambito da Duquesa"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F8AB",
+      "FORMID": "00F8AB",
+      "EDID": "DLC04BlackhallManor02",
+      "FULL": "Porão"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D6AF",
+      "FORMID": "00D6AF",
+      "EDID": "DLC04CampMorgue",
+      "FULL": "Necrotério"
+    },
+    {
+      "FORM": "@PointLookout.esm:008123",
+      "FORMID": "008123",
+      "EDID": "DLC04Mine01",
+      "FULL": "Mina Herzog"
+    },
+    {
+      "FORM": "@Fallout3.esm:04DD8B",
+      "FORMID": "04DD8B",
+      "EDID": "zDCint05a",
+      "FULL": "Fábrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:015157",
+      "FORMID": "015157",
+      "EDID": "CitadelLab",
+      "FULL": "Cidadela - Laboratório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DD63",
+      "FORMID": "13DD63",
+      "EDID": "CampGuardianCaves",
+      "FULL": "Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244CB",
+      "FORMID": "1244CB",
+      "EDID": "NelsonHouse02",
+      "FULL": "Casa Nelson"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005559",
+      "FORMID": "005559",
+      "EDID": "DLC03Vertibird02",
+      "FULL": "Interior do Vertibird"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D445",
+      "FORMID": "03D445",
+      "EDID": "FortIndependence01",
+      "FULL": "Fortaleza da Independência"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D0E5",
+      "FORMID": "02D0E5",
+      "EDID": "FortC04",
+      "FULL": "Armazém de Bombas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244A9",
+      "FORMID": "0244A9",
+      "EDID": "TLDithersHouse",
+      "FULL": "Residência de Dithers"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A28D",
+      "FORMID": "01A28D",
+      "EDID": "OurLadyHope04",
+      "FULL": "Esgoto seco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED511",
+      "FORMID": "0ED511",
+      "EDID": "Vault3b",
+      "FULL": "Vault 3 - Aposentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D0D5",
+      "FORMID": "08D0D5",
+      "EDID": "NCRPrisonVisitorsCenter",
+      "FULL": "Centro de Visitantes"
+    },
+    {
+      "FORM": "@Zeta.esm:002FCF",
+      "FORMID": "002FCF",
+      "EDID": "DLC05ExLab01",
+      "FULL": "Plataforma da Observação"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0095C3",
+      "FORMID": "0095C3",
+      "EDID": "DLC03zCitadelPit",
+      "FULL": "Arsenal da Cidadela"
+    },
+    {
+      "FORM": "@Fallout3.esm:05AA8B",
+      "FORMID": "05AA8B",
+      "EDID": "GrayditchAbandoned01",
+      "FULL": "Casa Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:03CADB",
+      "FORMID": "03CADB",
+      "EDID": "zFFWastelandEncounter08",
+      "FULL": "Posto Avançado"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A283",
+      "FORMID": "01A283",
+      "EDID": "MetroCenter08",
+      "FULL": "Estação Anacostia"
+    },
+    {
+      "FORM": "@Fallout3.esm:018537",
+      "FORMID": "018537",
+      "EDID": "Vault87c",
+      "FULL": "Câmara do Reator"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F5B",
+      "FORMID": "017F5B",
+      "EDID": "ArlingtonLibrary01",
+      "FULL": "Biblio. Arlington, ala pública"
+    },
+    {
+      "FORM": "@Fallout3.esm:0170E7",
+      "FORMID": "0170E7",
+      "EDID": "Tenpenny03Player",
+      "FULL": "Torre Tenpenny - Apart. Vazio"
+    },
+    {
+      "FORM": "@Fallout3.esm:004357",
+      "FORMID": "004357",
+      "EDID": "MegatonCommonHouse",
+      "FULL": "Abrigo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01507B",
+      "FORMID": "01507B",
+      "EDID": "NVDLC03SLBloatFlyCave",
+      "FULL": "Caverna Misteriosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146607",
+      "FORMID": "146607",
+      "EDID": "CampSearchlightHiddenCave",
+      "FULL": "Caverna de Suprimentos Oculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13216B",
+      "FORMID": "13216B",
+      "EDID": "HooverDamIntODeckStairs",
+      "FULL": "Escadas de Emergência da Represa Hoover"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E31",
+      "FORMID": "001E31",
+      "EDID": "TTWTrainStationCW",
+      "FULL": "Terminal da Union Station"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0035A1",
+      "FORMID": "0035A1",
+      "EDID": "DLC03Powerworks01",
+      "FULL": "Usina de Olney"
+    },
+    {
+      "FORM": "@ThePitt.esm:006355",
+      "FORMID": "006355",
+      "EDID": "DLC01PowerPlant",
+      "FULL": "Subsolo"
+    },
+    {
+      "FORM": "@Fallout3.esm:099E9D",
+      "FORMID": "099E9D",
+      "EDID": "Vault101bMS16",
+      "FULL": "Vault 101 Átrio/Nível superior"
+    },
+    {
+      "FORM": "@Fallout3.esm:04363D",
+      "FORMID": "04363D",
+      "EDID": "zPS08Interior",
+      "FULL": "Estação de Energia"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A279",
+      "FORMID": "01A279",
+      "EDID": "GNR02",
+      "FULL": "Rádio Galaxy Studios"
+    },
+    {
+      "FORM": "@Fallout3.esm:01852D",
+      "FORMID": "01852D",
+      "EDID": "Vault108a",
+      "FULL": "Vault 108 - Entrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F51",
+      "FORMID": "017F51",
+      "EDID": "DunwichBuilding02",
+      "FULL": "Ruínas Abandonadas de Dunwich"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154829",
+      "FORMID": "154829",
+      "EDID": "SLCavernFireRootINT",
+      "FULL": "Caverna Raiz de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A285",
+      "FORMID": "09A285",
+      "EDID": "PrimmGenericHouse01",
+      "FULL": "Casa de Primm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E27",
+      "FORMID": "001E27",
+      "EDID": "TTWTrainCar01",
+      "FULL": "Vagão de Passageiros"
+    },
+    {
+      "FORM": "@Fallout3.esm:076DA3",
+      "FORMID": "076DA3",
+      "EDID": "zDCint08b",
+      "FULL": "Zona de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:04550F",
+      "FORMID": "04550F",
+      "EDID": "LLGrandChamber",
+      "FULL": "A Grande Câmara"
+    },
+    {
+      "FORM": "@Fallout3.esm:036F5F",
+      "FORMID": "036F5F",
+      "EDID": "CanterburyUncleRoesHouse",
+      "FULL": "Casa do \"Tio\" Ernest Roe"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A26F",
+      "FORMID": "01A26F",
+      "EDID": "GNR01",
+      "FULL": "Rádio de Notícias Galaxy"
+    },
+    {
+      "FORM": "@Fallout3.esm:018523",
+      "FORMID": "018523",
+      "EDID": "NtnlArchives01",
+      "FULL": "Arquivo Nacional"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F47",
+      "FORMID": "017F47",
+      "EDID": "AnchorageWM03",
+      "FULL": "O Memorial, Entrada de Serviço"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00792B",
+      "FORMID": "00792B",
+      "EDID": "NVDLC04DivideSLSewers",
+      "FULL": "Esgotos Municipais"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BB93",
+      "FORMID": "00BB93",
+      "EDID": "NVDLC02ZionSCaveW",
+      "FULL": "Caverna da Glória da Manhã"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B523",
+      "FORMID": "12B523",
+      "EDID": "3CBSCave1",
+      "FULL": "Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5F5F",
+      "FORMID": "0E5F5F",
+      "EDID": "Vault11a",
+      "FULL": "Vault 11"
+    },
+    {
+      "FORM": "@Fallout3.esm:07CEDD",
+      "FORMID": "07CEDD",
+      "EDID": "MuseumTech02NEW",
+      "FULL": "Museu da Tecnologia, Ala Oeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:04E1A5",
+      "FORMID": "04E1A5",
+      "EDID": "FFRaiderCamp05Int",
+      "FULL": "Subestação elétrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:02EE09",
+      "FORMID": "02EE09",
+      "EDID": "TUSimoneHouse",
+      "FULL": "Casa da Simone"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F3D",
+      "FORMID": "017F3D",
+      "EDID": "RooseveltHS01",
+      "FULL": "Escola Roosevelt"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009CAD",
+      "FORMID": "009CAD",
+      "EDID": "NVDLC04SLArmory01",
+      "FULL": "Arsenal de Hopeville"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1185F9",
+      "FORMID": "1185F9",
+      "EDID": "ULRooms",
+      "FULL": "Quartos do Hotel Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1024D9",
+      "FORMID": "1024D9",
+      "EDID": "NellisTunnel",
+      "FULL": "Túnel Ferroviário"
+    },
+    {
+      "FORM": "@Fallout3.esm:074EB2",
+      "FORMID": "074EB2",
+      "EDID": "MuseumAmericanEntrance",
+      "FULL": "Entrada do Museu de História"
+    },
+    {
+      "FORM": "@Fallout3.esm:05559E",
+      "FORMID": "05559E",
+      "EDID": "zPowerStationInterior01",
+      "FULL": "Central Elétrica Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D72",
+      "FORMID": "024D72",
+      "EDID": "PFallsBarracks",
+      "FULL": "Barracões de escravistas"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A32",
+      "FORMID": "003A32",
+      "EDID": "MegatonNathanandManyasHouse",
+      "FULL": "Casa de Nathan e Manya"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144126",
+      "FORMID": "144126",
+      "EDID": "HooverDamIntPowerPlant02",
+      "FULL": "Usina de Energia da Represa Hoover 02"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA72",
+      "FORMID": "10DA72",
+      "EDID": "Gomorrah02",
+      "FULL": "Gomorrah 3º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103F5E",
+      "FORMID": "103F5E",
+      "EDID": "RatCaveINT",
+      "FULL": "Caverna da Flor de Brócolis"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AC0",
+      "FORMID": "010AC0",
+      "EDID": "DLC04zzWarehouse",
+      "FULL": "Depósito"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E798",
+      "FORMID": "00E798",
+      "EDID": "DLC04CampOffices",
+      "FULL": "Administração"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C568C",
+      "FORMID": "0C568C",
+      "EDID": "SatComArray03Interior02",
+      "FULL": "Satélite de Comunicação NN-03d-B"
+    },
+    {
+      "FORM": "@Fallout3.esm:029034",
+      "FORMID": "029034",
+      "EDID": "EverGreenMillsBazaar",
+      "FULL": "Feira de Evergreen Mills"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FC8C",
+      "FORMID": "01FC8C",
+      "EDID": "FFRadioCache03",
+      "FULL": "Câmara de Drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BA88",
+      "FORMID": "01BA88",
+      "EDID": "ShacktownInterior08",
+      "FULL": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A28",
+      "FORMID": "003A28",
+      "EDID": "MegatonWomensRestroom",
+      "FULL": "Banheiro para Mulheres"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003D48",
+      "FORMID": "003D48",
+      "EDID": "NVDLC03X8Tunnel",
+      "FULL": "Instalações de Teste X-8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153928",
+      "FORMID": "153928",
+      "EDID": "SLAbandonedShack01INT",
+      "FULL": "Cabana do Bradley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126F7C",
+      "FORMID": "126F7C",
+      "EDID": "FreesideVanGraffWarehouse",
+      "FULL": "Armazém Abandonado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10F23C",
+      "FORMID": "10F23C",
+      "EDID": "Lucky38SuiteFloor22",
+      "FULL": "Suíte do 22º Andar do Lucky 38"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60D0",
+      "FORMID": "0E60D0",
+      "EDID": "BlackMountainTreasure",
+      "FULL": "Prédio de Depósito"
+    },
+    {
+      "FORM": "@Fallout3.esm:06530E",
+      "FORMID": "06530E",
+      "EDID": "zGeorgetownGrocer",
+      "FULL": "Merceeiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:033372",
+      "FORMID": "033372",
+      "EDID": "zDCint11a",
+      "FULL": "Casa familiar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DAE",
+      "FORMID": "006DAE",
+      "EDID": "NVDLC03SLVillageKleinINT",
+      "FULL": "#101"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C25A4",
+      "FORMID": "0C25A4",
+      "EDID": "ShackTownInterior02",
+      "FULL": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DCB0",
+      "FORMID": "02DCB0",
+      "EDID": "FFRadioCache07",
+      "FULL": "Câmara de drenagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140418",
+      "FORMID": "140418",
+      "EDID": "CampSearchlightFireStation02",
+      "FULL": "Quartel dos Bombeiros de Searchlight"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:014026",
+      "FORMID": "014026",
+      "EDID": "TTWColumbusCircleToMall",
+      "FULL": "Metrô da Praça Judiciary"
+    },
+    {
+      "FORM": "@PointLookout.esm:008122",
+      "FORMID": "008122",
+      "EDID": "DLC04Mine02",
+      "FULL": "Refeitório da Mina"
+    },
+    {
+      "FORM": "@Fallout3.esm:0508E6",
+      "FORMID": "0508E6",
+      "EDID": "AnchorageWM02",
+      "FULL": "Memorial Anchorage"
+    },
+    {
+      "FORM": "@Fallout3.esm:04DD8A",
+      "FORMID": "04DD8A",
+      "EDID": "zDCint05b",
+      "FULL": "Concessionária"
+    },
+    {
+      "FORM": "@Fallout3.esm:020F92",
+      "FORMID": "020F92",
+      "EDID": "LLSouvenirShop",
+      "FULL": "Shopping de Souveniers"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0038DE",
+      "FORMID": "0038DE",
+      "EDID": "NVDLC01Suites",
+      "FULL": "Suítes Executivas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1671EE",
+      "FORMID": "1671EE",
+      "EDID": "2CCampGolfDiningTent",
+      "FULL": "Tenda de Refeições do Acampamento Golf"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244CA",
+      "FORMID": "1244CA",
+      "EDID": "NelsonHouse03",
+      "FULL": "Casa Nelson"
+    },
+    {
+      "FORM": "@Zeta.esm:009C70",
+      "FORMID": "009C70",
+      "EDID": "DLC05TestJeffB02",
+      "FULL": "Compartimento de Carga"
+    },
+    {
+      "FORM": "@Fallout3.esm:067488",
+      "FORMID": "067488",
+      "EDID": "RCLowerDeckFore",
+      "FULL": "Proa Destruída"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D444",
+      "FORMID": "03D444",
+      "EDID": "FortIndependence02",
+      "FULL": "Nível Inf. Fort. Independência"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D0E4",
+      "FORMID": "02D0E4",
+      "EDID": "FortC03",
+      "FULL": "Bunker de Controle de Lançamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:02AFB0",
+      "FORMID": "02AFB0",
+      "EDID": "UnderworldCarolsPlace",
+      "FULL": "Pousada da Carol"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244A8",
+      "FORMID": "0244A8",
+      "EDID": "TLSimpsonHouse",
+      "FULL": "Residência de Simpson"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A28C",
+      "FORMID": "01A28C",
+      "EDID": "MetroCenter01",
+      "FULL": "Estação Central do Metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F64",
+      "FORMID": "017F64",
+      "EDID": "RobcoFactory01",
+      "FULL": "Andar da Fábrica RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133880",
+      "FORMID": "133880",
+      "EDID": "HooverDamIntCheckPoint",
+      "FULL": "Posto de Controle da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AAFC",
+      "FORMID": "10AAFC",
+      "EDID": "GSShackVictorInt",
+      "FULL": "Barraco do Victor"
+    },
+    {
+      "FORM": "@Zeta.esm:00428E",
+      "FORMID": "00428E",
+      "EDID": "DLC05SpaceBridge01",
+      "FULL": "Câmara de Descompressão"
+    },
+    {
+      "FORM": "@Zeta.esm:002FCE",
+      "FORMID": "002FCE",
+      "EDID": "DLC05Bridge",
+      "FULL": "A Ponte"
+    },
+    {
+      "FORM": "@ThePitt.esm:0080AA",
+      "FORMID": "0080AA",
+      "EDID": "DLC01SupplyPlant",
+      "FULL": "Usina de Alimentação"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9BA2",
+      "FORMID": "0B9BA2",
+      "EDID": "MinefieldInterior03",
+      "FULL": "Casa de Benson"
+    },
+    {
+      "FORM": "@Fallout3.esm:098736",
+      "FORMID": "098736",
+      "EDID": "FFRaiderCamp03Silo",
+      "FULL": "Silo de Grãos"
+    },
+    {
+      "FORM": "@Fallout3.esm:05AA8A",
+      "FORMID": "05AA8A",
+      "EDID": "GrayditchAbandoned02",
+      "FULL": "Casa Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:022D92",
+      "FORMID": "022D92",
+      "EDID": "zDCint17b",
+      "FULL": "Edifício de escritórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:018536",
+      "FORMID": "018536",
+      "EDID": "Vault106c",
+      "FULL": "Laboratórios do Vault 106"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F5A",
+      "FORMID": "017F5A",
+      "EDID": "ArlingtonLibrary02",
+      "FULL": "Biblio. Arlington, ala infantil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6486",
+      "FORMID": "0E6486",
+      "EDID": "QJOffice",
+      "FULL": "Escritório de Mineração"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D516",
+      "FORMID": "08D516",
+      "EDID": "NCRPrisonAdministration",
+      "FULL": "Administração da CF da NCR"
+    },
+    {
+      "FORM": "@Fallout3.esm:04363C",
+      "FORMID": "04363C",
+      "EDID": "zAnnandaleTalonHQ",
+      "FULL": "Acampamento da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A278",
+      "FORMID": "01A278",
+      "EDID": "LOBEnterprises03",
+      "FULL": "L.O.B. Empresas ala Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:01852C",
+      "FORMID": "01852C",
+      "EDID": "Vault112a",
+      "FULL": "Vault 112"
+    },
+    {
+      "FORM": "@Fallout3.esm:018464",
+      "FORMID": "018464",
+      "EDID": "CliffsideCavern01",
+      "FULL": "Caverna Cliffside"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F50",
+      "FORMID": "017F50",
+      "EDID": "DunwichBuilding03",
+      "FULL": "Sala Infestada Virulenta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010124",
+      "FORMID": "010124",
+      "EDID": "NVDLC02SlideShow",
+      "FULL": "Fim de Jogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158194",
+      "FORMID": "158194",
+      "EDID": "SLSulfurCave01INT",
+      "FULL": "Caverna Nascida no Sangue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154828",
+      "FORMID": "154828",
+      "EDID": "SLSunkenBeachHouse01INT",
+      "FULL": "Casa de Praia Afundada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1385C4",
+      "FORMID": "1385C4",
+      "EDID": "NiptonHouse7Tinker",
+      "FULL": "Casa de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0841C8",
+      "FORMID": "0841C8",
+      "EDID": "RSCharlieNVDESTROYED",
+      "FULL": "Posto de Ranger Charlie"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B78CA",
+      "FORMID": "0B78CA",
+      "EDID": "MinefieldInterior04",
+      "FULL": "Casa de Zane"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BC9A",
+      "FORMID": "01BC9A",
+      "EDID": "TepidSewer01",
+      "FULL": "Esgoto Tépido"
+    },
+    {
+      "FORM": "@Fallout3.esm:018522",
+      "FORMID": "018522",
+      "EDID": "NtnlArchives02",
+      "FULL": "Sub-Depósito de Arquivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F46",
+      "FORMID": "017F46",
+      "EDID": "NukaColaPlant01",
+      "FULL": "Fábrica da Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:003B72",
+      "FORMID": "003B72",
+      "EDID": "NtnlArchives04",
+      "FULL": "Quarto-Forte do Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008EA6",
+      "FORMID": "008EA6",
+      "EDID": "NVDLC02EasternVirginAngelCave",
+      "FULL": "Caverna Angel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B522",
+      "FORMID": "12B522",
+      "EDID": "3CBSCave2",
+      "FULL": "Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F9F8",
+      "FORMID": "06F9F8",
+      "EDID": "NtlGuardDepot05",
+      "FULL": "Escritórios no Depósito"
+    },
+    {
+      "FORM": "@Fallout3.esm:02EE08",
+      "FORMID": "02EE08",
+      "EDID": "TUStoreRoom",
+      "FULL": "Despensa"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D5F4",
+      "FORMID": "01D5F4",
+      "EDID": "ArefuEwersResidence",
+      "FULL": "Residência de Ewer"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F3C",
+      "FORMID": "017F3C",
+      "EDID": "RooseveltHS02",
+      "FULL": "Túnel de Manutenção e Evacuação"
+    },
+    {
+      "FORM": "@Fallout3.esm:016DA8",
+      "FORMID": "016DA8",
+      "EDID": "JuryStStation01",
+      "FULL": "Estação da Rua Jury"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009CAC",
+      "FORMID": "009CAC",
+      "EDID": "NVDLC04SLHopeVilleWomensBarracks",
+      "FULL": "Quartel das Mulheres de Hopeville"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECEC",
+      "FORMID": "15ECEC",
+      "EDID": "OVWestSewers03d",
+      "FULL": "Câmara da Red Lucy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159954",
+      "FORMID": "159954",
+      "EDID": "FreesideAtomicWranglerRoom",
+      "FULL": "Atomic Wrangler"
+    },
+    {
+      "FORM": "@Anchorage.esm:0047DD",
+      "FORMID": "0047DD",
+      "EDID": "DLC02GlacierCave",
+      "FULL": "Posto Avançado Subterrâneo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C83E5",
+      "FORMID": "0C83E5",
+      "EDID": "zPlungerSewer",
+      "FULL": "Abrigo"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D71",
+      "FORMID": "024D71",
+      "EDID": "PFallsEulogysPad",
+      "FULL": "Cafofo de Eulogy"
+    },
+    {
+      "FORM": "@Fallout3.esm:023601",
+      "FORMID": "023601",
+      "EDID": "FFRadioCache04",
+      "FULL": "Cisterna selada"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F31",
+      "FORMID": "017F31",
+      "EDID": "VaultTecHQ01",
+      "FULL": "Ponto de Informações Vault-Tec"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A31",
+      "FORMID": "003A31",
+      "EDID": "MegatonLucyWestsHouse",
+      "FULL": "Casa de Lucy West"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144125",
+      "FORMID": "144125",
+      "EDID": "HooverDamIntPowerPlant04",
+      "FULL": "Usina Hidrelétrica de Hoover 04"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA71",
+      "FORMID": "10DA71",
+      "EDID": "Gomorrah03",
+      "FULL": "Suítes Gomorra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:108BED",
+      "FORMID": "108BED",
+      "EDID": "TestMentats",
+      "FULL": "Nível de Teste de Mentats"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E797",
+      "FORMID": "00E797",
+      "EDID": "DLC04MotelRoom1K",
+      "FULL": "Quarto 1K"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CC067",
+      "FORMID": "0CC067",
+      "EDID": "zArlingtonHouse",
+      "FULL": "Casa Arlington"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C568B",
+      "FORMID": "0C568B",
+      "EDID": "SatComArray03Interior03",
+      "FULL": "Satélite de Comunicação NN-03d-C"
+    },
+    {
+      "FORM": "@Fallout3.esm:0401BB",
+      "FORMID": "0401BB",
+      "EDID": "zDCint17to21",
+      "FULL": "Industrias Potomac"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DEB7",
+      "FORMID": "02DEB7",
+      "EDID": "GrayditchWilksHome",
+      "FULL": "Casa de Wilkes"
+    },
+    {
+      "FORM": "@Fallout3.esm:0228AF",
+      "FORMID": "0228AF",
+      "EDID": "NtlGuardDepot06",
+      "FULL": "Arsenal da Guarda Nacional"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A27",
+      "FORMID": "003A27",
+      "EDID": "MegatonMensRestroom",
+      "FULL": "Banheiro para Homens"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140EB7",
+      "FORMID": "140EB7",
+      "EDID": "CampGuardianCaves2",
+      "FULL": "Caverna do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129E5B",
+      "FORMID": "129E5B",
+      "EDID": "Vault34a",
+      "FULL": "Vault 34 - 1º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12428F",
+      "FORMID": "12428F",
+      "EDID": "FortificationHillWeatherStation",
+      "FULL": "Estação de Monitoramento do Clima"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E91D",
+      "FORMID": "00E91D",
+      "EDID": "DLC04BogEntrance",
+      "FULL": "Entrada do Pântano"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BB019",
+      "FORMID": "0BB019",
+      "EDID": "zDCint08a",
+      "FULL": "Hotel"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C25A3",
+      "FORMID": "0C25A3",
+      "EDID": "ShacktownInterior03",
+      "FULL": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BC4C3",
+      "FORMID": "0BC4C3",
+      "EDID": "zcPennAveToSeward",
+      "FULL": "Estação Av Pensilvânia/Seward Sq"
+    },
+    {
+      "FORM": "@Fallout3.esm:0534AF",
+      "FORMID": "0534AF",
+      "EDID": "zWheatonArmory",
+      "FULL": "Arsenal Wheaton"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00494F",
+      "FORMID": "00494F",
+      "EDID": "NVDLC03SLCommunicationsINT",
+      "FULL": "Transmissor de Signal Hills"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154BD3",
+      "FORMID": "154BD3",
+      "EDID": "SLBlackRockCaveINT",
+      "FULL": "Caverna da Rocha Negra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:111DE7",
+      "FORMID": "111DE7",
+      "EDID": "FreesideAtomicWrangler2",
+      "FULL": "Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED19F",
+      "FORMID": "0ED19F",
+      "EDID": "NewVegasMedicalClinicInterior",
+      "FULL": "Clínica Médica de New Vegas"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:014025",
+      "FORMID": "014025",
+      "EDID": "TTWUnStnERm",
+      "FULL": "Restaurante"
+    },
+    {
+      "FORM": "@PointLookout.esm:008121",
+      "FORMID": "008121",
+      "EDID": "DLC04MotelRoom1D",
+      "FULL": "Quarto 1D"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000809",
+      "FORMID": "000809",
+      "EDID": "DLC03RelayStation02",
+      "FULL": "Estação Retransmissora"
+    },
+    {
+      "FORM": "@Fallout3.esm:082DF9",
+      "FORMID": "082DF9",
+      "EDID": "SatcomArray01bb",
+      "FULL": "Instalação do satélites"
+    },
+    {
+      "FORM": "@Fallout3.esm:051245",
+      "FORMID": "051245",
+      "EDID": "RCStairwell",
+      "FULL": "Escadaria"
+    },
+    {
+      "FORM": "@Fallout3.esm:020F91",
+      "FORMID": "020F91",
+      "EDID": "LL",
+      "FULL": "Cavernas de Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FEC5",
+      "FORMID": "01FEC5",
+      "EDID": "zLuckyGrocery",
+      "FULL": "Mercearia Lucky"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244C9",
+      "FORMID": "1244C9",
+      "EDID": "NelsonHouse04",
+      "FULL": "Casa Nelson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1911",
+      "FORMID": "0F1911",
+      "EDID": "1ECisternB",
+      "FULL": "Cisterna Sul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7845",
+      "FORMID": "0D7845",
+      "EDID": "VikkiAndVance",
+      "FULL": "O Cassino Vikki e Vance"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0011C3",
+      "FORMID": "0011C3",
+      "EDID": "DLC03EnclaveBase02",
+      "FULL": "Base da Plataforma de Lançamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D443",
+      "FORMID": "03D443",
+      "EDID": "zFairfaxMetro",
+      "FULL": "Estação Fairfax"
+    },
+    {
+      "FORM": "@Fallout3.esm:02AFAF",
+      "FORMID": "02AFAF",
+      "EDID": "Underworld9thCircle",
+      "FULL": "O Nono Círculo"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F63",
+      "FORMID": "017F63",
+      "EDID": "RobcoFactory02",
+      "FULL": "Escritório e Cafeteria"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008EC3",
+      "FORMID": "008EC3",
+      "EDID": "NVDLC03SLMedCenterINT",
+      "FULL": "Instalação Médica Y-17"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E60B",
+      "FORMID": "15E60B",
+      "EDID": "AerotechTent",
+      "FULL": "Tenda Aerotech"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F6407",
+      "FORMID": "0F6407",
+      "EDID": "CraftsmanHomesInterior01",
+      "FULL": "Modelo de Casa de Artesão 01"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B39",
+      "FORMID": "009B39",
+      "EDID": "DLC04CoastalGrotto02",
+      "FULL": "Plik Safari"
+    },
+    {
+      "FORM": "@Anchorage.esm:001411",
+      "FORMID": "001411",
+      "EDID": "DLC02CommandTent",
+      "FULL": "Tenda de Comando"
+    },
+    {
+      "FORM": "@Fallout3.esm:0705CD",
+      "FORMID": "0705CD",
+      "EDID": "zGrandmaSparkle",
+      "FULL": "Cabana da Vovó Sparkle"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A281",
+      "FORMID": "01A281",
+      "EDID": "MetroCenter06",
+      "FULL": "Área de manutenção de Arlington"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F59",
+      "FORMID": "017F59",
+      "EDID": "ArlingtonLibrary03",
+      "FULL": "Biblioteca Arlington, mídias"
+    },
+    {
+      "FORM": "@Fallout3.esm:003B85",
+      "FORMID": "003B85",
+      "EDID": "NtnlArchives03",
+      "FULL": "Ala Leste do Arquivo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008879",
+      "FORMID": "008879",
+      "EDID": "NVDLC03SLHologramINT",
+      "FULL": "Pesquisa de Dinâmica de Ondas Leves Z-38"
+    },
+    {
+      "FORM": "@Fallout3.esm:099E9B",
+      "FORMID": "099E9B",
+      "EDID": "Vault101dMS16",
+      "FULL": "Vault 101 Nível inferior"
+    },
+    {
+      "FORM": "@Fallout3.esm:04363B",
+      "FORMID": "04363B",
+      "EDID": "FortBannister02",
+      "FULL": "Abrigo da fortaleza Bannister"
+    },
+    {
+      "FORM": "@Fallout3.esm:019FBB",
+      "FORMID": "019FBB",
+      "EDID": "RCUpperDeckMid",
+      "FULL": "Deck superior"
+    },
+    {
+      "FORM": "@Fallout3.esm:01852B",
+      "FORMID": "01852B",
+      "EDID": "Vault92a",
+      "FULL": "Vault 92"
+    },
+    {
+      "FORM": "@Fallout3.esm:018463",
+      "FORMID": "018463",
+      "EDID": "DclawSanc01",
+      "FULL": "Santuário Deathclaw"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4F",
+      "FORMID": "017F4F",
+      "EDID": "StatesmanHotel01",
+      "FULL": "Hotel O Estadista"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009427",
+      "FORMID": "009427",
+      "EDID": "NVDLC02ZionLodge",
+      "FULL": "Cabana de Pesca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154827",
+      "FORMID": "154827",
+      "EDID": "SLSunkenBeachHouse02INT",
+      "FULL": "Casa de Praia Afundada"
+    },
+    {
+      "FORM": "@Fallout3.esm:022AC1",
+      "FORMID": "022AC1",
+      "EDID": "zDCint17a",
+      "FULL": "Edifício de escritórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BC99",
+      "FORMID": "01BC99",
+      "EDID": "DukovsPlace01",
+      "FULL": "Casa de Dukov"
+    },
+    {
+      "FORM": "@Fallout3.esm:018521",
+      "FORMID": "018521",
+      "EDID": "PPurity02",
+      "FULL": "Museu Jefferson e Loja de Presentes"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F45",
+      "FORMID": "017F45",
+      "EDID": "NukaColaPlant02",
+      "FULL": "Depósito e Mixagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:017E19",
+      "FORMID": "017E19",
+      "EDID": "OasisCave02",
+      "FULL": "as Cavernas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008EA5",
+      "FORMID": "008EA5",
+      "EDID": "NVDLC02EasternVirginSurvivalistCave",
+      "FULL": "Caverna da Rocha Caída"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AC65",
+      "FORMID": "13AC65",
+      "EDID": "HooverDamIntODeckStorage",
+      "FULL": "Despensa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B521",
+      "FORMID": "12B521",
+      "EDID": "3CBSCave3",
+      "FULL": "Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B77",
+      "FORMID": "007B77",
+      "EDID": "TTWPlayerHoldingCell",
+      "FULL": "Célula de Espera do Jogador do TTW"
+    },
+    {
+      "FORM": "@Fallout3.esm:0548C3",
+      "FORMID": "0548C3",
+      "EDID": "zLenfantMadameJealles",
+      "FULL": "Tenda"
+    },
+    {
+      "FORM": "@Fallout3.esm:0526C7",
+      "FORMID": "0526C7",
+      "EDID": "zWastelandSewer01",
+      "FULL": "Esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F69F",
+      "FORMID": "02F69F",
+      "EDID": "HubrisComics02",
+      "FULL": "Imprimindo os Quadrinhos Hubris"
+    },
+    {
+      "FORM": "@Fallout3.esm:02EE07",
+      "FORMID": "02EE07",
+      "EDID": "TUCalebHouse",
+      "FULL": "Casa do Caleb"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D7B",
+      "FORMID": "024D7B",
+      "EDID": "AndaleTheSmithsHouse",
+      "FULL": "A Casa de Smith"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D5F3",
+      "FORMID": "01D5F3",
+      "EDID": "ArefuKingResidence",
+      "FULL": "Casa de Evan King"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BC8F",
+      "FORMID": "01BC8F",
+      "EDID": "MetroCenter05",
+      "FULL": "DCTA Túnel Potomac 014-B"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F3B",
+      "FORMID": "017F3B",
+      "EDID": "RooseveltHS03",
+      "FULL": "Salão de Artes Roosevelt"
+    },
+    {
+      "FORM": "@Fallout3.esm:016DA7",
+      "FORMID": "016DA7",
+      "EDID": "JuryStStation02",
+      "FULL": "Túneis da Rua Jury"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009CAB",
+      "FORMID": "009CAB",
+      "EDID": "NVDLC04SLBasement",
+      "FULL": "Porão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D2BF",
+      "FORMID": "15D2BF",
+      "EDID": "OVWestSewers03c",
+      "FULL": "As Jaulas do Espinho"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC04",
+      "FORMID": "02DC04",
+      "EDID": "AndaleOldManHarrisHouse",
+      "FULL": "Casa do Velho Harris"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F30",
+      "FORMID": "017F30",
+      "EDID": "VaultTecHQ02",
+      "FULL": "Executivo Vault-Tec"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A30",
+      "FORMID": "003A30",
+      "EDID": "MegatonMisterBurkesHouse",
+      "FULL": "Casa do Senhor Burke"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D6D4",
+      "FORMID": "00D6D4",
+      "EDID": "NVDLC03X13RepconHQ03",
+      "FULL": "Laboratório de Testes Furtivos X-13"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7E48",
+      "FORMID": "0D7E48",
+      "EDID": "HELIOSOnePlant",
+      "FULL": "Usina de Energia HELIOS One"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E796",
+      "FORMID": "00E796",
+      "EDID": "DLC04MotelRoom1G",
+      "FULL": "Quarto 1G"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DEB6",
+      "FORMID": "02DEB6",
+      "EDID": "GrayditchBrandiceHome",
+      "FULL": "Casa de Brandice"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12428E",
+      "FORMID": "12428E",
+      "EDID": "SecuritronVault",
+      "FULL": "Cofre de Securitrons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC3A2",
+      "FORMID": "0EC3A2",
+      "EDID": "Vault3a",
+      "FULL": "Vault 3 - Recreation Area"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8202",
+      "FORMID": "0E8202",
+      "EDID": "EDSubstation",
+      "FULL": "Subestação de Energia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DAC",
+      "FORMID": "006DAC",
+      "EDID": "NVDLC03SLVillage8INT",
+      "FULL": "Você é um belo de um caso, sabia?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1597A4",
+      "FORMID": "1597A4",
+      "EDID": "VDONOTDELETE",
+      "FULL": "Cela para \"Criaturas do Vazio\" Mortas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134580",
+      "FORMID": "134580",
+      "EDID": "3CBoatRentals",
+      "FULL": "Aluguel de Barcos Capitão Dean"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5A84",
+      "FORMID": "0E5A84",
+      "EDID": "RepconHQ01",
+      "FULL": "Escritório da REPCONN - Andar Principal"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C25A2",
+      "FORMID": "0C25A2",
+      "EDID": "ShacktownInterior04",
+      "FULL": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BC4C2",
+      "FORMID": "0BC4C2",
+      "EDID": "zcArlingtonToFalls",
+      "FULL": "Metrô Arlington/Estação da Igreja"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB546",
+      "FORMID": "0AB546",
+      "EDID": "CanterburyGarage",
+      "FULL": "Casa de Dominic e Machete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1592EA",
+      "FORMID": "1592EA",
+      "EDID": "SafehouseLegionINT",
+      "FULL": "Refúgio da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F18B6",
+      "FORMID": "0F18B6",
+      "EDID": "1ECisternA",
+      "FULL": "Cisterna Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D70E2",
+      "FORMID": "0D70E2",
+      "EDID": "PrimmNashResidence",
+      "FULL": "Residência Nash"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:014024",
+      "FORMID": "014024",
+      "EDID": "TTWUnStnSWInteriorStairs",
+      "FULL": "Stairwell"
+    },
+    {
+      "FORM": "@PointLookout.esm:008120",
+      "FORMID": "008120",
+      "EDID": "DLC04ShackMoonshiner",
+      "FULL": "Cabana do Contrabandista"
+    },
+    {
+      "FORM": "@PointLookout.esm:0040AC",
+      "FORMID": "0040AC",
+      "EDID": "DLC04Cathedral01",
+      "FULL": "Catedral Ark & Dove"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000808",
+      "FORMID": "000808",
+      "EDID": "DLC03PresMetro01",
+      "FULL": "Subnível Presidencial"
+    },
+    {
+      "FORM": "@Fallout3.esm:064BF0",
+      "FORMID": "064BF0",
+      "EDID": "SatcomArray01a",
+      "FULL": "Instalações do Satélite"
+    },
+    {
+      "FORM": "@Fallout3.esm:0617FC",
+      "FORMID": "0617FC",
+      "EDID": "WarringtonStation03",
+      "FULL": "Acesso as Gerador do Metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:020F90",
+      "FORMID": "020F90",
+      "EDID": "LLMurderPass",
+      "FULL": "Caminho da Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244C8",
+      "FORMID": "1244C8",
+      "EDID": "NelsonHouse05",
+      "FULL": "Casa Nelson"
+    },
+    {
+      "FORM": "@Anchorage.esm:0019F6",
+      "FORMID": "0019F6",
+      "EDID": "DLC02CommCenter",
+      "FULL": "Posto de Escuta"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D0E2",
+      "FORMID": "02D0E2",
+      "EDID": "FortC01",
+      "FULL": "Escritórios Pessoais"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E70AA",
+      "FORMID": "0E70AA",
+      "EDID": "TechatticupMineInterior",
+      "FULL": "Mina Techatticup"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B94C",
+      "FORMID": "00B94C",
+      "EDID": "DLC02zEndGlacierCave",
+      "FULL": "Passagem Subterrânea"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B478",
+      "FORMID": "01B478",
+      "EDID": "zcPennAveToMall",
+      "FULL": "Penn. Ave/O passei de Metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A280",
+      "FORMID": "01A280",
+      "EDID": "FranklinMetro01",
+      "FULL": "Manutenção da Estação Franklin"
+    },
+    {
+      "FORM": "@Fallout3.esm:018534",
+      "FORMID": "018534",
+      "EDID": "Vault112Garage",
+      "FULL": "Oficina Smith Casey"
+    },
+    {
+      "FORM": "@Fallout3.esm:099E9A",
+      "FORMID": "099E9A",
+      "EDID": "Vault101ReactorMS16",
+      "FULL": "Vault 101 Subnível"
+    },
+    {
+      "FORM": "@Fallout3.esm:0207A2",
+      "FORMID": "0207A2",
+      "EDID": "CitadelARing",
+      "FULL": "Cidadela - Anel A"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A276",
+      "FORMID": "01A276",
+      "EDID": "HubrisComics01",
+      "FULL": "Hubris Comics Publicação"
+    },
+    {
+      "FORM": "@Fallout3.esm:01852A",
+      "FORMID": "01852A",
+      "EDID": "Vault87b",
+      "FULL": "Quartos"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4E",
+      "FORMID": "017F4E",
+      "EDID": "StatesmanHotel02",
+      "FULL": "Hotel O Estadista 2º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154826",
+      "FORMID": "154826",
+      "EDID": "SLAbandonedShack02INT",
+      "FULL": "Cabana de Harper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCCA2",
+      "FORMID": "0FCCA2",
+      "EDID": "1ENeonSignFactory",
+      "FULL": "Letreiros de Neon do Zapp"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7506",
+      "FORMID": "0D7506",
+      "EDID": "HiddenValley01",
+      "FULL": "Bunker do Vale Oculto N1"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003D64",
+      "FORMID": "003D64",
+      "EDID": "DLC03PPurity02",
+      "FULL": "Museu Jefferson e Loja de Presentes"
+    },
+    {
+      "FORM": "@Fallout3.esm:018520",
+      "FORMID": "018520",
+      "EDID": "PPurity01",
+      "FULL": "Rotunda do Memorial Jefferson"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F44",
+      "FORMID": "017F44",
+      "EDID": "NukaColaPlant03",
+      "FULL": "Escritórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:017E18",
+      "FORMID": "017E18",
+      "EDID": "OasisCave01",
+      "FULL": "Câmara Soterrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00847C",
+      "FORMID": "00847C",
+      "EDID": "NVDLC04DivideTempleMaint",
+      "FULL": "Manutenção e Armazenamento"
+    },
+    {
+      "FORM": "@DeadMoney.esm:003080",
+      "FORMID": "003080",
+      "EDID": "NVDLC01PoliceStation",
+      "FULL": "Delegacia de Polícia da Vila"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169E4C",
+      "FORMID": "169E4C",
+      "EDID": "OVCentralSewers02",
+      "FULL": "Esgotos Centro-Leste"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00452A",
+      "FORMID": "00452A",
+      "EDID": "DLC03PresMetro03",
+      "FULL": "Saída do Metro da B.F.A. Adams"
+    },
+    {
+      "FORM": "@Fallout3.esm:056EA6",
+      "FORMID": "056EA6",
+      "EDID": "zNorthwestSenecaGrocer",
+      "FULL": "Vendedor"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F69E",
+      "FORMID": "02F69E",
+      "EDID": "HubrisComics03",
+      "FULL": "Túneis de acesso a Hubris"
+    },
+    {
+      "FORM": "@Fallout3.esm:02EE06",
+      "FORMID": "02EE06",
+      "EDID": "TUHannibalHouse",
+      "FULL": "Casa do Hannibal"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D7A",
+      "FORMID": "024D7A",
+      "EDID": "AndaleTheWilsonsHouse",
+      "FULL": "A Casa de Wilson"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D5F2",
+      "FORMID": "01D5F2",
+      "EDID": "ArefuWestResidence",
+      "FULL": "Residência de West"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F3A",
+      "FORMID": "017F3A",
+      "EDID": "SpringvaleSchool01",
+      "FULL": "Escola Infantil Springvale"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009CAA",
+      "FORMID": "009CAA",
+      "EDID": "NVDLC04DivideSLWasteDisposal",
+      "FULL": "Estação de Eliminação de Resíduos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0086CA",
+      "FORMID": "0086CA",
+      "EDID": "NVDLC03SLCazadorINT",
+      "FULL": "Laboratório de Emenda de DNA Z-14 Pepsinae"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002E82",
+      "FORMID": "002E82",
+      "EDID": "NVDLC03X42",
+      "FULL": "Instalações de Guerra Robótica X-42"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1699F6",
+      "FORMID": "1699F6",
+      "EDID": "HooverDamIntTower02Interior",
+      "FULL": "Torre da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12BE12",
+      "FORMID": "12BE12",
+      "EDID": "OVCentralSewers01",
+      "FULL": "Esgotos Centrais"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F28F",
+      "FORMID": "00F28F",
+      "EDID": "DLC04CoastalGrotto01",
+      "FULL": "Gruta Costeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC03",
+      "FORMID": "02DC03",
+      "EDID": "AndaleTheSmithsBasement",
+      "FULL": "Sótão da casa de Smith"
+    },
+    {
+      "FORM": "@Fallout3.esm:02107F",
+      "FORMID": "02107F",
+      "EDID": "RCHangar",
+      "FULL": "Mercado de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F2F",
+      "FORMID": "017F2F",
+      "EDID": "VaultTecHQ03",
+      "FULL": "Administração da Vault-Tec"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2F",
+      "FORMID": "003A2F",
+      "EDID": "MegatonTheBrassLantern",
+      "FULL": "A Lanterna de Latão"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00325F",
+      "FORMID": "00325F",
+      "EDID": "NVDLC03Slideshow",
+      "FULL": "Atenção, cidadãos do Big MT! O que vocês estão prestes a testemunhar é uma história de ciência, ambição e, bem, cérebros no vácuo. Preparem-se para a narração de Melancolia do Velho Mundo!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A43",
+      "FORMID": "008A43",
+      "EDID": "NVDLC02NarrowsWhiteLegs",
+      "FULL": "Caverna do Sino de Vidro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109FF",
+      "FORMID": "0109FF",
+      "EDID": "NVDLC01Slideshow",
+      "FULL": "Ainda não consigo acreditar que caí nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:143827",
+      "FORMID": "143827",
+      "EDID": "HooverDamIntPowerPlant",
+      "FULL": "Interior da Represa Hoover, Célula Fictícia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110F2B",
+      "FORMID": "110F2B",
+      "EDID": "FreesideAtomicWrangler",
+      "FULL": "Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47B3",
+      "FORMID": "0F47B3",
+      "EDID": "CampMCTermInt04",
+      "FULL": "Barracão de Suprimentos de Acampamento McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EDC47",
+      "FORMID": "0EDC47",
+      "EDID": "Vault3c",
+      "FULL": "Ala de Manutenção do Vault 3"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E795",
+      "FORMID": "00E795",
+      "EDID": "DLC04MotelOffice",
+      "FULL": "Escritório Homestead Motel"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DEB5",
+      "FORMID": "02DEB5",
+      "EDID": "AgathasHouseInterior",
+      "FULL": "Casa de Agatha"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6A5",
+      "FORMID": "01D6A5",
+      "EDID": "RCLowerDeck",
+      "FULL": "Bar Muddy Rudder"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E81",
+      "FORMID": "165E81",
+      "EDID": "TOPSRestaurant",
+      "FULL": "O Restaurante Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13396D",
+      "FORMID": "13396D",
+      "EDID": "OVWestSewers03",
+      "FULL": "O Espinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124099",
+      "FORMID": "124099",
+      "EDID": "NelsonBarracks01",
+      "FULL": "Quartel Nelson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E429",
+      "FORMID": "10E429",
+      "EDID": "2ETopsBennysFloor",
+      "FULL": "O 13º Andar do The Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D4ED",
+      "FORMID": "10D4ED",
+      "EDID": "ULCasino",
+      "FULL": "Salão do Cassino Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60CD",
+      "FORMID": "0E60CD",
+      "EDID": "Vault22e",
+      "FULL": "Vault 22 - Controle de Pragas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5A8D",
+      "FORMID": "0E5A8D",
+      "EDID": "RepconHQ02",
+      "FULL": "2º andar do escritório da REPCONN"
+    },
+    {
+      "FORM": "@PointLookout.esm:007323",
+      "FORMID": "007323",
+      "EDID": "DLC04SpyBunker",
+      "FULL": "Bunker da Inteligência Chinesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:002ADF",
+      "FORMID": "002ADF",
+      "EDID": "NVDLC04Silo01",
+      "FULL": "Silo de Mísseis de Hopeville"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F41B",
+      "FORMID": "13F41B",
+      "EDID": "CampSearchlightChurch",
+      "FULL": "Porão da Igreja de Searchlight"
+    },
+    {
+      "FORM": "@Zeta.esm:0047BD",
+      "FORMID": "0047BD",
+      "EDID": "DLC05sewer02",
+      "FULL": "Sistema de Eliminação de Resíduos"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D971",
+      "FORMID": "00D971",
+      "EDID": "DLC04Recruiter",
+      "FULL": "Estação de Recrutamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F199",
+      "FORMID": "06F199",
+      "EDID": "zScrapyardShackInterior",
+      "FULL": "Escritório do ferro-velho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B1A9",
+      "FORMID": "13B1A9",
+      "EDID": "DummyMarkerCell",
+      "FULL": "Célula Fictícia para XMarkers com Script"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD7B9",
+      "FORMID": "0FD7B9",
+      "EDID": "OVNVTheGray",
+      "FULL": "O Cinzento"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811F",
+      "FORMID": "00811F",
+      "EDID": "DLC04ShackTrapper",
+      "FULL": "Cabana do Caçador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000807",
+      "FORMID": "000807",
+      "EDID": "DLC03PresMetro02",
+      "FULL": "Metro Presidencial"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFDF",
+      "FORMID": "0CAFDF",
+      "EDID": "zJuryStreetGrocer",
+      "FULL": "Mercearias Laço Dourado"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F6A3",
+      "FORMID": "06F6A3",
+      "EDID": "FFRadioCache01",
+      "FULL": "Cisterna Selada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0406AF",
+      "FORMID": "0406AF",
+      "EDID": "LairAntAgonizer03",
+      "FULL": "Covil da AntAgonizer"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B52F",
+      "FORMID": "02B52F",
+      "EDID": "TLAbandonedHouse",
+      "FULL": "Casa Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:024513",
+      "FORMID": "024513",
+      "EDID": "zBethOffice01",
+      "FULL": "Escritórios Oeste da Bethesda"
+    },
+    {
+      "FORM": "@Fallout3.esm:020F8F",
+      "FORMID": "020F8F",
+      "EDID": "LLMensRestroom",
+      "FULL": "Banheiros de Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BA03",
+      "FORMID": "01BA03",
+      "EDID": "LOBEnterprises01",
+      "FULL": "Empresas L.O.B."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0078EB",
+      "FORMID": "0078EB",
+      "EDID": "NVDLC03SLSecuritronINT",
+      "FULL": "Usina de Desmonte de Securitrons"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00674D",
+      "FORMID": "00674D",
+      "EDID": "DLC03JuryStRaiders",
+      "FULL": "Fonte de Energia Elétrica de Hank"
+    },
+    {
+      "FORM": "@Anchorage.esm:0019F5",
+      "FORMID": "0019F5",
+      "EDID": "DLC02ChimeraDepot",
+      "FULL": "Depósito de Quimeras"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA995",
+      "FORMID": "0CA995",
+      "EDID": "zAntDen01",
+      "FULL": "Caverna Bolorenta"
+    },
+    {
+      "FORM": "@Fallout3.esm:084305",
+      "FORMID": "084305",
+      "EDID": "SatComArray03Interior01",
+      "FULL": "Satélite de Comunicação NN-03d-A"
+    },
+    {
+      "FORM": "@Fallout3.esm:01DEB1",
+      "FORMID": "01DEB1",
+      "EDID": "PPurity06",
+      "FULL": "Bomba de Filtragem"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F61",
+      "FORMID": "017F61",
+      "EDID": "Forge01",
+      "FULL": "Centro de Reparação de Robôs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5745",
+      "FORMID": "0E5745",
+      "EDID": "NovacAbandonedShack",
+      "FULL": "Cabana de Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0841D9",
+      "FORMID": "0841D9",
+      "EDID": "GibsonScrapYardInterior",
+      "FULL": "Garagem da Gibson"
+    },
+    {
+      "FORM": "@ThePitt.esm:007D87",
+      "FORMID": "007D87",
+      "EDID": "DLC01TowerEntrance",
+      "FULL": "Entrada do Refúgio"
+    },
+    {
+      "FORM": "@Fallout3.esm:06EC67",
+      "FORMID": "06EC67",
+      "EDID": "PFallsSlaveHouseChild",
+      "FULL": "Casa de Criança Escrava"
+    },
+    {
+      "FORM": "@Fallout3.esm:052A67",
+      "FORMID": "052A67",
+      "EDID": "zPowerStationInterior02",
+      "FULL": "Subestação Elétrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:018533",
+      "FORMID": "018533",
+      "EDID": "Vault108c",
+      "FULL": "Vault 108 - Lab. de clonagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F57",
+      "FORMID": "017F57",
+      "EDID": "NtlGuardDepot04",
+      "FULL": "Ala de Treinamentos do Depósito"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007B93",
+      "FORMID": "007B93",
+      "EDID": "NVDLC04DivideSLWaterPlant",
+      "FULL": "Estação de Tratamento de Água Residual"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15405F",
+      "FORMID": "15405F",
+      "EDID": "Vault74a",
+      "FULL": "Vault 74"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC23",
+      "FORMID": "13EC23",
+      "EDID": "HooverDamIntPowerPlant03",
+      "FULL": "Usina Hidrelétrica de Hoover 03"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E2D",
+      "FORMID": "001E2D",
+      "EDID": "TTWTrainStationNV",
+      "FULL": "Estação A&P da Union"
+    },
+    {
+      "FORM": "@PointLookout.esm:00BF1D",
+      "FORMID": "00BF1D",
+      "EDID": "DLC04CampShackTorture02",
+      "FULL": "Sala de Interrogação B"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B045",
+      "FORMID": "00B045",
+      "EDID": "DLC04RitualSiteBasement",
+      "FULL": "Porão Queimado"
+    },
+    {
+      "FORM": "@ThePitt.esm:0011AD",
+      "FORMID": "0011AD",
+      "EDID": "DLC01AshurPalace",
+      "FULL": "Refúgio"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E29",
+      "FORMID": "000E29",
+      "EDID": "DLC02ArtilleryBase",
+      "FULL": "Posto Avançado de Artilharia Chinesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0207A1",
+      "FORMID": "0207A1",
+      "EDID": "CitadelBRing",
+      "FULL": "Cidadela - Anel B"
+    },
+    {
+      "FORM": "@Fallout3.esm:018529",
+      "FORMID": "018529",
+      "EDID": "Vault106b",
+      "FULL": "Quartos do Vault 106"
+    },
+    {
+      "FORM": "@Fallout3.esm:018461",
+      "FORMID": "018461",
+      "EDID": "MerestiMetro01",
+      "FULL": "Túnel de Serviço Meresti"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4D",
+      "FORMID": "017F4D",
+      "EDID": "StatesmanHotel03",
+      "FULL": "Restaurante do Hotel O Estadista"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009425",
+      "FORMID": "009425",
+      "EDID": "NVDLC02ZionStore",
+      "FULL": "Armazém Geral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154825",
+      "FORMID": "154825",
+      "EDID": "SLCavern02INT",
+      "FULL": "Caverna da Caixa Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13CA81",
+      "FORMID": "13CA81",
+      "EDID": "JacobstownLodge",
+      "FULL": "Cabana de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7505",
+      "FORMID": "0D7505",
+      "EDID": "HiddenValley02",
+      "FULL": "Bunker do Vale Oculto L2"
+    },
+    {
+      "FORM": "@Zeta.esm:00096F",
+      "FORMID": "00096F",
+      "EDID": "DLC05HoldingCells",
+      "FULL": "Celas"
+    },
+    {
+      "FORM": "@PointLookout.esm:00928B",
+      "FORMID": "00928B",
+      "EDID": "DLC04SeaCave",
+      "FULL": "Caverna Marinha"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003D63",
+      "FORMID": "003D63",
+      "EDID": "DLC03PPurity03",
+      "FULL": "Sub-Sótão do Memorial"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4EB",
+      "FORMID": "00B4EB",
+      "EDID": "DLC02zCliffs01",
+      "FULL": "Armazenamento de Campo"
+    },
+    {
+      "FORM": "@Fallout3.esm:044953",
+      "FORMID": "044953",
+      "EDID": "CliffsideCavern02",
+      "FULL": "Caverna de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:02ABA7",
+      "FORMID": "02ABA7",
+      "EDID": "BigTownCommonHouse1",
+      "FULL": "Big Town, Clube"
+    },
+    {
+      "FORM": "@Fallout3.esm:0236DB",
+      "FORMID": "0236DB",
+      "EDID": "CapitolBuilding01",
+      "FULL": "Entrada Oeste do Capitólio"
+    },
+    {
+      "FORM": "@Fallout3.esm:01851F",
+      "FORMID": "01851F",
+      "EDID": "MuseumAmerican01",
+      "FULL": "Museu de História - Hall Inferior"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F43",
+      "FORMID": "017F43",
+      "EDID": "OurLadyHope01",
+      "FULL": "Hosp Nossa Senhora da Esperança"
+    },
+    {
+      "FORM": "@Fallout3.esm:017E17",
+      "FORMID": "017E17",
+      "EDID": "FloodedSewer01",
+      "FULL": "Metrô Inundado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14658B",
+      "FORMID": "14658B",
+      "EDID": "HooverDamIntTest",
+      "FULL": "Loja Arruinada"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D79",
+      "FORMID": "024D79",
+      "EDID": "BigTownTownHall",
+      "FULL": "Big Town, Prefeitura"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D5F1",
+      "FORMID": "01D5F1",
+      "EDID": "ArefuSchenzyResidence",
+      "FULL": "Residência de Schenzy"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BC8D",
+      "FORMID": "01BC8D",
+      "EDID": "FriendshipMetro01",
+      "FULL": "Linha principal de esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F39",
+      "FORMID": "017F39",
+      "EDID": "SpringvaleSchool02",
+      "FULL": "Escola Springvale, Planta Baixa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:008FC5",
+      "FORMID": "008FC5",
+      "EDID": "NVDLC01WTSouth",
+      "FULL": "Loja Arruinada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1699F5",
+      "FORMID": "1699F5",
+      "EDID": "HooverDamIntTower03Interior",
+      "FULL": "Torre da Represa Hoover"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B85A",
+      "FORMID": "00B85A",
+      "EDID": "DLC04SteamboatInt01",
+      "FULL": "Sala de Máquinas"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00739A",
+      "FORMID": "00739A",
+      "EDID": "DLC03Powerworks03",
+      "FULL": "Edifício Velha Olney S. Wilson"
+    },
+    {
+      "FORM": "@Fallout3.esm:033E0E",
+      "FORMID": "033E0E",
+      "EDID": "zDCint11b",
+      "FULL": "Saguão da Mansão Beauregard"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC02",
+      "FORMID": "02DC02",
+      "EDID": "AndaleTheWilsonsShed",
+      "FULL": "Galpão"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D6EE",
+      "FORMID": "02D6EE",
+      "EDID": "EvergreenMillsFoundry",
+      "FULL": "Fundação de Evergreen Mills"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2E",
+      "FORMID": "003A2E",
+      "EDID": "MegatonClinic",
+      "FULL": "Clínica de Megaton"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E794",
+      "FORMID": "00E794",
+      "EDID": "DLC04CampShackBunkhouse01",
+      "FULL": "Beliche A"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E80",
+      "FORMID": "165E80",
+      "EDID": "TOPSAcesTheater",
+      "FULL": "O Teatro Aces"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11ED00",
+      "FORMID": "11ED00",
+      "EDID": "FreesideRobotShop",
+      "FULL": "Cerulean Robotics"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DEB4",
+      "FORMID": "02DEB4",
+      "EDID": "GirderShadeSierraHouse",
+      "FULL": "Casa de Sierra Petrovita"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B58A",
+      "FORMID": "00B58A",
+      "EDID": "DLC04ShackTrapperBasement",
+      "FULL": "Adega"
+    },
+    {
+      "FORM": "@Fallout3.esm:050ED2",
+      "FORMID": "050ED2",
+      "EDID": "RadioTowerComplexInterior",
+      "FULL": "Complexo da Torre de Rádio"
+    },
+    {
+      "FORM": "@Fallout3.esm:035506",
+      "FORMID": "035506",
+      "EDID": "WarehouseBathrooms",
+      "FULL": "Banheiros"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DAA",
+      "FORMID": "006DAA",
+      "EDID": "NVDLC03SLVillageBorousINT",
+      "FULL": "#103"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F41A",
+      "FORMID": "13F41A",
+      "EDID": "CampSearchlightPoliceStation",
+      "FULL": "Delegacia de Polícia de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60C2",
+      "FORMID": "0E60C2",
+      "EDID": "Vault22d",
+      "FULL": "Vault 22 - Common Areas"
+    },
+    {
+      "FORM": "@Zeta.esm:004A14",
+      "FORMID": "004A14",
+      "EDID": "DLC05ExLab02",
+      "FULL": "Laboratório de Armas"
+    },
+    {
+      "FORM": "@Zeta.esm:004820",
+      "FORMID": "004820",
+      "EDID": "DLC05DeathRayHub01",
+      "FULL": "Centro do Raio da Morte"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001490",
+      "FORMID": "001490",
+      "EDID": "zDLC03CarTunnel",
+      "FULL": "Túnel para Carros de Rockland"
+    },
+    {
+      "FORM": "@Fallout3.esm:07C168",
+      "FORMID": "07C168",
+      "EDID": "RandomEncounters",
+      "FULL": "Ativar Marcadores - Encontros Aleatórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B530",
+      "FORMID": "05B530",
+      "EDID": "zWolfDen",
+      "FULL": "Viveiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119508",
+      "FORMID": "119508",
+      "EDID": "ULMembersOnly",
+      "FULL": "Seção Exclusiva para Membros da White Glove"
+    },
+    {
+      "FORM": "@Zeta.esm:001616",
+      "FORMID": "001616",
+      "EDID": "DLC05CryoLab01",
+      "FULL": "Laboratório de Criogenia"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FCF2",
+      "FORMID": "00FCF2",
+      "EDID": "DLC04zTestMarkiepoo",
+      "FULL": "Cela de Teste de Poo"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811E",
+      "FORMID": "00811E",
+      "EDID": "DLC04ShackHardwareStore",
+      "FULL": "Haley Hardware"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000806",
+      "FORMID": "000806",
+      "EDID": "DLC03EnclaveBase01",
+      "FULL": "Crawler da Base Móvel"
+    },
+    {
+      "FORM": "@Fallout3.esm:0406AE",
+      "FORMID": "0406AE",
+      "EDID": "LairAntAgonizer02",
+      "FULL": "Túneis de Canterbury"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F8C2",
+      "FORMID": "02F8C2",
+      "EDID": "ShalebridgeCavern02",
+      "FULL": "Colina Shalebridge"
+    },
+    {
+      "FORM": "@Fallout3.esm:024512",
+      "FORMID": "024512",
+      "EDID": "Vault101a",
+      "FULL": "Entrada do Vault 101"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0078EA",
+      "FORMID": "0078EA",
+      "EDID": "NVDLC03SLNightstalkerINT",
+      "FULL": "Laboratório de Preservação de DNA Z-9 Crotalus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146B8E",
+      "FORMID": "146B8E",
+      "EDID": "JacobstownBungalow01",
+      "FULL": "Bangalô de Jacobstown"
+    },
+    {
+      "FORM": "@Zeta.esm:00098C",
+      "FORMID": "00098C",
+      "EDID": "DLC05TestRepairBay",
+      "FULL": "Baía de Reparações"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C700",
+      "FORMID": "00C700",
+      "EDID": "DLC04MedicalTent02",
+      "FULL": "Tenda Médica"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C2B4",
+      "FORMID": "00C2B4",
+      "EDID": "DLC04Submarine",
+      "FULL": "SSN-37-1A"
+    },
+    {
+      "FORM": "@Fallout3.esm:01DEB0",
+      "FORMID": "01DEB0",
+      "EDID": "PPurity03",
+      "FULL": "Subsolo do Memorial"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A288",
+      "FORMID": "01A288",
+      "EDID": "FriendshipMetro02",
+      "FULL": "Estação Tenleytown/Friendship"
+    },
+    {
+      "FORM": "@Fallout3.esm:018532",
+      "FORMID": "018532",
+      "EDID": "Vault92b",
+      "FULL": "Quartos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FC2",
+      "FORMID": "000FC2",
+      "EDID": "NVDLC01ClinicBasement",
+      "FULL": "Porão da Clínica Villa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157A92",
+      "FORMID": "157A92",
+      "EDID": "NorthernPassageINT",
+      "FULL": "Passagem do Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1385CA",
+      "FORMID": "1385CA",
+      "EDID": "NiptonHouse1",
+      "FULL": "Casa de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130DDE",
+      "FORMID": "130DDE",
+      "EDID": "HooverDamIntODeck",
+      "FULL": "Centro de Visitantes da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10067A",
+      "FORMID": "10067A",
+      "EDID": "2CCampGolfResort",
+      "FULL": "Resort House"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E2C",
+      "FORMID": "001E2C",
+      "EDID": "TTWTrainEngine02",
+      "FULL": "Locomotiva Quebrada"
+    },
+    {
+      "FORM": "@ThePitt.esm:0011AC",
+      "FORMID": "0011AC",
+      "EDID": "DLC01SteelMill01",
+      "FULL": "Siderúrgica"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C90E4",
+      "FORMID": "0C90E4",
+      "EDID": "zFFRaiderCamp19House",
+      "FULL": "Acampamento dos Raiders"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5F08",
+      "FORMID": "0B5F08",
+      "EDID": "MinefieldInterior01",
+      "FULL": "Casa de Gibson"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F264",
+      "FORMID": "02F264",
+      "EDID": "PFallsSlaveHouse",
+      "FULL": "Casa de Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E0D0",
+      "FORMID": "02E0D0",
+      "EDID": "EvergreenMillsSlaveGuardHouse",
+      "FULL": "Quartel"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A274",
+      "FORMID": "01A274",
+      "EDID": "MamaDolces02",
+      "FULL": "Mama Dolce alimentos"
+    },
+    {
+      "FORM": "@Fallout3.esm:018528",
+      "FORMID": "018528",
+      "EDID": "Vault106a",
+      "FULL": "Entrada do Vault 106"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4C",
+      "FORMID": "017F4C",
+      "EDID": "GermPoliceHQ01",
+      "FULL": "Sede Policial - Andar Térreo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009230",
+      "FORMID": "009230",
+      "EDID": "NVDLC04SlideShow",
+      "FULL": "Sala de Cinema de Slides"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF1C",
+      "FORMID": "00BF1C",
+      "EDID": "NVDLC02ZionSporeCave",
+      "FULL": "Cueva Guarache"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0029E4",
+      "FORMID": "0029E4",
+      "EDID": "NVDLC01Vault",
+      "FULL": "Cofre Sierra Madre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161E98",
+      "FORMID": "161E98",
+      "EDID": "Endgame",
+      "FULL": "Fim de Jogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119670",
+      "FORMID": "119670",
+      "EDID": "ULKitchen",
+      "FULL": "Cozinha Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105238",
+      "FORMID": "105238",
+      "EDID": "NellisHangar2",
+      "FULL": "Refeitório e Depósito de Munição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6090",
+      "FORMID": "0E6090",
+      "EDID": "Vault22c",
+      "FULL": "Vault 22 - Produção de Alimentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5E38",
+      "FORMID": "0E5E38",
+      "EDID": "QJMachineShop",
+      "FULL": "Oficina Mecânica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7504",
+      "FORMID": "0D7504",
+      "EDID": "HiddenValleyBunker1",
+      "FULL": "Bunker de Vale Oculto"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4EA",
+      "FORMID": "00B4EA",
+      "EDID": "DLC02zCliffs02",
+      "FULL": "Armazenamento de Campo"
+    },
+    {
+      "FORM": "@Fallout3.esm:042F26",
+      "FORMID": "042F26",
+      "EDID": "zPS03Interior",
+      "FULL": "Subestação de Energia"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B952",
+      "FORMID": "02B952",
+      "EDID": "OurLadyHope02",
+      "FULL": "Hosp Nossa Senhora Esp 2º Andar"
+    },
+    {
+      "FORM": "@Fallout3.esm:02ABA6",
+      "FORMID": "02ABA6",
+      "EDID": "BigTownCommonHouse2",
+      "FULL": "Big Town, Casa Pública"
+    },
+    {
+      "FORM": "@Fallout3.esm:0236DA",
+      "FORMID": "0236DA",
+      "EDID": "CapitolBuilding02",
+      "FULL": "Salão das colunas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0028AE",
+      "FORMID": "0028AE",
+      "EDID": "NVDLC04Silo02",
+      "FULL": "Silo de Mísseis Ashton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A42E",
+      "FORMID": "13A42E",
+      "EDID": "OVSleepCell02",
+      "FULL": "Residência em New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116592",
+      "FORMID": "116592",
+      "EDID": "2EOVault21GiftShop",
+      "FULL": "Loja de Lembrancinhas do Vault 21"
+    },
+    {
+      "FORM": "@Fallout3.esm:07523C",
+      "FORMID": "07523C",
+      "EDID": "zFriendshipSewer",
+      "FULL": "Subestação de Esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D78",
+      "FORMID": "024D78",
+      "EDID": "BigTownRedClinic",
+      "FULL": "Big Town, Clínica de Red"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1532F8",
+      "FORMID": "1532F8",
+      "EDID": "SLscorpionBurrowINT",
+      "FULL": "Toca do Escorpião"
+    },
+    {
+      "FORM": "@PointLookout.esm:0049CD",
+      "FORMID": "0049CD",
+      "EDID": "DLC04zTestSeaCave02",
+      "FULL": "2º Teste: Caverna Marinha"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C019",
+      "FORMID": "06C019",
+      "EDID": "LincolnMuseum",
+      "FULL": "Sala de Manutenção do Memorial"
+    },
+    {
+      "FORM": "@Fallout3.esm:061F8D",
+      "FORMID": "061F8D",
+      "EDID": "zGeorgetownRadiationKing",
+      "FULL": "Rei da Radiação"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2D",
+      "FORMID": "003A2D",
+      "EDID": "MegatonChildrenofAtom",
+      "FULL": "Filho do Átomo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A41",
+      "FORMID": "008A41",
+      "EDID": "NVDLC02NarrowsSorrows",
+      "FULL": "Caverna do Rato Meio a Meio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF6B1",
+      "FORMID": "0FF6B1",
+      "EDID": "1ESteelMill",
+      "FULL": "Aço de New Vegas"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E793",
+      "FORMID": "00E793",
+      "EDID": "DLC04CampShackBunkhouse02",
+      "FULL": "Beliche B"
+    },
+    {
+      "FORM": "@PointLookout.esm:00977F",
+      "FORMID": "00977F",
+      "EDID": "DLC04Lab01",
+      "FULL": "Laboratório Subterrâneo"
+    },
+    {
+      "FORM": "@Fallout3.esm:051E7B",
+      "FORMID": "051E7B",
+      "EDID": "SatComArray03Interior03Top",
+      "FULL": "Satélite de Comunicação NN-03d-C"
+    },
+    {
+      "FORM": "@Fallout3.esm:04AEC3",
+      "FORMID": "04AEC3",
+      "EDID": "MuseumTech01NEW",
+      "FULL": "Museu da Tecnologia, Atrium"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6A3",
+      "FORMID": "01D6A3",
+      "EDID": "RCTower",
+      "FULL": "Torre da Ponte"
+    },
+    {
+      "FORM": "@Fallout3.esm:01516F",
+      "FORMID": "01516F",
+      "EDID": "LOBEnterprises04",
+      "FULL": "Arquivos da L.O.B. Enterprises"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DB3",
+      "FORMID": "006DB3",
+      "EDID": "NVDLC03SLVillageBorousBINT",
+      "FULL": "Porão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DEB3",
+      "FORMID": "02DEB3",
+      "EDID": "GirderShadeRonaldHouse",
+      "FULL": "Casa de Ronald Laren"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2F6D",
+      "FORMID": "0C2F6D",
+      "EDID": "ShacktownInterior05",
+      "FULL": "Cabana abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:03ED5D",
+      "FORMID": "03ED5D",
+      "EDID": "zToxicDumpShackInterior",
+      "FULL": "Cabana improvisada"
+    },
+    {
+      "FORM": "@Fallout3.esm:03BC89",
+      "FORMID": "03BC89",
+      "EDID": "RooseveltHS04",
+      "FULL": "Biblioteca Roosevelt"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102195",
+      "FORMID": "102195",
+      "EDID": "NellisBarracks01",
+      "FULL": "Quartel da Pearl"
+    },
+    {
+      "FORM": "@Zeta.esm:004A13",
+      "FORMID": "004A13",
+      "EDID": "DLC05ExLab04",
+      "FULL": "Pesquisa Biológica"
+    },
+    {
+      "FORM": "@Zeta.esm:00481F",
+      "FORMID": "00481F",
+      "EDID": "DLC05DeathRayHub02",
+      "FULL": "Controle do Raio da Morte"
+    },
+    {
+      "FORM": "@Fallout3.esm:059BCB",
+      "FORMID": "059BCB",
+      "EDID": "LincolnTent01",
+      "FULL": "Tenda de Caleb"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00494B",
+      "FORMID": "00494B",
+      "EDID": "NVDLC03SLSatelliteStationINT",
+      "FULL": "Conjunto de Antenas Transmissoras X-2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347CB",
+      "FORMID": "1347CB",
+      "EDID": "OVSleepCell01",
+      "FULL": "Residência em New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5CCF",
+      "FORMID": "0E5CCF",
+      "EDID": "QJMessHall",
+      "FULL": "Refeitório"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811D",
+      "FORMID": "00811D",
+      "EDID": "DLC04ShackGrower",
+      "FULL": "Cabana Desmoronada"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000805",
+      "FORMID": "000805",
+      "EDID": "DLC03EnclaveTower",
+      "FULL": "Torre de Controle de Satélite"
+    },
+    {
+      "FORM": "@Fallout3.esm:095991",
+      "FORMID": "095991",
+      "EDID": "zDCWorld06",
+      "FULL": "Esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B0E1",
+      "FORMID": "02B0E1",
+      "EDID": "RepDaveCapitol",
+      "FULL": "Capitólio da República do Dave"
+    },
+    {
+      "FORM": "@Fallout3.esm:024511",
+      "FORMID": "024511",
+      "EDID": "Vault101b",
+      "FULL": "Átrio do Vault 101"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006881",
+      "FORMID": "006881",
+      "EDID": "NVDLC03SLH2OINT",
+      "FULL": "Complexo Magnetohidráulico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D7E5",
+      "FORMID": "13D7E5",
+      "EDID": "JacobstownNightstalkerCave",
+      "FULL": "Caverna Charleston"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FF5",
+      "FORMID": "134FF5",
+      "EDID": "HooverDam",
+      "FULL": "Célula Global de Simulação da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10EDCD",
+      "FORMID": "10EDCD",
+      "EDID": "2EOMichaelAngelo",
+      "FULL": "Oficina do Michael Angelo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8EC5",
+      "FORMID": "0E8EC5",
+      "EDID": "TrainStationInterior",
+      "FULL": "Estação Ferroviária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E50A9",
+      "FORMID": "0E50A9",
+      "EDID": "HiddenValleyBunker3",
+      "FULL": "Bunker de Vale Oculto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA61",
+      "FORMID": "07EA61",
+      "EDID": "RocketLabBasement",
+      "FULL": "Porão da REPCONN"
+    },
+    {
+      "FORM": "@Zeta.esm:002FD3",
+      "FORMID": "002FD3",
+      "EDID": "DLC05Steamworks",
+      "FULL": "Motor Central"
+    },
+    {
+      "FORM": "@Zeta.esm:00098B",
+      "FORMID": "00098B",
+      "EDID": "DLC05CargoHold",
+      "FULL": "Compartimento de Carga"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6FF",
+      "FORMID": "00C6FF",
+      "EDID": "DLC04MedicalTent03",
+      "FULL": "Tenda Médica"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008A0F",
+      "FORMID": "008A0F",
+      "EDID": "DLC03zAFB01",
+      "FULL": "Fábrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F183",
+      "FORMID": "06F183",
+      "EDID": "zRegulatorHQInterior",
+      "FULL": "Sede de Reguladores"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A287",
+      "FORMID": "01A287",
+      "EDID": "MetroCenter02",
+      "FULL": "Estação Dupont Circle"
+    },
+    {
+      "FORM": "@Fallout3.esm:01853B",
+      "FORMID": "01853B",
+      "EDID": "RavenRock01",
+      "FULL": "Raven Rock - Nível 1"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F5F",
+      "FORMID": "017F5F",
+      "EDID": "Forge03",
+      "FULL": "Oficina do Mecânico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15182B",
+      "FORMID": "15182B",
+      "EDID": "NiptonTownHallInteriorFloor2",
+      "FULL": "Plenário da Assembleia da Prefeitura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10CC8F",
+      "FORMID": "10CC8F",
+      "EDID": "Gomorrah01",
+      "FULL": "Gomorrah - Nível Principal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:081D1F",
+      "FORMID": "081D1F",
+      "EDID": "RocketLabMid",
+      "FULL": "Instalações REPCONN"
+    },
+    {
+      "FORM": "@Zeta.esm:0034DD",
+      "FORMID": "0034DD",
+      "EDID": "DLC05EngineRoom",
+      "FULL": "Sala de Engenharia"
+    },
+    {
+      "FORM": "@Fallout3.esm:04F4E1",
+      "FORMID": "04F4E1",
+      "EDID": "OldOlney01",
+      "FULL": "Esgotos de Olney"
+    },
+    {
+      "FORM": "@Fallout3.esm:0459CD",
+      "FORMID": "0459CD",
+      "EDID": "zDCint12b",
+      "FULL": "Esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F55",
+      "FORMID": "017F55",
+      "EDID": "ChryslusBuilding01",
+      "FULL": "Recepção do edifício Chryslus"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B755",
+      "FORMID": "00B755",
+      "EDID": "NVDLC02ZionYaoGuaiCave",
+      "FULL": "Caverna Yao Guai"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1385C9",
+      "FORMID": "1385C9",
+      "EDID": "NiptonHouse2",
+      "FULL": "Casa de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D3F1",
+      "FORMID": "10D3F1",
+      "EDID": "BCSaloonInterior",
+      "FULL": "Saloon Chifre Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60FD",
+      "FORMID": "0E60FD",
+      "EDID": "Vault22a",
+      "FULL": "Vault 22 - Salão de Entrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EC51",
+      "FORMID": "01EC51",
+      "EDID": "VendorChestsCell",
+      "FULL": "Cofres de Vendedores Secretos"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E2B",
+      "FORMID": "001E2B",
+      "EDID": "TTWTrainEngine01b",
+      "FULL": "Locomotiva para New Vegas"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DF23",
+      "FORMID": "00DF23",
+      "EDID": "DLC04CampPipe01",
+      "FULL": "Acesso ao Túnel Séptico"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A107",
+      "FORMID": "00A107",
+      "EDID": "DLC03Powerworks02",
+      "FULL": "Velha Olney Subterrâneo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000913",
+      "FORMID": "000913",
+      "EDID": "DLC03RelayStation01",
+      "FULL": "Instalações do Satélite"
+    },
+    {
+      "FORM": "@ThePitt.esm:0011AB",
+      "FORMID": "0011AB",
+      "EDID": "DLC01SteelMill02",
+      "FULL": "Área Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:057B37",
+      "FORMID": "057B37",
+      "EDID": "GrayditchDoctorLeskosLab",
+      "FULL": "Construção Recente"
+    },
+    {
+      "FORM": "@Fallout3.esm:033B0B",
+      "FORMID": "033B0B",
+      "EDID": "FriendshipMetroUtility",
+      "FULL": "Estação Farragut, Oeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F263",
+      "FORMID": "02F263",
+      "EDID": "PFallsLockAndLoad",
+      "FULL": "Lock and Load"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E5E3",
+      "FORMID": "02E5E3",
+      "EDID": "EvergreenMillsNorthSideBossHouse",
+      "FULL": "Cabana do Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E0CF",
+      "FORMID": "02E0CF",
+      "EDID": "EvergreenMillsSouthSideBossHouse",
+      "FULL": "Cabana do Sul"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A273",
+      "FORMID": "01A273",
+      "EDID": "FranklinMetro02",
+      "FULL": "Estação Falls Church"
+    },
+    {
+      "FORM": "@Fallout3.esm:018527",
+      "FORMID": "018527",
+      "EDID": "Vault87a",
+      "FULL": "Laboratório de Testes"
+    },
+    {
+      "FORM": "@Fallout3.esm:01845F",
+      "FORMID": "01845F",
+      "EDID": "ShalebridgeCavern01",
+      "FULL": "Túnel Shalebridge"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4B",
+      "FORMID": "017F4B",
+      "EDID": "GermPoliceHQ02",
+      "FULL": "Sede Policial - Porão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105A6B",
+      "FORMID": "105A6B",
+      "EDID": "UnderpassRanchInterior01",
+      "FULL": "Lar Do Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E608F",
+      "FORMID": "0E608F",
+      "EDID": "Vault22b",
+      "FULL": "Vault 22 - Reciclagem de Oxigênio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08EAE7",
+      "FORMID": "08EAE7",
+      "EDID": "NVVendorChestsCell",
+      "FULL": "Cofres de Vendedores Secretos de New Vegas"
+    },
+    {
+      "FORM": "@Zeta.esm:003721",
+      "FORMID": "003721",
+      "EDID": "DLC05CryoLab02",
+      "FULL": "Armazenamento Criogênico"
+    },
+    {
+      "FORM": "@PointLookout.esm:004E2D",
+      "FORMID": "004E2D",
+      "EDID": "DLC04BlackhallManor01",
+      "FULL": "Mansão Blackhall"
+    },
+    {
+      "FORM": "@Fallout3.esm:0236D9",
+      "FORMID": "0236D9",
+      "EDID": "CapitolBuilding04",
+      "FULL": "Salão de conferências"
+    },
+    {
+      "FORM": "@Fallout3.esm:01851D",
+      "FORMID": "01851D",
+      "EDID": "MuseumAmerican03",
+      "FULL": "Museu de História - Escritórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:0043A1",
+      "FORMID": "0043A1",
+      "EDID": "MerestiMetro02",
+      "FULL": "Estação Meresti"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F37",
+      "FORMID": "017F37",
+      "EDID": "SuperDuperMart",
+      "FULL": "Mercado Super-Duper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1532F7",
+      "FORMID": "1532F7",
+      "EDID": "SLCavern01INT",
+      "FULL": "Caverna da Estrela da Manhã"
+    },
+    {
+      "FORM": "@Anchorage.esm:0012B8",
+      "FORMID": "0012B8",
+      "EDID": "DLC02VSS01",
+      "FULL": "Posto Avançado dos Desertores"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D6C",
+      "FORMID": "024D6C",
+      "EDID": "UnderworldChopShop",
+      "FULL": "A Loja de Partes"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2C",
+      "FORMID": "003A2C",
+      "EDID": "MegatonJerichosHouse",
+      "FULL": "Casa de Jericho"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046AC",
+      "FORMID": "0046AC",
+      "EDID": "NVDLC01Theater",
+      "FULL": "O Tampico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1221C4",
+      "FORMID": "1221C4",
+      "EDID": "Lucky38BasementFloorB2",
+      "FULL": "Porão do Lucky 38"
+    },
+    {
+      "FORM": "@Fallout3.esm:0695DE",
+      "FORMID": "0695DE",
+      "EDID": "PFallsRestrooms",
+      "FULL": "Sanitários"
+    },
+    {
+      "FORM": "@Fallout3.esm:051E7A",
+      "FORMID": "051E7A",
+      "EDID": "SatComArray03Interior02Top",
+      "FULL": "Satélite de Comunicação NN-03d-B"
+    },
+    {
+      "FORM": "@Fallout3.esm:0269E6",
+      "FORMID": "0269E6",
+      "EDID": "zDCWorld06Sewer",
+      "FULL": "Bueiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0252DA",
+      "FORMID": "0252DA",
+      "EDID": "zBethOffice02",
+      "FULL": "Escritórios Leste de Bethesda"
+    },
+    {
+      "FORM": "@Fallout3.esm:0035D6",
+      "FORMID": "0035D6",
+      "EDID": "zcPennAveToGeorgetown",
+      "FULL": "Metrô Av. Penn./Georgetown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1551BE",
+      "FORMID": "1551BE",
+      "EDID": "2CCampGolfTents",
+      "FULL": "Barraca do Acampamento Golf"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C482",
+      "FORMID": "10C482",
+      "EDID": "LakeMeadCaveINT",
+      "FULL": "Caverna do Lago Mead"
+    },
+    {
+      "FORM": "@ThePitt.esm:009F44",
+      "FORMID": "009F44",
+      "EDID": "DLC01TestJeffQuest",
+      "FULL": "Área Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2F6C",
+      "FORMID": "0C2F6C",
+      "EDID": "ShacktownInterior06",
+      "FULL": "Cabana abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0190AC",
+      "FORMID": "0190AC",
+      "EDID": "zGasStation02",
+      "FULL": "Posto de Gasolina do Jocko"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0045D0",
+      "FORMID": "0045D0",
+      "EDID": "NVDLC03SLSaturniteINT",
+      "FULL": "Instalações de Pesquisa de Liga Saturnita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F434",
+      "FORMID": "15F434",
+      "EDID": "DummyVESVEFRCell",
+      "FULL": "Célula Fictícia VES VEFR Encontros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138AA0",
+      "FORMID": "138AA0",
+      "EDID": "Vault34b",
+      "FULL": "Vault 34 - Reator"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E63E0",
+      "FORMID": "0E63E0",
+      "EDID": "Vault11b",
+      "FULL": "Alojamentos do Vault 11"
+    },
+    {
+      "FORM": "@Zeta.esm:004A12",
+      "FORMID": "004A12",
+      "EDID": "DLC05ExLab03",
+      "FULL": "Laboratório de Experiências"
+    },
+    {
+      "FORM": "@PointLookout.esm:008126",
+      "FORMID": "008126",
+      "EDID": "DLC04surveyHole02",
+      "FULL": "Fossa de Resíduos Excavada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AFE4E",
+      "FORMID": "0AFE4E",
+      "EDID": "RockCreekCaverns",
+      "FULL": "Cavernas Rock Creek"
+    },
+    {
+      "FORM": "@Fallout3.esm:059BCA",
+      "FORMID": "059BCA",
+      "EDID": "LincolnTent02",
+      "FULL": "Tenda de Simone"
+    },
+    {
+      "FORM": "@Fallout3.esm:040206",
+      "FORMID": "040206",
+      "EDID": "zPS01Interior",
+      "FULL": "Sub-estação elétrica"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A33E",
+      "FORMID": "02A33E",
+      "EDID": "FFRadioCache05",
+      "FULL": "Câmara de Drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:02263E",
+      "FORMID": "02263E",
+      "EDID": "Tenpenny03Attack",
+      "FULL": "Suítes da cobertura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1393F6",
+      "FORMID": "1393F6",
+      "EDID": "NiptonHouse8Paranoid",
+      "FULL": "Casa de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E02A",
+      "FORMID": "10E02A",
+      "EDID": "FreesideMickandRalphs",
+      "FULL": "Mick & Ralph's"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000804",
+      "FORMID": "000804",
+      "EDID": "DLC03Vertibird01",
+      "FULL": "Interior do Vertibird"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C99FC",
+      "FORMID": "0C99FC",
+      "EDID": "zToxicDump01",
+      "FULL": "Escritório"
+    },
+    {
+      "FORM": "@Fallout3.esm:054DA0",
+      "FORMID": "054DA0",
+      "EDID": "zBoatsAndBait",
+      "FULL": "Barcos e iscas"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B0E0",
+      "FORMID": "02B0E0",
+      "EDID": "RepDaveMens",
+      "FULL": "República Dave, quarto masculino"
+    },
+    {
+      "FORM": "@Fallout3.esm:028138",
+      "FORMID": "028138",
+      "EDID": "Vault101d",
+      "FULL": "Vault 101"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244AC",
+      "FORMID": "0244AC",
+      "EDID": "TLHendersonHouse",
+      "FULL": "Residência Henderson"
+    },
+    {
+      "FORM": "@Fallout3.esm:020F8C",
+      "FORMID": "020F8C",
+      "EDID": "LLOfficeBuilding",
+      "FULL": "Escritório de Little Lamplight"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006880",
+      "FORMID": "006880",
+      "EDID": "NVDLC03SLCuckoosNestINT",
+      "FULL": "Ninho de Cucos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004238",
+      "FORMID": "004238",
+      "EDID": "NVDLC03SLWeatherStationINT",
+      "FULL": "Estação Meteorológica X-17"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15626C",
+      "FORMID": "15626C",
+      "EDID": "SLRubyHillMineINT",
+      "FULL": "Mina Ruby Hill"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BC28",
+      "FORMID": "13BC28",
+      "EDID": "Vault19c",
+      "FULL": "Caverna de Enxofre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FF4",
+      "FORMID": "134FF4",
+      "EDID": "HooverDamExt",
+      "FULL": "Célula Fictícia Exterior da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133EC4",
+      "FORMID": "133EC4",
+      "EDID": "3CBSRecreationOffice",
+      "FULL": "Escritório de Recreação de Bitter Springs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105894",
+      "FORMID": "105894",
+      "EDID": "NellisWorkshop",
+      "FULL": "Oficina de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D6FA8",
+      "FORMID": "0D6FA8",
+      "EDID": "BisonSteve02",
+      "FULL": "O Hotel Bison Steve"
+    },
+    {
+      "FORM": "@Zeta.esm:002FD2",
+      "FORMID": "002FD2",
+      "EDID": "DLC05EngineCore",
+      "FULL": "Motor Central"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6FE",
+      "FORMID": "00C6FE",
+      "EDID": "DLC04MedicalTent04",
+      "FULL": "Tenda de Administração"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0045B2",
+      "FORMID": "0045B2",
+      "EDID": "DLC03PPurity01",
+      "FULL": "Rotunda do Memorial Jefferson"
+    },
+    {
+      "FORM": "@Anchorage.esm:0058D6",
+      "FORMID": "0058D6",
+      "EDID": "DLC02TEMPArtilleryBase",
+      "FULL": "Posto Avançado de Artilharia Chinesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:095B7A",
+      "FORMID": "095B7A",
+      "EDID": "CapitolBuilding01b",
+      "FULL": "Entrada Leste do Prédio Capitólio"
+    },
+    {
+      "FORM": "@Fallout3.esm:06FE66",
+      "FORMID": "06FE66",
+      "EDID": "WarehouseRuins",
+      "FULL": "Ruínas"
+    },
+    {
+      "FORM": "@Fallout3.esm:01DEAE",
+      "FORMID": "01DEAE",
+      "EDID": "PPurity05",
+      "FULL": "Controle da Bomba"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A286",
+      "FORMID": "01A286",
+      "EDID": "TakomaStation",
+      "FULL": "Vernon Leste/Parque Takoma"
+    },
+    {
+      "FORM": "@Fallout3.esm:01853A",
+      "FORMID": "01853A",
+      "EDID": "RavenRock02",
+      "FULL": "Raven Rock - Nível 2"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F5E",
+      "FORMID": "017F5E",
+      "EDID": "AlexandriaArms01",
+      "FULL": "Hotel Alexandria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141AA6",
+      "FORMID": "141AA6",
+      "EDID": "MojaveOutpostHQ01",
+      "FULL": "Quartel-general do Posto Avançado Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133172",
+      "FORMID": "133172",
+      "EDID": "HooverDamIntOliverArea",
+      "FULL": "Complexo do Oliver"
+    },
+    {
+      "FORM": "@Zeta.esm:000EF8",
+      "FORMID": "000EF8",
+      "EDID": "DLC05LivingQuarters",
+      "FULL": "Alojamentos"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004418",
+      "FORMID": "004418",
+      "EDID": "DLC03AirControlStairs01",
+      "FULL": "Torre de Controle Aéreo"
+    },
+    {
+      "FORM": "@Fallout3.esm:063AA8",
+      "FORMID": "063AA8",
+      "EDID": "BigTownGraveyard",
+      "FULL": "Big Town, Porão da Clínica"
+    },
+    {
+      "FORM": "@Fallout3.esm:03C944",
+      "FORMID": "03C944",
+      "EDID": "zFairfaxMaintenance",
+      "FULL": "Túneis da Área de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:03ABF8",
+      "FORMID": "03ABF8",
+      "EDID": "Vault92d",
+      "FULL": "Sala do Reator"
+    },
+    {
+      "FORM": "@Fallout3.esm:018530",
+      "FORMID": "018530",
+      "EDID": "Vault108b",
+      "FULL": "Vault 108 - Quartos"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F54",
+      "FORMID": "017F54",
+      "EDID": "ChryslusBuilding02",
+      "FULL": "Escritórios do Edifício Chryslus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13830C",
+      "FORMID": "13830C",
+      "EDID": "HDCombatTest",
+      "FULL": "Posto de Controle da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A288",
+      "FORMID": "09A288",
+      "EDID": "PrimmSheriffStation",
+      "FULL": "Delegacia do Xerife de Primm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008162",
+      "FORMID": "008162",
+      "EDID": "RCHydroponics",
+      "FULL": "Hidroponia"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E2A",
+      "FORMID": "001E2A",
+      "EDID": "TTWTrainEngine01a",
+      "FULL": "Trem, para o Ermo de D.C."
+    },
+    {
+      "FORM": "@PointLookout.esm:00BF1A",
+      "FORMID": "00BF1A",
+      "EDID": "DLC04CampShackTorture",
+      "FULL": "Sala de Interrogação A"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D0A6",
+      "FORMID": "03D0A6",
+      "EDID": "zCarDealership",
+      "FULL": "Concessionária de Carros"
+    },
+    {
+      "FORM": "@Fallout3.esm:033B6E",
+      "FORMID": "033B6E",
+      "EDID": "zTenpennyGas",
+      "FULL": "Mercearia do Willy"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A186",
+      "FORMID": "02A186",
+      "EDID": "Vault101Reactor",
+      "FULL": "Reator do Sub-Nível Vault 101"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A272",
+      "FORMID": "01A272",
+      "EDID": "FortBannister03",
+      "FULL": "Sala Principal do Forte Bannister"
+    },
+    {
+      "FORM": "@Fallout3.esm:01845E",
+      "FORMID": "01845E",
+      "EDID": "HamiltonsHideaway01",
+      "FULL": "Esconderijo de Hamilton"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F4A",
+      "FORMID": "017F4A",
+      "EDID": "GermPoliceHQ03",
+      "FULL": "Sede Policial - Segundo Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D512",
+      "FORMID": "10D512",
+      "EDID": "Lucky38CasinoFloor01",
+      "FULL": "Cassino Lucky 38"
+    },
+    {
+      "FORM": "@Fallout3.esm:039E38",
+      "FORMID": "039E38",
+      "EDID": "zDCint12c",
+      "FULL": "Edifício de escritórios"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F40",
+      "FORMID": "017F40",
+      "EDID": "RedRacer01",
+      "FULL": "Fábrica Red Racer"
+    },
+    {
+      "FORM": "@Fallout3.esm:017E14",
+      "FORMID": "017E14",
+      "EDID": "IrradiatedSewer01",
+      "FULL": "Metrô Contaminado"
+    },
+    {
+      "FORM": "@Fallout3.esm:0173EC",
+      "FORMID": "0173EC",
+      "EDID": "NorthwestSenecaMetro01",
+      "FULL": "Estação Seneca, Noroeste"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0011A0",
+      "FORMID": "0011A0",
+      "EDID": "NVDLC01Casino",
+      "FULL": "Cassino Sierra Madre"
+    },
+    {
+      "FORM": "@PointLookout.esm:0072DA",
+      "FORMID": "0072DA",
+      "EDID": "DLC04zTestDuchessGambitCabin",
+      "FULL": "Cabine do Gambito da Duquesa"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F3E",
+      "FORMID": "000F3E",
+      "EDID": "DLC01WernherHideout",
+      "FULL": "Esconderijo de Wernher"
+    },
+    {
+      "FORM": "@Fallout3.esm:0314AE",
+      "FORMID": "0314AE",
+      "EDID": "zDCint12RangerCompound",
+      "FULL": "Base dos Rangers da Reilly"
+    },
+    {
+      "FORM": "@Fallout3.esm:016DA2",
+      "FORMID": "016DA2",
+      "EDID": "WarringtonStation01",
+      "FULL": "Túneis de Warrington"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1532F6",
+      "FORMID": "1532F6",
+      "EDID": "SLNHPStationINT",
+      "FULL": "Posto da Patrulha Rodoviária de Nevada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F7A",
+      "FORMID": "0D7F7A",
+      "EDID": "HELIOSOneTower",
+      "FULL": "Torre de Coleta Solar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D48E",
+      "FORMID": "08D48E",
+      "EDID": "NCRPrisonBlockB",
+      "FULL": "Bloco Celular B"
+    },
+    {
+      "FORM": "@Zeta.esm:007397",
+      "FORMID": "007397",
+      "EDID": "DLC05sewer01",
+      "FULL": "Nível de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C80BF",
+      "FORMID": "0C80BF",
+      "EDID": "zDupontBoutique",
+      "FULL": "Lady Frumperton Modas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0615C7",
+      "FORMID": "0615C7",
+      "EDID": "RockopolisCave",
+      "FULL": "Rockopolis"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D6B",
+      "FORMID": "024D6B",
+      "EDID": "UnderworldConcourse",
+      "FULL": "Explanada do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6AB",
+      "FORMID": "01D6AB",
+      "EDID": "RCHangarDeckAft",
+      "FULL": "Laboratório Científico"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2B",
+      "FORMID": "003A2B",
+      "EDID": "MegatonTheArmory",
+      "FULL": "O Arsenal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A3F",
+      "FORMID": "008A3F",
+      "EDID": "NVDLC02Survivalist01",
+      "FULL": "Caverna Stone Bones"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005709",
+      "FORMID": "005709",
+      "EDID": "DLC03Vertibird03",
+      "FULL": "Interior do Vertibird"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003A21",
+      "FORMID": "003A21",
+      "EDID": "DLC03EternalGlowBasement",
+      "FULL": "Monastério da Luz Eterna"
+    },
+    {
+      "FORM": "@Fallout3.esm:051E79",
+      "FORMID": "051E79",
+      "EDID": "SatComArray03Interior01Top",
+      "FULL": "Satélite de Comunicação NN-03d-A"
+    },
+    {
+      "FORM": "@Fallout3.esm:0235F1",
+      "FORMID": "0235F1",
+      "EDID": "zBethSewer",
+      "FULL": "Esgotos da Bethesda"
+    },
+    {
+      "FORM": "@Fallout3.esm:018CCD",
+      "FORMID": "018CCD",
+      "EDID": "MirelurkHole",
+      "FULL": "Covil de Mirelurks"
+    },
+    {
+      "FORM": "@Fallout3.esm:0035D5",
+      "FORMID": "0035D5",
+      "EDID": "zcGeorgetownToMall",
+      "FULL": "Metrô Georgetown/The Mall"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E40D",
+      "FORMID": "00E40D",
+      "EDID": "NVDLC01PoliceStationBasement",
+      "FULL": "Porão da Delegacia de Polícia da Villa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1551BD",
+      "FORMID": "1551BD",
+      "EDID": "2CCampGolfTents2",
+      "FULL": "Barraca do Acampamento Golf"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF7D1",
+      "FORMID": "0FF7D1",
+      "EDID": "SSHQ01",
+      "FULL": "Chão de Fábrica"
+    },
+    {
+      "FORM": "@PointLookout.esm:00731F",
+      "FORMID": "00731F",
+      "EDID": "DLC04SpyTunnel",
+      "FULL": "Tubulação"
+    },
+    {
+      "FORM": "@ThePitt.esm:004CD7",
+      "FORMID": "004CD7",
+      "EDID": "DLC01TrainTunnel",
+      "FULL": "Túnel de The Pitt"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2F6B",
+      "FORMID": "0C2F6B",
+      "EDID": "ShacktownInterior07",
+      "FULL": "Cabana abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A3977",
+      "FORMID": "0A3977",
+      "EDID": "Vault92aOverseer",
+      "FULL": "Sala do supervisor do Vault 92"
+    },
+    {
+      "FORM": "@Fallout3.esm:031043",
+      "FORMID": "031043",
+      "EDID": "MarigoldStation02",
+      "FULL": "Chocadeira da Formiga Rainha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD3DF",
+      "FORMID": "0CD3DF",
+      "EDID": "NovacMotelRoomQueen2",
+      "FULL": "Quarto de Motel"
+    },
+    {
+      "FORM": "@PointLookout.esm:008125",
+      "FORMID": "008125",
+      "EDID": "DLC04surveyHole03",
+      "FULL": "Fossa de Resíduos Excavada"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0013C5",
+      "FORMID": "0013C5",
+      "EDID": "TESTPPurity01COPY",
+      "FULL": "Rotunda do Memorial Jefferson"
+    },
+    {
+      "FORM": "@Fallout3.esm:059BC9",
+      "FORMID": "059BC9",
+      "EDID": "LincolnTent03",
+      "FULL": "Tenda de refúgio"
+    },
+    {
+      "FORM": "@Fallout3.esm:045219",
+      "FORMID": "045219",
+      "EDID": "zDCWorld03",
+      "FULL": "Túnel de Carros Derrubado"
+    },
+    {
+      "FORM": "@Fallout3.esm:02263D",
+      "FORMID": "02263D",
+      "EDID": "Tenpenny02Attack",
+      "FULL": "Suítes Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125AAD",
+      "FORMID": "125AAD",
+      "EDID": "ULPenthouse",
+      "FULL": "Cobertura Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244CD",
+      "FORMID": "1244CD",
+      "EDID": "NelsonBarracks02",
+      "FULL": "Quartel Nelson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1055E1",
+      "FORMID": "1055E1",
+      "EDID": "GSHouseInterior02",
+      "FULL": "Casa de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB681",
+      "FORMID": "0FB681",
+      "EDID": "1ECisternC",
+      "FULL": "Cisterna Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0849",
+      "FORMID": "0F0849",
+      "EDID": "1EWestPumpStation",
+      "FULL": "Estação de Bombeamento Oeste"
+    },
+    {
+      "FORM": "@Zeta.esm:008EC7",
+      "FORMID": "008EC7",
+      "EDID": "DLC05ResearchLab",
+      "FULL": "Laboratório de Pesquisas"
+    },
+    {
+      "FORM": "@Fallout3.esm:05A7DB",
+      "FORMID": "05A7DB",
+      "EDID": "zLenfantCapitolPost",
+      "FULL": "Escritório"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B0DF",
+      "FORMID": "02B0DF",
+      "EDID": "RepDaveWomens",
+      "FULL": "República Dave, quarto feminino"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244AB",
+      "FORMID": "0244AB",
+      "EDID": "TLNeusbaumHouse",
+      "FULL": "Residência de Neusbaum"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F67",
+      "FORMID": "017F67",
+      "EDID": "CorvegaFactory01",
+      "FULL": "Fábrica Corvega - Entrada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00493F",
+      "FORMID": "00493F",
+      "EDID": "NVDLC03SLChemicalINT",
+      "FULL": "Fábrica de Toxinas Inovadoras Z-43"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:000803",
+      "FORMID": "000803",
+      "EDID": "NVDLC03X8School",
+      "FULL": "Instalação de Testes Institucionais X-8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BC27",
+      "FORMID": "13BC27",
+      "EDID": "Vault19b",
+      "FULL": "Vault 19 - Aposentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FF3",
+      "FORMID": "134FF3",
+      "EDID": "HooverDamInt",
+      "FULL": "Interior da Represa Hoover, Célula Fictícia"
+    },
+    {
+      "FORM": "@Zeta.esm:002FD1",
+      "FORMID": "002FD1",
+      "EDID": "DLC05SpaceBridge02",
+      "FULL": "Passeio Espacial"
+    },
+    {
+      "FORM": "@Fallout3.esm:0600E1",
+      "FORMID": "0600E1",
+      "EDID": "ArefuAbandonedShack",
+      "FULL": "Residência Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A285",
+      "FORMID": "01A285",
+      "EDID": "MetroCenter03",
+      "FULL": "Estação Freedom Street"
+    },
+    {
+      "FORM": "@Fallout3.esm:018539",
+      "FORMID": "018539",
+      "EDID": "RavenRock03",
+      "FULL": "Raven Rock - Nível 3"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F5D",
+      "FORMID": "017F5D",
+      "EDID": "zGenericSewer",
+      "FULL": "Esgoto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133171",
+      "FORMID": "133171",
+      "EDID": "HooverDamIntLowerLevel",
+      "FULL": "Nível Inferior da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12BE35",
+      "FORMID": "12BE35",
+      "EDID": "OVNorthSewers01",
+      "FULL": "Esgotos do Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106185",
+      "FORMID": "106185",
+      "EDID": "GSProspectorSaloonInterior",
+      "FULL": "Saloon do Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103DF9",
+      "FORMID": "103DF9",
+      "EDID": "GSDocMitchellHouse",
+      "FULL": "Casa do Dr. Mitchell"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F53",
+      "FORMID": "017F53",
+      "EDID": "ChryslusBuilding03",
+      "FULL": "Depósito do Edifício Chryslus"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00402F",
+      "FORMID": "00402F",
+      "EDID": "NVDLC03ForbiddenZone",
+      "FULL": "O Domo da Zona Proibida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:132933",
+      "FORMID": "132933",
+      "EDID": "NiptonGeneralStore",
+      "FULL": "Loja Geral de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E19B",
+      "FORMID": "10E19B",
+      "EDID": "2ETopsPresidentialSuite",
+      "FULL": "A Suíte Presidencial do The Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1893",
+      "FORMID": "0F1893",
+      "EDID": "CampMCTermInt01",
+      "FULL": "Camp McCarran Concourse"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E29",
+      "FORMID": "001E29",
+      "EDID": "TTWTrainCar03a",
+      "FULL": "Vagão-Restaurante"
+    },
+    {
+      "FORM": "@Anchorage.esm:0015F5",
+      "FORMID": "0015F5",
+      "EDID": "TestPhil",
+      "FULL": "Tenda de Comando"
+    },
+    {
+      "FORM": "@Fallout3.esm:093649",
+      "FORMID": "093649",
+      "EDID": "FFRadioCache02",
+      "FULL": "Câmara de drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E7B1",
+      "FORMID": "03E7B1",
+      "EDID": "FFRadioCache09",
+      "FULL": "Câmara de drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E0F1",
+      "FORMID": "01E0F1",
+      "EDID": "RavenRock04",
+      "FULL": "Raven Rock - Sala de Controle"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A271",
+      "FORMID": "01A271",
+      "EDID": "HazmatDisposal01",
+      "FULL": "Aterro Local Hazmat L5"
+    },
+    {
+      "FORM": "@Fallout3.esm:018525",
+      "FORMID": "018525",
+      "EDID": "WashingtonMonument01",
+      "FULL": "Monumento Washington"
+    },
+    {
+      "FORM": "@Fallout3.esm:01845D",
+      "FORMID": "01845D",
+      "EDID": "YaoGuaiDen01",
+      "FULL": "Túnel Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F49",
+      "FORMID": "017F49",
+      "EDID": "AnchorageWM01",
+      "FULL": "Escritóriosdo Memorial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116BD9",
+      "FORMID": "116BD9",
+      "EDID": "WarehouseBathrooms2",
+      "FULL": "Banheiros de Amostra de Todos os Tamanhos"
+    },
+    {
+      "FORM": "@Fallout3.esm:04DD5B",
+      "FORMID": "04DD5B",
+      "EDID": "zMq11skybridgeAccess",
+      "FULL": "Sala de acesso"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BC93",
+      "FORMID": "01BC93",
+      "EDID": "NtlGuardDepot01",
+      "FULL": "Depósito da Guarda Nacional"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CA3",
+      "FORMID": "006CA3",
+      "EDID": "NVDLC01Toolbox",
+      "FULL": "Célula da Caixa de Ferramentas de Design de Nível"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00277F",
+      "FORMID": "00277F",
+      "EDID": "NVDLC01Lobby",
+      "FULL": "Sierra Madre: Lobby"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10108B",
+      "FORMID": "10108B",
+      "EDID": "CannibalJohnsonCave",
+      "FULL": "Caverna do Canibal Johnson"
+    },
+    {
+      "FORM": "@Fallout3.esm:041FDD",
+      "FORMID": "041FDD",
+      "EDID": "YaoGuaiDen02",
+      "FULL": "Toca de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:039211",
+      "FORMID": "039211",
+      "EDID": "FFRadioCache06",
+      "FULL": "Câmara de Drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:024D75",
+      "FORMID": "024D75",
+      "EDID": "PFallsClinic",
+      "FULL": "Clínica de Cutter"
+    },
+    {
+      "FORM": "@Fallout3.esm:016DA1",
+      "FORMID": "016DA1",
+      "EDID": "WarringtonStation02",
+      "FULL": "Estação Warrington"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A35",
+      "FORMID": "003A35",
+      "EDID": "MegatonMoriartysSaloon",
+      "FULL": "Bar do Moriarty"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0012C1",
+      "FORMID": "0012C1",
+      "EDID": "NVDLC01ClinicMainFloor",
+      "FULL": "Clínica Villa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D629",
+      "FORMID": "10D629",
+      "EDID": "Gomorrah00",
+      "FULL": "Gomorrah - Hall de Entrada Inferior"
+    },
+    {
+      "FORM": "@Zeta.esm:000F96",
+      "FORMID": "000F96",
+      "EDID": "DLC05RobotAssembly",
+      "FULL": "Linha de Montagens Robóticas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0298CE",
+      "FORMID": "0298CE",
+      "EDID": "TLRockwellBasement",
+      "FULL": "Porão da Residência Rockwell"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6AA",
+      "FORMID": "01D6AA",
+      "EDID": "RCHangarDeckMid",
+      "FULL": "Convés Central"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A2A",
+      "FORMID": "003A2A",
+      "EDID": "MegatonCratersideSupply",
+      "FULL": "Suprimentos Craterside"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003D4A",
+      "FORMID": "003D4A",
+      "EDID": "NVDLC03X8Main",
+      "FULL": "Instalações Centrais X-8"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A3E",
+      "FORMID": "008A3E",
+      "EDID": "NVDLC02NarrowsAbandoned",
+      "FULL": "Caverna Flor Doutore"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129ADA",
+      "FORMID": "129ADA",
+      "EDID": "OVWestSewers01",
+      "FULL": "Esgotos do Sudoeste"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E27C",
+      "FORMID": "00E27C",
+      "EDID": "DLC04Barge",
+      "FULL": "Convés"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B56C",
+      "FORMID": "01B56C",
+      "EDID": "TaftTunnel01",
+      "FULL": "Túnel Taft"
+    },
+    {
+      "FORM": "@Fallout3.esm:0035D4",
+      "FORMID": "0035D4",
+      "EDID": "zcArlingtonToWasteland",
+      "FULL": "Metrô Arlington/Wasteland"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E1C",
+      "FORMID": "008E1C",
+      "EDID": "NVDLC023MarysCave",
+      "FULL": "Cavernas das Três Marias"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F420",
+      "FORMID": "13F420",
+      "EDID": "CampSearchlightSchool",
+      "FULL": "Escola Primária de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130C7C",
+      "FORMID": "130C7C",
+      "EDID": "NiptonTownHallInterior",
+      "FULL": "Prefeitura, Primeiro Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EDDC8",
+      "FORMID": "0EDDC8",
+      "EDID": "NorthVegasHouseTools",
+      "FULL": "Fábrica de Ferramentas H&H"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5A88",
+      "FORMID": "0E5A88",
+      "EDID": "RepconHQ03",
+      "FULL": "REPCONN Escritório Último Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:064C6C",
+      "FORMID": "064C6C",
+      "EDID": "IsolatedCamp04Interior",
+      "FULL": "Tenda Abandonada"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00731E",
+      "FORMID": "00731E",
+      "EDID": "DLC03RaiderSilo",
+      "FULL": "Silo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03C83E",
+      "FORMID": "03C83E",
+      "EDID": "WarehouseTraps",
+      "FULL": "Parada para Comprar Aparelhos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1555FE",
+      "FORMID": "1555FE",
+      "EDID": "SLGoldMine01INT",
+      "FULL": "Mina de Ouro Leste de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138A9E",
+      "FORMID": "138A9E",
+      "EDID": "Vault34c",
+      "FULL": "Cofre 34 - Armaria"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:014028",
+      "FORMID": "014028",
+      "EDID": "TTWLVUnStnGrnd",
+      "FULL": "Estação A&P da Union"
+    },
+    {
+      "FORM": "@Fallout3.esm:02263C",
+      "FORMID": "02263C",
+      "EDID": "Tenpenny01Attack",
+      "FULL": "Salão da Torre Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1671F0",
+      "FORMID": "1671F0",
+      "EDID": "2CCampGolfMisfitsTent",
+      "FULL": "Tenda dos Misfits"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155EF0",
+      "FORMID": "155EF0",
+      "EDID": "SLElDoradoGasINT",
+      "FULL": "El Dorado Gas & Service"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1244CC",
+      "FORMID": "1244CC",
+      "EDID": "NelsonHouse01",
+      "FULL": "Casa Nelson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103F9C",
+      "FORMID": "103F9C",
+      "EDID": "SouthVegasAntMound",
+      "FULL": "Formigueiro de Formigas do Sul de Vegas"
+    },
+    {
+      "FORM": "@Fallout3.esm:07684A",
+      "FORMID": "07684A",
+      "EDID": "SatComArray02Interior",
+      "FULL": "Instalações do Satélite"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D0E6",
+      "FORMID": "02D0E6",
+      "EDID": "FortC02",
+      "FULL": "Quartel Oficial de Comando"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B0DE",
+      "FORMID": "02B0DE",
+      "EDID": "RepDaveMuseum",
+      "FULL": "Museu do Dave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A58A",
+      "FORMID": "02A58A",
+      "EDID": "OasisCave03",
+      "FULL": "Cavernas do Oasis"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244AA",
+      "FORMID": "0244AA",
+      "EDID": "TLRockwellHouse",
+      "FULL": "Residência Rockwell"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F66",
+      "FORMID": "017F66",
+      "EDID": "CorvegaFactory02",
+      "FULL": "Fábrica Corvega"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F07E",
+      "FORMID": "13F07E",
+      "EDID": "4BRRCArmory",
+      "FULL": "Arsenal dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BC26",
+      "FORMID": "13BC26",
+      "EDID": "Vault19a",
+      "FULL": "Vault 19 - 1º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6A6E",
+      "FORMID": "0E6A6E",
+      "EDID": "Vault11c",
+      "FULL": "Nível Inferior do Vault 11"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008750",
+      "FORMID": "008750",
+      "EDID": "TTWTestRoy",
+      "FULL": "Célula de Teste do Roy"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C828",
+      "FORMID": "00C828",
+      "EDID": "DLC04Bank",
+      "FULL": "Banco Popular de Point Lookout"
+    },
+    {
+      "FORM": "@Anchorage.esm:002738",
+      "FORMID": "002738",
+      "EDID": "DLC02zcBaileysToWasteland",
+      "FULL": "Metro da Encruzilhada Bailey"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A284",
+      "FORMID": "01A284",
+      "EDID": "MetroCenter04",
+      "FULL": "Estação Foggy Bottom"
+    },
+    {
+      "FORM": "@Fallout3.esm:018538",
+      "FORMID": "018538",
+      "EDID": "Vault92c",
+      "FULL": "Teste de Som"
+    },
+    {
+      "FORM": "@Fallout3.esm:0178B8",
+      "FORMID": "0178B8",
+      "EDID": "Tenpenny03",
+      "FULL": "Suítes da Cobertura"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00328C",
+      "FORMID": "00328C",
+      "EDID": "NVDLC03X13",
+      "FULL": "Instalações de Teste X-13"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D68",
+      "FORMID": "175D68",
+      "EDID": "HooverDamIntPowerPlant01b",
+      "FULL": "Escritórios da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146BE4",
+      "FORMID": "146BE4",
+      "EDID": "JacobstownBungalow03",
+      "FULL": "Bangalô de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133170",
+      "FORMID": "133170",
+      "EDID": "HooverDamIntTower01Interior",
+      "FULL": "Torre da Represa Hoover"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F05A",
+      "FORMID": "00F05A",
+      "EDID": "DLC04Lighthouse",
+      "FULL": "Farol"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EFE",
+      "FORMID": "002EFE",
+      "EDID": "DLC04zTestJoel",
+      "FULL": "Célula de Teste do Joel"
+    },
+    {
+      "FORM": "@Fallout3.esm:099E9E",
+      "FORMID": "099E9E",
+      "EDID": "Vault101aMS16",
+      "FULL": "Vault 101 Entrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:04363E",
+      "FORMID": "04363E",
+      "EDID": "FortBannister01",
+      "FULL": "Dependências do oficial"
+    },
+    {
+      "FORM": "@Fallout3.esm:01852E",
+      "FORMID": "01852E",
+      "EDID": "Vault101Demo",
+      "FULL": "Vault 101"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F52",
+      "FORMID": "017F52",
+      "EDID": "DunwichBuilding01",
+      "FULL": "Edifício Dunwich"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003CAA",
+      "FORMID": "003CAA",
+      "EDID": "NVDLC04DivideUlyssesTemple",
+      "FULL": "Templo de Ulysses"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D8B2",
+      "FORMID": "15D8B2",
+      "EDID": "SLOldWellINT",
+      "FULL": "Poço do Jimmy"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E28",
+      "FORMID": "001E28",
+      "EDID": "TTWTrainCar02",
+      "FULL": "Vagão de Passageiros"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFDC",
+      "FORMID": "00AFDC",
+      "EDID": "DLC04MedicalTent01",
+      "FULL": "Tenda de Marcella"
+    },
+    {
+      "FORM": "@ThePitt.esm:00602C",
+      "FORMID": "00602C",
+      "EDID": "DLC01zUptownApt",
+      "FULL": "Apartamentos Abandonados"
+    },
+    {
+      "FORM": "@ThePitt.esm:001338",
+      "FORMID": "001338",
+      "EDID": "DLC01SteelMill04",
+      "FULL": "O Buraco"
+    },
+    {
+      "FORM": "@Fallout3.esm:09DF08",
+      "FORMID": "09DF08",
+      "EDID": "zSpringvaleBanditHouse",
+      "FULL": "Rancho Pequeno"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A270",
+      "FORMID": "01A270",
+      "EDID": "MamaDolces01",
+      "FULL": "Mama Dolce Comida Processada"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F48",
+      "FORMID": "017F48",
+      "EDID": "AnchorageWMMid",
+      "FULL": "Complexo do Memorial Anchorage"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BB94",
+      "FORMID": "00BB94",
+      "EDID": "NVDLC02ZionSCaveS",
+      "FULL": "Caverna Dois Céus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0820",
+      "FORMID": "0F0820",
+      "EDID": "WestsidePawnShopInterior",
+      "FULL": "Casa de Penhores do Miguel"
+    },
+    {
+      "FORM": "@Fallout3.esm:023226",
+      "FORMID": "023226",
+      "EDID": "MetroCenter07",
+      "FULL": "Estação do Museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F3E",
+      "FORMID": "017F3E",
+      "EDID": "RedRacer03",
+      "FULL": "Escritório CEO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15CE12",
+      "FORMID": "15CE12",
+      "EDID": "OVWestSewers03b",
+      "FULL": "As Criaturas do Espinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C89A",
+      "FORMID": "15C89A",
+      "EDID": "SLBasincreekINT",
+      "FULL": "O Edifício Basincreek"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9352",
+      "FORMID": "0B9352",
+      "EDID": "NovacMcBrideHouse",
+      "FULL": "Casa McBride"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F3C",
+      "FORMID": "000F3C",
+      "EDID": "DLC01MideaHut",
+      "FULL": "Casa de Midea"
+    },
+    {
+      "FORM": "@Fallout3.esm:039210",
+      "FORMID": "039210",
+      "EDID": "FFRadioCache08",
+      "FULL": "Câmara de Drenagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F34",
+      "FORMID": "017F34",
+      "EDID": "Tenpenny01",
+      "FULL": "Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A34",
+      "FORMID": "003A34",
+      "EDID": "MegatonWaterProcessingPlant",
+      "FULL": "Usina de Tratamento de Água"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CF6C",
+      "FORMID": "00CF6C",
+      "EDID": "NVDLC01Gala02",
+      "FULL": "Estação de Troca Puesta del Sol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121484",
+      "FORMID": "121484",
+      "EDID": "CampForlornHope02",
+      "FULL": "Quartel do Acampamento Forlorn Hope"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1206D8",
+      "FORMID": "1206D8",
+      "EDID": "HooverDamIntPowerPlant01",
+      "FULL": "Usina Hidrelétrica de Hoover Dam 01"
+    }
+  ]
+}

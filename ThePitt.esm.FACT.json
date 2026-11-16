@@ -1,0 +1,46 @@
+{
+  "FACT": [
+    {
+      "FORM": "@ThePitt.esm:004602",
+      "FORMID": "004602",
+      "EDID": "DLC01TalkingRaiderFaction",
+      "FULL": "Raiders de The Pitt (npcs menores)"
+    },
+    {
+      "FORM": "@ThePitt.esm:00375B",
+      "FORMID": "00375B",
+      "EDID": "DLC01CombatSlaves",
+      "FULL": "Escravos de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00375A",
+      "FORMID": "00375A",
+      "EDID": "DLC01CombatRaiders",
+      "FULL": "Raiders de The Pitt (Facção Raider Principal)"
+    },
+    {
+      "FORM": "@ThePitt.esm:0015DE",
+      "FORMID": "0015DE",
+      "EDID": "DLC01RaiderCheckpointFaction",
+      "FULL": "Raiders no Ponto de Controle da Ponte"
+    },
+    {
+      "FORM": "@ThePitt.esm:00633E",
+      "FORMID": "00633E",
+      "EDID": "DLC01RaiderNoPlayerDialogue",
+      "FULL": "Não entra em diálogo com o jogador."
+    },
+    {
+      "FORM": "@ThePitt.esm:0062A4",
+      "FORMID": "0062A4",
+      "EDID": "DLC01RaiderConvFaction",
+      "FULL": "Facção de Conversa Entre os Riders"
+    },
+    {
+      "FORM": "@ThePitt.esm:005527",
+      "FORMID": "005527",
+      "EDID": "DLC01SlaveConvFaction",
+      "FULL": "Facção de Conversa Entre os Escravos"
+    }
+  ]
+}

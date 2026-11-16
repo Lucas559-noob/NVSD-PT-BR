@@ -1,0 +1,7042 @@
+{
+  "CREA": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:020534",
+      "FORMID": "020534",
+      "EDID": "NVDLC03X8CrTurretLvlFall",
+      "FULL": "Hall Monitor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009400",
+      "FORMID": "009400",
+      "EDID": "NVDLC03CrCyberDogMilitary10Ranged",
+      "FULL": "Military Cyber Dog"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0093F4",
+      "FORMID": "0093F4",
+      "EDID": "DLC04CrMirelurk2",
+      "FULL": "Caçador Swamplurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008AB5",
+      "FORMID": "008AB5",
+      "EDID": "CrEyebotOutcast",
+      "FULL": "Eyebot dos Desertores"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008589",
+      "FORMID": "008589",
+      "EDID": "CrDeathClawMotherDC",
+      "FULL": "Deathclaw Mother"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D25",
+      "FORMID": "007D25",
+      "EDID": "DLC05crAbomination1",
+      "FULL": "Abomination"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D24",
+      "FORMID": "007D24",
+      "EDID": "DLC05crAlien6MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D23",
+      "FORMID": "007D23",
+      "EDID": "DLC05crAlien6GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D22",
+      "FORMID": "007D22",
+      "EDID": "DLC05crAlien5MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D21",
+      "FORMID": "007D21",
+      "EDID": "DLC05crAlien5GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D20",
+      "FORMID": "007D20",
+      "EDID": "DLC05crAlien4MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1F",
+      "FORMID": "007D1F",
+      "EDID": "DLC05crAlien4GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1E",
+      "FORMID": "007D1E",
+      "EDID": "DLC05crAlien3MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1D",
+      "FORMID": "007D1D",
+      "EDID": "DLC05crAlien3GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1C",
+      "FORMID": "007D1C",
+      "EDID": "DLC05crAlien2MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1B",
+      "FORMID": "007D1B",
+      "EDID": "DLC05crAlien2GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D1A",
+      "FORMID": "007D1A",
+      "EDID": "DLC05crAlien1MeleeA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D19",
+      "FORMID": "007D19",
+      "EDID": "DLC05crAlien1GunA",
+      "FULL": "Alien"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D18",
+      "FORMID": "007D18",
+      "EDID": "DLC05CrRobot1Ranged",
+      "FULL": "Guardian Drone"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D17",
+      "FORMID": "007D17",
+      "EDID": "DLC05CrRobot1Melee",
+      "FULL": "Support Drone"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007CFA",
+      "FORMID": "007CFA",
+      "EDID": "DLC02StrikeTeamRobotSentryBot1",
+      "FULL": "Strike Team Sentry Bot"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007CF9",
+      "FORMID": "007CF9",
+      "EDID": "DLC02StrikeTeamGutsy1",
+      "FULL": "Strike Team Mister Gutsy"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:005042",
+      "FORMID": "005042",
+      "EDID": "TTWMS15Turret2",
+      "FULL": "Mark II Turret"
+    },
+    {
+      "FORM": "@Zeta.esm:00D2E3",
+      "FORMID": "00D2E3",
+      "EDID": "DLC05TestAlienTeleporter",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00CA00",
+      "FORMID": "00CA00",
+      "EDID": "DLC05crAlienGuard1HPTemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00C9FF",
+      "FORMID": "00C9FF",
+      "EDID": "DLC05crAlienGuard2HRTemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00C4E4",
+      "FORMID": "00C4E4",
+      "EDID": "DLC05crAlien1Captain",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00C2F9",
+      "FORMID": "00C2F9",
+      "EDID": "DLC05AbominationDEAD",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:00AD56",
+      "FORMID": "00AD56",
+      "EDID": "DLC05LvlRobotRangedPodExLab",
+      "FULL": "Robô Armado Experimental"
+    },
+    {
+      "FORM": "@Zeta.esm:00AA22",
+      "FORMID": "00AA22",
+      "EDID": "DLC05Captain",
+      "FULL": "Capitão Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D1",
+      "FORMID": "00A9D1",
+      "EDID": "DLC05crAlien6MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D0",
+      "FORMID": "00A9D0",
+      "EDID": "DLC05crAlien6GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CF",
+      "FORMID": "00A9CF",
+      "EDID": "DLC05crAlien5MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CE",
+      "FORMID": "00A9CE",
+      "EDID": "DLC05crAlien4MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CD",
+      "FORMID": "00A9CD",
+      "EDID": "DLC05crAlien5GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CC",
+      "FORMID": "00A9CC",
+      "EDID": "DLC05crAlien4GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CB",
+      "FORMID": "00A9CB",
+      "EDID": "DLC05crAlien6MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CA",
+      "FORMID": "00A9CA",
+      "EDID": "DLC05crAlien5MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C9",
+      "FORMID": "00A9C9",
+      "EDID": "DLC05crAlien4MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C8",
+      "FORMID": "00A9C8",
+      "EDID": "DLC05crAlien3MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C7",
+      "FORMID": "00A9C7",
+      "EDID": "DLC05crAlien3GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C6",
+      "FORMID": "00A9C6",
+      "EDID": "DLC05crAlien6MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C5",
+      "FORMID": "00A9C5",
+      "EDID": "DLC05crAlien5MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C4",
+      "FORMID": "00A9C4",
+      "EDID": "DLC05crAlien4MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C3",
+      "FORMID": "00A9C3",
+      "EDID": "DLC05crAlien3MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C2",
+      "FORMID": "00A9C2",
+      "EDID": "DLC05crAlien2MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C1",
+      "FORMID": "00A9C1",
+      "EDID": "DLC05crAlien1MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C0",
+      "FORMID": "00A9C0",
+      "EDID": "DLC05crAlien6GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BF",
+      "FORMID": "00A9BF",
+      "EDID": "DLC05crAlien5GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BE",
+      "FORMID": "00A9BE",
+      "EDID": "DLC05crAlien4GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BD",
+      "FORMID": "00A9BD",
+      "EDID": "DLC05crAlien3GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BC",
+      "FORMID": "00A9BC",
+      "EDID": "DLC05crAlien2GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BB",
+      "FORMID": "00A9BB",
+      "EDID": "DLC05crAlien1GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BA",
+      "FORMID": "00A9BA",
+      "EDID": "DLC05crAlien6GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B9",
+      "FORMID": "00A9B9",
+      "EDID": "DLC05crAlien5GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B8",
+      "FORMID": "00A9B8",
+      "EDID": "DLC05crAlien4GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B7",
+      "FORMID": "00A9B7",
+      "EDID": "DLC05CrRobot6Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B6",
+      "FORMID": "00A9B6",
+      "EDID": "DLC05CrRobot5Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B5",
+      "FORMID": "00A9B5",
+      "EDID": "DLC05CrRobot4Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B1",
+      "FORMID": "00A9B1",
+      "EDID": "DLC05crTurret6",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B0",
+      "FORMID": "00A9B0",
+      "EDID": "DLC05crTurret5",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9AF",
+      "FORMID": "00A9AF",
+      "EDID": "DLC05crTurret4",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A94C",
+      "FORMID": "00A94C",
+      "EDID": "DLC05CrAlienNONHOSTILE",
+      "FULL": "Trabalhador alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A89C",
+      "FORMID": "00A89C",
+      "EDID": "DLC05FF01Brahmin",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:007125",
+      "FORMID": "007125",
+      "EDID": "DLC05YaoGuaiDEAD",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@Zeta.esm:006E22",
+      "FORMID": "006E22",
+      "EDID": "DLC05CoreSceneAlien",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E21",
+      "FORMID": "006E21",
+      "EDID": "DLC05crAlienDeadC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E20",
+      "FORMID": "006E20",
+      "EDID": "DLC05crAlienDeadB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E1F",
+      "FORMID": "006E1F",
+      "EDID": "DLC05crAlienDeadA",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0068E1",
+      "FORMID": "0068E1",
+      "EDID": "DLC05MZ1AlienHCMelee",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F9",
+      "FORMID": "0066F9",
+      "EDID": "DLC05MZ1AnimationAlien3",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F8",
+      "FORMID": "0066F8",
+      "EDID": "DLC05MZ1AnimationAlien2",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F7",
+      "FORMID": "0066F7",
+      "EDID": "DLC05MZ1AnimationAlien1",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F0",
+      "FORMID": "0066F0",
+      "EDID": "DLC05TESTcrAlien1HP",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058E1",
+      "FORMID": "0058E1",
+      "EDID": "DLC05CrRobot1RangedTemplate",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D4",
+      "FORMID": "0058D4",
+      "EDID": "DLC05crAbomination1Template",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D1",
+      "FORMID": "0058D1",
+      "EDID": "DLC05crTurret1",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D0",
+      "FORMID": "0058D0",
+      "EDID": "DLC05crTurret3",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:0058CF",
+      "FORMID": "0058CF",
+      "EDID": "DLC05crTurret2",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:0058C9",
+      "FORMID": "0058C9",
+      "EDID": "DLC05CrRobot1MeleeTemplate",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:005668",
+      "FORMID": "005668",
+      "EDID": "DLC05TESTcrAlien2HRALWAYSOUT",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00511F",
+      "FORMID": "00511F",
+      "EDID": "DLC05TESTcrAlien1HMelee",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00511E",
+      "FORMID": "00511E",
+      "EDID": "DLC05TESTcrAlien2HR",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:004BED",
+      "FORMID": "004BED",
+      "EDID": "DLC05BrahminExperiment01",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:0040A2",
+      "FORMID": "0040A2",
+      "EDID": "DLC05MZ1AlienGuard",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003FC8",
+      "FORMID": "003FC8",
+      "EDID": "DLC05TESTcrAlienTalk",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7F",
+      "FORMID": "003C7F",
+      "EDID": "DLC05crAlien3MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7D",
+      "FORMID": "003C7D",
+      "EDID": "DLC05crAlien2MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7C",
+      "FORMID": "003C7C",
+      "EDID": "DLC05crAlien2MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7A",
+      "FORMID": "003C7A",
+      "EDID": "DLC05crAlien1MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C79",
+      "FORMID": "003C79",
+      "EDID": "DLC05crAlien1MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6F",
+      "FORMID": "003C6F",
+      "EDID": "DLC05crAlien3GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6D",
+      "FORMID": "003C6D",
+      "EDID": "DLC05crAlien2GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6C",
+      "FORMID": "003C6C",
+      "EDID": "DLC05crAlien2GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C66",
+      "FORMID": "003C66",
+      "EDID": "DLC05crAlien1GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C65",
+      "FORMID": "003C65",
+      "EDID": "DLC05crAlien1GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0034DA",
+      "FORMID": "0034DA",
+      "EDID": "DLC05TESTcrAlien2",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@PointLookout.esm:0116F6",
+      "FORMID": "0116F6",
+      "EDID": "DLC04BogHallucinationGhoul",
+      "FULL": "Ghoul do Pântano"
+    },
+    {
+      "FORM": "@PointLookout.esm:011098",
+      "FORMID": "011098",
+      "EDID": "DLC04staticShotgunScrapper",
+      "FULL": "Combatente"
+    },
+    {
+      "FORM": "@PointLookout.esm:010C27",
+      "FORMID": "010C27",
+      "EDID": "DLC04DeadCrMirelurk1",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107BC",
+      "FORMID": "0107BC",
+      "EDID": "DLC04crSwampFolk4Melee",
+      "FULL": "Batedor"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107BB",
+      "FORMID": "0107BB",
+      "EDID": "DLC04crSwampFolk3Melee",
+      "FULL": "Rastejador"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107BA",
+      "FORMID": "0107BA",
+      "EDID": "DLC04crSwampFolk2Melee",
+      "FULL": "Desordeiro"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107B9",
+      "FORMID": "0107B9",
+      "EDID": "DLC04crSwampFolk1Melee",
+      "FULL": "Combatente"
+    },
+    {
+      "FORM": "@PointLookout.esm:0106AD",
+      "FORMID": "0106AD",
+      "EDID": "DLC04CrFeralGhoul4A",
+      "FULL": "Feral Ghoul Reaver"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FCAD",
+      "FORMID": "00FCAD",
+      "EDID": "DLC04crSwamplurkDeadBearTrap",
+      "FULL": "Swamplurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FAE2",
+      "FORMID": "00FAE2",
+      "EDID": "DLC04BlackhallManorSwampFolk03DEAD",
+      "FULL": "Rastejador"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F7A8",
+      "FORMID": "00F7A8",
+      "EDID": "DLC04crSwamplurkDead",
+      "FULL": "Swamplurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECF9",
+      "FORMID": "00ECF9",
+      "EDID": "DLC04CrYaoGuai",
+      "FULL": "Ruzka"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA7E",
+      "FORMID": "00EA7E",
+      "EDID": "DLC04StoreProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E771",
+      "FORMID": "00E771",
+      "EDID": "DLC04crSwampFolk2Ranged",
+      "FULL": "Desordeiro"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E770",
+      "FORMID": "00E770",
+      "EDID": "DLC04crSwampFolk5Melee",
+      "FULL": "Pugilista"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E76F",
+      "FORMID": "00E76F",
+      "EDID": "DLC04crSwampFolk3Ranged",
+      "FULL": "Rastejador"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E76E",
+      "FORMID": "00E76E",
+      "EDID": "DLC04crSwampFolk1Ranged",
+      "FULL": "Combatente"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1A1",
+      "FORMID": "00E1A1",
+      "EDID": "DLC04LabRoundRoomRobobrainSentry",
+      "FULL": "Robobrain Sentinela"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D5D7",
+      "FORMID": "00D5D7",
+      "EDID": "DLC04LabRobobrainSentry",
+      "FULL": "Robobrain Sentinela"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C9C2",
+      "FORMID": "00C9C2",
+      "EDID": "DLC04CagedSwamplurk",
+      "FULL": "Swamplurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C1E7",
+      "FORMID": "00C1E7",
+      "EDID": "DLC04DesmondDog03",
+      "FULL": "Geri"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B850",
+      "FORMID": "00B850",
+      "EDID": "DLC04LabProtectronBrain",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B001",
+      "FORMID": "00B001",
+      "EDID": "DLC04crSwamplurk",
+      "FULL": "Swamplurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ADAE",
+      "FORMID": "00ADAE",
+      "EDID": "DLC04LabProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A56C",
+      "FORMID": "00A56C",
+      "EDID": "DLC04crSwamplurkQueen",
+      "FULL": "Swamplurk Queen"
+    },
+    {
+      "FORM": "@PointLookout.esm:009C09",
+      "FORMID": "009C09",
+      "EDID": "DLC04FF06GhoulPassive",
+      "FULL": "Ghoul do Pântano"
+    },
+    {
+      "FORM": "@PointLookout.esm:008807",
+      "FORMID": "008807",
+      "EDID": "DLC04CrSwampGhoul",
+      "FULL": "Ghoul do Pântano"
+    },
+    {
+      "FORM": "@PointLookout.esm:006BF3",
+      "FORMID": "006BF3",
+      "EDID": "DLC04CrBrainDefenseTurret",
+      "FULL": "Torreta Mark I"
+    },
+    {
+      "FORM": "@PointLookout.esm:006646",
+      "FORMID": "006646",
+      "EDID": "DLC04DesmondDog01",
+      "FULL": "Freki"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF37",
+      "FORMID": "00CF37",
+      "EDID": "DLC03zCarTunnelTurretDC",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AD89",
+      "FORMID": "00AD89",
+      "EDID": "DLC03CrRadscorpion3Albino",
+      "FULL": "RadEscorpião Albino"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009AE1",
+      "FORMID": "009AE1",
+      "EDID": "DLC03SentryBotMGEnclaveStiggs",
+      "FULL": "Sparky"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00946B",
+      "FORMID": "00946B",
+      "EDID": "DLC03DeathClawEnclaveBase",
+      "FULL": "Deathclaw"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CCF",
+      "FORMID": "008CCF",
+      "EDID": "DLC03CrTurret04EnclaveMB",
+      "FULL": "Torreta Mark VIII"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CBD",
+      "FORMID": "008CBD",
+      "EDID": "DLC03SentryBotGLEnclaveMB",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0088F3",
+      "FORMID": "0088F3",
+      "EDID": "DLC03SentryBotGLArmory",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007E36",
+      "FORMID": "007E36",
+      "EDID": "DLC03WQ03CrGlowingApostle",
+      "FULL": "Sol do Átomo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006520",
+      "FORMID": "006520",
+      "EDID": "DLC03WQ03SunOfAtom",
+      "FULL": "Campeão do Átomo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064D6",
+      "FORMID": "0064D6",
+      "EDID": "DLC03PresMetroLvlRobotBoss",
+      "FULL": "Unidade Sentinela do Metrô Presidencial"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064A5",
+      "FORMID": "0064A5",
+      "EDID": "DLC03PresMetroGhoul02DEAD",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064A3",
+      "FORMID": "0064A3",
+      "EDID": "DLC03PresMetroGhoul01DEAD",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005815",
+      "FORMID": "005815",
+      "EDID": "DLC03EncounterPPDeadMirelurk02",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056BD",
+      "FORMID": "0056BD",
+      "EDID": "DLC03DeadMirelurk02",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056BC",
+      "FORMID": "0056BC",
+      "EDID": "DLC03DeadMirelurk01",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C16",
+      "FORMID": "004C16",
+      "EDID": "DLC03EncounterADOutcastA1",
+      "FULL": "Robô Sentinela dos Desertores"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00372A",
+      "FORMID": "00372A",
+      "EDID": "DLC03EncounterPPCBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00341C",
+      "FORMID": "00341C",
+      "EDID": "DLC03EncounterBTBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E0E",
+      "FORMID": "002E0E",
+      "EDID": "DLC03EncounterFBBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002767",
+      "FORMID": "002767",
+      "EDID": "DLC03EncounterTPBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002651",
+      "FORMID": "002651",
+      "EDID": "DLC03EncounterMegBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002092",
+      "FORMID": "002092",
+      "EDID": "DLC03EncounterPPDyingMirelurk",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001FCC",
+      "FORMID": "001FCC",
+      "EDID": "DLC03LibertyPrime",
+      "FULL": "Liberty Prime"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001D2F",
+      "FORMID": "001D2F",
+      "EDID": "DLC03EncounterPPDeadMirelurk01",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0013B2",
+      "FORMID": "0013B2",
+      "EDID": "DLC03EncounterRCBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A93C",
+      "FORMID": "00A93C",
+      "EDID": "DLC01SteelyardProtectron",
+      "FULL": "Protectron da Fábrica"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A93B",
+      "FORMID": "00A93B",
+      "EDID": "DLC01GenericFactoryProtectron02",
+      "FULL": "Protectron da Fábrica"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A84A",
+      "FORMID": "00A84A",
+      "EDID": "DLC01DeadProtectron",
+      "FULL": "Protectron da Fábrica"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A849",
+      "FORMID": "00A849",
+      "EDID": "DLC01GenericFactoryProtectron",
+      "FULL": "Protectron da Fábrica"
+    },
+    {
+      "FORM": "@ThePitt.esm:0038C9",
+      "FORMID": "0038C9",
+      "EDID": "DLC01BridgeDog02",
+      "FULL": "Cachorro Cruel"
+    },
+    {
+      "FORM": "@ThePitt.esm:0038C7",
+      "FORMID": "0038C7",
+      "EDID": "DLC01BridgeDog01",
+      "FULL": "Cachorro Cruel"
+    },
+    {
+      "FORM": "@ThePitt.esm:0038BE",
+      "FORMID": "0038BE",
+      "EDID": "DLC01BridgeMoleRat01",
+      "FULL": "Rato Toupeira"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CF2D",
+      "FORMID": "00CF2D",
+      "EDID": "DLCAnchCreaturesChimeraBLOCKER",
+      "FULL": "Tanque Quimera"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C700",
+      "FORMID": "00C700",
+      "EDID": "DLC02ChineseDogMines",
+      "FULL": "Cachorro Guardião"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C487",
+      "FORMID": "00C487",
+      "EDID": "DLC02ChineseGateTurret",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C16B",
+      "FORMID": "00C16B",
+      "EDID": "DLC02ChineseDogIceCamp",
+      "FULL": "Cachorro Guardião"
+    },
+    {
+      "FORM": "@Anchorage.esm:00AB27",
+      "FORMID": "00AB27",
+      "EDID": "DLC02TurretCeiling2500",
+      "FULL": "Torreta Mark I"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A4EC",
+      "FORMID": "00A4EC",
+      "EDID": "DLC02TurretFloorChinese",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A4E0",
+      "FORMID": "00A4E0",
+      "EDID": "DLC02SpiderMine",
+      "FULL": "Aranha Robótica"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF5",
+      "FORMID": "008CF5",
+      "EDID": "DLC02StrikeTeamRobotSentryBot5",
+      "FULL": "Robô Sentinela da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF4",
+      "FORMID": "008CF4",
+      "EDID": "DLC02StrikeTeamRobotSentryBot4",
+      "FULL": "Robô Sentinela da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF3",
+      "FORMID": "008CF3",
+      "EDID": "DLC02StrikeTeamRobotSentryBot3",
+      "FULL": "Robô Sentinela da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF2",
+      "FORMID": "008CF2",
+      "EDID": "DLC02StrikeTeamRobotSentryBot2",
+      "FULL": "Robô Sentinela da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE1",
+      "FORMID": "008CE1",
+      "EDID": "DLC02StrikeTeamGutsy5",
+      "FULL": "Sr. Corajoso da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE0",
+      "FORMID": "008CE0",
+      "EDID": "DLC02StrikeTeamGutsy4",
+      "FULL": "Sr. Corajoso da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDF",
+      "FORMID": "008CDF",
+      "EDID": "DLC02StrikeTeamGutsy3",
+      "FULL": "Sr. Corajoso da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDE",
+      "FORMID": "008CDE",
+      "EDID": "DLC02StrikeTeamGutsy2",
+      "FULL": "Sr. Corajoso da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CB4",
+      "FORMID": "008CB4",
+      "EDID": "DLCCrTurret02Outcast",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@Anchorage.esm:0068AD",
+      "FORMID": "0068AD",
+      "EDID": "DLC02ArtyBaseCavern",
+      "FULL": "Tanque Quimera"
+    },
+    {
+      "FORM": "@Anchorage.esm:005013",
+      "FORMID": "005013",
+      "EDID": "DLC02StrikeTeamRobotSentryBot1Template",
+      "FULL": "Robô Sentinela da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00301F",
+      "FORMID": "00301F",
+      "EDID": "DLCAnchCreaturesChimera",
+      "FULL": "Tanque Quimera"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D01",
+      "FORMID": "002D01",
+      "EDID": "DLC02StrikeTeamGutsy1Template",
+      "FULL": "Sr. Corajoso da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:001F0C",
+      "FORMID": "001F0C",
+      "EDID": "DLCAnchSnowBotGL",
+      "FULL": "Sentry Bot"
+    },
+    {
+      "FORM": "@Anchorage.esm:001F0B",
+      "FORMID": "001F0B",
+      "EDID": "DLCAnchSnowGutsy",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Anchorage.esm:001F0A",
+      "FORMID": "001F0A",
+      "EDID": "DLCAnchSnowBotMG",
+      "FULL": "Sentry Bot"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C8513",
+      "FORMID": "0C8513",
+      "EDID": "FFRaiderCamp17SuperMutantDeadDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C394C",
+      "FORMID": "0C394C",
+      "EDID": "DEADCrYaoGuai",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C053F",
+      "FORMID": "0C053F",
+      "EDID": "MS15ThomasJefferson",
+      "FULL": "Thomas Jefferson"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C053E",
+      "FORMID": "0C053E",
+      "EDID": "MS15BackupProtectron",
+      "FULL": "Cópia de segurança da unidade de proteção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BAD1A",
+      "FORMID": "0BAD1A",
+      "EDID": "FeralGhoulDEADDC",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2936",
+      "FORMID": "0B2936",
+      "EDID": "MS02BattleAnt",
+      "FULL": "Formiga de Batalha"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2935",
+      "FORMID": "0B2935",
+      "EDID": "MS02BattleRobot",
+      "FULL": "Robô de Batalha"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E6",
+      "FORMID": "0B05E6",
+      "EDID": "LvlSupermutantGunDISMEMBERNOAMMODC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E5",
+      "FORMID": "0B05E5",
+      "EDID": "LvlSupermutantMeleeDISMEMBERNOAMMODC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E4",
+      "FORMID": "0B05E4",
+      "EDID": "LvlSupermutantMeleeDISMEMBERDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E3",
+      "FORMID": "0B05E3",
+      "EDID": "LvlSupermutantGunDISMEMBERDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB4A1",
+      "FORMID": "0AB4A1",
+      "EDID": "MQ09ControlRoomSentryBot2",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB48B",
+      "FORMID": "0AB48B",
+      "EDID": "FFEU16Dog",
+      "FULL": "Cão Raivoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5C6F",
+      "FORMID": "0A5C6F",
+      "EDID": "CrSentryBotMGArmyDC",
+      "FULL": "Robô Sentinela do Exército"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5C6E",
+      "FORMID": "0A5C6E",
+      "EDID": "CrSentryBotGLArmyDC",
+      "FULL": "Robô Sentinela do Exército"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5C6C",
+      "FORMID": "0A5C6C",
+      "EDID": "CrRobobrainArmyDC",
+      "FULL": "Robocérebro do Exército"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A592B",
+      "FORMID": "0A592B",
+      "EDID": "CrProtectronArmyDC",
+      "FULL": "Protectron do Exército"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A53F0",
+      "FORMID": "0A53F0",
+      "EDID": "ForgeGenericProtectron02",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4E5E",
+      "FORMID": "0A4E5E",
+      "EDID": "CrBrahminPackBDC",
+      "FULL": "Brahmin de Carga"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4E5D",
+      "FORMID": "0A4E5D",
+      "EDID": "CrBrahminPackADC",
+      "FULL": "Brahmin de Carga"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4447",
+      "FORMID": "0A4447",
+      "EDID": "ForgeGenericProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:09FAFB",
+      "FORMID": "09FAFB",
+      "EDID": "CrFeralGhoul2ADC",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:09FAFA",
+      "FORMID": "09FAFA",
+      "EDID": "CrFeralGhoul1ADC",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8EA",
+      "FORMID": "09E8EA",
+      "EDID": "CrSuperMutant1MeleeFDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E9",
+      "FORMID": "09E8E9",
+      "EDID": "CrSuperMutant1MeleeEDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E8",
+      "FORMID": "09E8E8",
+      "EDID": "CrSuperMutant1MeleeDDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E7",
+      "FORMID": "09E8E7",
+      "EDID": "CrSuperMutant1GunFDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E6",
+      "FORMID": "09E8E6",
+      "EDID": "CrSuperMutant1GunEDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E5",
+      "FORMID": "09E8E5",
+      "EDID": "CrSuperMutant1GunDDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E4",
+      "FORMID": "09E8E4",
+      "EDID": "CrSuperMutant1MeleeCDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E3",
+      "FORMID": "09E8E3",
+      "EDID": "CrSuperMutant1GunCDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E2",
+      "FORMID": "09E8E2",
+      "EDID": "CrSuperMutant2MissileLauncherCDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E1",
+      "FORMID": "09E8E1",
+      "EDID": "CrSuperMutant2MinigunCDC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E0",
+      "FORMID": "09E8E0",
+      "EDID": "CrSuperMutant2MeleeCDC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8DE",
+      "FORMID": "09E8DE",
+      "EDID": "CrSuperMutant2GunCDC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECE",
+      "FORMID": "094ECE",
+      "EDID": "CrSuperMutant3MissileLauncherBDC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECD",
+      "FORMID": "094ECD",
+      "EDID": "CrSuperMutant3MinigunBDC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECC",
+      "FORMID": "094ECC",
+      "EDID": "CrSuperMutant3MeleeBDC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECB",
+      "FORMID": "094ECB",
+      "EDID": "CrSuperMutant3GunBDC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECA",
+      "FORMID": "094ECA",
+      "EDID": "CrSuperMutant2MissileLauncherBDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC9",
+      "FORMID": "094EC9",
+      "EDID": "CrSuperMutant2MinigunBDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC8",
+      "FORMID": "094EC8",
+      "EDID": "CrSuperMutant2MeleeBDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC7",
+      "FORMID": "094EC7",
+      "EDID": "CrSuperMutant2GunBDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC6",
+      "FORMID": "094EC6",
+      "EDID": "CrSuperMutant1MeleeBDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC5",
+      "FORMID": "094EC5",
+      "EDID": "CrSuperMutant1GunBDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4F",
+      "FORMID": "092C4F",
+      "EDID": "CrSuperMutant2MinigunADC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4E",
+      "FORMID": "092C4E",
+      "EDID": "CrSuperMutant3MeleeADC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4D",
+      "FORMID": "092C4D",
+      "EDID": "CrSuperMutant3GunADC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C49",
+      "FORMID": "092C49",
+      "EDID": "CrSuperMutant2MissileLauncherADC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F086",
+      "FORMID": "08F086",
+      "EDID": "CrZaxEye",
+      "FULL": "Intercomunicador Ocular"
+    },
+    {
+      "FORM": "@Fallout3.esm:086472",
+      "FORMID": "086472",
+      "EDID": "CrTurret03SteelDC",
+      "FULL": "Torre Mark VI"
+    },
+    {
+      "FORM": "@Fallout3.esm:08646F",
+      "FORMID": "08646F",
+      "EDID": "CrTurret02SteelDC",
+      "FULL": "Torre Mark IV"
+    },
+    {
+      "FORM": "@Fallout3.esm:08646C",
+      "FORMID": "08646C",
+      "EDID": "CrTurret01SteelDC",
+      "FULL": "Torre Mark II"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E1B4",
+      "FORMID": "07E1B4",
+      "EDID": "RaiderBrahminDC",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@Fallout3.esm:079F2B",
+      "FORMID": "079F2B",
+      "EDID": "MQ11EyebotKamikaze",
+      "FULL": "Eyebot da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:074163",
+      "FORMID": "074163",
+      "EDID": "MS16Andy",
+      "FULL": "Andy"
+    },
+    {
+      "FORM": "@Fallout3.esm:073243",
+      "FORMID": "073243",
+      "EDID": "YaoGuaiScavenger",
+      "FULL": "Yao Guai do Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F772",
+      "FORMID": "06F772",
+      "EDID": "MS15Turret",
+      "FULL": "Torre Mark II"
+    },
+    {
+      "FORM": "@Fallout3.esm:06A772",
+      "FORMID": "06A772",
+      "EDID": "FFEU255Dogmeat",
+      "FULL": "Dogmeat"
+    },
+    {
+      "FORM": "@Fallout3.esm:05FD26",
+      "FORMID": "05FD26",
+      "EDID": "MQ11LibertyPrime",
+      "FULL": "Liberty Prime"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9D1",
+      "FORMID": "05F9D1",
+      "EDID": "CrSentryBotMGEnclaveDC",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CC",
+      "FORMID": "05F9CC",
+      "EDID": "CrSentryBotMGSteelDC",
+      "FULL": "Robô Sentinela da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CB",
+      "FORMID": "05F9CB",
+      "EDID": "CrSentryBotMGOutcastDC",
+      "FULL": "Robô Sentinela dos Desertores"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CA",
+      "FORMID": "05F9CA",
+      "EDID": "CrSentryBotMGDC",
+      "FULL": "Robô sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0513F1",
+      "FORMID": "0513F1",
+      "EDID": "DeadSuperMutant2MeleeDC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0513EE",
+      "FORMID": "0513EE",
+      "EDID": "DeadSuperMutant1GunDC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0500B8",
+      "FORMID": "0500B8",
+      "EDID": "MQ03Robobrain2",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@Fallout3.esm:04D5B7",
+      "FORMID": "04D5B7",
+      "EDID": "MS05NukaColaFactoryForeman",
+      "FULL": "Milo, Chefe de Expedição"
+    },
+    {
+      "FORM": "@Fallout3.esm:04AD9F",
+      "FORMID": "04AD9F",
+      "EDID": "MQ04RoboCustodian",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E592",
+      "FORMID": "03E592",
+      "EDID": "MS03Radroach",
+      "FULL": "Radroach"
+    },
+    {
+      "FORM": "@Fallout3.esm:03BEB2",
+      "FORMID": "03BEB2",
+      "EDID": "GenericMetroProtectron",
+      "FULL": "Protectron do metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A387",
+      "FORMID": "03A387",
+      "EDID": "MQ09ControlRoomSentryBot",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A149",
+      "FORMID": "03A149",
+      "EDID": "CrSuperMutant3MissileLauncherADC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A148",
+      "FORMID": "03A148",
+      "EDID": "CrSuperMutant2MeleeADC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A147",
+      "FORMID": "03A147",
+      "EDID": "CrSuperMutant1MeleeADC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:03181D",
+      "FORMID": "03181D",
+      "EDID": "MS04CrQueenAnt",
+      "FULL": "Formiga Rainha Marigold"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D509",
+      "FORMID": "02D509",
+      "EDID": "MS18WreckedProtectron01",
+      "FULL": "Manutenção do Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B8EA",
+      "FORMID": "02B8EA",
+      "EDID": "Cerberus",
+      "FULL": "Cerberus"
+    },
+    {
+      "FORM": "@Fallout3.esm:02977A",
+      "FORMID": "02977A",
+      "EDID": "CrMisterHandyDC",
+      "FULL": "Sr. Útil"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB6",
+      "FORMID": "027FB6",
+      "EDID": "MS06SuperMutantMeleeDEAD",
+      "FULL": "Super Mutant Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB4",
+      "FORMID": "027FB4",
+      "EDID": "MS06SuperMutantGunDEAD",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB3",
+      "FORMID": "027FB3",
+      "EDID": "CrSuperMutant2GunADC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB2",
+      "FORMID": "027FB2",
+      "EDID": "CrSuperMutant3MinigunADC",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FAD",
+      "FORMID": "027FAD",
+      "EDID": "MS06BrahminDC",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FA7",
+      "FORMID": "027FA7",
+      "EDID": "MS06TempleDog",
+      "FULL": "Four Score"
+    },
+    {
+      "FORM": "@Fallout3.esm:023B56",
+      "FORMID": "023B56",
+      "EDID": "DeadSuperMutant1GunNOAMMODC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EC1",
+      "FORMID": "021EC1",
+      "EDID": "CrMisterGutsySteelDC",
+      "FULL": "Sr. Corajoso da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EC0",
+      "FORMID": "021EC0",
+      "EDID": "CrMisterGutsyOutcastDC",
+      "FULL": "Sr. Corajoso dos Desertores"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EBE",
+      "FORMID": "021EBE",
+      "EDID": "CrMisterGutsyEnclaveDC",
+      "FULL": "Sr. Corajoso da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EBD",
+      "FORMID": "021EBD",
+      "EDID": "CrMisterGutsyDC",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FB39",
+      "FORMID": "01FB39",
+      "EDID": "DeputyWeld",
+      "FULL": "Deputy Weld"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F1F8",
+      "FORMID": "01F1F8",
+      "EDID": "MQ01Behemoth",
+      "FULL": "Super mutante behemoth"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EE61",
+      "FORMID": "01EE61",
+      "EDID": "MS17VaultTecMasterbrain",
+      "FULL": "Cérebro-Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6EA",
+      "FORMID": "01D6EA",
+      "EDID": "MetroCenter02SuperMutant01",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6E2",
+      "FORMID": "01D6E2",
+      "EDID": "MetroCenter02Protectron",
+      "FULL": "Protectron do metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFA3",
+      "FORMID": "01CFA3",
+      "EDID": "CrDogViciousDC",
+      "FULL": "Cão Raivoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFA2",
+      "FORMID": "01CFA2",
+      "EDID": "CrBrahminDC",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFA0",
+      "FORMID": "01CFA0",
+      "EDID": "CrYaoGuai",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF9E",
+      "FORMID": "01CF9E",
+      "EDID": "CrRadscorpion2LargeDC",
+      "FULL": "RadEscorpião Gigante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF9D",
+      "FORMID": "01CF9D",
+      "EDID": "CrRadscorpion1SmallDC",
+      "FULL": "Radscorpion"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF93",
+      "FORMID": "01CF93",
+      "EDID": "CrSuperMutant1GunADC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF90",
+      "FORMID": "01CF90",
+      "EDID": "CrCentaurDC",
+      "FULL": "Centauro"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8F",
+      "FORMID": "01CF8F",
+      "EDID": "CrProtectronDC",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8E",
+      "FORMID": "01CF8E",
+      "EDID": "CrProtectronSteelDC",
+      "FULL": "Protectron da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8D",
+      "FORMID": "01CF8D",
+      "EDID": "CrProtectronOutcastDC",
+      "FULL": "Protectron dos Desertores"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8B",
+      "FORMID": "01CF8B",
+      "EDID": "CrProtectronEnclaveDC",
+      "FULL": "Protectron da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8A",
+      "FORMID": "01CF8A",
+      "EDID": "CrSentryBotGLDC",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF89",
+      "FORMID": "01CF89",
+      "EDID": "CrRobobrainDC",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF81",
+      "FORMID": "01CF81",
+      "EDID": "CrAnt1WorkerDC",
+      "FULL": "Formiga Gigante Operária"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF80",
+      "FORMID": "01CF80",
+      "EDID": "CrAnt2SoldierDC",
+      "FULL": "Formiga Gigante Soldado"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7F",
+      "FORMID": "01CF7F",
+      "EDID": "CrAnt3QueenDC",
+      "FULL": "Formiga Gigante Rainha"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7C",
+      "FORMID": "01CF7C",
+      "EDID": "CrRadroachDC",
+      "FULL": "Radroach"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7B",
+      "FORMID": "01CF7B",
+      "EDID": "CrFeralGhoulGlowingOneDC",
+      "FULL": "O Irradiante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7A",
+      "FORMID": "01CF7A",
+      "EDID": "CrFeralGhoul1BDC",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF75",
+      "FORMID": "01CF75",
+      "EDID": "CrSentryBotGLEnclaveDC",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF74",
+      "FORMID": "01CF74",
+      "EDID": "CrRobobrainEnclaveDC",
+      "FULL": "Robocérebro da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF71",
+      "FORMID": "01CF71",
+      "EDID": "CrSentryBotGLOutcastDC",
+      "FULL": "Robô Sentinela dos Desertores"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF70",
+      "FORMID": "01CF70",
+      "EDID": "CrRobobrainOutcastDC",
+      "FULL": "Robobrain Desertor"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF6E",
+      "FORMID": "01CF6E",
+      "EDID": "CrSentryBotGLSteelDC",
+      "FULL": "Robô Sentinela da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF6D",
+      "FORMID": "01CF6D",
+      "EDID": "CrRobobrainSteelDC",
+      "FULL": "Robocérebro da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:014F82",
+      "FORMID": "014F82",
+      "EDID": "MQ03Robobrain",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@Fallout3.esm:003402",
+      "FORMID": "003402",
+      "EDID": "MQ09ZAXEyeMasterControl",
+      "FULL": "Intercomunicador Ocular"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C6",
+      "FORMID": "00D8C6",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul50",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C2",
+      "FORMID": "00D8C2",
+      "EDID": "NVDLC04EyebotMedical50",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C1",
+      "FORMID": "00D8C1",
+      "EDID": "NVDLC04EyebotMedical40",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C0",
+      "FORMID": "00D8C0",
+      "EDID": "NVDLC04EyebotMedical30",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BD",
+      "FORMID": "00D8BD",
+      "EDID": "NVDLC04EyebotRepair50",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BC",
+      "FORMID": "00D8BC",
+      "EDID": "NVDLC04EyebotRepair40",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BB",
+      "FORMID": "00D8BB",
+      "EDID": "NVDLC04EyebotRepair30",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D5C3",
+      "FORMID": "00D5C3",
+      "EDID": "NVDLC04DeathclawBossDead",
+      "FULL": "Rawr"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF86",
+      "FORMID": "00CF86",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul20",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009810",
+      "FORMID": "009810",
+      "EDID": "NVDLC04Road02DeathClawDEAD",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009538",
+      "FORMID": "009538",
+      "EDID": "NVDLC04CrTurretMarkVI50",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009537",
+      "FORMID": "009537",
+      "EDID": "NVDLC04CrTurretMarkVI40",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009536",
+      "FORMID": "009536",
+      "EDID": "NVDLC04CrTurretMarkVI30",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009535",
+      "FORMID": "009535",
+      "EDID": "NVDLC04CrTurretMarkVI01",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009534",
+      "FORMID": "009534",
+      "EDID": "NVDLC04CrTurretMarkIV50",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009533",
+      "FORMID": "009533",
+      "EDID": "NVDLC04CrTurretMarkIV40",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009532",
+      "FORMID": "009532",
+      "EDID": "NVDLC04CrTurretMarkIV30",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009531",
+      "FORMID": "009531",
+      "EDID": "NVDLC04CrTurretMarkIV01",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952F",
+      "FORMID": "00952F",
+      "EDID": "NVDLC04CrTurretMarkII50",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952E",
+      "FORMID": "00952E",
+      "EDID": "NVDLC04CrTurretMarkII40",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952D",
+      "FORMID": "00952D",
+      "EDID": "NVDLC04CrTurretMarkII30",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952C",
+      "FORMID": "00952C",
+      "EDID": "NVDLC04CrTurretMarkII01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009523",
+      "FORMID": "009523",
+      "EDID": "NVDLC04CrDeathClawAlpha50",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009522",
+      "FORMID": "009522",
+      "EDID": "NVDLC04CrDeathClawAlpha40",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009521",
+      "FORMID": "009521",
+      "EDID": "NVDLC04CrDeathClawAlpha30",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009520",
+      "FORMID": "009520",
+      "EDID": "NVDLC04CrDeathClawAlpha01",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951A",
+      "FORMID": "00951A",
+      "EDID": "NVDLC04CrMoleRatPup01",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009516",
+      "FORMID": "009516",
+      "EDID": "NVDLC04CrDeathClawYoungLVL",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009511",
+      "FORMID": "009511",
+      "EDID": "NVDLC04CrDeathClawYoung50",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009510",
+      "FORMID": "009510",
+      "EDID": "NVDLC04CrDeathClawYoung40",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950F",
+      "FORMID": "00950F",
+      "EDID": "NVDLC04CrDeathClawYoung30",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950E",
+      "FORMID": "00950E",
+      "EDID": "NVDLC04CrDeathClawYoung01",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009457",
+      "FORMID": "009457",
+      "EDID": "NVDLC04TunnelTunnelerScare02",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009419",
+      "FORMID": "009419",
+      "EDID": "NVDLC04TunnelTunnelerScare",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009418",
+      "FORMID": "009418",
+      "EDID": "NVDLC04CrDeathClawTunnel",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00914A",
+      "FORMID": "00914A",
+      "EDID": "NVDLC04EyebotMedical20",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009149",
+      "FORMID": "009149",
+      "EDID": "NVDLC04EyebotRepair20",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090A6",
+      "FORMID": "0090A6",
+      "EDID": "NVDLC04CrSentryBotMGArmySilo01DeadBot",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008976",
+      "FORMID": "008976",
+      "EDID": "NVDLC04DivideMoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F8",
+      "FORMID": "0086F8",
+      "EDID": "NVDLC04CrTurretMarkVI20",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F7",
+      "FORMID": "0086F7",
+      "EDID": "NVDLC04CrTurretMarkIV20",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F6",
+      "FORMID": "0086F6",
+      "EDID": "NVDLC04CrTurretMarkII20",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E8",
+      "FORMID": "0086E8",
+      "EDID": "NVDLC04CrSentryBotMGArmy50",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E7",
+      "FORMID": "0086E7",
+      "EDID": "NVDLC04CrSentryBotMGArmy40",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E6",
+      "FORMID": "0086E6",
+      "EDID": "NVDLC04CrSentryBotMGArmy30",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E5",
+      "FORMID": "0086E5",
+      "EDID": "NVDLC04CrSentryBotMGArmy20",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E4",
+      "FORMID": "0086E4",
+      "EDID": "NVDLC04CrSentryBotGLArmy50",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E3",
+      "FORMID": "0086E3",
+      "EDID": "NVDLC04CrSentryBotGLArmy40",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E2",
+      "FORMID": "0086E2",
+      "EDID": "NVDLC04CrSentryBotGLArmy20",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E1",
+      "FORMID": "0086E1",
+      "EDID": "NVDLC04CrSentryBotGLArmy30",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E0",
+      "FORMID": "0086E0",
+      "EDID": "NVDLC04CrSentryBotMGArmy01",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DF",
+      "FORMID": "0086DF",
+      "EDID": "NVDLC04CrSentryBotGLArmy01",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DC",
+      "FORMID": "0086DC",
+      "EDID": "NVDLC04TunnelerBoss",
+      "FULL": "Rainha Tuneladora"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D9",
+      "FORMID": "0086D9",
+      "EDID": "NVDLC04TunnelerVenom50",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D8",
+      "FORMID": "0086D8",
+      "EDID": "NVDLC04TunnelerVenom40",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D7",
+      "FORMID": "0086D7",
+      "EDID": "NVDLC04TunnelerVenom30",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D6",
+      "FORMID": "0086D6",
+      "EDID": "NVDLC04TunnelerVenom20",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D4",
+      "FORMID": "0086D4",
+      "EDID": "NVDLC04TunnelerVenom01",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D1",
+      "FORMID": "0086D1",
+      "EDID": "NVDLC04TunnelerBrute50",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D0",
+      "FORMID": "0086D0",
+      "EDID": "NVDLC04TunnelerBrute40",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CF",
+      "FORMID": "0086CF",
+      "EDID": "NVDLC04TunnelerBrute30",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CE",
+      "FORMID": "0086CE",
+      "EDID": "NVDLC04TunnelerBrute20",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CC",
+      "FORMID": "0086CC",
+      "EDID": "NVDLC04TunnelerBrute01",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CB",
+      "FORMID": "0086CB",
+      "EDID": "NVDLC04CrDeathClawAlpha20",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007D22",
+      "FORMID": "007D22",
+      "EDID": "NVDLC04DeathclawBoss",
+      "FULL": "Rawr"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CDA",
+      "FORMID": "004CDA",
+      "EDID": "NVDLC04EDE",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C4A",
+      "FORMID": "004C4A",
+      "EDID": "NVDLC04TunnelerAmbusher50",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C49",
+      "FORMID": "004C49",
+      "EDID": "NVDLC04TunnelerAmbusher40",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C48",
+      "FORMID": "004C48",
+      "EDID": "NVDLC04TunnelerAmbusher30",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C47",
+      "FORMID": "004C47",
+      "EDID": "NVDLC04TunnelerAmbusher20",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C42",
+      "FORMID": "004C42",
+      "EDID": "NVDLC04Tunneler50",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C41",
+      "FORMID": "004C41",
+      "EDID": "NVDLC04Tunneler40",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C40",
+      "FORMID": "004C40",
+      "EDID": "NVDLC04Tunneler30",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C3F",
+      "FORMID": "004C3F",
+      "EDID": "NVDLC04Tunneler20",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015809",
+      "FORMID": "015809",
+      "EDID": "NVDLC03CrCyberDogMilitary50Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015803",
+      "FORMID": "015803",
+      "EDID": "NVDLC03CrCyberDogMilitary40Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015802",
+      "FORMID": "015802",
+      "EDID": "NVDLC03CrCyberDogMilitary30Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015801",
+      "FORMID": "015801",
+      "EDID": "NVDLC03CrCyberDogMilitary20Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015800",
+      "FORMID": "015800",
+      "EDID": "NVDLC03CrCyberDogMilitary01Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015506",
+      "FORMID": "015506",
+      "EDID": "NVDLC03X8CrProtectronDEAD",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015281",
+      "FORMID": "015281",
+      "EDID": "NVDLC03CrDeathclawBossWW",
+      "FULL": "Stripe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014DF2",
+      "FORMID": "014DF2",
+      "EDID": "NVDLC03X13CrRobobrain",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01471B",
+      "FORMID": "01471B",
+      "EDID": "NVDLC03CrConstructionProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014659",
+      "FORMID": "014659",
+      "EDID": "NVDLC03X8ExperimentRobobrain02",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445C",
+      "FORMID": "01445C",
+      "EDID": "NVDLC03CrMisterGutsyBoss",
+      "FULL": "Ironbelly"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014458",
+      "FORMID": "014458",
+      "EDID": "NVDLC03CrProtectronBoss",
+      "FULL": "O Guardião"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014457",
+      "FORMID": "014457",
+      "EDID": "NVDLC03CrProtectronCSBoss",
+      "FULL": "Supervisor de Construção de Drones"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014456",
+      "FORMID": "014456",
+      "EDID": "NVDLC03CrRobobrainBoss",
+      "FULL": "Superego"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014455",
+      "FORMID": "014455",
+      "EDID": "NVDLC03CrSentryBotBoss",
+      "FULL": "RY-589 Último Bot"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014454",
+      "FORMID": "014454",
+      "EDID": "NVDLC03CrSporeCarrierBoss",
+      "FULL": "Paciente Zero"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014453",
+      "FORMID": "014453",
+      "EDID": "NVDLC03CrSporePlantBoss",
+      "FULL": "Dionaea Muscipula"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014452",
+      "FORMID": "014452",
+      "EDID": "NVDLC03CrTurretBoss",
+      "FULL": "Torreta com Overclock"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014308",
+      "FORMID": "014308",
+      "EDID": "NVDLC03CrGiantRatRADS",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014294",
+      "FORMID": "014294",
+      "EDID": "NVDLC03CrProtectron50Respawn",
+      "FULL": "Protectron Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014293",
+      "FORMID": "014293",
+      "EDID": "NVDLC03CrProtectron40Respawn",
+      "FULL": "Protectron Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014292",
+      "FORMID": "014292",
+      "EDID": "NVDLC03CrProtectron30Respawn",
+      "FULL": "Protectron Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014291",
+      "FORMID": "014291",
+      "EDID": "NVDLC03CrProtectron20Respawn",
+      "FULL": "Protectron Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014290",
+      "FORMID": "014290",
+      "EDID": "NVDLC03CrProtectron10Respawn",
+      "FULL": "Protectron Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428F",
+      "FORMID": "01428F",
+      "EDID": "NVDLC03CrProtectron01Respawn",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428B",
+      "FORMID": "01428B",
+      "EDID": "NVDLC03CrSentryBot50Respawn",
+      "FULL": "Robô Sentinela Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428A",
+      "FORMID": "01428A",
+      "EDID": "NVDLC03CrSentryBot40Respawn",
+      "FULL": "Robô Sentinela Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014289",
+      "FORMID": "014289",
+      "EDID": "NVDLC03CrSentryBot30Respawn",
+      "FULL": "Robô Sentinela Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014288",
+      "FORMID": "014288",
+      "EDID": "NVDLC03CrSentryBot20Respawn",
+      "FULL": "Sentinela Robô Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014287",
+      "FORMID": "014287",
+      "EDID": "NVDLC03CrSentryBot10Respawn",
+      "FULL": "Robô Sentinela Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014286",
+      "FORMID": "014286",
+      "EDID": "NVDLC03CrSentryBot01Respawn",
+      "FULL": "Sentinela Robô Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014283",
+      "FORMID": "014283",
+      "EDID": "NVDLC03CrSecuritronDamaged50Respawn",
+      "FULL": "Securitron Mk6 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014282",
+      "FORMID": "014282",
+      "EDID": "NVDLC03CrSecuritronDamaged40Respawn",
+      "FULL": "Securitron Mk5 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014281",
+      "FORMID": "014281",
+      "EDID": "NVDLC03CrSecuritronDamaged30Respawn",
+      "FULL": "Securitron Mk4 danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014280",
+      "FORMID": "014280",
+      "EDID": "NVDLC03CrSecuritronDamaged20Respawn",
+      "FULL": "Securitron Mk3 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427F",
+      "FORMID": "01427F",
+      "EDID": "NVDLC03CrSecuritronDamaged10Respawn",
+      "FULL": "Securitron Mk2 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427C",
+      "FORMID": "01427C",
+      "EDID": "NVDLC03CrSecuritronBerserk50Respawn",
+      "FULL": "Securitron Enlouquecido Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427B",
+      "FORMID": "01427B",
+      "EDID": "NVDLC03CrSecuritronBerserk40Respawn",
+      "FULL": "Securitron Enlouquecido Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427A",
+      "FORMID": "01427A",
+      "EDID": "NVDLC03CrSecuritronBerserk30Respawn",
+      "FULL": "Securitron Enlouquecido Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014279",
+      "FORMID": "014279",
+      "EDID": "NVDLC03CrSecuritronBerserk20Respawn",
+      "FULL": "Securitron Enlouquecido Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014278",
+      "FORMID": "014278",
+      "EDID": "NVDLC03CrSecuritronBerserk10Respawn",
+      "FULL": "Securitron Berserk Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014275",
+      "FORMID": "014275",
+      "EDID": "NVDLC03CrRobobrain50Respawn",
+      "FULL": "Robocérebro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014274",
+      "FORMID": "014274",
+      "EDID": "NVDLC03CrRobobrain40Respawn",
+      "FULL": "Robocérebro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014273",
+      "FORMID": "014273",
+      "EDID": "NVDLC03CrRobobrain30Respawn",
+      "FULL": "Robocérebro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014272",
+      "FORMID": "014272",
+      "EDID": "NVDLC03CrRobobrain20Respawn",
+      "FULL": "Robocérebro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014271",
+      "FORMID": "014271",
+      "EDID": "NVDLC03CrRobobrain10Respawn",
+      "FULL": "Robocérebro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014270",
+      "FORMID": "014270",
+      "EDID": "NVDLC03CrRobobrain01Respawn",
+      "FULL": "Robocérebro Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426E",
+      "FORMID": "01426E",
+      "EDID": "NVDLC03CrNightstalker50Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426D",
+      "FORMID": "01426D",
+      "EDID": "NVDLC03CrNightstalker40Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426C",
+      "FORMID": "01426C",
+      "EDID": "NVDLC03CrNightstalker30Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426B",
+      "FORMID": "01426B",
+      "EDID": "NVDLC03CrNightstalker20Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426A",
+      "FORMID": "01426A",
+      "EDID": "NVDLC03CrNightstalker10Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014268",
+      "FORMID": "014268",
+      "EDID": "NVDLC03CrMisterGutsy40Respawn",
+      "FULL": "Mr. Gutsy Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014267",
+      "FORMID": "014267",
+      "EDID": "NVDLC03CrMisterGutsy50Respawn",
+      "FULL": "Mr. Gutsy Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014266",
+      "FORMID": "014266",
+      "EDID": "NVDLC03CrMisterGutsy30Respawn",
+      "FULL": "Mr. Gutsy Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014265",
+      "FORMID": "014265",
+      "EDID": "NVDLC03CrMisterGutsy20Respawn",
+      "FULL": "Mr. Gutsy Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014264",
+      "FORMID": "014264",
+      "EDID": "NVDLC03CrMisterGutsy10Respawn",
+      "FULL": "Mr. Gutsy Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014263",
+      "FORMID": "014263",
+      "EDID": "NVDLC03CrMisterGutsy01Respawn",
+      "FULL": "Mr. Gutsy Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014240",
+      "FORMID": "014240",
+      "EDID": "NVDLC03CrSecuritronBoss",
+      "FULL": "010011110110111001100101"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141FC",
+      "FORMID": "0141FC",
+      "EDID": "NVDLC03X42Protectron",
+      "FULL": "Drone-alvo Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014188",
+      "FORMID": "014188",
+      "EDID": "NVDLC03CrSporePlant01Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014185",
+      "FORMID": "014185",
+      "EDID": "NVDLC03CrSecuritronDamaged50",
+      "FULL": "Securitron Mk6 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014184",
+      "FORMID": "014184",
+      "EDID": "NVDLC03CrSecuritronDamaged40",
+      "FULL": "Securitron Mk5 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014183",
+      "FORMID": "014183",
+      "EDID": "NVDLC03CrSecuritronDamaged30",
+      "FULL": "Securitron Mk4 danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014182",
+      "FORMID": "014182",
+      "EDID": "NVDLC03CrSecuritronDamaged20",
+      "FULL": "Securitron Mk3 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014181",
+      "FORMID": "014181",
+      "EDID": "NVDLC03CrSecuritronDamaged10",
+      "FULL": "Securitron Mk2 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417E",
+      "FORMID": "01417E",
+      "EDID": "NVDLC03CrSporePlant50Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417D",
+      "FORMID": "01417D",
+      "EDID": "NVDLC03CrSporePlant40Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417C",
+      "FORMID": "01417C",
+      "EDID": "NVDLC03CrSporePlant30Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417B",
+      "FORMID": "01417B",
+      "EDID": "NVDLC03CrSporePlant20Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417A",
+      "FORMID": "01417A",
+      "EDID": "NVDLC03CrSporePlant10Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136E0",
+      "FORMID": "0136E0",
+      "EDID": "NVDLC03CrRoboScorpion50b",
+      "FULL": "Robô-Escorpião Mk6b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DF",
+      "FORMID": "0136DF",
+      "EDID": "NVDLC03CrRoboScorpion40b",
+      "FULL": "Robô-Escorpião Mk5b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DE",
+      "FORMID": "0136DE",
+      "EDID": "NVDLC03CrRoboScorpion30b",
+      "FULL": "Robô-Escorpião Mk4b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DD",
+      "FORMID": "0136DD",
+      "EDID": "NVDLC03CrRoboScorpion20b",
+      "FULL": "Robô-Escorpião Mk3b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DC",
+      "FORMID": "0136DC",
+      "EDID": "NVDLC03CrRoboScorpion10b",
+      "FULL": "Robô-Escorpião Mk2b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DB",
+      "FORMID": "0136DB",
+      "EDID": "NVDLC03CrRoboScorpion01b",
+      "FULL": "Robô-Escorpião Mk1b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A23",
+      "FORMID": "012A23",
+      "EDID": "NVDLC03CrSporeCarrier50Respawn",
+      "FULL": "Portador de Esporos Alfa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A22",
+      "FORMID": "012A22",
+      "EDID": "NVDLC03CrSporeCarrier40Respawn",
+      "FULL": "Catador de Esporos Portador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A21",
+      "FORMID": "012A21",
+      "EDID": "NVDLC03CrSporeCarrier30Respawn",
+      "FULL": "Selvagem Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A20",
+      "FORMID": "012A20",
+      "EDID": "NVDLC03CrSporeCarrier20Respawn",
+      "FULL": "Bruto Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A1E",
+      "FORMID": "012A1E",
+      "EDID": "NVDLC03CrSporeCarrier01Respawn",
+      "FULL": "Filhote Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294D",
+      "FORMID": "01294D",
+      "EDID": "NVDLC03CrMisterOrderly50Respawn",
+      "FULL": "Senhor Ordeiro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294C",
+      "FORMID": "01294C",
+      "EDID": "NVDLC03CrMisterOrderly40Respawn",
+      "FULL": "Senhor Ordeiro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294B",
+      "FORMID": "01294B",
+      "EDID": "NVDLC03CrMisterOrderly30Respawn",
+      "FULL": "Mister Ordeiro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294A",
+      "FORMID": "01294A",
+      "EDID": "NVDLC03CrMisterOrderly20Respawn",
+      "FULL": "Senhor Ordeiro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012947",
+      "FORMID": "012947",
+      "EDID": "NVDLC03CrMisterOrderly10Respawn",
+      "FULL": "Senhor Ordeiro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012946",
+      "FORMID": "012946",
+      "EDID": "NVDLC03CrMisterOrderly01Respawn",
+      "FULL": "Senhor Ajudante Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE7",
+      "FORMID": "011FE7",
+      "EDID": "NVDLC03CrProtectronCS50Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE6",
+      "FORMID": "011FE6",
+      "EDID": "NVDLC03CrProtectronCS40Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE5",
+      "FORMID": "011FE5",
+      "EDID": "NVDLC03CrProtectronCS30Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE4",
+      "FORMID": "011FE4",
+      "EDID": "NVDLC03CrProtectronCS20Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE3",
+      "FORMID": "011FE3",
+      "EDID": "NVDLC03CrProtectronCS10Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE2",
+      "FORMID": "011FE2",
+      "EDID": "NVDLC03CrProtectronCS01Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDF",
+      "FORMID": "011FDF",
+      "EDID": "NVDLC03CrCyberDogPolice50",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDE",
+      "FORMID": "011FDE",
+      "EDID": "NVDLC03CrCyberDogPolice40",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDD",
+      "FORMID": "011FDD",
+      "EDID": "NVDLC03CrCyberDogPolice30",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDC",
+      "FORMID": "011FDC",
+      "EDID": "NVDLC03CrCyberDogPolice20",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDB",
+      "FORMID": "011FDB",
+      "EDID": "NVDLC03CrCyberDogPolice10",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDA",
+      "FORMID": "011FDA",
+      "EDID": "NVDLC03CrCyberDogPolice01",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0119CB",
+      "FORMID": "0119CB",
+      "EDID": "NVDLC03CrTurretHardX13",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104DE",
+      "FORMID": "0104DE",
+      "EDID": "NVDLC03CrCyberDog01TEST",
+      "FULL": "Cibercão"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F808",
+      "FORMID": "00F808",
+      "EDID": "NVDLC03CrProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F088",
+      "FORMID": "00F088",
+      "EDID": "NVDLC03CrProtectronLvlX8Tunnel",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F087",
+      "FORMID": "00F087",
+      "EDID": "NVDLC03CrX8ProtectronTunnel",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84F",
+      "FORMID": "00E84F",
+      "EDID": "NVDLC03RoboScorpionGiant50",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84E",
+      "FORMID": "00E84E",
+      "EDID": "NVDLC03RoboScorpionGiant40",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84D",
+      "FORMID": "00E84D",
+      "EDID": "NVDLC03RoboScorpionGiant30",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84C",
+      "FORMID": "00E84C",
+      "EDID": "NVDLC03RoboScorpionGiant20",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84B",
+      "FORMID": "00E84B",
+      "EDID": "NVDLC03RoboScorpionGiant10",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84A",
+      "FORMID": "00E84A",
+      "EDID": "NVDLC03RoboScorpionGiant01",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6F9",
+      "FORMID": "00E6F9",
+      "EDID": "NVDLC03Muggy",
+      "FULL": "Muggy"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E616",
+      "FORMID": "00E616",
+      "EDID": "NVDLC03X42Turret",
+      "FULL": "Torreta de Segurança X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E578",
+      "FORMID": "00E578",
+      "EDID": "NVDLC03CrRoboScorpionMelee10",
+      "FULL": "Pinça de Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E577",
+      "FORMID": "00E577",
+      "EDID": "NVDLC03CrRoboScorpionMelee20",
+      "FULL": "Garra de Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E576",
+      "FORMID": "00E576",
+      "EDID": "NVDLC03CrRoboScorpionMelee30",
+      "FULL": "Pinça de Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E575",
+      "FORMID": "00E575",
+      "EDID": "NVDLC03CrRoboScorpionMelee40",
+      "FULL": "Garra de Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E574",
+      "FORMID": "00E574",
+      "EDID": "NVDLC03CrRoboScorpionMelee50",
+      "FULL": "Pinça de Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E572",
+      "FORMID": "00E572",
+      "EDID": "NVDLC03CrRoboScorpionRanged10",
+      "FULL": "Lança-Raio Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E571",
+      "FORMID": "00E571",
+      "EDID": "NVDLC03CrRoboScorpionRanged20",
+      "FULL": "Lança-Raios Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E570",
+      "FORMID": "00E570",
+      "EDID": "NVDLC03CrRoboScorpionRanged30",
+      "FULL": "Lança-Raio Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56F",
+      "FORMID": "00E56F",
+      "EDID": "NVDLC03CrRoboScorpionRanged40",
+      "FULL": "Lança-Raios Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56E",
+      "FORMID": "00E56E",
+      "EDID": "NVDLC03CrRoboScorpionRanged50",
+      "FULL": "Lança-Raio Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56C",
+      "FORMID": "00E56C",
+      "EDID": "NVDLC03CrRoboScorpionSuicide10",
+      "FULL": "Bombardeiro Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56B",
+      "FORMID": "00E56B",
+      "EDID": "NVDLC03CrRoboScorpionSuicide20",
+      "FULL": "Bombardeiro Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56A",
+      "FORMID": "00E56A",
+      "EDID": "NVDLC03CrRoboScorpionSuicide30",
+      "FULL": "Bombardeiro Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E569",
+      "FORMID": "00E569",
+      "EDID": "NVDLC03CrRoboScorpionSuicide40",
+      "FULL": "Bombardeiro Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E568",
+      "FORMID": "00E568",
+      "EDID": "NVDLC03CrRoboScorpionSuicide50",
+      "FULL": "Bombardeiro Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DA22",
+      "FORMID": "00DA22",
+      "EDID": "NVDLC03StealthSuitVoiceCr",
+      "FULL": "Traje Furtivo Mk II"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D95B",
+      "FORMID": "00D95B",
+      "EDID": "NVDLC03SecuritronDead",
+      "FULL": "Securitron Mk I"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB39",
+      "FORMID": "00CB39",
+      "EDID": "NVDLC03CrSentryBot50",
+      "FULL": "Robô Sentinela Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB38",
+      "FORMID": "00CB38",
+      "EDID": "NVDLC03CrSentryBot40",
+      "FULL": "Robô Sentinela Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB37",
+      "FORMID": "00CB37",
+      "EDID": "NVDLC03CrSentryBot30",
+      "FULL": "Robô Sentinela Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB36",
+      "FORMID": "00CB36",
+      "EDID": "NVDLC03CrSecuritronBerserk50",
+      "FULL": "Securitron Enlouquecido Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB35",
+      "FORMID": "00CB35",
+      "EDID": "NVDLC03CrSecuritronBerserk40",
+      "FULL": "Securitron Enlouquecido Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB34",
+      "FORMID": "00CB34",
+      "EDID": "NVDLC03CrSecuritronBerserk30",
+      "FULL": "Securitron Enlouquecido Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB33",
+      "FORMID": "00CB33",
+      "EDID": "NVDLC03CrRobobrain50",
+      "FULL": "Robocérebro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB32",
+      "FORMID": "00CB32",
+      "EDID": "NVDLC03CrRobobrain40",
+      "FULL": "Robocérebro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB31",
+      "FORMID": "00CB31",
+      "EDID": "NVDLC03CrRobobrain20",
+      "FULL": "Robocérebro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB30",
+      "FORMID": "00CB30",
+      "EDID": "NVDLC03CrProtectron50",
+      "FULL": "Protectron Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2F",
+      "FORMID": "00CB2F",
+      "EDID": "NVDLC03CrProtectron40",
+      "FULL": "Protectron Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2E",
+      "FORMID": "00CB2E",
+      "EDID": "NVDLC03CrProtectron30",
+      "FULL": "Protectron Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2D",
+      "FORMID": "00CB2D",
+      "EDID": "NVDLC03CrNightstalker50",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2C",
+      "FORMID": "00CB2C",
+      "EDID": "NVDLC03CrNightstalker40",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2B",
+      "FORMID": "00CB2B",
+      "EDID": "NVDLC03CrNightstalker30",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB27",
+      "FORMID": "00CB27",
+      "EDID": "NVDLC03CrMisterGutsy50",
+      "FULL": "Mr. Gutsy Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB26",
+      "FORMID": "00CB26",
+      "EDID": "NVDLC03CrMisterGutsy40",
+      "FULL": "Mr. Gutsy Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB25",
+      "FORMID": "00CB25",
+      "EDID": "NVDLC03CrMisterGutsy30",
+      "FULL": "Mr. Gutsy Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB24",
+      "FORMID": "00CB24",
+      "EDID": "NVDLC03CrRoboScorpion50",
+      "FULL": "Robô-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB23",
+      "FORMID": "00CB23",
+      "EDID": "NVDLC03CrRoboScorpion40",
+      "FULL": "Robô-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB22",
+      "FORMID": "00CB22",
+      "EDID": "NVDLC03CrRoboScorpion30",
+      "FULL": "Robô-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB21",
+      "FORMID": "00CB21",
+      "EDID": "NVDLC03CrCyberDogMilitary50",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB20",
+      "FORMID": "00CB20",
+      "EDID": "NVDLC03CrCyberDogMilitary40",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB1F",
+      "FORMID": "00CB1F",
+      "EDID": "NVDLC03CrCyberDogMilitary01",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00B9C2",
+      "FORMID": "00B9C2",
+      "EDID": "NVDLC03CrSewerRat01Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A381",
+      "FORMID": "00A381",
+      "EDID": "NVDLC03X8ExperimentRobobrain01",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A124",
+      "FORMID": "00A124",
+      "EDID": "NVDLC03CrRoboScorpion20",
+      "FULL": "Robô-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A123",
+      "FORMID": "00A123",
+      "EDID": "NVDLC03CrRoboScorpion10",
+      "FULL": "Robô-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A122",
+      "FORMID": "00A122",
+      "EDID": "NVDLC03CrRoboScorpion01",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11C",
+      "FORMID": "00A11C",
+      "EDID": "NVDLC03CrRobobrain30",
+      "FULL": "Robocérebro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11B",
+      "FORMID": "00A11B",
+      "EDID": "NVDLC03CrRobobrain10",
+      "FULL": "Robocérebro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11A",
+      "FORMID": "00A11A",
+      "EDID": "NVDLC03CrRobobrain01",
+      "FULL": "Robocérebro Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A119",
+      "FORMID": "00A119",
+      "EDID": "NVDLC03CrTurretHard",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A118",
+      "FORMID": "00A118",
+      "EDID": "NVDLC03CrTurretEasy",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A117",
+      "FORMID": "00A117",
+      "EDID": "NVDLC03CrTurretAvg",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A115",
+      "FORMID": "00A115",
+      "EDID": "NVDLC03CrSecuritronBerserk20",
+      "FULL": "Securitron Enlouquecido Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A114",
+      "FORMID": "00A114",
+      "EDID": "NVDLC03CrSecuritronBerserk10",
+      "FULL": "Securitron Berserk Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A113",
+      "FORMID": "00A113",
+      "EDID": "NVDLC03CrSentryBot20",
+      "FULL": "Sentinela Robô Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A112",
+      "FORMID": "00A112",
+      "EDID": "NVDLC03CrSentryBot10",
+      "FULL": "Robô Sentinela Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A111",
+      "FORMID": "00A111",
+      "EDID": "NVDLC03CrSentryBot01",
+      "FULL": "Sentinela Robô Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A10A",
+      "FORMID": "00A10A",
+      "EDID": "NVDLC03CrMisterGutsy10",
+      "FULL": "Mr. Gutsy Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A109",
+      "FORMID": "00A109",
+      "EDID": "NVDLC03CrMisterGutsy20",
+      "FULL": "Mr. Gutsy Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A108",
+      "FORMID": "00A108",
+      "EDID": "NVDLC03CrMisterGutsy01",
+      "FULL": "Mr. Gutsy Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D3E",
+      "FORMID": "009D3E",
+      "EDID": "NVDLC03CrNightstalker20",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D3D",
+      "FORMID": "009D3D",
+      "EDID": "NVDLC03CrNightstalker10",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDF",
+      "FORMID": "009CDF",
+      "EDID": "NVDLC03CrCyberDogMilitary30",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDE",
+      "FORMID": "009CDE",
+      "EDID": "NVDLC03CrCyberDogMilitary20",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDD",
+      "FORMID": "009CDD",
+      "EDID": "NVDLC03CrCyberDogMilitary10",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C90",
+      "FORMID": "009C90",
+      "EDID": "NVDLC03CrProtectron01",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C8F",
+      "FORMID": "009C8F",
+      "EDID": "NVDLC03CrProtectron10",
+      "FULL": "Protectron Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C8E",
+      "FORMID": "009C8E",
+      "EDID": "NVDLC03CrProtectron20",
+      "FULL": "Protectron Mk3"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116AC",
+      "FORMID": "0116AC",
+      "EDID": "NVDLC02CrSpecialYaoGuaiSmall10",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116AB",
+      "FORMID": "0116AB",
+      "EDID": "NVDLC02CrSpecialYaoGuaiSmall05",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D9F",
+      "FORMID": "010D9F",
+      "EDID": "NVDLC02CrSpecialGreenGeckoIntro01",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87D",
+      "FORMID": "00F87D",
+      "EDID": "NVDLC02CrTier3SporePlantNR",
+      "FULL": "Planta Gigante de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87B",
+      "FORMID": "00F87B",
+      "EDID": "NVDLC02CrTier2SporePlantNR",
+      "FULL": "Planta Esporo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D663",
+      "FORMID": "00D663",
+      "EDID": "NVDLC02CrGreenGecko",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A935",
+      "FORMID": "00A935",
+      "EDID": "NVDLC02CrTier2GeckoNarrows",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E6",
+      "FORMID": "00A3E6",
+      "EDID": "NVDLC02EVBighornerSpecial02",
+      "FULL": "Carneiro-Selvagem Matriarca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E4",
+      "FORMID": "00A3E4",
+      "EDID": "NVDLC02EVBigHornerLarge",
+      "FULL": "Bode Montês Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E3",
+      "FORMID": "00A3E3",
+      "EDID": "NVDLC02EVBighornerMed",
+      "FULL": "Bode-das-Montanhas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E2",
+      "FORMID": "00A3E2",
+      "EDID": "NVDLC02EVBighornerSmall",
+      "FULL": "Filhote de Carneiro-Selvagem da Montanha"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E1",
+      "FORMID": "00A3E1",
+      "EDID": "NVDLC02CrYaoGuai",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F65",
+      "FORMID": "009F65",
+      "EDID": "NVDLC02CrTier3SporePlant",
+      "FULL": "Planta Gigante de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F64",
+      "FORMID": "009F64",
+      "EDID": "NVDLC02CrTier2SporePlant",
+      "FULL": "Planta Esporo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5B",
+      "FORMID": "009F5B",
+      "EDID": "NVDLC02CrTier4YaoGuaiMed",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F57",
+      "FORMID": "009F57",
+      "EDID": "NVDLC02CrTier3BigHornerLarge",
+      "FULL": "Carneiro-Selvagem Touro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F55",
+      "FORMID": "009F55",
+      "EDID": "NVDLC02CrTier2MoleRatLarge",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F53",
+      "FORMID": "009F53",
+      "EDID": "NVDLC02CrTier2GeckoMed",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F52",
+      "FORMID": "009F52",
+      "EDID": "NVDLC02CrTier2BigHornerMed",
+      "FULL": "Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4F",
+      "FORMID": "009F4F",
+      "EDID": "NVDLC02CrTier1MoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4D",
+      "FORMID": "009F4D",
+      "EDID": "NVDLC02CrTier1GiantRatSmall",
+      "FULL": "Filhote de Rato Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4C",
+      "FORMID": "009F4C",
+      "EDID": "NVDLC02CrTier1GiantRatMed",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4B",
+      "FORMID": "009F4B",
+      "EDID": "NVDLC02CrTier1GeckoSmall",
+      "FULL": "Jovem Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F49",
+      "FORMID": "009F49",
+      "EDID": "NVDLC02CrTier1DogWildLarge",
+      "FULL": "Cachorro Selvagem Grande"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F47",
+      "FORMID": "009F47",
+      "EDID": "NVDLC02CrTier1DogLarge",
+      "FULL": "Cachorro Grande"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F46",
+      "FORMID": "009F46",
+      "EDID": "NVDLC02CrTier1CoyoteSmall",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F42",
+      "FORMID": "009F42",
+      "EDID": "NVDLC02CrTier1BigHornerSmall",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F3F",
+      "FORMID": "009F3F",
+      "EDID": "NVDLC02CrTier1AntWorkerMed",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B7E",
+      "FORMID": "009B7E",
+      "EDID": "NVDLC02CrTier2GiantMantisSmall",
+      "FULL": "Ninfa Mantis de Zion"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D92",
+      "FORMID": "013D92",
+      "EDID": "NVDLC01CrGhostHarvesterVilla02",
+      "FULL": "Ceifador Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C72",
+      "FORMID": "013C72",
+      "EDID": "NVDLC01ScareHarvester01",
+      "FULL": "Ceifador Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C71",
+      "FORMID": "013C71",
+      "EDID": "NVDLC01InitialHarvesterVilla",
+      "FULL": "Ceifador Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012C99",
+      "FORMID": "012C99",
+      "EDID": "NVDLC01Gala02Turret01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120AD",
+      "FORMID": "0120AD",
+      "EDID": "NVDLC01CrGhostHarvesterVilla",
+      "FULL": "Ceifador Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180F",
+      "FORMID": "01180F",
+      "EDID": "NVDLC01CrGhostTrapperHealth50",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180E",
+      "FORMID": "01180E",
+      "EDID": "NVDLC01CrGhostTrapperHealth40",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180D",
+      "FORMID": "01180D",
+      "EDID": "NVDLC01CrGhostTrapperHealth30",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180C",
+      "FORMID": "01180C",
+      "EDID": "NVDLC01CrGhostTrapperHealth20",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180B",
+      "FORMID": "01180B",
+      "EDID": "NVDLC01CrGhostTrapperHealth10",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01180A",
+      "FORMID": "01180A",
+      "EDID": "NVDLC01CrGhostTrapperHealth01",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011809",
+      "FORMID": "011809",
+      "EDID": "NVDLC01CrGhostSeekerHealth50",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011808",
+      "FORMID": "011808",
+      "EDID": "NVDLC01CrGhostSeekerHealth40",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011807",
+      "FORMID": "011807",
+      "EDID": "NVDLC01CrGhostSeekerHealth30",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011806",
+      "FORMID": "011806",
+      "EDID": "NVDLC01CrGhostSeekerHealth20",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011805",
+      "FORMID": "011805",
+      "EDID": "NVDLC01CrGhostSeekerHealth10",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011804",
+      "FORMID": "011804",
+      "EDID": "NVDLC01CrGhostSeekerHealth01",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011343",
+      "FORMID": "011343",
+      "EDID": "NVDLC01CrGhostSeekerDEAD",
+      "FULL": "Caçador de Fantasmas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2DE",
+      "FORMID": "00F2DE",
+      "EDID": "NVDLC01CrGhostHarvesterETDogEat",
+      "FULL": "Ceifador Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CDB2",
+      "FORMID": "00CDB2",
+      "EDID": "NVDLC01CrSupermutantDogTest",
+      "FULL": "Teste do Script do Cão Cara"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A56C",
+      "FORMID": "00A56C",
+      "EDID": "NVDLC01TurretVault",
+      "FULL": "A Torreta de Segurança do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B587",
+      "FORMID": "17B587",
+      "EDID": "VStreetCrBrahmin2",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AF62",
+      "FORMID": "17AF62",
+      "EDID": "CrSuperMutantDeadMinigunRubyHill",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AF40",
+      "FORMID": "17AF40",
+      "EDID": "CrSuperMutantDeadFireGeckoNopah",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AF3F",
+      "FORMID": "17AF3F",
+      "EDID": "CrSuperMutantDeadCazadorJacobstown",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1745E3",
+      "FORMID": "1745E3",
+      "EDID": "VSpawnSpecialTier4DeathclawSmallGypsum",
+      "FULL": "Destroçador Cego"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173FD6",
+      "FORMID": "173FD6",
+      "EDID": "V34TurretCeiling01",
+      "FULL": "Torreta Vault-Tec"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173FB0",
+      "FORMID": "173FB0",
+      "EDID": "MoeTheCentaur",
+      "FULL": "Moe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17391A",
+      "FORMID": "17391A",
+      "EDID": "VCrUniqueTier5DeathClawLarge03NRPers",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17283E",
+      "FORMID": "17283E",
+      "EDID": "VCrGiantRatTier3RatCave",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17283C",
+      "FORMID": "17283C",
+      "EDID": "VCrTier5NightStalkerMed",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17283A",
+      "FORMID": "17283A",
+      "EDID": "VCrTier5FeralGhoul4A",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172838",
+      "FORMID": "172838",
+      "EDID": "VCrTier5FeralGhoulGlowingOne",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1710AA",
+      "FORMID": "1710AA",
+      "EDID": "NVCrV19FireGeckoRanged",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A21D",
+      "FORMID": "16A21D",
+      "EDID": "YesManMainframe",
+      "FULL": "Sim, Sr."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1694E2",
+      "FORMID": "1694E2",
+      "EDID": "NVCompanionEdEUpgradeWeapons",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1694E0",
+      "FORMID": "1694E0",
+      "EDID": "NVCompanionEdEUpgradeArmor",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E9",
+      "FORMID": "1690E9",
+      "EDID": "CrAlienCaptain",
+      "FULL": "Capitão Alienígena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690AC",
+      "FORMID": "1690AC",
+      "EDID": "CrAlien",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168A83",
+      "FORMID": "168A83",
+      "EDID": "VNovacCrBrahminPackA",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1689D8",
+      "FORMID": "1689D8",
+      "EDID": "VSpawnSpecialTier2NightStalkerSmallBloodborneINT",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1689D7",
+      "FORMID": "1689D7",
+      "EDID": "VSpawnSpecialTier4NightStalkerMedBloodborneINT",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F03",
+      "FORMID": "167F03",
+      "EDID": "VCrTier4FeralGhoul4APers",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F02",
+      "FORMID": "167F02",
+      "EDID": "VCrTier4FeralGhoul4ANR",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F01",
+      "FORMID": "167F01",
+      "EDID": "VCrTier4FeralGhoul4ANRPers",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EFF",
+      "FORMID": "167EFF",
+      "EDID": "VCrUniqueTier5DeathClawLarge01NRPers",
+      "FULL": "Destroçador Lendário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EFE",
+      "FORMID": "167EFE",
+      "EDID": "VCrUniqueTier5NightStalkerLargeNRPers",
+      "FULL": "Perseguidor Noturno Lendário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EF2",
+      "FORMID": "167EF2",
+      "EDID": "VCrTier0CrProtectronPers",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EF1",
+      "FORMID": "167EF1",
+      "EDID": "VCrTier0CrProtectronNR",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EF0",
+      "FORMID": "167EF0",
+      "EDID": "VCrTier0CrProtectronNRPers",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EEC",
+      "FORMID": "167EEC",
+      "EDID": "VCrTier0CrNightkinPers",
+      "FULL": "Base dos Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EEB",
+      "FORMID": "167EEB",
+      "EDID": "VCrTier0CrNightkinNR",
+      "FULL": "Base dos Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EEA",
+      "FORMID": "167EEA",
+      "EDID": "VCrTier0CrNightkinNRPers",
+      "FULL": "Base dos Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EE0",
+      "FORMID": "167EE0",
+      "EDID": "VCrTier2FeralGhoul2BPers",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EDF",
+      "FORMID": "167EDF",
+      "EDID": "VCrTier2FeralGhoul2BNRPers",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EDE",
+      "FORMID": "167EDE",
+      "EDID": "VCrTier2FeralGhoul2BNR",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EDA",
+      "FORMID": "167EDA",
+      "EDID": "VCrTier1FeralGhoul1BNR",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED9",
+      "FORMID": "167ED9",
+      "EDID": "VCrTier1FeralGhoul1BPers",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED8",
+      "FORMID": "167ED8",
+      "EDID": "VCrTier1FeralGhoul1BNRPers",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED7",
+      "FORMID": "167ED7",
+      "EDID": "VCrTier4FeralGhoul4A",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED5",
+      "FORMID": "167ED5",
+      "EDID": "VCrTier0CrProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED3",
+      "FORMID": "167ED3",
+      "EDID": "VCrTier0CrNightkin",
+      "FULL": "Base dos Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED1",
+      "FORMID": "167ED1",
+      "EDID": "VCrTier0CrFeralGhoulGlowingOneDEAD",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ED0",
+      "FORMID": "167ED0",
+      "EDID": "VCrTier3FeralGhoulGlowingOne",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ECF",
+      "FORMID": "167ECF",
+      "EDID": "VCrTier2FeralGhoul2B",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ECD",
+      "FORMID": "167ECD",
+      "EDID": "VCrTier1FeralGhoul1B",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ECC",
+      "FORMID": "167ECC",
+      "EDID": "VCrTier1FeralGhoul1A",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ECB",
+      "FORMID": "167ECB",
+      "EDID": "VCrTier5DeathClawLarge03Pers",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167ECA",
+      "FORMID": "167ECA",
+      "EDID": "VCrTier5DeathClawLarge03NR",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC9",
+      "FORMID": "167EC9",
+      "EDID": "VCrTier5DeathClawLarge03NRPers",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC8",
+      "FORMID": "167EC8",
+      "EDID": "VCrTier5DeathClawLarge02Pers",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC7",
+      "FORMID": "167EC7",
+      "EDID": "VCrTier5DeathClawLarge02NR",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC6",
+      "FORMID": "167EC6",
+      "EDID": "VCrTier5DeathClawLarge02NRPers",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC5",
+      "FORMID": "167EC5",
+      "EDID": "VCrTier5DeathClawLarge01Pers",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC4",
+      "FORMID": "167EC4",
+      "EDID": "VCrTier5DeathClawLarge01NR",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC3",
+      "FORMID": "167EC3",
+      "EDID": "VCrTier5DeathClawLarge01NRPers",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC2",
+      "FORMID": "167EC2",
+      "EDID": "VCrTier5DeathClawLarge03",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC1",
+      "FORMID": "167EC1",
+      "EDID": "VCrTier5DeathClawLarge02",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EC0",
+      "FORMID": "167EC0",
+      "EDID": "VCrTier5DeathClawLarge01",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EBF",
+      "FORMID": "167EBF",
+      "EDID": "VCrTier4NightStalkerMedNR",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EBE",
+      "FORMID": "167EBE",
+      "EDID": "VCrTier4NightStalkerMedPers",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EBD",
+      "FORMID": "167EBD",
+      "EDID": "VCrTier4NightStalkerMedNRPers",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EA1",
+      "FORMID": "167EA1",
+      "EDID": "VCrTier3FireGeckoSmallRangedPers",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167EA0",
+      "FORMID": "167EA0",
+      "EDID": "VCrTier3FireGeckoSmallRangedNR",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E9F",
+      "FORMID": "167E9F",
+      "EDID": "VCrTier3FireGeckoSmallRangedNRPers",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E9E",
+      "FORMID": "167E9E",
+      "EDID": "VCrTier3FireGeckoSmallPers",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E9D",
+      "FORMID": "167E9D",
+      "EDID": "VCrTier3FireGeckoSmallNR",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E9C",
+      "FORMID": "167E9C",
+      "EDID": "VCrTier3FireGeckoSmallNRPers",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E95",
+      "FORMID": "167E95",
+      "EDID": "VCrTier3CentaurEvolvedMedPers",
+      "FULL": "Centauro Evoluído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E94",
+      "FORMID": "167E94",
+      "EDID": "VCrTier3CentaurEvolvedMedNR",
+      "FULL": "Centauro Evoluído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E93",
+      "FORMID": "167E93",
+      "EDID": "VCrTier3CentaurEvolvedMedNRPers",
+      "FULL": "Centauro Evoluído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E8F",
+      "FORMID": "167E8F",
+      "EDID": "VCrTier3BigHornerLargePers",
+      "FULL": "Carneiro-Selvagem Chifrudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E8E",
+      "FORMID": "167E8E",
+      "EDID": "VCrTier3BigHornerLargeNR",
+      "FULL": "Carneiro-Selvagem Chifrudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E8D",
+      "FORMID": "167E8D",
+      "EDID": "VCrTier3BigHornerLargeNRPers",
+      "FULL": "Carneiro-Selvagem Chifrudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E89",
+      "FORMID": "167E89",
+      "EDID": "VCrTier2NightStalkerSmallPers",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E88",
+      "FORMID": "167E88",
+      "EDID": "VCrTier2NightStalkerSmallNR",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E87",
+      "FORMID": "167E87",
+      "EDID": "VCrTier2NightStalkerSmallNRPers",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E86",
+      "FORMID": "167E86",
+      "EDID": "VCrTier2MoleRatLargePers",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E85",
+      "FORMID": "167E85",
+      "EDID": "VCrTier2MoleRatLargeNR",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E84",
+      "FORMID": "167E84",
+      "EDID": "VCrTier2MoleRatLargeNRPers",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E83",
+      "FORMID": "167E83",
+      "EDID": "VCrTier2GoldenGeckoSmallNR",
+      "FULL": "Jovem Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E82",
+      "FORMID": "167E82",
+      "EDID": "VCrTier2GoldenGeckoSmallPers",
+      "FULL": "Jovem Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E81",
+      "FORMID": "167E81",
+      "EDID": "VCrTier2GoldenGeckoSmallNRPers",
+      "FULL": "Jovem Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E80",
+      "FORMID": "167E80",
+      "EDID": "VCrTier2GlowingTrooperGhoulPers",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E7F",
+      "FORMID": "167E7F",
+      "EDID": "VCrTier2GlowingTrooperGhoulNR",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E7E",
+      "FORMID": "167E7E",
+      "EDID": "VCrTier2GlowingTrooperGhoulNRPers",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E5F",
+      "FORMID": "167E5F",
+      "EDID": "VCrTier1MoleRatSmallPers",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E5E",
+      "FORMID": "167E5E",
+      "EDID": "VCrTier1MoleRatSmallNR",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E5D",
+      "FORMID": "167E5D",
+      "EDID": "VCrTier1MoleRatSmallNRPers",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E53",
+      "FORMID": "167E53",
+      "EDID": "VCrTier1GiantMantisSmallNR",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E52",
+      "FORMID": "167E52",
+      "EDID": "VCrTier1GiantMantisSmallPers",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E51",
+      "FORMID": "167E51",
+      "EDID": "VCrTier1GiantMantisSmallNRPers",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E50",
+      "FORMID": "167E50",
+      "EDID": "VCrTier1GeckoSmallNR",
+      "FULL": "Gecko Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E4F",
+      "FORMID": "167E4F",
+      "EDID": "VCrTier1GeckoSmallPers",
+      "FULL": "Gecko Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E4E",
+      "FORMID": "167E4E",
+      "EDID": "VCrTier1GeckoSmallNRPers",
+      "FULL": "Gecko Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E41",
+      "FORMID": "167E41",
+      "EDID": "VCrTier1CoyoteSmallPers",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E40",
+      "FORMID": "167E40",
+      "EDID": "VCrTier1CoyoteSmallNR",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E3F",
+      "FORMID": "167E3F",
+      "EDID": "VCrTier1CoyoteSmallNRPers",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E35",
+      "FORMID": "167E35",
+      "EDID": "VCrTier1BigHornerSmallNR",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E33",
+      "FORMID": "167E33",
+      "EDID": "VCrTier1BigHornerSmallNRPers",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E2C",
+      "FORMID": "167E2C",
+      "EDID": "VCrTier1AntWorkerMedNR",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DFD",
+      "FORMID": "166DFD",
+      "EDID": "VSpawnSpecialTier2NightStalkerSmallWalkingBoxINT",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DFA",
+      "FORMID": "166DFA",
+      "EDID": "VSpawnSpecialTier4NightStalkerMedWalkingBoxINT",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164EF7",
+      "FORMID": "164EF7",
+      "EDID": "VSpawnSpecialTier2NightStalkerSmallIvanpah2",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164EF6",
+      "FORMID": "164EF6",
+      "EDID": "VSpawnSpecialTier4NightStalkerMedIvanpah2",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164ECA",
+      "FORMID": "164ECA",
+      "EDID": "JacobstownMutantMaster",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164A6D",
+      "FORMID": "164A6D",
+      "EDID": "VSpawnSpecialTier4NightStalkerMedIvanpah",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164A6C",
+      "FORMID": "164A6C",
+      "EDID": "VSpawnSpecialTier2NightStalkerSmallIvanpah",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16473B",
+      "FORMID": "16473B",
+      "EDID": "GSVictorDisabled",
+      "FULL": "Victor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162B3D",
+      "FORMID": "162B3D",
+      "EDID": "NVRatCaveROUS",
+      "FULL": "Roedor de Tamanho Incomum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16294E",
+      "FORMID": "16294E",
+      "EDID": "NVCrFireGeckoRanged",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16294C",
+      "FORMID": "16294C",
+      "EDID": "VCrTier3FireGeckoSmallRanged",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162948",
+      "FORMID": "162948",
+      "EDID": "VCrTier2FeralTrooperGhoul",
+      "FULL": "Necrótico Tropeiro Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162947",
+      "FORMID": "162947",
+      "EDID": "VCrTier2GlowingTrooperGhoul",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1616EC",
+      "FORMID": "1616EC",
+      "EDID": "VSpawnSpecialTier2NightStalkerSmallWalkingBox",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607B7",
+      "FORMID": "1607B7",
+      "EDID": "QJDeathclawWanderer04",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607B6",
+      "FORMID": "1607B6",
+      "EDID": "QJDeathclawWanderer03",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607B5",
+      "FORMID": "1607B5",
+      "EDID": "QJDeathclawWanderer02",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FFF0",
+      "FORMID": "15FFF0",
+      "EDID": "VES05NightkinTWeedRancher",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE14",
+      "FORMID": "15FE14",
+      "EDID": "L38TurretCeiling01",
+      "FULL": "Torreta Mark I"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F194",
+      "FORMID": "15F194",
+      "EDID": "VCrDeathclawTier1TypeASmall",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E908",
+      "FORMID": "15E908",
+      "EDID": "VSpawnSpecialTier4FireAntQueenSouthVegas",
+      "FULL": "Rainha Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15CE18",
+      "FORMID": "15CE18",
+      "EDID": "VSpawnDeathclawTier1PIT",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15CE17",
+      "FORMID": "15CE17",
+      "EDID": "VCrDeathclawTier1TypeA",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C7D4",
+      "FORMID": "15C7D4",
+      "EDID": "NVCrBigHornerCalfDEAD",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C68F",
+      "FORMID": "15C68F",
+      "EDID": "CrDogLargeWild",
+      "FULL": "Cão Selvagem Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C64C",
+      "FORMID": "15C64C",
+      "EDID": "VSpawnTier2CoyoteAlpha",
+      "FULL": "Alfa da Matilha Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C642",
+      "FORMID": "15C642",
+      "EDID": "VSpawnSpecialTier4DeathclawMedPrimmPass",
+      "FULL": "Destroçador Cego"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A942",
+      "FORMID": "15A942",
+      "EDID": "CrMoleRatDomesticated",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159790",
+      "FORMID": "159790",
+      "EDID": "VCrTier3BigHornerLarge",
+      "FULL": "Carneiro-Selvagem Chifrudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158647",
+      "FORMID": "158647",
+      "EDID": "VSecuritronMk2TEMPLATE",
+      "FULL": "Securitron Mk II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158644",
+      "FORMID": "158644",
+      "EDID": "VHDSecuritronBattleMk2",
+      "FULL": "Securitron Mk II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1572E2",
+      "FORMID": "1572E2",
+      "EDID": "NVCompanionEdEDdisabled",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15678C",
+      "FORMID": "15678C",
+      "EDID": "DeadMoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15678B",
+      "FORMID": "15678B",
+      "EDID": "VCrUniqueTier2NightStalkerSmallER01",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156788",
+      "FORMID": "156788",
+      "EDID": "VSpawnTier4NightStalkerMed",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E09",
+      "FORMID": "155E09",
+      "EDID": "VCrTier2MoleRatLarge",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1554DA",
+      "FORMID": "1554DA",
+      "EDID": "VHDSecuritronEscort",
+      "FULL": "Securitron Mk II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1544B7",
+      "FORMID": "1544B7",
+      "EDID": "VCrFarmBigHornerSmall",
+      "FULL": "Carneiro-Selvagem Filhote Desnutrido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154454",
+      "FORMID": "154454",
+      "EDID": "VCrUniqueTier2GiantRat",
+      "FULL": "Roedor de Tamanho Anormal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1532FE",
+      "FORMID": "1532FE",
+      "EDID": "CrRadscorpionQueen",
+      "FULL": "Rainha Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151DE3",
+      "FORMID": "151DE3",
+      "EDID": "smuatest",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F481",
+      "FORMID": "14F481",
+      "EDID": "VCrTier1MoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F47F",
+      "FORMID": "14F47F",
+      "EDID": "VCrTier1CoyoteSmall",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F47E",
+      "FORMID": "14F47E",
+      "EDID": "VCrTier1BigHornerSmall",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F47D",
+      "FORMID": "14F47D",
+      "EDID": "VCrTier1GiantMantisSmall",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F47C",
+      "FORMID": "14F47C",
+      "EDID": "VCrTier1GeckoSmall",
+      "FULL": "Gecko Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F479",
+      "FORMID": "14F479",
+      "EDID": "VCrTier2GoldenGeckoSmall",
+      "FULL": "Jovem Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F477",
+      "FORMID": "14F477",
+      "EDID": "VCrTier3FireGeckoSmall",
+      "FULL": "Filhote de Gecko Flamejante Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F476",
+      "FORMID": "14F476",
+      "EDID": "VCrTier2NightStalkerSmall",
+      "FULL": "Perseguidor Noturno Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F430",
+      "FORMID": "14F430",
+      "EDID": "VCrTier1AntWorkerMed",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F42A",
+      "FORMID": "14F42A",
+      "EDID": "VCrTier2FireAntWorkerMed",
+      "FULL": "Formiga-de-fogo Operária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F426",
+      "FORMID": "14F426",
+      "EDID": "VCrTier2DogViciousMed",
+      "FULL": "Cão Vicioso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3FF",
+      "FORMID": "14F3FF",
+      "EDID": "VCrTier1GiantRatMed",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3FD",
+      "FORMID": "14F3FD",
+      "EDID": "VCrTier2GeckoMed",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14D1FD",
+      "FORMID": "14D1FD",
+      "EDID": "VStreetCrBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CF65",
+      "FORMID": "14CF65",
+      "EDID": "DEADCaravanBrahminCGCave",
+      "FULL": "Brahmin de Carga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14824B",
+      "FORMID": "14824B",
+      "EDID": "JacobstownNightstalkerC",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14824A",
+      "FORMID": "14824A",
+      "EDID": "JacobstownNightstalkerB",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148242",
+      "FORMID": "148242",
+      "EDID": "JacobstownNightkinDead",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C1C",
+      "FORMID": "146C1C",
+      "EDID": "GlowingGhoulSecurity",
+      "FULL": "Necrótico de Segurança Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145EDB",
+      "FORMID": "145EDB",
+      "EDID": "CrLakelurkCG",
+      "FULL": "Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145EDA",
+      "FORMID": "145EDA",
+      "EDID": "CrLakelurkKingCG",
+      "FULL": "Rei Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E6F",
+      "FORMID": "145E6F",
+      "EDID": "GlowingGhoulJumpsuit",
+      "FULL": "Macacão de Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144C39",
+      "FORMID": "144C39",
+      "EDID": "CrLakelurkBaseDEAD1",
+      "FULL": "Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1445BC",
+      "FORMID": "1445BC",
+      "EDID": "JacobstownKeeneBuddy2",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1445BB",
+      "FORMID": "1445BB",
+      "EDID": "JacobstownKeeneBuddy1",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1445A7",
+      "FORMID": "1445A7",
+      "EDID": "JacobstownBigHorner",
+      "FULL": "Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1445A4",
+      "FORMID": "1445A4",
+      "EDID": "JacobstownMutantSentryMelee",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14451B",
+      "FORMID": "14451B",
+      "EDID": "CampSearchlightFeralTrooperGhoul",
+      "FULL": "Necrótico Tropeiro Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14451A",
+      "FORMID": "14451A",
+      "EDID": "CampSearchlightGlowingTrooperGhoul",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144448",
+      "FORMID": "144448",
+      "EDID": "GlowingTrooperGhoul",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:142A22",
+      "FORMID": "142A22",
+      "EDID": "NVCrV19FireGecko",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14128C",
+      "FORMID": "14128C",
+      "EDID": "CampSearchlightGoldenGecko",
+      "FULL": "Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1411BA",
+      "FORMID": "1411BA",
+      "EDID": "NVCrFireGeckoDEAD",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141136",
+      "FORMID": "141136",
+      "EDID": "CrLakelurkBaseDEAD",
+      "FULL": "Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA7",
+      "FORMID": "140CA7",
+      "EDID": "NVCrSentryBotToyBroken",
+      "FULL": "Brinquedo de Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1405B9",
+      "FORMID": "1405B9",
+      "EDID": "NVCrBigHornerDEAD",
+      "FULL": "Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FE86",
+      "FORMID": "13FE86",
+      "EDID": "CampSearchlightRadscorpionQueen",
+      "FULL": "Rainha Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FB79",
+      "FORMID": "13FB79",
+      "EDID": "CrSuperMutantRehab",
+      "FULL": "Reabilitação de Supermutantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FB78",
+      "FORMID": "13FB78",
+      "EDID": "CrNightkinRehab",
+      "FULL": "Reabilitação da Base Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F70D",
+      "FORMID": "13F70D",
+      "EDID": "JacobstownKeene",
+      "FULL": "Keene"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F185",
+      "FORMID": "13F185",
+      "EDID": "JacobstownMutantSentryGun",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5B9",
+      "FORMID": "13E5B9",
+      "EDID": "FiendDogVioletta",
+      "FULL": "Violetta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E514",
+      "FORMID": "13E514",
+      "EDID": "FortLupaGladiator",
+      "FULL": "Lupa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E313",
+      "FORMID": "13E313",
+      "EDID": "v34TechDEAD",
+      "FULL": "Técnico do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D83B",
+      "FORMID": "13D83B",
+      "EDID": "JacobstownMutant3",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D834",
+      "FORMID": "13D834",
+      "EDID": "Lily",
+      "FULL": "Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13C8C0",
+      "FORMID": "13C8C0",
+      "EDID": "CrLakelurkKing",
+      "FULL": "Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B3E1",
+      "FORMID": "13B3E1",
+      "EDID": "CrHDDogNCRBuddy",
+      "FULL": "Cão de Guarda da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B16F",
+      "FORMID": "13B16F",
+      "EDID": "VHDNCRTurret03",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B16E",
+      "FORMID": "13B16E",
+      "EDID": "VHDNCRTurret02",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AFE1",
+      "FORMID": "13AFE1",
+      "EDID": "JacobstownMutant2",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AFDC",
+      "FORMID": "13AFDC",
+      "EDID": "JacobstownNightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AACF",
+      "FORMID": "13AACF",
+      "EDID": "JacobstownMutant1",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A7EB",
+      "FORMID": "13A7EB",
+      "EDID": "JacobstownMarcus",
+      "FULL": "Marcus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13920F",
+      "FORMID": "13920F",
+      "EDID": "VHDNCRTurret01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1376D0",
+      "FORMID": "1376D0",
+      "EDID": "NVCRMrHouse",
+      "FULL": "Sr. House"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136B11",
+      "FORMID": "136B11",
+      "EDID": "VSpawnGiantRatTier2PIT",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A49",
+      "FORMID": "136A49",
+      "EDID": "NVCrNightStalkerDEAD",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A45",
+      "FORMID": "136A45",
+      "EDID": "CrCoyoteDEAD",
+      "FULL": "Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A20",
+      "FORMID": "136A20",
+      "EDID": "FortLegionMongrelHostile",
+      "FULL": "Vira-lata da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365B1",
+      "FORMID": "1365B1",
+      "EDID": "VCrFireGeckoTier1TypeSmallC",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365B0",
+      "FORMID": "1365B0",
+      "EDID": "VCrFireGeckoTier1TypeSmallB",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AF",
+      "FORMID": "1365AF",
+      "EDID": "VCrFireGeckoTier1TypeSmallA",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AE",
+      "FORMID": "1365AE",
+      "EDID": "VCrFireGeckoTier1TypeE",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AD",
+      "FORMID": "1365AD",
+      "EDID": "VCrFireGeckoTier1TypeD",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AC",
+      "FORMID": "1365AC",
+      "EDID": "VCrFireGeckoTier1TypeC",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AB",
+      "FORMID": "1365AB",
+      "EDID": "VCrFireGeckoTier1TypeB",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365AA",
+      "FORMID": "1365AA",
+      "EDID": "VCrFireGeckoTier1TypeA",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1365A6",
+      "FORMID": "1365A6",
+      "EDID": "VSpawnNightStalkerTier1PIT",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F44",
+      "FORMID": "135F44",
+      "EDID": "VSpawnCazadorTier1PIT",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135BCF",
+      "FORMID": "135BCF",
+      "EDID": "VSpawnRadscorpionTier2PIT",
+      "FULL": "Escorpião Radioativo Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135BA5",
+      "FORMID": "135BA5",
+      "EDID": "VSpawnRadscorpionTier1PIT",
+      "FULL": "Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B77",
+      "FORMID": "134B77",
+      "EDID": "CrDogPowderGangerSniffer",
+      "FULL": "Cão de Guarda da RNCCF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B76",
+      "FORMID": "134B76",
+      "EDID": "CrDogBoSSniffer",
+      "FULL": "Cão de Guarda da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347E3",
+      "FORMID": "1347E3",
+      "EDID": "VCrGiantMantisTier1TypeC",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347E2",
+      "FORMID": "1347E2",
+      "EDID": "VCrGiantMantisTier1TypeB",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347E1",
+      "FORMID": "1347E1",
+      "EDID": "VCrGiantMantisTier1TypeA",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347E0",
+      "FORMID": "1347E0",
+      "EDID": "VSpawnGiantMantisTier1PIT",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347DE",
+      "FORMID": "1347DE",
+      "EDID": "VCrGiantMantisTier1TypeSmallC",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347DD",
+      "FORMID": "1347DD",
+      "EDID": "VCrGiantMantisTier1TypeSmallB",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347DC",
+      "FORMID": "1347DC",
+      "EDID": "VCrGiantMantisTier1TypeSmallA",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347DB",
+      "FORMID": "1347DB",
+      "EDID": "VCrGiantMantisTier1TypeE",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1347DA",
+      "FORMID": "1347DA",
+      "EDID": "VCrGiantMantisTier1TypeD",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340B4",
+      "FORMID": "1340B4",
+      "EDID": "SVFloorTurret",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133CEE",
+      "FORMID": "133CEE",
+      "EDID": "SVMisterHandyDead",
+      "FULL": "Mr. Handy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133101",
+      "FORMID": "133101",
+      "EDID": "v34Ghoul01",
+      "FULL": "Habitante da Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133036",
+      "FORMID": "133036",
+      "EDID": "vFeralGhoulGlowingOne",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:132541",
+      "FORMID": "132541",
+      "EDID": "v34Overseer",
+      "FULL": "Supervisor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130124",
+      "FORMID": "130124",
+      "EDID": "VCrGiantRatTier2TypeSmallA",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130123",
+      "FORMID": "130123",
+      "EDID": "VCrGiantRatTier2TypeSmallB",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130122",
+      "FORMID": "130122",
+      "EDID": "VCrGiantRatTier2TypeE",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130121",
+      "FORMID": "130121",
+      "EDID": "VCrGiantRatTier2TypeD",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130120",
+      "FORMID": "130120",
+      "EDID": "VCrGiantRatTier2TypeC",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011F",
+      "FORMID": "13011F",
+      "EDID": "VCrGiantRatTier1TypeSmallB",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011E",
+      "FORMID": "13011E",
+      "EDID": "VCrGiantRatTier1TypeD",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011D",
+      "FORMID": "13011D",
+      "EDID": "VCrGiantRatTier2TypeB",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011C",
+      "FORMID": "13011C",
+      "EDID": "VCrGiantRatTier2TypeA",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011B",
+      "FORMID": "13011B",
+      "EDID": "VCrGiantRatTier1TypeSmallC",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13011A",
+      "FORMID": "13011A",
+      "EDID": "VCrGiantRatTier2TypeSmallC",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130119",
+      "FORMID": "130119",
+      "EDID": "VCrGiantRatTier1TypeSmallA",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130118",
+      "FORMID": "130118",
+      "EDID": "VCrGiantRatTier1TypeE",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130117",
+      "FORMID": "130117",
+      "EDID": "VCrGiantRatTier1TypeC",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130116",
+      "FORMID": "130116",
+      "EDID": "VCrGiantRatTier1TypeB",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130115",
+      "FORMID": "130115",
+      "EDID": "VCrGiantRatTier1TypeA",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFB0",
+      "FORMID": "12FFB0",
+      "EDID": "SVProtectronPatroller",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129D89",
+      "FORMID": "129D89",
+      "EDID": "SVProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1279CF",
+      "FORMID": "1279CF",
+      "EDID": "FoxtrotSuperMutantRanger",
+      "FULL": "Ranger Chauncey"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127732",
+      "FORMID": "127732",
+      "EDID": "FortDaleBartonBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12676E",
+      "FORMID": "12676E",
+      "EDID": "CrDogNCRSniffer",
+      "FULL": "Cão de Guarda da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125BB5",
+      "FORMID": "125BB5",
+      "EDID": "MrHouse",
+      "FULL": "Sr. House"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F8C1",
+      "FORMID": "11F8C1",
+      "EDID": "VFSCRProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E4C2",
+      "FORMID": "11E4C2",
+      "EDID": "VFSFisto",
+      "FULL": "Fisto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D584",
+      "FORMID": "11D584",
+      "EDID": "GSGiantMantisNymph",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B025",
+      "FORMID": "11B025",
+      "EDID": "CrTestSuperMutantNightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B024",
+      "FORMID": "11B024",
+      "EDID": "CrTestSuperMutant3NightkinGunA",
+      "FULL": "Nightkin Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B023",
+      "FORMID": "11B023",
+      "EDID": "CrTestSuperMutant3Nightkin",
+      "FULL": "Nightkin Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B022",
+      "FORMID": "11B022",
+      "EDID": "CrTestSuperMutant2Nightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B021",
+      "FORMID": "11B021",
+      "EDID": "CrTestSuperMutant1NightkinGunA",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118E71",
+      "FORMID": "118E71",
+      "EDID": "Rex",
+      "FULL": "Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118D61",
+      "FORMID": "118D61",
+      "EDID": "NVCrGoldenGecko",
+      "FULL": "Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116AF4",
+      "FORMID": "116AF4",
+      "EDID": "VFSBrahminPackWaterDEAD",
+      "FULL": "Brahmin de Jane"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116A50",
+      "FORMID": "116A50",
+      "EDID": "Lucky38Jane",
+      "FULL": "Jane"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116A4F",
+      "FORMID": "116A4F",
+      "EDID": "Lucky38Marilyn",
+      "FULL": "Marilyn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11324A",
+      "FORMID": "11324A",
+      "EDID": "Gojira",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:113246",
+      "FORMID": "113246",
+      "EDID": "NVCrFireGecko",
+      "FULL": "Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10CD73",
+      "FORMID": "10CD73",
+      "EDID": "NVCrGecko",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C769",
+      "FORMID": "10C769",
+      "EDID": "NVCompanionEdE",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6FB",
+      "FORMID": "10C6FB",
+      "EDID": "GOMAngel",
+      "FULL": "Anjo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AB79",
+      "FORMID": "10AB79",
+      "EDID": "GSBigHorner",
+      "FULL": "Carneiro-Selvagem Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A1F7",
+      "FORMID": "10A1F7",
+      "EDID": "VCG02CrGecko",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:108020",
+      "FORMID": "108020",
+      "EDID": "NVCrBigHorner",
+      "FULL": "Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106904",
+      "FORMID": "106904",
+      "EDID": "SSHQMrJanitorBroken",
+      "FULL": "Robô de Zeladoria Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10596F",
+      "FORMID": "10596F",
+      "EDID": "SSHQMrHandyAssistantBroken",
+      "FULL": "Assistente Pessoal Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10596E",
+      "FORMID": "10596E",
+      "EDID": "SSHQProtectronSecurity",
+      "FULL": "Segurança da Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10470C",
+      "FORMID": "10470C",
+      "EDID": "SSHQMrHandyBroken",
+      "FULL": "Robô de Engarrafamento Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104709",
+      "FORMID": "104709",
+      "EDID": "SSHQProtectronBroken",
+      "FULL": "Funcionário de Transporte Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104707",
+      "FORMID": "104707",
+      "EDID": "SSHQProtectron",
+      "FULL": "Trabalhador de Entregas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1043D1",
+      "FORMID": "1043D1",
+      "EDID": "NVCRFestus",
+      "FULL": "Festus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1040BC",
+      "FORMID": "1040BC",
+      "EDID": "NVCrGiantRatAmbush",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102AAE",
+      "FORMID": "102AAE",
+      "EDID": "NellisAntWorkerExplosive",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102AAD",
+      "FORMID": "102AAD",
+      "EDID": "NellisAntSoldierExplosive",
+      "FULL": "Formiga-Soldado Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FFC9D",
+      "FORMID": "0FFC9D",
+      "EDID": "CrMisterGutsySteelMillNV",
+      "FULL": "Sr. Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE9EA",
+      "FORMID": "0FE9EA",
+      "EDID": "McCarranFieldSentryBot",
+      "FULL": "Robô Sentinela da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE03A",
+      "FORMID": "0FE03A",
+      "EDID": "CrSporeCarrierFU3",
+      "FULL": "Bruto Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE038",
+      "FORMID": "0FE038",
+      "EDID": "V22DeadMantis",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE037",
+      "FORMID": "0FE037",
+      "EDID": "CrSporeCarrierFU",
+      "FULL": "Filhote Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE036",
+      "FORMID": "0FE036",
+      "EDID": "CrSporePlant",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE035",
+      "FORMID": "0FE035",
+      "EDID": "V22DeadSporeCarrierFD",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE034",
+      "FORMID": "0FE034",
+      "EDID": "CrSporeCarrierFU4",
+      "FULL": "Selvagem Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC1D0",
+      "FORMID": "0FC1D0",
+      "EDID": "V22FemaleMantis",
+      "FULL": "Mantis Gigante Fêmea"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9D94",
+      "FORMID": "0F9D94",
+      "EDID": "V22BathroomScareSporeCarrier",
+      "FULL": "Filhote Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F83A2",
+      "FORMID": "0F83A2",
+      "EDID": "WestsideMeanSonofabitch",
+      "FULL": "Filho da Puta FDP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5703",
+      "FORMID": "0F5703",
+      "EDID": "CrFiendBrahminQueenie",
+      "FULL": "Queenie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4401",
+      "FORMID": "0F4401",
+      "EDID": "V22KeelyGuardMantis",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D56",
+      "FORMID": "0F3D56",
+      "EDID": "V22DeadSporeCarrierFU",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D55",
+      "FORMID": "0F3D55",
+      "EDID": "V22BaileySporeCarrier",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D54",
+      "FORMID": "0F3D54",
+      "EDID": "V22AttackMantis",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D53",
+      "FORMID": "0F3D53",
+      "EDID": "V22ScareMantisSuddenWalk",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D52",
+      "FORMID": "0F3D52",
+      "EDID": "V22InitialAttackMantis",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D51",
+      "FORMID": "0F3D51",
+      "EDID": "V22ScareMantisNoise",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0904",
+      "FORMID": "0F0904",
+      "EDID": "V22ScareMantisWalk",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0903",
+      "FORMID": "0F0903",
+      "EDID": "V22Koch",
+      "FULL": "Robô Sentinela Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF412",
+      "FORMID": "0EF412",
+      "EDID": "NVCrGiantMantis",
+      "FULL": "Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF411",
+      "FORMID": "0EF411",
+      "EDID": "NVCrGiantMantisNymph",
+      "FULL": "Ninfa de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE6CE",
+      "FORMID": "0EE6CE",
+      "EDID": "V22TempSporePlant",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EDC34",
+      "FORMID": "0EDC34",
+      "EDID": "GunRunnerProtectron",
+      "FULL": "Vendortron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9491",
+      "FORMID": "0E9491",
+      "EDID": "BMCentaurPatrol",
+      "FULL": "Centauro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8E95",
+      "FORMID": "0E8E95",
+      "EDID": "NVCrGiantRat",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8828",
+      "FORMID": "0E8828",
+      "EDID": "CrSentryBotGLRepcon",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8823",
+      "FORMID": "0E8823",
+      "EDID": "CrSentryBotRHQ",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85EF",
+      "FORMID": "0E85EF",
+      "EDID": "REPCONTourGuide",
+      "FULL": "Guia Turístico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E84A2",
+      "FORMID": "0E84A2",
+      "EDID": "BMRhonda",
+      "FULL": "Sr. Handy Defeituoso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E79D1",
+      "FORMID": "0E79D1",
+      "EDID": "CrNightkinMissile",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E794E",
+      "FORMID": "0E794E",
+      "EDID": "CrNightkinSniper",
+      "FULL": "Nightkin Atirador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7502",
+      "FORMID": "0E7502",
+      "EDID": "REPCONEyebot",
+      "FULL": "Scanner de Reconhecimento Facial Móvel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7449",
+      "FORMID": "0E7449",
+      "EDID": "QJDeathclawHawkins",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7417",
+      "FORMID": "0E7417",
+      "EDID": "QJDeathclawDead",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E62FB",
+      "FORMID": "0E62FB",
+      "EDID": "CrDeathClawAlphaVariant",
+      "FULL": "Alfa Garra da Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60F1",
+      "FORMID": "0E60F1",
+      "EDID": "Tabitha",
+      "FULL": "Tabitha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E601F",
+      "FORMID": "0E601F",
+      "EDID": "QJDeathclawBaby",
+      "FULL": "Destroçador Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5E4F",
+      "FORMID": "0E5E4F",
+      "EDID": "QJSnuffles",
+      "FULL": "Snuffles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E59E8",
+      "FORMID": "0E59E8",
+      "EDID": "QJDeathclawAlphaMale",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E59E7",
+      "FORMID": "0E59E7",
+      "EDID": "QJDeathclawMother",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5862",
+      "FORMID": "0E5862",
+      "EDID": "CrSporeCarrierFD4",
+      "FULL": "Portador de Esporos Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5861",
+      "FORMID": "0E5861",
+      "EDID": "CrSporeCarrierFD3",
+      "FULL": "Portador de Esporos Bruto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5860",
+      "FORMID": "0E5860",
+      "EDID": "CrSporeCarrierFD2",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E585F",
+      "FORMID": "0E585F",
+      "EDID": "CrSporeCarrierFD",
+      "FULL": "Portador de Esporos Filhote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E585E",
+      "FORMID": "0E585E",
+      "EDID": "CrSentryBotMGHard",
+      "FULL": "Robô Sentinela Reforçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E585D",
+      "FORMID": "0E585D",
+      "EDID": "CrSentryBotGLHard",
+      "FULL": "Robô Sentinela Reforçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E585C",
+      "FORMID": "0E585C",
+      "EDID": "CrMisterGutsyHard",
+      "FULL": "Mr. Gutsy Enrijecido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5853",
+      "FORMID": "0E5853",
+      "EDID": "CrCentaurEvolved",
+      "FULL": "Centauro Evoluído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5852",
+      "FORMID": "0E5852",
+      "EDID": "CrEyebotCombat",
+      "FULL": "Eyebot de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5851",
+      "FORMID": "0E5851",
+      "EDID": "CrDeathClawMother",
+      "FULL": "Destroçadora Matriarca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5850",
+      "FORMID": "0E5850",
+      "EDID": "CrDeathClawBaby",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E584F",
+      "FORMID": "0E584F",
+      "EDID": "CrDeathClawAlpha",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1F",
+      "FORMID": "0E2C1F",
+      "EDID": "DLC03AFBCrSentryBotGLArmyDEAD",
+      "FULL": "Robô Sentinela do Exército"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1E",
+      "FORMID": "0E2C1E",
+      "EDID": "DLC03AFBCrRobobrainArmyDEAD",
+      "FULL": "Robocérebro do Exército"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1D",
+      "FORMID": "0E2C1D",
+      "EDID": "DLC03AFBCrProtectronArmyDEAD",
+      "FULL": "Protectron do Exército"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1C",
+      "FORMID": "0E2C1C",
+      "EDID": "DLC03CrSuperMutant4MissileLauncherA",
+      "FULL": "Supermutante Suserano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1B",
+      "FORMID": "0E2C1B",
+      "EDID": "DLC03CrSuperMutant4MeleeA",
+      "FULL": "Supermutante Suserano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C1A",
+      "FORMID": "0E2C1A",
+      "EDID": "DLC03CrSuperMutant4GunA",
+      "FULL": "Supermutante Suserano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C19",
+      "FORMID": "0E2C19",
+      "EDID": "DLC03CrSuperMutant4GatlingLaserA",
+      "FULL": "Supermutante Suserano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C18",
+      "FORMID": "0E2C18",
+      "EDID": "DLC03CrFeralGhoul4A",
+      "FULL": "Necrótico Feral Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C17",
+      "FORMID": "0E2C17",
+      "EDID": "DLC03CrBrahminPackWaterDEAD",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C16",
+      "FORMID": "0E2C16",
+      "EDID": "DLC03CrBrahminPackWater",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C15",
+      "FORMID": "0E2C15",
+      "EDID": "DLC03zCarTunnelTurret",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C13",
+      "FORMID": "0E2C13",
+      "EDID": "DLC03SentryBotMGEnclaveMB",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C12",
+      "FORMID": "0E2C12",
+      "EDID": "DLC03SentryBotMGEnclaveBroken",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C11",
+      "FORMID": "0E2C11",
+      "EDID": "DLC03PrimeSequenceTurret02EnclaveHighHP",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C10",
+      "FORMID": "0E2C10",
+      "EDID": "DLC03PrimeSequenceTurret02EnclaveAlt",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0F",
+      "FORMID": "0E2C0F",
+      "EDID": "DLC03PrimeSequenceTurret02Enclave",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0E",
+      "FORMID": "0E2C0E",
+      "EDID": "DLC03PresMetroProtectronDEAD",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0D",
+      "FORMID": "0E2C0D",
+      "EDID": "DLC03PresMetroDeadProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0C",
+      "FORMID": "0E2C0C",
+      "EDID": "DLC03PowerworksTurretHallTurret",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0B",
+      "FORMID": "0E2C0B",
+      "EDID": "DLC03MisterGutsyStiggs",
+      "FULL": "Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C0A",
+      "FORMID": "0E2C0A",
+      "EDID": "DLC03MisterGutsyEnclaveBroken",
+      "FULL": "Sr. Corajoso da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C09",
+      "FORMID": "0E2C09",
+      "EDID": "DLC03CrTurretCeiling04Steel",
+      "FULL": "Torreta Mark VII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C08",
+      "FORMID": "0E2C08",
+      "EDID": "DLC03CrTurretCeiling04Outcast",
+      "FULL": "Torreta Mark VII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C07",
+      "FORMID": "0E2C07",
+      "EDID": "DLC03CrTurretCeiling04Enclave",
+      "FULL": "Torreta Mark VII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C06",
+      "FORMID": "0E2C06",
+      "EDID": "DLC03CrTurretCeiling04",
+      "FULL": "Torreta Mark VII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C05",
+      "FORMID": "0E2C05",
+      "EDID": "DLC03CrTurret04Steel",
+      "FULL": "Torreta Mark VIII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C04",
+      "FORMID": "0E2C04",
+      "EDID": "DLC03CrTurret04Outcast",
+      "FULL": "Torreta Mark VIII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C03",
+      "FORMID": "0E2C03",
+      "EDID": "DLC03CrTurret04Enclave",
+      "FULL": "Torreta Mark VIII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C02",
+      "FORMID": "0E2C02",
+      "EDID": "DLC03CrTurret04",
+      "FULL": "Torreta Mark VIII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C01",
+      "FORMID": "0E2C01",
+      "EDID": "DLC03CrSentryBotMGEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C00",
+      "FORMID": "0E2C00",
+      "EDID": "DLC03CrSentryBotGLEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BFF",
+      "FORMID": "0E2BFF",
+      "EDID": "DLC03CrRobobrainEnclave",
+      "FULL": "Robocérebro da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BFE",
+      "FORMID": "0E2BFE",
+      "EDID": "DLC03CrProtectronEnclave",
+      "FULL": "Protectron da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BFD",
+      "FORMID": "0E2BFD",
+      "EDID": "DLC03CrMisterGutsyEnclave",
+      "FULL": "Sr. Corajoso da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0DA498",
+      "FORMID": "0DA498",
+      "EDID": "NVCrTurret03Steel",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD59C",
+      "FORMID": "0CD59C",
+      "EDID": "NightkinMeleeDEAD",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD50A",
+      "FORMID": "0CD50A",
+      "EDID": "CrNightkin",
+      "FULL": "Base dos Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD345",
+      "FORMID": "0CD345",
+      "EDID": "CrFeralGhoulGlowingOneDEAD",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD22C",
+      "FORMID": "0CD22C",
+      "EDID": "GibsonDog01",
+      "FULL": "Basura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD133",
+      "FORMID": "0CD133",
+      "EDID": "VNovacCrBrahmin",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8513",
+      "FORMID": "0C8513",
+      "EDID": "TheDevilsThroatSuperMutantDead",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8231",
+      "FORMID": "0C8231",
+      "EDID": "wastelandRoachKingRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8063",
+      "FORMID": "0C8063",
+      "EDID": "DeadAnt2",
+      "FULL": "Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C79DE",
+      "FORMID": "0C79DE",
+      "EDID": "LDJuryBossPet",
+      "FULL": "Pumpkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C595E",
+      "FORMID": "0C595E",
+      "EDID": "FriendshipCaptiveRadroach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C18D4",
+      "FORMID": "0C18D4",
+      "EDID": "DEADDeathClawEnclave",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BF5B8",
+      "FORMID": "0BF5B8",
+      "EDID": "DeadAnt1",
+      "FULL": "Formiga Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BBA30",
+      "FORMID": "0BBA30",
+      "EDID": "CrRadroachDEAD",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAE92",
+      "FORMID": "0BAE92",
+      "EDID": "GenericFactoryProtectron",
+      "FULL": "Protectron de Fábrica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAD1A",
+      "FORMID": "0BAD1A",
+      "EDID": "FeralGhoulDEAD",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9C16",
+      "FORMID": "0B9C16",
+      "EDID": "NightkinGunDEAD",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9A38",
+      "FORMID": "0B9A38",
+      "EDID": "LvlChupacabraNightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B16AE",
+      "FORMID": "0B16AE",
+      "EDID": "genericPodProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF836",
+      "FORMID": "0AF836",
+      "EDID": "RavenRockCrDeathClawEnclave01",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF5E5",
+      "FORMID": "0AF5E5",
+      "EDID": "RavenRockCrSentryBotGLEnclave02",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF5E4",
+      "FORMID": "0AF5E4",
+      "EDID": "RavenRockCrSentryBotMGEnclave02",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AEC22",
+      "FORMID": "0AEC22",
+      "EDID": "RavenRockCrSentryBotGLEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AEC21",
+      "FORMID": "0AEC21",
+      "EDID": "RavenRockCrSentryBotMGEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AE225",
+      "FORMID": "0AE225",
+      "EDID": "LDFortCDeadGhoul01",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AB801",
+      "FORMID": "0AB801",
+      "EDID": "GenericVaultProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A84BB",
+      "FORMID": "0A84BB",
+      "EDID": "CrTurretCeiling03",
+      "FULL": "Torreta Mark V"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A84BA",
+      "FORMID": "0A84BA",
+      "EDID": "CrTurretCeiling02",
+      "FULL": "Torreta Mark III"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A84B8",
+      "FORMID": "0A84B8",
+      "EDID": "CrTurretCeiling01",
+      "FULL": "Torreta Mark I"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A6000",
+      "FORMID": "0A6000",
+      "EDID": "DEADDeathClaw",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A592B",
+      "FORMID": "0A592B",
+      "EDID": "CrProtectronArmy",
+      "FULL": "Army Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4E5D",
+      "FORMID": "0A4E5D",
+      "EDID": "CrBrahminPackA",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4529",
+      "FORMID": "0A4529",
+      "EDID": "ForgeCrProtectronDEAD03",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4528",
+      "FORMID": "0A4528",
+      "EDID": "ForgeCrProtectronDEAD02",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4527",
+      "FORMID": "0A4527",
+      "EDID": "ForgeCrProtectronDEAD",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4426",
+      "FORMID": "0A4426",
+      "EDID": "DeadProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A3D15",
+      "FORMID": "0A3D15",
+      "EDID": "DeadMoleRat",
+      "FULL": "Corpo de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A29F4",
+      "FORMID": "0A29F4",
+      "EDID": "DeadMirelurk02",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A289F",
+      "FORMID": "0A289F",
+      "EDID": "DeadMirelurk01",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A25B1",
+      "FORMID": "0A25B1",
+      "EDID": "RadroachTravel",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A11FA",
+      "FORMID": "0A11FA",
+      "EDID": "FFCorpseRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09FAFB",
+      "FORMID": "09FAFB",
+      "EDID": "CrFeralGhoul2A",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09FAFA",
+      "FORMID": "09FAFA",
+      "EDID": "CrFeralGhoul1A",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8EA",
+      "FORMID": "09E8EA",
+      "EDID": "CrSuperMutant1MeleeF",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E9",
+      "FORMID": "09E8E9",
+      "EDID": "CrSuperMutant1MeleeE",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E8",
+      "FORMID": "09E8E8",
+      "EDID": "CrSuperMutant1MeleeD",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E7",
+      "FORMID": "09E8E7",
+      "EDID": "CrSuperMutant1GunF",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E6",
+      "FORMID": "09E8E6",
+      "EDID": "CrSuperMutant1GunE",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E5",
+      "FORMID": "09E8E5",
+      "EDID": "CrSuperMutant1GunD",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E4",
+      "FORMID": "09E8E4",
+      "EDID": "CrSuperMutant1MeleeC",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E3",
+      "FORMID": "09E8E3",
+      "EDID": "CrSuperMutant1GunC",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E2",
+      "FORMID": "09E8E2",
+      "EDID": "CrSuperMutant2MissileLauncherC",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E1",
+      "FORMID": "09E8E1",
+      "EDID": "CrSuperMutant2MinigunC",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8E0",
+      "FORMID": "09E8E0",
+      "EDID": "CrSuperMutant2MeleeC",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8DE",
+      "FORMID": "09E8DE",
+      "EDID": "CrSuperMutant2GunC",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B172",
+      "FORMID": "09B172",
+      "EDID": "CG03Andy",
+      "FULL": "Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A253",
+      "FORMID": "09A253",
+      "EDID": "VHeliosStasisProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:099D24",
+      "FORMID": "099D24",
+      "EDID": "CrMisterGutsyPrototype",
+      "FULL": "Protótipo Mr. Gutsy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:095D25",
+      "FORMID": "095D25",
+      "EDID": "DeadEyebotEnclave",
+      "FULL": "Eyebot da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094ECE",
+      "FORMID": "094ECE",
+      "EDID": "CrSuperMutant3MissileLauncherB",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094ECD",
+      "FORMID": "094ECD",
+      "EDID": "CrSuperMutant3MinigunB",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094ECC",
+      "FORMID": "094ECC",
+      "EDID": "CrSuperMutant3MeleeB",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094ECB",
+      "FORMID": "094ECB",
+      "EDID": "CrSuperMutant3GunB",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094ECA",
+      "FORMID": "094ECA",
+      "EDID": "CrSuperMutant2MissileLauncherB",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC9",
+      "FORMID": "094EC9",
+      "EDID": "CrSuperMutant2MinigunB",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC8",
+      "FORMID": "094EC8",
+      "EDID": "CrSuperMutant2MeleeB",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC7",
+      "FORMID": "094EC7",
+      "EDID": "CrSuperMutant2GunB",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC6",
+      "FORMID": "094EC6",
+      "EDID": "CrSuperMutant1MeleeB",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC5",
+      "FORMID": "094EC5",
+      "EDID": "CrSuperMutant1GunB",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094881",
+      "FORMID": "094881",
+      "EDID": "NtlGuardDepotCrSentryBotMG",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094880",
+      "FORMID": "094880",
+      "EDID": "NtlGuardDepotCrSentryBotGL",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09487F",
+      "FORMID": "09487F",
+      "EDID": "NtlGuardDepotCrMisterGutsy",
+      "FULL": "Mr. Gutsy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09487E",
+      "FORMID": "09487E",
+      "EDID": "NtlGuardDepotCrRobobrain",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094868",
+      "FORMID": "094868",
+      "EDID": "NtlGuardDepotCrProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0946DA",
+      "FORMID": "0946DA",
+      "EDID": "DLC01CrTrog1",
+      "FULL": "Filhote de Trog"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09468F",
+      "FORMID": "09468F",
+      "EDID": "DLC01CrTrog4",
+      "FULL": "Trog Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09468D",
+      "FORMID": "09468D",
+      "EDID": "DLC01CrTrog3",
+      "FULL": "Bruto Trog"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094687",
+      "FORMID": "094687",
+      "EDID": "DLC01CrTrog2",
+      "FULL": "Trogue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09460A",
+      "FORMID": "09460A",
+      "EDID": "DLC01TrogDEAD",
+      "FULL": "Trogue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09426E",
+      "FORMID": "09426E",
+      "EDID": "RL3Follower",
+      "FULL": "Sargento RL-3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092C4F",
+      "FORMID": "092C4F",
+      "EDID": "CrSuperMutant2MinigunA",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092C4E",
+      "FORMID": "092C4E",
+      "EDID": "CrSuperMutant3MeleeA",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092C4D",
+      "FORMID": "092C4D",
+      "EDID": "CrSuperMutant3GunA",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092C49",
+      "FORMID": "092C49",
+      "EDID": "CrSuperMutant2MissileLauncherA",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09189C",
+      "FORMID": "09189C",
+      "EDID": "CrBloatFly",
+      "FULL": "Mosca-mutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F7B0",
+      "FORMID": "08F7B0",
+      "EDID": "RCTurret01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08EF28",
+      "FORMID": "08EF28",
+      "EDID": "DeadBrahmin2",
+      "FULL": "Cadáver de Brâmane em Decomposição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08840C",
+      "FORMID": "08840C",
+      "EDID": "LDDeadMolerat",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0854D7",
+      "FORMID": "0854D7",
+      "EDID": "MS05NukaColaMireLurk2",
+      "FULL": "Caçador Nukalurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0815CD",
+      "FORMID": "0815CD",
+      "EDID": "FeralGhoulDEAD2",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F8E1",
+      "FORMID": "07F8E1",
+      "EDID": "Davison",
+      "FULL": "Davison"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA2D",
+      "FORMID": "07EA2D",
+      "EDID": "CrSuperMutant2Nightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA2C",
+      "FORMID": "07EA2C",
+      "EDID": "CrSuperMutant3NightkinGunA",
+      "FULL": "Nightkin Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA2B",
+      "FORMID": "07EA2B",
+      "EDID": "CrSuperMutant2NightkinGunA",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA2A",
+      "FORMID": "07EA2A",
+      "EDID": "CrSuperMutant1NightkinGunA",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA29",
+      "FORMID": "07EA29",
+      "EDID": "CrSuperMutantNightkin",
+      "FULL": "Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA28",
+      "FORMID": "07EA28",
+      "EDID": "CrSuperMutant3Nightkin",
+      "FULL": "Nightkin Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD14",
+      "FORMID": "07DD14",
+      "EDID": "LLDog6",
+      "FULL": "Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD0D",
+      "FORMID": "07DD0D",
+      "EDID": "LLDog5",
+      "FULL": "Pete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD0B",
+      "FORMID": "07DD0B",
+      "EDID": "LLDog4",
+      "FULL": "Muttface"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD06",
+      "FORMID": "07DD06",
+      "EDID": "LLDog3",
+      "FULL": "Ginger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DCFB",
+      "FORMID": "07DCFB",
+      "EDID": "LLDog2",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DCF5",
+      "FORMID": "07DCF5",
+      "EDID": "LLDog1",
+      "FULL": "Marginal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C6EF",
+      "FORMID": "07C6EF",
+      "EDID": "CrMirelurk3King",
+      "FULL": "Rei Mirelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07BDA7",
+      "FORMID": "07BDA7",
+      "EDID": "fortBMisterGutsySteel",
+      "FULL": "Mr. Gutsy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B23C",
+      "FORMID": "07B23C",
+      "EDID": "CrTurret03",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B23B",
+      "FORMID": "07B23B",
+      "EDID": "CrTurret02",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B235",
+      "FORMID": "07B235",
+      "EDID": "CrTurret01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06C5CE",
+      "FORMID": "06C5CE",
+      "EDID": "OutcastWastelandPatrolA1",
+      "FULL": "Protectron Fora da Lei"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06C5CB",
+      "FORMID": "06C5CB",
+      "EDID": "OutcastWastelandPatrolB1",
+      "FULL": "Robocérebro Marginalizado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B238",
+      "FORMID": "06B238",
+      "EDID": "CG04RadroachStanley",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B237",
+      "FORMID": "06B237",
+      "EDID": "CG04Andy",
+      "FULL": "Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0663A5",
+      "FORMID": "0663A5",
+      "EDID": "MS02Protectron4",
+      "FULL": "Percival"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0663A4",
+      "FORMID": "0663A4",
+      "EDID": "MS02Protectron3",
+      "FULL": "Percival"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06639F",
+      "FORMID": "06639F",
+      "EDID": "MS02Protectron2",
+      "FULL": "Percival"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06639E",
+      "FORMID": "06639E",
+      "EDID": "MS02Protectron1",
+      "FULL": "Percival"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0603AA",
+      "FORMID": "0603AA",
+      "EDID": "RobcoTurretCeiling",
+      "FULL": "Torreta Mark I"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F9D1",
+      "FORMID": "05F9D1",
+      "EDID": "CrSentryBotMGEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F9CC",
+      "FORMID": "05F9CC",
+      "EDID": "CrSentryBotMGSteel",
+      "FULL": "Brotherhood Sentry Bot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F9CB",
+      "FORMID": "05F9CB",
+      "EDID": "CrSentryBotMGOutcast",
+      "FULL": "Outcast Sentry Bot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F9CA",
+      "FORMID": "05F9CA",
+      "EDID": "CrSentryBotMG",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05CC80",
+      "FORMID": "05CC80",
+      "EDID": "DeadDogVicious",
+      "FULL": "Cão Vicioso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB11",
+      "FORMID": "05BB11",
+      "EDID": "RobcoProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB02",
+      "FORMID": "05BB02",
+      "EDID": "RobcoRobot",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B538",
+      "FORMID": "05B538",
+      "EDID": "germPoliceHQRadRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B3BE",
+      "FORMID": "05B3BE",
+      "EDID": "RadroachGoldRibbon",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0522DB",
+      "FORMID": "0522DB",
+      "EDID": "CG04Radroach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0513F1",
+      "FORMID": "0513F1",
+      "EDID": "DeadSuperMutant2Melee",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0513EE",
+      "FORMID": "0513EE",
+      "EDID": "DeadSuperMutant1Gun",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04F793",
+      "FORMID": "04F793",
+      "EDID": "FFER66UncleLeo",
+      "FULL": "Tio Leo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04E5FD",
+      "FORMID": "04E5FD",
+      "EDID": "RadscorpionHunterPrey",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04C67D",
+      "FORMID": "04C67D",
+      "EDID": "FEVSubject",
+      "FULL": "Sujeito FEV Fracassado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D34E",
+      "FORMID": "03D34E",
+      "EDID": "MQ08Fawkes",
+      "FULL": "Fawkes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A149",
+      "FORMID": "03A149",
+      "EDID": "CrSuperMutant3MissileLauncherA",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A148",
+      "FORMID": "03A148",
+      "EDID": "CrSuperMutant2MeleeA",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A147",
+      "FORMID": "03A147",
+      "EDID": "CrSuperMutant1MeleeA",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:039AF9",
+      "FORMID": "039AF9",
+      "EDID": "genericUtilityProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03995B",
+      "FORMID": "03995B",
+      "EDID": "genericOfficeProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:037B41",
+      "FORMID": "037B41",
+      "EDID": "MS05NukaColaMireLurk1",
+      "FULL": "Nukalurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034785",
+      "FORMID": "034785",
+      "EDID": "ShalebridgeAntQueen",
+      "FULL": "Rainha Gigante das Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03358A",
+      "FORMID": "03358A",
+      "EDID": "DeadMuffy",
+      "FULL": "Muffy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032D2C",
+      "FORMID": "032D2C",
+      "EDID": "FFER04Radroach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032909",
+      "FORMID": "032909",
+      "EDID": "ShalebridgeBlackAnt",
+      "FULL": "Formiga Forrageira Mutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03118D",
+      "FORMID": "03118D",
+      "EDID": "FFEnclaveCampTurret",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030D89",
+      "FORMID": "030D89",
+      "EDID": "adamsMorganRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0306CC",
+      "FORMID": "0306CC",
+      "EDID": "CG02Radroach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030522",
+      "FORMID": "030522",
+      "EDID": "NukaColaProtectron",
+      "FULL": "Segurança Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02F582",
+      "FORMID": "02F582",
+      "EDID": "RHSProtectron",
+      "FULL": "Dean Dewey"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D6F7",
+      "FORMID": "02D6F7",
+      "EDID": "robcoRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028FED",
+      "FORMID": "028FED",
+      "EDID": "EvergreenMillsBehemoth",
+      "FULL": "Supermutante Behemoth"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027FB3",
+      "FORMID": "027FB3",
+      "EDID": "CrSuperMutant2GunA",
+      "FULL": "Supermutante Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027FB2",
+      "FORMID": "027FB2",
+      "EDID": "CrSuperMutant3MinigunA",
+      "FULL": "Supermutante Mestre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027DED",
+      "FORMID": "027DED",
+      "EDID": "CaravanHoffBrahmin",
+      "FULL": "Brahmin de Carga do Hoff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027DEB",
+      "FORMID": "027DEB",
+      "EDID": "CaravanCrowBrahmin",
+      "FULL": "Brahmin do Bando do Corvo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027DE7",
+      "FORMID": "027DE7",
+      "EDID": "CaravanHarithBrahmin",
+      "FULL": "Brahmin da Matilha de Harith"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027DE5",
+      "FORMID": "027DE5",
+      "EDID": "CaravanWolfgangBrahmin",
+      "FULL": "Brahmin da Matilha de Wolfgang"
+    },
+    {
+      "FORM": "@FalloutNV.esm:026135",
+      "FORMID": "026135",
+      "EDID": "DemoDeadAnt1",
+      "FULL": "Formiga Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:023B56",
+      "FORMID": "023B56",
+      "EDID": "DeadSuperMutant1GunNOAMMO",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021EBD",
+      "FORMID": "021EBD",
+      "EDID": "CrMisterGutsy",
+      "FULL": "Mr. Gutsy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020AF7",
+      "FORMID": "020AF7",
+      "EDID": "FriendshipMetroRoach02",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020456",
+      "FORMID": "020456",
+      "EDID": "CG02Andy",
+      "FULL": "Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FEC9",
+      "FORMID": "01FEC9",
+      "EDID": "SniperShackRadroach02",
+      "FULL": "Jitters"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FEC8",
+      "FORMID": "01FEC8",
+      "EDID": "SniperShackRadroach01",
+      "FULL": "Fluffy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EFE3",
+      "FORMID": "01EFE3",
+      "EDID": "FriendshipMetroMetroRoach",
+      "FULL": "Baratarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E746",
+      "FORMID": "01E746",
+      "EDID": "RCMisterBuckingham",
+      "FULL": "Senhor Buckingham"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01D3CD",
+      "FORMID": "01D3CD",
+      "EDID": "DeadBrahmin",
+      "FULL": "Cadáver de Brâmane em Decomposição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CFA3",
+      "FORMID": "01CFA3",
+      "EDID": "CrDogVicious",
+      "FULL": "Cão Vicioso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF9F",
+      "FORMID": "01CF9F",
+      "EDID": "CrMoleRat",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF9C",
+      "FORMID": "01CF9C",
+      "EDID": "CrDog",
+      "FULL": "Cachorro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF9A",
+      "FORMID": "01CF9A",
+      "EDID": "CrDeathClaw",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF95",
+      "FORMID": "01CF95",
+      "EDID": "CrSuperMutantBehemoth",
+      "FULL": "Supermutante Behemoth"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF93",
+      "FORMID": "01CF93",
+      "EDID": "CrSuperMutant1GunA",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF90",
+      "FORMID": "01CF90",
+      "EDID": "CrCentaur",
+      "FULL": "Centauro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF8F",
+      "FORMID": "01CF8F",
+      "EDID": "CrProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF8E",
+      "FORMID": "01CF8E",
+      "EDID": "CrProtectronSteel",
+      "FULL": "Brotherhood Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF8A",
+      "FORMID": "01CF8A",
+      "EDID": "CrSentryBotGL",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF89",
+      "FORMID": "01CF89",
+      "EDID": "CrRobobrain",
+      "FULL": "Robobrain"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF84",
+      "FORMID": "01CF84",
+      "EDID": "CrMirelurk2",
+      "FULL": "Mirelurk Caçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF83",
+      "FORMID": "01CF83",
+      "EDID": "CrMirelurk1",
+      "FULL": "Mirelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF81",
+      "FORMID": "01CF81",
+      "EDID": "CrAnt1Worker",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF7F",
+      "FORMID": "01CF7F",
+      "EDID": "CrAnt3Queen",
+      "FULL": "Rainha Gigante das Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF7B",
+      "FORMID": "01CF7B",
+      "EDID": "CrFeralGhoulGlowingOne",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF7A",
+      "FORMID": "01CF7A",
+      "EDID": "CrFeralGhoul1B",
+      "FULL": "Necrótico Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF77",
+      "FORMID": "01CF77",
+      "EDID": "CrFeralGhoul2B",
+      "FULL": "Necrótico Feral Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF75",
+      "FORMID": "01CF75",
+      "EDID": "CrSentryBotGLEnclave",
+      "FULL": "Sentinela Robô do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF74",
+      "FORMID": "01CF74",
+      "EDID": "CrRobobrainEnclave",
+      "FULL": "Enclave Robobrain"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF73",
+      "FORMID": "01CF73",
+      "EDID": "CrEyebotEnclave",
+      "FULL": "Eyebot da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF72",
+      "FORMID": "01CF72",
+      "EDID": "CrDeathClawEnclave",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF71",
+      "FORMID": "01CF71",
+      "EDID": "CrSentryBotGLOutcast",
+      "FULL": "Outcast Sentry Bot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF6E",
+      "FORMID": "01CF6E",
+      "EDID": "CrSentryBotGLSteel",
+      "FULL": "Brotherhood Sentry Bot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CF6D",
+      "FORMID": "01CF6D",
+      "EDID": "CrRobobrainSteel",
+      "FULL": "Brotherhood Robobrain"
+    },
+    {
+      "FORM": "@FalloutNV.esm:017A03",
+      "FORMID": "017A03",
+      "EDID": "Shakes",
+      "FULL": "Shakes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014C79",
+      "FORMID": "014C79",
+      "EDID": "FallsChurchSuperMutantDEAD02",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014C50",
+      "FORMID": "014C50",
+      "EDID": "FallsChurchSuperMutantDEAD",
+      "FULL": "Supermutante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:068646",
+      "FORMID": "068646",
+      "EDID": "Vault87aCentaur",
+      "FULL": "Centauro"
+    }
+  ]
+}

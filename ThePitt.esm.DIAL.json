@@ -1,0 +1,1672 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@ThePitt.esm:00B5A4",
+      "FORMID": "00B5A4",
+      "EDID": "DLC01MideaThreaten2A",
+      "FULL": "Ousaria sim, porque eu sempre resolvo meus problemas com violência. <Intimidar>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B5A3",
+      "FORMID": "00B5A3",
+      "EDID": "DLC01MideaThreaten2B",
+      "FULL": "Eu não quero fazer isso, mas não tem outro jeito. Você pediu por isso, Midea."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B5A2",
+      "FORMID": "00B5A2",
+      "EDID": "DLC01MideaThreaten1A",
+      "FULL": "Diga-me agora onde Wernher está ou matarei todos aqui incluindo cada escravo."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B5A1",
+      "FORMID": "00B5A1",
+      "EDID": "DLC01MideaThreaten1B",
+      "FULL": "Vou descobrir onde ele está e acabar com isso. Aguarde."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B501",
+      "FORMID": "00B501",
+      "EDID": "DLC01FFCollectionReward1A",
+      "FULL": "Tem alguma coisa para mim?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B500",
+      "FORMID": "00B500",
+      "EDID": "DLC01FFCollectionReward1B",
+      "FULL": "É melhor valer a pena."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B49C",
+      "FORMID": "00B49C",
+      "EDID": "DLC01WhereForIngots",
+      "FULL": "Onde posso encontrar lingotes de aço?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B49B",
+      "FORMID": "00B49B",
+      "EDID": "DLC01EverettFeelings1A",
+      "FULL": "Sem ressentimentos, mas eu não vou mais deixar que você me trate como um pedaço de merda."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B49A",
+      "FORMID": "00B49A",
+      "EDID": "DLC01EverettFeelings1B",
+      "FULL": "E se eu colocar você no açoite?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B399",
+      "FORMID": "00B399",
+      "EDID": "DLC01AboutPitt2A",
+      "FULL": "Como The Pitt surgiu?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B398",
+      "FORMID": "00B398",
+      "EDID": "DLC01AboutPitt2B",
+      "FULL": "Por que você mantém os trabalhadores em The Pitt?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B397",
+      "FORMID": "00B397",
+      "EDID": "DLC01AboutPitt2C",
+      "FULL": "Por que os trabalhadores de The Pitt são tratados tão mal?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B396",
+      "FORMID": "00B396",
+      "EDID": "DLC01AboutPitt2Exit",
+      "FULL": "Isso é tudo que eu preciso saber."
+    },
+    {
+      "FORM": "@ThePitt.esm:00AB8F",
+      "FORMID": "00AB8F",
+      "EDID": "DLC01AshurNote2",
+      "FULL": "Diário 2: A Praga"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AB8E",
+      "FORMID": "00AB8E",
+      "EDID": "DLC01AshurNote3",
+      "FULL": "Diário 3: A Siderúrgica"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AB8D",
+      "FORMID": "00AB8D",
+      "EDID": "DLC01AshurNote4",
+      "FULL": "Diário 4: A Cura"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA91",
+      "FORMID": "00AA91",
+      "EDID": "DLC01WernherReward2A",
+      "FULL": "Então, o que eu faço agora?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA90",
+      "FORMID": "00AA90",
+      "EDID": "DLC01WernherReward2B",
+      "FULL": "Eu libertei todos os escravos. Por que que nem todos estão felizes?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA81",
+      "FORMID": "00AA81",
+      "EDID": "DLC01AshurEndPitt",
+      "FULL": "O que você quer dizer com o futuro brilhante da cidade?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA80",
+      "FORMID": "00AA80",
+      "EDID": "DLC01AshurEndReward",
+      "FULL": "Que tal uma recompensa?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA7E",
+      "FORMID": "00AA7E",
+      "EDID": "DLC01AshurNote1",
+      "FULL": "Diário 1: Para Marie"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA76",
+      "FORMID": "00AA76",
+      "EDID": "DLC01AshurEndSlaves",
+      "FULL": "O que vai acontecer com os trabalhadores?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A9B4",
+      "FORMID": "00A9B4",
+      "EDID": "DLC01AshurAboutThePitt",
+      "FULL": "Espere, pode me dizer mais sobre o que você está fazendo em The Pitt?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A984",
+      "FORMID": "00A984",
+      "EDID": "DLC01MideaSt50Greeting3",
+      "FULL": "Este lugar é um pesadelo!"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A983",
+      "FORMID": "00A983",
+      "EDID": "DLC01MideaSt50Greeting4",
+      "FULL": "Obrigado por ter me ajudado."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A982",
+      "FORMID": "00A982",
+      "EDID": "DLC01MideaSt50Greeting1c",
+      "FULL": "O que quer que seja, eu posso aguentar. Então... do que se trata?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A981",
+      "FORMID": "00A981",
+      "EDID": "DLC01MideaSt50Greeting1d",
+      "FULL": "Desde que a recompensa valha a pena. O que eu preciso fazer?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A980",
+      "FORMID": "00A980",
+      "EDID": "DLC01MideaSt50Greeting1a3",
+      "FULL": "Então, qual é o esquema?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A97F",
+      "FORMID": "00A97F",
+      "EDID": "DLC01MideaSt50Greeting1a1a3",
+      "FULL": "Acho que posso cuidar disso."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A97E",
+      "FORMID": "00A97E",
+      "EDID": "DLC01MideaSt50Greeting1b3",
+      "FULL": "Então, qual é o esquema?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A97C",
+      "FORMID": "00A97C",
+      "EDID": "DLC01PhaedraTopicArenaWeapons",
+      "FULL": "Eu recebo alguma arma?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A857",
+      "FORMID": "00A857",
+      "EDID": "DLC01SandraMeeting00A",
+      "FULL": "Isso é bom, mas por que a sua filha está em seu laboratório?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A856",
+      "FORMID": "00A856",
+      "EDID": "DLC01SandraMeeting00B",
+      "FULL": "Eu não me importo com sua prole. Onde está a cura?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A855",
+      "FORMID": "00A855",
+      "EDID": "DLC01SandraMeeting00C",
+      "FULL": "Acho que sua filha não está aqui por coincidência..."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A854",
+      "FORMID": "00A854",
+      "EDID": "DLC01WernherPathB04C",
+      "FULL": "Eu podia jurar que matei a maioria deles. O resto é mesmo necessário?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A81C",
+      "FORMID": "00A81C",
+      "EDID": "DLC01WernherTaskAcceptYes1",
+      "FULL": "Um disfarce é uma boa ideia. Eu farei."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A81B",
+      "FORMID": "00A81B",
+      "EDID": "DLC01WernherTaskAcceptYes2",
+      "FULL": "Disfarçado ou não, eu devo resgatar esses escravos."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A81A",
+      "FORMID": "00A81A",
+      "EDID": "DLC01WernherTaskAcceptYes3",
+      "FULL": "Eu não preciso de um disfarce. Eu vou encontrar um jeito de entrar"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A818",
+      "FORMID": "00A818",
+      "EDID": "DLC01WernherSt150Greeting1",
+      "FULL": "Tem certeza que não posso levar uma arma escondida?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A817",
+      "FORMID": "00A817",
+      "EDID": "DLC01WernherSt150Greeting2",
+      "FULL": "Entrar e encontrar Midea. Entendido."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A816",
+      "FORMID": "00A816",
+      "EDID": "DLC01WernherSt150Greeting3",
+      "FULL": "É, mas eu não confio muito em você."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A815",
+      "FORMID": "00A815",
+      "EDID": "DLC01WernherSt150Greeting1a",
+      "FULL": "Vou levar a arma."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A814",
+      "FORMID": "00A814",
+      "EDID": "DLC01WernherSt150Greeting1b",
+      "FULL": "Me dê a faca."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A813",
+      "FORMID": "00A813",
+      "EDID": "DLC01WernherSt150Greeting1c",
+      "FULL": "Deixa pra lá. Estou bem assim."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A7F3",
+      "FORMID": "00A7F3",
+      "EDID": "DLC01ReddupAmbush2",
+      "FULL": "Vou encontrá-lo e matá-lo."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A7D7",
+      "FORMID": "00A7D7",
+      "EDID": "DLC01ReddupAmbush1",
+      "FULL": "Será que não podemos conversar sobre isso?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A77A",
+      "FORMID": "00A77A",
+      "EDID": "DLC01FFCollectionIHaveIngots",
+      "FULL": "Tenho mais alguns lingotes para você."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A728",
+      "FORMID": "00A728",
+      "EDID": "DLC01MexGreetingNoOutfit1",
+      "FULL": "Eu sou um escravo. Eu não sobreviveria lá fora. Me deixe entrar novamente. <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A727",
+      "FORMID": "00A727",
+      "EDID": "DLC01MexGreetingNoOutfit2",
+      "FULL": "Ouvi dizer que tem alguma coisa acontecendo por aqui. Vim dar uma conferida."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A726",
+      "FORMID": "00A726",
+      "EDID": "DLC01MexGreetingNoOutfit3",
+      "FULL": "Eu sou a morte. Eu vim por você."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A70C",
+      "FORMID": "00A70C",
+      "EDID": "DLC01KrenshawDirectionsA",
+      "FULL": "Onde posso encontrar Ashur?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A70B",
+      "FORMID": "00A70B",
+      "EDID": "DLC01KrenshawDirectionsB",
+      "FULL": "Ele espera que eu simplesmente apareça, sem mais nem menos?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A697",
+      "FORMID": "00A697",
+      "EDID": "DLC01WernherSt90Greeting1",
+      "FULL": "Ah! De onde você veio?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A696",
+      "FORMID": "00A696",
+      "EDID": "DLC01WernherSt90Greeting2",
+      "FULL": "Primeiro eu queria fazer algumas perguntas."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A695",
+      "FORMID": "00A695",
+      "EDID": "DLC01WernherSt90Greeting3",
+      "FULL": "Tudo bem, nos vemos no túnel."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A694",
+      "FORMID": "00A694",
+      "EDID": "DLC01WernherSt100GreetingFollower1",
+      "FULL": "Ah, bom. Adoro surpresas. Qual é?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A693",
+      "FORMID": "00A693",
+      "EDID": "DLC01WernherSt100GreetingFollower2",
+      "FULL": "Isto não me parece bom."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A692",
+      "FORMID": "00A692",
+      "EDID": "DLC01WernherSt100GreetingFollower1a",
+      "FULL": "Se não tem outro jeito, eu entendo."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A691",
+      "FORMID": "00A691",
+      "EDID": "DLC01WernherSt100GreetingFollower1b",
+      "FULL": "Tem certeza que ele não pode vir?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A690",
+      "FORMID": "00A690",
+      "EDID": "DLC01WernherSt100GreetingFollower2a",
+      "FULL": "Se não tem outro jeito, eu entendo."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A68F",
+      "FORMID": "00A68F",
+      "EDID": "DLC01WernherSt100GreetingFollower2b",
+      "FULL": "Tem certeza que ele não pode vir?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A613",
+      "FORMID": "00A613",
+      "EDID": "DLC01MillyGreeting3c1",
+      "FULL": "Ouvi os gritos de socorro de Bill e soube que era tarde demais...<Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A612",
+      "FORMID": "00A612",
+      "EDID": "DLC01MillyGreeting3c2",
+      "FULL": "Eu vi vários Trogs arranhando, rasgando e mordendo seus membros... <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A611",
+      "FORMID": "00A611",
+      "EDID": "DLC01MillyGreeting3c3",
+      "FULL": "Eu espantei os Trogs e corri até Bill. Ele ainda estava vivo... <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A610",
+      "FORMID": "00A610",
+      "EDID": "DLC01MillyGreeting3c4",
+      "FULL": "Ele estava chamando por você. Eu tive que pôr um fim ao seu sofrimento... <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A60F",
+      "FORMID": "00A60F",
+      "EDID": "DLC01MillyGreeting3c5",
+      "FULL": "Ele é um desgraçado durão. Aguentou cada tiro da minha pistola... <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A60E",
+      "FORMID": "00A60E",
+      "EDID": "DLC01MillyGreeting3c6",
+      "FULL": "E um grande bloco de concreto... na cabeça. <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A60D",
+      "FORMID": "00A60D",
+      "EDID": "DLC01MillyGreeting3Bailout",
+      "FULL": "Tô brincando, encontrei ele morto na Aciaria."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A5FF",
+      "FORMID": "00A5FF",
+      "EDID": "DLC01MillyGreeting1b",
+      "FULL": "Sim, eu o encontrei na Aciaria."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A5FE",
+      "FORMID": "00A5FE",
+      "EDID": "DLC01MillyGreeting3a",
+      "FULL": "Bill está morto. Eu encontrei seu corpo na Aciaria. Sinto muito, Milly."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A5FD",
+      "FORMID": "00A5FD",
+      "EDID": "DLC01MillyGreeting3b",
+      "FULL": "Bill disse que você tem que saber que ele está bem, mas que ele não voltará tão cedo. <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A5FB",
+      "FORMID": "00A5FB",
+      "EDID": "DLC01MillyGreeting1e",
+      "FULL": "Não, eu ainda estou procurando."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A37D",
+      "FORMID": "00A37D",
+      "EDID": "DLC01MillyGreeting1c",
+      "FULL": "Não, eu não o vi."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A37C",
+      "FORMID": "00A37C",
+      "EDID": "DLC01MillyGreeting2a",
+      "FULL": "Sim, eu vou ajudar."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A37B",
+      "FORMID": "00A37B",
+      "EDID": "DLC01MillyGreeting2b",
+      "FULL": "Não, eu não quero ajudar."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A37A",
+      "FORMID": "00A37A",
+      "EDID": "DLC01MillyGreeting1d",
+      "FULL": "Quem você disse que é Bill, o Selvagem?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35F",
+      "FORMID": "00A35F",
+      "EDID": "DLC01BrandTopicEND",
+      "FULL": "Não, eu não ouvi nada."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35E",
+      "FORMID": "00A35E",
+      "EDID": "DLC01BrandTopicWeapons",
+      "FULL": "Marco está fabricando armas."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35D",
+      "FORMID": "00A35D",
+      "EDID": "DLC01BrandTopicRevolt",
+      "FULL": "Wernher está tentando libertar os escravos."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35C",
+      "FORMID": "00A35C",
+      "EDID": "DLC01BrandTopicMidea",
+      "FULL": "Midea está ajudando Wernher."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35B",
+      "FORMID": "00A35B",
+      "EDID": "DLC01BrandTopicMe",
+      "FULL": "Eu sou de fora de The Pitt. Estou aqui para ajudar a libertar os escravos."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A35A",
+      "FORMID": "00A35A",
+      "EDID": "DLC01BrandTopicCure",
+      "FULL": "Estou aqui para encontrar uma cura para as mutações."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A359",
+      "FORMID": "00A359",
+      "EDID": "DLC01FridayRepair",
+      "FULL": "Preciso reparar alguns equipamentos."
+    },
+    {
+      "FORM": "@ThePitt.esm:009F45",
+      "FORMID": "009F45",
+      "EDID": "DLC01MillyGreeting1a",
+      "FULL": "Quem é Bill, o Selvagem?"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F34",
+      "FORMID": "007F34",
+      "EDID": "DLC01WernherPathB04A",
+      "FULL": "Como vou fazer isso?"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F33",
+      "FORMID": "007F33",
+      "EDID": "DLC01WernherPathB04B",
+      "FULL": "Parece divertido. Deixe-os comigo!"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F32",
+      "FORMID": "007F32",
+      "EDID": "DLC01WernherPathB05A",
+      "FULL": "E como eu devo sair de lá?"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F31",
+      "FORMID": "007F31",
+      "EDID": "DLC01WernherPathB05B",
+      "FULL": "Parece um bom plano. Como faço para apagar as luzes?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073AD",
+      "FORMID": "0073AD",
+      "EDID": "DLC01WernherTLPittHistory",
+      "FULL": "Como a cidade começou?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073AC",
+      "FORMID": "0073AC",
+      "EDID": "DLC01WernherGreeting3",
+      "FULL": "Sou um lutador melhor do que você. Você não consegue cuidar de um par de Raiders?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073AB",
+      "FORMID": "0073AB",
+      "EDID": "DLC01WernherGreeting3a",
+      "FULL": "Sim, tudo bem. Eu só estava brincando."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073AA",
+      "FORMID": "0073AA",
+      "EDID": "DLC01WernherGreeting3b",
+      "FULL": "O quê? Não é minha culpa se você não consegue atirar em linha reta."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A9",
+      "FORMID": "0073A9",
+      "EDID": "DLC01WernherTLPittProblems",
+      "FULL": "Quem vive lá?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A8",
+      "FORMID": "0073A8",
+      "EDID": "DLC01WernherTLPittCure",
+      "FULL": "O que acontece com as pessoas que ficam doentes?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A7",
+      "FORMID": "0073A7",
+      "EDID": "DLC01WernherTLPittHScourge",
+      "FULL": "Conte-me o que a Irmandade fez."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A6",
+      "FORMID": "0073A6",
+      "EDID": "DLC01WernherTLPittEND",
+      "FULL": "Vamos mudar de assunto."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A5",
+      "FORMID": "0073A5",
+      "EDID": "DLC01WernherTLPeopleMoreInfo",
+      "FULL": "De onde seu povo é?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A4",
+      "FORMID": "0073A4",
+      "EDID": "DLC01WernherTLPeopleAshur",
+      "FULL": "Quem está no comando de The Pitt?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A3",
+      "FORMID": "0073A3",
+      "EDID": "DLC01WernherTLPeopleMidea",
+      "FULL": "Existe alguém tentando libertar seu povo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A2",
+      "FORMID": "0073A2",
+      "EDID": "DLC01WernherTLPeopleEND",
+      "FULL": "Vamos mudar de assunto."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A1",
+      "FORMID": "0073A1",
+      "EDID": "DLC01FridayBarter",
+      "FULL": "Mostre-me o que você tem."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073A0",
+      "FORMID": "0073A0",
+      "EDID": "DLC01HarrisBarter",
+      "FULL": "Deixe-me ver as bebidas que você tem."
+    },
+    {
+      "FORM": "@ThePitt.esm:007381",
+      "FORMID": "007381",
+      "EDID": "DLC01AboutMarie1",
+      "FULL": "Como Marie está?"
+    },
+    {
+      "FORM": "@ThePitt.esm:007380",
+      "FORMID": "007380",
+      "EDID": "DLC01BabyGift1",
+      "FULL": "Ursinho de pelúcia para Marie! Aqui está."
+    },
+    {
+      "FORM": "@ThePitt.esm:006532",
+      "FORMID": "006532",
+      "EDID": "DLC01Marco1",
+      "FULL": "Eu preciso de armas. Onde posso encontrar Marco?"
+    },
+    {
+      "FORM": "@ThePitt.esm:006531",
+      "FORMID": "006531",
+      "EDID": "DLC01Marco1a",
+      "FULL": "É. Onde ele está?"
+    },
+    {
+      "FORM": "@ThePitt.esm:006530",
+      "FORMID": "006530",
+      "EDID": "DLC01Marco1b",
+      "FULL": "Eu já o encontrei. Não se preocupe."
+    },
+    {
+      "FORM": "@ThePitt.esm:005FB5",
+      "FORMID": "005FB5",
+      "EDID": "DLC01MideaPathB02A",
+      "FULL": "Desde que ela esteja segura... Pode leva-la."
+    },
+    {
+      "FORM": "@ThePitt.esm:005FB4",
+      "FORMID": "005FB4",
+      "EDID": "DLC01MideaPathB02B",
+      "FULL": "Tanto faz. Eu fiz a minha parte, agora onde está a recompensa?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F9E",
+      "FORMID": "005F9E",
+      "EDID": "DLC01WernherGreeting1c",
+      "FULL": "O que há de errado com o seu povo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F9D",
+      "FORMID": "005F9D",
+      "EDID": "DLC01WernherGreeting1a1",
+      "FULL": "Espere, devagar. Cura para o quê?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F9C",
+      "FORMID": "005F9C",
+      "EDID": "DLC01WernherGreeting1a2",
+      "FULL": "Cura? Você está doente? Argh! Vá embora!"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F9B",
+      "FORMID": "005F9B",
+      "EDID": "DLC01WernherGreeting1a3",
+      "FULL": "Você não estava com pressa? Ficar contando histórias vai te atrasar."
+    },
+    {
+      "FORM": "@ThePitt.esm:005F9A",
+      "FORMID": "005F9A",
+      "EDID": "DLC01WernherGreeting1a1a",
+      "FULL": "Eles deixaram a cidade para morrer?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F99",
+      "FORMID": "005F99",
+      "EDID": "DLC01WernherGreeting1a2DUPLICATE000",
+      "FULL": "O que aconteceu com as pessoas que sobreviveram?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F97",
+      "FORMID": "005F97",
+      "EDID": "DLC01WernherGreeting1a1a2",
+      "FULL": "Então, onde eu entro?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F96",
+      "FORMID": "005F96",
+      "EDID": "DLC01WernherGreeting1a1a3",
+      "FULL": "Cura? Você está doente? Fique longe de mim!"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F95",
+      "FORMID": "005F95",
+      "EDID": "DLC01WernherTLPitt",
+      "FULL": "Fale-me sobre The Pitt."
+    },
+    {
+      "FORM": "@ThePitt.esm:005F94",
+      "FORMID": "005F94",
+      "EDID": "DLC01WernherTLPeople",
+      "FULL": "Me conte sobre o seu povo."
+    },
+    {
+      "FORM": "@ThePitt.esm:005F93",
+      "FORMID": "005F93",
+      "EDID": "DLC01WernherTLCurrentTask",
+      "FULL": "O que você quer que eu faça?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005F92",
+      "FORMID": "005F92",
+      "EDID": "DLC01WernherTLGoodbye",
+      "FULL": "Tenho que ir.."
+    },
+    {
+      "FORM": "@ThePitt.esm:005179",
+      "FORMID": "005179",
+      "EDID": "DLC01KaiGreeting1",
+      "FULL": "O que você está fazendo? Você não deveria estar trabalhando?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005178",
+      "FORMID": "005178",
+      "EDID": "DLC01KaiGreeting2",
+      "FULL": "Nada, esquece."
+    },
+    {
+      "FORM": "@ThePitt.esm:005177",
+      "FORMID": "005177",
+      "EDID": "DLC01KaiNoodlesYES",
+      "FULL": "Me dê algo para comer."
+    },
+    {
+      "FORM": "@ThePitt.esm:005176",
+      "FORMID": "005176",
+      "EDID": "DLC01KaiNoodlesNO",
+      "FULL": "Não, obrigado, eu passo."
+    },
+    {
+      "FORM": "@ThePitt.esm:005175",
+      "FORMID": "005175",
+      "EDID": "DLC01NolaMedicalYES",
+      "FULL": "Sim. Me ajude."
+    },
+    {
+      "FORM": "@ThePitt.esm:005174",
+      "FORMID": "005174",
+      "EDID": "DLC01NolaMedicalNO",
+      "FULL": "Não, eu posso cuidar disso."
+    },
+    {
+      "FORM": "@ThePitt.esm:005173",
+      "FORMID": "005173",
+      "EDID": "DLC01MarcoGreeting01",
+      "FULL": "Ah, é? Que tal eu dizer a eles o que você está fazendo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005172",
+      "FORMID": "005172",
+      "EDID": "DLC01MarcoGreeting02",
+      "FULL": "E o que você está fazendo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005171",
+      "FORMID": "005171",
+      "EDID": "DLC01MarcoGreeting01a",
+      "FULL": "Acho que você tem razão. Em que você está trabalhando?"
+    },
+    {
+      "FORM": "@ThePitt.esm:005170",
+      "FORMID": "005170",
+      "EDID": "DLC01MarcoGreeting01b",
+      "FULL": "Talvez eu conte a eles de qualquer jeito."
+    },
+    {
+      "FORM": "@ThePitt.esm:00516F",
+      "FORMID": "00516F",
+      "EDID": "DLC01MarcoGreeting01a1",
+      "FULL": "Eu preciso de uma arma. Você pode me ajudar?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00516E",
+      "FORMID": "00516E",
+      "EDID": "DLC01MarcoGreeting01a2",
+      "FULL": "Então te deixarei continuar."
+    },
+    {
+      "FORM": "@ThePitt.esm:0045EF",
+      "FORMID": "0045EF",
+      "EDID": "DLC01AboutSlaves",
+      "FULL": "Algum problema com os moradores locais?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004587",
+      "FORMID": "004587",
+      "EDID": "DLC01AdanGreeting01",
+      "FULL": "Família? Vocês são escravos. Vocês não são uma família."
+    },
+    {
+      "FORM": "@ThePitt.esm:004586",
+      "FORMID": "004586",
+      "EDID": "DLC01AdanGreeting02",
+      "FULL": "Por que você está tão alegre?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004585",
+      "FORMID": "004585",
+      "EDID": "DLC01AdanGreeting01a",
+      "FULL": "O que isso significa?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004584",
+      "FORMID": "004584",
+      "EDID": "DLC01AdanGreeting01b",
+      "FULL": "Então significa que você está feliz por estar onde você está?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004583",
+      "FORMID": "004583",
+      "EDID": "DLC01AdanGreeting02a",
+      "FULL": "O que isso significa?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004582",
+      "FORMID": "004582",
+      "EDID": "DLC01AdanGreeting02b",
+      "FULL": "Então significa que você está feliz por estar onde você está?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004581",
+      "FORMID": "004581",
+      "EDID": "DLC01BrandGreeting01",
+      "FULL": "Pra que tantas perguntas?"
+    },
+    {
+      "FORM": "@ThePitt.esm:004580",
+      "FORMID": "004580",
+      "EDID": "DLC01BrandGreeting02",
+      "FULL": "Por que eu deveria te dizer alguma coisa?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00457F",
+      "FORMID": "00457F",
+      "EDID": "DLC01BrandGreetingChallenge",
+      "FULL": "Por que você quer saber?"
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A9",
+      "FORMID": "0039A9",
+      "EDID": "DLC01WernherSecondThoughts",
+      "FULL": "Estou tendo dúvidas sobre tudo isso."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A8",
+      "FORMID": "0039A8",
+      "EDID": "DLC01WernherPathB03A",
+      "FULL": "Claro, tudo bem, que seja. Vamos acabar logo com isso."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A7",
+      "FORMID": "0039A7",
+      "EDID": "DLC01WernherPathB03B",
+      "FULL": "Ele me perdoaria se eu matasse você. E é isso que pretendo fazer."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A5",
+      "FORMID": "0039A5",
+      "EDID": "DLC01BabyReturnA",
+      "FULL": "Desculpe. Aqui está Marie."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A4",
+      "FORMID": "0039A4",
+      "EDID": "DLC01BabyReturnB",
+      "FULL": "Não. Eu só pensei que você gostaria de dizer adeus a sua filha."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A3",
+      "FORMID": "0039A3",
+      "EDID": "DLC01AshurDefense01A",
+      "FULL": "Sinto muito, mas era a única maneira de tirar Wernher do esconderijo."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A2",
+      "FORMID": "0039A2",
+      "EDID": "DLC01AshurDefense01B",
+      "FULL": "Hum... Isso não vai acontecer de novo."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A1",
+      "FORMID": "0039A1",
+      "EDID": "DLC01AshurReward01A",
+      "FULL": "Quer dizer que já sou cidadão de The Pitt? Obrigado, senhor!"
+    },
+    {
+      "FORM": "@ThePitt.esm:0039A0",
+      "FORMID": "0039A0",
+      "EDID": "DLC01AshurReward01B",
+      "FULL": "Sobre a vez que alguém me pagou por todo esse trabalho."
+    },
+    {
+      "FORM": "@ThePitt.esm:00399F",
+      "FORMID": "00399F",
+      "EDID": "DLC01AshurReward02A",
+      "FULL": "Então, o que eu faço agora?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00399E",
+      "FORMID": "00399E",
+      "EDID": "DLC01AshurReward02B",
+      "FULL": "Acho que é hora de relaxar e viver uma vida de luxo."
+    },
+    {
+      "FORM": "@ThePitt.esm:00399D",
+      "FORMID": "00399D",
+      "EDID": "DLC01WernherReward01A",
+      "FULL": "Desde que  os escravos estejam livres e Marie segura."
+    },
+    {
+      "FORM": "@ThePitt.esm:00399C",
+      "FORMID": "00399C",
+      "EDID": "DLC01WernherReward01B",
+      "FULL": "Eu quero a minha recompensa agora."
+    },
+    {
+      "FORM": "@ThePitt.esm:00399B",
+      "FORMID": "00399B",
+      "EDID": "DLC01WernherReward01C",
+      "FULL": "Isto me torna o novo Lorde de The Pitt."
+    },
+    {
+      "FORM": "@ThePitt.esm:003895",
+      "FORMID": "003895",
+      "EDID": "DLC01PhaedraGreeting1",
+      "FULL": "Onde posso me inscrever?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003894",
+      "FORMID": "003894",
+      "EDID": "DLC01PhaedraGreeting2",
+      "FULL": "O que está acontecendo aqui?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003893",
+      "FORMID": "003893",
+      "EDID": "DLC01PhaedraGreetingSignUpYES",
+      "FULL": "Sim. Coloque-me numa luta."
+    },
+    {
+      "FORM": "@ThePitt.esm:003892",
+      "FORMID": "003892",
+      "EDID": "DLC01PhaedraGreetingSignUpNO",
+      "FULL": "Não agora."
+    },
+    {
+      "FORM": "@ThePitt.esm:003891",
+      "FORMID": "003891",
+      "EDID": "DLC01PhaedraArenaFight",
+      "FULL": "Estou pronto para lutar."
+    },
+    {
+      "FORM": "@ThePitt.esm:003890",
+      "FORMID": "003890",
+      "EDID": "DLC01PhaedraArenaSignUp",
+      "FULL": "Eu quero lutar na Arena."
+    },
+    {
+      "FORM": "@ThePitt.esm:00388F",
+      "FORMID": "00388F",
+      "EDID": "DLC01PhaedraArenaFightWho",
+      "FULL": "Com quem eu vou lutar?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00388E",
+      "FORMID": "00388E",
+      "EDID": "DLC01PhaedraTopicArenaRules",
+      "FULL": "Quais são as regras da arena?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00388D",
+      "FORMID": "00388D",
+      "EDID": "DLC01PhaedraTopicOtherFighters",
+      "FULL": "Conte-me sobre os outros escravos que lutaram na Arena."
+    },
+    {
+      "FORM": "@ThePitt.esm:003744",
+      "FORMID": "003744",
+      "EDID": "DLC01StopSlaveRiot",
+      "FULL": "Sua revolta não mudará nada. Exceto os escravos que morrerão..."
+    },
+    {
+      "FORM": "@ThePitt.esm:003743",
+      "FORMID": "003743",
+      "EDID": "DLC01WernherGiveUp",
+      "FULL": "Eu não vou repetir, Wernher. Saia agora e nunca mais volte."
+    },
+    {
+      "FORM": "@ThePitt.esm:00359C",
+      "FORMID": "00359C",
+      "EDID": "DLC01MideaSt50Greeting1",
+      "FULL": "Ei, ei! Devagar! O que está acontecendo aqui?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00359B",
+      "FORMID": "00359B",
+      "EDID": "DLC01MideaSt50Greeting2",
+      "FULL": "Você tem razão. O que posso fazer para não chamar a atenção?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00359A",
+      "FORMID": "00359A",
+      "EDID": "DLC01MideaSt50Greeting1a",
+      "FULL": "Parece perigoso. O que eu tenho que fazer?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003599",
+      "FORMID": "003599",
+      "EDID": "DLC01MideaSt50Greeting1b",
+      "FULL": "Eu não vim aqui para trabalhar, vim para salvá-los!"
+    },
+    {
+      "FORM": "@ThePitt.esm:003598",
+      "FORMID": "003598",
+      "EDID": "DLC01MideaSt50Greeting1b1",
+      "FULL": "Eu entendo. O que você quer que eu faça?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003597",
+      "FORMID": "003597",
+      "EDID": "DLC01MideaSt50Greeting1b2",
+      "FULL": "Eu não estou muito à vontade com isso, mas já que estou preso aqui, foda-se."
+    },
+    {
+      "FORM": "@ThePitt.esm:003596",
+      "FORMID": "003596",
+      "EDID": "DLC01MideaSt50Greeting1a1",
+      "FULL": "Não parece muito perigoso, na verdade."
+    },
+    {
+      "FORM": "@ThePitt.esm:003595",
+      "FORMID": "003595",
+      "EDID": "DLC01MideaSt50Greeting1a2",
+      "FULL": "E deixe-me adivinhar: a área está repleta de Super Mutantes?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003594",
+      "FORMID": "003594",
+      "EDID": "DLC01MideaSt50Greeting1a1a",
+      "FULL": "O que diabos é um Trog?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003593",
+      "FORMID": "003593",
+      "EDID": "DLC01MideaSt50Greeting1a1b",
+      "FULL": "O que é isso? Algum tipo de peixe?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003592",
+      "FORMID": "003592",
+      "EDID": "DLC01MideaSt50Greeting1a1a1",
+      "FULL": "Então, onde consigo algumas armas?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003591",
+      "FORMID": "003591",
+      "EDID": "DLC01MideaSt50Greeting1a1a2",
+      "FULL": "Então se eu encontrar algum tenho que estrangulá-lo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003590",
+      "FORMID": "003590",
+      "EDID": "DLC01MideaWeapon3",
+      "FULL": "Esqueça. Não preciso de armas."
+    },
+    {
+      "FORM": "@ThePitt.esm:00358F",
+      "FORMID": "00358F",
+      "EDID": "DLC01MideaSt50Greeting1b1a",
+      "FULL": "Isso não é tão ruim."
+    },
+    {
+      "FORM": "@ThePitt.esm:00358E",
+      "FORMID": "00358E",
+      "EDID": "DLC01MideaSt50Greeting1b1b",
+      "FULL": "Deixe-me adivinhar: a área está repleta de Super Mutantes."
+    },
+    {
+      "FORM": "@ThePitt.esm:00358D",
+      "FORMID": "00358D",
+      "EDID": "DLC01MideaSt100Greeting1",
+      "FULL": "Arena? Antes de ir a qualquer lugar, você irá me explicar este plano."
+    },
+    {
+      "FORM": "@ThePitt.esm:00358C",
+      "FORMID": "00358C",
+      "EDID": "DLC01MideaSt100Greeting2",
+      "FULL": "Uma arena? Interessante. Então, isso é parte do seu plano?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00358B",
+      "FORMID": "00358B",
+      "EDID": "DLC01MideaTopicPitt",
+      "FULL": "Eu quero falar sobre The Pitt."
+    },
+    {
+      "FORM": "@ThePitt.esm:00358A",
+      "FORMID": "00358A",
+      "EDID": "DLC01MideaSt100Greeting1a",
+      "FULL": "E ele vai dar para mim de boa vontade? Sem mais nem menos?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003589",
+      "FORMID": "003589",
+      "EDID": "DLC01MideaSt100Greeting1b",
+      "FULL": "Tenho que matá-lo para obtê-la?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003588",
+      "FORMID": "003588",
+      "EDID": "DLC01MideaTopicSlaves",
+      "FULL": "Quero que você me fale sobre você e seu povo."
+    },
+    {
+      "FORM": "@ThePitt.esm:003587",
+      "FORMID": "003587",
+      "EDID": "DLC01MideaTopicMidea",
+      "FULL": "E quanto a você?"
+    },
+    {
+      "FORM": "@ThePitt.esm:003586",
+      "FORMID": "003586",
+      "EDID": "DLC01MideaTopicCure",
+      "FULL": "Conte-me sobre esta cura."
+    },
+    {
+      "FORM": "@ThePitt.esm:0032C2",
+      "FORMID": "0032C2",
+      "EDID": "DLC01MideaWeapon1",
+      "FULL": "Vou levar a Besta"
+    },
+    {
+      "FORM": "@ThePitt.esm:0032C1",
+      "FORMID": "0032C1",
+      "EDID": "DLC01MideaWeapon2",
+      "FULL": "Ficarei com o Machado."
+    },
+    {
+      "FORM": "@ThePitt.esm:0032BF",
+      "FORMID": "0032BF",
+      "EDID": "DLC01PhaedraArenaFightYES",
+      "FULL": "Vamos lá!"
+    },
+    {
+      "FORM": "@ThePitt.esm:0032BE",
+      "FORMID": "0032BE",
+      "EDID": "DLC01PhaedraArenaFightNO",
+      "FULL": "Não, ainda não."
+    },
+    {
+      "FORM": "@ThePitt.esm:00309C",
+      "FORMID": "00309C",
+      "EDID": "DLC01WernherPathB02A",
+      "FULL": "Parece bom. Vamos acabar com isto."
+    },
+    {
+      "FORM": "@ThePitt.esm:00309B",
+      "FORMID": "00309B",
+      "EDID": "DLC01WernherPathB02B",
+      "FULL": "Esse não era o acordo, Wernher. Estou repensando sobre tudo isso."
+    },
+    {
+      "FORM": "@ThePitt.esm:00308D",
+      "FORMID": "00308D",
+      "EDID": "DLC01WernherLocation",
+      "FULL": "Se você quiser viver, me diga onde Wernher está escondido."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E66",
+      "FORMID": "002E66",
+      "EDID": "DLC01SandraMeeting01A",
+      "FULL": "Do que você está falando? Ela é um bebê, não uma vacina."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E65",
+      "FORMID": "002E65",
+      "EDID": "DLC01SandraMeeting01B",
+      "FULL": "Você só pode estar brincando. Um bebê não pode ser a cura!"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E64",
+      "FORMID": "002E64",
+      "EDID": "DLC01SandraMeeting01C",
+      "FULL": "Então o bebê é a cura? Ok, eu vou ficar com ela, obrigado."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E63",
+      "FORMID": "002E63",
+      "EDID": "DLC01SandraMeeting02A",
+      "FULL": "Você não está com medo de feri-la?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E62",
+      "FORMID": "002E62",
+      "EDID": "DLC01SandraMeeting02B",
+      "FULL": "Você está usando a sua própria filha em um experimento? Você é um monstro!"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E61",
+      "FORMID": "002E61",
+      "EDID": "DLC01SandraMeeting03A",
+      "FULL": "Se há algo que eu possa fazer para ajudar, é só me avisar."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E60",
+      "FORMID": "002E60",
+      "EDID": "DLC01MideaPathA01A",
+      "FULL": "Você realmente não espera que eu roube um bebê, não é?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E5F",
+      "FORMID": "002E5F",
+      "EDID": "DLC01MideaPathA01B",
+      "FULL": "Você sabia que a cura é um bebê?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E5D",
+      "FORMID": "002E5D",
+      "EDID": "DLC01MideaPathB01A",
+      "FULL": "Não sei se isso foi o certo a se fazer."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E5C",
+      "FORMID": "002E5C",
+      "EDID": "DLC01MideaPathB01B",
+      "FULL": "Você sabia que a cura é realmente um bebê?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E5A",
+      "FORMID": "002E5A",
+      "EDID": "DLC01WernherPathA01A",
+      "FULL": "Seus planos acabaram, Wernher. Ashur sabe de tudo."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E59",
+      "FORMID": "002E59",
+      "EDID": "DLC01WernherPathA01B",
+      "FULL": "Você não me disse que isso seria um sequestro!"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E57",
+      "FORMID": "002E57",
+      "EDID": "DLC01WernherPathB01A",
+      "FULL": "Ela está aqui, mas você não me disse que isso seria um sequestro."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E53",
+      "FORMID": "002E53",
+      "EDID": "DLC01SandraPlotA",
+      "FULL": "Espere, eu quis dizer, hum, ela não é fofa? Aqui está."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E52",
+      "FORMID": "002E52",
+      "EDID": "DLC01SandraPlotB",
+      "FULL": "Estou com a sua filha. Você não ousaria atirar em mim."
+    },
+    {
+      "FORM": "@ThePitt.esm:002BA1",
+      "FORMID": "002BA1",
+      "EDID": "DLC01RamseyGreeting1",
+      "FULL": "Sim, sou eu. Estou aqui para comprar estes escravos."
+    },
+    {
+      "FORM": "@ThePitt.esm:002BA0",
+      "FORMID": "002BA0",
+      "EDID": "DLC01RamseyGreeting2",
+      "FULL": "O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9F",
+      "FORMID": "002B9F",
+      "EDID": "DLC01RamseyGreetingCombat",
+      "FULL": "Quem, eu? Não. Só estou aqui para matá-lo, escravista desgraçado."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9E",
+      "FORMID": "002B9E",
+      "EDID": "DLC01RamseyGreetingEND",
+      "FULL": "Ops. Estou no lugar errado. Tô saindo."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9D",
+      "FORMID": "002B9D",
+      "EDID": "DLC01RamseyGreetingBW",
+      "FULL": "Posso ser quem você quiser, querido."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9C",
+      "FORMID": "002B9C",
+      "EDID": "DLC01RamseyGreeting2a",
+      "FULL": "Por quem você está esperando?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9B",
+      "FORMID": "002B9B",
+      "EDID": "DLC01RamseyGreeting2b",
+      "FULL": "Então deixarei você em paz."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B9A",
+      "FORMID": "002B9A",
+      "EDID": "DLC01RamseyBuySlaves1",
+      "FULL": "600 pelos três? Trato feito."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B99",
+      "FORMID": "002B99",
+      "EDID": "DLC01RamseyBuySlaves2",
+      "FULL": "Eu preciso pensar nisso."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B98",
+      "FORMID": "002B98",
+      "EDID": "DLC01RamseyBuySlaves3",
+      "FULL": "Isso é muito trabalhoso. Melhor eu matá-lo."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B97",
+      "FORMID": "002B97",
+      "EDID": "DLC01RamseyWantToBuy1",
+      "FULL": "Eu quero comprar seus escravos."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B96",
+      "FORMID": "002B96",
+      "EDID": "DLC01RamseyWantToBuyEND",
+      "FULL": "Eu só queria ver você."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B95",
+      "FORMID": "002B95",
+      "EDID": "DLC01ProsperGreeting1",
+      "FULL": "Eu não vou levá-lo a lugar algum, mas eu preciso de suas roupas. Agora."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B94",
+      "FORMID": "002B94",
+      "EDID": "DLC01ProsperGreeting2",
+      "FULL": "Você está livre agora. Mas eu preciso que você me vista como um escravo."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B93",
+      "FORMID": "002B93",
+      "EDID": "DLC01ProsperGreeting2a",
+      "FULL": "Eu preciso de roupas de escravo. Onde posso conseguir uma?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B92",
+      "FORMID": "002B92",
+      "EDID": "DLC01ProsperGreeting2b",
+      "FULL": "Preciso de suas roupas. Me dê elas. Agora."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B91",
+      "FORMID": "002B91",
+      "EDID": "DLC01ProsperGreeting1a",
+      "FULL": "Bom. Agora saia daqui antes que eu mude de ideia."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B90",
+      "FORMID": "002B90",
+      "EDID": "DLC01ProsperGreeting1b",
+      "FULL": "Obrigado. Agora vá embora. Já terminei com você."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8F",
+      "FORMID": "002B8F",
+      "EDID": "DLC01ProsperGreeting2a1",
+      "FULL": "Ótimo. Obrigado. Tome cuidado lá fora."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8E",
+      "FORMID": "002B8E",
+      "EDID": "DLC01ProsperGreeting2a2",
+      "FULL": "Que grosseria. Não pretendo usar as roupas de um cara morto. Me dê a sua. Agora."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8D",
+      "FORMID": "002B8D",
+      "EDID": "DLC01WernherGreeting1",
+      "FULL": "Eu vim por causa da mensagem de rádio. Qual é o problema?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8C",
+      "FORMID": "002B8C",
+      "EDID": "DLC01WernherGreeting2",
+      "FULL": "A mensagem de rádio disse algo sobre uma recompensa. Vamos pular direto para essa parte."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8B",
+      "FORMID": "002B8B",
+      "EDID": "DLC01WernherGreeting4Kodiak",
+      "FULL": "Lembro-me que um cara da Cidadela me falou de The Pitt."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B8A",
+      "FORMID": "002B8A",
+      "EDID": "DLC01WernherGreeting1a",
+      "FULL": "Você fugiu ou algo parecido?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B89",
+      "FORMID": "002B89",
+      "EDID": "DLC01WernherGreeting1b",
+      "FULL": "Se seu povo precisa de ti, o que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B88",
+      "FORMID": "002B88",
+      "EDID": "DLC01WernherGreeting1b1",
+      "FULL": "O que aconteceu depois que a Irmandade apareceu?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B87",
+      "FORMID": "002B87",
+      "EDID": "DLC01WernherGreeting1b2",
+      "FULL": "Apenas vá para onde eu estava. [TEMP SHORTCUT]"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B86",
+      "FORMID": "002B86",
+      "EDID": "DLC01WernherTaskQuestions1",
+      "FULL": "Qual é o seu objetivo?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B85",
+      "FORMID": "002B85",
+      "EDID": "DLC01WernherTaskQuestions2",
+      "FULL": "Por que você não faz então?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B84",
+      "FORMID": "002B84",
+      "EDID": "DLC01WernherTaskQuestions3",
+      "FULL": "O que estou tentando conseguir?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B83",
+      "FORMID": "002B83",
+      "EDID": "DLC01WernherTaskAcceptYes",
+      "FULL": "O que precisamos fazer primeiro?"
+    },
+    {
+      "FORM": "@ThePitt.esm:002B82",
+      "FORMID": "002B82",
+      "EDID": "DLC01WernherTaskAcceptNo",
+      "FULL": "Eu preciso pensar nisso."
+    },
+    {
+      "FORM": "@ThePitt.esm:002B81",
+      "FORMID": "002B81",
+      "EDID": "DLC01WernherTLTask",
+      "FULL": "Eu tenho algumas dúvidas sobre a missão."
+    },
+    {
+      "FORM": "@ThePitt.esm:001851",
+      "FORMID": "001851",
+      "EDID": "DLC01AshurMeeting03A",
+      "FULL": "Parece um bom negócio. Vou cuidar dele."
+    },
+    {
+      "FORM": "@ThePitt.esm:001850",
+      "FORMID": "001850",
+      "EDID": "DLC01AshurMeeting03B",
+      "FULL": "Obrigado, mas eu tenho outros planos."
+    },
+    {
+      "FORM": "@ThePitt.esm:00184F",
+      "FORMID": "00184F",
+      "EDID": "DLC01AshurMeeting03C",
+      "FULL": "Se importa se eu pensar sobre isso?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00184E",
+      "FORMID": "00184E",
+      "EDID": "DLC01AboutPitt",
+      "FULL": "Conte-me sobre The Pitt."
+    },
+    {
+      "FORM": "@ThePitt.esm:00184D",
+      "FORMID": "00184D",
+      "EDID": "DLC01AboutBrotherhood",
+      "FULL": "De onde você tirou essa Power Armor?"
+    },
+    {
+      "FORM": "@ThePitt.esm:00184C",
+      "FORMID": "00184C",
+      "EDID": "DLC01AshurWernherOffer1A",
+      "FULL": "Ele me fez uma oferta, mas vendo a pontuação atual, estou me juntando a você."
+    },
+    {
+      "FORM": "@ThePitt.esm:00184A",
+      "FORMID": "00184A",
+      "EDID": "DLC01AshurWernherOffer1C",
+      "FULL": "Não sei do que você está falando."
+    },
+    {
+      "FORM": "@ThePitt.esm:001024",
+      "FORMID": "001024",
+      "EDID": "DLC01ArenaGetGear",
+      "FULL": "Me dê as minhas coisas."
+    },
+    {
+      "FORM": "@ThePitt.esm:001023",
+      "FORMID": "001023",
+      "EDID": "DLC01ArenaShadyConvince",
+      "FULL": "Você parece ser alguém bem influente."
+    },
+    {
+      "FORM": "@ThePitt.esm:001020",
+      "FORMID": "001020",
+      "EDID": "DLC01ArenaShadyConvinceNevermind",
+      "FULL": "Esquece."
+    },
+    {
+      "FORM": "@ThePitt.esm:00101E",
+      "FORMID": "00101E",
+      "EDID": "DLC01ArenaShadyWeapon",
+      "FULL": "Eu posso precisar de uma arma lá dentro."
+    },
+    {
+      "FORM": "@ThePitt.esm:00101D",
+      "FORMID": "00101D",
+      "EDID": "DLC01ArenaShadyArmor",
+      "FULL": "Eu posso precisar de alguma proteção lá dentro."
+    },
+    {
+      "FORM": "@ThePitt.esm:00101C",
+      "FORMID": "00101C",
+      "EDID": "DLC01ArenaShadySniper",
+      "FULL": "Conhece algum rifle que seja discreto?"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F13",
+      "FORMID": "000F13",
+      "EDID": "DLC01AshurMeeting01A",
+      "FULL": "Ouvi dizer que The Pitt estava formando um exército. Estou aqui para me alistar."
+    },
+    {
+      "FORM": "@ThePitt.esm:000F12",
+      "FORMID": "000F12",
+      "EDID": "DLC01AshurMeeting01B",
+      "FULL": "É complicado. Que tal dizer que sou novo na cidade e estou procurando por trabalho?"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F11",
+      "FORMID": "000F11",
+      "EDID": "DLC01AshurMeeting01C",
+      "FULL": "Eu só estou aqui para te matar e colher os lucros."
+    },
+    {
+      "FORM": "@ThePitt.esm:000F10",
+      "FORMID": "000F10",
+      "EDID": "DLC01AshurMeeting02A",
+      "FULL": "Nunca ouvi falar dele. Por quê? <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F0F",
+      "FORMID": "000F0F",
+      "EDID": "DLC01AshurMeeting02B",
+      "FULL": "Eu conheci o cara, mas ele parecia ser problema, então eu o evitei. <Mentira.>"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F0E",
+      "FORMID": "000F0E",
+      "EDID": "DLC01AshurMeeting02C",
+      "FULL": "Sim, conheço. Ele que me trouxe aqui."
+    },
+    {
+      "FORM": "@ThePitt.esm:000EBE",
+      "FORMID": "000EBE",
+      "EDID": "DLC01ArenaUnlock",
+      "FULL": "Me leve pra dentro da Arena"
+    },
+    {
+      "FORM": "@ThePitt.esm:000EBD",
+      "FORMID": "000EBD",
+      "EDID": "DLC01ArenaUnlockYes",
+      "FULL": "Aqui, pegue o meu equipamento. É melhor tudo estar lá quando eu voltar."
+    },
+    {
+      "FORM": "@ThePitt.esm:000EBC",
+      "FORMID": "000EBC",
+      "EDID": "DLC01ArenaUnlockNo",
+      "FULL": "Eu vou ficar com as minhas coisas. Não preciso ir para a arena."
+    },
+    {
+      "FORM": "@ThePitt.esm:000EBB",
+      "FORMID": "000EBB",
+      "EDID": "DLC01ArenaUnlockExplain",
+      "FULL": "Por que eu tenho que te dar as minhas coisas?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Death"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Batedor de Carteira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Steal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Flee"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Hit"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Attack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D5",
+      "FORMID": "0000D5",
+      "EDID": "IdleChatter",
+      "FULL": "Conversa fiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Tenho que ir."
+    }
+  ]
+}

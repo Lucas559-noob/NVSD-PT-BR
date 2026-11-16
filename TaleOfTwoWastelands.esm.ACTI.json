@@ -1,0 +1,722 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791BA",
+      "FORMID": "0791BA",
+      "EDID": "DLC03PresMetroRandAnnounceTrig20",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B9",
+      "FORMID": "0791B9",
+      "EDID": "DLC03PresMetroRandAnnounceTrig19",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B8",
+      "FORMID": "0791B8",
+      "EDID": "DLC03PresMetroRandAnnounceTrig18",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B7",
+      "FORMID": "0791B7",
+      "EDID": "DLC03PresMetroRandAnnounceTrig17",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B6",
+      "FORMID": "0791B6",
+      "EDID": "DLC03PresMetroRandAnnounceTrig16",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B5",
+      "FORMID": "0791B5",
+      "EDID": "DLC03PresMetroRandAnnounceTrig15",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B4",
+      "FORMID": "0791B4",
+      "EDID": "DLC03PresMetroRandAnnounceTrig14",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B3",
+      "FORMID": "0791B3",
+      "EDID": "DLC03PresMetroRandAnnounceTrig13",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B2",
+      "FORMID": "0791B2",
+      "EDID": "DLC03PresMetroRandAnnounceTrig12",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B1",
+      "FORMID": "0791B1",
+      "EDID": "DLC03PresMetroRandAnnounceTrig11",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791B0",
+      "FORMID": "0791B0",
+      "EDID": "DLC03PresMetroRandAnnounceTrig10",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791AF",
+      "FORMID": "0791AF",
+      "EDID": "DLC03PresMetroRandAnnounceTrig09",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791AE",
+      "FORMID": "0791AE",
+      "EDID": "DLC03PresMetroRandAnnounceTrig08",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791AD",
+      "FORMID": "0791AD",
+      "EDID": "DLC03PresMetroRandAnnounceTrig07",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791AC",
+      "FORMID": "0791AC",
+      "EDID": "DLC03PresMetroRandAnnounceTrig06",
+      "FULL": "Intercom Trigger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079140",
+      "FORMID": "079140",
+      "EDID": "TTWBobbleheadDisplayTestBigGuns",
+      "FULL": "Bobblehead Collector's Stand"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790DC",
+      "FORMID": "0790DC",
+      "EDID": "TLPodFemale",
+      "FULL": "Tranquility Lounger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790DB",
+      "FORMID": "0790DB",
+      "EDID": "TLPodMale",
+      "FULL": "Tranquility Lounger"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079066",
+      "FORMID": "079066",
+      "EDID": "MS16Vault101Loudspeaker",
+      "FULL": "Loudspeaker"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:04C7C9",
+      "FORMID": "04C7C9",
+      "EDID": "TTWBadMen04",
+      "FULL": "Alternar Homens Maus 4"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:04C7C8",
+      "FORMID": "04C7C8",
+      "EDID": "TTWBadMen03",
+      "FULL": "Alternar Homens Maus 3"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:02DAD2",
+      "FORMID": "02DAD2",
+      "EDID": "TTWAshPile3",
+      "FULL": "Ash Pile"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:02DAD1",
+      "FORMID": "02DAD1",
+      "EDID": "TTWAshPile2",
+      "FULL": "Ash Pile"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C9F2",
+      "FORMID": "01C9F2",
+      "EDID": "CG01CasualHardcoreMessageActivate",
+      "FULL": "Choose Game Mode"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018105",
+      "FORMID": "018105",
+      "EDID": "TTWMaizeActivator",
+      "FULL": "Maize",
+      "XATO": "Pegar Milho"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01806A",
+      "FORMID": "01806A",
+      "EDID": "TTWBrainFungusActivator",
+      "FULL": "Fungo Cerebral",
+      "XATO": "Pegar Fungo Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:015084",
+      "FORMID": "015084",
+      "EDID": "TTWAshPile1",
+      "FULL": "Goo Pile"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FBE",
+      "FORMID": "011FBE",
+      "EDID": "TTWUnStnReactorPrimeDevice",
+      "FULL": "Reactor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FBD",
+      "FORMID": "011FBD",
+      "EDID": "TTWUnStnSecurityDoor",
+      "FULL": "Porta Antiexplosão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FB6",
+      "FORMID": "011FB6",
+      "EDID": "TTWUnStnGenerator",
+      "FULL": "Gerador"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FB5",
+      "FORMID": "011FB5",
+      "EDID": "TTWUnStnPowerSwitch",
+      "FULL": "Disjuntor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD30",
+      "FORMID": "00CD30",
+      "EDID": "TTWFungus06Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD2F",
+      "FORMID": "00CD2F",
+      "EDID": "TTWFungus05Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD2E",
+      "FORMID": "00CD2E",
+      "EDID": "TTWFungus04Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD2D",
+      "FORMID": "00CD2D",
+      "EDID": "TTWFungus03Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD2C",
+      "FORMID": "00CD2C",
+      "EDID": "TTWFungus02Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CD2B",
+      "FORMID": "00CD2B",
+      "EDID": "TTWFungus01Activator",
+      "FULL": "Cogumelo Brilhante",
+      "XATO": "Pegar Cogumelo Brilhante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009437",
+      "FORMID": "009437",
+      "EDID": "TTWBadMen02",
+      "FULL": "Alternar Homens Maus 2"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009436",
+      "FORMID": "009436",
+      "EDID": "TTWBadMen01",
+      "FULL": "Alternar Homens Maus 1"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00942D",
+      "FORMID": "00942D",
+      "EDID": "TTWBigIronSwitch",
+      "FULL": "Big Iron"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00942C",
+      "FORMID": "00942C",
+      "EDID": "TTWBitchySwitch",
+      "FULL": "Alternar Megera"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00942B",
+      "FORMID": "00942B",
+      "EDID": "TTWStinkySwitch",
+      "FULL": "Alternar Fedorento"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00938C",
+      "FORMID": "00938C",
+      "EDID": "HD00AutoDoc",
+      "FULL": "Meu Primeiro Auto-Doc"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009254",
+      "FORMID": "009254",
+      "EDID": "TTWBobbleheadDisplayTest",
+      "FULL": "Bobblehead Collector's Stand"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009220",
+      "FORMID": "009220",
+      "EDID": "BobbleheadPlacedSUR",
+      "FULL": "Boneco de Sobrevivência"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008FA3",
+      "FORMID": "008FA3",
+      "EDID": "DLC04MQ02BurkeContactControl",
+      "FULL": "Controlador Temporário de Missão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F42",
+      "FORMID": "008F42",
+      "EDID": "TTWBadMan04",
+      "FULL": "Alternar Homem Mau 4"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F41",
+      "FORMID": "008F41",
+      "EDID": "TTWBadMan03",
+      "FULL": "Alternar Homem Mau 3"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F40",
+      "FORMID": "008F40",
+      "EDID": "TTWBadMan02",
+      "FULL": "Alternar Homem Mau 2"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F3F",
+      "FORMID": "008F3F",
+      "EDID": "TTWBadMan01",
+      "FULL": "Alternar Homem Mau 1"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008E4B",
+      "FORMID": "008E4B",
+      "EDID": "TTWGrillBBQCleanCrafting",
+      "FULL": "Grelha de Churrasco"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008E2F",
+      "FORMID": "008E2F",
+      "EDID": "TTWDLC05ControlRB",
+      "FULL": "Controle da Bancada de Recarga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008E2E",
+      "FORMID": "008E2E",
+      "EDID": "TTWDLC05ControlWB",
+      "FULL": "Controle da Bancada de Trabalho"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008DF1",
+      "FORMID": "008DF1",
+      "EDID": "TTWPushMyButton",
+      "FULL": "Aperte Meu Botão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0087C0",
+      "FORMID": "0087C0",
+      "EDID": "TTWTouchMeThere",
+      "FULL": "Toque-me Aí"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008596",
+      "FORMID": "008596",
+      "EDID": "TTWMutfruitVineBActivator",
+      "FULL": "Mutfruit",
+      "XATO": "Pegar Mutafruta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008595",
+      "FORMID": "008595",
+      "EDID": "TTWMutfruitVineAActivator",
+      "FULL": "Mutfruit",
+      "XATO": "Pegar Mutafruta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008594",
+      "FORMID": "008594",
+      "EDID": "TTWMutfruitPlantBActivator",
+      "FULL": "Crunchy Mutfruit",
+      "XATO": "Pegar Mutafruta Crocante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008593",
+      "FORMID": "008593",
+      "EDID": "TTWMutfruitPlantAActivator",
+      "FULL": "Crunchy Mutfruit",
+      "XATO": "Pegar Mutafruta Crocante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008537",
+      "FORMID": "008537",
+      "EDID": "TTWDLC01PowerPlantSwitch",
+      "FULL": "Switch"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008514",
+      "FORMID": "008514",
+      "EDID": "TTWGrillBBQDirtyCrafting",
+      "FULL": "Grelha de Churrasco"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008513",
+      "FORMID": "008513",
+      "EDID": "TTWCampGrillCrafting01",
+      "FULL": "Grelha de Acampamento"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0080BC",
+      "FORMID": "0080BC",
+      "EDID": "TTWPearPlant",
+      "FULL": "Pereira",
+      "XATO": "Pegar Pera"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0080BB",
+      "FORMID": "0080BB",
+      "EDID": "TTWApplePlant",
+      "FULL": "Macieira",
+      "XATO": "Pegar Maçã"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0080BA",
+      "FORMID": "0080BA",
+      "EDID": "TTWPotatoPlant",
+      "FULL": "Batata",
+      "XATO": "Pegar Batata"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0080B9",
+      "FORMID": "0080B9",
+      "EDID": "TTWCarrotPlant",
+      "FULL": "Cenoura",
+      "XATO": "Pegar Cenoura"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C90",
+      "FORMID": "007C90",
+      "EDID": "TTWPrototypeGaussRifleActivator",
+      "FULL": "Protótipo de Rifle Gauss",
+      "XATO": "Pegar Protótipo de Rifle Gauss"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007A1B",
+      "FORMID": "007A1B",
+      "EDID": "TTWMS14ArmorActivator",
+      "FULL": "T-51b Power Armor",
+      "XATO": "Pegar T-51b"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004C5B",
+      "FORMID": "004C5B",
+      "EDID": "TTWNVDLC01Radio",
+      "FULL": "Radio"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E07",
+      "FORMID": "001E07",
+      "EDID": "TTWTrainElectricalSwitch02",
+      "FULL": "Electrical Switch"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00187B",
+      "FORMID": "00187B",
+      "EDID": "TTWBadMen05",
+      "FULL": "Alternar Homens Maus 5"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9DE",
+      "FORMID": "00A9DE",
+      "EDID": "DLC05WorkBench",
+      "FULL": "Bancada de Trabalho"
+    },
+    {
+      "FORM": "@Zeta.esm:0082D1",
+      "FORMID": "0082D1",
+      "EDID": "DLC05AlienDoorControlVERYHARD",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CF",
+      "FORMID": "0082CF",
+      "EDID": "DLC05AlienDoorControlAVERAGE",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CD",
+      "FORMID": "0082CD",
+      "EDID": "DLC05AlienDoorControlHARD",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CA",
+      "FORMID": "0082CA",
+      "EDID": "DLC05AlienDoorControlEASY",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:004E3D",
+      "FORMID": "004E3D",
+      "EDID": "DLC05AlienBed",
+      "FULL": "Câmara de Êxtase"
+    },
+    {
+      "FORM": "@Zeta.esm:0039BA",
+      "FORMID": "0039BA",
+      "EDID": "DLC05ConveyorMachine",
+      "FULL": "Máquina Transportadora"
+    },
+    {
+      "FORM": "@Zeta.esm:001F52",
+      "FORMID": "001F52",
+      "EDID": "DLC05AlienController",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@PointLookout.esm:00426E",
+      "FORMID": "00426E",
+      "EDID": "DLC04PungaPlantRefined02",
+      "FULL": "Planta de Punga",
+      "XATO": "Pegar Punga Refinada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00426D",
+      "FORMID": "00426D",
+      "EDID": "DLC04PungaPlantRefined01",
+      "FULL": "Planta de Punga",
+      "XATO": "Pegar Punga Refinada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00426A",
+      "FORMID": "00426A",
+      "EDID": "DLC04PungaPlant02",
+      "FULL": "Planta de Punga",
+      "XATO": "Pegar Punga Silvestre"
+    },
+    {
+      "FORM": "@PointLookout.esm:004269",
+      "FORMID": "004269",
+      "EDID": "DLC04PungaPlant01",
+      "FULL": "Punga Silvestre",
+      "XATO": "Pegar Punga Silvestre"
+    },
+    {
+      "FORM": "@PointLookout.esm:003FE4",
+      "FORMID": "003FE4",
+      "EDID": "DLC04FF03Still",
+      "FULL": "Alambique de Bebida",
+      "XATO": "Examinar Alambique"
+    },
+    {
+      "FORM": "@Anchorage.esm:00452B",
+      "FORMID": "00452B",
+      "EDID": "DLCAnchT51DisplayArmor01",
+      "FULL": "Winterized T-51b Power Armor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B39A3",
+      "FORMID": "0B39A3",
+      "EDID": "DrinkSinkMetal",
+      "FULL": "Lavabo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B364C",
+      "FORMID": "0B364C",
+      "EDID": "TLpod01",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B06D4",
+      "FORMID": "0B06D4",
+      "EDID": "TLpodBroken",
+      "FULL": "Poltrona Virtual Quebrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0572D6",
+      "FORMID": "0572D6",
+      "EDID": "MQ04PodDad",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:04362D",
+      "FORMID": "04362D",
+      "EDID": "MS17SoilStradCase",
+      "FULL": "Violino de Solo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BB",
+      "FORMID": "0416BB",
+      "EDID": "BobbleheadPlacedLOCK",
+      "FULL": "Boneco Arrombamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:036FAD",
+      "FORMID": "036FAD",
+      "EDID": "MS06NoiseMaker01",
+      "FULL": "Campainha"
+    },
+    {
+      "FORM": "@Fallout3.esm:034A90",
+      "FORMID": "034A90",
+      "EDID": "AbandonedSewerValve01DC",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:03045B",
+      "FORMID": "03045B",
+      "EDID": "UtlDoorBigActivator",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:03023A",
+      "FORMID": "03023A",
+      "EDID": "DunwichBuildingNote09Activator",
+      "FULL": "Esboço Sangrento"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A45B",
+      "FORMID": "02A45B",
+      "EDID": "MQ04PlayerPodActivator",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B2",
+      "FORMID": "02A2B2",
+      "EDID": "DrinkWaterFoutnainSettlement",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B1",
+      "FORMID": "02A2B1",
+      "EDID": "DrinkUrinalSettlement",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B0",
+      "FORMID": "02A2B0",
+      "EDID": "DrinkToiletSettlement",
+      "FULL": "Vaso"
+    },
+    {
+      "FORM": "@Fallout3.esm:029438",
+      "FORMID": "029438",
+      "EDID": "trapShotgunCombat",
+      "FULL": "Armadilha de Escopeta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1614D2",
+      "FORMID": "1614D2",
+      "EDID": "BlackjackTableUltraLuxe",
+      "FULL": "Mesa de Vinte e Um",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB42",
+      "FORMID": "15EB42",
+      "EDID": "WhiteHorseNettle",
+      "FULL": "Urtiga-cavalo-branco",
+      "XATO": "Pegar Urtiga Cavalo Branco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB41",
+      "FORMID": "15EB41",
+      "EDID": "XanderRootPlant",
+      "FULL": "Raiz de Xander",
+      "XATO": "Pegar Raiz de Xander"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E4",
+      "FORMID": "1378E4",
+      "EDID": "VPitQuestNightStalkerEggs",
+      "FULL": "Ovos de Perseguidor Noturno",
+      "XATO": "Pegar Ovos de Stalker Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12BD36",
+      "FORMID": "12BD36",
+      "EDID": "VBSCave1NightStalkerTrigger",
+      "FULL": "Gatilho de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1093CE",
+      "FORMID": "1093CE",
+      "EDID": "HoneyMesquitePickable",
+      "FULL": "Algaroba-mel",
+      "XATO": "Pegar Algaroba Doutore"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109085",
+      "FORMID": "109085",
+      "EDID": "GoodspringsRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B39A3",
+      "FORMID": "0B39A3",
+      "EDID": "DrinkSinkMetal00Rads",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D786",
+      "FORMID": "09D786",
+      "EDID": "DrinkSinkMetal03Purified",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0842B9",
+      "FORMID": "0842B9",
+      "EDID": "FFHamRadio01",
+      "FULL": "Sinal de Rádio Kilo Bravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD4F",
+      "FORMID": "07DD4F",
+      "EDID": "HD00LabSet",
+      "FULL": "Meu Primeiro Laboratório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D73",
+      "FORMID": "020D73",
+      "EDID": "DrinkFireHydrantClean",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D72",
+      "FORMID": "020D72",
+      "EDID": "DrinkFireHydrant",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000022",
+      "FORMID": "000022",
+      "EDID": "DefaultAshPile2",
+      "FULL": "Pilha de Gosma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00001B",
+      "FORMID": "00001B",
+      "EDID": "DefaultAshPile1",
+      "FULL": "Pilha de Cinzas"
+    }
+  ]
+}

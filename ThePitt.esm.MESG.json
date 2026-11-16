@@ -1,0 +1,220 @@
+{
+  "MESG": [
+    {
+      "FORM": "@ThePitt.esm:0073EC",
+      "FORMID": "0073EC",
+      "EDID": "DLC01TravelToDCMessageboxNO",
+      "FULL": "A Estrada Adiante",
+      "DESC": "Este túnel leva a uma complicada rede de túneis e estradas antigas que retornam para a Capital Wasteland. \n\nVocê não pode voltar para a Capital Wasteland até que tenha concluído seus negócios em The Pitt.",
+      "ITXT": [
+        "Fique em The Pitt."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:0021EF",
+      "FORMID": "0021EF",
+      "EDID": "DLC01TravelToDCMessagebox",
+      "FULL": "A Estrada Adiante",
+      "DESC": "Este túnel leva a uma complicada rede de túneis e antigas estradas que retornam para a Capital Wasteland.",
+      "ITXT": [
+        "Ficar em The Pitt.",
+        "Viajar para A Capital Wasteland."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:00AB81",
+      "FORMID": "00AB81",
+      "EDID": "DLC01TestMessage02",
+      "DESC": "SayTo funcionou."
+    },
+    {
+      "FORM": "@ThePitt.esm:00AB80",
+      "FORMID": "00AB80",
+      "EDID": "DLC01TestMessage01",
+      "DESC": "Script funcionou."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D4",
+      "FORMID": "0039D4",
+      "EDID": "DLC01ScramblerDamageMessage",
+      "DESC": "O Disjuntor de Controle de Luz foi destruído."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D1",
+      "FORMID": "0039D1",
+      "EDID": "DLC01QuestFailedNoBabyMESSAGE",
+      "FULL": "Missão Falhada",
+      "DESC": "Missão Falhada"
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D2",
+      "FORMID": "0039D2",
+      "EDID": "DLC01QuestFailedBabyMESSAGE",
+      "FULL": "Missão Falhada",
+      "DESC": "Missão Falhada"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E51",
+      "FORMID": "002E51",
+      "EDID": "DLC01PlayerItemContainerMessage02",
+      "DESC": "Você já colocou seus itens no cofre e já o trancou."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E50",
+      "FORMID": "002E50",
+      "EDID": "DLC01PlayerItemContainerMessage01",
+      "DESC": "Mex colocou todos os seus pertences no cofre. Não parece haver nenhuma maneira de abrí-lo sem a combinação.",
+      "ITXT": [
+        "Ok."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:00B782",
+      "FORMID": "00B782",
+      "EDID": "DLC01PerkPittFighterMessageBox",
+      "FULL": "Perk Adicionada",
+      "DESC": "As lutas ferozes no Buraco te deixaram mais forte. Agora você está mais resistente à radiação e a dano."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B784",
+      "FORMID": "00B784",
+      "EDID": "DLC01PerkBoosterShotMessageBox",
+      "FULL": "Perk Adicionada",
+      "DESC": "A pesquisa médica de The Pitt melhorou sua qualidade de vida. Só tente não fazer nenhum sacrifício."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B780",
+      "FORMID": "00B780",
+      "EDID": "DLC01PerkAutoAxpertMessageBox",
+      "FULL": "Perk Adicionada",
+      "DESC": "Sobreviver na Aciaria lhe ensinou alguma coisa sobre a vida em The Pitt. Você agora vai causar dano extra com a arma favorita dos escravos: o Machado Automático."
+    },
+    {
+      "FORM": "@ThePitt.esm:00B385",
+      "FORMID": "00B385",
+      "EDID": "DLC01FF008MedicineMessage",
+      "FULL": "Escravo Ferido",
+      "DESC": "Com a aplicação adequada de Medicina, as lesões deste homem poderiam ser diminuídas o suficiente para que ele pudesse ser colocado de volta ao trabalho, mas não conseguirá curá-las completamente. A única maneira de acabar com seu sofrimento é pôr um fim em sua vida.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Tratar seus ferimentos.",
+        "Acabar com seu sofrimento."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:00B386",
+      "FORMID": "00B386",
+      "EDID": "DLC01FF008MedicineLowMessage",
+      "FULL": "Escravo Ferido",
+      "DESC": "As lesões deste homem estão além de suas habilidades de cura. [Medicina %.0f ou maior exigida.] A única maneira de acabar com seu sofrimento é acabar com a sua vida, ou esperar que ele se recupere sozinho.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Tratar seus ferimentos.",
+        "Acabar com seu sofrimento."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:00A742",
+      "FORMID": "00A742",
+      "EDID": "DLC01DowntownAmbushMessageBox",
+      "FULL": "AH, NÃO!",
+      "DESC": "Você foi pego! Agora você está ferrado!",
+      "ITXT": [
+        "Não, não estou. Você não estava preparado.",
+        "Com certeza estou!"
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:0009A8",
+      "FORMID": "0009A8",
+      "EDID": "DLC01DownloadMessage",
+      "FULL": "The Pitt",
+      "DESC": "Há relatos de uma nova mensagem de rádio sendo transmitida através da Capital Wasteland. A transmissão parece ser algum tipo de pedido de socorro, e dá pouca informação, exceto o local e o nome do homem que faz o apelo..."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A383",
+      "FORMID": "00A383",
+      "EDID": "DLC01CannotUseCrib",
+      "DESC": "Você não pode usar este berço."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A382",
+      "FORMID": "00A382",
+      "EDID": "DLC01CannotTakeBaby",
+      "DESC": "O berço está fechado."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D6",
+      "FORMID": "0039D6",
+      "EDID": "DLC01BabyTaken",
+      "DESC": "Você pegou o bebê cuidadosamente."
+    },
+    {
+      "FORM": "@ThePitt.esm:00A861",
+      "FORMID": "00A861",
+      "EDID": "DLC01BabyKidnapMessageBox",
+      "FULL": "Bebê Marie",
+      "DESC": "A Bebê Marie está dormindo pacificamente em seu berço, conectada com segurança a vários monitores médicos e enrolada em panos de proteção. Parece que mexer nela não seria bem visto pela sua família...",
+      "ITXT": [
+        "Deixe Marie dormindo em seu berço.",
+        "Pegue a bebê e sequestre-a."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D5",
+      "FORMID": "0039D5",
+      "EDID": "DLC01BabyDrop",
+      "DESC": "Você cuidadosamente entregou o bebê."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039F5",
+      "FORMID": "0039F5",
+      "EDID": "DLC01BabyDown",
+      "DESC": "Você colocou cuidadosamente o bebê no berço."
+    },
+    {
+      "FORM": "@ThePitt.esm:0039D3",
+      "FORMID": "0039D3",
+      "EDID": "DLC01BabyAdd",
+      "DESC": "Você pegou o bebê cuidadosamente."
+    },
+    {
+      "FORM": "@ThePitt.esm:007D7E",
+      "FORMID": "007D7E",
+      "EDID": "DLC01TunnelMessage",
+      "FULL": "Viagem",
+      "DESC": "Este túnel é pura escuridão. Não há nenhuma maneira de continuar em frente."
+    },
+    {
+      "FORM": "@ThePitt.esm:002E4F",
+      "FORMID": "002E4F",
+      "EDID": "DLC01TravelToPittMessageboxNO",
+      "FULL": "Viagem",
+      "DESC": "Este túnel leva a uma complicada rede de túneis e estradas antigas que viaja para o extremo noroeste em direção à The Pitt. Você não pode viajar agora.",
+      "ITXT": [
+        "Ficar na Capital Wasteland."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:001681",
+      "FORMID": "001681",
+      "EDID": "DLC01TravelToPittMessagebox",
+      "FULL": "Viagem",
+      "DESC": "Este túnel leva a uma complicada rede de túneis e estradas antigas que viaja para o extremo noroeste, para The Pitt. O caminho será áspero e severo, com poucos suprimentos e você não poderá retornar até que seu trabalho esteja concluído. \n\nTem certeza de que deseja viajar para The Pitt?",
+      "ITXT": [
+        "Ficar na Capital Wasteland.",
+        "Viajar para The Pitt."
+      ]
+    },
+    {
+      "FORM": "@ThePitt.esm:007352",
+      "FORMID": "007352",
+      "EDID": "DLC01TravelToDCNoBabyMessagebox",
+      "FULL": "A Estrada Adiante",
+      "DESC": "Este túnel leva a um caminho complicado de túneis e estradas antigas que retornam para a Capital Wasteland. \n\nVocê não pode viajar com um bebê recém-nascido.",
+      "ITXT": [
+        "Ficar em The Pitt."
+      ]
+    }
+  ]
+}

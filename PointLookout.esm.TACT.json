@@ -1,0 +1,40 @@
+{
+  "TACT": [
+    {
+      "FORM": "@PointLookout.esm:01004F",
+      "FORMID": "01004F",
+      "EDID": "DLC04FF02MarcellaSpeaker",
+      "FULL": "Alto-Falante"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A860",
+      "FORMID": "00A860",
+      "EDID": "DLC04TheBrainHolo",
+      "FULL": "Projeção Holográfica"
+    },
+    {
+      "FORM": "@PointLookout.esm:005A38",
+      "FORMID": "005A38",
+      "EDID": "DLC04TheBrain",
+      "FULL": "O Cérebro"
+    },
+    {
+      "FORM": "@PointLookout.esm:005B94",
+      "FORMID": "005B94",
+      "EDID": "DLC04FF05BankingTeller",
+      "FULL": "Sistema de Segurança Ativado por Voz"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B84E",
+      "FORMID": "00B84E",
+      "EDID": "DLC04TheBrainDummy",
+      "FULL": "O Cérebro"
+    },
+    {
+      "FORM": "@PointLookout.esm:00927B",
+      "FORMID": "00927B",
+      "EDID": "DLC04CathedralTalker",
+      "FULL": "Residente Tribal"
+    }
+  ]
+}

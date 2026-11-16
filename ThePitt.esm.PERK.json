@@ -1,0 +1,25 @@
+{
+  "PERK": [
+    {
+      "FORM": "@ThePitt.esm:0073EA",
+      "FORMID": "0073EA",
+      "EDID": "DLC01PittFighter",
+      "FULL": "Lutador de The Pitt",
+      "DESC": "As lutas ferozes no Buraco te deixaram mais forte. Sua resistência à dano e à radiação foram aumentadas em 3%."
+    },
+    {
+      "FORM": "@ThePitt.esm:0073E8",
+      "FORMID": "0073E8",
+      "EDID": "DLC01AutoAxpert",
+      "FULL": "Machado Automático",
+      "DESC": "Você se tornou um especialista com o Machado Automático. Você gera mais 25% de dano sempre que o usa. Arrase."
+    },
+    {
+      "FORM": "@ThePitt.esm:007354",
+      "FORMID": "007354",
+      "EDID": "DLC01BoosterShot",
+      "FULL": "Intensificador de Tiro",
+      "DESC": "A pesquisa médica de The Pitt melhorou sua qualidade de vida. Só não tente fazer nenhum tipo de sacrifício. A sua resistência à radiação foi aumentada em 10%."
+    }
+  ]
+}

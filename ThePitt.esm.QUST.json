@@ -1,0 +1,96 @@
+{
+  "QUST": [
+    {
+      "FORM": "@ThePitt.esm:0029B8",
+      "FORMID": "0029B8",
+      "EDID": "DLC01FF",
+      "FULL": "Forma Livre de Jogar"
+    },
+    {
+      "FORM": "@ThePitt.esm:00108D",
+      "FORMID": "00108D",
+      "EDID": "DLC01Quest03",
+      "FULL": "Mao-de-Obra Grátis",
+      "NNAM": {
+        "70": "Faça com que Midea revele a localização de Wernher.",
+        "10": "Encontre-se com Ashur no Refúgio.",
+        "20": "Encontre a cura no palácio de Ashur.",
+        "30": "Sequestre o bebê e vá embora OU vá embora sem o bebê.",
+        "32": "Saia sem o bebê.",
+        "55": "Encontre Wernher.",
+        "37": "Roube o bebê e vá embora.",
+        "50": "Detenha Wernher.",
+        "90": "Entregue o bebê para Wernher OU Detenha Wernher.",
+        "92": "Detenha Wernher.",
+        "97": "Entregue o bebê para Wernher.",
+        "100": "Leve o bebê de volta para sua casa.",
+        "105": "Desligue a energia da Cidade Alta.",
+        "190": "Retorne para Ashur.",
+        "195": "Fuja para Praça do Mercado.",
+        "75": "Leve o bebê para Midea.",
+        "71": "Interrogue Midea ou procure em seu quarto pistas sobre a localização de Wernher.",
+        "5": "Atravesse a Cidade Alta e entre no Refúgio.",
+        "1": "Recupere seu equipamento."
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00108C",
+      "FORMID": "00108C",
+      "EDID": "DLC01Quest01",
+      "FULL": "Entrando em The Pitt",
+      "NNAM": {
+        "10": "Encontre a fonte da transmissão de rádio.",
+        "50": "Adquira uma roupa de escravo.",
+        "90": "Retorne para Wernher.",
+        "100": "Viaje para The Pitt.",
+        "200": "Infiltre-se na The Pitt.",
+        "51": "(Opcional) Adiquira uma roupa de escravo."
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00108B",
+      "FORMID": "00108B",
+      "EDID": "DLC01Quest02",
+      "FULL": "Condições Inseguras de Trabalho",
+      "NNAM": {
+        "10": "Faça contato com Midea.",
+        "139": "(Opcional) Prepare-se para o segundo combate.",
+        "50": "Colete 10 lingotes na Aciaria.",
+        "75": "Volte para Midea.",
+        "100": "Ouça o discurso de Ashur no pátio.",
+        "125": "Entre no Buraco.",
+        "124": "(Opcional) Prepare-se para o combate na Arena.",
+        "130": "Derrote seu oponente.",
+        "135": "Saia do Buraco.",
+        "140": "Entre no Buraco.",
+        "145": "Derrote seu oponente.",
+        "150": "Saia do Buraco.",
+        "15": "Encontre-se com Midea em particular.",
+        "120": "Inscreva-se na Arena.",
+        "160": "Entre no Buraco.",
+        "159": "(Opcional) Prepare-se para o último combate.",
+        "165": "Derrote seu oponente.",
+        "170": "Saia do Buraco.",
+        "49": "(Opcional) Pegue uma arma de Marco."
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:0062A5",
+      "FORMID": "0062A5",
+      "EDID": "DLC01ConvRaider",
+      "FULL": "Sistema de Conversa Entre os Riders de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A358",
+      "FORMID": "00A358",
+      "EDID": "DLC01FFLD",
+      "FULL": "Encontre Bill, O Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:005526",
+      "FORMID": "005526",
+      "EDID": "DLC01ConvSlave",
+      "FULL": "Sistema de Conversa Entre os Escravos"
+    }
+  ]
+}

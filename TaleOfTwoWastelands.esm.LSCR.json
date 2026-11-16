@@ -1,0 +1,2350 @@
+{
+  "LSCR": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083BA",
+      "FORMID": "0083BA",
+      "EDID": "TTWPerkLoadScreen03",
+      "DESC": "Com o bônus Bombardeiro Maluco, você pode criar explosivos poderosos que não estão disponíveis em nenhum outro lugar."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B9",
+      "FORMID": "0083B9",
+      "EDID": "TTWPerkLoadScreen02",
+      "DESC": "Ama Nuka-Cola? Com o bônus Químico da Nuka-Cola, você pode criar uma grande variedade de sabores exóticos de Nuka-Cola."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B8",
+      "FORMID": "0083B8",
+      "EDID": "TTWPerkLoadScreen01",
+      "DESC": "Com o bônus Gourmet do Velho Mundo, a comida pré-guerra recuperará mais saúde; você também terá menos chance de ficar viciado em bebidas alcoólicas pré-guerra, e elas curarão seus ferimentos também."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B7",
+      "FORMID": "0083B7",
+      "EDID": "TTWTraitLoadScreen15",
+      "DESC": "Com o traço Perito, você começa melhor em todas as perícias, mas acumula experiência mais devagar."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B6",
+      "FORMID": "0083B6",
+      "EDID": "TTWTraitLoadScreen14",
+      "DESC": "Com o traço Brecha de Logan, você será afetado por drogas pelo dobro do tempo e nunca ficará viciado; no entanto, nunca passará do nível 30."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B5",
+      "FORMID": "0083B5",
+      "EDID": "TTWTraitLoadScreen13",
+      "DESC": "Com o traço Sangue Quente, quando sua saúde estiver baixa você causará mais dano, mas não será tão ágil ou perceptivo até se curar."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B4",
+      "FORMID": "0083B4",
+      "EDID": "TTWTraitLoadScreen12",
+      "DESC": "Com o traço Acumulador, você tem maior capacidade de carga, mas se estiver carregando menos de 160 libras, seus atributos sofrem."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B3",
+      "FORMID": "0083B3",
+      "EDID": "TTWTraitLoadScreen11",
+      "DESC": "Com o traço Madrugador, você estará no seu melhor das 6h às 12h. No entanto, sentirá mal-estar das 18h às 6h."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B2",
+      "FORMID": "0083B2",
+      "EDID": "TTWTraitLoadScreen10",
+      "DESC": "Com o traço Claustrofobia, você recebe um bônus nos atributos ao ar livre, mas sofre penalidades quando está em ambientes fechados."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B1",
+      "FORMID": "0083B1",
+      "EDID": "TTWTraitLoadScreen09",
+      "DESC": "Com o traço Disciplina no Gatilho, você atira mais devagar, mas seus disparos são mais precisos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083B0",
+      "FORMID": "0083B0",
+      "EDID": "TTWTraitLoadScreen08",
+      "DESC": "Com o traço Estatura Delicada, você é mais ágil, mas seus membros se danificam mais facilmente."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AF",
+      "FORMID": "0083AF",
+      "EDID": "TTWTraitLoadScreen07",
+      "DESC": "Com o traço Canhão Solto, você pode arremessar explosivos mais rápido, mas não tão longe."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AE",
+      "FORMID": "0083AE",
+      "EDID": "TTWTraitLoadScreen06",
+      "DESC": "Com o traço Kamikaze, você sacrifica parte da sua defesa em troca de 10 Pontos de Ação adicionais para usar no V.A.T.S."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AD",
+      "FORMID": "0083AD",
+      "EDID": "TTWTraitLoadScreen05",
+      "DESC": "Com o traço Mão Pesada, você golpeia com mais força, não com mais precisão. Você causa mais dano com ataques brancos e desarmados, mas seu dano crítico é reduzido."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AC",
+      "FORMID": "0083AC",
+      "EDID": "TTWTraitLoadScreen04",
+      "DESC": "Com o traço Gentil, suas perícias de combate são reduzidas, mas suas perícias de Negociar, Diálogo, Medicina, Reparo e Ciência são aumentadas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AB",
+      "FORMID": "0083AB",
+      "EDID": "TTWTraitLoadScreen03",
+      "DESC": "Com o traço Quatro Olhos, você é menos perceptivo sem óculos, mas ganha um bônus de percepção quando usa óculos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083AA",
+      "FORMID": "0083AA",
+      "EDID": "TTWTraitLoadScreen02",
+      "DESC": "Com o traço Tiro Rápido, as armas disparam mais rápido, mas são menos precisas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A9",
+      "FORMID": "0083A9",
+      "EDID": "TTWTraitLoadScreen01",
+      "DESC": "Com o traço Feito para Destruir, você terá uma chance maior de causar dano crítico, mas precisará reparar suas armas com mais frequência."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A8",
+      "FORMID": "0083A8",
+      "EDID": "TTWDrugLoadScreen02",
+      "DESC": "Noites escuras demais? Não quer anunciar sua presença acendendo a luz do Pip-Boy? Então Olho de Gato é para você. Essa droga incrível fará você enxergar melhor no escuro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A7",
+      "FORMID": "0083A7",
+      "EDID": "TTWDrugLoadScreen01",
+      "DESC": "Ultrajet é uma variante rara e poderosa da droga Jet. Foi criada por Ghouls, já que o Jet quase não tem efeito sobre eles."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A6",
+      "FORMID": "0083A6",
+      "EDID": "TTWNukaLoadScreen01",
+      "DESC": "Nuka-Cola Quantum não é apenas uma bebida rara e deliciosa; com o conhecimento certo, ela também pode ser usada para criar um explosivo poderoso."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A5",
+      "FORMID": "0083A5",
+      "EDID": "TTWGeneralLoadScreen03",
+      "DESC": "Ficando sem munição? Tem um estoque de munição sem uso? Encontre uma bancada de munição e desmonte-a em materiais para criar munições mais úteis."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A4",
+      "FORMID": "0083A4",
+      "EDID": "TTWGeneralLoadScreen02",
+      "DESC": "Há uma variedade de venenos no ermo; faça suas armas com lâminas ou de arremesso ferroarem ao criar elixires mortais."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083A3",
+      "FORMID": "0083A3",
+      "EDID": "TTWGeneralLoadScreen01",
+      "DESC": "Construída em 1908 e atendendo até 42.000 passageiros por dia, a Union Station de Washington era um importante centro de transporte que conectava as costas leste e oeste antes da guerra."
+    },
+    {
+      "FORM": "@PointLookout.esm:010629",
+      "FORMID": "010629",
+      "EDID": "DLC04LoadScreenHistory09",
+      "DESC": "Naufrágios costeiros e boias são bons lugares para procurar riquezas afundadas."
+    },
+    {
+      "FORM": "@PointLookout.esm:010628",
+      "FORMID": "010628",
+      "EDID": "DLC04LoadScreenEcology02",
+      "DESC": "Mirelurks prosperam na umidade das costas costeiras de Point Lookout e defendem cruelmente seu território."
+    },
+    {
+      "FORM": "@PointLookout.esm:010627",
+      "FORMID": "010627",
+      "EDID": "DLC04LoadScreenEcology01",
+      "DESC": "As forças descontroladas da erosão esculpiram buracos e grutas ao longo de Point Lookout."
+    },
+    {
+      "FORM": "@PointLookout.esm:010626",
+      "FORMID": "010626",
+      "EDID": "DLC04LoadScreenFactions02",
+      "DESC": "Os habitantes dos pântanos de Point Lookout são o resultado de exposição à radiação pesada e gerações de reprodução deficientes."
+    },
+    {
+      "FORM": "@PointLookout.esm:010625",
+      "FORMID": "010625",
+      "EDID": "DLC04LoadScreenEcology05",
+      "DESC": "A área rural de Point Lookout protegeu-se do impacto direto durante a Grande Guerra, mas a chuva radioativa irradiou a área nos anos seguintes."
+    },
+    {
+      "FORM": "@PointLookout.esm:010624",
+      "FORMID": "010624",
+      "EDID": "DLC04LoadScreenFactions03",
+      "DESC": "Os Pantanenses não têm sociedade organizada ou crenças, mas parecem marcar seu território com totens de ossos e madeira."
+    },
+    {
+      "FORM": "@PointLookout.esm:010623",
+      "FORMID": "010623",
+      "EDID": "DLC04LoadScreenFactions01",
+      "DESC": "Os contrabandistas vagam por Point Lookout, na esperança de encontrar sua fortuna nessa desolação aparentemente imperturbada."
+    },
+    {
+      "FORM": "@PointLookout.esm:010622",
+      "FORMID": "010622",
+      "EDID": "DLC04LoadScreenHistory02",
+      "DESC": "Point Lookout permaneceu muito rural e isolada até que a empresa imobiliária Isla Negra comprou terras e começou a desenvolver novas casas e atrações."
+    },
+    {
+      "FORM": "@PointLookout.esm:010621",
+      "FORMID": "010621",
+      "EDID": "DLC04LoadScreenHistory03",
+      "DESC": "A Família Calvert tinha uma longa história em Point Lookout, mas a Mansão Calvert é tudo o que restou de seu legado."
+    },
+    {
+      "FORM": "@PointLookout.esm:010620",
+      "FORMID": "010620",
+      "EDID": "DLC04LoadScreenHistory04",
+      "DESC": "Blackhall Manor era o lar ancestral de uma família rica antes da Grande Guerra."
+    },
+    {
+      "FORM": "@PointLookout.esm:01061F",
+      "FORMID": "01061F",
+      "EDID": "DLC04LoadScreenHistory05",
+      "DESC": "Point Lookout é considerado um dos locais mais assombrosos de Maryland."
+    },
+    {
+      "FORM": "@PointLookout.esm:01061E",
+      "FORMID": "01061E",
+      "EDID": "DLC04LoadScreenHistory06",
+      "DESC": "A Catedral Ark & Dove foi nomeada assim por causa de dois navios colonos ingleses que desembarcaram perto de Point Lookout em 1634, levando à fundação de Maryland."
+    },
+    {
+      "FORM": "@PointLookout.esm:01061D",
+      "FORMID": "01061D",
+      "EDID": "DLC04LoadScreenHistory07",
+      "DESC": "O Campo de Detenção de Turtledove foi construído perto de Point Lookout por causa de sua localização isolada."
+    },
+    {
+      "FORM": "@PointLookout.esm:01061C",
+      "FORMID": "01061C",
+      "EDID": "DLC04LoadScreenEcology03",
+      "DESC": "Os pântanos da Point Lookout são ricos em gases naturais, que às vezes se manifestam na superfície como bolhas explosivas de metano."
+    },
+    {
+      "FORM": "@PointLookout.esm:010055",
+      "FORMID": "010055",
+      "EDID": "DLC04LoadScreenHistory01",
+      "DESC": "Milhares de prisioneiros de guerra confederados morreram perto da Point Lookout nos últimos anos da Guerra Civil Americana."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0F0",
+      "FORMID": "00C0F0",
+      "EDID": "DLC02LoadScreenAnchorage4",
+      "DESC": "Bem-vindo à Anchorage, soldado! Lute com garra, e poderá chegar em casa antes do Natal!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0EF",
+      "FORMID": "00C0EF",
+      "EDID": "DLC02LoadScreenVSS2",
+      "DESC": "Agora a Irmandade Desertora controla o Complexo VSS, e espera obter acesso à tecnologia avançada contida."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0EE",
+      "FORMID": "00C0EE",
+      "EDID": "DLC02LoadScreenVSS1",
+      "DESC": "O Complexo VSS, como aqueles operados por muitos empreiteiros civis antes da guerra nuclear, foi finalmente adquirido pelo Exército dos E.U. e adaptado para aplicações práticas militares."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0ED",
+      "FORMID": "00C0ED",
+      "EDID": "DLC02LoadScreenAnchorage3",
+      "DESC": "Arquivos Históricos Militares dos E.U: Anchorage, O Alaska foi invadido por forças Comunistas Chinesas no inverno de 2066."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0EC",
+      "FORMID": "00C0EC",
+      "EDID": "DLC02LoadScreenAnchorage1",
+      "DESC": "Carregando Simulação Anchorage. O enjoo é normal, e vai diminuir momentaneamente."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0EB",
+      "FORMID": "00C0EB",
+      "EDID": "DLC02LoadScreenAnchorage2",
+      "DESC": "Carregando Simulação Anchorage, Alaska. Missão: Libertação de Anchorage, Alaska das Forças Comunistas Chinesas. Seguranças: Desativadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADD",
+      "FORMID": "0C9ADD",
+      "EDID": "TranqLaneLoadScreen4",
+      "DESC": "Aceite sua realidade visível."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADC",
+      "FORMID": "0C9ADC",
+      "EDID": "TranqLaneLoadScreen3",
+      "DESC": "Protótipo de simulação Vault-Tec iniciado. Programa ativo: Alameda da Tranquilidade."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADB",
+      "FORMID": "0C9ADB",
+      "EDID": "TranqLaneLoadScreen2",
+      "DESC": "Carregando simulação da Alameda da Tranquilidade. Por favor, aguarde."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADA",
+      "FORMID": "0C9ADA",
+      "EDID": "TranqLaneLoadScreen1",
+      "DESC": "Algoritmos históricos introduzidos. Processando artigos do Capital Post. Extrapolando referências culturais Americanas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C73CC",
+      "FORMID": "0C73CC",
+      "EDID": "CreatureLoadScreen17DC",
+      "DESC": "Desative o inibidor de combate de um robô, e a máquina, confusa, entrará em um ataque de loucura, atacando tanto amigos como inimigos."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF6",
+      "FORMID": "0A9CF6",
+      "EDID": "CreatureLoadScreen16DC",
+      "DESC": "Os Raiders levam tudo o que quiserem, e quando quiserem, e o passatempo preferido deles são tortura e assassinato."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF5",
+      "FORMID": "0A9CF5",
+      "EDID": "CreatureLoadScreen15DC",
+      "DESC": "Nenhum trabalho é sujo o bastante para os mercenários da Companhia Talon. Se encontrar esses oportunistas sem coração, se prepare para uma luta até a morte."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF4",
+      "FORMID": "0A9CF4",
+      "EDID": "CreatureLoadScreen14DC",
+      "DESC": "Os Mirelurks possuem uma blindagem natural por todo o corpo... Com a exceção do rosto. Tente usar o V.A.T.S. para mirar nesta área e matá-los antes que cheguem perto para atacar."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A3424",
+      "FORMID": "0A3424",
+      "EDID": "StealthLoadScreen03DC",
+      "DESC": "A luz gerada pela luz do seu Pip-Boy te faz menos furtivo. Se quer suceder com furtividade, apague-a."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A3423",
+      "FORMID": "0A3423",
+      "EDID": "GeneralLoadScreen04DC",
+      "DESC": "Mantenha pressionado o botão de seu Pip-Boy para acender e apagar a luz."
+    },
+    {
+      "FORM": "@Fallout3.esm:088498",
+      "FORMID": "088498",
+      "EDID": "CombatLoadScreen11DC",
+      "DESC": "O DAÑ de uma arma indica seu dano aproximado, e é modificado por fatores como a condição da arma, e sua habilidade associada."
+    },
+    {
+      "FORM": "@Fallout3.esm:08198B",
+      "FORMID": "08198B",
+      "EDID": "Vault101LoadScreen05",
+      "DESC": "Residentes do Vault 101 permanecem protegidos do mundo exterior, com a exceção de ataques ocasionais de RadBaratas."
+    },
+    {
+      "FORM": "@Fallout3.esm:08198A",
+      "FORMID": "08198A",
+      "EDID": "Vault101LoadScreen04",
+      "DESC": "Os agentes de segurança do Vault 101 são selecionados a dedo pelo próprio Supervisor por sua discrição e lealdade."
+    },
+    {
+      "FORM": "@Fallout3.esm:081989",
+      "FORMID": "081989",
+      "EDID": "Vault101LoadScreen03",
+      "DESC": "Aos 16 anos, todo o residente do Vault 101 realiza o Teste Generalizado de Aptidão Ocupacional, ou G.O.A.T., que ajuda a determinar seu posto de trabalho."
+    },
+    {
+      "FORM": "@Fallout3.esm:081988",
+      "FORMID": "081988",
+      "EDID": "Vault101LoadScreen02",
+      "DESC": "Aos 10 anos, todo residente do Vault 101 recebe um processador de informações pessoal Pip-Boy 3000."
+    },
+    {
+      "FORM": "@Fallout3.esm:081987",
+      "FORMID": "081987",
+      "EDID": "Vault101LoadScreen01",
+      "DESC": "O Supervisor é o líder incontestável do Vault 101, e sua palavra é a lei."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D80",
+      "FORMID": "080D80",
+      "EDID": "CreatureLoadScreen13DC",
+      "DESC": "O Robobrain, construído pela General Atomics International antes da grande guerra nuclear, é único que usa um autêntico cérebro orgânico como seu processador central."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7F",
+      "FORMID": "080D7F",
+      "EDID": "CreatureLoadScreen12DC",
+      "DESC": "O robusto modelo de robô Protectron foi criado antes da grande guerra, e funcionou como um autômato de segurança em ambos os setores privado e empresarial."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7E",
+      "FORMID": "080D7E",
+      "EDID": "CreatureLoadScreen11DC",
+      "DESC": "O modelo de robô Senhor Corajoso foi encomendado pelo exército norte americano pouco antes do apocalipse atômico de 2077."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7D",
+      "FORMID": "080D7D",
+      "EDID": "CreatureLoadScreen10DC",
+      "DESC": "Mirelurks Rei usam um ataque sônico devastador para debilitar seus inimigos à longa distância."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7C",
+      "FORMID": "080D7C",
+      "EDID": "CreatureLoadScreen09DC",
+      "DESC": "O Irradiante é um Ghoul Selvagem único que foi convertido em um condutor vivo de radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7B",
+      "FORMID": "080D7B",
+      "EDID": "CreatureLoadScreen08DC",
+      "DESC": "Ghouls, tanto os \"normais\" quanto os Selvagens, não são somente imunes a radiação... como são curados por ela."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7A",
+      "FORMID": "080D7A",
+      "EDID": "CreatureLoadScreen07DC",
+      "DESC": "Os Ghouls selvagens perderam a capacidade de raciocinar, e atacam qualquer humano que avistarem."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D79",
+      "FORMID": "080D79",
+      "EDID": "CreatureLoadScreen06DC",
+      "DESC": "Os Eyebots divulgam mensagens da Enclave pré-gravadas pelo presidente Eden por toda Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D78",
+      "FORMID": "080D78",
+      "EDID": "CreatureLoadScreen05DC",
+      "DESC": "Os Deathclaws são algumas das criaturas mais assustadoras encontradas pelos colonos na Capital Wasteland. Sua velocidade e ferocidade são comparadas apenas com o tamanho de suas garras..."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D77",
+      "FORMID": "080D77",
+      "EDID": "CreatureLoadScreen04DC",
+      "DESC": "Ao passar dos anos desde que as primeiras bombas caíram, os cachorros continuaram largamente inalterados pela radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D76",
+      "FORMID": "080D76",
+      "EDID": "CreatureLoadScreen03DC",
+      "DESC": "Super Mutantes muitas vezes vem acompanhados de Centauros, que lhes servem como \"cães de guarda\" e alertam seus donos sobre o perigo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07F5B3",
+      "FORMID": "07F5B3",
+      "EDID": "CreatureLoadScreen02DC",
+      "DESC": "Incapacitando a antena dos insetos, como as formigas gigantes, os deixará loucos e então eles atacarão tudo ao seu redor."
+    },
+    {
+      "FORM": "@Fallout3.esm:07F5B2",
+      "FORMID": "07F5B2",
+      "EDID": "CreatureLoadScreen01DC",
+      "DESC": "Os Yao Guai são predadores rápidos e fortes, e são descendentes da área dos ursos negros."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC9",
+      "FORMID": "07CBC9",
+      "EDID": "PerkLoadScreen48DC",
+      "DESC": "A cada nível do bônus Robustez, você ganha +3 de Limiar de Dano."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC8",
+      "FORMID": "07CBC8",
+      "EDID": "PerkLoadScreen47DC",
+      "DESC": "A cada nível do bônus Ladrão, você ganha imediatamente 5 pontos nas habilidades Furtivo e Arrombamento."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC7",
+      "FORMID": "07CBC7",
+      "EDID": "PerkLoadScreen46DC",
+      "DESC": "O bônus Especialização! lhe permite selecionar uma quarta Habilidade para se especializar, o que imediatamente a aumentará em 15 pontos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC6",
+      "FORMID": "07CBC6",
+      "EDID": "PerkLoadScreen45DC",
+      "DESC": "A cada nível do bônus Aprendiz Ligeiro, você ganha mais 10% nos pontos de experiência obtidos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC5",
+      "FORMID": "07CBC5",
+      "EDID": "PerkLoadScreen44DC",
+      "DESC": "Com o bônus Costas Fortes, você poderá carregar mais 22 kilos de equipamentos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC4",
+      "FORMID": "07CBC4",
+      "EDID": "PerkLoadScreen43DC",
+      "DESC": "Com o bônus Movido a Sol, você ganha 2 pontos adicionais em Força quando estiver sob a luz do sol, e regenera lentamente a Saúde perdida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC3",
+      "FORMID": "07CBC3",
+      "EDID": "PerkLoadScreen42DC",
+      "DESC": "Com o bônus Franco Atirador, sua chance de acertar a cabeça de um oponente no modo V.A.T.S. será muito maior."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC2",
+      "FORMID": "07CBC2",
+      "EDID": "PerkLoadScreen41DC",
+      "DESC": "Com o bônus Corrida Silenciosa, você ganhará 10 pontos em sua habilidade Furtivo, e o fato de correr já não influenciará nas tentativas de ficar oculto."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC1",
+      "FORMID": "07CBC1",
+      "EDID": "PerkLoadScreen40DC",
+      "DESC": "Com o bônus Vasculhador, você encontrará consideravelmente mais munição em recipientes do que regularmente encontraria."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC0",
+      "FORMID": "07CBC0",
+      "EDID": "PerkLoadScreen39DC",
+      "DESC": "A cada nível do bônus Canalha, você ganha 10% de desconto em vendedores e mais XP por passar em testes de diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBF",
+      "FORMID": "07CBBF",
+      "EDID": "PerkLoadScreen38DC",
+      "DESC": "Com o bônus Especialista em Robótica, você causará 25% a mais de dano aos robôs em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBE",
+      "FORMID": "07CBBE",
+      "EDID": "PerkLoadScreen37DC",
+      "DESC": "A Resistência à Radiação lhe permite (o quê será?) resistir à radiação. Este bônus lhe concede 25% a mais de Resistência à Radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBC",
+      "FORMID": "07CBBC",
+      "EDID": "PerkLoadScreen35DC",
+      "DESC": "Com o bônus Piromaníaco, você causará +50% de danos com armas baseadas no fogo, como o Lança-Chamas e a Shishkebab."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBB",
+      "FORMID": "07CBBB",
+      "EDID": "PerkLoadScreen34DC",
+      "DESC": "Com a Palma Paralisante, ocasionalmente você executará um golpe especial com a mão no modo V.A.T.S. que paralisará o oponente por 30 segundos. Note que para executar a Palma Paralisante você deve estar completamente desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBA",
+      "FORMID": "07CBBA",
+      "EDID": "PerkLoadScreen33DC",
+      "DESC": "O bônus Ninja lhe concede o poder dos guerreiros lendários das sombras, e aumenta sua chance de efetuar golpes críticos bem como o dano que eles produzem."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB9",
+      "FORMID": "07CBB9",
+      "EDID": "PerkLoadScreen32DC",
+      "DESC": "Você já foi sacaneado demais! Com o bônus Fúria Nerd, sua força aumentará para 10 e você ganhará 50% a mais de Resistência à Danos sempre que sua Saúde cair para 20% ou menos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB8",
+      "FORMID": "07CBB8",
+      "EDID": "PerkLoadScreen31DC",
+      "DESC": "Com o bônus Estranho Misterioso, seu anjo da guarda pessoal aparecerá de vez em quando no modo V.A.T.S. para te dar uma mão... Com eficácia letal."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB7",
+      "FORMID": "07CBB7",
+      "EDID": "PerkLoadScreen30DC",
+      "DESC": "Com o bônus Requinte, você ganhará 5% a mais de chance de acertar um golpe crítico em um oponente em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB6",
+      "FORMID": "07CBB6",
+      "EDID": "PerkLoadScreen29DC",
+      "DESC": "Com o bônus Senhor Sandman, você poderá realizar um movimento especial que matará instantaneamente qualquer pessoa que esteja dormindo, e ganhará XP por fazê-lo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB5",
+      "FORMID": "07CBB5",
+      "EDID": "PerkLoadScreen28DC",
+      "DESC": "Quando adquirir o bônus Grande Comerciante, o preço de todos os itens que comprar de um vendedor é reduzido em 25%."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB4",
+      "FORMID": "07CBB4",
+      "EDID": "PerkLoadScreen27DC",
+      "DESC": "O bônus Pequeno Lançador melhora sua perícia em armas brancas e explosivos, o tornando muito mais eficiente com armas brancas e granadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB3",
+      "FORMID": "07CBB3",
+      "EDID": "PerkLoadScreen26DC",
+      "DESC": "A cada nível do bônus Menina do Papai, hackear fica mais fácil e as drogas são 10% mais eficazes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB2",
+      "FORMID": "07CBB2",
+      "EDID": "PerkLoadScreen25DC",
+      "DESC": "A cada nível do bônus Menino do Papai, hackear fica mais fácil e as drogas são 10% mais eficazes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C346",
+      "FORMID": "07C346",
+      "EDID": "PerkLoadScreen24DC",
+      "DESC": "Com o bônus Passo Leve, você nunca mais ativará minas de um inimigo, ou armadilhas colocadas no chão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C345",
+      "FORMID": "07C345",
+      "EDID": "PerkLoadScreen23DC",
+      "DESC": "Com o bônus Doador de Vida, você ganhará um bônus de 30 Pontos de Vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C344",
+      "FORMID": "07C344",
+      "EDID": "PerkLoadScreen22DC",
+      "DESC": "Com o bônus Barriga de Chumbo, você receberá 50% a menos de radiação toda vez que beber de uma fonte de água radioativa."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C343",
+      "FORMID": "07C343",
+      "EDID": "PerkLoadScreen21DC",
+      "DESC": "Quando possuir o bônus Justiceiro, qualquer pessoa má, humano ou Ghoul, que você matar terá um dedo em seu cadáver o qual poderá ser vendido ou trocado com algum personagem bom..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C342",
+      "FORMID": "07C342",
+      "EDID": "PerkLoadScreen20DC",
+      "DESC": "Computador bloqueado ao falhar em uma tentativa de hackear? Não se você for um Gênio dos Computadores! Com este bônus, você pode tentar re-hackear qualquer computador que foi bloqueado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C341",
+      "FORMID": "07C341",
+      "EDID": "PerkLoadScreen19DC",
+      "DESC": "A cada nível do bônus Punho de Ferro, você dará 5 pontos a mais de dano no combate Desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C340",
+      "FORMID": "07C340",
+      "EDID": "PerkLoadScreen18DC",
+      "DESC": "Com o bônus Treinamento Intensivo, você pode adicionar um ponto em qualquer um dos atributos S.P.E.C.I.A.L."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33F",
+      "FORMID": "07C33F",
+      "EDID": "PerkLoadScreen17DC",
+      "DESC": "Com o bônus Infiltração, você ganha mais uma chance para arrombar qualquer fechadura quebrada ao tentar \"Forçar a Fechadura\" sem êxito."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33E",
+      "FORMID": "07C33E",
+      "EDID": "PerkLoadScreen16DC",
+      "DESC": "Com o bônus Meditação Imparcial, você ganha 30 pontos em Diálogo... Enquanto manter um nível de Karma Neutro."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33D",
+      "FORMID": "07C33D",
+      "EDID": "PerkLoadScreen15DC",
+      "DESC": "O bônus Aqui e Agora lhe concede imediatamente um nível de experiência com todas as vantagens que ele traz."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33C",
+      "FORMID": "07C33C",
+      "EDID": "PerkLoadScreen14DC",
+      "DESC": "Com o bônus Descobridor de Fortunas, você encontrará consideravelmente mais tampinhas de Nuka-Cola em recipientes do que você normalmente encontraria."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33B",
+      "FORMID": "07C33B",
+      "EDID": "PerkLoadScreen13DC",
+      "DESC": "A cada nível do bônus Viciado em Armas, você ganha precisão aprimorada e maior durabilidade para armas que usam a perícia Armas de Fogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33A",
+      "FORMID": "07C33A",
+      "EDID": "PerkLoadScreen12DC",
+      "DESC": "Quando adquirir o bônus Explorador, todos os lugares do mundo serão revelados em seu mapa. Então vá explorar!"
+    },
+    {
+      "FORM": "@Fallout3.esm:07C339",
+      "FORMID": "07C339",
+      "EDID": "PerkLoadScreen11DC",
+      "DESC": "Com o bônus Entomólogo, você dará 50% a mais de dano a cada vez que atacar um inseto mutante."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C338",
+      "FORMID": "07C338",
+      "EDID": "PerkLoadScreen10DC",
+      "DESC": "Com o bônus Educado, você ganha mais três pontos de habilidade a cada vez que passar de nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C337",
+      "FORMID": "07C337",
+      "EDID": "PerkLoadScreen09DC",
+      "DESC": "Com cada nível do bônus Especialista em Demolição, todas as suas armas explosivas darão 20% a mais de dano."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C336",
+      "FORMID": "07C336",
+      "EDID": "PerkLoadScreen08",
+      "DESC": "O bônus Ciborgue adiciona 10 pontos as resistências de: Dano, Veneno e Radiação, e 10 pontos em sua habilidade com Armas de Energia."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C335",
+      "FORMID": "07C335",
+      "EDID": "PerkLoadScreen07DC",
+      "DESC": "Com o bônus Matador de Aluguel, todo personagem bom que você matar terá uma orelha em seu corpo. Essa orelha poderá ser vendida para certa pessoa (cuja identidade é revelada ao adquirir o bônus) em troca de tampas e Karma negativo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C334",
+      "FORMID": "07C334",
+      "EDID": "PerkLoadScreen06DC",
+      "DESC": "Com o bônus Fogo Concentrado, sua precisão em acertar um membro do corpo no modo V.A.T.S. aumentará levemente quando se mirar sucessivamente no mesmo membro."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C333",
+      "FORMID": "07C333",
+      "EDID": "PerkLoadScreen05DC",
+      "DESC": "Com o bônus Compreensão, você ganha um ponto adicional a cada vez que ler um livro de habilidade."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C206",
+      "FORMID": "07C206",
+      "EDID": "GeneralLoadScreen08DC",
+      "DESC": "A única forma de chegar até as ruínas do D.C. dominadas pelos Super Mutantes é viajando pelo subterrâneo, através dos túneis abandonados do Metrô."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9D",
+      "FORMID": "07AE9D",
+      "EDID": "PerkLoadScreen04",
+      "DESC": "O bônus Coração de Criança aprimora sua interação com crianças com opções únicas de diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9C",
+      "FORMID": "07AE9C",
+      "EDID": "PerkLoadScreen03DC",
+      "DESC": "Com o bônus Melhores Críticos, você causará +50% de danos a cada golpe crítico causado em seu oponente."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9B",
+      "FORMID": "07AE9B",
+      "EDID": "PerkLoadScreen02DC",
+      "DESC": "Com o bônus Garoto de Ação, você ganha 15 Pontos de Ação adicionais para usar no V.A.T.S. por nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9A",
+      "FORMID": "07AE9A",
+      "EDID": "PerkLoadScreen01DC",
+      "DESC": "Com o bônus Amigo dos Animais, você nunca mais será vítima de um ataque provocado por qualquer animal."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE99",
+      "FORMID": "07AE99",
+      "EDID": "StealthLoadScreen02DC",
+      "DESC": "A invisibilidade é afetada por muitos fatores, incluindo o nível de luz, o som gerado, peso e massa do vestuário e a linha de visão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE98",
+      "FORMID": "07AE98",
+      "EDID": "CrimeLoadScreen01DC",
+      "DESC": "A Capital Wasteland precisa de um governo unificado e de um sistema institucional de luta contra o crime. Se fizer mal a alguém, se prepare para pagar com sua vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE97",
+      "FORMID": "07AE97",
+      "EDID": "CombatLoadScreen10DC",
+      "DESC": "Se você roubar a bolsa de alguém e colocar uma mina ou uma granada em seu inventário, o explosivo se ativará... Causando uma enorme explosão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC70",
+      "FORMID": "07AC70",
+      "EDID": "UnderworldLoadScreen03",
+      "DESC": "Os Ghouls do Submundo geralmente não são incomodados pelos Super Mutantes, mas reprovam as ações da Irmandade de Aço por transformar seu território em uma zona de guerra."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6F",
+      "FORMID": "07AC6F",
+      "EDID": "UnderworldLoadScreen02",
+      "DESC": "Underworld foi formada nos restos da exposição especial do Museu de História, que mostrava as visões de diferentes civilizações sobre a vida após a morte."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6E",
+      "FORMID": "07AC6E",
+      "EDID": "UnderworldLoadScreen01",
+      "DESC": "O Submundo se tornou um refúgio para os Ghouls, mal recebidos em toda a Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6D",
+      "FORMID": "07AC6D",
+      "EDID": "RivetCityLoadScreen04",
+      "DESC": "Rivet City não possui lugares de detenção para criminosos, e tem tolerância zero para crimes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6C",
+      "FORMID": "07AC6C",
+      "EDID": "RivetCityLoadScreen03",
+      "DESC": "A Doutora Madison Li, membro do conselho de governo de Rivet City, é uma das maiores mentes científicas de sua geração."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6B",
+      "FORMID": "07AC6B",
+      "EDID": "RivetCityLoadScreen02",
+      "DESC": "O que era uma pequena comunidade científica, gradualmente se converteu em Rivet City, o maior assentamento da Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6A",
+      "FORMID": "07AC6A",
+      "EDID": "RivetCityLoadScreen01",
+      "DESC": "A parte dianteira de Rivet City está separada do resto do navio, e ocupada por Mirelurks hostis."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC69",
+      "FORMID": "07AC69",
+      "EDID": "MegatonLoadScreen06",
+      "DESC": "Os moradores de Megaton se sentem seguros atrás de suas muralhas de metal. Irônico, considerando a proximidade de uma bomba atômica."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC68",
+      "FORMID": "07AC68",
+      "EDID": "MegatonLoadScreen05",
+      "DESC": "A rumores de que Moira Brown, a excêntrica proprietária do armazém Craterside, está à procura de ajuda para um novo projeto."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC67",
+      "FORMID": "07AC67",
+      "EDID": "MegatonLoadScreen04",
+      "DESC": "Os membros da Igreja do Átomo veneram a bomba atômica."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC66",
+      "FORMID": "07AC66",
+      "EDID": "MegatonLoadScreen03",
+      "DESC": "Alguns moradores de Megaton se perguntam quem está realmente no comando: O Sheriff Simms ou o dono do bar Colin Moriarty..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC65",
+      "FORMID": "07AC65",
+      "EDID": "MegatonLoadScreen02",
+      "DESC": "Alguns dos primeiros colonos de Megaton foram atraídos pela falsa esperança de entrar no Vault 101."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC64",
+      "FORMID": "07AC64",
+      "EDID": "MegatonLoadScreen01",
+      "DESC": "No centro de Megaton repousa uma bomba atômica não detonada, um resíduo do grande conflito que destruiu o mundo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A501",
+      "FORMID": "07A501",
+      "EDID": "CantCommonsLoadingScreen03",
+      "DESC": "A Comunidade de Canterbury se tornou um permanente campo de batalha para os dois \"super humanos\" -- a sinistra AntAgonizer e o desencaminhado Mecânico."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A500",
+      "FORMID": "07A500",
+      "EDID": "CantCommonsLoadingScreen02",
+      "DESC": "Os restos de um grande centro de reparação de robôs armazena o assentamento da Comunidade de Canterbury."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FF",
+      "FORMID": "07A4FF",
+      "EDID": "CantCommonsLoadingScreen01",
+      "DESC": "A Comunidade de Canterbury é o fim da rota comercial das caravanas estabelecidas na Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FD",
+      "FORMID": "07A4FD",
+      "EDID": "BigtownLoadingScreen03",
+      "DESC": "Os moradores de Big Town são todos os refugiados de outros assentamento, do qual eles foram expulsos a força..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FC",
+      "FORMID": "07A4FC",
+      "EDID": "BigtownLoadingScreen02",
+      "DESC": "A população de Big Town tem diminuído significativamente nos últimos anos. A maioria dos moradores foi morta ou capturada por Escravistas ou Super Mutantes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FB",
+      "FORMID": "07A4FB",
+      "EDID": "BigtownLoadingScreen",
+      "DESC": "Embora tenha algumas fortificações rudes, Big Town é alvo de constantes ataques de Escravistas e Super Mutantes, que à veem como um alvo fácil."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FA",
+      "FORMID": "07A4FA",
+      "EDID": "TenpennyLoadScreen02",
+      "DESC": "Allistair Tenpenny raramente deixa o conforto e a segurança de sua suíte na cobertura. A sua é reservada para os grosseiramente ricos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4F9",
+      "FORMID": "07A4F9",
+      "EDID": "TenpennyLoadScreen01",
+      "DESC": "Torre Tenpenny é a criação de Allistair Tenpenny, um britânico refugiado que veio para a Capital Wasteland, em busca de fortuna."
+    },
+    {
+      "FORM": "@Fallout3.esm:075D20",
+      "FORMID": "075D20",
+      "EDID": "CombatLoadScreen09DC",
+      "DESC": "Quer evitar a fuga de algum inimigo? Mutile as pernas dele."
+    },
+    {
+      "FORM": "@Fallout3.esm:075BE4",
+      "FORMID": "075BE4",
+      "EDID": "GeneralLoadScreen07DC",
+      "DESC": "Alterando a dificuldade, afetará o nível de combate. Mas você também pode obter mais ou menos experiência ao matar inimigos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07385B",
+      "FORMID": "07385B",
+      "EDID": "StealthLoadScreen01DC",
+      "DESC": "Correr é mais barulhento do que caminhar e é mais fácil de ser descoberto, até mesmo se você estiver se movendo furtivamente."
+    },
+    {
+      "FORM": "@Fallout3.esm:07385A",
+      "FORMID": "07385A",
+      "EDID": "GeneralLoadScreen03DC",
+      "DESC": "Bebendo de uma fonte de água sempre é uma escolha tática -- você normalmente restabelece a Saúde perdida, mas eleva seu nível de radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:073859",
+      "FORMID": "073859",
+      "EDID": "GeneralLoadScreen02",
+      "DESC": "Dormir em qualquer cama restaurará sua Saúde completamente e curará qualquer parte de corpo aleijada."
+    },
+    {
+      "FORM": "@Fallout3.esm:073858",
+      "FORMID": "073858",
+      "EDID": "CombatLoadScreen08DC",
+      "DESC": "Ao se abaixar a sua precisão irá melhorar, e o modo furtivo será ativado."
+    },
+    {
+      "FORM": "@Fallout3.esm:073857",
+      "FORMID": "073857",
+      "EDID": "GeneralLoadScreen01DC",
+      "DESC": "Você pode restaurar a Saúde usando um Stimpak, comendo comida, bebendo de uma fonte de água, ou dormindo em uma cama."
+    },
+    {
+      "FORM": "@Fallout3.esm:073856",
+      "FORMID": "073856",
+      "EDID": "CombatLoadScreen06DC",
+      "DESC": "Ampliando a mira com uma arma de alcance reduz sua velocidade, mas melhora sua precisão."
+    },
+    {
+      "FORM": "@Fallout3.esm:073855",
+      "FORMID": "073855",
+      "EDID": "CombatLoadScreen05DC",
+      "DESC": "Armas mais pesadas e vestuário reduzirão sua velocidade quando eles estão equipados."
+    },
+    {
+      "FORM": "@Fallout3.esm:073854",
+      "FORMID": "073854",
+      "EDID": "CombatLoadScreen04DC",
+      "DESC": "Dano nos membros podem ser reparados diretamente aplicando Stimpaks nas áreas afetadas, usando o Pip-Boy."
+    },
+    {
+      "FORM": "@Fallout3.esm:073853",
+      "FORMID": "073853",
+      "EDID": "CombatLoadScreen03DC",
+      "DESC": "Quanto mais baixa a condição de suas armas ou roupas, menos dano ela resiste em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:073852",
+      "FORMID": "073852",
+      "EDID": "CombatLoadScreen02DC",
+      "DESC": "Repare suas armas regularmente – quanto menor a condição, menor a efetividade da arma."
+    },
+    {
+      "FORM": "@Fallout3.esm:073851",
+      "FORMID": "073851",
+      "EDID": "CombatLoadScreen01DC",
+      "DESC": "Você pode correr mais rápido com sua arma no coldre."
+    },
+    {
+      "FORM": "@Fallout3.esm:070602",
+      "FORMID": "070602",
+      "EDID": "CombatLoadScreen12DC",
+      "DESC": "Se você começar uma briga que não pode terminar, tente guardar a sua arma. Seu oponente pode até perdoá-lo..."
+    },
+    {
+      "FORM": "@Fallout3.esm:06123B",
+      "FORMID": "06123B",
+      "EDID": "PerkLoadScreen49DC",
+      "DESC": "Se tiver o bônus Especialista em Robótica e se esgueirar até perto de um robô hostil sem ser detectado, você pode desativar permanentemente o robô."
+    },
+    {
+      "FORM": "@Fallout3.esm:06123A",
+      "FORMID": "06123A",
+      "EDID": "StealthLoadScreen04DC",
+      "DESC": "Se quer permanecer oculto, fique nas sombras, mova-se lentamente, tente manter-se atrás do inimigo... e apague a luz do seu Pip-Boy!"
+    },
+    {
+      "FORM": "@Fallout3.esm:061237",
+      "FORMID": "061237",
+      "EDID": "RivetCityLoadScreen05",
+      "DESC": "O chefe de segurança Harkness e seus oficiais estão autorizados ao uso da força letal para enfrentar qualquer transgressor."
+    },
+    {
+      "FORM": "@Fallout3.esm:061236",
+      "FORMID": "061236",
+      "EDID": "RepairLoadScreen10DC",
+      "DESC": "Quanto mais alta sua habilidade Reparo, melhor será a condição de início de qualquer arma fabricada por você."
+    },
+    {
+      "FORM": "@Fallout3.esm:06120F",
+      "FORMID": "06120F",
+      "EDID": "PerkLoadScreen01aDC",
+      "DESC": "Com o segundo nível do Bônus Amigo dos Animais, os animais te ajudam em combate (porém não contra outros animais)."
+    },
+    {
+      "FORM": "@Fallout3.esm:06120E",
+      "FORMID": "06120E",
+      "EDID": "PerceptionLoadScreen10DC",
+      "DESC": "A Percepção determina quando marcas vermelhas (que indicam ameaças) aparecem em sua bússola."
+    },
+    {
+      "FORM": "@Fallout3.esm:061205",
+      "FORMID": "061205",
+      "EDID": "MegatonLoadScreen07",
+      "DESC": "A Igreja das Crianças do Átomo acredita que a guerra de 2077 foi realmente um grande evento santo perpetuado por seu Deus, Átomo."
+    },
+    {
+      "FORM": "@Fallout3.esm:061204",
+      "FORMID": "061204",
+      "EDID": "MedicineLoadScreen10DC",
+      "DESC": "A habilidade Medicina determina a eficácia das drogas que ajudam a controlar a radiação, como Rad-X e RadAway."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611F9",
+      "FORMID": "0611F9",
+      "EDID": "IntelligenceLoadScreen10DC",
+      "DESC": "Inteligência determina sua eficácia com as habilidades de Ciência, Reparar e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611F8",
+      "FORMID": "0611F8",
+      "EDID": "GeneralLoadScreen05DC",
+      "DESC": "Dormir em uma cama de sua propriedade ou alugada te dará um bônus de\"Descansado\" que aumenta o XP ganho por várias horas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611AF",
+      "FORMID": "0611AF",
+      "EDID": "CrimeLoadScreen02DC",
+      "DESC": "A Capital Wasteland carece de um sistema institucional de crime e punição. Se fizer algo ruim a alguém, prepare-se para pagar com sua vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FE",
+      "FORMID": "0610FE",
+      "EDID": "CreatureLoadScreen19DC",
+      "DESC": "Senhor Corajoso é uma variante de combate do popular Senhor Útil, e está equipado com arma de Plasma e Lança-Chamas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FD",
+      "FORMID": "0610FD",
+      "EDID": "CreatureLoadScreen18DC",
+      "DESC": "O Irradiante usa sua habilidade especial para enviar radiação a seus inimigos, e curar quaisquer Ghouls Selvagens por perto."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FC",
+      "FORMID": "0610FC",
+      "EDID": "AgilityLoadScreen10DC",
+      "DESC": "Se estiver escondido adequadamente, seu primeiro ataque contra um inimigo sempre resultará num acerto crítico."
+    },
+    {
+      "FORM": "@Fallout3.esm:051DF1",
+      "FORMID": "051DF1",
+      "EDID": "GeneralLoadScreen06DC",
+      "DESC": "Coisas estão um pouco difíceis demais, ou muito fáceis? Você pode pausar o jogo e modificar a dificuldade a qualquer hora."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3CA",
+      "FORMID": "02B3CA",
+      "EDID": "StrengthLoadScreen09DC",
+      "DESC": "Força afeta o quanto de peso você pode carregar, e determina a efetividade de todos os ataques com armas brancas."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3C6",
+      "FORMID": "02B3C6",
+      "EDID": "SpeechLoadScreen09DC",
+      "DESC": "A habilidade Diálogo marca o quanto você pode influenciar alguém por diálogo, e ganhar acesso a informação que eles poderiam não querer compartilhar caso contrário."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3C2",
+      "FORMID": "02B3C2",
+      "EDID": "SneakLoadScreen09DC",
+      "DESC": "A habilidade Arrombamento é usada para abrir portas e recipientes trancados."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3BE",
+      "FORMID": "02B3BE",
+      "EDID": "SmallGunsLoadScreen09",
+      "DESC": "A perícia Armas de Fogo determina sua eficácia com armas de projéteis convencionais, incluindo a Pistola 10mm, a Espingarda de Pressão, o Rifle de Assalto e a Escopeta de Combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3BA",
+      "FORMID": "02B3BA",
+      "EDID": "ScienceLoadScreen09DC",
+      "DESC": "A habilidade Ciência representa seu conhecimento científico, e é primariamente usada para hackear terminais de computadores restritos."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3B6",
+      "FORMID": "02B3B6",
+      "EDID": "RepairLoadScreen09DC",
+      "DESC": "A habilidade Reparo te permite consertar qualquer arma e vestimenta."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3AE",
+      "FORMID": "02B3AE",
+      "EDID": "PerceptionLoadScreen09DC",
+      "DESC": "Uma grande Percepção garante um bônus para as habilidades Explosivos, Arrombamento e Armas de Energia."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3AA",
+      "FORMID": "02B3AA",
+      "EDID": "MeleeWeaponsLoadScreen09DC",
+      "DESC": "A habilidade Armas Brancas determina sua eficiência com qualquer arma de combate corpo-a-corpo, de um simples Cano de Chumbo a uma Super Marreta de alta tecnologia."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3A6",
+      "FORMID": "02B3A6",
+      "EDID": "MedicineLoadScreen09DC",
+      "DESC": "A habilidade Medicina determina a eficiência de um Stimpak usado para recuperar saúde ou membros feridos."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3A1",
+      "FORMID": "02B3A1",
+      "EDID": "UnarmedLoadScreen09DC",
+      "DESC": "A habilidade Desarmado é usada para lutar sem armas, ou com armas desenhadas para o combate corpo-a-corpo, como a Soqueira."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B39D",
+      "FORMID": "02B39D",
+      "EDID": "LuckLoadScreen09DC",
+      "DESC": "Aumentando sua Sorte, aumentam todos os valores de suas habilidades, e melhora a sua chance de críticos com todas as armas."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B399",
+      "FORMID": "02B399",
+      "EDID": "LockpickLoadScreen09DC",
+      "DESC": "A habilidade Arrombamento é usada para abrir portas e compartimentos trancados."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B395",
+      "FORMID": "02B395",
+      "EDID": "IntelligenceLoadScreen09DC",
+      "DESC": "Quanto maior a sua Inteligência, mais pontos de habilidade poderá distribuir ao passar de nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B389",
+      "FORMID": "02B389",
+      "EDID": "EnduranceLoadScreen09DC",
+      "DESC": "Uma grande Resistência concede bônus para Vida, resistências ao meio ambiente, e nas habilidades Armas Grandes e Desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:02AE47",
+      "FORMID": "02AE47",
+      "EDID": "CharismaLoadScreen09DC",
+      "DESC": "Possuir um Carisma alto proporciona um bônus para as habilidades de Negociar e de Diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:02AE38",
+      "FORMID": "02AE38",
+      "EDID": "AgilityLoadScreen09DC",
+      "DESC": "Quanto maior a habilidade Furtivo, mais fácil será permanecer indetectável , roubar um item, ou mexer na carteira de alguém."
+    },
+    {
+      "FORM": "@Fallout3.esm:021876",
+      "FORMID": "021876",
+      "EDID": "ExplosivesLoadScreen02DC",
+      "DESC": "A habilidade Explosivos determina a potência de suas minas plantadas, a complexidade para desativar minas hostis e a efetividade das granadas lançadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:021872",
+      "FORMID": "021872",
+      "EDID": "EnergyWeaponsLoadScreen02DC",
+      "DESC": "A habilidade com Armas de Energia determina sua efetividade com armas como a Pistola Laser, Rifle Laser, Rifle de Plasma e a Pistola de Plasma."
+    },
+    {
+      "FORM": "@Fallout3.esm:02186E",
+      "FORMID": "02186E",
+      "EDID": "BigGunsLoadScreen02",
+      "DESC": "As perícias com armas determinam sua eficácia em combate com o Fat Man, o Lança-Tudo, o Lança-Mísseis, o Lança-Chamas, o Laser Gatling e a Minigun."
+    },
+    {
+      "FORM": "@Fallout3.esm:02186A",
+      "FORMID": "02186A",
+      "EDID": "BarterLoadScreen02DC",
+      "DESC": "Em geral, quanto mais alta a sua habilidade Negociar, mais baixo o preço de itens comprados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D93",
+      "FORMID": "166D93",
+      "EDID": "EnclaveLoadScreen01",
+      "DESC": "Embora fossem uma força poderosa no oeste décadas atrás, o Enclave não é visto ou ouvido na Mojave há anos. Acredita-se que membros que não foram caçados tenham viajado para o leste, ou se integrado com sucesso à NCR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D92",
+      "FORMID": "166D92",
+      "EDID": "BrotherhoodLoadScreen02",
+      "DESC": "Devido a desentendimentos sobre como a tecnologia deveria ser controlada no oeste, a Irmandade de Aço travou uma longa e sangrenta guerra contra a NCR. Apesar de equipamentos e treinamento superiores, a Irmandade acabou entrando em retirada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D91",
+      "FORMID": "166D91",
+      "EDID": "KingLoadScreen01",
+      "DESC": "o King é dedicado à causa da independência e da liberdade pessoal em Freeside. Sua gangue, os Kings, tenta manter alguma aparência de ordem nas ruas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D90",
+      "FORMID": "166D90",
+      "EDID": "JoshuaGrahamLoadScreen01",
+      "DESC": "Depois que a Legião perdeu a Batalha da Represa Hoover, Caesar mandou que seu legado, Joshua Graham, fosse coberto de piche, incendiado e jogado no Grand Canyon. Legionários e tribais supersticiosos acreditam que ele vive como o Homem Queimado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8F",
+      "FORMID": "166D8F",
+      "EDID": "LaniusLoadScreen01",
+      "DESC": "O Legado Lanius, o Monstro do Leste, é o comandante militar de todas as forças de Caesar em campo. Ele é lendário por sua devoção a Caesar e por sua habilidade de sentir fraqueza em qualquer exército."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8E",
+      "FORMID": "166D8E",
+      "EDID": "HanlonLoadScreen01",
+      "DESC": "Chefe Hanlon é o líder dos Rangers da NCR e um de seus membros mais antigos. Ele coordena as ações dos Rangers a partir de seu quartel-general no Acampamento Golf."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8D",
+      "FORMID": "166D8D",
+      "EDID": "RangersLoadScreen02",
+      "DESC": "A distinta armadura de combate Ranger preta consiste no tradicional sobretudo dos Desert Rangers usado com a armadura de choque pré-Guerra. A armadura de patrulha Ranger é fabricada manualmente na NCR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8C",
+      "FORMID": "166D8C",
+      "EDID": "ReputationLoadScreen03",
+      "DESC": "Não sabe qual é a sua reputação com um grupo atual? Se você ganhou alguma, pode encontrá-la no seu Pip-Boy em Estatísticas - Geral."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8B",
+      "FORMID": "166D8B",
+      "EDID": "PerkLoadScreen53",
+      "DESC": "Seus companheiros te irritam por ficarem constantemente na frente das suas balas e mísseis? Pegue a vantagem Atirar e Rezar para reduzir drasticamente a quantidade de dano que seus ataques causam a todos os companheiros contratados no momento."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D8A",
+      "FORMID": "166D8A",
+      "EDID": "PerkLoadScreen52",
+      "DESC": "Triste por ser fraco demais para manter uma metralhadora leve na mira? Pegue a vantagem Manejo de Armas para remover 2 pontos de todos os requisitos de Força de armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D89",
+      "FORMID": "166D89",
+      "EDID": "PerkLoadScreen51",
+      "DESC": "Com Dano por Salpico, todas as suas explosões aumentam de tamanho, permitindo que você bombardeie uma área ainda maior."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D88",
+      "FORMID": "166D88",
+      "EDID": "PerkLoadScreen50",
+      "DESC": "A habilidade Cirurgião de Escopeta anula 10 pontos do Limite de Dano do inimigo enquanto você estiver usando qualquer escopeta. É útil para eliminar oponentes com armadura leve que normalmente frustrariam seus tiros de chumbo grosso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D87",
+      "FORMID": "166D87",
+      "EDID": "WildWastelandLoadScreen01",
+      "DESC": "O traço Ermo Selvagem converte alguns acontecimentos normalmente 'comuns' em encontros excêntricos e malucos. Não escolha este traço a menos que prefira sua experiência em Fallout um pouco mais boba que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D86",
+      "FORMID": "166D86",
+      "EDID": "MagazineLoadScreen01",
+      "DESC": "As revistas fornecem bônus temporários para as habilidades, mas são muito mais comuns do que os livros de habilidades, que são muito valorizados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D85",
+      "FORMID": "166D85",
+      "EDID": "SnowGlobesLoadScreen01",
+      "DESC": "Embora as pessoas em volta de New Vegas não se interessem muito por bugigangas turísticas da pré-guerra, há uma figura influente que tem uma queda por globos de neve..."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D84",
+      "FORMID": "166D84",
+      "EDID": "ProspectorLoadScreen01",
+      "DESC": "\"Garimpeiro\" é uma palavra educada para \"catador\". Garimpeiros podem ser encontrados por toda a Mojave, geralmente procurando por cofres raros e não abertos no fundo de um poço de mina irradiado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D83",
+      "FORMID": "166D83",
+      "EDID": "NerveLoadScreen01",
+      "DESC": "Quanto maior o Carisma, maior a Coragem. Coragem concede bônus de combate significativos a todos os companheiros."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D82",
+      "FORMID": "166D82",
+      "EDID": "CourierLoadScreen01",
+      "DESC": "Com a expansão da sociedade pós-apocalíptica pelo sudoeste americano, grupos de entregas como a Mojave Express surgiram para assumir a difícil tarefa de transportar cartas e pacotes por enormes distâncias."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D81",
+      "FORMID": "166D81",
+      "EDID": "CompanionLoadScreen03",
+      "DESC": "Os companheiros vão se curar sozinhos se tiverem chance, mas se você quiser garantir que eles vivam bastante tempo a seu serviço, use a Roda de Companheiro para administrar estimulantes diretamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D80",
+      "FORMID": "166D80",
+      "EDID": "CompanionLoadScreen02",
+      "DESC": "O XP por mortes feitas por companheiros é concedido ao jogador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7F",
+      "FORMID": "166D7F",
+      "EDID": "CompanionLoadScreen01",
+      "DESC": "Todos os companheiros dão ao jogador uma vantagem bônus enquanto estão no grupo. Mantenha dois companheiros por perto para ter o dobro de vantagens!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7E",
+      "FORMID": "166D7E",
+      "EDID": "UnarmedLoadScreen12",
+      "DESC": "Alguns indivíduos no ermo têm a capacidade de ensinar golpes especiais de desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7D",
+      "FORMID": "166D7D",
+      "EDID": "UnarmedLoadScreen11",
+      "DESC": "À medida que sua perícia em Desarmado aumenta, você desbloqueará a habilidade de dar uppercuts (50 em Desarmado) e cruzados (75 em Desarmado) - ambos dentro e fora do V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7C",
+      "FORMID": "166D7C",
+      "EDID": "FoodHealingLoadScreen01",
+      "DESC": "Comida cura mais lentamente que stimpaks, mas é mais comum na Mojave Wasteland. A perícia Sobrevivência pode aumentar os benefícios de cura de todas as formas de comida, incluindo receitas de criação na Fogueira."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7B",
+      "FORMID": "166D7B",
+      "EDID": "CasinoLoadScreen01",
+      "DESC": "Jogadores ganham e vencedores jogam, mas os cassinos da Strip geralmente não toleram armas à mostra ou apostadores com muita sorte nas mesas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D7A",
+      "FORMID": "166D7A",
+      "EDID": "JacobstownLoadScreen01",
+      "DESC": "Viajantes do norte da NCR têm sussurrado sobre uma pequena comunidade de Supermutantes localizada no alto das montanhas cobertas de neve a oeste de New Vegas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D79",
+      "FORMID": "166D79",
+      "EDID": "BlackMountainLoadScreen01",
+      "DESC": "Viajantes na Long 15 reclamaram aos rangers da NCR que caravanas têm sido importunadas e atacadas por Supermutantes temíveis que vivem nas ruínas irradiadas de Montanha Negra."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D78",
+      "FORMID": "166D78",
+      "EDID": "DamageThresholdLoadScreen03",
+      "DESC": "Se você vir um escudo ao lado do seu HUD de saúde, significa que seu Limiar de Dano está absorvendo o dano de uma arma inimiga. Um escudo quebrado significa que eles anularam completamente seu Limiar de Dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D77",
+      "FORMID": "166D77",
+      "EDID": "DamageThresholdLoadScreen02",
+      "DESC": "Se você vir um escudo vermelho ao lado da barra de saúde de um inimigo, isso significa que a Resistência a Dano da armadura dele está absorvendo o dano da sua arma. Um escudo vermelho quebrado significa que você anulou completamente a Resistência a Dano dele."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D76",
+      "FORMID": "166D76",
+      "EDID": "DamageThresholdLoadScreen01",
+      "DESC": "O Limiar de Dano é subtraído diretamente do DANO que uma arma causa. Se o LD for maior que o DANO de uma arma, muito pouco dano é causado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D75",
+      "FORMID": "166D75",
+      "EDID": "BoomersLoadScreen01",
+      "DESC": "Dizem que os Boomers são tribais xenófobos armados com poder de fogo ainda maior que o dos Contrabandistas de Armas. Ninguém se aventura a entrar ou sair de suas terras fortemente guardadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D74",
+      "FORMID": "166D74",
+      "EDID": "ReputationLoadScreen02",
+      "DESC": "Roubar, machucar pessoas e, de resto, ser um estorvo pode impactar negativamente sua reputação com um grupo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D73",
+      "FORMID": "166D73",
+      "EDID": "ReputationLoadScreen01",
+      "DESC": "Seja você bom, mau ou algo entre os dois, todas as principais comunidades e organizações nos Ermos de Mojave prestarão atenção à sua reputação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D72",
+      "FORMID": "166D72",
+      "EDID": "CraftingLoadScreen02",
+      "DESC": "Embora você possa ver muitas receitas de criação no início do jogo, algumas receitas não aparecerão até que você pegue perks especiais ou as descubra no ermo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D71",
+      "FORMID": "166D71",
+      "EDID": "CraftingLoadScreen01",
+      "DESC": "A criação pode ser feita em qualquer Bancada de Trabalho, Fogueira ou Bancada de Recarga. Alguns companheiros até têm a capacidade de ajudar o jogador a criar em qualquer lugar na Wasteland."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D70",
+      "FORMID": "166D70",
+      "EDID": "CaravanLoadScreen03",
+      "DESC": "Caravana é jogada com dinheiro padrão de qualquer tipo: tampinhas, dólares da NCR ou moedas da Legião. Como os jogadores costumam ser pobres, as apostas tendem a ser baixas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6F",
+      "FORMID": "166D6F",
+      "EDID": "CaravanLoadScreen02",
+      "DESC": "Como Caravana permite que jogadores construam baralhos com quaisquer cartas que encontrem, guardas de caravana astutos frequentemente criam baralhos e estratégias ardilosas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6E",
+      "FORMID": "166D6E",
+      "EDID": "CaravanLoadScreen01",
+      "DESC": "Caravana não é jogado em cassinos, mas é muito popular entre os guardas de caravanas e outros viajantes frequentes na Long 15."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6D",
+      "FORMID": "166D6D",
+      "EDID": "IronSightsLoadScreen02",
+      "DESC": "Você pode ativar e desativar a mira de ferro \"real\" para armas de fogo nas suas Configurações de Jogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6C",
+      "FORMID": "166D6C",
+      "EDID": "HardcoreLoadScreen01",
+      "DESC": "No modo Hardcore, fique de olho nos seus medidores de desidratação (H2O), fome (FOD) e privação de sono (SLP). Se deixá-los subir demais, você pode sofrer penalidades sérias, incluindo a morte!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6B",
+      "FORMID": "166D6B",
+      "EDID": "StripLoadScreen02",
+      "DESC": "Viajantes dizem que há duas maneiras de entrar na Strip de New Vegas: por Freeside ou via o monotrilho para o Acampamento McCarran. Apenas militares e VIPs da NCR podem usar o monotrilho."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D6A",
+      "FORMID": "166D6A",
+      "EDID": "AmmoLoadScreen01",
+      "DESC": "Munição .38 Special pode ser disparada de qualquer arma que use .357 Magnum. Da mesma forma, .44 Special pode ser disparada de qualquer arma que use .44 Magnum e .223 pode ser disparada de qualquer arma que use 5.56mm."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D69",
+      "FORMID": "166D69",
+      "EDID": "MojaveExpressLoadScreen",
+      "DESC": "Os mensageiros da Mojave Express transportam pacotes regular e rapidamente entre caixas de entrega convenientes (para os Ermos de Mojave) em várias comunidades."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D68",
+      "FORMID": "166D68",
+      "EDID": "FactionArmorLoadScreen01",
+      "DESC": "Usar roupas associadas a facções importantes pode ser um disfarce eficaz... ou uma boa maneira de levar um tiro, dependendo da companhia presente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D67",
+      "FORMID": "166D67",
+      "EDID": "FollowersLoadScreen01",
+      "DESC": "Os Seguidores do Apocalipse são uma organização com raízes no Boneyard pré-NCR. Dedicados a ensinar os pobres e curar os doentes, eles também são considerados revolucionários anarquistas por muitas pessoas em posições de poder."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D66",
+      "FORMID": "166D66",
+      "EDID": "MrHouseLoadScreen01",
+      "DESC": "O Sr. House é o misterioso soberano da Strip. Ele controla seu pequeno império dos confins do cassino Lucky 38, onde nenhuma outra pessoa viva pisou por mais de duzentos anos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D65",
+      "FORMID": "166D65",
+      "EDID": "VexillariusLoadScreen01",
+      "DESC": "Não é comum vê-los nas linhas de frente, o vexillarius é um porta-estandarte da Legião de Caesar. Sua presença no campo de batalha inspira os legionários a lutar até a morte pela glória de Caesar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D64",
+      "FORMID": "166D64",
+      "EDID": "LegionariesLoadScreen01",
+      "DESC": "Legionários são os soldados padrão na Legião de Caesar. Seu nível de experiência e resistência geral podem ser determinados observando a cor de suas armaduras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D63",
+      "FORMID": "166D63",
+      "EDID": "CenturionsLoadScreen01",
+      "DESC": "Os comandantes mais confiáveis de Caesar são os centuriões: oficiais de linha de frente experientes em batalha que se vestem com armaduras remendadas, montadas a partir de seus inimigos caídos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D62",
+      "FORMID": "166D62",
+      "EDID": "ExplorersLoadScreen01",
+      "DESC": "Exploradores são os batedores avançados de Caesar. Normalmente equipados com armadura leve e binóculos, eles são os mensageiros da Legião e seus olhos atentos por todo o Mojave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D61",
+      "FORMID": "166D61",
+      "EDID": "TroopersLoadScreen01",
+      "DESC": "Os Soldados são forças voluntárias e recrutadas nas forças armadas da NCR. Eles variam muito em devoção, experiência e até mesmo em equipamento básico. O que lhes falta em consistência, eles compensam em número."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D60",
+      "FORMID": "166D60",
+      "EDID": "RangersLoadScreen01",
+      "DESC": "Os Rangers da República da Nova Califórniasão forças especiais de elite voluntárias, renomadas tanto por suas astutas capacidades de reconhecimento quanto por sua bravura e proeza em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5F",
+      "FORMID": "166D5F",
+      "EDID": "VipersJackalsLoadScreen01",
+      "DESC": "Brutalizados pela NCR, as outrora lendárias gangues Vipers e Jackals se tornaram pouco mais que saqueadores oportunistas e mesquinhos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5E",
+      "FORMID": "166D5E",
+      "EDID": "GreatKhansLoadScreen01",
+      "DESC": "Embora tenham tido um histórico turbulento, os lendários Grandes Khans são uma das gangues mais longevas a surgir do sudoeste."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5D",
+      "FORMID": "166D5D",
+      "EDID": "BrotherhoodLoadScreen01",
+      "DESC": "Embora seu poder no oeste tenha diminuído muito com o passar dos anos, a Irmandade do Aço ainda mantém bunkers escondidos e fortemente fortificados por toda a Mojave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5C",
+      "FORMID": "166D5C",
+      "EDID": "KimballLoadScreen01",
+      "DESC": "Aaron Kimball é um ex-herói de guerra e o atual presidente da New California Republic. Sua insistência em defender a Represa Hoover tem mantido as tropas da NCR em Nevada por anos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5B",
+      "FORMID": "166D5B",
+      "EDID": "GeneralLoadScreen14",
+      "DESC": "Em 2277, as forças da NCR derrotaram a Legião de Caesar durante a Batalha da Represa Hoover. A NCR mantém a Represa Hoover desde então, mas a Legião não tem tornado as coisas fáceis para eles."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D5A",
+      "FORMID": "166D5A",
+      "EDID": "ScienceLoadScreen10",
+      "DESC": "Nas bancadas de trabalho, a perícia Ciência pode ajudar você a reciclar munição de armas de energia e criar outros itens úteis, como Estimulantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D59",
+      "FORMID": "166D59",
+      "EDID": "CombatLoadScreen15",
+      "DESC": "Todas as armas têm dois requisitos: Força e Perícia. Se você não atender aos requisitos, a arma pode ser menos precisa (se for uma arma de fogo) ou atacar mais lentamente (se for uma Arma Desarmada ou Corpo a Corpo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1209CE",
+      "FORMID": "1209CE",
+      "EDID": "ExplosivesLoadScreen04",
+      "DESC": "Apesar de dependerem de energia para ferir suas vítimas, Minas de Plasma, Granadas PEM e itens relacionados usam a perícia Explosivos para determinar sua eficácia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B7",
+      "FORMID": "1133B7",
+      "EDID": "ModsLoadScreen02",
+      "DESC": "Mods de armas podem aumentar a capacidade de munição e dano, reduzir a dispersão e o peso, ou adicionar equipamentos especiais como miras telescópicas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B6",
+      "FORMID": "1133B6",
+      "EDID": "ModsLoadScreen01",
+      "DESC": "Uma grande variedade de modificações de armas estão disponíveis de comerciantes para Armas de Fogo, Armas de Energia e até mesmo alguns Explosivos. Anexá-las é tão simples quanto usar seu Pip-Boy e abrir o menu de modificação para sua arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B5",
+      "FORMID": "1133B5",
+      "EDID": "RepairLoadScreen11",
+      "DESC": "Com 75% de Condição, uma arma nunca irá travar e causa dano máximo. Com 50% de Condição, a armadura protege contra dano máximo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B4",
+      "FORMID": "1133B4",
+      "EDID": "StrengthLoadScreen10",
+      "DESC": "Se você não atender ao requisito de Força de uma arma, sua precisão ou velocidade de ataque podem ser menores."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B3",
+      "FORMID": "1133B3",
+      "EDID": "CombatLoadScreen14",
+      "DESC": "O DPS de uma arma é seu Dano Por Segundo e é calculado usando o dano base da arma (modificado pela condição), sua perícia com a arma e a cadência de tiro da arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B2",
+      "FORMID": "1133B2",
+      "EDID": "EnergyWeaponsLoadScreen04",
+      "DESC": "Armas de Energia são menos comuns e variadas que Armas, mas têm poucos tipos de munição e podem ser bem potentes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B1",
+      "FORMID": "1133B1",
+      "EDID": "EnergyWeaponsLoadScreen03",
+      "DESC": "A maioria das Armas de Energia se encaixa em uma de duas categorias: laser, que é rápida, precisa e causa pouco dano, e plasma, que é lenta e causa muito dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133B0",
+      "FORMID": "1133B0",
+      "EDID": "UnarmedLoadScreen10",
+      "DESC": "Combatentes talentosos em combate desarmado nos Ermos de Mojave podem ensinar estilos de luta especializados para aprimorar suas habilidades."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133AF",
+      "FORMID": "1133AF",
+      "EDID": "MeleeWeaponsLoadScreen11",
+      "DESC": "Quando a perícia de Armas Brancas do seu personagem atingir 50, você poderá realizar ataques poderosos especiais e golpes no V.A.T.S. com diferentes Armas Brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133AE",
+      "FORMID": "1133AE",
+      "EDID": "MeleeWeaponsLoadScreen10",
+      "DESC": "A maioria das armas brancas são completamente silenciosas, o que as torna excelentes armas furtivas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133AD",
+      "FORMID": "1133AD",
+      "EDID": "GunsLoadScreen10",
+      "DESC": "Armas de Fogo são as armas de longo alcance mais comuns no Ermo. São numerosas e variadas, e a munição é relativamente fácil de adquirir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133AB",
+      "FORMID": "1133AB",
+      "EDID": "ExplosivesLoadScreen03",
+      "DESC": "Armas explosivas são melhores para lidar com multidões ou em situações onde a precisão não é uma prioridade alta."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1133AA",
+      "FORMID": "1133AA",
+      "EDID": "CombatLoadScreen13",
+      "DESC": "Não sabe qual perícia uma arma usa? Olhe no canto inferior esquerdo do ícone dela no seu Pip-Boy e compare com as perícias de armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:113188",
+      "FORMID": "113188",
+      "EDID": "NCREmbassyLoadScreen01",
+      "DESC": "A NCR mantém uma embaixada na Strip há vários anos, mas teve pouco sucesso em construir relações amigáveis com Sr. House ou as famílias governantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:113187",
+      "FORMID": "113187",
+      "EDID": "StripLoadScreen01",
+      "DESC": "O Strip é o coração de New Vegas, onde Sr. House e as famílias dos cassinos estão reconstruindo a cidade à imagem de sua antiga glória Pré-Guerra."
+    },
+    {
+      "FORM": "@FalloutNV.esm:113186",
+      "FORMID": "113186",
+      "EDID": "FreesideLoadScreen01",
+      "DESC": "Freeside foi construída ao redor do cruzamento da Fremont Street e da Las Vegas Boulevard. O influxo de viajantes indigentes nos últimos meses tem causado problemas para seus moradores."
+    },
+    {
+      "FORM": "@FalloutNV.esm:113180",
+      "FORMID": "113180",
+      "EDID": "OldMormonFortLoadScreen01",
+      "DESC": "O Forte Mórmon Velho é o edifício mais antigo de New Vegas e foi ocupado recentemente pelos Seguidores do Apocalipse."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF403",
+      "FORMID": "0EF403",
+      "EDID": "GeneralLoadScreen13",
+      "DESC": "Todo território a leste do Rio Colorado é reconhecido como terra de Caesar, uma área indiscutivelmente sob o controle da Legião e agentes agindo em nome de Caesar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF402",
+      "FORMID": "0EF402",
+      "EDID": "GeneralLoadScreen12",
+      "DESC": "O Posto Avançado Mojave é o local onde os Rangers da NCR e os Desert Rangers de Nevada assinaram o Tratado de Unificação Ranger. Também marca a fronteira do território totalmente controlado pela NCR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF401",
+      "FORMID": "0EF401",
+      "EDID": "GeneralLoadScreen11",
+      "DESC": "As famílias que agora comandam a Strip de New Vegas eram pouco mais que tribos brigando há algumas décadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF400",
+      "FORMID": "0EF400",
+      "EDID": "GeneralLoadScreen10",
+      "DESC": "Estabelecida há muito tempo na Califórnia, a Companhia Caravana Carmesim e os Contrabandistas de Armas são duas das mais antigas e poderosas casas mercantes da NCR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF3FF",
+      "FORMID": "0EF3FF",
+      "EDID": "GeneralLoadScreen09",
+      "DESC": "Na Batalha da Represa Hoover, a maré virou para a NCR quando os rangers e os atiradores de elite da 1st Recon atraíram os soldados de Caesar para as ruínas cheias de armadilhas de Boulder City."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C73CC",
+      "FORMID": "0C73CC",
+      "EDID": "CreatureLoadScreen17",
+      "DESC": "Desative o Inibidor de Combate de um robô, e a máquina confusa entrará em frenesi assassino, atacando amigos e inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9CF6",
+      "FORMID": "0A9CF6",
+      "EDID": "CreatureLoadScreen16",
+      "DESC": "Tornados selvagens pelo uso excessivo de estimulantes, os Demônios de New Vegas são os saqueadores mais numerosos e problemáticos dos Ermos de Mojave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9CF5",
+      "FORMID": "0A9CF5",
+      "EDID": "CreatureLoadScreen15",
+      "DESC": "Devido aos seus brutais rituais de iniciação, os Grandes Khans são extremamente durões. Não espere que eles caiam facilmente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9CF4",
+      "FORMID": "0A9CF4",
+      "EDID": "CreatureLoadScreen14",
+      "DESC": "Cazadores are a new predator in the Mojave Wasteland and often fight with Nightstalkers over their prey."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A3424",
+      "FORMID": "0A3424",
+      "EDID": "StealthLoadScreen03",
+      "DESC": "A luz gerada pelo seu Pip-Boy na verdade te deixa menos furtivo. Se quiser se esgueirar com eficácia, desligue-o."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A3423",
+      "FORMID": "0A3423",
+      "EDID": "GeneralLoadScreen04",
+      "DESC": "Pressione e segure o botão do seu Pip-Boy para ligar e desligar a luz do Pip-Boy."
+    },
+    {
+      "FORM": "@FalloutNV.esm:088498",
+      "FORMID": "088498",
+      "EDID": "CombatLoadScreen11",
+      "DESC": "O DANO de uma arma indica seu dano por tiro, e é modificado por fatores como a condição da arma e a perícia associada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D80",
+      "FORMID": "080D80",
+      "EDID": "CreatureLoadScreen13",
+      "DESC": "O Robocérebro, construído pela General Atomics International antes da grande guerra nuclear, é único por usar um cérebro orgânico de verdade como seu processador central."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7F",
+      "FORMID": "080D7F",
+      "EDID": "CreatureLoadScreen12",
+      "DESC": "O modelo Protectron robusto de robô foi criado antes da Grande Guerra e servia como autômato de segurança nos setores privado e comercial."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7E",
+      "FORMID": "080D7E",
+      "EDID": "CreatureLoadScreen11",
+      "DESC": "O modelo de robô Mr. Gutsy foi encomendado pelo Exército dos EUA pouco antes do apocalipse atômico de 2077."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7D",
+      "FORMID": "080D7D",
+      "EDID": "CreatureLoadScreen10",
+      "DESC": "Lakelurks usam um ataque sônico devastador para debilitar seus inimigos de longe."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7C",
+      "FORMID": "080D7C",
+      "EDID": "CreatureLoadScreen09",
+      "DESC": "Um Ser Iluminado é um Necrótico Feral único que se tornou um condutor vivo de radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7B",
+      "FORMID": "080D7B",
+      "EDID": "CreatureLoadScreen08",
+      "DESC": "Necróticos, tanto \"normais\" quanto Ferais, não são apenas imunes à radiação... eles são curados por ela."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D7A",
+      "FORMID": "080D7A",
+      "EDID": "CreatureLoadScreen07",
+      "DESC": "Necróticos Ferais perderam a capacidade de raciocinar e atacarão qualquer humano à vista."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D79",
+      "FORMID": "080D79",
+      "EDID": "CreatureLoadScreen06",
+      "DESC": "Securitrons são uma criação de Sr. House, o enigmático governante de facto de New Vegas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D78",
+      "FORMID": "080D78",
+      "EDID": "CreatureLoadScreen05",
+      "DESC": "Apesar dos melhores esforços de caçadores bem equipados, Destroçadores continuam a estabelecer ninhos pelos Ermos de Mojave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D77",
+      "FORMID": "080D77",
+      "EDID": "CreatureLoadScreen04",
+      "DESC": "Cães e coiotes podem ser encontrados por toda a Mojave, normalmente onde quer que humanos estejam viajando."
+    },
+    {
+      "FORM": "@FalloutNV.esm:080D76",
+      "FORMID": "080D76",
+      "EDID": "CreatureLoadScreen03",
+      "DESC": "Supermutantes nos Ermos de Mojave são remanescentes do Exército do Mestre e das experiências da Enclave na Base Militar de Mariposa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F5B3",
+      "FORMID": "07F5B3",
+      "EDID": "CreatureLoadScreen02",
+      "DESC": "Desativar as antenas de insetos, como Formigas Gigantes ou Louva-a-Deus Gigantes, fará com que entrem em frenesi e ataquem tudo por perto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F5B2",
+      "FORMID": "07F5B2",
+      "EDID": "CreatureLoadScreen01",
+      "DESC": "Nightstalkers are fearsome nocturnal predators created by splicing together coyote and rattlesnake DNA."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC9",
+      "FORMID": "07CBC9",
+      "EDID": "PerkLoadScreen48",
+      "DESC": "With each rank of the Toughness perk, you gain +3 to your Damage Threshold."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC8",
+      "FORMID": "07CBC8",
+      "EDID": "PerkLoadScreen47",
+      "DESC": "Cansado de ter que largar equipamento para voltar à loja? Com a vantagem \"Transporte Longo\", você pode viajar rapidamente mesmo quando estiver sobrecarregado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC7",
+      "FORMID": "07CBC7",
+      "EDID": "PerkLoadScreen46",
+      "DESC": "A vantagem Etiqueta! permite que você selecione uma quarta Perícia para ser uma Perícia de Etiqueta, o que significa que ela aumenta imediatamente em 15 pontos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC6",
+      "FORMID": "07CBC6",
+      "EDID": "PerkLoadScreen45",
+      "DESC": "Com cada nível na vantagem Aprendiz Rápido, você ganha 10% adicionais ao total de Pontos de Experiência sempre que ganhar Pontos de Experiência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC5",
+      "FORMID": "07CBC5",
+      "EDID": "PerkLoadScreen44",
+      "DESC": "Com a vantagem \"Costas Fortes\", você pode carregar 25 quilos a mais de equipamento."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC4",
+      "FORMID": "07CBC4",
+      "EDID": "PerkLoadScreen43",
+      "DESC": "Com a vantagem \"Energia Solar\", você ganha 2 pontos adicionais de Força quando estiver sob luz solar direta e regenera lentamente a Saúde perdida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC3",
+      "FORMID": "07CBC3",
+      "EDID": "PerkLoadScreen42",
+      "DESC": "Com a Vantagem \"Atirador\", sua chance de acertar a cabeça de um oponente no V.A.T.S. aumenta consideravelmente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC2",
+      "FORMID": "07CBC2",
+      "EDID": "PerkLoadScreen41",
+      "DESC": "Com a vantagem \"Corrida Silenciosa\", correr não afeta mais o sucesso de uma tentativa de furtividade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC1",
+      "FORMID": "07CBC1",
+      "EDID": "PerkLoadScreen40",
+      "DESC": "Com a vantagem \"Catador\", você encontrará consideravelmente mais munição em contêineres do que normalmente encontraria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBC0",
+      "FORMID": "07CBC0",
+      "EDID": "PerkLoadScreen39",
+      "DESC": "The Meltdown perk creates a damaging corona of energy every time you kill a target with Energy Weapons."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBBF",
+      "FORMID": "07CBBF",
+      "EDID": "PerkLoadScreen38",
+      "DESC": "Com a vantagem \"Especialista em Robótica\", você causa 25% de dano adicional a qualquer robô em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBBE",
+      "FORMID": "07CBBE",
+      "EDID": "PerkLoadScreen37",
+      "DESC": "Resistência à Radiação permite que você -- o que mais? -- resista à radiação. Esta Vantagem concede 25% adicionais à Resistência à Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBBC",
+      "FORMID": "07CBBC",
+      "EDID": "PerkLoadScreen35",
+      "DESC": "Com a vantagem \"Piromaníaco\", você causa +50% de dano com armas de fogo, como o Lança-chamas e o Shishkebab."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBBB",
+      "FORMID": "07CBBB",
+      "EDID": "PerkLoadScreen34",
+      "DESC": "Com a vantagem \"Palma Paralisante\", você às vezes executará um golpe especial de palma no V.A.T.S. que paralisa seu oponente por 30 segundos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBBA",
+      "FORMID": "07CBBA",
+      "EDID": "PerkLoadScreen33",
+      "DESC": "A vantagem Ninja concede a você o poder dos lendários guerreiros das sombras e aumenta sua chance de realizar acertos críticos, bem como o dano de cada um."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB9",
+      "FORMID": "07CBB9",
+      "EDID": "PerkLoadScreen32",
+      "DESC": "Já te sacanearam o bastante! Com a vantagem \"Fúria Nerd\", sua Força aumenta para 10 e você ganha 15 pontos de Limiar de Dano sempre que sua Saúde cair para 20% ou menos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB8",
+      "FORMID": "07CBB8",
+      "EDID": "PerkLoadScreen31",
+      "DESC": "Com a vantagem \"Estranho Misterioso\", seu próprio anjo da guarda pessoal aparecerá ocasionalmente no modo V.A.T.S. para dar uma mão... com eficiência mortal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB7",
+      "FORMID": "07CBB7",
+      "EDID": "PerkLoadScreen30",
+      "DESC": "Com a vantagem \"Sutileza\", você ganha +5% de chance adicional de acertar um golpe crítico em um oponente em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB6",
+      "FORMID": "07CBB6",
+      "EDID": "PerkLoadScreen29",
+      "DESC": "Com a vantagem \"Sr. Sandman\", você pode realizar um movimento especial que mata instantaneamente qualquer personagem adormecido e ganhará XP bônus por fazê-lo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB5",
+      "FORMID": "07CBB5",
+      "EDID": "PerkLoadScreen28",
+      "DESC": "Quando você pega a vantagem Rato de Carga, o peso de todos os itens leves é reduzido pela metade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB4",
+      "FORMID": "07CBB4",
+      "EDID": "PerkLoadScreen27",
+      "DESC": "Com a vantagem \"Amigo da Noite\", você ganha visão em baixa luminosidade depois que o sol se põe."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB3",
+      "FORMID": "07CBB3",
+      "EDID": "PerkLoadScreen26",
+      "DESC": "A vantagem \"O Matador\" aumenta a velocidade dos seus ataques com todas as Armas Brancas e Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBB2",
+      "FORMID": "07CBB2",
+      "EDID": "PerkLoadScreen25",
+      "DESC": "A vantagem Fúria Matemática otimiza a lógica do V.A.T.S. do seu Pip-Boy, reduzindo todos os custos de PA em 10%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C346",
+      "FORMID": "07C346",
+      "EDID": "PerkLoadScreen24",
+      "DESC": "Com a vantagem \"Passos Leves\", você nunca ativará minas ou armadilhas mecânicas de chão de inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C345",
+      "FORMID": "07C345",
+      "EDID": "PerkLoadScreen23",
+      "DESC": "Com o bônus Doador de Vida, você ganhará um bônus de 30 Pontos de Vida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C344",
+      "FORMID": "07C344",
+      "EDID": "PerkLoadScreen22",
+      "DESC": "Com a vantagem \"Barriga de Chumbo\", você recebe 50% menos radiação toda vez que beber de uma fonte de água irradiada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C343",
+      "FORMID": "07C343",
+      "EDID": "PerkLoadScreen21",
+      "DESC": "Depois de ter a vantagem Arremesso Potente, todas as armas de arremesso podem ser jogadas muito mais longe."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C342",
+      "FORMID": "07C342",
+      "EDID": "PerkLoadScreen20",
+      "DESC": "Falhou em uma tentativa de hackear e foi bloqueado de um computador? Não se você for um Gênio da Computação! Com essa vantagem, você pode tentar re-hackear qualquer computador do qual foi bloqueado anteriormente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C341",
+      "FORMID": "07C341",
+      "EDID": "PerkLoadScreen19",
+      "DESC": "With the Plasma Spaz perk, all AP costs for plasma weapons (including grenades) are reduced by 20%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C340",
+      "FORMID": "07C340",
+      "EDID": "PerkLoadScreen18",
+      "DESC": "Com a vantagem \"Treinamento Intenso\", você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33F",
+      "FORMID": "07C33F",
+      "EDID": "PerkLoadScreen17",
+      "DESC": "Com a vantagem \"Infiltrador\", você ganha mais uma chance de abrir qualquer fechadura quebrada por uma tentativa malsucedida de \"Forçar Fechadura\"."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33E",
+      "FORMID": "07C33E",
+      "EDID": "PerkLoadScreen16",
+      "DESC": "Com a vantagem \"Cowboy\", atacar inimigos com revólveres, armas de ação por alavanca, dinamite, facas e machadinhas causa +25% de dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33D",
+      "FORMID": "07C33D",
+      "EDID": "PerkLoadScreen15",
+      "DESC": "A vantagem \"Aqui e Agora\" concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33C",
+      "FORMID": "07C33C",
+      "EDID": "PerkLoadScreen14",
+      "DESC": "Com a vantagem \"Achados e Perdidos\", você encontrará muito mais tampinhas de Nuka-Cola em contêineres do que normalmente encontraria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33B",
+      "FORMID": "07C33B",
+      "EDID": "PerkLoadScreen13",
+      "DESC": "A vantagem \"Correr e Atirar\" reduz as penalidades de precisão com armas de fogo de uma mão e armas de energia ao andar ou correr."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C33A",
+      "FORMID": "07C33A",
+      "EDID": "PerkLoadScreen12",
+      "DESC": "Quando você escolhe a perk Explorador, todos os locais no mundo são revelados no seu mapa. Então, saia por aí e explore!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C339",
+      "FORMID": "07C339",
+      "EDID": "PerkLoadScreen11",
+      "DESC": "Com a vantagem \"Entomologista\", você causa +50% de dano adicional toda vez que atacar um inseto mutante."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C338",
+      "FORMID": "07C338",
+      "EDID": "PerkLoadScreen10",
+      "DESC": "Com a vantagem \"Instruído\", você ganha dois pontos de habilidade extras toda vez que avança de nível."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C337",
+      "FORMID": "07C337",
+      "EDID": "PerkLoadScreen09",
+      "DESC": "Com cada nível da vantagem Demolidor, todas as suas armas explosivas causam 20% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C335",
+      "FORMID": "07C335",
+      "EDID": "PerkLoadScreen07",
+      "DESC": "A vantagem Retenção aumenta muito a duração das revistas que aprimoram habilidades."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C334",
+      "FORMID": "07C334",
+      "EDID": "PerkLoadScreen06",
+      "DESC": "Com Fogo Concentrado, sua precisão de acertar qualquer parte do corpo no V.A.T.S. aumenta ligeiramente a cada acerto subsequente naquela parte do corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C333",
+      "FORMID": "07C333",
+      "EDID": "PerkLoadScreen05",
+      "DESC": "Com a vantagem \"Compreensão\", você ganha mais pontos de perícia ao ler revistas de perícia e um ponto de perícia adicional sempre que um livro de perícias é lido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C206",
+      "FORMID": "07C206",
+      "EDID": "GeneralLoadScreen08",
+      "DESC": "Duas rotas principais levam à cidade de New Vegas, vindo do sul: Interstate 15 e Highway 95."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE9C",
+      "FORMID": "07AE9C",
+      "EDID": "PerkLoadScreen03",
+      "DESC": "Com a vantagem \"Críticos Aprimorados\", você ganha um bônus de dano de 50% toda vez que um acerto crítico é realizado em um oponente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE9B",
+      "FORMID": "07AE9B",
+      "EDID": "PerkLoadScreen02",
+      "DESC": "Com a vantagem \"Garoto de Ação\", você ganha 15 Pontos de Ação adicionais para usar no V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE9A",
+      "FORMID": "07AE9A",
+      "EDID": "PerkLoadScreen01",
+      "DESC": "Com a vantagem \"Amigo dos Animais\", você nunca será vítima de um ataque não provocado por nenhum animal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE99",
+      "FORMID": "07AE99",
+      "EDID": "StealthLoadScreen02",
+      "DESC": "Furtividade é afetada por muitos fatores, incluindo o nível de luz, o som gerado, o peso e o volume das roupas usadas e a linha de visão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE98",
+      "FORMID": "07AE98",
+      "EDID": "CrimeLoadScreen01",
+      "DESC": "O exército da NCR não gosta de ser o \"pacificador\". Crimes por toda a Mojave normalmente são punidos com a morte."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE97",
+      "FORMID": "07AE97",
+      "EDID": "CombatLoadScreen10",
+      "DESC": "Pegar o bolso de alguém e colocar uma mina ou granada no inventário dessa pessoa vai ativar o explosivo... e causar uma baita bagunça."
+    },
+    {
+      "FORM": "@FalloutNV.esm:075D20",
+      "FORMID": "075D20",
+      "EDID": "CombatLoadScreen09",
+      "DESC": "Quer impedir que um inimigo fuja? Detone as pernas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:075BE4",
+      "FORMID": "075BE4",
+      "EDID": "GeneralLoadScreen07",
+      "DESC": "Aumentar a dificuldade do jogo tornará o combate mais desafiador, mas não afeta a quantidade de XP que você recebe."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07385B",
+      "FORMID": "07385B",
+      "EDID": "StealthLoadScreen01",
+      "DESC": "Correr é mais barulhento que andar e faz com que você seja detectado mais facilmente, mesmo se estiver se esgueirando."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07385A",
+      "FORMID": "07385A",
+      "EDID": "GeneralLoadScreen03",
+      "DESC": "Beber água fornece cura, mas pode aumentar seu nível de radiação. No Modo Hardcore, beber água é vital para manter seu nível de desidratação baixo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073858",
+      "FORMID": "073858",
+      "EDID": "CombatLoadScreen08",
+      "DESC": "Uma arma com DPS alto, mas DANO baixo, é melhor usada contra oponentes sem armadura."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073857",
+      "FORMID": "073857",
+      "EDID": "GeneralLoadScreen01",
+      "DESC": "Você pode restaurar a Saúde usando um Stimpak, comendo, bebendo de uma fonte de água ou dormindo em uma cama."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073856",
+      "FORMID": "073856",
+      "EDID": "CombatLoadScreen06",
+      "DESC": "Se suas armas não forem fortes o bastante para penetrar a armadura de um inimigo, use munição perfurante, ataque furtivamente ou use uma arma com DPM maior!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:073855",
+      "FORMID": "073855",
+      "EDID": "CombatLoadScreen05",
+      "DESC": "Armas de duas mãos e vestimentas médias ou pesadas vão te deixar mais lento quando estiverem equipadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073854",
+      "FORMID": "073854",
+      "EDID": "CombatLoadScreen04",
+      "DESC": "No Modo Casual, danos nos membros podem ser reparados diretamente aplicando Stimpaks nas áreas afetadas, usando o Pip-Boy. No Modo Hardcore, é preciso uma Maleta de Médico ou um médico de verdade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073853",
+      "FORMID": "073853",
+      "EDID": "CombatLoadScreen03",
+      "DESC": "Para condições ideais de tiro, pare, agache e mire antes de atirar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073852",
+      "FORMID": "073852",
+      "EDID": "CombatLoadScreen02",
+      "DESC": "Conserte suas armas e armaduras regularmente. Quanto pior o estado delas, pior o desempenho."
+    },
+    {
+      "FORM": "@FalloutNV.esm:073851",
+      "FORMID": "073851",
+      "EDID": "CombatLoadScreen01",
+      "DESC": "Você pode correr mais rápido com suas armas de duas mãos embainhadas. Armas de uma mão não vão te deixar mais lento."
+    },
+    {
+      "FORM": "@FalloutNV.esm:070602",
+      "FORMID": "070602",
+      "EDID": "CombatLoadScreen12",
+      "DESC": "Se começar uma briga que não puder terminar, tente guardar sua arma. Seu oponente pode acabar perdoando você..."
+    },
+    {
+      "FORM": "@FalloutNV.esm:06123B",
+      "FORMID": "06123B",
+      "EDID": "PerkLoadScreen49",
+      "DESC": "Se você tiver a vantagem Especialista em Robótica e se aproximar sorrateiramente de um robô hostil sem ser detectado, poderá colocar esse robô em um estado de desligamento permanente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:06123A",
+      "FORMID": "06123A",
+      "EDID": "StealthLoadScreen04",
+      "DESC": "Se quiser ficar escondido, fique nas sombras, mova-se devagar, tente ficar atrás do seu oponente... e desligue a luz do seu Pip-Boy!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:061236",
+      "FORMID": "061236",
+      "EDID": "RepairLoadScreen10",
+      "DESC": "Quando suas armas e armaduras atingirem um certo nível de condição, sua habilidade de Reparo pode ser usada para mantê-las, conservando-as com o máximo de poder por mais tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:06120F",
+      "FORMID": "06120F",
+      "EDID": "PerkLoadScreen01a",
+      "DESC": "Com o segundo nível da vantagem Amigo dos Animais, animais virão em seu auxílio em combate (mas não contra outros animais)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:06120E",
+      "FORMID": "06120E",
+      "EDID": "PerceptionLoadScreen10",
+      "DESC": "Percepção determina quando marcas de verificação vermelhas (que indicam ameaças) aparecem na sua bússola."
+    },
+    {
+      "FORM": "@FalloutNV.esm:061204",
+      "FORMID": "061204",
+      "EDID": "MedicineLoadScreen10",
+      "DESC": "A perícia Medicina determina a eficácia de drogas que ajudam a controlar a radiação, como Rad-X e RadAway."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0611F9",
+      "FORMID": "0611F9",
+      "EDID": "IntelligenceLoadScreen10",
+      "DESC": "Inteligência determina sua efetividade nas habilidades Ciência, Conserto e Medicina."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0611F8",
+      "FORMID": "0611F8",
+      "EDID": "GeneralLoadScreen05",
+      "DESC": "Dormir em uma cama alugada ou própria lhe dará um bônus de \"Descanso Reparador\" que aumenta o XP ganho por várias horas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0611AF",
+      "FORMID": "0611AF",
+      "EDID": "CrimeLoadScreen02",
+      "DESC": "Se alguém vir você cometendo um crime contra a facção deles, espere que sua reputação com esse grupo seja prejudicada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0610FE",
+      "FORMID": "0610FE",
+      "EDID": "CreatureLoadScreen19",
+      "DESC": "Mr. Gutsy é uma variante de combate do popular Mr. Handy e está equipado com uma arma de plasma e lança-chamas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0610FD",
+      "FORMID": "0610FD",
+      "EDID": "CreatureLoadScreen18",
+      "DESC": "Um Iluminado usa sua habilidade especial para irradiar seus inimigos e curar quaisquer Necrófagos Selvagens próximos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0610FC",
+      "FORMID": "0610FC",
+      "EDID": "AgilityLoadScreen10",
+      "DESC": "Agilidade melhora a velocidade de recarregamento, saque e coldre de armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:051DF1",
+      "FORMID": "051DF1",
+      "EDID": "GeneralLoadScreen06",
+      "DESC": "As coisas estão um pouco difíceis demais, ou fáceis demais? Você pode pausar o jogo e modificar a dificuldade a qualquer momento."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3CA",
+      "FORMID": "02B3CA",
+      "EDID": "StrengthLoadScreen09",
+      "DESC": "Força é uma medida do seu poder físico bruto. Ela afeta o quanto você pode carregar, o poder de todos os ataques corpo a corpo e sua eficácia com muitas armas pesadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3C6",
+      "FORMID": "02B3C6",
+      "EDID": "SpeechLoadScreen09",
+      "DESC": "A perícia Oratória determina o quanto você pode influenciar alguém através do diálogo e obter acesso a informações que, de outra forma, essa pessoa não gostaria de compartilhar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3C2",
+      "FORMID": "02B3C2",
+      "EDID": "SneakLoadScreen09",
+      "DESC": "A perícia Lockpick é usada para abrir portas e contêineres trancados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3BE",
+      "FORMID": "02B3BE",
+      "EDID": "GunsLoadScreen09",
+      "DESC": "Armas determina sua eficácia com qualquer arma que use munição convencional (.22 LR, .357 Magnum, 5 mm, 10 mm, 5,56 mm, .308, .45-70 Gov't etc.)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3BA",
+      "FORMID": "02B3BA",
+      "EDID": "ScienceLoadScreen09",
+      "DESC": "A perícia Ciência representa seu conhecimento científico combinado e é usada principalmente para hackear terminais de computador restritos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3B6",
+      "FORMID": "02B3B6",
+      "EDID": "RepairLoadScreen09",
+      "DESC": "A perícia Reparo permite que você otimize e mantenha armas e vestimentas. Em Bancadas de Recarga, ela também permite que você crie munição para suas Armas de Fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3AE",
+      "FORMID": "02B3AE",
+      "EDID": "PerceptionLoadScreen09",
+      "DESC": "Uma Percepção alta concede um bônus nas habilidades Explosivos, Lockpick e Armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3AA",
+      "FORMID": "02B3AA",
+      "EDID": "MeleeWeaponsLoadScreen09",
+      "DESC": "A perícia em Armas Brancas determina sua eficácia com qualquer arma branca, desde o simples cano de chumbo até o Supermartelo de alta tecnologia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3A6",
+      "FORMID": "02B3A6",
+      "EDID": "MedicineLoadScreen09",
+      "DESC": "A perícia Medicina determina a eficácia de um Stimpak, Super Stimpak e Maleta de Médico usados para curar a Saúde ou membros danificados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B3A1",
+      "FORMID": "02B3A1",
+      "EDID": "UnarmedLoadScreen09",
+      "DESC": "A perícia Desarmado é usada para lutar sem armas, ou com armas projetadas para combate corpo a corpo, como Soqueiras, Punhos Energéticos e Luvas Deslocadoras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B39D",
+      "FORMID": "02B39D",
+      "EDID": "LuckLoadScreen09",
+      "DESC": "Aumentar sua Sorte aumenta todos os seus valores de habilidade e melhora sua Chance Crítica com todas as armas. Também influencia levemente o resultado de jogos de azar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B399",
+      "FORMID": "02B399",
+      "EDID": "LockpickLoadScreen09",
+      "DESC": "A perícia Lockpick é usada para abrir portas e contêineres trancados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B395",
+      "FORMID": "02B395",
+      "EDID": "IntelligenceLoadScreen09",
+      "DESC": "Quanto maior sua Inteligência, mais Pontos de Perícia você poderá distribuir ao subir de nível."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B389",
+      "FORMID": "02B389",
+      "EDID": "EnduranceLoadScreen09",
+      "DESC": "Uma Resistência alta concede bônus à Saúde, resistências ambientais e às habilidades Sobrevivência e Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02AE47",
+      "FORMID": "02AE47",
+      "EDID": "CharismaLoadScreen09",
+      "DESC": "Carisma alto concede bônus às habilidades de Troca e Oratória, bem como à Coragem dos seus companheiros."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02AE38",
+      "FORMID": "02AE38",
+      "EDID": "AgilityLoadScreen09",
+      "DESC": "Agilidade afeta suas habilidades de Armas e Furtividade, bem como o número de Pontos de Ação disponíveis para o V.A.T.S"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021876",
+      "FORMID": "021876",
+      "EDID": "ExplosivesLoadScreen02",
+      "DESC": "A perícia Explosivos determina a facilidade de desarmar qualquer mina hostil e a eficácia de qualquer arma explosiva (todas as minas, todas as granadas, Lança-Mísseis, Fat Man, etc.)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:021872",
+      "FORMID": "021872",
+      "EDID": "EnergyWeaponsLoadScreen02",
+      "DESC": "A perícia em Armas de Energia determina sua eficácia com qualquer arma que use Células de Energia, Células de Microfusão, Pacotes de EC, Gerador de Microfusão ou Combustível de Lança-chamas como munição."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02186A",
+      "FORMID": "02186A",
+      "EDID": "BarterLoadScreen02",
+      "DESC": "Em geral, quanto maior sua habilidade de Troca, menores serão os preços dos itens comprados. Ela também pode ser usada para negociar recompensas melhores em conversas."
+    }
+  ]
+}

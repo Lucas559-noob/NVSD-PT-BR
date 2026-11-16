@@ -1,0 +1,316 @@
+{
+  "TACT": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790C5",
+      "FORMID": "0790C5",
+      "EDID": "DLC04TheBrainSpeaker",
+      "FULL": "Loud Speaker"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE5C",
+      "FORMID": "00EE5C",
+      "EDID": "MS15ArchivesIntercom04B",
+      "FULL": "Archives Intercom"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE5B",
+      "FORMID": "00EE5B",
+      "EDID": "MS15ArchivesIntercom03B",
+      "FULL": "Archives Intercom"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE5A",
+      "FORMID": "00EE5A",
+      "EDID": "MS15ArchivesIntercom02B",
+      "FULL": "Archives Intercom"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE59",
+      "FORMID": "00EE59",
+      "EDID": "MS15ArchivesIntercom01B",
+      "FULL": "Archives Intercom"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE58",
+      "FORMID": "00EE58",
+      "EDID": "MuseumTech03PlanetariumTalker",
+      "FULL": "Alto-falante do Planetário"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009310",
+      "FORMID": "009310",
+      "EDID": "TTWIntercomR",
+      "FULL": "Intercom"
+    },
+    {
+      "FORM": "@Zeta.esm:003F1E",
+      "FORMID": "003F1E",
+      "EDID": "DLC05AlienRadioBeacon",
+      "FULL": "Farol Zeta da Nave de Reconhecimento"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D502",
+      "FORMID": "00D502",
+      "EDID": "DLC03PresMetroLoudSpeaker",
+      "FULL": "Alto-falante do Metrô Presidencial"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157B1",
+      "FORMID": "0157B1",
+      "EDID": "NVDLC03X8Intercom03",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157B0",
+      "FORMID": "0157B0",
+      "EDID": "NVDLC03X8TunnelIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157AF",
+      "FORMID": "0157AF",
+      "EDID": "NVDLC03X8SchoolIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118B6",
+      "FORMID": "0118B6",
+      "EDID": "NVDLC03X8Intercom02",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010717",
+      "FORMID": "010717",
+      "EDID": "NVDLC03ThinkTankTalkingActivator",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F428",
+      "FORMID": "00F428",
+      "EDID": "NVDLC03ForbiddenTalkingActivator",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E704",
+      "FORMID": "00E704",
+      "EDID": "NVDLC03SinkAutoDoc",
+      "FULL": "Auto-Doc do Sink"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E703",
+      "FORMID": "00E703",
+      "EDID": "NVDLC03SinkMainComputer",
+      "FULL": "Unidade Central de Inteligência do Tanque"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E702",
+      "FORMID": "00E702",
+      "EDID": "NVDLC03SinkBioResearchStation",
+      "FULL": "Estação de Pesquisa Biológica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E701",
+      "FORMID": "00E701",
+      "EDID": "NVDLC03SinkJukeBoxTA",
+      "FULL": "Jefferson Díodo Cego"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E700",
+      "FORMID": "00E700",
+      "EDID": "NVDLC03SinkBookChute",
+      "FULL": "Eclusa de Livros"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6FF",
+      "FORMID": "00E6FF",
+      "EDID": "NVDLC03SinkSink",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6FD",
+      "FORMID": "00E6FD",
+      "EDID": "NVDLC03SinkLightSwitch01",
+      "FULL": "Interruptor de Luz 01"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6FC",
+      "FORMID": "00E6FC",
+      "EDID": "NVDLC03SinkLightSwitch02",
+      "FULL": "Interruptor de Luz 02"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6FA",
+      "FORMID": "00E6FA",
+      "EDID": "NVDLC03SinkToasterofDoom",
+      "FULL": "Torradeira"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5CC",
+      "FORMID": "00E5CC",
+      "EDID": "NVDLC03X8Intercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00ACFC",
+      "FORMID": "00ACFC",
+      "EDID": "NVDLC03PlayerBrainTank",
+      "FULL": "Seu Cérebro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013FC3",
+      "FORMID": "013FC3",
+      "EDID": "NVDLC01PSElijahIntercom",
+      "FULL": "Pai Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A42",
+      "FORMID": "013A42",
+      "EDID": "NVDLC01ElijahTalkingActivator",
+      "FULL": "Pai Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013858",
+      "FORMID": "013858",
+      "EDID": "NVDLC01ElijahRestaurantIntercom",
+      "FULL": "Intercomunicador Quebrado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013857",
+      "FORMID": "013857",
+      "EDID": "NVDLC01ElijahTheaterTalkingActivator",
+      "FULL": "Intercomunicador Quebrado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013856",
+      "FORMID": "013856",
+      "EDID": "NVDLC01ElijahSuitesIntercom",
+      "FULL": "Intercomunicador Quebrado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E46",
+      "FORMID": "012E46",
+      "EDID": "NVDLC01ChristineVaultTalkingActivator",
+      "FULL": "Ativador de Voz da Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E45",
+      "FORMID": "012E45",
+      "EDID": "NVDLC01DeanVaultTalkingActivator",
+      "FULL": "Ativador de Voz do Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C8",
+      "FORMID": "0120C8",
+      "EDID": "NVDLC01GalaDialogueActivator",
+      "FULL": "Painel de Controle do Evento de Gala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B00",
+      "FORMID": "011B00",
+      "EDID": "NVDLC01OfficeIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011AFF",
+      "FORMID": "011AFF",
+      "EDID": "NVDLC01LobbyIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DFEB",
+      "FORMID": "00DFEB",
+      "EDID": "NVDLC01RestaurantIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEDF",
+      "FORMID": "00CEDF",
+      "EDID": "NVDLC01ElijahVaultTalkingActivator",
+      "FULL": "Interfone de Segurança do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AD99",
+      "FORMID": "00AD99",
+      "EDID": "NVDLC01SuitesIntercom",
+      "FULL": "Intercomunicador Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164BEA",
+      "FORMID": "164BEA",
+      "EDID": "vLucky38AlarmWomanTA",
+      "FULL": "Alarme"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163127",
+      "FORMID": "163127",
+      "EDID": "VHELIOSARCHIMEDESTalker",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F9BD",
+      "FORMID": "15F9BD",
+      "EDID": "VLilyGrandkidsRecording",
+      "FULL": "Gravação dos Netos de Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15867A",
+      "FORMID": "15867A",
+      "EDID": "HanlonSuicideRadio",
+      "FULL": "Transmissão de Suicídio de Hanlon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12954C",
+      "FORMID": "12954C",
+      "EDID": "VTopsPresidentialIntercom",
+      "FULL": "Interfone de Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCD88",
+      "FORMID": "0FCD88",
+      "EDID": "VMS08MonorailTalker",
+      "FULL": "Gravação do Monotrilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F627A",
+      "FORMID": "0F627A",
+      "EDID": "VMcCarranLupaTalker",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD67B",
+      "FORMID": "0CD67B",
+      "EDID": "REPCONInteriorIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B16D4",
+      "FORMID": "0B16D4",
+      "EDID": "Intercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD59",
+      "FORMID": "0ACD59",
+      "EDID": "HVIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C708",
+      "FORMID": "07C708",
+      "EDID": "MamaDolceRadioBeacon",
+      "FULL": "Rádio da República Popular da América"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04692A",
+      "FORMID": "04692A",
+      "EDID": "MQ08FawkesCellIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02485B",
+      "FORMID": "02485B",
+      "EDID": "MS16Radio101",
+      "FULL": "Rádio 101"
+    }
+  ]
+}

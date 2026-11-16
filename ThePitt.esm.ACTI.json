@@ -1,0 +1,220 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@ThePitt.esm:00B131",
+      "FORMID": "00B131",
+      "EDID": "DLC01AshurBroadcastRadio",
+      "FULL": "Alto-Falante"
+    },
+    {
+      "FORM": "@ThePitt.esm:003A4A",
+      "FORMID": "003A4A",
+      "EDID": "DLC01DCSlaveGateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00619F",
+      "FORMID": "00619F",
+      "EDID": "DLC01SteelPlateActivator",
+      "FULL": "Lingote de Aço"
+    },
+    {
+      "FORM": "@ThePitt.esm:006169",
+      "FORMID": "006169",
+      "EDID": "DLC01FrontGateEnterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:003303",
+      "FORMID": "003303",
+      "EDID": "DLC01BridgeRadTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:0032DC",
+      "FORMID": "0032DC",
+      "EDID": "DLC01ArenaControlAct",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:0032DB",
+      "FORMID": "0032DB",
+      "EDID": "DLC01AshurSpeechTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E45",
+      "FORMID": "002E45",
+      "EDID": "DLC01PittArrivalTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E44",
+      "FORMID": "002E44",
+      "EDID": "DLC01MarketSquareGateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA63",
+      "FORMID": "00AA63",
+      "EDID": "DLC01LightsOutChainActivatorDisable",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A862",
+      "FORMID": "00A862",
+      "EDID": "DLC01HavenExitTrigger",
+      "FULL": "Ativador de Saída do Refúgio"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A84E",
+      "FORMID": "00A84E",
+      "EDID": "DLC01PowerPlantPodSwitch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A84D",
+      "FORMID": "00A84D",
+      "EDID": "DLC01ProtectronPodFailsafeTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A73F",
+      "FORMID": "00A73F",
+      "EDID": "DLC01DowntownAmbushControl",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A71E",
+      "FORMID": "00A71E",
+      "EDID": "DLC01HavenInsideTrigger",
+      "FULL": "Ativador de Entrada do Refúgio"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A60A",
+      "FORMID": "00A60A",
+      "EDID": "DLC01TunnelHandcartPitt",
+      "FULL": "Carrinho de Mão"
+    },
+    {
+      "FORM": "@ThePitt.esm:006163",
+      "FORMID": "006163",
+      "EDID": "DLC01WernherPostAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:007D7D",
+      "FORMID": "007D7D",
+      "EDID": "DLC01TunnelHandcartDC",
+      "FULL": "Carrinho de Mão"
+    },
+    {
+      "FORM": "@ThePitt.esm:007D79",
+      "FORMID": "007D79",
+      "EDID": "DLC01DCSlavePenJumpInTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:001555",
+      "FORMID": "001555",
+      "EDID": "DLC01BridgeSlaveEscapeTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:001074",
+      "FORMID": "001074",
+      "EDID": "DLC01AmbushControlTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:001070",
+      "FORMID": "001070",
+      "EDID": "DLC01AmbushStartTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F3D",
+      "FORMID": "000F3D",
+      "EDID": "DLC01WernherCrib",
+      "FULL": "Berço"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F37",
+      "FORMID": "000F37",
+      "EDID": "DLC01LightControl",
+      "FULL": "Disjuntor de Controle da Energia do Refúgio"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F35",
+      "FORMID": "000F35",
+      "EDID": "DLC01AshurCrib",
+      "FULL": "Berço de Marie"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B84C",
+      "FORMID": "00B84C",
+      "EDID": "DLC01ProtectronPodFailsafeTrig02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B849",
+      "FORMID": "00B849",
+      "EDID": "DLC01ProtectronPodFailsafeTrig04",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B846",
+      "FORMID": "00B846",
+      "EDID": "DLC01ProtectronPodFailsafeTrig03",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00787A",
+      "FORMID": "00787A",
+      "EDID": "DLC01Conveyor02",
+      "FULL": "Esteira"
+    },
+    {
+      "FORM": "@ThePitt.esm:005CEB",
+      "FORMID": "005CEB",
+      "EDID": "DLC01Press",
+      "FULL": "Prensa de Aço"
+    },
+    {
+      "FORM": "@ThePitt.esm:005951",
+      "FORMID": "005951",
+      "EDID": "DLC01Q3SceneTrigger",
+      "FULL": "Gatilho da Cena de Ashur"
+    },
+    {
+      "FORM": "@ThePitt.esm:006C30",
+      "FORMID": "006C30",
+      "EDID": "DLC01Q3MideaMeetingTrigger",
+      "FULL": "Gatilho de Encontro com Midea"
+    },
+    {
+      "FORM": "@ThePitt.esm:00504F",
+      "FORMID": "00504F",
+      "EDID": "DLC01SteelMillExtTrogEnablerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:006336",
+      "FORMID": "006336",
+      "EDID": "DLC01Conveyor",
+      "FULL": "Esteira"
+    },
+    {
+      "FORM": "@ThePitt.esm:0054FD",
+      "FORMID": "0054FD",
+      "EDID": "DLC01RadioTowerSceneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B3C8",
+      "FORMID": "00B3C8",
+      "EDID": "DLC01MideaCrib",
+      "FULL": "Berço"
+    }
+  ]
+}

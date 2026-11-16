@@ -1,0 +1,1102 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@ThePitt.esm:007F9B",
+      "FORMID": "007F9B",
+      "EDID": "DLC01SlaveCF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:004149",
+      "FORMID": "004149",
+      "EDID": "DLC01LvlWildmenMelee",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:004148",
+      "FORMID": "004148",
+      "EDID": "DLC01LvlWildmenGun",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:00413B",
+      "FORMID": "00413B",
+      "EDID": "DLC01Phantom",
+      "FULL": "Fantasma"
+    },
+    {
+      "FORM": "@ThePitt.esm:003E50",
+      "FORMID": "003E50",
+      "EDID": "DLC01Spook",
+      "FULL": "Assombração"
+    },
+    {
+      "FORM": "@ThePitt.esm:003E4F",
+      "FORMID": "003E4F",
+      "EDID": "DLC01Hammer",
+      "FULL": "Martelo"
+    },
+    {
+      "FORM": "@ThePitt.esm:003E4D",
+      "FORMID": "003E4D",
+      "EDID": "DLC01Friday",
+      "FULL": "Sexta-Feira"
+    },
+    {
+      "FORM": "@ThePitt.esm:003E4C",
+      "FORMID": "003E4C",
+      "EDID": "DLC01Bone",
+      "FULL": "Osso"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F9A",
+      "FORMID": "007F9A",
+      "EDID": "DLC01SlaveAM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F99",
+      "FORMID": "007F99",
+      "EDID": "DLC01SlaveAF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F98",
+      "FORMID": "007F98",
+      "EDID": "DLC01SlaveAAM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:0038A8",
+      "FORMID": "0038A8",
+      "EDID": "DLC01ArenaAnnouncer",
+      "FULL": "Locutor da Arena"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F97",
+      "FORMID": "007F97",
+      "EDID": "DLC01SlaveAAF1TEMPLATE",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F95",
+      "FORMID": "007F95",
+      "EDID": "DLC01Raider3RifleHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F94",
+      "FORMID": "007F94",
+      "EDID": "DLC01Raider3RifleHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:003435",
+      "FORMID": "003435",
+      "EDID": "DLC01FF005Guard",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:003433",
+      "FORMID": "003433",
+      "EDID": "DLC01FF005Slave",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F93",
+      "FORMID": "007F93",
+      "EDID": "DLC01Raider3RifleCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:0032E5",
+      "FORMID": "0032E5",
+      "EDID": "DLC01RaiderDead",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F92",
+      "FORMID": "007F92",
+      "EDID": "DLC01Raider3RifleCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F91",
+      "FORMID": "007F91",
+      "EDID": "DLC01Raider3RifleAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F90",
+      "FORMID": "007F90",
+      "EDID": "DLC01Raider3RifleAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8F",
+      "FORMID": "007F8F",
+      "EDID": "DLC01Raider3RifleAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8E",
+      "FORMID": "007F8E",
+      "EDID": "DLC01Raider3RifleAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8D",
+      "FORMID": "007F8D",
+      "EDID": "DLC01Raider3SpecialHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8C",
+      "FORMID": "007F8C",
+      "EDID": "DLC01Raider3SpecialCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8B",
+      "FORMID": "007F8B",
+      "EDID": "DLC01Raider3SpecialAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F8A",
+      "FORMID": "007F8A",
+      "EDID": "DLC01Raider3SpecialAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:002E21",
+      "FORMID": "002E21",
+      "EDID": "DLC01FF001Guard2",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:002BDB",
+      "FORMID": "002BDB",
+      "EDID": "DLC01SlaveDead",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F89",
+      "FORMID": "007F89",
+      "EDID": "DLC01Raider3SpecialHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F88",
+      "FORMID": "007F88",
+      "EDID": "DLC01Raider3SpecialCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F87",
+      "FORMID": "007F87",
+      "EDID": "DLC01Raider3SpecialAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F86",
+      "FORMID": "007F86",
+      "EDID": "DLC01Raider3SpecialAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:002944",
+      "FORMID": "002944",
+      "EDID": "DLC01FF002Guard",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:002941",
+      "FORMID": "002941",
+      "EDID": "DLC01FF001Guard",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:002940",
+      "FORMID": "002940",
+      "EDID": "DLC01FF004TaskMaster",
+      "FULL": "Escravo Mestre"
+    },
+    {
+      "FORM": "@ThePitt.esm:00293E",
+      "FORMID": "00293E",
+      "EDID": "DLC01FF003ConspiratorA",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00293D",
+      "FORMID": "00293D",
+      "EDID": "DLC01FF001Thief",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00293C",
+      "FORMID": "00293C",
+      "EDID": "DLC01FF002Victim",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00293B",
+      "FORMID": "00293B",
+      "EDID": "DLC01FF003ConspiratorLeader",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00293A",
+      "FORMID": "00293A",
+      "EDID": "DLC01FF003ConspiratorLookout",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F85",
+      "FORMID": "007F85",
+      "EDID": "DLC01Raider3MeleeHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F84",
+      "FORMID": "007F84",
+      "EDID": "DLC01Raider3MeleeHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F83",
+      "FORMID": "007F83",
+      "EDID": "DLC01Raider3MeleeCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F82",
+      "FORMID": "007F82",
+      "EDID": "DLC01Raider3MeleeCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F81",
+      "FORMID": "007F81",
+      "EDID": "DLC01Raider3MeleeAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F80",
+      "FORMID": "007F80",
+      "EDID": "DLC01Raider3MeleeAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7F",
+      "FORMID": "007F7F",
+      "EDID": "DLC01Raider3MeleeAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7E",
+      "FORMID": "007F7E",
+      "EDID": "DLC01Raider3MeleeAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7D",
+      "FORMID": "007F7D",
+      "EDID": "DLC01Raider3GunHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00220A",
+      "FORMID": "00220A",
+      "EDID": "DLC01LvlSlaveWasteland",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7C",
+      "FORMID": "007F7C",
+      "EDID": "DLC01Raider3GunHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7B",
+      "FORMID": "007F7B",
+      "EDID": "DLC01Raider3GunCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:001578",
+      "FORMID": "001578",
+      "EDID": "DLC01BridgeEscapeSlave04",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:001561",
+      "FORMID": "001561",
+      "EDID": "DLC01BridgeEscapeSlave03",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00155F",
+      "FORMID": "00155F",
+      "EDID": "DLC01BridgeEscapeSlave02",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:001558",
+      "FORMID": "001558",
+      "EDID": "DLC01BridgeEscapeSlave01",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:001557",
+      "FORMID": "001557",
+      "EDID": "DLC01BridgeEscapeSlavesTemplate",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F7A",
+      "FORMID": "007F7A",
+      "EDID": "DLC01Raider3GunCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F79",
+      "FORMID": "007F79",
+      "EDID": "DLC01Raider3GunAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F78",
+      "FORMID": "007F78",
+      "EDID": "DLC01Raider3GunAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F77",
+      "FORMID": "007F77",
+      "EDID": "DLC01Raider3GunAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F76",
+      "FORMID": "007F76",
+      "EDID": "DLC01Raider3GunAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F75",
+      "FORMID": "007F75",
+      "EDID": "DLC01Raider2RifleHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F74",
+      "FORMID": "007F74",
+      "EDID": "DLC01Raider2RifleHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F22",
+      "FORMID": "000F22",
+      "EDID": "DLC01testSlaveGuard01",
+      "FULL": "Guarda de Escravos"
+    },
+    {
+      "FORM": "@ThePitt.esm:000F1F",
+      "FORMID": "000F1F",
+      "EDID": "DLC01testSlaveGuard02",
+      "FULL": "Guarda de Escravos"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F73",
+      "FORMID": "007F73",
+      "EDID": "DLC01Raider2RifleCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F72",
+      "FORMID": "007F72",
+      "EDID": "DLC01Raider2RifleCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F71",
+      "FORMID": "007F71",
+      "EDID": "DLC01Raider2RifleAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F70",
+      "FORMID": "007F70",
+      "EDID": "DLC01Raider2RifleAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6F",
+      "FORMID": "007F6F",
+      "EDID": "DLC01Raider2RifleAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6E",
+      "FORMID": "007F6E",
+      "EDID": "DLC01Raider2RifleAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6D",
+      "FORMID": "007F6D",
+      "EDID": "DLC01Raider2MeleeHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6C",
+      "FORMID": "007F6C",
+      "EDID": "DLC01Raider2MeleeHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6B",
+      "FORMID": "007F6B",
+      "EDID": "DLC01Raider2MeleeCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F6A",
+      "FORMID": "007F6A",
+      "EDID": "DLC01Raider2MeleeCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B65D",
+      "FORMID": "00B65D",
+      "EDID": "DLC01CombatSlaveHM3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B65C",
+      "FORMID": "00B65C",
+      "EDID": "DLC01CombatSlaveHF3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B65B",
+      "FORMID": "00B65B",
+      "EDID": "DLC01CombatSlaveCM3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B65A",
+      "FORMID": "00B65A",
+      "EDID": "DLC01CombatSlaveCF3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B659",
+      "FORMID": "00B659",
+      "EDID": "DLC01CombatSlaveAM3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B658",
+      "FORMID": "00B658",
+      "EDID": "DLC01CombatSlaveAF3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B657",
+      "FORMID": "00B657",
+      "EDID": "DLC01CombatSlaveAAM3",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B656",
+      "FORMID": "00B656",
+      "EDID": "DLC01CombatSlaveAAF3TEMPLATE",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B655",
+      "FORMID": "00B655",
+      "EDID": "DLC01CombatSlaveHM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B654",
+      "FORMID": "00B654",
+      "EDID": "DLC01CombatSlaveHF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B653",
+      "FORMID": "00B653",
+      "EDID": "DLC01CombatSlaveCM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B652",
+      "FORMID": "00B652",
+      "EDID": "DLC01CombatSlaveCF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B651",
+      "FORMID": "00B651",
+      "EDID": "DLC01CombatSlaveAM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B650",
+      "FORMID": "00B650",
+      "EDID": "DLC01CombatSlaveAF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64F",
+      "FORMID": "00B64F",
+      "EDID": "DLC01CombatSlaveAAM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64E",
+      "FORMID": "00B64E",
+      "EDID": "DLC01CombatSlaveAAF2TEMPLATE",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64D",
+      "FORMID": "00B64D",
+      "EDID": "DLC01CombatSlaveHM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64C",
+      "FORMID": "00B64C",
+      "EDID": "DLC01CombatSlaveHF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64B",
+      "FORMID": "00B64B",
+      "EDID": "DLC01CombatSlaveCM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B64A",
+      "FORMID": "00B64A",
+      "EDID": "DLC01CombatSlaveCF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B649",
+      "FORMID": "00B649",
+      "EDID": "DLC01CombatSlaveAM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B648",
+      "FORMID": "00B648",
+      "EDID": "DLC01CombatSlaveAF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B647",
+      "FORMID": "00B647",
+      "EDID": "DLC01CombatSlaveAAM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B646",
+      "FORMID": "00B646",
+      "EDID": "DLC01CombatSlaveAAF1TEMPLATE",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F69",
+      "FORMID": "007F69",
+      "EDID": "DLC01Raider2MeleeAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F68",
+      "FORMID": "007F68",
+      "EDID": "DLC01Raider2MeleeAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F67",
+      "FORMID": "007F67",
+      "EDID": "DLC01Raider2MeleeAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B594",
+      "FORMID": "00B594",
+      "EDID": "DLC01FF003ConspiratorC",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B593",
+      "FORMID": "00B593",
+      "EDID": "DLC01FF003ConspiratorB",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F66",
+      "FORMID": "007F66",
+      "EDID": "DLC01Raider2MeleeAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F65",
+      "FORMID": "007F65",
+      "EDID": "dlc01Raider2GunHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F64",
+      "FORMID": "007F64",
+      "EDID": "dlc01Raider2GunHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F63",
+      "FORMID": "007F63",
+      "EDID": "dlc01Raider2GunCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F62",
+      "FORMID": "007F62",
+      "EDID": "dlc01Raider2GunCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F61",
+      "FORMID": "007F61",
+      "EDID": "dlc01Raider2GunAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F60",
+      "FORMID": "007F60",
+      "EDID": "dlc01Raider2GunAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5F",
+      "FORMID": "007F5F",
+      "EDID": "dlc01Raider2GunAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5E",
+      "FORMID": "007F5E",
+      "EDID": "dlc01Raider2GunAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5D",
+      "FORMID": "007F5D",
+      "EDID": "dlc01Raider2SpecialHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5C",
+      "FORMID": "007F5C",
+      "EDID": "dlc01Raider2SpecialCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5B",
+      "FORMID": "007F5B",
+      "EDID": "dlc01Raider2SpecialAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F5A",
+      "FORMID": "007F5A",
+      "EDID": "dlc01Raider2SpecialAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F59",
+      "FORMID": "007F59",
+      "EDID": "dlc01Raider2SpecialHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F58",
+      "FORMID": "007F58",
+      "EDID": "dlc01Raider2SpecialCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F57",
+      "FORMID": "007F57",
+      "EDID": "dlc01Raider2SpecialAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F56",
+      "FORMID": "007F56",
+      "EDID": "dlc01Raider2SpecialAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F55",
+      "FORMID": "007F55",
+      "EDID": "dlc01Raider1RifleHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B381",
+      "FORMID": "00B381",
+      "EDID": "DLC01FF008SlaveHurt",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B35B",
+      "FORMID": "00B35B",
+      "EDID": "DLC01FF008Guard",
+      "FULL": "Guarda"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F54",
+      "FORMID": "007F54",
+      "EDID": "dlc01Raider1RifleHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B161",
+      "FORMID": "00B161",
+      "EDID": "DLC01FF007Slave",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F53",
+      "FORMID": "007F53",
+      "EDID": "dlc01Raider1RifleCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F52",
+      "FORMID": "007F52",
+      "EDID": "dlc01Raider1RifleCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F51",
+      "FORMID": "007F51",
+      "EDID": "dlc01Raider1RifleAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F50",
+      "FORMID": "007F50",
+      "EDID": "dlc01Raider1RifleAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4F",
+      "FORMID": "007F4F",
+      "EDID": "dlc01Raider1RifleAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4E",
+      "FORMID": "007F4E",
+      "EDID": "dlc01Raider1RifleAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4D",
+      "FORMID": "007F4D",
+      "EDID": "dlc01Raider1MeleeHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4C",
+      "FORMID": "007F4C",
+      "EDID": "dlc01Raider1MeleeHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4B",
+      "FORMID": "007F4B",
+      "EDID": "dlc01Raider1MeleeCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F4A",
+      "FORMID": "007F4A",
+      "EDID": "dlc01Raider1MeleeCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F49",
+      "FORMID": "007F49",
+      "EDID": "dlc01Raider1MeleeAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F48",
+      "FORMID": "007F48",
+      "EDID": "dlc01Raider1MeleeAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F47",
+      "FORMID": "007F47",
+      "EDID": "dlc01Raider1MeleeAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F46",
+      "FORMID": "007F46",
+      "EDID": "dlc01Raider1MeleeAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F45",
+      "FORMID": "007F45",
+      "EDID": "DLC01Raider1GunHM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F44",
+      "FORMID": "007F44",
+      "EDID": "DLC01Raider1GunHF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F43",
+      "FORMID": "007F43",
+      "EDID": "DLC01Raider1GunCM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A7C0",
+      "FORMID": "00A7C0",
+      "EDID": "DLC01AshurGuard",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F42",
+      "FORMID": "007F42",
+      "EDID": "DLC01Raider1GunCF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F41",
+      "FORMID": "007F41",
+      "EDID": "DLC01Raider1GunAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F40",
+      "FORMID": "007F40",
+      "EDID": "DLC01Raider1GunAF",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F3F",
+      "FORMID": "007F3F",
+      "EDID": "DLC01Raider1GunAAM",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00A608",
+      "FORMID": "00A608",
+      "EDID": "DLC01SlaveDead02",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F3E",
+      "FORMID": "007F3E",
+      "EDID": "DLC01Raider1GunAAFTEMPLATE",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:0071AF",
+      "FORMID": "0071AF",
+      "EDID": "DLC01ArenaCombatant01b",
+      "FULL": "Lutador Escravo"
+    },
+    {
+      "FORM": "@ThePitt.esm:007EC2",
+      "FORMID": "007EC2",
+      "EDID": "DLC01LvWildmenGunPatrolCasual",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:0071AE",
+      "FORMID": "0071AE",
+      "EDID": "DLC01ArenaCombatant01a",
+      "FULL": "Lutador Escravo"
+    },
+    {
+      "FORM": "@ThePitt.esm:009F4A",
+      "FORMID": "009F4A",
+      "EDID": "DLC01WildBillDead",
+      "FULL": "Bill, O Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:0071AD",
+      "FORMID": "0071AD",
+      "EDID": "DLC01ArenaCombatant01c",
+      "FULL": "Lutador Escravo"
+    },
+    {
+      "FORM": "@ThePitt.esm:009ACB",
+      "FORMID": "009ACB",
+      "EDID": "DLC01SlaveDeadPen",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:0054FA",
+      "FORMID": "0054FA",
+      "EDID": "DLC01LvlRadioTowerRaiderGun",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:006C18",
+      "FORMID": "006C18",
+      "EDID": "DLC01RaiderDead02",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:006840",
+      "FORMID": "006840",
+      "EDID": "DLC01FF006Guard",
+      "FULL": "Guarda"
+    },
+    {
+      "FORM": "@ThePitt.esm:00944E",
+      "FORMID": "00944E",
+      "EDID": "DLC01LvlWildmenMeleeDEAD",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:009416",
+      "FORMID": "009416",
+      "EDID": "DLC01LvlWildmenGunLead",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:009411",
+      "FORMID": "009411",
+      "EDID": "DLC01LvlWildmenMeleeCoward",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:009385",
+      "FORMID": "009385",
+      "EDID": "DLC01RaiderDeadLead",
+      "FULL": "Raider de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:009384",
+      "FORMID": "009384",
+      "EDID": "DLC01LvlSurvivorGunLead",
+      "FULL": "Homem Selvagem"
+    },
+    {
+      "FORM": "@ThePitt.esm:006838",
+      "FORMID": "006838",
+      "EDID": "DLC01FF006SlaveB",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:006837",
+      "FORMID": "006837",
+      "EDID": "DLC01FF006SlaveC",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:00682C",
+      "FORMID": "00682C",
+      "EDID": "DLC01FF006SlaveA",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:0071B1",
+      "FORMID": "0071B1",
+      "EDID": "DLC01ArenaCombatant03c",
+      "FULL": "Lutador Raider"
+    },
+    {
+      "FORM": "@ThePitt.esm:0071B0",
+      "FORMID": "0071B0",
+      "EDID": "DLC01ArenaCombatant03b",
+      "FULL": "Lutador Raider"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA6",
+      "FORMID": "007FA6",
+      "EDID": "DLC01SlaveHM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA5",
+      "FORMID": "007FA5",
+      "EDID": "DLC01SlaveHF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA4",
+      "FORMID": "007FA4",
+      "EDID": "DLC01SlaveCM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA3",
+      "FORMID": "007FA3",
+      "EDID": "DLC01SlaveCF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA2",
+      "FORMID": "007FA2",
+      "EDID": "DLC01SlaveAM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA1",
+      "FORMID": "007FA1",
+      "EDID": "DLC01SlaveAF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007FA0",
+      "FORMID": "007FA0",
+      "EDID": "DLC01SlaveAAM2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F9F",
+      "FORMID": "007F9F",
+      "EDID": "DLC01SlaveAAF2",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F9E",
+      "FORMID": "007F9E",
+      "EDID": "DLC01SlaveHM1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F9D",
+      "FORMID": "007F9D",
+      "EDID": "DLC01SlaveHF1",
+      "FULL": "Escravo de The Pitt"
+    },
+    {
+      "FORM": "@ThePitt.esm:007F9C",
+      "FORMID": "007F9C",
+      "EDID": "DLC01SlaveCM1",
+      "FULL": "Escravo de The Pitt"
+    }
+  ]
+}

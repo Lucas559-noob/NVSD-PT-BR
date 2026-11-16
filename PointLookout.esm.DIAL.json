@@ -1,0 +1,2086 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@PointLookout.esm:011131",
+      "FORMID": "011131",
+      "EDID": "DLC04TobarLocked1A",
+      "FULL": "Então é verdade? Por que você fez isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:011130",
+      "FORMID": "011130",
+      "EDID": "DLC04TobarLocked1B",
+      "FULL": "Você é um homem morto, seu filho da puta."
+    },
+    {
+      "FORM": "@PointLookout.esm:010F28",
+      "FORMID": "010F28",
+      "EDID": "DC04MQPQDesmondTLDoing",
+      "FULL": "O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010F27",
+      "FORMID": "010F27",
+      "EDID": "DC04MQPQDesmondTLFuture",
+      "FULL": "O que você vai fazer agora que ele está morto?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010F03",
+      "FORMID": "010F03",
+      "EDID": "DLC04TobarVendTickets2A",
+      "FULL": "Preciso de mais alguma coisa?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010F02",
+      "FORMID": "010F02",
+      "EDID": "DLC04TobarVendTickets2B",
+      "FULL": "Como eu vou voltar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010F01",
+      "FORMID": "010F01",
+      "EDID": "DLC04CatherineGreet1C",
+      "FULL": "E que tal nós evitarmos esforços e dizer que ela provavelmente está morta?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AB7",
+      "FORMID": "010AB7",
+      "EDID": "DLC04MarAboutFaithMom",
+      "FULL": "Minha mãe tinha uma passagem favorita na Bíblia. Apocalipse 21:6 - conhece?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A93",
+      "FORMID": "010A93",
+      "EDID": "DLC04MarAboutFaithPassRecite",
+      "FULL": "Claro, vamos ouvi-lo."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A92",
+      "FORMID": "010A92",
+      "EDID": "DLC04MarAboutFaithPassNevermind",
+      "FULL": "Melhor não."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A91",
+      "FORMID": "010A91",
+      "EDID": "DLC04MarAboutFaithCult",
+      "FULL": "Parece só mais um culto para mim."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A90",
+      "FORMID": "010A90",
+      "EDID": "DLC04MarAboutFaithPassage",
+      "FULL": "Você poderia recitar uma passagem?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8F",
+      "FORMID": "010A8F",
+      "EDID": "DLC04MarAboutFaithMission",
+      "FULL": "Qual exatamente é a sua missão?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8E",
+      "FORMID": "010A8E",
+      "EDID": "DLC04MarAboutFaithOrigins",
+      "FULL": "Como você se tornou uma missionária?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8D",
+      "FORMID": "010A8D",
+      "EDID": "DLC04MarAboutFaith00Top",
+      "FULL": "Eu quero saber sobre suas crenças."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8C",
+      "FORMID": "010A8C",
+      "EDID": "DLC04MarPtLookoutMedicalTents",
+      "FULL": "Você montou este acampamento?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8B",
+      "FORMID": "010A8B",
+      "EDID": "DLC04MarPtLookoutWhereYouFrom",
+      "FULL": "Você disse que não era daqui..."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A8A",
+      "FORMID": "010A8A",
+      "EDID": "DLC04MarPtLookoutLocals",
+      "FULL": "O que você acha dos habitantes?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A89",
+      "FORMID": "010A89",
+      "EDID": "DLC04MarPtLookout00TopLvl",
+      "FULL": "O que você acha de Point Lookout?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A88",
+      "FORMID": "010A88",
+      "EDID": "DLC04MarAbout00TopLvl",
+      "FULL": "Fale sobre você."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A87",
+      "FORMID": "010A87",
+      "EDID": "DLC04ObaBlackHallFamily",
+      "FULL": "Sua família se chama assim por causa desse lugar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A86",
+      "FORMID": "010A86",
+      "EDID": "DLC04ObaBlackHallArchitecture",
+      "FULL": "Quantos anos tem esse lugar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A85",
+      "FORMID": "010A85",
+      "EDID": "DLC04ObaQuest00TopLvl",
+      "FULL": "O que eu tenho que fazer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A84",
+      "FORMID": "010A84",
+      "EDID": "DLC04ObaBlackHall00TopLvl",
+      "FULL": "Fale sobre Blackhall Manor."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A39",
+      "FORMID": "010A39",
+      "EDID": "DLC04SubmitAlt01",
+      "FULL": "A senha é: \"Nunca Mais\"."
+    },
+    {
+      "FORM": "@PointLookout.esm:010A38",
+      "FORMID": "010A38",
+      "EDID": "DLC04SubmitAlt02",
+      "FULL": "A senha é: \"Ranúnculo\"."
+    },
+    {
+      "FORM": "@PointLookout.esm:010727",
+      "FORMID": "010727",
+      "EDID": "DLC04CathNadineWhere",
+      "FULL": "Alguma ideia de onde Nadine poderia estar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:01027D",
+      "FORMID": "01027D",
+      "EDID": "DLC04TobarVendTicketsYes",
+      "FULL": "Eu não tenho medo de nada. Vamos!"
+    },
+    {
+      "FORM": "@PointLookout.esm:01027C",
+      "FORMID": "01027C",
+      "EDID": "DLC04TobarVendTicketsNo",
+      "FULL": "Pensando bem, acho que passo."
+    },
+    {
+      "FORM": "@PointLookout.esm:010059",
+      "FORMID": "010059",
+      "EDID": "DLC04FF04TagYoureIt",
+      "FULL": "Peguei! Tá com você!"
+    },
+    {
+      "FORM": "@PointLookout.esm:010058",
+      "FORMID": "010058",
+      "EDID": "DLC04FF04TagStop",
+      "FULL": "Brincamos muito de pega-pega por hoje."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBDC",
+      "FORMID": "00FBDC",
+      "EDID": "DLC04ObaKrivKeepBook",
+      "FULL": "Ainda não decidi o que vou fazer com ele."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBDB",
+      "FORMID": "00FBDB",
+      "EDID": "DLC04ObaKrivGiveBook",
+      "FULL": "Dê as tampas, e eu dou o livro."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBDA",
+      "FORMID": "00FBDA",
+      "EDID": "DLC04ObaMarcellaTopic",
+      "FULL": "Uma mulher chamada Marcella me disse para pegar o livro."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD8",
+      "FORMID": "00FBD8",
+      "EDID": "DLC04MarKrivbeknih02",
+      "FULL": "Não sei do que você está falando, mulher. Saia da minha frente."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD7",
+      "FORMID": "00FBD7",
+      "EDID": "DLC04MarKrivQuestAgree",
+      "FULL": "Se eu recuperar o livro, vou considerar trazê-lo à você."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD6",
+      "FORMID": "00FBD6",
+      "EDID": "DLC04MarKrivMotives",
+      "FULL": "Por que você quer tanto isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD5",
+      "FORMID": "00FBD5",
+      "EDID": "DLC04MarKrivPayment",
+      "FULL": "Obadiah está me pagando. E você?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD4",
+      "FORMID": "00FBD4",
+      "EDID": "DLC04MarKrivbeknih01",
+      "FULL": "Krivbeknih? Do que você está falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD3",
+      "FORMID": "00FBD3",
+      "EDID": "DLC04MarKriv0Intro02",
+      "FULL": "Quem sabe. E se ele já o tiver?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FBD2",
+      "FORMID": "00FBD2",
+      "EDID": "DLC04MarKriv0Intro01",
+      "FULL": "Sim, isso é fato."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F930",
+      "FORMID": "00F930",
+      "EDID": "DLC04ObaQuestWhatPayment",
+      "FULL": "E o que eu ganho nessa barganha?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F92F",
+      "FORMID": "00F92F",
+      "EDID": "DLC04ObaIntroB02",
+      "FULL": "Na verdade não, eu costumo atirar primeiro e perguntar nunca."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F92E",
+      "FORMID": "00F92E",
+      "EDID": "DLC04ObaIntroB01",
+      "FULL": "Concordo plenamente."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F92D",
+      "FORMID": "00F92D",
+      "EDID": "DLC04ObadiahIntroAEnd02",
+      "FULL": "Vamos, fale. Ainda não me decidi."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F92C",
+      "FORMID": "00F92C",
+      "EDID": "DLC04ObadiahIntroAEnd01",
+      "FULL": "Claro, podemos conversar."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F911",
+      "FORMID": "00F911",
+      "EDID": "DLC04FF04Greeting2b",
+      "FULL": "Seus brinquedos podem funcionar nos habitantes locais, garoto. Mas em mim não."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F910",
+      "FORMID": "00F910",
+      "EDID": "DLC04FF04Greeting3b",
+      "FULL": "Você está começando a me irritar, garoto."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90F",
+      "FORMID": "00F90F",
+      "EDID": "DLC04FF04AboutTraps",
+      "FULL": "Onde aprendeu a fazer armadilhas como essa?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90E",
+      "FORMID": "00F90E",
+      "EDID": "DLC04FF04AboutGrowup",
+      "FULL": "Então Kenny, o que você quer ser quando crescer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90D",
+      "FORMID": "00F90D",
+      "EDID": "DLC04FF04Hideout",
+      "FULL": "Este parece ser um bom esconderijo. Eu poderia usá-lo para dormir e guardar meu equipamento."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90C",
+      "FORMID": "00F90C",
+      "EDID": "DLC04FF04HideoutChildAtHeart",
+      "FULL": "Ah, qual é! Não seja idiota. vai ser divertido!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90B",
+      "FORMID": "00F90B",
+      "EDID": "DLC04FF04Play",
+      "FULL": "Vamos brincar."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F90A",
+      "FORMID": "00F90A",
+      "EDID": "DLC04FF04PlayHideAndSeek",
+      "FULL": "Vamos brincar de esconde-esconde."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F909",
+      "FORMID": "00F909",
+      "EDID": "DLC04FF04PlayTag",
+      "FULL": "Vamos brincar de pega-pega."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F908",
+      "FORMID": "00F908",
+      "EDID": "DLC04FF04PlayNo",
+      "FULL": "Vamos brincar outra hora, tá?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F907",
+      "FORMID": "00F907",
+      "EDID": "DLC04FF04HideoutSpeech",
+      "FULL": "Eu não vou te machucar. Eu só preciso de um lugar para me esconder de vez em quando."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F906",
+      "FORMID": "00F906",
+      "EDID": "DLC04FF04HideoutTeddy",
+      "FULL": "Deve haver alguma maneira de provar que eu estou do seu lado. A propósito, você não estava sozinho?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F905",
+      "FORMID": "00F905",
+      "EDID": "DLC04FF04HideoutTeddyNo",
+      "FULL": "Desculpe garoto, meu trabalho não é recuperar ursinhos de pelúcia."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F904",
+      "FORMID": "00F904",
+      "EDID": "DLC04FF04HideoutCantTrust",
+      "FULL": "Belos instintos. Não sou de confiança mesmo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F903",
+      "FORMID": "00F903",
+      "EDID": "DLC04FF04TeddyMoveIn1",
+      "FULL": "Obrigado!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F902",
+      "FORMID": "00F902",
+      "EDID": "DLC04FF04TeddyMoveIn2",
+      "FULL": "Nah, eu não quero andar com uma criança. Mesmo assim obrigado."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3A1",
+      "FORMID": "00F3A1",
+      "EDID": "DLC04Croatoa1A",
+      "FULL": "Você tem algum truque agrícola secreto?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3A0",
+      "FORMID": "00F3A0",
+      "EDID": "DLC04Croatoa1B",
+      "FULL": "Acho que você e as plantas pensam igual, huh?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39F",
+      "FORMID": "00F39F",
+      "EDID": "DLC04NadineBrain",
+      "FULL": "Quem cortou minha cabeça?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39E",
+      "FORMID": "00F39E",
+      "EDID": "DLC04NadineTobarGreet2A",
+      "FULL": "Que filho da puta!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39D",
+      "FORMID": "00F39D",
+      "EDID": "DLC04NadineTobarGreet2B",
+      "FULL": "Como saberei se você está dizendo a verdade?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39C",
+      "FORMID": "00F39C",
+      "EDID": "DLC04NadineTobarGreet1A",
+      "FULL": "O que você fez?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39B",
+      "FORMID": "00F39B",
+      "EDID": "DLC04NadineTobarGreet1B",
+      "FULL": "Espera, Tobar fez isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F39A",
+      "FORMID": "00F39A",
+      "EDID": "DLC04NadineTobarGreet3A",
+      "FULL": "Então, o que você vai fazer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F399",
+      "FORMID": "00F399",
+      "EDID": "DLC04NadineTobarGreet3B",
+      "FULL": "Lembre-me de não mexer com você."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECE3",
+      "FORMID": "00ECE3",
+      "EDID": "DLC04FF06HostReg01",
+      "FULL": "Registrado para quê exatamente?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECE2",
+      "FORMID": "00ECE2",
+      "EDID": "DLC04FF06HostReg02",
+      "FULL": "Isso não me soa bem. Tô dando o fora daqui."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECE1",
+      "FORMID": "00ECE1",
+      "EDID": "DLC04FF06hostPayIncredulous",
+      "FULL": "Mil tampas? Isso é um ultraje!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECE0",
+      "FORMID": "00ECE0",
+      "EDID": "DLC04FF06hostPayRepeatable",
+      "FULL": "Isso foi divertido! Podemos fazer de novo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDF",
+      "FORMID": "00ECDF",
+      "EDID": "DLC04FF06hostPayRepfAccept",
+      "FULL": "500 tampas? Aqui está."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDE",
+      "FORMID": "00ECDE",
+      "EDID": "DLC04FF06hostPayRepReject",
+      "FULL": "Não importa."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDD",
+      "FORMID": "00ECDD",
+      "EDID": "DLC04FF06hostPayRepPoorhouse",
+      "FULL": "Estou com poucas tampas no momento..."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDC",
+      "FORMID": "00ECDC",
+      "EDID": "DLC04TonicQuestSample",
+      "FULL": "O que é isto afinal?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDB",
+      "FORMID": "00ECDB",
+      "EDID": "DLC04MargRepairAlreadyDone",
+      "FULL": "Na verdade, eu já cuidei disso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ECDA",
+      "FORMID": "00ECDA",
+      "EDID": "DLC04MargPlayingSickAlternate",
+      "FULL": "Lá vamos nós..."
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA3B",
+      "FORMID": "00EA3B",
+      "EDID": "DLC04Services",
+      "FULL": "Me mostre o que você tem para vender."
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA3A",
+      "FORMID": "00EA3A",
+      "EDID": "DLC04Repair",
+      "FULL": "Você poderia reparar algumas coisas para mim?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA39",
+      "FORMID": "00EA39",
+      "EDID": "DLC04HaleyGreeting1",
+      "FULL": "Algum problema?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA38",
+      "FORMID": "00EA38",
+      "EDID": "DLC04HaleyGreeting2",
+      "FULL": "Estou te deixando nervoso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA37",
+      "FORMID": "00EA37",
+      "EDID": "DLC04HaleyGreeting1a",
+      "FULL": "Quem são seus clientes?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA36",
+      "FORMID": "00EA36",
+      "EDID": "DLC04HaleyGreeting1b",
+      "FULL": "Então, há quanto tempo você tem esta loja?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA35",
+      "FORMID": "00EA35",
+      "EDID": "DLC04HaleyGreeting1c",
+      "FULL": "De onde você tira a sua mercadoria?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA34",
+      "FORMID": "00EA34",
+      "EDID": "DLC04HaleyGreeting1d",
+      "FULL": "Vamos mudar de assunto."
+    },
+    {
+      "FORM": "@PointLookout.esm:00EA33",
+      "FORMID": "00EA33",
+      "EDID": "DLC04HaleyAboutYou",
+      "FULL": "Eu queria falar com você, Haley."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E48D",
+      "FORMID": "00E48D",
+      "EDID": "DLC04MQ05BrainST150Greeting3",
+      "FULL": "Tudo em um dia de trabalho. Agora compartilhe sua sabedoria comigo!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E48C",
+      "FORMID": "00E48C",
+      "EDID": "DLC04MQ05BrainST150Greeting2",
+      "FULL": "Agora Desmond saberá que ninguém manda em mim."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E48B",
+      "FORMID": "00E48B",
+      "EDID": "DLC04MQ05BrainST150Greeting1",
+      "FULL": "Isso aí. E o que eu ganho com isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E48A",
+      "FORMID": "00E48A",
+      "EDID": "DLC04MQ05BrainST150Greeting1a",
+      "FULL": "Ah, só pode tá brincando."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E489",
+      "FORMID": "00E489",
+      "EDID": "DLC04MQ05BrainST150Greeting1b",
+      "FULL": "Não podemos conversar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E488",
+      "FORMID": "00E488",
+      "EDID": "DLC04MQ05BrainST150Greeting1c",
+      "FULL": "Meu pai sempre dizia: \"Nunca confie em um cérebro sem corpo.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00E487",
+      "FORMID": "00E487",
+      "EDID": "DLC04MQ05BrainBASEGreeting1a",
+      "FULL": "De que tipo de recompensa estamos falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E486",
+      "FORMID": "00E486",
+      "EDID": "DLC04MQ05BrainBASEGreeting1b",
+      "FULL": "O que há com vocês dois?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E485",
+      "FORMID": "00E485",
+      "EDID": "DLC04MQ05BrainBASEGreeting1c",
+      "FULL": "Ou, eu poderia simplesmente ir embora."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E484",
+      "FORMID": "00E484",
+      "EDID": "DLC04MQ05BrainBASEGreeting1b1",
+      "FULL": "Ótimo. Eu faço. Desmond irá morrer."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E483",
+      "FORMID": "00E483",
+      "EDID": "DLC04MQ05BrainBASEGreeting1b2",
+      "FULL": "Nah. Acho que vou matar você."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E482",
+      "FORMID": "00E482",
+      "EDID": "DLC04MQ05BrainBASEGreeting1b3",
+      "FULL": "Vocês dois estão me dando uma dor de cabeça. Preciso pensar sobre isso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E3BC",
+      "FORMID": "00E3BC",
+      "EDID": "DLC04MQ04DesmondST15Greeting1a",
+      "FULL": "Espera... jogo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E3BB",
+      "FORMID": "00E3BB",
+      "EDID": "DLC04MQ04DesmondST15Greeting1b",
+      "FULL": "Vamos acabar logo com isto."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E291",
+      "FORMID": "00E291",
+      "EDID": "DLC04MarIntro01",
+      "FULL": "Prazer em conhecê-la, Marcella."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E288",
+      "FORMID": "00E288",
+      "EDID": "DLC04MarIntro02",
+      "FULL": "Fé? Deixe-me adivinhar... outro culto apocalíptico?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E285",
+      "FORMID": "00E285",
+      "EDID": "DLC04MarIntro03",
+      "FULL": "Você não deveria estar na catedral com os Tribais?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E275",
+      "FORMID": "00E275",
+      "EDID": "DLC04MarPtLookoutFetishes",
+      "FULL": "Por que tem tantos ossos e bonecas empaladas por aqui?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E207",
+      "FORMID": "00E207",
+      "EDID": "DLC04ObaMarcellaDied01",
+      "FULL": "Na verdade Marcella está morta. E imaginei que você teria algo a ver com isso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E206",
+      "FORMID": "00E206",
+      "EDID": "DLC04ObaMarcellaDied02",
+      "FULL": "Marcella está morta, seu cretino insensível."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E205",
+      "FORMID": "00E205",
+      "EDID": "DLC04ObaCellarQuery01",
+      "FULL": "Eu normalmente jogo os corpos no rio, mas isto também serve."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E204",
+      "FORMID": "00E204",
+      "EDID": "DLC04ObaCellarQuery02",
+      "FULL": "Eu pensei que você estava envolvido com essa bobagem de ocultismo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E203",
+      "FORMID": "00E203",
+      "EDID": "DLC04ObaCellarQuery03",
+      "FULL": "Não deveria estar aqui. Entendido. Estou indo embora."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1F1",
+      "FORMID": "00E1F1",
+      "EDID": "DLC04DesmondPast",
+      "FULL": "Qual é a sua história?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1F0",
+      "FORMID": "00E1F0",
+      "EDID": "DLC04DesmondReward",
+      "FULL": "Poderia me dizer mais uma vez por que eu deveria trabalhar com você?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1EE",
+      "FORMID": "00E1EE",
+      "EDID": "DLC04DesTribalReturn1A",
+      "FULL": "Estou dentro. E descobri onde seu líder está escondido."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1ED",
+      "FORMID": "00E1ED",
+      "EDID": "DLC04DesTribalReturn1B",
+      "FULL": "Esses idiotas me receberam de braços abertos. Eu tenho a localização do seu líder."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1EB",
+      "FORMID": "00E1EB",
+      "EDID": "DLC04AboutDesmond",
+      "FULL": "O que você sabe sobre Desmond?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E158",
+      "FORMID": "00E158",
+      "EDID": "DLC04TobarInterests",
+      "FULL": "Recomenda algum lugar de Point Lookout?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DA38",
+      "FORMID": "00DA38",
+      "EDID": "DLC04NadineGreet1A",
+      "FULL": "O que você quer dizer com: \"sorte\"?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DA37",
+      "FORMID": "00DA37",
+      "EDID": "DLC04NadineGreet1B",
+      "FULL": "É um prazer conhecer alguém que não é louco."
+    },
+    {
+      "FORM": "@PointLookout.esm:00DA36",
+      "FORMID": "00DA36",
+      "EDID": "DLC04NadineGreet2A",
+      "FULL": "Cabeças abertas? Do que você está falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DA35",
+      "FORMID": "00DA35",
+      "EDID": "DLC04NadineGreet2B",
+      "FULL": "Eu vou ficar louco se você continuar falando assim."
+    },
+    {
+      "FORM": "@PointLookout.esm:00DA34",
+      "FORMID": "00DA34",
+      "EDID": "DLC04NadineGreet2C",
+      "FULL": "Então você vai me esfaquear no pescoço?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC70",
+      "FORMID": "00CC70",
+      "EDID": "DLC04TheBrainSt150Greeting1",
+      "FULL": "Isso mesmo. E o que eu ganho com isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC6F",
+      "FORMID": "00CC6F",
+      "EDID": "DLC04TheBrainSt150Greeting2",
+      "FULL": "Eu queria mostrar ao Desmond que ninguém manda em mim."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC6E",
+      "FORMID": "00CC6E",
+      "EDID": "DLC04TheBrainSt150Greeting3",
+      "FULL": "Tudo em apenas um dia de trabalho. Agora compartilhe sua sabedoria comigo!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC6D",
+      "FORMID": "00CC6D",
+      "EDID": "DLC04TheBrainSt150Greeting1a",
+      "FULL": "O que? Você vai me trair?!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC6C",
+      "FORMID": "00CC6C",
+      "EDID": "DLC04TheBrainSt150Greeting1b",
+      "FULL": "Eu deveria ter imaginado."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC6B",
+      "FORMID": "00CC6B",
+      "EDID": "DLC04TheBrainSt150Greeting1c",
+      "FULL": "Antes de você me matar, eu tenho algumas perguntas."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC69",
+      "FORMID": "00CC69",
+      "EDID": "DLC04TheBrainSt150Greeting1a1",
+      "FULL": "Bem, vamos fazer isso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC68",
+      "FORMID": "00CC68",
+      "EDID": "DLC04TheBrainSt150Greeting1a2",
+      "FULL": "Matar você vai ser mais divertido do que matar Desmond."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC67",
+      "FORMID": "00CC67",
+      "EDID": "DLC04TheBrainSt100Greeting1",
+      "FULL": "Que tal eu te matar ao invés disso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC66",
+      "FORMID": "00CC66",
+      "EDID": "DLC04TheBrainSt100Greeting2",
+      "FULL": "Eu farei isso. Desmond morrerá."
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC65",
+      "FORMID": "00CC65",
+      "EDID": "DLC04TheBrainSt100Greeting3",
+      "FULL": "Te avisarei quando eu decidir o que fazer."
+    },
+    {
+      "FORM": "@PointLookout.esm:00C1E3",
+      "FORMID": "00C1E3",
+      "EDID": "DLC04DesmondReward1B",
+      "FULL": "Que tipo de método infalível você está falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B835",
+      "FORMID": "00B835",
+      "EDID": "DLC04MQ04DesmondST10Greeting1",
+      "FULL": "Estou cansado de ser um peão neste jogo, Desmond."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B834",
+      "FORMID": "00B834",
+      "EDID": "DLC04MQ04DesmondST10Greeting2",
+      "FULL": "Então, onde está ele?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B833",
+      "FORMID": "00B833",
+      "EDID": "DLC04MQ04DesmondST10Greeting3",
+      "FULL": "É bom ver que você ainda está vivo! Estava começando a ficar preocupado."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B832",
+      "FORMID": "00B832",
+      "EDID": "DLC04MQ04DesmondST10Greeting1a",
+      "FULL": "Preciso de tempo para ficar pronto."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B831",
+      "FORMID": "00B831",
+      "EDID": "DLC04MQ04DesmondST10Greeting1b",
+      "FULL": "Então vamos entrar lá e acabar com isso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B830",
+      "FORMID": "00B830",
+      "EDID": "DLC04MQ04DesmondST10Greeting1c",
+      "FULL": "Não tenho mais nada para falar."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B5D8",
+      "FORMID": "00B5D8",
+      "EDID": "DLC04TobarVendTickets",
+      "FULL": "Eu gostaria de comprar um bilhete."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B5D7",
+      "FORMID": "00B5D7",
+      "EDID": "DLC04ReadyToTravel",
+      "FULL": "Quando é que partimos?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B5D6",
+      "FORMID": "00B5D6",
+      "EDID": "DLC04TobarTravel1A",
+      "FULL": "Vou precisar de mais alguma coisa para a viagem?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3B3",
+      "FORMID": "00B3B3",
+      "EDID": "DLC04MQ04DesmondQuestionTL",
+      "FULL": "Eu tenho algumas perguntas sobre o que eu devo fazer."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3B2",
+      "FORMID": "00B3B2",
+      "EDID": "DLC04MQ04DesmondQuestionEND",
+      "FULL": "Isso é tudo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3B1",
+      "FORMID": "00B3B1",
+      "EDID": "DLC04MQ01DesmondST25Greeting1",
+      "FULL": "Esse cérebro entrou em contato comigo. Ele quer que eu destrua o interferidor."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3B0",
+      "FORMID": "00B3B0",
+      "EDID": "DLC04MQ01DesmondST25Greeting2",
+      "FULL": "Não. Nada não."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3AF",
+      "FORMID": "00B3AF",
+      "EDID": "DLC04MQ01DesmondST25Greeting1a",
+      "FULL": "Talvez sim, talvez não. Me convença a não fazer."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3AE",
+      "FORMID": "00B3AE",
+      "EDID": "DLC04MQ01DesmondST25Greeting1b",
+      "FULL": "Por que eu faria isso? Nós somos amigos!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3AD",
+      "FORMID": "00B3AD",
+      "EDID": "DLC04MQ01DesmondST25Greeting1c",
+      "FULL": "Ainda não decidi. Depois te digo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3AC",
+      "FORMID": "00B3AC",
+      "EDID": "DLC04MQ01DesmondST25Greeting1a1",
+      "FULL": "Foi um prazer fazer negócio com você."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3AB",
+      "FORMID": "00B3AB",
+      "EDID": "DLC04MQ01DesmondST25Greeting1a2",
+      "FULL": "Acho que isso serve. Vamos ver."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFCE",
+      "FORMID": "00AFCE",
+      "EDID": "DLC04GOODBYE",
+      "FULL": "Tenho que ir."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFCD",
+      "FORMID": "00AFCD",
+      "EDID": "DLC04TonicQuestAccept",
+      "FULL": "Ok, eu vou. O que precisamos?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFCC",
+      "FORMID": "00AFCC",
+      "EDID": "DLC04TonicQuestReject",
+      "FULL": "Não estou interessado no momento. Desculpe."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFCB",
+      "FORMID": "00AFCB",
+      "EDID": "DLC04Quest00TopLvl",
+      "FULL": "Vamos falar sobre o tônico."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFCA",
+      "FORMID": "00AFCA",
+      "EDID": "DLC04QuestPunga",
+      "FULL": "Precisamos de Frutas Punga?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFC9",
+      "FORMID": "00AFC9",
+      "EDID": "DLC04QuestWater",
+      "FULL": "Quanta água precisamos?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFC8",
+      "FORMID": "00AFC8",
+      "EDID": "DLC04QuestYeast",
+      "FULL": "Você mencionou fermento?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFC7",
+      "FORMID": "00AFC7",
+      "EDID": "DLC04QuestBatteries",
+      "FULL": "Baterias? Por um \"pontapé\" a mais?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE36",
+      "FORMID": "00AE36",
+      "EDID": "DLC04JacksonMeet1A",
+      "FULL": "Eu fui atraído pela sua sabedoria eterna."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE35",
+      "FORMID": "00AE35",
+      "EDID": "DLC04JacksonMeet1B",
+      "FULL": "Eu só queria conhecer o líder Tribal."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE34",
+      "FORMID": "00AE34",
+      "EDID": "DLC04JacksonMeet2A",
+      "FULL": "Quer dizer, você não é mesmo o responsável pela tribo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE33",
+      "FORMID": "00AE33",
+      "EDID": "DLC04JacksonMeet2B",
+      "FULL": "Eu poderia conhecer o Mestre Transcendental?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE32",
+      "FORMID": "00AE32",
+      "EDID": "DLC04BrainMeet1A",
+      "FULL": "Como você se tornou o líder desta tribo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE31",
+      "FORMID": "00AE31",
+      "EDID": "DLC04BrainMeet1B",
+      "FULL": "Útil? Para que você está usando a tribo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE30",
+      "FORMID": "00AE30",
+      "EDID": "DLC04BrainMeet2A",
+      "FULL": "O que você tem contra esse Ghoul?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE2F",
+      "FORMID": "00AE2F",
+      "EDID": "DLC04BrainMeet2B",
+      "FULL": "Eu poderia ajudá-lo. Mas primeiro quero saber mais coisas."
+    },
+    {
+      "FORM": "@PointLookout.esm:00AE2D",
+      "FORMID": "00AE2D",
+      "EDID": "DLC04BrainMeetWhat",
+      "FULL": "Quem diabos é você?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A835",
+      "FORMID": "00A835",
+      "EDID": "DLC04AboutLeader",
+      "FULL": "Quem lidera esta Tribo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A834",
+      "FORMID": "00A834",
+      "EDID": "DLC04JacksonLocation",
+      "FULL": "Onde posso encontrar Jackson?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A833",
+      "FORMID": "00A833",
+      "EDID": "DLC04JacksonLocation1A",
+      "FULL": "Eu preciso saber onde ele está."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A832",
+      "FORMID": "00A832",
+      "EDID": "DLC04JacksonLocation1B",
+      "FULL": "Você não aprece estar se divertindo muito por aqui."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A561",
+      "FORMID": "00A561",
+      "EDID": "DLC04ObadiahDestroyBook01a",
+      "FULL": "Espera, o quê? Você vai se matar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F7",
+      "FORMID": "00A3F7",
+      "EDID": "DLC04DesmondSt50Greeting1",
+      "FULL": "Cansei de deixar você mandar em mim, Desmond."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F6",
+      "FORMID": "00A3F6",
+      "EDID": "DLC04DesmondSt50Greeting2",
+      "FULL": "Eu estava procurando por você. Não vou ficar do lado desse cérebro louco."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F5",
+      "FORMID": "00A3F5",
+      "EDID": "DLC04DesmondSt50Greeting3",
+      "FULL": "Eu só queria ver a sua cara quando eu dissesse que ia matá-lo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F4",
+      "FORMID": "00A3F4",
+      "EDID": "DLC04DesmondSt50Greeting1a",
+      "FULL": "Eu não recebo ordens de ninguém."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F3",
+      "FORMID": "00A3F3",
+      "EDID": "DLC04DesmondSt50Greeting1b",
+      "FULL": "E agora você pagará com a sua vida."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F2",
+      "FORMID": "00A3F2",
+      "EDID": "DLC04DesmondSt50Greeting1a1",
+      "FULL": "Já chega. Vamos."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F1",
+      "FORMID": "00A3F1",
+      "EDID": "DLC04DesmondSt50Greeting1a2",
+      "FULL": "Você acha que eu vou ajudá-lo de graça?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3F0",
+      "FORMID": "00A3F0",
+      "EDID": "DLC04DesmondSt50Greeting1a3",
+      "FULL": "Muito bom. Agora você pode dizer \"por favor, não me mate!\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3EF",
+      "FORMID": "00A3EF",
+      "EDID": "DLC04DesmondSt50Greeting2a",
+      "FULL": "Porque eu cansei de receber ordens de você. Depois disso, acabamos."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3EE",
+      "FORMID": "00A3EE",
+      "EDID": "DLC04DesmondSt50Greeting2b",
+      "FULL": "Achei que era a melhor maneira de fazê-lo baixar a guarda."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3ED",
+      "FORMID": "00A3ED",
+      "EDID": "DLC04DesmondSt50Greeting2c",
+      "FULL": "Porque eu quis. Assim como eu quero matá-lo agora."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3EC",
+      "FORMID": "00A3EC",
+      "EDID": "DLC04DesmondSt50Greeting2b1",
+      "FULL": "Isso acontece com todo mundo. Vamos."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3EB",
+      "FORMID": "00A3EB",
+      "EDID": "DLC04DesmondSt50Greeting2b2",
+      "FULL": "Não. Você estava certo em não confiar em mim. Morra."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3EA",
+      "FORMID": "00A3EA",
+      "EDID": "DLC04DesmondSt185Greeting1",
+      "FULL": "Acalme-se. Você tem que ficar calmo. Vai acabar fazendo besteira."
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3E9",
+      "FORMID": "00A3E9",
+      "EDID": "DLC04DesmondSt185Greeting2",
+      "FULL": "O que há de tão valioso nas coisas dele?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3E7",
+      "FORMID": "00A3E7",
+      "EDID": "DLC04DesmondSt185Greeting1a",
+      "FULL": "Então, onde está a minha parte?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00A3E6",
+      "FORMID": "00A3E6",
+      "EDID": "DLC04DesmondSt185Greeting1b",
+      "FULL": "Ótimo! Eu quero uma parte."
+    },
+    {
+      "FORM": "@PointLookout.esm:009B41",
+      "FORMID": "009B41",
+      "EDID": "DLC04FF06hostPayEnter",
+      "FULL": "Aqui, 1,000 tampas. Agora mãos à obra."
+    },
+    {
+      "FORM": "@PointLookout.esm:009B40",
+      "FORMID": "009B40",
+      "EDID": "DLC04FF06HostPayInsufficient",
+      "FULL": "Não estou com tantas tampas no momento."
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3F",
+      "FORMID": "009B3F",
+      "EDID": "DLC04FF06Rules00TopLvl",
+      "FULL": "Fale mais sobre o Safari."
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3E",
+      "FORMID": "009B3E",
+      "EDID": "DLC04FF06rulesSupplies",
+      "FULL": "Você tem alguma arma para mim?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3D",
+      "FORMID": "009B3D",
+      "EDID": "DLC04FF06rulesBasics",
+      "FULL": "Qual é a ideia, basicamente?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3C",
+      "FORMID": "009B3C",
+      "EDID": "DLC04FF06RulesEscape",
+      "FULL": "E se ficarmos presos? Como faço para sair?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3B",
+      "FORMID": "009B3B",
+      "EDID": "DLC04FF06hostEthics",
+      "FULL": "Vocês abatem Ghouls? Isso não é... antiético?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B3A",
+      "FORMID": "009B3A",
+      "EDID": "DLC04DesmondReward1A",
+      "FULL": "Acho que acabei de salvar a sua vida, sabe."
+    },
+    {
+      "FORM": "@PointLookout.esm:009B38",
+      "FORMID": "009B38",
+      "EDID": "DLC04ObadiahEvilBookn02",
+      "FULL": "Eles pareciam tê-la matado duas vezes. Foi muito confuso."
+    },
+    {
+      "FORM": "@PointLookout.esm:00925F",
+      "FORMID": "00925F",
+      "EDID": "DLC04NadineFound",
+      "FULL": "Nadine, sua mãe me pediu para encontrá-la."
+    },
+    {
+      "FORM": "@PointLookout.esm:00925E",
+      "FORMID": "00925E",
+      "EDID": "DLC04TribalEntry1A",
+      "FULL": "Eu busco a sabedoria do seu povo. Posso me juntar a sua tribo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00925D",
+      "FORMID": "00925D",
+      "EDID": "DLC04TribalEntry1B",
+      "FULL": "Sério? \"O limiar da transcendência\"? Deixe-me entrar agora."
+    },
+    {
+      "FORM": "@PointLookout.esm:00925C",
+      "FORMID": "00925C",
+      "EDID": "DLC04TribalEntry2A",
+      "FULL": "Eu não tenho medo. Vou fazer o teste, e eu vou passar!"
+    },
+    {
+      "FORM": "@PointLookout.esm:00925B",
+      "FORMID": "00925B",
+      "EDID": "DLC04TribalEntry2B",
+      "FULL": "Eu não estou tão certo sobre isso. Conte-me mais."
+    },
+    {
+      "FORM": "@PointLookout.esm:00925A",
+      "FORMID": "00925A",
+      "EDID": "DLC04TribalEntry3A",
+      "FULL": "Eu já fiz o seu teste. E eu passei... com sucesso!"
+    },
+    {
+      "FORM": "@PointLookout.esm:009258",
+      "FORMID": "009258",
+      "EDID": "DLC04DesmondOffer2A",
+      "FULL": "Ok, mas como eu posso me infiltrar entre eles?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009257",
+      "FORMID": "009257",
+      "EDID": "DLC04DesmondOffer2B",
+      "FULL": "Que tipo de recompensa você está oferecendo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009256",
+      "FORMID": "009256",
+      "EDID": "DLC04DesmondOffer2C",
+      "FULL": "Não, não estou interessado."
+    },
+    {
+      "FORM": "@PointLookout.esm:009255",
+      "FORMID": "009255",
+      "EDID": "DLC04DesmondOffer3A",
+      "FULL": "Tornar-me um tribal? De jeito nenhum."
+    },
+    {
+      "FORM": "@PointLookout.esm:009254",
+      "FORMID": "009254",
+      "EDID": "DLC04DesmondOffer3B",
+      "FULL": "Você acha mesmo que eles vão me deixar entrar sem mais nem menos?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009253",
+      "FORMID": "009253",
+      "EDID": "DLC04TribalEntry3B",
+      "FULL": "Claro. Fazer um ritual idiota. Tanto faz."
+    },
+    {
+      "FORM": "@PointLookout.esm:009252",
+      "FORMID": "009252",
+      "EDID": "DLC04WakeUp1A",
+      "FULL": "O que aconteceu comigo? Por que minha cabeça dói tanto?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009251",
+      "FORMID": "009251",
+      "EDID": "DLC04WakeUp1B",
+      "FULL": "Funcionou? O ritual acabou?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009246",
+      "FORMID": "009246",
+      "EDID": "DLC04ObadiahBlackhallDisrepair",
+      "FULL": "Você não se interessa muito pelas tarefas domésticas, não é?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009245",
+      "FORMID": "009245",
+      "EDID": "DLC04MarcellaBook0TopLvl",
+      "FULL": "Podemos discutir a situação do Blackhall?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009244",
+      "FORMID": "009244",
+      "EDID": "DLC04MarcellaBookWhatNow",
+      "FULL": "Poderia repetir o que devo fazer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:009243",
+      "FORMID": "009243",
+      "EDID": "DLC04MarcellaBookMoreInfo",
+      "FULL": "Fale mais sobre este livro que é tão importante."
+    },
+    {
+      "FORM": "@PointLookout.esm:008859",
+      "FORMID": "008859",
+      "EDID": "DLC04FF04Teddy",
+      "FULL": "Ainda estou procurando pelo seu ursinho de pelúcia."
+    },
+    {
+      "FORM": "@PointLookout.esm:008858",
+      "FORMID": "008858",
+      "EDID": "DLC04FF04HideoutTeddyWhyScary",
+      "FULL": "Assustador? O que você quer dizer com isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008857",
+      "FORMID": "008857",
+      "EDID": "DLC04FF04HideoutTeddyAgree",
+      "FULL": "Está bem. Eu vou buscá-lo para você."
+    },
+    {
+      "FORM": "@PointLookout.esm:008856",
+      "FORMID": "008856",
+      "EDID": "DLC04FF04TeddyWrongBear",
+      "FULL": "Achei o seu ursinho de pelúcia. <Mentira.>"
+    },
+    {
+      "FORM": "@PointLookout.esm:008855",
+      "FORMID": "008855",
+      "EDID": "DLC04ObaIntroA02",
+      "FULL": "Eu só estava admirando a arquitetura. Não quis ofender."
+    },
+    {
+      "FORM": "@PointLookout.esm:008854",
+      "FORMID": "008854",
+      "EDID": "DLC04ObaIntroA03",
+      "FULL": "Bonitas cortinas. Você poderia tentar não manchá-las de sangue quando eu te matar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00848C",
+      "FORMID": "00848C",
+      "EDID": "DLC04MQ01DesmondST10Greeting1",
+      "FULL": "Então, quem é esse tal cérebro, afinal?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00848B",
+      "FORMID": "00848B",
+      "EDID": "DLC04MQ01DesmondST10Greeting2",
+      "FULL": "Você conhece esse cara? O que está acontecendo aqui?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00848A",
+      "FORMID": "00848A",
+      "EDID": "DLC04MQ01DesmondST10Greeting3",
+      "FULL": "E suponho que você queira que eu faça mais alguma coisa, certo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008489",
+      "FORMID": "008489",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a",
+      "FULL": "É melhor você controlar o seu tom, velho."
+    },
+    {
+      "FORM": "@PointLookout.esm:008488",
+      "FORMID": "008488",
+      "EDID": "DLC04MQ01DesmondST10Greeting3b",
+      "FULL": "Ah tá. Você é mau, entendi."
+    },
+    {
+      "FORM": "@PointLookout.esm:008487",
+      "FORMID": "008487",
+      "EDID": "DLC04MQ01DesmondST10Greeting3c",
+      "FULL": "É melhor isto acabar bem."
+    },
+    {
+      "FORM": "@PointLookout.esm:008486",
+      "FORMID": "008486",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a1",
+      "FULL": "O que você quer que eu faça?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008485",
+      "FORMID": "008485",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a2",
+      "FULL": "Ah, mal posso esperar para ouvir isso."
+    },
+    {
+      "FORM": "@PointLookout.esm:008484",
+      "FORMID": "008484",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a1a",
+      "FULL": "Qual é o seu plano, velho?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008483",
+      "FORMID": "008483",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a1b",
+      "FULL": "Então, como vamos acabar com ele?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008482",
+      "FORMID": "008482",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a1a1",
+      "FULL": "Aquela grande roda perto das docas, certo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008481",
+      "FORMID": "008481",
+      "EDID": "DLC04MQ01DesmondST10Greeting3a1a2",
+      "FULL": "Eu tenho medo de altura."
+    },
+    {
+      "FORM": "@PointLookout.esm:008480",
+      "FORMID": "008480",
+      "EDID": "DLC04MQ04DesmondQuestion1",
+      "FULL": "Pode repetir o que eu tenho que fazer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00847F",
+      "FORMID": "00847F",
+      "EDID": "DLC04MQ04DesmondQuestion2",
+      "FULL": "O que o Interferidor Cognitivo faz?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00847E",
+      "FORMID": "00847E",
+      "EDID": "DLC04MQ04DesmondQuestion3",
+      "FULL": "Como o Professor Calvert controla os Tribais?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008440",
+      "FORMID": "008440",
+      "EDID": "DLC04NadineGreeting1B",
+      "FULL": "Como se eu fosse receber ordens de você, seu merda."
+    },
+    {
+      "FORM": "@PointLookout.esm:00843F",
+      "FORMID": "00843F",
+      "EDID": "DLC04NadineGreeting2A",
+      "FULL": "Quem é você? Como saberei se você é de confiança?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00843E",
+      "FORMID": "00843E",
+      "EDID": "DLC04NadineGreeting2B",
+      "FULL": "Por que eles estão atacando? Não podemos chegar em um acordo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00843C",
+      "FORMID": "00843C",
+      "EDID": "DLC04DesmondGreeting1A",
+      "FULL": "Você sabe por que os tribais estavam atacando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00843B",
+      "FORMID": "00843B",
+      "EDID": "DLC04DesmondGreeting1B",
+      "FULL": "Que tipo de método infalível você está falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00843A",
+      "FORMID": "00843A",
+      "EDID": "DLC04DesmondGreeting1C",
+      "FULL": "Há a possibilidade de praticar um pouco mais?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008439",
+      "FORMID": "008439",
+      "EDID": "DLC04DesFakeGoodbye",
+      "FULL": "Tenho que ir agora."
+    },
+    {
+      "FORM": "@PointLookout.esm:008437",
+      "FORMID": "008437",
+      "EDID": "DLC04AboutMansion",
+      "FULL": "Por que você atacou a mansão?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00831A",
+      "FORMID": "00831A",
+      "EDID": "DLC04MQ04DesmondST15Greeting1",
+      "FULL": "Sim, sou eu. Vamos."
+    },
+    {
+      "FORM": "@PointLookout.esm:008319",
+      "FORMID": "008319",
+      "EDID": "DLC04MQ04DesmondST15Greeting2",
+      "FULL": "Não estou pronto ainda."
+    },
+    {
+      "FORM": "@PointLookout.esm:008318",
+      "FORMID": "008318",
+      "EDID": "DLC04MQ04DesmondST15Greeting3",
+      "FULL": "Eu quero te perguntar uma coisa..."
+    },
+    {
+      "FORM": "@PointLookout.esm:008138",
+      "FORMID": "008138",
+      "EDID": "DLC04FF04Greeting2a",
+      "FULL": "Então, as armadilhas e os barulhos, era tudo você?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008137",
+      "FORMID": "008137",
+      "EDID": "DLC04FF04Greeting1b",
+      "FULL": "Fantasma? Onde? É melhor sairmos daqui!"
+    },
+    {
+      "FORM": "@PointLookout.esm:008136",
+      "FORMID": "008136",
+      "EDID": "DLC04FF04Greeting1a",
+      "FULL": "Corta essa, garoto. Esse show de luzes não assusta ninguém."
+    },
+    {
+      "FORM": "@PointLookout.esm:008135",
+      "FORMID": "008135",
+      "EDID": "DLC04FF04About",
+      "FULL": "Fale sobre você, Kenny."
+    },
+    {
+      "FORM": "@PointLookout.esm:008134",
+      "FORMID": "008134",
+      "EDID": "DLC04FF04AboutRunAway",
+      "FULL": "Por que você fugiu de casa, Kenny?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008133",
+      "FORMID": "008133",
+      "EDID": "DLC04FF04AboutNotBornRight",
+      "FULL": "O que você quer dizer com \"eu não nasci direito\"?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008132",
+      "FORMID": "008132",
+      "EDID": "DLC04FF04Greeting3a",
+      "FULL": "Acalme-se. Eu não vou te machucar."
+    },
+    {
+      "FORM": "@PointLookout.esm:008131",
+      "FORMID": "008131",
+      "EDID": "DLC04FF04AboutParents",
+      "FULL": "Onde estão seus pais?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00812F",
+      "FORMID": "00812F",
+      "EDID": "DLC04FF04AboutPtLookout",
+      "FULL": "Como é viver em Point Lookout?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00812E",
+      "FORMID": "00812E",
+      "EDID": "DLC04FF04MineHerzogLegend",
+      "FULL": "Fale sobre o Velho Herzog."
+    },
+    {
+      "FORM": "@PointLookout.esm:00812D",
+      "FORMID": "00812D",
+      "EDID": "DLC04FF04MineWhyLiveHere",
+      "FULL": "Por que você está se escondendo aqui?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00812C",
+      "FORMID": "00812C",
+      "EDID": "DLC04FF04MineSurvival",
+      "FULL": "Como você consegue sobreviver aqui sozinho?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00812B",
+      "FORMID": "00812B",
+      "EDID": "DLC04FF04BackToTop",
+      "FULL": "Vamos falar de outra coisa."
+    },
+    {
+      "FORM": "@PointLookout.esm:00812A",
+      "FORMID": "00812A",
+      "EDID": "DLC04KennyGOODBYE",
+      "FULL": "Eu tenho que ir."
+    },
+    {
+      "FORM": "@PointLookout.esm:008129",
+      "FORMID": "008129",
+      "EDID": "DLC04KennyAdopt01",
+      "FULL": "Kenny, você gostaria de vir morar comigo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:008128",
+      "FORMID": "008128",
+      "EDID": "DLC04KennyAdoptNevermind",
+      "FULL": "Haha, estou brincando, garoto! Nem eu acreditei nisso que falei."
+    },
+    {
+      "FORM": "@PointLookout.esm:008127",
+      "FORMID": "008127",
+      "EDID": "DLC04KennyAdoptPERKchildAtHeart",
+      "FULL": "Vamos nos divertir muito. Eu prometo!"
+    },
+    {
+      "FORM": "@PointLookout.esm:008124",
+      "FORMID": "008124",
+      "EDID": "DLC04KennyAdoptChallenge",
+      "FULL": "Você não está seguro aqui. Vou lhe dar abrigo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00811C",
+      "FORMID": "00811C",
+      "EDID": "DLC04KennyAdoptGoHome",
+      "FULL": "Eu tenho uma casa em MEGATON?TENPENNY?. Você conhece o Tobar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:0080F5",
+      "FORMID": "0080F5",
+      "EDID": "DLC04TobarWelcome1A",
+      "FULL": "Eu deveria estar preocupado? O que tem lá?"
+    },
+    {
+      "FORM": "@PointLookout.esm:0080F4",
+      "FORMID": "0080F4",
+      "EDID": "DLC04TobarWelcome1B",
+      "FULL": "E daí? É fumaça. Coisas queimam o tempo todo. Principalmente por onde passo."
+    },
+    {
+      "FORM": "@PointLookout.esm:007322",
+      "FORMID": "007322",
+      "EDID": "DLC04FF05protPassphrase",
+      "FULL": "A senha é: \"Serafim Descendente.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:007321",
+      "FORMID": "007321",
+      "EDID": "DLC04FF05protNevermind",
+      "FULL": "Sai da frente, homem de lata."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E8",
+      "FORMID": "0072E8",
+      "EDID": "DLC04AboutPunga",
+      "FULL": "De onde veio a Fruta Punga?"
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E7",
+      "FORMID": "0072E7",
+      "EDID": "DLC04AboutPointLookout",
+      "FULL": "Fale mais sobre Point Lookout."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E6",
+      "FORMID": "0072E6",
+      "EDID": "DLC04AboutNadine",
+      "FULL": "Me fale o que sabe sobre Nadine."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E5",
+      "FORMID": "0072E5",
+      "EDID": "DLC04AboutDuchess",
+      "FULL": "Belo barco. Você deve ter visitado um monte de lugares com ele."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E4",
+      "FORMID": "0072E4",
+      "EDID": "DLC04TravelToPoint",
+      "FULL": "Quero reservar uma passagem para Point Lookout."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E3",
+      "FORMID": "0072E3",
+      "EDID": "DLC04TobarGreeting1A",
+      "FULL": "Pode ser. O que há de tão especial em Point Lookout?"
+    },
+    {
+      "FORM": "@PointLookout.esm:0072E2",
+      "FORMID": "0072E2",
+      "EDID": "DLC04TobarGreeting1B",
+      "FULL": "Meu pai me ensinou a nunca aceitar carona de estranhos."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072DE",
+      "FORMID": "0072DE",
+      "EDID": "DLC04CatherineGreet1A",
+      "FULL": "Não posso prometer nada, mas vou procurar por ela."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072DD",
+      "FORMID": "0072DD",
+      "EDID": "DLC04CatherineGreet1B",
+      "FULL": "Estou meio ocupado agora. Encontre-a você mesmo."
+    },
+    {
+      "FORM": "@PointLookout.esm:0072DB",
+      "FORMID": "0072DB",
+      "EDID": "DLC04TravelToPointNo",
+      "FULL": "De jeito nenhum que eu vou pagar isso. Eu vou ficar aqui."
+    },
+    {
+      "FORM": "@PointLookout.esm:006BDD",
+      "FORMID": "006BDD",
+      "EDID": "DLC04MQ05BrainBASEGreeting1",
+      "FULL": "Por que eu faria isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:006BDC",
+      "FORMID": "006BDC",
+      "EDID": "DLC04MQ05BrainBASEGreeting2",
+      "FULL": "Estou cansando de você. Estou cansando de vocês dois."
+    },
+    {
+      "FORM": "@PointLookout.esm:006BDB",
+      "FORMID": "006BDB",
+      "EDID": "DLC04MQ05BrainBASEGreeting3",
+      "FULL": "Por que vocês dois não apenas conversam sobre isso?"
+    },
+    {
+      "FORM": "@PointLookout.esm:005B65",
+      "FORMID": "005B65",
+      "EDID": "DLC04FF05BankzBackout",
+      "FULL": "A senha é... queijo?"
+    },
+    {
+      "FORM": "@PointLookout.esm:005B64",
+      "FORMID": "005B64",
+      "EDID": "DLC04FF05bankSubmitPassword",
+      "FULL": "A senha é: \"xìn tian weng\"."
+    },
+    {
+      "FORM": "@PointLookout.esm:003FB3",
+      "FORMID": "003FB3",
+      "EDID": "DLC04MargTurnInLater",
+      "FULL": "Agora eu vou ficar com ele."
+    },
+    {
+      "FORM": "@PointLookout.esm:003FB2",
+      "FORMID": "003FB2",
+      "EDID": "DLC04QuestPungaTurnIn01",
+      "FULL": "Aqui, dez Frutas Punga refinadas."
+    },
+    {
+      "FORM": "@PointLookout.esm:003FB1",
+      "FORMID": "003FB1",
+      "EDID": "DLC04QuestPungaTurnIn02",
+      "FULL": "Vinte Frutas Punga silvestres, só para você."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F4B",
+      "FORMID": "003F4B",
+      "EDID": "DLC04MargPlayingSick",
+      "FULL": "Você está doente? Qual é o problema?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F4A",
+      "FORMID": "003F4A",
+      "EDID": "DLC04MargPlayerBelieveSickness",
+      "FULL": "Febre Amarela? Parece ruim. Posso ajudar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F49",
+      "FORMID": "003F49",
+      "EDID": "DLC04MargPlayerSarcasticSickness",
+      "FULL": "É mesmo? E eu tenho a peste malva. Então vamos tentar não tossir um no outro."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F48",
+      "FORMID": "003F48",
+      "EDID": "DLC04MargPlayerMedSkillSickness",
+      "FULL": "Tratei doenças suficientes para saber que não existe essa tal Febre Laranja."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F47",
+      "FORMID": "003F47",
+      "EDID": "DLC04MargMedSkillBackoff",
+      "FULL": "Sinto muito, nunca ouvi falar dessa doença. Talvez eu possa ajudar."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F46",
+      "FORMID": "003F46",
+      "EDID": "DLC04MargMedSpchChall",
+      "FULL": "Você está fingindo. Nós dois sabemos disso. Então vamos direto ao assunto."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F45",
+      "FORMID": "003F45",
+      "EDID": "DLC04Tonic00TopLvl",
+      "FULL": "Vamos falar desse tônico."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F44",
+      "FORMID": "003F44",
+      "EDID": "DLC04Marg00AboutYouTopLvl",
+      "FULL": "Eu quero saber mais sobre você."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F43",
+      "FORMID": "003F43",
+      "EDID": "DLC04MargAboutYouPtLookout",
+      "FULL": "O que você acha de Point Lookout?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F42",
+      "FORMID": "003F42",
+      "EDID": "DLC04MargAboutYouStillObservation",
+      "FULL": "Você construiu sozinha esse alambique?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F41",
+      "FORMID": "003F41",
+      "EDID": "DLC04MargAboutYouOrangeFeverAbout",
+      "FULL": "Quão grave é a Febre Laranja?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F40",
+      "FORMID": "003F40",
+      "EDID": "DLC04MargChangeSubject",
+      "FULL": "Vamos mudar de assunto."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3F",
+      "FORMID": "003F3F",
+      "EDID": "DLC04MargAboutYouWhyPlayingSick",
+      "FULL": "Por que você finge estar doente?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3E",
+      "FORMID": "003F3E",
+      "EDID": "DLC04MargRepairStillOffer",
+      "FULL": "Parece que ainda tem concerto. Talvez possa arrumá-lo."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3D",
+      "FORMID": "003F3D",
+      "EDID": "DLC04MargRepairFee",
+      "FULL": "Eu consigo consertar. Que tal 100 tampas pelo trabalho?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3C",
+      "FORMID": "003F3C",
+      "EDID": "DLC04MargRepairChallenge",
+      "FULL": "Deixarei funcionando como se fosse novo por 200 tampas."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3B",
+      "FORMID": "003F3B",
+      "EDID": "DLC04MargRepairNoCharge",
+      "FULL": "Sim, eu consigo consertar. E de graça."
+    },
+    {
+      "FORM": "@PointLookout.esm:003F3A",
+      "FORMID": "003F3A",
+      "EDID": "DLC04TonicStep01",
+      "FULL": "Ok, o que precisamos em primeiro lugar?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F36",
+      "FORMID": "003F36",
+      "EDID": "DLC04QuestzWaiting",
+      "FULL": "E agora?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F35",
+      "FORMID": "003F35",
+      "EDID": "DLC04TonicWhyHelpYou",
+      "FULL": "Por que exatamente eu deveria ajudá-la?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003F34",
+      "FORMID": "003F34",
+      "EDID": "DLC04TonicReallyCureQuery",
+      "FULL": "Será que este tônico realmente cura alguma coisa?"
+    },
+    {
+      "FORM": "@PointLookout.esm:00358F",
+      "FORMID": "00358F",
+      "EDID": "DLC04FF04Mine",
+      "FULL": "Fale sobre a mina, Kenny."
+    },
+    {
+      "FORM": "@PointLookout.esm:003139",
+      "FORMID": "003139",
+      "EDID": "DLC04ObadiahEvilBookn01",
+      "FULL": "Ela me pediu para roubar o Krivbeknih. Quando voltei, ela estava morta."
+    },
+    {
+      "FORM": "@PointLookout.esm:003138",
+      "FORMID": "003138",
+      "EDID": "DLC04ObadiahBookReply01",
+      "FULL": "Estava com os Krvibi, eu o peguei, e agora ela está morta."
+    },
+    {
+      "FORM": "@PointLookout.esm:003137",
+      "FORMID": "003137",
+      "EDID": "DLC04ObadiahBookReply02",
+      "FULL": "<Mostrar-lhe o Livro.>"
+    },
+    {
+      "FORM": "@PointLookout.esm:003136",
+      "FORMID": "003136",
+      "EDID": "DLC04ObadiahBookReply03",
+      "FULL": "Sinto muito, Obadiah, mas é verdade. E o livro está aqui comigo."
+    },
+    {
+      "FORM": "@PointLookout.esm:003135",
+      "FORMID": "003135",
+      "EDID": "DLC04ObadiahDestroyBook01",
+      "FULL": "Deve haver algo que possamos fazer. Nós temos o livro."
+    },
+    {
+      "FORM": "@PointLookout.esm:003134",
+      "FORMID": "003134",
+      "EDID": "DLC04ObadiahExplainSacrifice",
+      "FULL": "Do que você está falando?"
+    },
+    {
+      "FORM": "@PointLookout.esm:003133",
+      "FORMID": "003133",
+      "EDID": "DLC04ObadiahDestroyBook02",
+      "FULL": "Essa não pode ser a única maneira de destruí-lo."
+    },
+    {
+      "FORM": "@PointLookout.esm:003132",
+      "FORMID": "003132",
+      "EDID": "DLC04ObadiahRitualAccept",
+      "FULL": "Eu farei isso, Obadiah. Não tem por que você morrer."
+    },
+    {
+      "FORM": "@PointLookout.esm:003131",
+      "FORMID": "003131",
+      "EDID": "DLC04ObadiahRitualRefuse",
+      "FULL": "Sinto muito, acho que você tem que fazer isto sozinho."
+    },
+    {
+      "FORM": "@PointLookout.esm:0030C4",
+      "FORMID": "0030C4",
+      "EDID": "DLC04MarcellaLetterWhatToDo",
+      "FULL": "O que eu tenho que fazer?"
+    },
+    {
+      "FORM": "@PointLookout.esm:0030C3",
+      "FORMID": "0030C3",
+      "EDID": "DLC04MarcellaAboutMe",
+      "FULL": "Fale sobre você."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EEB",
+      "FORMID": "002EEB",
+      "EDID": "DLC04ObaQuestReject",
+      "FULL": "Não estou interessado."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EEA",
+      "FORMID": "002EEA",
+      "EDID": "DLC04ObaIntroA01",
+      "FULL": "A casa parecia abandonada, eu só dei uma olhada."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE9",
+      "FORMID": "002EE9",
+      "EDID": "DLC04MarcellaLetterDeliver",
+      "FULL": "Obadiah Blackhall me enviou. Tenho uma carta."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE8",
+      "FORMID": "002EE8",
+      "EDID": "DLC04MarcellaLetterResponse",
+      "FULL": "O que foi? O que a carta diz?"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE7",
+      "FORMID": "002EE7",
+      "EDID": "DLC04ObadiahBlackhall00Toplvl",
+      "FULL": "Fale sobre Blackhall Manor."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE6",
+      "FORMID": "002EE6",
+      "EDID": "DLC04ObadiahBlackhall01",
+      "FULL": "Você mora aqui sozinho?"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE5",
+      "FORMID": "002EE5",
+      "EDID": "DLC04ObaQuestAccept",
+      "FULL": "Tá bem. Vou pegar o seu livro."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE4",
+      "FORMID": "002EE4",
+      "EDID": "DLC04ObaFolk00Toplvl",
+      "FULL": "Você parece odiar mesmo o povo do pântano."
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE3",
+      "FORMID": "002EE3",
+      "EDID": "DLC04ObaFolk03",
+      "FULL": "Por que ele pegaram o seu livro?"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE2",
+      "FORMID": "002EE2",
+      "EDID": "DLC04ObaFolk01",
+      "FULL": "Eles são perigosos?"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE1",
+      "FORMID": "002EE1",
+      "EDID": "DLC04ObaFolk02",
+      "FULL": "Você está falando das pessoas que vivem na antiga Catedral?"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EE0",
+      "FORMID": "002EE0",
+      "EDID": "DLC04TalkSomethingElse",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000111",
+      "FORMID": "000111",
+      "EDID": "Repair",
+      "FULL": "Reparação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assalto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Furtar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Flee"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Golpear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Ataque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Eu tenho que ir agora."
+    }
+  ]
+}

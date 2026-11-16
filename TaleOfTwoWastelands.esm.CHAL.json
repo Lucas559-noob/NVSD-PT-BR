@@ -1,0 +1,1362 @@
+{
+  "CHAL": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079171",
+      "FORMID": "079171",
+      "EDID": "TTWChallengeHorsingAround",
+      "FULL": "Brincadeira",
+      "DESC": "Mate Centauros."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:07916F",
+      "FORMID": "07916F",
+      "EDID": "TTWChallengeBirdsAreDicks",
+      "FULL": "Pássaros São Babacas",
+      "DESC": "Mate Corvos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AF",
+      "FORMID": "0185AF",
+      "EDID": "TTWDLC02Violence",
+      "FULL": "Violência nos Videogames",
+      "DESC": "Mate muitos inimigos na simulação de RV de Anchorage."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AE",
+      "FORMID": "0185AE",
+      "EDID": "TTWChallengeHumanResources",
+      "FULL": "Human Resources",
+      "DESC": "Envie escravos para Paradise Falls."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AD",
+      "FORMID": "0185AD",
+      "EDID": "TTWChallengeLegacyCharacter",
+      "FULL": "Personagem Legado *",
+      "DESC": "Mate a AntAgonizer ou o Mecânico enquanto veste a fantasia do rival."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AC",
+      "FORMID": "0185AC",
+      "EDID": "TTWChallengeDidntWantTo",
+      "FULL": "Eu Não Queria Fazer Isso ***",
+      "DESC": "Mate 10 inimigos com um único disparo do MIRV Experimental."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AB",
+      "FORMID": "0185AB",
+      "EDID": "TTWChallengeJunkyardDog",
+      "FULL": "Cão de Ferro-Velho",
+      "DESC": "Cause 25.000 de dano com armas criadas usando esquemas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185AA",
+      "FORMID": "0185AA",
+      "EDID": "TTWChallengeSchematics",
+      "FULL": "O Tesouro de Outro Homem",
+      "DESC": "Colete esquemas de armas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A9",
+      "FORMID": "0185A9",
+      "EDID": "TTWDLC03ChallengeVertibird",
+      "FULL": "Não Atire no Cão",
+      "DESC": "Derrube vertibirds com o Canhão Tesla."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A8",
+      "FORMID": "0185A8",
+      "EDID": "TTWChallengeCapped",
+      "FULL": "Cheio de Tampas *",
+      "DESC": "Aleije pernas com O Quebra Joelhos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A7",
+      "FORMID": "0185A7",
+      "EDID": "TTWChallengeRoastedRoach",
+      "FULL": "Barata Assada **",
+      "DESC": "Mate o Rei das Baratas com um Lança-Chamas, Incinerador, Shishkebab, Firelance ou Zhu-Rong."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A6",
+      "FORMID": "0185A6",
+      "EDID": "TTWChallengeTooGood",
+      "FULL": "Bom Demais para Ser Dois *",
+      "DESC": "Mate todos os clones do Gary com um Cano de Chumbo."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A5",
+      "FORMID": "0185A5",
+      "EDID": "TTWChallengeShotgunDiplomacy",
+      "FULL": "Diplomacia de Escopeta **",
+      "DESC": "Mate o Comandante da Companhia Talon com uma Escopeta de Combate ou Escopeta Antimotim."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A4",
+      "FORMID": "0185A4",
+      "EDID": "TTWChallengeAutumnLeaves",
+      "FULL": "Folhas de Outono **",
+      "DESC": "Mate o Coronel Autumn com qualquer arma de energia de uma mão."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A3",
+      "FORMID": "0185A3",
+      "EDID": "TTWChallengeChineseZodiac",
+      "FULL": "Zodíaco Chinês *",
+      "DESC": "Mate Remanescentes Chineses com armas chinesas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A2",
+      "FORMID": "0185A2",
+      "EDID": "TTWChallengeEnemyAtTheGates",
+      "FULL": "Inimigo nos Portões **",
+      "DESC": "Mate Sam Warrick com um Rifle de Franco-Atirador."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A1",
+      "FORMID": "0185A1",
+      "EDID": "TTWChallengeJohnny",
+      "FULL": "Johnny Seja Bom **",
+      "DESC": "Mate Mad Johnny Wes no Edifício da Hubris Comics com Ferrão de Formiga ou Olhar de Protectron."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185A0",
+      "FORMID": "0185A0",
+      "EDID": "TTWChallengeThatsMine",
+      "FULL": "Isso É Meu! **",
+      "DESC": "Mate Arkansas com uma Mina de Fragmentação."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01859F",
+      "FORMID": "01859F",
+      "EDID": "TTWChallengeAssassinCreed",
+      "FULL": "Assassins Creed ***",
+      "DESC": "Mate qualquer oficial nomeado da Irmandade de Aço (Cavaleiro, Paladino, Escrivão, Ancião)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01859E",
+      "FORMID": "01859E",
+      "EDID": "TTWDLC05ChallengeXenophobe",
+      "FULL": "Xenófobo",
+      "DESC": "Mate mais alienígenas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01859D",
+      "FORMID": "01859D",
+      "EDID": "TTWDLC04ChallengeTouchofEvil",
+      "FULL": "Um Toque de Maldade",
+      "DESC": "Destrua o Krivbeknih no obelisco do prédio Dunwich."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01859C",
+      "FORMID": "01859C",
+      "EDID": "TTWChallengeEnemyOfStates",
+      "FULL": "Inimigo dos Estados",
+      "DESC": "Mate soldados da Enclave."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018599",
+      "FORMID": "018599",
+      "EDID": "TTWDLC02PrivateRyan",
+      "FULL": "Soldado Ryan",
+      "DESC": "Salve todos os cativos na simulação de RV de Anchorage."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018598",
+      "FORMID": "018598",
+      "EDID": "TTWDLC02ChallengeContinue",
+      "FULL": "Continua...",
+      "DESC": "Conclua Pavimentando o Caminho."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018597",
+      "FORMID": "018597",
+      "EDID": "TTWDLC02ChallengeSabotage",
+      "FULL": "Sabotagem",
+      "DESC": "Destrua todos os canhões de artilharia."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018596",
+      "FORMID": "018596",
+      "EDID": "TTWDLC01ChallengeGrindControl",
+      "FULL": "Trituração Controlada",
+      "DESC": "Mate com o Machado Automático."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018595",
+      "FORMID": "018595",
+      "EDID": "TTWDLC05ChallengeAlienated",
+      "FULL": "Alienado",
+      "DESC": "Cause dano com armas alienígenas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018594",
+      "FORMID": "018594",
+      "EDID": "TTWDLC05ChallengeUnknown",
+      "FULL": "Inimigo Desconhecido",
+      "DESC": "Mate alienígenas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018593",
+      "FORMID": "018593",
+      "EDID": "TTWChallengePulse",
+      "FULL": "Impulsivo",
+      "DESC": "Mate robôs com a Granada de Pulso ou Mina de Pulso."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018592",
+      "FORMID": "018592",
+      "EDID": "TTWDLC04ChallengePunga",
+      "FULL": "Punguista Natural",
+      "DESC": "Consuma Fruta Punga Silvestre."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018591",
+      "FORMID": "018591",
+      "EDID": "TTWChallengeOdditiesAndArtifacts",
+      "FULL": "Anomalias e Artefatos",
+      "DESC": "Cause dano com armas exclusivas do Ermo da Capital."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018590",
+      "FORMID": "018590",
+      "EDID": "TTWChallengeDarts",
+      "FULL": "Federalista dos Dardos do Ermo",
+      "DESC": "Acerte inimigos com a Pistola de Dardos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858F",
+      "FORMID": "01858F",
+      "EDID": "TTWChallengeWhackAMole",
+      "FULL": "Bata no Rato-Toupeira",
+      "DESC": "Exploda as cabeças de Ratos-toupeira com o Bastão Repelente de Ratos-toupeira."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858E",
+      "FORMID": "01858E",
+      "EDID": "TTWDLC01ChallengeTroglodyte",
+      "FULL": "Troglodita Dundee",
+      "DESC": "Mate Trogues."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858D",
+      "FORMID": "01858D",
+      "EDID": "TTWDLC04ChallengeHenry",
+      "FULL": "Oh, Henry!",
+      "DESC": "Cause dano com rifles de alavanca."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858C",
+      "FORMID": "01858C",
+      "EDID": "TTWDLC04ChallengeFolklore",
+      "FULL": "Folclore de Maryland",
+      "DESC": "Mate Pantanenses."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858B",
+      "FORMID": "01858B",
+      "EDID": "TTWDLC05ChallengeGourmet",
+      "FULL": "Gourmet Espacial",
+      "DESC": "Consuma comida alienígena."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01858A",
+      "FORMID": "01858A",
+      "EDID": "TTWChallengeGhoulReaver",
+      "FULL": "Triturador de Ghouls - Saqueadores",
+      "DESC": "Mate Necróticos Ferais Saqueadores."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018589",
+      "FORMID": "018589",
+      "EDID": "TTWChallengeGhoulRoamer",
+      "FULL": "Triturador de Ghouls - Vagantes",
+      "DESC": "Mate Ghouls Selvagens."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018588",
+      "FORMID": "018588",
+      "EDID": "TTWChallengeGhoul",
+      "FULL": "Triturador de Ghouls",
+      "DESC": "Mate Ghouls Ferais."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018587",
+      "FORMID": "018587",
+      "EDID": "TTWChallengeGhoulGlowing",
+      "FULL": "Brilhante, Brilhante, Sumiu!",
+      "DESC": "Mate os Irradiantes."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018586",
+      "FORMID": "018586",
+      "EDID": "TTWChallengeGuide",
+      "FULL": "Tour Guide",
+      "DESC": "Descubra mais locais em D.C."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018585",
+      "FORMID": "018585",
+      "EDID": "TTWChallengeTourist",
+      "FULL": "Turista",
+      "DESC": "Descubra locais em D.C."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018584",
+      "FORMID": "018584",
+      "EDID": "TTWDLC02ChallengeCovert",
+      "FULL": "Covert Ops",
+      "DESC": "Colete as 10 maletas de informações."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018583",
+      "FORMID": "018583",
+      "EDID": "TTWChallengeBigger",
+      "FULL": "Quanto Maiores Eles São...",
+      "DESC": "Mate Behemoths Super Mutantes."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018582",
+      "FORMID": "018582",
+      "EDID": "TTWDLC04BogWalker",
+      "FULL": "Andarilho do Pântano",
+      "DESC": "Descobriu todos os locais em Point Lookout."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018581",
+      "FORMID": "018581",
+      "EDID": "TTWChallengeRoachStomper",
+      "FULL": "Esmagador de Baratas",
+      "DESC": "Mate Baratarros."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018580",
+      "FORMID": "018580",
+      "EDID": "TTWChallengeBrahminTipper",
+      "FULL": "Derrubador de Brahmin",
+      "DESC": "Tombe Brahmin."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857F",
+      "FORMID": "01857F",
+      "EDID": "TTWChallengeMirelurkHunter",
+      "FULL": "Liquidador de Lurks",
+      "DESC": "Mate Mirelurks."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857E",
+      "FORMID": "01857E",
+      "EDID": "TTWChallengeDeathclawHunter",
+      "FULL": "Morte ao Deathclaw!",
+      "DESC": "Mate Deathclaws."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857D",
+      "FORMID": "01857D",
+      "EDID": "TTWChallengeBaubleHead",
+      "FULL": "Cabeça de Bugiganga",
+      "DESC": "Encontre todos os 20 Bonecos Vault-Tec colecionáveis."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857C",
+      "FORMID": "01857C",
+      "EDID": "TTWChallengeSandman",
+      "FULL": "Traga-me um Sonho",
+      "DESC": "Mate inimigos adormecidos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857B",
+      "FORMID": "01857B",
+      "EDID": "TTWChallengeGOAT",
+      "FULL": "O Sussurrador do G.O.A.T.",
+      "DESC": "Fez o G.O.A.T."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01857A",
+      "FORMID": "01857A",
+      "EDID": "TTWChallengeCitizen",
+      "FULL": "Prêmio de Cidadania do Vault 101",
+      "DESC": "Obteve o Pip-Boy 3000."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018579",
+      "FORMID": "018579",
+      "EDID": "TTWDLC01ChallengeMillWorker",
+      "FULL": "Operário da Usina",
+      "DESC": "Encontre todos os 100 lingotes de aço."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018578",
+      "FORMID": "018578",
+      "EDID": "TTWChallengeBloodTies",
+      "FULL": "Senhor Vampiro",
+      "DESC": "Consuma Bolsas de Sangue."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018577",
+      "FORMID": "018577",
+      "EDID": "TTWDLC05ChallengeArchivist",
+      "FULL": "Arquivista Alienígena",
+      "DESC": "Encontrou todos os registros gravados dos cativos alienígenas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018576",
+      "FORMID": "018576",
+      "EDID": "TTWChallengeVault101",
+      "FULL": "Encontrar o Vault 101",
+      "DESC": "Encontre o Vault 101."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018575",
+      "FORMID": "018575",
+      "EDID": "TTWChallengeVault92",
+      "FULL": "Encontrar o Vault 92",
+      "DESC": "Encontre o Vault 92."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018574",
+      "FORMID": "018574",
+      "EDID": "TTWChallengeVault87",
+      "FULL": "Encontrar o Vault 87",
+      "DESC": "Encontre o Vault 87."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018573",
+      "FORMID": "018573",
+      "EDID": "TTWChallengeVault108",
+      "FULL": "Encontrar o Vault 108",
+      "DESC": "Encontre o Vault 108."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018572",
+      "FORMID": "018572",
+      "EDID": "TTWChallengeVault106",
+      "FULL": "Encontrar o Vault 106",
+      "DESC": "Encontre o Vault 106."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009268",
+      "FORMID": "009268",
+      "EDID": "TTWChallengeBibliophilia",
+      "FULL": "Bibliofilia",
+      "DESC": "Leia livros."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009090",
+      "FORMID": "009090",
+      "EDID": "TTWChallengeKarmaNeutral60",
+      "FULL": "Verdadeiro Mortal",
+      "DESC": "Alcançou o Nível 60 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00908F",
+      "FORMID": "00908F",
+      "EDID": "TTWChallengeKarmaGood60",
+      "FULL": "Messias",
+      "DESC": "Alcançou o Nível 60 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00908E",
+      "FORMID": "00908E",
+      "EDID": "TTWChallengeKarmaEvil60",
+      "FULL": "Diabo",
+      "DESC": "Alcançou o Nível 60 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083DE",
+      "FORMID": "0083DE",
+      "EDID": "TTWChallengeRockItMan",
+      "FULL": "Homem Rock-It",
+      "DESC": "Mate 100 inimigos com o Lança-Tudo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B54",
+      "FORMID": "007B54",
+      "EDID": "TTWChallengeRegulator",
+      "FULL": "Regulator",
+      "DESC": "Leve mais 100 fora da lei à justiça."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B53",
+      "FORMID": "007B53",
+      "EDID": "TTWChallengeBountyHunter",
+      "FULL": "Bounty Hunter",
+      "DESC": "Leve mais 50 fora da lei à justiça."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B52",
+      "FORMID": "007B52",
+      "EDID": "TTWChallengeHiredGun",
+      "FULL": "Pistoleiro de Aluguel",
+      "DESC": "Leve 50 fora da lei à justiça."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B51",
+      "FORMID": "007B51",
+      "EDID": "TTWChallengeProfessional",
+      "FULL": "Profissional",
+      "DESC": "Conclua mais 100 contratos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B50",
+      "FORMID": "007B50",
+      "EDID": "TTWChallengeMechanic",
+      "FULL": "Mechanic",
+      "DESC": "Conclua mais 50 contratos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4F",
+      "FORMID": "007B4F",
+      "EDID": "TTWChallengeHitman",
+      "FULL": "Assassino",
+      "DESC": "Conclua 50 contratos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4E",
+      "FORMID": "007B4E",
+      "EDID": "TTWChallengeCaptivated",
+      "FULL": "Cativado",
+      "DESC": "Liberte 10 cativos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4D",
+      "FORMID": "007B4D",
+      "EDID": "TTWChallengeMezzmerized",
+      "FULL": "Mezzmerizado",
+      "DESC": "Mezzmerize 50 pessoas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4C",
+      "FORMID": "007B4C",
+      "EDID": "TTWChallengeTasteOfDeath",
+      "FULL": "Gosto da Morte",
+      "DESC": "Consuma Aqua Pura, brinde à purificação da raça humana."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4B",
+      "FORMID": "007B4B",
+      "EDID": "TTWChallengeTasteOfLife",
+      "FULL": "Gosto da Vida",
+      "DESC": "Consuma Aqua Pura, brinde ao seu pai e ao seu sacrifício."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B4A",
+      "FORMID": "007B4A",
+      "EDID": "TTWChallengeHeavyHands",
+      "FULL": "Mãos Pesadas",
+      "DESC": "Acerte golpes críticos com armas brancas de duas mãos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B49",
+      "FORMID": "007B49",
+      "EDID": "TTWChallengeKarmaEvil50",
+      "FULL": "Coisa de Pesadelos",
+      "DESC": "Alcançou o Nível 50 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B48",
+      "FORMID": "007B48",
+      "EDID": "TTWChallengeKarmaNeutral50",
+      "FULL": "Herói de Aluguel",
+      "DESC": "Alcançou o Nível 50 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B47",
+      "FORMID": "007B47",
+      "EDID": "TTWChallengeKarmaGood50",
+      "FULL": "Campeão da Justiça",
+      "DESC": "Alcançou o Nível 50 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B46",
+      "FORMID": "007B46",
+      "EDID": "TTWChallengeKarmaEvil40",
+      "FULL": "Flagelo do Ermo",
+      "DESC": "Alcançou o Nível 40 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B45",
+      "FORMID": "007B45",
+      "EDID": "TTWChallengeKarmaNeutral40",
+      "FULL": "Renegado do Ermo",
+      "DESC": "Alcançou o Nível 40 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B44",
+      "FORMID": "007B44",
+      "EDID": "TTWChallengeKarmaGood40",
+      "FULL": "Guardião do Ermo",
+      "DESC": "Alcançou o Nível 40 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B43",
+      "FORMID": "007B43",
+      "EDID": "TTWChallengeKarmaEvil30",
+      "FULL": "Arauto da Guerra",
+      "DESC": "Alcançou o Nível 30 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B42",
+      "FORMID": "007B42",
+      "EDID": "TTWChallengeKarmaNeutral30",
+      "FULL": "Paradigma da Humanidade",
+      "DESC": "Alcançou o Nível 30 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B41",
+      "FORMID": "007B41",
+      "EDID": "TTWChallengeKarmaGood30",
+      "FULL": "Embaixador da Paz",
+      "DESC": "Alcançou o Nível 30 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B40",
+      "FORMID": "007B40",
+      "EDID": "TTWChallengeKarmaEvil20",
+      "FULL": "Inútil",
+      "DESC": "Alcançou o Nível 20 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3F",
+      "FORMID": "007B3F",
+      "EDID": "TTWChallengeKarmaNeutral20",
+      "FULL": "Observer",
+      "DESC": "Alcançou o Nível 20 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3E",
+      "FORMID": "007B3E",
+      "EDID": "TTWChallengeKarmaGood20",
+      "FULL": "Exemplar",
+      "DESC": "Alcançou o Nível 20 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3D",
+      "FORMID": "007B3D",
+      "EDID": "TTWChallengeKarmaEvil10",
+      "FULL": "Gato Gordo",
+      "DESC": "Alcançou o Nível 10 com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3C",
+      "FORMID": "007B3C",
+      "EDID": "TTWChallengeKarmaNeutral10",
+      "FULL": "Cidadão",
+      "DESC": "Alcançou o Nível 10 com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3B",
+      "FORMID": "007B3B",
+      "EDID": "TTWChallengeKarmaGood10",
+      "FULL": "Dignitário",
+      "DESC": "Alcançou o Nível 10 com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B3A",
+      "FORMID": "007B3A",
+      "EDID": "TTWChallengeAnkle",
+      "FULL": "Mordedor de Tornozelos",
+      "DESC": "Aleije as pernas dos inimigos."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B39",
+      "FORMID": "007B39",
+      "EDID": "TTWChallengeAintThatHard",
+      "FULL": "Não É Tão Difícil",
+      "DESC": "Aleije os membros dos inimigos com pistolas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B38",
+      "FORMID": "007B38",
+      "EDID": "TTWChallengeKitschMaster",
+      "FULL": "Mestre do Kitsch",
+      "DESC": "Encontre todos os 11 globos de neve colecionáveis."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B37",
+      "FORMID": "007B37",
+      "EDID": "TTWChallengeHarder",
+      "FULL": "...Maior Será a Queda",
+      "DESC": "Mate criaturas lendárias."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B36",
+      "FORMID": "007B36",
+      "EDID": "TTWChallengeVaultHunter",
+      "FULL": "Caçador de Vaults",
+      "DESC": "Encontre todos os Vaults."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A6C",
+      "FORMID": "000A6C",
+      "EDID": "NVDLC05ChallengeDyinAintMuchOfALiving",
+      "FULL": "Morrer Não É Lá Grande Coisa **",
+      "DESC": "Mate membros dos esquadrões de ataque da NCR ou da Legião com armas que se beneficiam da vantagem Pistoleiro."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A6A",
+      "FORMID": "000A6A",
+      "EDID": "NVDLC05ChallengeEvenAGodKingCanBleed",
+      "FULL": "Até um Rei-Deus Pode Sangrar **",
+      "DESC": "Aleije a cabeça de Caesar com Lanças de Arremesso."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A68",
+      "FORMID": "000A68",
+      "EDID": "NVDLC05ChallengeSicSemperTyrannis",
+      "FULL": "Sic Semper Tyrannis **",
+      "DESC": "Mate o Presidente Kimball com qualquer Pistola de Uma Mão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A67",
+      "FORMID": "000A67",
+      "EDID": "NVDLC05ChallengeBenefitOrAHazard",
+      "FULL": "Benefício ou Perigo *",
+      "DESC": "Mate Robôs com Pistolas 5.56mm."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A65",
+      "FORMID": "000A65",
+      "EDID": "NVDLC05ChallengeVault13sRevenge",
+      "FULL": "A Vingança do Vault 13 **",
+      "DESC": "Mate Super Mutants com Pistolas 5.56mm, Defensores de Plasma, Granadas de Plasma, Punhos de Ferro, Estripadores ou a Bozar."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A63",
+      "FORMID": "000A63",
+      "EDID": "NVDLC05ChallengeManMachineInterface",
+      "FULL": "Interface Homem-Máquina ***",
+      "DESC": "Mate Sr. Corajosos e Robôs Sentinela com Soco Inglês, Soqueira com Espinhos, Chave de Roda e Canos de Chumbo."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A60",
+      "FORMID": "000A60",
+      "EDID": "NVDLC05ChallengeCrackerjackTiming",
+      "FULL": "Tempo Impecável ***",
+      "DESC": "Mate Cazadores dos Ermos de Mojave com Granadas de Lata, Dinamite de Estopim Longo e Bombas-relógio."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A5D",
+      "FORMID": "000A5D",
+      "EDID": "NVDLC05ChallengeTheSameCouldBeSaid",
+      "FULL": "O Mesmo Pode Ser Dito de Todas as Armas Religiosas *",
+      "DESC": "Mate Ghouls Ferais com Maria, Gehenna, Uma Luz que Brilha na Escuridão e Granadas de Fragmentação Sagradas."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A5A",
+      "FORMID": "000A5A",
+      "EDID": "NVDLC05ChallengeASlaveObeys",
+      "FULL": "Um Escravo Obedece *",
+      "DESC": "Mate o Sr. House com um taco 9 ou o Taco de Golfe de Nephi."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A58",
+      "FORMID": "000A58",
+      "EDID": "NVDLC05ChallengeArmedForBear",
+      "FULL": "Armado Para o Urso ***",
+      "DESC": "Mate qualquer Ranger da NCR nomeado ou oficial comissionado (Tenente, Capitão, Major, Coronel, General) com Facões, Estripadores, Serras Elétricas, Lanças de Arremesso ou Punhos Balísticos."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A54",
+      "FORMID": "000A54",
+      "EDID": "NVDLC05ChallengeAgainstAllTyrants",
+      "FULL": "Contra Todos os Tiranos ***",
+      "DESC": "Mate qualquer membro da Legião nomeado com Revólveres de Caça, Ranger Sequoia, Brush Guns, Rifles de Serviço, Rifles de Caça ou Repetidoras Cowboy."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A53",
+      "FORMID": "000A53",
+      "EDID": "NVDLC05ChallengeCuriosAndRelics",
+      "FULL": "Curiosidades e Relíquias",
+      "DESC": "Cause dano com armas únicas dos Ermos de Mojave."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A51",
+      "FORMID": "000A51",
+      "EDID": "NVDLC05ChallengeNeNeNeNe",
+      "FULL": "Ne Ne Ne Ne... *",
+      "DESC": "Aleije Braços Direitos com Escopetas."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A50",
+      "FORMID": "000A50",
+      "EDID": "NVDLC05ChallengeYouDontBelong",
+      "FULL": "Você Não Pertence a Este Mundo! *",
+      "DESC": "Mate Abominações com Katanas, Dinamite, Facões, Lanças de Arremesso, Facas de Arremesso e Machadinhas de Arremesso."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A4E",
+      "FORMID": "000A4E",
+      "EDID": "NVDLC05ChallengeOverkill",
+      "FULL": "Exagero *",
+      "DESC": "Mate Animais com qualquer Fat Man ou Minas Fat."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A4D",
+      "FORMID": "000A4D",
+      "EDID": "NVDLC05ChallengeWhiteLineNightmare",
+      "FULL": "Pesadelo da Linha Branca **",
+      "DESC": "Mate os Demônios, Vipers ou Jackals com Chave de Roda, Bastões de Beisebol, Canos de Chumbo, Facões, Revólveres .44 Magnum ou Escopetas Serradas."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A4C",
+      "FORMID": "000A4C",
+      "EDID": "NVDLC05ChallengeTalkAboutOwned",
+      "FULL": "Falando em Dominar **",
+      "DESC": "Mate o Benny com a própria arma, a Maria."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A4B",
+      "FORMID": "000A4B",
+      "EDID": "NVDLC05ChallengeDeathclawProHunter",
+      "FULL": "Caçador Profissional de Deathclaws ***",
+      "DESC": "Mate Deathclaws adultos com pistolas .22, canivetes, fita de boxe, rifles de recarga ou dinamite."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A4A",
+      "FORMID": "000A4A",
+      "EDID": "NVDLC05ChallengeHistoricalPropriety",
+      "FULL": "Decoro Histórico **",
+      "DESC": "Mate o Caesar com uma Faca ou Faca de Combate."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A49",
+      "FORMID": "000A49",
+      "EDID": "NVDLC05ChallengeNyahSee",
+      "FULL": "Nyah! Viu? **",
+      "DESC": "Mate os Presidentes, os Luvas Brancas ou os Omertas com qualquer submetralhadora, metralhadora leve ou minigun."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000948",
+      "FORMID": "000948",
+      "EDID": "NVDLC05ChallengeMasterOfTheArsenal",
+      "FULL": "Mestre do Arsenal",
+      "DESC": "Cause dano com as armas do Arsenal dos Contrabandistas de Armas (GRA)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B390",
+      "FORMID": "00B390",
+      "EDID": "NVDLC02ChallengeYaoGuaiHunter",
+      "FULL": "Caçador de Yao Guai",
+      "DESC": "Mate 50 Yao Guai."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16BA4E",
+      "FORMID": "16BA4E",
+      "EDID": "NVChallengeCaravanMaster",
+      "FULL": "Mestre de Caravanas",
+      "DESC": "Vença no Caravan."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E8",
+      "FORMID": "1690E8",
+      "EDID": "NVChallengeOldTyme",
+      "FULL": "Briguento à Moda Antiga",
+      "DESC": "Cause dano com armas Desarmadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E6",
+      "FORMID": "1690E6",
+      "EDID": "NVChallengeMojaveMaster",
+      "FULL": "Mestre do Ermo",
+      "DESC": "Descobrir mais lugares."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E5",
+      "FORMID": "1690E5",
+      "EDID": "NVChallengeLeadDeal",
+      "FULL": "Traficante de Chumbo",
+      "DESC": "Cause dano com Armas de Fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E4",
+      "FORMID": "1690E4",
+      "EDID": "NVChallengeBlasterMaster",
+      "FULL": "Mestre Blaster",
+      "DESC": "Cause dano com armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E3",
+      "FORMID": "1690E3",
+      "EDID": "NVChallengeLoveBomb",
+      "FULL": "Amo a Bomba",
+      "DESC": "Cause dano com armas explosivas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E2",
+      "FORMID": "1690E2",
+      "EDID": "NVChallengeSamurai",
+      "FULL": "Samurai do Ermo",
+      "DESC": "Causar dano com armas brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165773",
+      "FORMID": "165773",
+      "EDID": "NVChallengeSurvival",
+      "FULL": "Sobrevivencialista do Ermo",
+      "DESC": "Cure-se com comida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165771",
+      "FORMID": "165771",
+      "EDID": "NVChallengeBarter",
+      "FULL": "Você Que Manda Em Barter Town",
+      "DESC": "Compre e venda itens a vendedores."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3D",
+      "FORMID": "15EB3D",
+      "EDID": "NVChallengeVault34",
+      "FULL": "Encontre o Vault 34",
+      "DESC": "Encontre o Vault 34."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3C",
+      "FORMID": "15EB3C",
+      "EDID": "NVChallengeVault3",
+      "FULL": "Encontre o Vault 3",
+      "DESC": "Encontre o Vault 3."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3B",
+      "FORMID": "15EB3B",
+      "EDID": "NVChallengeVault22",
+      "FULL": "Encontre o Vault 22",
+      "DESC": "Encontre o Vault 22."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3A",
+      "FORMID": "15EB3A",
+      "EDID": "NVChallengeKillOne",
+      "FULL": "Eu Mato Você Com Uma Mão Só",
+      "DESC": "Mate inimigos com armas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB39",
+      "FORMID": "15EB39",
+      "EDID": "NVChallengeOrbit",
+      "FULL": "Que se foda, vamos tacar uma bomba.",
+      "DESC": "Use qualquer arma montada no ombro para matar inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB37",
+      "FORMID": "15EB37",
+      "EDID": "NVChallengeRifleman",
+      "FULL": "O Rifleiro",
+      "DESC": "Mate inimigos com armas de coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB35",
+      "FORMID": "15EB35",
+      "EDID": "NVChallengeVault19",
+      "FULL": "Encontre o Vault 19",
+      "DESC": "Encontre o Vault 19."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB34",
+      "FORMID": "15EB34",
+      "EDID": "NVChallengeVault11",
+      "FULL": "Encontre o Vault 11",
+      "DESC": "Encontre o Vault 11."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB33",
+      "FORMID": "15EB33",
+      "EDID": "NVChallengeExplore",
+      "FULL": "Andarilho do Ermo",
+      "DESC": "Descubra locais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB32",
+      "FORMID": "15EB32",
+      "EDID": "NVChallengeLie",
+      "FULL": "Talvez seja mentira",
+      "DESC": "Viciar (de novo e de novo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB31",
+      "FORMID": "15EB31",
+      "EDID": "NVChallengeWords",
+      "FULL": "Sem Saber o Que Dizer",
+      "DESC": "Obtenha falhas em Oratória."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2F",
+      "FORMID": "15EB2F",
+      "EDID": "NVChallengeLowTech",
+      "FULL": "Hacking de Baixa Tecnologia",
+      "DESC": "Abrir fechaduras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2E",
+      "FORMID": "15EB2E",
+      "EDID": "NVChallengeLocks",
+      "FULL": "Fechaduras, que se dane",
+      "DESC": "Arrombe mais fechaduras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2D",
+      "FORMID": "15EB2D",
+      "EDID": "NVChallengeHax",
+      "FULL": "H4x Supr3m3",
+      "DESC": "Hackeie mais terminais de computador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2C",
+      "FORMID": "15EB2C",
+      "EDID": "NVChallengeGlow",
+      "FULL": "Brilho Saudável",
+      "DESC": "Invadir terminais de computador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2B",
+      "FORMID": "15EB2B",
+      "EDID": "NVChallengeStop",
+      "FULL": "Eu Posso Parar Quando Eu Quiser",
+      "DESC": "Use mais drogas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2A",
+      "FORMID": "15EB2A",
+      "EDID": "NVChallengeDayTripper",
+      "FULL": "Viajante de Primeira",
+      "DESC": "Use estimulantes viciantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB29",
+      "FORMID": "15EB29",
+      "EDID": "NVChallengeApocalypse",
+      "FULL": "Apocalipse Não Chega Nem Perto",
+      "DESC": "Mate qualquer coisa (e praticamente tudo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB28",
+      "FORMID": "15EB28",
+      "EDID": "NVChallengeMurder",
+      "FULL": "Lorde da Morte da Montanha do Assassinato",
+      "DESC": "Mate qualquer coisa (só mais deles)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB27",
+      "FORMID": "15EB27",
+      "EDID": "NVChallengeLordDeath",
+      "FULL": "Lorde Morte",
+      "DESC": "Mate qualquer coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB25",
+      "FORMID": "15EB25",
+      "EDID": "NVChallengeDineDash",
+      "FULL": "Coma e Vaze",
+      "DESC": "Coma cadáveres."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB24",
+      "FORMID": "15EB24",
+      "EDID": "NVChallengeAnimalControl",
+      "FULL": "Controle Animal",
+      "DESC": "Mate Animais Mutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB23",
+      "FORMID": "15EB23",
+      "EDID": "NVChallengeAbom",
+      "FULL": "Abominável",
+      "DESC": "Mate as Abominações."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB22",
+      "FORMID": "15EB22",
+      "EDID": "NVChallengeDemiseMachine",
+      "FULL": "A Queda das Máquinas",
+      "DESC": "Mate inimigos robôs."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB21",
+      "FORMID": "15EB21",
+      "EDID": "NVChallengeMutantMassacre",
+      "FULL": "Massacre de Supermutantes",
+      "DESC": "Mate Supermutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB20",
+      "FORMID": "15EB20",
+      "EDID": "NVChallengeBug",
+      "FULL": "Esmaga-Insetos",
+      "DESC": "Matar Insetos Mutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1E",
+      "FORMID": "15EB1E",
+      "EDID": "NVChallengeGutCheck",
+      "FULL": "Verificador de Tripas",
+      "DESC": "Aleije os torsos dos inimigos com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1C",
+      "FORMID": "15EB1C",
+      "EDID": "NVChallengeGoForEyes",
+      "FULL": "Mire nos Olhos",
+      "DESC": "Cause dano nas cabeças dos inimigos com armas de Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1B",
+      "FORMID": "15EB1B",
+      "EDID": "NVChallengeAndBoy",
+      "FULL": "...E como meus braços estão moídos",
+      "DESC": "Causar dano com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1A",
+      "FORMID": "15EB1A",
+      "EDID": "NVChallengeDestroyBeauty",
+      "FULL": "Destruir Algo Não Tão Bonito",
+      "DESC": "Causar dano com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB19",
+      "FORMID": "15EB19",
+      "EDID": "NVChallengeMoreHollars",
+      "FULL": "Por Mais Uns Trocados",
+      "DESC": "Mate mais inimigos usando armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB18",
+      "FORMID": "15EB18",
+      "EDID": "NVChallengeFistful",
+      "FULL": "Por uns Trocados a Mais",
+      "DESC": "Mate inimigos usando armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB17",
+      "FORMID": "15EB17",
+      "EDID": "NVChallengeThisHack",
+      "FULL": "Isto é Hacking",
+      "DESC": "Cause acertos críticos com armas corpo a corpo de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB15",
+      "FORMID": "15EB15",
+      "EDID": "NVChallengeOneHand",
+      "FULL": "Eu Faço Isso Com Uma Mão Amarrada Nas Costas",
+      "DESC": "Cause dano com armas brancas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB14",
+      "FORMID": "15EB14",
+      "EDID": "NVChallengeTwoHands",
+      "FULL": "Duas Mãos São Melhores Que Uma",
+      "DESC": "Infligir dano com Armas Brancas de duas mãos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB13",
+      "FORMID": "15EB13",
+      "EDID": "NVChallengeUpCloser",
+      "FULL": "Mais Perto",
+      "DESC": "Mate mais inimigos com Armas Brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB11",
+      "FORMID": "15EB11",
+      "EDID": "NVChallengeDisarm",
+      "FULL": "Personalidade Desarmante",
+      "DESC": "Desarmar minas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB10",
+      "FORMID": "15EB10",
+      "EDID": "NVChallengeAimingOptional",
+      "FULL": "Mira Opcional",
+      "DESC": "Causar dano com lançadores de Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0F",
+      "FORMID": "15EB0F",
+      "EDID": "NVChallengeGrenade",
+      "FULL": "Tenho Que Te Dar Uma Granada de Mão",
+      "DESC": "Causa dano com minas e granadas arremessadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0E",
+      "FORMID": "15EB0E",
+      "EDID": "NVChallengeLaserFun",
+      "FULL": "Configure os Lasers para a Diversão",
+      "DESC": "Cause dano a inimigos com armas de energia de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0D",
+      "FORMID": "15EB0D",
+      "EDID": "NVChallengeBlind",
+      "FULL": "Você vai cegar alguém.",
+      "DESC": "Cause dano à cabeça de inimigos com Armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0C",
+      "FORMID": "15EB0C",
+      "EDID": "NVChallengeHappyToSee",
+      "FULL": "...Ou Está Só Feliz em Me Ver?",
+      "DESC": "Explode as calças do inimigo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0B",
+      "FORMID": "15EB0B",
+      "EDID": "NVChallengeUsingThat",
+      "FULL": "Você estava usando isso?",
+      "DESC": "Aleije os membros dos inimigos com armas brancas de duas mãos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0A",
+      "FORMID": "15EB0A",
+      "EDID": "NVChallengeKaboomPow",
+      "FULL": "Cabum-cabum-pau",
+      "DESC": "Mate mais inimigos com Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB09",
+      "FORMID": "15EB09",
+      "EDID": "NVChallengeKaboom",
+      "FULL": "Kabum",
+      "DESC": "Mate inimigos com Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB08",
+      "FORMID": "15EB08",
+      "EDID": "NVChallengeMachinegun",
+      "FULL": "Clique",
+      "DESC": "Cause dano com qualquer submetralhadora, metralhadora ou minigun."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB07",
+      "FORMID": "15EB07",
+      "EDID": "NVChallengeSqueezy",
+      "FULL": "O Grande Squeezy",
+      "DESC": "Infligir dano com armas de fogo com coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB06",
+      "FORMID": "15EB06",
+      "EDID": "NVChallengeShotgun",
+      "FULL": "Eu Tenho Uma Escopeta",
+      "DESC": "Causar dano com escopetas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB05",
+      "FORMID": "15EB05",
+      "EDID": "NVChallengeLittleCrit",
+      "FULL": "Um Pouco Crítico",
+      "DESC": "Cause acertos críticos com pistolas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB03",
+      "FORMID": "15EB03",
+      "EDID": "NVChallengeMoreEnergetic",
+      "FULL": "Mais Energético",
+      "DESC": "Mate mais inimigos com armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB02",
+      "FORMID": "15EB02",
+      "EDID": "NVChallengeEnergetic",
+      "FULL": "Enérgico",
+      "DESC": "Mate inimigos com armas de energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB01",
+      "FORMID": "15EB01",
+      "EDID": "NVChallengeDisint",
+      "FULL": "...E Conheça as Desintegrações",
+      "DESC": "Desintegre inimigos com armas de laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB00",
+      "FORMID": "15EB00",
+      "EDID": "NVChallengeLucky",
+      "FULL": "Atirador Sortudo",
+      "DESC": "Cause dano à cabeça dos inimigos com rifles automáticos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFF",
+      "FORMID": "15EAFF",
+      "EDID": "NVChallengeEyeOut",
+      "FULL": "Arranca o Olho Dele",
+      "DESC": "Cause dano à cabeça de inimigos com armas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFE",
+      "FORMID": "15EAFE",
+      "EDID": "NVChallengeApple",
+      "FULL": "Você Errou a Maçã",
+      "DESC": "Cause dano à cabeça dos inimigos com rifles não automáticos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFD",
+      "FORMID": "15EAFD",
+      "EDID": "NVChallengeShootemUpAgain",
+      "FULL": "Atire Neles de Novo",
+      "DESC": "Mate mais inimigos com Armas de Fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFC",
+      "FORMID": "15EAFC",
+      "EDID": "NVChallengeShootemUp",
+      "FULL": "Atire neles",
+      "DESC": "Mate inimigos com armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFA",
+      "FORMID": "15EAFA",
+      "EDID": "NVChallengeCriticalReaction",
+      "FULL": "Reação Crítica",
+      "DESC": "Cause acertos críticos com armas de energia de coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF9",
+      "FORMID": "15EAF9",
+      "EDID": "NVChallengeRepair",
+      "FULL": "Consertando Coisas",
+      "DESC": "Repare itens no seu inventário por conta própria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF7",
+      "FORMID": "15EAF7",
+      "EDID": "NVChallengeBeam",
+      "FULL": "Me Teletransporte (Arma)",
+      "DESC": "Infligir dano com armas de energia com coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF6",
+      "FORMID": "15EAF6",
+      "EDID": "NVChallengeDismember",
+      "FULL": "Eu Desmembro Você",
+      "DESC": "Desmembrar membros."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF2",
+      "FORMID": "15EAF2",
+      "EDID": "NVChallengeFreeRadical",
+      "FULL": "Radical Livre",
+      "DESC": "Use Rad-X."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF1",
+      "FORMID": "15EAF1",
+      "EDID": "NVChallengeRadical",
+      "FULL": "Radical",
+      "DESC": "Use Rad-X."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE6",
+      "FORMID": "15EAE6",
+      "EDID": "NVChallengeQuestin",
+      "FULL": "Ponto de Interrogação",
+      "DESC": "Conclua Missões."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE5",
+      "FORMID": "15EAE5",
+      "EDID": "NVChallengeDrWaste",
+      "FULL": "Dr. Baldio, M.D.",
+      "DESC": "Use maletas de médico."
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@PointLookout.esm:00D786",
+      "FORMID": "00D786",
+      "EDID": "DLC04TribalRanged3FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D785",
+      "FORMID": "00D785",
+      "EDID": "DLC04TribalRanged3FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D784",
+      "FORMID": "00D784",
+      "EDID": "DLC04TribalRanged2MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D783",
+      "FORMID": "00D783",
+      "EDID": "DLC04TribalRanged2MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D782",
+      "FORMID": "00D782",
+      "EDID": "DLC04TribalRanged2MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01039F",
+      "FORMID": "01039F",
+      "EDID": "DLC04BogCorpseDeadSettler",
+      "FULL": "Colono Morto"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D781",
+      "FORMID": "00D781",
+      "EDID": "DLC04TribalRanged2MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D780",
+      "FORMID": "00D780",
+      "EDID": "DLC04TribalRanged2FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77F",
+      "FORMID": "00D77F",
+      "EDID": "DLC04TribalRanged2FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77E",
+      "FORMID": "00D77E",
+      "EDID": "DLC04TribalRanged2FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77D",
+      "FORMID": "00D77D",
+      "EDID": "DLC04TribalRanged2FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77C",
+      "FORMID": "00D77C",
+      "EDID": "DLC04TribalRanged1MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77B",
+      "FORMID": "00D77B",
+      "EDID": "DLC04TribalRanged1MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D77A",
+      "FORMID": "00D77A",
+      "EDID": "DLC04TribalRanged1MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D779",
+      "FORMID": "00D779",
+      "EDID": "DLC04TribalRanged1MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F9F3",
+      "FORMID": "00F9F3",
+      "EDID": "DLC04MisterBurke",
+      "FULL": "Mister Break"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D778",
+      "FORMID": "00D778",
+      "EDID": "DLC04TribalRanged1FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D777",
+      "FORMID": "00D777",
+      "EDID": "DLC04TribalRanged1FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D776",
+      "FORMID": "00D776",
+      "EDID": "DLC04TribalRanged1FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3CE",
+      "FORMID": "00F3CE",
+      "EDID": "DLC04TribalFriendlyFB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3CD",
+      "FORMID": "00F3CD",
+      "EDID": "DLC04TribalFriendlyFATEMPLATE",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3CC",
+      "FORMID": "00F3CC",
+      "EDID": "DLC04TribalFriendlyMD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3CB",
+      "FORMID": "00F3CB",
+      "EDID": "DLC04TribalFriendlyMC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3CA",
+      "FORMID": "00F3CA",
+      "EDID": "DLC04TribalFriendlyMB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3C9",
+      "FORMID": "00F3C9",
+      "EDID": "DLC04TribalFriendlyMA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3C8",
+      "FORMID": "00F3C8",
+      "EDID": "DLC04TribalFriendlyFC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3C7",
+      "FORMID": "00F3C7",
+      "EDID": "DLC04TribalFriendlyFD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D775",
+      "FORMID": "00D775",
+      "EDID": "DLC04TribalRanged1FAFTEMPLATE",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D774",
+      "FORMID": "00D774",
+      "EDID": "DLC04TribalMelee5MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D773",
+      "FORMID": "00D773",
+      "EDID": "DLC04TribalMelee5MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D772",
+      "FORMID": "00D772",
+      "EDID": "DLC04TribalMelee5MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D771",
+      "FORMID": "00D771",
+      "EDID": "DLC04TribalMelee5MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D770",
+      "FORMID": "00D770",
+      "EDID": "DLC04TribalMelee5FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76F",
+      "FORMID": "00D76F",
+      "EDID": "DLC04TribalMelee5FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76E",
+      "FORMID": "00D76E",
+      "EDID": "DLC04TribalMelee5FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76D",
+      "FORMID": "00D76D",
+      "EDID": "DLC04TribalMelee5FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76C",
+      "FORMID": "00D76C",
+      "EDID": "DLC04TribalMelee4MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76B",
+      "FORMID": "00D76B",
+      "EDID": "DLC04TribalMelee4MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D76A",
+      "FORMID": "00D76A",
+      "EDID": "DLC04TribalMelee4MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D769",
+      "FORMID": "00D769",
+      "EDID": "DLC04TribalMelee4MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D768",
+      "FORMID": "00D768",
+      "EDID": "DLC04TribalMelee4FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D767",
+      "FORMID": "00D767",
+      "EDID": "DLC04TribalMelee4FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D766",
+      "FORMID": "00D766",
+      "EDID": "DLC04TribalMelee4FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D765",
+      "FORMID": "00D765",
+      "EDID": "DLC04TribalMelee4FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D764",
+      "FORMID": "00D764",
+      "EDID": "DLC04TribalMelee3MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D763",
+      "FORMID": "00D763",
+      "EDID": "DLC04TribalMelee3MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D762",
+      "FORMID": "00D762",
+      "EDID": "DLC04TribalMelee3MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D761",
+      "FORMID": "00D761",
+      "EDID": "DLC04TribalMelee3MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D760",
+      "FORMID": "00D760",
+      "EDID": "DLC04TribalMelee3FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75F",
+      "FORMID": "00D75F",
+      "EDID": "DLC04TribalMelee3FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75E",
+      "FORMID": "00D75E",
+      "EDID": "DLC04TribalMelee3FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75D",
+      "FORMID": "00D75D",
+      "EDID": "DLC04TribalMelee3FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75C",
+      "FORMID": "00D75C",
+      "EDID": "DLC04TribalMelee2MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75B",
+      "FORMID": "00D75B",
+      "EDID": "DLC04TribalMelee2MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D75A",
+      "FORMID": "00D75A",
+      "EDID": "DLC04TribalMelee2MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D759",
+      "FORMID": "00D759",
+      "EDID": "DLC04TribalMelee2MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D758",
+      "FORMID": "00D758",
+      "EDID": "DLC04TribalMelee2FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D757",
+      "FORMID": "00D757",
+      "EDID": "DLC04TribalMelee2FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D756",
+      "FORMID": "00D756",
+      "EDID": "DLC04TribalMelee2FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D755",
+      "FORMID": "00D755",
+      "EDID": "DLC04TribalMelee2FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D754",
+      "FORMID": "00D754",
+      "EDID": "DLC04TribalMelee1MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D753",
+      "FORMID": "00D753",
+      "EDID": "DLC04TribalMelee1MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D752",
+      "FORMID": "00D752",
+      "EDID": "DLC04TribalMelee1MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D751",
+      "FORMID": "00D751",
+      "EDID": "DLC04TribalMelee1MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D750",
+      "FORMID": "00D750",
+      "EDID": "DLC04TribalMelee1FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:006634",
+      "FORMID": "006634",
+      "EDID": "DLC04Tobar",
+      "FULL": "Tobar, o Barqueiro"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C2B7",
+      "FORMID": "00C2B7",
+      "EDID": "DLC04PilotSpeaker",
+      "FULL": "Piloto Morto"
+    },
+    {
+      "FORM": "@PointLookout.esm:005A39",
+      "FORMID": "005A39",
+      "EDID": "DLC04TheBrainNPC",
+      "FULL": "O Cérebro"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79F",
+      "FORMID": "00D79F",
+      "EDID": "DLC04TribalMelee1FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79E",
+      "FORMID": "00D79E",
+      "EDID": "DLC04TribalMelee1FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79D",
+      "FORMID": "00D79D",
+      "EDID": "DLC04TribalMelee1FAFTEMPLATE",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79C",
+      "FORMID": "00D79C",
+      "EDID": "DLC04TribalRanged5MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79B",
+      "FORMID": "00D79B",
+      "EDID": "DLC04TribalRanged5MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D79A",
+      "FORMID": "00D79A",
+      "EDID": "DLC04TribalRanged5MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D799",
+      "FORMID": "00D799",
+      "EDID": "DLC04TribalRanged5MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D798",
+      "FORMID": "00D798",
+      "EDID": "DLC04TribalRanged5FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D797",
+      "FORMID": "00D797",
+      "EDID": "DLC04TribalRanged5FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D796",
+      "FORMID": "00D796",
+      "EDID": "DLC04TribalRanged5FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D795",
+      "FORMID": "00D795",
+      "EDID": "DLC04TribalRanged5FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D794",
+      "FORMID": "00D794",
+      "EDID": "DLC04TribalRanged4MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D793",
+      "FORMID": "00D793",
+      "EDID": "DLC04TribalRanged4MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D792",
+      "FORMID": "00D792",
+      "EDID": "DLC04TribalRanged4MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D791",
+      "FORMID": "00D791",
+      "EDID": "DLC04TribalRanged4MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D790",
+      "FORMID": "00D790",
+      "EDID": "DLC04TribalRanged4FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78F",
+      "FORMID": "00D78F",
+      "EDID": "DLC04TribalRanged4FC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78E",
+      "FORMID": "00D78E",
+      "EDID": "DLC04TribalRanged4FB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78D",
+      "FORMID": "00D78D",
+      "EDID": "DLC04TribalRanged4FATemplate",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78C",
+      "FORMID": "00D78C",
+      "EDID": "DLC04TribalRanged3MD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78B",
+      "FORMID": "00D78B",
+      "EDID": "DLC04TribalRanged3MC",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D78A",
+      "FORMID": "00D78A",
+      "EDID": "DLC04TribalRanged3MB",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D789",
+      "FORMID": "00D789",
+      "EDID": "DLC04TribalRanged3MA",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D788",
+      "FORMID": "00D788",
+      "EDID": "DLC04TribalRanged3FD",
+      "FULL": "Tribal"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D787",
+      "FORMID": "00D787",
+      "EDID": "DLC04TribalRanged3FC",
+      "FULL": "Tribal"
+    }
+  ]
+}

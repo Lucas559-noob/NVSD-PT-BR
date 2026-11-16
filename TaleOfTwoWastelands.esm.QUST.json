@@ -1,0 +1,1447 @@
+{
+  "QUST": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079036",
+      "FORMID": "079036",
+      "EDID": "TTWMS12TenpennyResidentDeathCountQuest",
+      "FULL": "Contagem de Mortes dos Moradores da Tenpenny"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FE2",
+      "FORMID": "011FE2",
+      "EDID": "TTWUnStnPowerQuest",
+      "FULL": "Union Station",
+      "NNAM": {
+        "10": "Restaure a energia da estação.",
+        "20": "Acione os interruptores dos disjuntores.",
+        "27": "2/4 disjuntores ativados.",
+        "26": "1/4 disjuntores ativados.",
+        "29": "4/4 disjuntores ativados.",
+        "15": "Ligue o reator.",
+        "28": "3/4 disjuntores ativados.",
+        "30": "Veja o horário dos trens.",
+        "16": "Prepare o reator novamente.",
+        "17": "(Opcional) Obtenha a espoleta do reator.",
+        "5": "Encontre uma entrada para a estação."
+      }
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007EA6",
+      "FORMID": "007EA6",
+      "EDID": "TTWFollowersDogmeatPissMarkerQuest",
+      "NNAM": {
+        "0": "A \"marca\" do Dogmeat"
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:003392",
+      "FORMID": "003392",
+      "EDID": "DLC05Asm",
+      "FULL": "Missão de Suporte de Script/Preparação da Montagem de Robôs"
+    },
+    {
+      "FORM": "@Zeta.esm:000804",
+      "FORMID": "000804",
+      "EDID": "DLC05MZ3",
+      "FULL": "A GALÁXIA É PEQUENA...",
+      "NNAM": {
+        "10": "Chegue à ponte da nave alienígena.",
+        "20": "Desative o Raio da Morte.",
+        "30": "Assegure a ponte.",
+        "40": "Derrote a nave alienígena hostil.",
+        "50": "Volte para a Capital Wasteland.",
+        "60": "(Opcional) Configure a nave alienígena para se autodestruir.",
+        "5": "Ative o teletransportador do motor central.",
+        "25": "Derrote o capitão Alienígena."
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:000803",
+      "FORMID": "000803",
+      "EDID": "DLC05MZ2",
+      "FULL": "Entre as Estrelas",
+      "NNAM": {
+        "10": "Solte os humanos em êxtase.",
+        "30": "Destrua o gerador do Laboratório de Criogenia.",
+        "40": "Destrua o gerador do Hangar.",
+        "50": "Destrua o gerador da Linha de Montagens Robóticas.",
+        "70": "Tenha acesso ao nível superior da nave alienígena.",
+        "20": "Fale com Sally.",
+        "60": "Fale com Sally.",
+        "80": "Encontre uma maneira de ativar o Teletransportador de Acesso.",
+        "35": "(Opcional) Solicite ajuda às pessoas que você reviveu."
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:000802",
+      "FORMID": "000802",
+      "EDID": "DLC05MZ1",
+      "FULL": "Nada Deste Mundo",
+      "NNAM": {
+        "10": "Investigue o estranho sinal de rádio vindo de Wasteland.",
+        "20": "Encontre uma maneira de sair da cela.",
+        "30": "Recupere seu equipamento.",
+        "40": "Solte Sally de sua cela.",
+        "50": "Alcance a sala de engenharia da nave.",
+        "60": "(Opcional) Libere os outros prisioneiros de suas celas.",
+        "25": "Encene uma luta com Somah para chamar a atenção dos guardas.",
+        "27": "Derrote os guardas alienígenas.",
+        "35": "Continue a procurar uma maneira de sair das celas."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00584B",
+      "FORMID": "00584B",
+      "EDID": "DLC04MQ05b",
+      "FULL": "Encontro de Mentes",
+      "NNAM": {
+        "10": "Vá para o Farol.",
+        "50": "Encontre Desmond e detenha ele.",
+        "100": "Mate Desmond OU mate o Professor.",
+        "125": "Mate Desmond.",
+        "150": "Fale com o Professor.",
+        "180": "Mate o Professor.",
+        "185": "Fale com Desmond.",
+        "175": "Mate o Professor."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00584A",
+      "FORMID": "00584A",
+      "EDID": "DLC04MQ05a",
+      "FULL": "Encontro de Mentes",
+      "NNAM": {
+        "10": "Encontre Desmond.",
+        "15": "Encontre-se com Desmond quando estiver pronto.",
+        "50": "Vá com Desmond encontrar o Professor.",
+        "100": "Mate Desmond OU mate o Professor.",
+        "101": "Mate Desmond.",
+        "102": "Mate o Professor.",
+        "75": "Fale com o Professor ou mate o Professor.",
+        "76": "Fale com o Professor.",
+        "150": "Fale com o Professor.",
+        "175": "Mate o Professor."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:005847",
+      "FORMID": "005847",
+      "EDID": "DLC04MQ02",
+      "FULL": "Andando com Espíritos",
+      "NNAM": {
+        "10": "Investigue os Tribais da Catedral.",
+        "100": "Colete sementes da Planta Punga Gigante.",
+        "150": "Volte à Catedral.",
+        "5": "Fale com Desmond sobre a oferta."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:005846",
+      "FORMID": "005846",
+      "EDID": "DLC04MQ01",
+      "FULL": "Sabor Local",
+      "NNAM": {
+        "10": "Investigue o barco.",
+        "30": "Vá para Point Lookout.",
+        "50": "Descanse durante a viagem para Point Lookout.",
+        "120": "Investigue a mansão.",
+        "130": "Ajude o proprietário da mansão a repelir os invasores.",
+        "190": "Fale com o proprietário da mansão.",
+        "100": "Saia do Gambito da Duquesa.",
+        "160": "Acabe com os intrusos da ala Oeste.",
+        "165": "Acabe com os intrusos da ala Este.",
+        "170": "Acabe com o último invasor."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:003F70",
+      "FORMID": "003F70",
+      "EDID": "DLC04FF03",
+      "FULL": "Uma Colherada de Whiskey",
+      "NNAM": {
+        "40": "Traga para Marguerite dez Frutas Punga Refinadas, ou vinte Frutas Punga Silvestres.",
+        "50": "Traga para Marguerite três sacos de Fermento.",
+        "60": "Traga para Marguerite 24 garrafas de Água Purificada.",
+        "70": "Traga para Marguerite seis Baterias de Fissão.",
+        "90": "Colete o Licor na casa de Marguerite quando estiver pronto."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:002F47",
+      "FORMID": "002F47",
+      "EDID": "DLC04FF02",
+      "FULL": "O Coração Negro de Blackhall",
+      "NNAM": {
+        "10": "Recupere o Livro da Família Blackhall da área de rituais.",
+        "30": "Devolva o Krivbeknih para Obadiah OU para Marcella.",
+        "240": "Leve o Krivbeknih para Obadiah OU para o Edifício Dunwich na Capital Wasteland.",
+        "15": "Recupere o Krivbeknih da área de rituais.",
+        "40": "Investigue a Cena da Morte de Marcella",
+        "29": "Devolva o Livro da Família Blackhall para Obadiah.",
+        "31": "Devolva o Krivbeknih para Marcella",
+        "241": "Leve o Krivbeknih para o Edifício Dunwich na Capital Wasteland."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C75",
+      "FORMID": "004C75",
+      "EDID": "DLC03WQ03",
+      "FULL": "Água Benta",
+      "NNAM": {
+        "50": "Pergunte sobre a água benta no Monastério da Luz Eterna.",
+        "10": "Investigue a área em volta de Megaton para estudar sobre a situação da água.",
+        "60": "(Opcional) Pegue radiação para ganhar entrada no Monastério.",
+        "100": "Pare os Apóstolos da Luz Eterna.",
+        "150": "Informe Bigsley.",
+        "55": "Beba a Água Benta.",
+        "56": "Fale com o Irmão Gerard.",
+        "57": "Ganhe entrada para o Monastério."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B42",
+      "FORMID": "003B42",
+      "EDID": "DLC03WQ01",
+      "FULL": "Protegendo o Caminho da Água",
+      "NNAM": {
+        "2": "Encontre os Oficiais Davis e Lorin junto ao rio, à norte do Projeto Pureza.",
+        "3": "Descubra quem está ordenando os ataques contra as caravanas.",
+        "10": "Lide com Split Jack e sua gangue.",
+        "100": "Report to Officer Lepelletier that the job is done.",
+        "1": "Encontre-se com a Oficial Lepelletier em Rivet City.",
+        "150": "Peça a Bigsley uma recompensa por ajudar a Oficial Lepelletier em Rivet City.",
+        "101": "Informe à Oficial Lepelletier que o trabalho está feito, OU extorque ela para dar dinheiro em troca de \"Proteção\".",
+        "160": "Colete tampinhas da gangue uma vez por semana no Cais de Wilhelm."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0011AD",
+      "FORMID": "0011AD",
+      "EDID": "DLC03BS3",
+      "FULL": "Quem Arrisca Ganha",
+      "NNAM": {
+        "10": "Entre no Metro Presidencial.",
+        "20": "Localize a Saída da Base de Força Aérea Adams.",
+        "30": "Consiga ordens e equipamentos na Caixa de Reabastecimento.",
+        "50": "Entre na Plataforma Móvel da Enclave.",
+        "60": "Destrua a Plataforma Móvel da Enclave com um Ataque Orbital.",
+        "70": "Escape da Plataforma Móvel da Enclave.",
+        "80": "Suba a Bordo do Vertibird Capturado.",
+        "25": "(Opcional) Arrume a falha de segurança no Metro Presidencial .",
+        "40": "Encontre o Terminal de Acesso para baixar a rampa da Plataforma Móvel."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000AFD",
+      "FORMID": "000AFD",
+      "EDID": "DLC03BS2",
+      "FULL": "Valor do Impacto",
+      "NNAM": {
+        "10": "Fale com o Paladino Tristan.",
+        "20": "Encontre as ruínas da Olney Powerworks.",
+        "30": "Adquira uma Bobina de Tesla.",
+        "40": "Entregue a Bobina de Tesla para o Paladino Tristan.",
+        "50": "Fale com o Paladino Tristan para receber sua próxima missão.",
+        "60": "(Opcional) Fale com o Escrivão Vallincourt no Laboratório da Cidadela.",
+        "61": "(Opcional) Use os Deathclaws controlados pela Enclave a seu favor."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000802",
+      "FORMID": "000802",
+      "EDID": "DLC03BS1",
+      "FULL": "Ataque por Cima",
+      "NNAM": {
+        "10": "Fale com o Escrivão Rothchild.",
+        "20": "Ajude o Paladino Tristan durante o assalto.",
+        "30": "Recupere os dados do Satélite de Retransmissão.",
+        "40": "Entregue os dados para o Escrivão Rothchild.",
+        "50": "Informe à Ancião Lyons.",
+        "15": "Encontre o Paladino Tristan no Túnel de Carros de Rockland."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000801",
+      "FORMID": "000801",
+      "EDID": "DLC03CreatorQuest",
+      "FULL": "DLC03CreatorQuest"
+    },
+    {
+      "FORM": "@ThePitt.esm:005526",
+      "FORMID": "005526",
+      "EDID": "DLC01ConvSlave",
+      "FULL": "Sistema de Conversa Entre os Escravos"
+    },
+    {
+      "FORM": "@ThePitt.esm:00108D",
+      "FORMID": "00108D",
+      "EDID": "DLC01Quest03",
+      "FULL": "Mao-de-Obra Grátis",
+      "NNAM": {
+        "70": "Faça com que Midea revele a localização de Wernher.",
+        "10": "Encontre-se com Ashur no Refúgio.",
+        "20": "Encontre a cura no palácio de Ashur.",
+        "30": "Sequestre o bebê e vá embora OU vá embora sem o bebê.",
+        "32": "Saia sem o bebê.",
+        "55": "Encontre Wernher.",
+        "37": "Roube o bebê e vá embora.",
+        "50": "Detenha Wernher.",
+        "90": "Entregue o bebê para Wernher OU Detenha Wernher.",
+        "92": "Detenha Wernher.",
+        "97": "Entregue o bebê para Wernher.",
+        "100": "Leve o bebê de volta para sua casa.",
+        "105": "Desligue a energia da Cidade Alta.",
+        "190": "Retorne para Ashur.",
+        "195": "Fuja para Praça do Mercado.",
+        "75": "Leve o bebê para Midea.",
+        "71": "Interrogue Midea ou procure em seu quarto pistas sobre a localização de Wernher.",
+        "5": "Atravesse a Cidade Alta e entre no Refúgio.",
+        "1": "Retrieve your gear from the Arena footlocker."
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00108C",
+      "FORMID": "00108C",
+      "EDID": "DLC01Quest01",
+      "FULL": "Entrando em The Pitt",
+      "NNAM": {
+        "10": "Encontre a fonte da transmissão de rádio.",
+        "50": "Adquira uma roupa de escravo.",
+        "90": "Retorne para Wernher.",
+        "100": "Viaje para The Pitt.",
+        "200": "Infiltre-se na The Pitt.",
+        "51": "(Opcional) Adiquira uma roupa de escravo."
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00108B",
+      "FORMID": "00108B",
+      "EDID": "DLC01Quest02",
+      "FULL": "Condições Inseguras de Trabalho",
+      "NNAM": {
+        "10": "Faça contato com Midea.",
+        "139": "(Opcional) Prepare-se para o segundo combate.",
+        "50": "Colete 10 lingotes na Aciaria.",
+        "75": "Volte para Midea.",
+        "100": "Ouça o discurso de Ashur no pátio.",
+        "125": "Entre no Buraco.",
+        "124": "(Opcional) Prepare-se para o combate na Arena.",
+        "130": "Derrote seu oponente.",
+        "135": "Saia do Buraco.",
+        "140": "Entre no Buraco.",
+        "145": "Derrote seu oponente.",
+        "150": "Saia do Buraco.",
+        "15": "Encontre-se com Midea em particular.",
+        "120": "Inscreva-se na Arena.",
+        "160": "Entre no Buraco.",
+        "159": "(Opcional) Prepare-se para o último combate.",
+        "165": "Derrote seu oponente.",
+        "170": "Saia do Buraco.",
+        "49": "(Opcional) Pegue uma arma de Marco.",
+        "121": "Fale com Faydra sobre a Arena."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00362D",
+      "FORMID": "00362D",
+      "EDID": "DLC02ConvSoldier",
+      "FULL": "Sistema de Conversa de Soldados"
+    },
+    {
+      "FORM": "@Anchorage.esm:0034DA",
+      "FORMID": "0034DA",
+      "EDID": "DLC02FF",
+      "FULL": "DLC02FF"
+    },
+    {
+      "FORM": "@Anchorage.esm:0014F6",
+      "FORMID": "0014F6",
+      "EDID": "DLC02OA4",
+      "FULL": "Operação: Anchorage!",
+      "NNAM": {
+        "10": "Desative o Campo de Impulso.",
+        "20": "Entre no Complexo Chinês.",
+        "30": "Mate o General Jingwei.",
+        "40": "Fale com o General Chase.",
+        "50": "Saia da Simulação.",
+        "60": "Acesse o Arsenal VSS.",
+        "70": "Entre no Arsenal VSS e pegue tudo o que você precisar.",
+        "11": "(Opcional) Diga ao Sargento Montgomery para comandar a sua Equipe de Combate."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0009C0",
+      "FORMID": "0009C0",
+      "EDID": "DLC02OA3",
+      "FULL": "Pavimentando o Caminho",
+      "NNAM": {
+        "20": "Destrua os dois Tanques de Combustível do Depósito de Quimeras.",
+        "30": "Proteja o Posto de Escuta Chinês.",
+        "15": "Fale com o Tenente Morgan.",
+        "10": "Ouça as instruções do General Chase.",
+        "17": "(Opcional) Diga ao Sargento Montgomery para comandar a sua Equipe de Combate."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0009BF",
+      "FORMID": "0009BF",
+      "EDID": "DLC02OA2",
+      "FULL": "As Armas de Anchorage",
+      "NNAM": {
+        "10": "Infiltre-se no Arsenal Chinês.",
+        "30": "Destrua toda a Artilharia.",
+        "40": "Informe ao General Chase no Quartel General de Campo dos E.U.A.",
+        "20": "Encontre-se com o Sargento Montgomery."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0009BE",
+      "FORMID": "0009BE",
+      "EDID": "DLC02OA1",
+      "FULL": "Ajudando os Desertores",
+      "NNAM": {
+        "10": "Investigue o Sinal de Rádio dos Desertores.",
+        "15": "Encontre e entre na Base dos Desertores.",
+        "20": "Fale com o Líder dos Desertores.",
+        "30": "Explore o Posto Avançado VSS.",
+        "50": "Entre na cápsula de simulação.",
+        "45": "Coloque o traje de Interface Neural.",
+        "40": "Siga Sibley até a sala do simulador."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0F66",
+      "FORMID": "0C0F66",
+      "EDID": "MSObjectives",
+      "FULL": "MS11Objectives"
+    },
+    {
+      "FORM": "@Fallout3.esm:076D9A",
+      "FORMID": "076D9A",
+      "EDID": "DialogueVault87",
+      "FULL": "Diálogo no Vault 87"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F1E8",
+      "FORMID": "06F1E8",
+      "EDID": "PerkLawbringer",
+      "FULL": "Lawbringer"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F1E7",
+      "FORMID": "06F1E7",
+      "EDID": "PerkContractKiller",
+      "FULL": "Contrate Assassino"
+    },
+    {
+      "FORM": "@Fallout3.esm:068A9F",
+      "FORMID": "068A9F",
+      "EDID": "EndingBinks",
+      "FULL": "Encerrando a Missão do Binks"
+    },
+    {
+      "FORM": "@Fallout3.esm:061BE4",
+      "FORMID": "061BE4",
+      "EDID": "GenericCustomVoice",
+      "FULL": "Diálogo Genérico para Vozes Personalizadas"
+    },
+    {
+      "FORM": "@Fallout3.esm:038AEF",
+      "FORMID": "038AEF",
+      "EDID": "CG03Test",
+      "FULL": "G.O.A.T. Prova Escrita"
+    },
+    {
+      "FORM": "@Fallout3.esm:035B9F",
+      "FORMID": "035B9F",
+      "EDID": "FFEUniqueCond",
+      "FULL": "Etapas Acondicionadas para encontros Exclusivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:035B9E",
+      "FORMID": "035B9E",
+      "EDID": "FFERepeatCond",
+      "FULL": "Etapas Acondicionadas para encontros Repetidos"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A274",
+      "FORMID": "02A274",
+      "EDID": "MS10",
+      "FULL": "Oasis",
+      "NNAM": {
+        "10": "Entre nas cavernas inferiores e destrua o Coração de Harold.",
+        "20": "(Opcional) Aplique o Fluido de Birch no Coração de Harold e pare seu crescimento.",
+        "30": "(Opcional) Aplique o Unguento de Laurel no Coração de Harold e acelere seu crescimento.",
+        "40": "Fale com Tree Father Birch.",
+        "50": "Fale com Leaf Mother Laurel.",
+        "5": "Realize a Cerimônia Treeminder.",
+        "8": "(Opcional) Obtenha a chave para as cavernas de Branchtender Cypress.",
+        "35": "(Opcional) Mate Harold queimando ele."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0173D1",
+      "FORMID": "0173D1",
+      "EDID": "FreeformDC",
+      "FULL": "Ruínas de DC"
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA5",
+      "FORMID": "014EA5",
+      "EDID": "MS18",
+      "FULL": "Rangers de Reilly",
+      "NNAM": {
+        "10": "Encontre o Hospital Nossa Senhora da Esperança.",
+        "20": "Localize os Rangers de Reilly.",
+        "30": "Lidere os Rangers de Reilly Rangers até estarem seguros.",
+        "40": "Chegue até a saída do Hotel O Estadista.",
+        "50": "Retorne até Reilly no Complexo dos Rangers.",
+        "12": "(Opcional) Corra até o Complexo dos Rangers.",
+        "15": "(Opcional) Localize a sala de armas dos Rangers.",
+        "25": "Localize uma Bateria de Fissão.",
+        "5": "Encontre Reilly dentro do Museu de História no Submundo.",
+        "28": "Dê uma Bateria de Fissão para Donovan"
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA4",
+      "FORMID": "014EA4",
+      "EDID": "MS17",
+      "FULL": "Canção de Agatha",
+      "NNAM": {
+        "10": "Recupere o Soil Stradivarius do Vault 92.",
+        "20": "(Opcional) Localize o centro de operações da Vault-Tec.",
+        "50": "Retorne para Agatha.",
+        "30": "(Opcional) Descubra a localização do Vault 92.",
+        "60": "Encontre um comprador para o Soil Stradivarius."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA3",
+      "FORMID": "014EA3",
+      "EDID": "MS16",
+      "FULL": "Problemas em casa",
+      "NNAM": {
+        "10": "Volte para o Vault 101.",
+        "20": "Descubra o que aconteceu ao Vault 101.",
+        "30": "Acabe com os problemas do Vault 101.",
+        "40": "Detenha o Supervisor.",
+        "140": "Fale com Amata.",
+        "60": "Detenha os Rebeldes.",
+        "160": "Fale com o Supervisor.",
+        "80": "(Opcional) Sabote o Vault 101.",
+        "180": "Evacue o Vault.",
+        "190": "Deixe o Vault 101 para sempre.",
+        "200": "Todos no Vault 101 foram mortos.",
+        "90": "(Opcional) Deixe o Vault 101 para sempre."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA2",
+      "FORMID": "014EA2",
+      "EDID": "MS15",
+      "FULL": "Roubo da Declaração de Independência",
+      "NNAM": {
+        "20": "Recupere a Declaração da Independência do Arquivo Nacional.",
+        "30": "Defenda a Rotunda.",
+        "60": "Retorne para Abraham Washington em Rivet City.",
+        "50": "(Opcional) Entregue a Button Gwinnett a tinta."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA1",
+      "FORMID": "014EA1",
+      "EDID": "MS14",
+      "FULL": "Disparos na cabeça",
+      "NNAM": {
+        "10": "Mate Allistair Tenpenny.",
+        "20": "Mate Dukov e pegue sua chave.",
+        "30": "Mate Ted Strayer e pegue sua chave.",
+        "40": "Mate Dave e pegue sua chave.",
+        "60": "Entregue a chave de Dukov para o Senhor Crowley.",
+        "70": "Entregue a chave de Ted Strayer para o Senhor Crowley.",
+        "80": "Entregue a chave de Dave para o Senhor Crowley.",
+        "50": "Diga ao Senhor Crowley que Allistair Tenpenny está morto.",
+        "25": "Encontre a chave de Dukov.",
+        "35": "Encontre a chave de Ted Strayer.",
+        "45": "Encontre a chave de Dave.",
+        "90": "(Opcional) Mate o Senhor Crowley.",
+        "100": "Pegue a recompensa de Allistair Tenpenny.",
+        "110": "Investigue o Forte Constantine."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014EA0",
+      "FORMID": "014EA0",
+      "EDID": "MS13",
+      "FULL": "Somente negócios",
+      "NNAM": {
+        "1": "Escravize o sniper Arkansas em Minefield.",
+        "2": "Escravize Susan Lancaster na Torre Tenpenny.",
+        "3": "Escravize Red em Big Town.",
+        "4": "Escravize Flak em Rivet City."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E9F",
+      "FORMID": "014E9F",
+      "EDID": "MS12",
+      "FULL": "Torre Tenpenny",
+      "NNAM": {
+        "100": "Ajude os Ghouls a entrarem na Torre Tenpenny.",
+        "10": "Mate Roy Phillips e seus seguidores.",
+        "11": "Mate Roy Phillips e seus seguidores, ou ajude os Ghouls a entrarem na Torre Tenpenny.",
+        "101": "Ajude os Ghouls a entrarem na Torre Tenpenny, ou mate Roy Phillips e seus seguidores.",
+        "20": "Informe ao Chefe Gustavo.",
+        "120": "Diga a Roy Phillips que os Ghouls podem entrar."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E9E",
+      "FORMID": "014E9E",
+      "EDID": "MS11",
+      "FULL": "O Poder do Átomo",
+      "NNAM": {
+        "10": "Desarme a bomba atômica de Megaton.",
+        "15": "Burle a bomba atômica de Megaton para Explodir.",
+        "30": "Informe a Lucas Simms em Megaton.",
+        "40": "Informe ao Senhor Burke na Torre Tenpenny.",
+        "50": "Ative o detonador na Torre Tenpenny.",
+        "60": "Receba a recompensa do Senhor Burke na Torre Tenpenny.",
+        "20": "Desarme a bomba atômica de Megaton... ou a burle para explodir.",
+        "31": "Informe ao filho de Lucas Simms, Harden, em Megaton.",
+        "1": "[Opcional] Pergunte a Leo Stahl no Brass Lantern sobre comprar Mentats.",
+        "2": "[Opcional] Encontre Leo Stahl na planta de tratamento de água em troca de Mentats.",
+        "3": "[Opcional] Roube as coisas de Leo Stahl na planta de tratamento de água em troca de Mentats."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E9C",
+      "FORMID": "014E9C",
+      "EDID": "MS09",
+      "FULL": "Laços de Sangue",
+      "NNAM": {
+        "10": "Entregue a mensagem de Lucy.",
+        "20": "Verifique a residência dos West.",
+        "30": "Localize a Família.",
+        "40": "Localize Ian West.",
+        "50": "Fale com Vance sobre a decisão de Ian.",
+        "60": "Retorne a Evan King.",
+        "21": "Verifique a residência dos Schenzy.",
+        "22": "Verifique a residência dos Ewers.",
+        "25": "Informe a Evan King.",
+        "15": "Descubra o que A Família fez em Arefu."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E9B",
+      "FORMID": "014E9B",
+      "EDID": "MS08",
+      "FULL": "O Replicante",
+      "NNAM": {
+        "10": "Procure pistas sobre o androide perdido de Zimmer.",
+        "20": "Descubra o que Pinkerton em Rivet City sabe sobre o androide.",
+        "100": "Informe a Zimmer OU avise Harkness sobre Zimmer.",
+        "3": "Saiba mais sobre o androide foragido.",
+        "5": "Visite Rivet City para saber mais sobre o androide vindo da Comunidade.",
+        "15": "Continue procurando pistas sobre a identidade do androide OU diga a Zimmer que ele está morto.",
+        "11": "[Opcional] Descubra o que Dr. Preston sabe sobre o androide."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E99",
+      "FORMID": "014E99",
+      "EDID": "MS06",
+      "FULL": "Chefe de Estado",
+      "NNAM": {
+        "10": "Assegure que o Memorial Lincoln esteja livre de Super Mutantes.",
+        "20": "Tire uma foto do Memorial Lincoln.",
+        "15": "Mate todos os escravistas próximos ao Memorial Lincoln.",
+        "25": "Entregue a foto do Memorial Lincoln para Caleb.",
+        "30": "Encontre Hannibal no Memorial.",
+        "50": "Venda os artefatos de Lincoln para Leroy Walker.",
+        "55": "Encontre Hannibal Hamlin e o Templo da União.",
+        "60": "Informe a localização de Hannibal Hamlin para Leroy Walker.",
+        "5": "Fale com Caleb Smith.",
+        "35": "Diga a Hannibal que o Memorial está livre de Super Mutantes.",
+        "40": "Diga a Hannibal que Caleb está pronto.",
+        "70": "Ajude Leroy Walker no ataque ao Templo da União.",
+        "45": "Encontre o último artefato de Lincoln no Museu de História.",
+        "80": "Fale com Hannibal Hamlin.",
+        "90": "Fale com Leroy Walker.",
+        "100": "Encontre os escravos foragidos."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E98",
+      "FORMID": "014E98",
+      "EDID": "MS05",
+      "FULL": "O desafio Nuka-Cola",
+      "NNAM": {
+        "10": "Faça o Tour Nuka-Cola de Sierra.",
+        "20": "(Opcional) Encontre as ruínas da Fábrica de Engarrafamento Nuka-Cola.",
+        "30": "(Opcional) Recupere os manifestos de entrega de Nuka-Cola Quantum.",
+        "40": "Consiga 30 garrafas de Nuka-Cola Quantum e as entregue para Sierra Petrovita.",
+        "15": "Fale com Sierra Petrovita.",
+        "45": "(Opcional) Consiga 30 garrafas de Nuka-Cola Quantum e as entregue para Ronald Laren."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E97",
+      "FORMID": "014E97",
+      "EDID": "MS04",
+      "FULL": "Aqueles!",
+      "NNAM": {
+        "10": "Encontre o pai de Bryan Wilks.",
+        "30": "Remova a fonte das Formigas de Fogo.",
+        "40": "Elimine os cinco Guardiões do Ninho da Formiga Rainha.",
+        "50": "Retorne para Bryan Wilks.",
+        "20": "Dê as más notícias para Bryan Wilks.",
+        "60": "Encontre um lar para Bryan Wilks.",
+        "45": "Retorne para o Doutor Lesko.",
+        "35": "Investigue a Estação de Metrô de Marigold e remova a fonte das Formigas de Fogo.",
+        "42": "(Opcional) Não fira a Formiga Rainha.",
+        "52": "Encontre Bryan Wilks em Grayditch.",
+        "43": "Envie o Pulso Inibidor do terminal portátil de Lesko ou mate a Formiga Rainha."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E96",
+      "FORMID": "014E96",
+      "EDID": "MS03",
+      "FULL": "Guia de Sobrevivência da Wasteland",
+      "NNAM": {
+        "2": "Pergunte a Moira Brown sobre seu livro.",
+        "5": "Ajude Moira com o Capítulo 1.",
+        "10": "Encontre comida no Mercado Super-Duper.",
+        "12": "(Opcional) Encontre medicamentos no Mercado Super-Duper.",
+        "16": "Retorne para Moira.",
+        "20": "Contraia radiação (200 rads).",
+        "24": "(Opcional) Contraia mais radiação (600 rads).",
+        "26": "Retorne para Moira.",
+        "30": "Viaje até a pracinha em Minefield.",
+        "34": "(Opcional) Leve uma mina para Moira.",
+        "36": "Retorne para Moira.",
+        "38": "Ajude Moira com o Capítulo 2.",
+        "40": "Teste o repelente em três Ratos Toupeira.",
+        "44": "(Opcional) Teste o repelente em mais sete Ratos Toupeira.",
+        "46": "Retorne para Moira.",
+        "50": "Coloque o observador em um ninho de ovos no Memorial da Guerra de Anchorage.",
+        "54": "(Opcional) Não mate nenhum Mirelurk no Memorial da Guerra de Anchorage.",
+        "56": "Retorne para Moira.",
+        "60": "Fique seriamente ferido (50% de vida ou menos).",
+        "64": "(Opcional) Recebe um ferimento por mutilação.",
+        "66": "Retorne para Moira com seus ferimentos.",
+        "68": "Ajude Moira com o último capítulo.",
+        "70": "Descubra a história de Rivet City.",
+        "74": "(Opcional) Cheque outras fontes para confirmar a história de Rivet City.",
+        "76": "(Opcional) Desvende a verdadeira história de Rivet City.",
+        "78": "Retorne para Moira.",
+        "80": "Instale o processador widget na unidade central da fábrica de produção da RobCo.",
+        "84": "(Opcional) Reprograme a unidade central da fábrica da RobCo.",
+        "88": "Retorne para Moira.",
+        "90": "Acesse o catálogo de cartão na Biblioteca Pública de Arlington.",
+        "94": "(Opcional) Pegue os arquivos completos da biblioteca.",
+        "98": "Retorne para Moira."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E95",
+      "FORMID": "014E95",
+      "EDID": "MS02",
+      "FULL": "Super Humano Gambit",
+      "NNAM": {
+        "20": "Encontre o Mecânico ou Antagonizer, e pare a rivalidade deles.",
+        "120": "Retorne para a cidade por sua recompensa.",
+        "110": "(Opcional) Encontre o Mecânico e pare ele.",
+        "115": "(Opcional) Encontre a AntAgonizer e pare ela.",
+        "30": "(Opcional) Pergunte a Derek por informação sobre o Mecânico ou Antagonizer.",
+        "75": "Defenda a Oficina da AntAgonizer!",
+        "70": "Defenda a Toca do Mecânico!"
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E94",
+      "FORMID": "014E94",
+      "EDID": "MS01",
+      "FULL": "Grandes problemas em Big Town",
+      "NNAM": {
+        "20": "Resgate os prisioneiros de Big Town dos Super Mutantes.",
+        "30": "Escolte Red em segurança até Big Town.",
+        "40": "[Opcional] Resgate Shorty.",
+        "45": "Escolte Shorty em segurança até Big Town",
+        "10": "Pergunte ao povo de Big Town sobre seus amigos capturados.",
+        "49": "Explique a morte de Red ao povo de Big Town.",
+        "25": "Resgate Red.",
+        "50": "Fale com Red sobre sua recompensa."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E93",
+      "FORMID": "014E93",
+      "EDID": "MQA",
+      "FULL": "Projeto Impureza",
+      "NNAM": {
+        "10": "Infecte o abastecimento de água do Projeto Pureza... Ou não.",
+        "100": "Contamine o abastecimento de água do Projeto Pureza.",
+        "200": "Entregue o vírus FEV ao Ancião Lyons."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E91",
+      "FORMID": "014E91",
+      "EDID": "MQ11",
+      "FULL": "Devolve-los!",
+      "NNAM": {
+        "10": "Fale com Sarah Lyons sobre as instruções da missão.",
+        "20": "Prepare-se para a batalha, e então reporte à Sarah Lyons.",
+        "30": "Siga Liberty Prime em seu caminho até o Purificados.",
+        "40": "Chegue até a sala de controle do Projeto Pureza.",
+        "50": "Assegure a sala de controle do Projeto Pureza.",
+        "60": "Ative o Projeto Pureza!",
+        "1": "Siga o Ancião Lyons até o Lab. da Cidadela.",
+        "61": "Faça o ciclo da eclusa.",
+        "65": "Diga ao seu seguidor para ligar o purificador."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8F",
+      "FORMID": "014E8F",
+      "EDID": "MQ09",
+      "FULL": "O Sonho Americano",
+      "NNAM": {
+        "10": "Saia da cadeira.",
+        "20": "Pegue equipamento no armário.",
+        "30": "Encontre o Presidente Eden em seu escritório.",
+        "40": "Pegue o frasco de FEV modificado.",
+        "50": "Escape da base da Enclave.",
+        "60": "Reporte ao Ancião Lyons na Cidadela."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8E",
+      "FORMID": "014E8E",
+      "EDID": "MQ08",
+      "FULL": "Em busca do Jardim do Éden",
+      "NNAM": {
+        "10": "Localize a entrada subterrânea para o Vault 87.",
+        "20": "(Opcional) Resgate Fawkes das Células de Observação.",
+        "30": "Escape do Vault 87.",
+        "15": "Pegue o G.E.C.K."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8D",
+      "FORMID": "014E8D",
+      "EDID": "MQ07",
+      "FULL": "Resgate do Paraíso",
+      "NNAM": {
+        "10": "Ganhe entrada em Paradise Falls.",
+        "20": "Conecte o computador da loja de departamentos à rede de segurança de Paradise Falls.",
+        "30": "Diga a Squirrel que o computador está conectado à rede agora.",
+        "40": "Consiga com que Forty fique longe do cercado de escravos.",
+        "60": "Encontre uma maneira de tirar Rory Maclaren da caixa.",
+        "50": "Fale com Penny e a convença a deixar Paradise Falls.",
+        "80": "Encontre a criança à sudoeste de Paradise Falls.",
+        "70": "Fale com Penny e diga a ela para deixar Paradise Falls.",
+        "90": "Escote a criança para fora de Paradise Falls.",
+        "45": "Diga a Squirrel que o guarda está distraído.",
+        "150": "Chegue ao cercado de escravos e fale com a criança.",
+        "15": "Encontre e fale com os Lamplighters sequestrados.",
+        "160": "Diga a criança para escapar de Paradise Falls.",
+        "155": "Destranque o cercado de escravos.",
+        "170": "Encontre a criança à sudoeste de Paradise Falls.",
+        "65": "Ajude Rory Maclaren a escapar."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8C",
+      "FORMID": "014E8C",
+      "EDID": "MQ06",
+      "FULL": "Seguindo o caminho",
+      "NNAM": {
+        "5": "Escolte a Doutora Li dentro da Cidadela.",
+        "10": "Peça ao Escrivão Rothchild acesso ao computador pré-guerra.",
+        "20": "Use o computador da Vault-Tec nos Arquivos da Cidadela para localizar um G.E.C.K.",
+        "30": "Pergunte ao Escrivão Rothchild por informação sobre o Vault 87.",
+        "40": "Procure nas Cavernas de Lamplight por um caminho até o Vault 87.",
+        "50": "Ganhe entrada na cidade de Little Lamplight.",
+        "60": "Entre no Vault 87."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8B",
+      "FORMID": "014E8B",
+      "EDID": "MQ05",
+      "FULL": "Águas da Vida",
+      "NNAM": {
+        "20": "Junte-se aos cientistas no Projeto Pureza.",
+        "10": "Vá até o Lab. de Ciências do Projeto Pureza.",
+        "30": "Ligue a Bomba de Controle de Inundações.",
+        "40": "Pegue os fusíveis com o Papai.",
+        "50": "Substitua os fusíveis danificados.",
+        "60": "Ligue a unidade central.",
+        "75": "Volte para a sala de controle.",
+        "80": "Escolte a Doutora Li até o ponto de evacuação.",
+        "85": "Escolte a Doutora Li através do Túnel Taft até a Cidadela.",
+        "90": "Lide com a \"situation\" de Garza.",
+        "100": "Escolte a Doutora Li através do Túnel Taft até a Citadel.",
+        "70": "Drene a abertura dos canos.",
+        "25": "Limpe o Projeto Pureza de qualquer ameaça Mutante restante.",
+        "27": "Escolte os cientistas dentro do Projeto Pureza.",
+        "26": "Diga ao Papai que é seguro entra no Projeto Pureza.",
+        "65": "Fale com o Papai pelo interfone."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8A",
+      "FORMID": "014E8A",
+      "EDID": "MQ04",
+      "FULL": "Alameda da Tranquilidade",
+      "NNAM": {
+        "10": "Encontre e fale com Betty.",
+        "15": "Faça Timmy Neusbaum chorar.",
+        "20": "Volte para Betty.",
+        "25": "Termine o casamento dos Rockwell sem matar nenhum dos dois.",
+        "30": "Volte para Betty.",
+        "35": "Providencie uma morte criativa para Mabel Henderson.",
+        "40": "Volte para Betty.",
+        "45": "Recupere a máscara e a faca atrás da Casa Abandonada.",
+        "50": "Mate todos os moradores da Alameda da Tranquilidade.",
+        "60": "Volte para Betty.",
+        "70": "Saia da Alameda da Tranquilidade.",
+        "32": "(Opcional) Encontre e ative o computador Failsafe da Alameda da Tranquilidade.",
+        "5": "Encontre seu pai.",
+        "75": "Fale com seu pai."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E89",
+      "FORMID": "014E89",
+      "EDID": "MQ03",
+      "FULL": "Atividades Científicas",
+      "NNAM": {
+        "10": "Obtenha entrada em Rivet City.",
+        "20": "Fale com a Dra. Li sobre seu pai e o Projeto Pureza.",
+        "30": "Procure seu pai na Sala de Controle do Projeto Pureza.",
+        "40": "Procure pistas sobre o paradeiro dele nas holofitas do seu pai.",
+        "50": "Ouça a entrada 10 do diário pessoal do seu pai.",
+        "60": "Obtenha acesso ao Vault 112.",
+        "70": "Sente-se na Poltrona Virtual desocupada.",
+        "65": "Vista um macacão do Vault 112."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E88",
+      "FORMID": "014E88",
+      "EDID": "MQ02",
+      "FULL": "Rádio de Notícias Galaxy",
+      "NNAM": {
+        "10": "Encontre o Museu da Tecnologia.",
+        "20": "Pegue a Antena de Transmissão.",
+        "30": "Encontre o Monumento Washington.",
+        "40": "Conserte o transmissor de rádio danificado.",
+        "50": "Fale com Three Dog sobre o Papai.",
+        "55": "Fale com Three Dog sobre o esconderijo de armas."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E87",
+      "FORMID": "014E87",
+      "EDID": "MQ01",
+      "FULL": "Seguindo seus passos",
+      "NNAM": {
+        "10": "Investigue a cidade próxima de Megaton por informação sobre o Papai.",
+        "20": "Fale com Colin Moriarty sobre o Papai.",
+        "40": "Encontre a Rádio de Notícias Galaxy.",
+        "65": "Ajude a derrotar o Super Mutante Behemoth.",
+        "70": "Pergunte a Three Dog sobre o Papai.",
+        "30": "Continue sua busca pelo Papai.",
+        "25": "(Opcional) Lide com Silver em Springvale.",
+        "60": "Pegue a Fat Man do soldado morto da Irmandade."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E86",
+      "FORMID": "014E86",
+      "EDID": "CG04",
+      "FULL": "Fugindo!",
+      "NNAM": {
+        "5": "Fale com Amata sobre o plano dela de escapar do Vault.",
+        "10": "Entre no escritório do Supervisor.",
+        "50": "Entre na sala de controle do reator.",
+        "60": "Ligue a energia novamente.",
+        "70": "Abra a porta do Vault.",
+        "40": "Use o computador do Supervisor para acessar o túnel secreto.",
+        "80": "Fuja do Vault."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E85",
+      "FORMID": "014E85",
+      "EDID": "CG03",
+      "FULL": "Futuro Imperfeito",
+      "NNAM": {
+        "40": "Sente-se e faça o G.O.A.T.",
+        "10": "Vá até a classe e fale com o Sr. Brotch sobre o G.O.A.T.",
+        "80": "Saia da sala de aula.",
+        "70": "Entregue o G.O.A.T. ao Sr. Brotch."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E83",
+      "FORMID": "014E83",
+      "EDID": "CG01",
+      "FULL": "Meus primeiros passos",
+      "NNAM": {
+        "10": "Ande até o Papai.",
+        "20": "Abra o portão do cercado.",
+        "30": "Saia do cercado.",
+        "50": "Pule na cadeira para poder entrar dentro da caixa de brinquedos.",
+        "60": "Pegue um brinquedo e o jogue dentro do berço.",
+        "70": "Brinque com seus brinquedos.",
+        "80": "Siga o Papai.",
+        "40": "Olhe seu livro \"Você é SPECIAL!\""
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BF03",
+      "FORMID": "00BF03",
+      "EDID": "NVDLC04MQ04",
+      "FULL": "O Apocalipse",
+      "NNAM": {
+        "10": "Corra para os Destroços do Cânion.",
+        "20": "Opcional: Entregue a última mensagem de Ulysses."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003615",
+      "FORMID": "003615",
+      "EDID": "NVDLC04MQ03b",
+      "FULL": "O Fim",
+      "NNAM": {
+        "10": "Cancele o lançamento do míssil.",
+        "30": "Corra para os Destroços do Cânion.",
+        "40": "Optional: Deliver Ulysses' last message."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014603",
+      "FORMID": "014603",
+      "EDID": "NVDLC03DebugTopics",
+      "FULL": "Tópicos de Depuração"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCB",
+      "FORMID": "002FCB",
+      "EDID": "NVDLC03MQ01",
+      "FULL": "Bem-vindo ao Big Empty",
+      "NNAM": {
+        "10": "Descubra onde diabos você está.",
+        "20": "Fale com seus... algozes.",
+        "30": "Pegue a parada do cérebro da antena X-2, a parada da espinha do emissor de ondas sonoras... e o traje de coração sorrateiro.",
+        "40": "Correção: Eles têm a arma emissora sônica... projeto... Eles precisam de uma nova frequência para ela.",
+        "50": "Correção: Então pegue a parada do cérebro da antena X-2... a nova frequência para o Emissor Sônico e o traje de coração ardiloso.",
+        "60": "Correction: Wait, there's another optional Sonic Emitter frequency that disables Force Fields that's not the frequency they need...? Ugh, forget it.",
+        "70": "Encerrando estes registros de entrada, limpando a partição de utilidade."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C25",
+      "FORMID": "010C25",
+      "EDID": "NVDLC02MQ07",
+      "FULL": "Partindo do Paraíso",
+      "NNAM": {
+        "10": "Retorne ao Mojave pela Passagem Sul."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AE9C",
+      "FORMID": "00AE9C",
+      "EDID": "NVDLC02MQ06",
+      "FULL": "Caos em Zion",
+      "NNAM": {
+        "10": "Recupere o mapa do Cânion de Zion.",
+        "15": "Deixe Zion e volte para o Ermos de Mojave."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008891",
+      "FORMID": "008891",
+      "EDID": "NVDLC02MQ00",
+      "FULL": "Expedição Trilhas Felizes",
+      "NNAM": {
+        "10": "Encontre o mestre da caravana Trilhas Felizes.",
+        "20": "Avise o Jed que você está pronto para partir assim que estiver viajando sozinho e carregando 34 quilos ou menos.",
+        "30": "Avise o Jed que você está pronto para partir assim que estiver viajando sozinho e carregando 45 quilos ou menos."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AA5",
+      "FORMID": "013AA5",
+      "EDID": "NVDLC01EnemyTest",
+      "FULL": "Teste de Inimigo DLC01"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A3F",
+      "FORMID": "013A3F",
+      "EDID": "NVDLC01MQ02a",
+      "FULL": "Fogo no Céu",
+      "NNAM": {
+        "10": "Leve o Cão até a Subestação de Salida del Sol.",
+        "20": "Mandar o Cão esperar na Subestação de Comutação.",
+        "30": "Encontre duas placas dos restos do Ceifador Fantasma para convencer Cão a ficar na Subestação de Mudança.",
+        "35": "(Opcional) Use o terminal da Subestação de Mudança para trancar o Cão lá dentro e forçá-lo a fazer sua parte na Gala.",
+        "5": "Fale com Elijah na Fonte para mais instruções.",
+        "40": "Retorne ao Cão com os restos do Ceifador Fantasma."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A04",
+      "FORMID": "013A04",
+      "EDID": "NVDLC01MQ02c",
+      "FULL": "Sinais Mistos",
+      "NNAM": {
+        "10": "Viaje para a Estação de Troca Puesta del Sol com Christine.",
+        "20": "Repare a caixa elétrica para ter acesso ao resto da Estação de Manobras.",
+        "30": "Leve Christine ao elevador para a Câmara de Anulação Manual.",
+        "40": "Peça para Christine descer de elevador para a Câmara de Anulação Manual.",
+        "50": "Obtenha acesso ao Terminal de Manutenção Remota para Christine.",
+        "60": "Use os controles do elevador para enviar Christine para a Câmara de Anulação Manual.",
+        "70": "Leve Christine ao Terminal de Manutenção Remota e diga a ela que pode ser usado."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FC1",
+      "FORMID": "000FC1",
+      "EDID": "NVDLC01MQ03",
+      "FULL": "Roubo dos Séculos",
+      "NNAM": {
+        "10": "Junte a sequência musical de Vera no Terminal da Recepcionista no Lobby.",
+        "50": "Fuja do cofre de Sierra Madre antes que sua coleira exploda.",
+        "30": "Descubra os segredos da Sierra Madre na câmara central do Vault.",
+        "20": "Ganhar acesso ao Cofre Sierra Madre.",
+        "40": "Derrotar Elijah.",
+        "45": "(Opcional) Saia sorrateiramente da área da câmara do Vault sem ser detectado, prendendo Elijah quando ele abrir o cofre."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FBF",
+      "FORMID": "000FBF",
+      "EDID": "NVDLC01MQ01",
+      "FULL": "Missão Principal MQ01"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0C0",
+      "FORMID": "15F0C0",
+      "EDID": "vDialogueSL",
+      "FULL": "Diálogo do Local Secundário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15435E",
+      "FORMID": "15435E",
+      "EDID": "VDialogueBetsy",
+      "FULL": "Diálogo de Betsy, a Brahma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15412F",
+      "FORMID": "15412F",
+      "EDID": "VT74",
+      "FULL": "Explorando a Vault 74",
+      "NNAM": {
+        "10": "Explore o Escritório do Supervisor da Vault 74"
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:140E14",
+      "FORMID": "140E14",
+      "EDID": "VDialogueTEST",
+      "FULL": "Diálogo de Teste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A98",
+      "FORMID": "140A98",
+      "EDID": "vDialogueRedRockCanyon",
+      "FULL": "Diálogo do Cânion Red Rock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A97",
+      "FORMID": "140A97",
+      "EDID": "vDialogueCC",
+      "FULL": "Diálogos de Cottonwood Cove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14072B",
+      "FORMID": "14072B",
+      "EDID": "vDialogueSecuritron",
+      "FULL": "Diálogo do Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14050C",
+      "FORMID": "14050C",
+      "EDID": "VMS43",
+      "FULL": "Todos Nós Iremos Juntos",
+      "NNAM": {
+        "10": "Collect Dog Tags from Ghoul NCR troopers within Camp Searchlight and take them to First Sergeant Astor.",
+        "20": "All Ghoul dog tags found, return to First Sergeant Astor."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FB6F",
+      "FORMID": "13FB6F",
+      "EDID": "vDialogueTheTops",
+      "FULL": "Diálogo do Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F405",
+      "FORMID": "13F405",
+      "EDID": "VMS41",
+      "FULL": "Adivinha Quem Eu Vi Hoje",
+      "NNAM": {
+        "30": "Fale com Lily sobre participar do experimento do Dr. Henry.",
+        "15": "(Opcional) Peça para Lily ajudar você a investigar as mutações dos Perseguidor Noturnos.",
+        "40": "Diga ao Dr. Henry para prosseguir com a experiência assim que Lily estiver presente.",
+        "65": "Mate os Nightkin hostis.",
+        "70": "Fale com o Dr. Henry.",
+        "10": "Procure a fonte da mutação furtiva dos Perseguidor Noturnos.",
+        "20": "Diga ao Dr. Henry que você descobriu uma possível causa para as mutações dos Abutres Noturnos.",
+        "60": "Fale com Keene e tente acalmar a situação.",
+        "50": "Espere o Dr. Henry completar o experimento.",
+        "80": "Decida se Lily deve continuar a usar o protótipo Mark II e informe o Dr. Henry.",
+        "16": "Mantenha Lily viva.",
+        "41": "(Optional) Optimize the Mark II prototype."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AC9B",
+      "FORMID": "13AC9B",
+      "EDID": "vDialogueCaesarsLegionCrucified",
+      "FULL": "Diálogo da Pessoa Crucificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A40B",
+      "FORMID": "13A40B",
+      "EDID": "VMQ06",
+      "FULL": "Viva Las Vegas!",
+      "NNAM": {
+        "5": "<Esta missão ainda não foi implementada>"
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:139B8C",
+      "FORMID": "139B8C",
+      "EDID": "vDialogueTestaclesDebug",
+      "FULL": "Diálogo de Depuração"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128588",
+      "FORMID": "128588",
+      "EDID": "VDialogueTops",
+      "FULL": "Diálogo do Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F86B",
+      "FORMID": "11F86B",
+      "EDID": "VMS26",
+      "FULL": "Jailhouse Rock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DB",
+      "FORMID": "10E1DB",
+      "EDID": "VFSAtomicPimp",
+      "FULL": "Wang Dang Atomic Tango",
+      "NNAM": {
+        "30": "Recruit a real Ghoul cowboy.",
+        "20": "Recruit a suave talker.",
+        "10": "Recruit a sexbot.",
+        "50": "Return to James Garret.",
+        "15": "Tell James Garret Fisto will be joining the Wrangler.",
+        "25": "Tell James Garret Santiago will be joining the Wrangler.",
+        "35": "Tell James Garret Beatrix will be joining the Wrangler.",
+        "27": "Tell James Garret Old Ben will be joining the Wrangler.",
+        "24": "The suitable suave talkers are dead.",
+        "34": "The Ghoul cowboy is dead.",
+        "14": "The sexbot was destroyed."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E196",
+      "FORMID": "10E196",
+      "EDID": "VMS19",
+      "FULL": "G.I. Blues",
+      "NNAM": {
+        "10": "Contrate um guarda chamado Orris perto do portão norte de Freeside.",
+        "20": "Siga Orris até o portão sul e fique de olho em qualquer comportamento suspeito.",
+        "60": "Vá ao Antigo Forte Mormon e questione alguns moradores feridos sobre seus agressores.",
+        "65": "Volte ao King com suas descobertas.",
+        "70": "Vá para um dos acampamentos de invasores em Freeside e descubra por que soldados da NCR têm entrado na área.",
+        "71": "(Opcional) Fale com Julie Farkas e veja se os Seguidores do Apocalipse sabem algo sobre a situação.",
+        "90": "Volte ao King e o informe sobre os lançamentos de suprimentos da NCR.",
+        "30": "Volte ao King e relate o que você descobriu sobre Orris.",
+        "31": "Volte ao King e relate que Orris está morto.",
+        "80": "Investigue os boatos de comida e água sendo distribuídas de graça toda noite na parte noroeste de Freeside.",
+        "95": "Vá até o prédio de entrega de suprimentos e veja se Pacer precisa de ajuda.",
+        "75": "Pergunte no acampamento de invasores para encontrar uma pista sobre por que soldados da NCR estão em Freeside.",
+        "32": "Volte ao King e relate que Orris se foi.",
+        "72": "(Opcional) Fale com a Major Elizabeth Kieran e mencione Julie Farkas se ela estiver relutante em ajudar.",
+        "96": "Mate todas as tropas da NCR entrincheiradas perto da estação de trem no noroeste de Freeside.",
+        "100": "Volte ao King e diga a ele que os soldados da NCR em Freeside foram devidamente tratados.",
+        "73": "(Opcional) Informe ao King que a NCR enviou um emissário anteriormente para discutir a distribuição de suprimentos para Freeside.",
+        "98": "Vá para a estação de trem no noroeste de Freeside e tente negociar com a NCR.",
+        "101": "Volte ao King e diga a ele que a situação com a NCR foi resolvida.",
+        "25": "Volte ao King e relate que você não descobriu nada sobre Orris.",
+        "26": "Contrate Orris novamente e observe se ele tem um comportamento suspeito."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C1C",
+      "FORMID": "104C1C",
+      "EDID": "VCG01",
+      "FULL": "Que Pancada, Hein?",
+      "NNAM": {
+        "10": "Vá até o Vit-o-matic Testador de Vigor.",
+        "30": "Use o Testador de Vigor Vit-o-matic.",
+        "40": "Sente-se no sofá na sala de estar do Dr. Mitchell.",
+        "50": "Siga o Dr. Mitchell até a saída."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:103FED",
+      "FORMID": "103FED",
+      "EDID": "VFreeformUnderpass",
+      "FULL": "Underpass Water Purifier"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102037",
+      "FORMID": "102037",
+      "EDID": "VCG00",
+      "FULL": "Bem-vindo à Fabulosa New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FED31",
+      "FORMID": "0FED31",
+      "EDID": "VFollowerDialogueRose",
+      "FULL": "Diálogo de Rose de Sharon Cassidy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81BD",
+      "FORMID": "0F81BD",
+      "EDID": "VMS12",
+      "FULL": "Três Cartas Premiadas",
+      "NNAM": {
+        "10": "Mate Violet e pegue a cabeça dela... de preferência intacta.",
+        "20": "Mate Cook-Cook e pegue a cabeça dele, de preferência intacta.",
+        "30": "Mate o Motorista Nephi e pegue a cabeça dele... de preferência intacta.",
+        "40": "Volte ao Major Dhatri com a cabeça de Violet e colete a recompensa.",
+        "31": "(Opcional) Recrute o Tenente Gorobets e seus atiradores da Primeira Recon para derrubar o Motorista Nephi.",
+        "50": "Volte ao Major Dhatri com a cabeça do Cook-Cook e colete a recompensa.",
+        "60": "Volte ao Major Dhatri com a cabeça do Motorista Nephi e colete a recompensa.",
+        "5": "O Major Dhatri tem recompensas disponíveis. Fale com ele para receber uma missão ou entregar uma recompensa.",
+        "21": "(Optional) Kill Cook-Cook's favorite Brahmin, Queenie, to cause him to go berserk and attack friends and foes alike.",
+        "22": "(Opcional) Fale com Little Buster sobre Cook-Cook."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD076",
+      "FORMID": "0CD076",
+      "EDID": "TempMan",
+      "FULL": "Funcionário Temporário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B87B5",
+      "FORMID": "0B87B5",
+      "EDID": "GenericIdleChatter",
+      "FULL": "Conversa fiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D74D",
+      "FORMID": "08D74D",
+      "EDID": "DialogueJeannieMayCrawford",
+      "FULL": "Diálogo de Jeannie May Crawford"
+    },
+    {
+      "FORM": "@FalloutNV.esm:080664",
+      "FORMID": "080664",
+      "EDID": "VMS01",
+      "FULL": "Venha Voar Comigo",
+      "NNAM": {
+        "10": "Enter the facility and discover the source of the Ghouls.",
+        "20": "Speak with Jason Bright, the leader of the REPCONN Ghouls.",
+        "100": "Suba até a plataforma de observação e complete a sequência de lançamento.",
+        "30": "Fale com Chris Haversam sobre consertar os foguetes.",
+        "90": "(Opcional) Sabote os foguetes para que caiam no lançamento.",
+        "40": "Encontre combustível atômico para os foguetes.",
+        "50": "Encontre peças para consertar os controladores de propulsão dos foguetes.",
+        "60": "Livre-se dos Nightkin no porão.",
+        "61": "(Opcional) Procure na sala próxima a remessa de Stealth Boys que os Nightkin estão procurando.",
+        "41": "Volte à Instalação de Foguetes e entregue o combustível a Chris Haversam.",
+        "51": "Volte à Instalação de Foguetes e entregue as peças para Chris Haversam.",
+        "62": "Informe Jason Bright que os Nightkin se foram.",
+        "80": "Leve 3 Bombas de Açúcar para Chris Haversam.",
+        "63": "(Opcional) Encontre o amigo de Harland, que foi aprisionado pelos nightkin.",
+        "70": "Fale com Chris Haversam para começar os preparativos para o lançamento do foguete.",
+        "64": "(Opcional) Volte para Harland e conte as más notícias.",
+        "15": "Suba as escadas para se encontrar com o dono da voz do interfone.",
+        "5": "Head to the REPCONN facility west of Novac to investigate rumors of Ghoul activity there.",
+        "65": "(Opcional) Encontre o líder dos \"demônios\" e fale com ele.",
+        "21": "Vá para o porão da REPCONN e fale com Jason Bright sobre o que vem a seguir.",
+        "69": "(Opcional) Volte para Davison com a notícia de que os Stealth Boys não estão na instalação da REPCONN."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE95",
+      "FORMID": "07AE95",
+      "EDID": "GenericFeralGhoul",
+      "FULL": "Missão: Diálogo com Necrófago Feral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07691F",
+      "FORMID": "07691F",
+      "EDID": "AchievementQuest",
+      "FULL": "Missão: Rastreamento de Conquistas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:075D21",
+      "FORMID": "075D21",
+      "EDID": "DialogueCrimeKarma",
+      "FULL": "Diálogo de Crime/Karma para NPCs específicos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:071622",
+      "FORMID": "071622",
+      "EDID": "RadioVault101PA",
+      "FULL": "Sistema de som do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:059C85",
+      "FORMID": "059C85",
+      "EDID": "CGTutorial",
+      "FULL": "Tutorial de Criação de Personagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:049037",
+      "FORMID": "049037",
+      "EDID": "GenericKids",
+      "FULL": "GenericKids"
+    },
+    {
+      "FORM": "@FalloutNV.esm:041E7F",
+      "FORMID": "041E7F",
+      "EDID": "GenericPlayer",
+      "FULL": "GenericPlayer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E84",
+      "FORMID": "014E84",
+      "EDID": "CG02",
+      "FULL": "Crescendo Rápido",
+      "NNAM": {
+        "10": "Curta a festa e converse com os convidados.",
+        "20": "Encontre Jonas no andar do Reator.",
+        "40": "Use o Rifle de Chumbinho para matar a RadBarata.",
+        "50": "Fique perto do Papai para Jonas poder tirar a foto.",
+        "30": "Atire nos três alvos com o Rifle de Chumbinho."
+      }
+    }
+  ]
+}

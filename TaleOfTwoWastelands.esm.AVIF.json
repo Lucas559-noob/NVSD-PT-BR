@@ -1,0 +1,35 @@
+{
+  "AVIF": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0005EB",
+      "FORMID": "0005EB",
+      "EDID": "AVEmpResist",
+      "FULL": "Resistência a Pulso Eletromagnético"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0005E9",
+      "FORMID": "0005E9",
+      "EDID": "AVFrostResist",
+      "FULL": "Resistência ao Gelo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0005E8",
+      "FORMID": "0005E8",
+      "EDID": "AVElectricResist",
+      "FULL": "Resistência à Eletricidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BC",
+      "FORMID": "0004BC",
+      "EDID": "AVSurvival",
+      "FULL": "Sobrevivência",
+      "DESC": "A perícia Sobrevivência aumenta os Pontos de Vida que você recebe de comida e bebida. Ela também ajuda você a criar itens consumíveis em fogueiras."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:000455",
+      "FORMID": "000455",
+      "EDID": "AVSpeedMult",
+      "FULL": "Multiplicador de Velocidade"
+    }
+  ]
+}

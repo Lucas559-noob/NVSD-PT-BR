@@ -1,0 +1,52 @@
+{
+  "FURN": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790AC",
+      "FORMID": "0790AC",
+      "EDID": "NovacQueenBedRight",
+      "FULL": "Queen Bed"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790AB",
+      "FORMID": "0790AB",
+      "EDID": "HotelBedQueenLeft",
+      "FULL": "Queen Sized Bed"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E0E",
+      "FORMID": "001E0E",
+      "EDID": "TTWDinerBooth03TableStatic",
+      "FULL": "Booth"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E0D",
+      "FORMID": "001E0D",
+      "EDID": "TTWVBench03",
+      "FULL": "Bench"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E0C",
+      "FORMID": "001E0C",
+      "EDID": "TTWVBench02",
+      "FULL": "Bench"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E0B",
+      "FORMID": "001E0B",
+      "EDID": "TTWVBench01",
+      "FULL": "Bench"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEECD",
+      "FORMID": "0CEECD",
+      "EDID": "HDNovacQueenBedRight",
+      "FULL": "Cama de Casal Queen"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08B5E2",
+      "FORMID": "08B5E2",
+      "EDID": "HDHotelBedQueenLeft",
+      "FULL": "Cama de Casal Grande"
+    }
+  ]
+}

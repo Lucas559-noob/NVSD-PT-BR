@@ -1,0 +1,2116 @@
+{
+  "RCPE": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079038",
+      "FORMID": "079038",
+      "EDID": "TTWDLC04BioGasGrenadeRecipe",
+      "FULL": "Bio-Gas Canister"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C772",
+      "FORMID": "01C772",
+      "EDID": "TTWDartMeltdown",
+      "FULL": "Dardo, Fusão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C771",
+      "FORMID": "01C771",
+      "EDID": "TTWDart20ga",
+      "FULL": "Dardos"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C770",
+      "FORMID": "01C770",
+      "EDID": "TTWDartKite",
+      "FULL": "Dardo, Kite"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76F",
+      "FORMID": "01C76F",
+      "EDID": "TTWDartRustRot",
+      "FULL": "Dardo, Podridão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76E",
+      "FORMID": "01C76E",
+      "EDID": "TTWDartDeathclawPoison",
+      "FULL": "Dardo, Veneno de Deathclaw"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76D",
+      "FORMID": "01C76D",
+      "EDID": "TTWDartToxicWaste",
+      "FULL": "Dardo, Resíduo Tóxico"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76C",
+      "FORMID": "01C76C",
+      "EDID": "TTWRecipeKite",
+      "FULL": "Kite"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76B",
+      "FORMID": "01C76B",
+      "EDID": "TTWRecipeToxicWaste",
+      "FULL": "Resíduo Tóxico"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C76A",
+      "FORMID": "01C76A",
+      "EDID": "TTWRecipeDeatchlawPoison",
+      "FULL": "Veneno de Deathclaw"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01C769",
+      "FORMID": "01C769",
+      "EDID": "TTWRecipeRustRot",
+      "FULL": "Podridão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018671",
+      "FORMID": "018671",
+      "EDID": "TTWSmallRiflelPrimer100",
+      "FULL": "Primer, Small Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018670",
+      "FORMID": "018670",
+      "EDID": "TTWSmallPistolPrimer100",
+      "FULL": "Primer, Small Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866F",
+      "FORMID": "01866F",
+      "EDID": "TTWShotPrimer100",
+      "FULL": "Primer, Shotshell"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866E",
+      "FORMID": "01866E",
+      "EDID": "TTWLargeRiflePrimer100",
+      "FULL": "Primer, Large Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866D",
+      "FORMID": "01866D",
+      "EDID": "TTWLargelPistolPrimer100",
+      "FULL": "Primer, Large Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866C",
+      "FORMID": "01866C",
+      "EDID": "TTW50lPrimer100",
+      "FULL": "Primer, .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866B",
+      "FORMID": "01866B",
+      "EDID": "TTWRiflePowder100",
+      "FULL": "Powder, Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01866A",
+      "FORMID": "01866A",
+      "EDID": "TTWPistolPowder100",
+      "FULL": "Powder, Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018669",
+      "FORMID": "018669",
+      "EDID": "TTW20gaHull100",
+      "FULL": "Hull, 20 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018668",
+      "FORMID": "018668",
+      "EDID": "TTW12gaHull100",
+      "FULL": "Hull, 12 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018667",
+      "FORMID": "018667",
+      "EDID": "TTW9mmCase100",
+      "FULL": "Case, 9mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018666",
+      "FORMID": "018666",
+      "EDID": "TTW5mmCase100",
+      "FULL": "Case, 5mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018665",
+      "FORMID": "018665",
+      "EDID": "TTW556Case100",
+      "FULL": "Case, 5.56mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018664",
+      "FORMID": "018664",
+      "EDID": "TTW4570Case100",
+      "FULL": "Estojo, 45-70 Gov't"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018663",
+      "FORMID": "018663",
+      "EDID": "TTW127Case100",
+      "FULL": "Case, 12.7mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018662",
+      "FORMID": "018662",
+      "EDID": "TTW10mmCase100",
+      "FULL": "Case, 10mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018661",
+      "FORMID": "018661",
+      "EDID": "TTW50Case100",
+      "FULL": "Case, .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018660",
+      "FORMID": "018660",
+      "EDID": "TTW45Case100",
+      "FULL": "Case, .45 Auto"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01865F",
+      "FORMID": "01865F",
+      "EDID": "TTW44Case100",
+      "FULL": "Case, .44 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01865E",
+      "FORMID": "01865E",
+      "EDID": "TTW357Case100",
+      "FULL": "Case, .357 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01865D",
+      "FORMID": "01865D",
+      "EDID": "TTW308case100",
+      "FULL": "Case, .308"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180AB",
+      "FORMID": "0180AB",
+      "EDID": "TTWRecipeMutFruitMarinade",
+      "FULL": "Marinada de Mutafruta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180AA",
+      "FORMID": "0180AA",
+      "EDID": "TTWRecipeCentaurSangria",
+      "FULL": "Sangria de Centauro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A9",
+      "FORMID": "0180A9",
+      "EDID": "TTWRecipeWastelandHotDog",
+      "FULL": "Cachorro-Quente do Ermo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A7",
+      "FORMID": "0180A7",
+      "EDID": "TTWRecipeBrainFreeze",
+      "FULL": "Congelamento Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A6",
+      "FORMID": "0180A6",
+      "EDID": "TTWRecipeStartencle",
+      "FULL": "Startencle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A5",
+      "FORMID": "0180A5",
+      "EDID": "TTWRecipeOuttaThisWorldPie",
+      "FULL": "Torta de Outro Mundo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A4",
+      "FORMID": "0180A4",
+      "EDID": "TTWShellsto12GaForBadModConversions",
+      "FULL": "Cartuchos Calibre 12"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A1",
+      "FORMID": "0180A1",
+      "EDID": "TTWRecipeStrangeMeatPieStrange",
+      "FULL": "Strange Meat Pie"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0180A0",
+      "FORMID": "0180A0",
+      "EDID": "TTWRecipeStrangeMeatPieFlesh",
+      "FULL": "Strange Meat Pie"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01809E",
+      "FORMID": "01809E",
+      "EDID": "TTWRecipeMississippiQuantumPie",
+      "FULL": "Torta Quântica do Mississippi"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01809D",
+      "FORMID": "01809D",
+      "EDID": "TTWRecipeMirelurkSpecial",
+      "FULL": "Especial de Mirelurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01809B",
+      "FORMID": "01809B",
+      "EDID": "TTWRecipeBrainFood",
+      "FULL": "Alimento Cerebral"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018086",
+      "FORMID": "018086",
+      "EDID": "TTWRiflePowder",
+      "FULL": "Powder, Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018085",
+      "FORMID": "018085",
+      "EDID": "TTWPistolPowder",
+      "FULL": "Powder, Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018084",
+      "FORMID": "018084",
+      "EDID": "TTW50lPrimer",
+      "FULL": "Primer, .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018083",
+      "FORMID": "018083",
+      "EDID": "TTWShotPrimer",
+      "FULL": "Primer, Shotshell"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018082",
+      "FORMID": "018082",
+      "EDID": "TTWLargeRiflePrimer",
+      "FULL": "Primer, Large Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018081",
+      "FORMID": "018081",
+      "EDID": "TTWSmallRiflelPrimer",
+      "FULL": "Primer, Small Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018080",
+      "FORMID": "018080",
+      "EDID": "TTWLargelPistolPrimer",
+      "FULL": "Primer, Large Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807F",
+      "FORMID": "01807F",
+      "EDID": "TTWSmallPistolPrimer",
+      "FULL": "Primer, Small Pistol"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807E",
+      "FORMID": "01807E",
+      "EDID": "TTW20gaHull",
+      "FULL": "Hull, 20 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807D",
+      "FORMID": "01807D",
+      "EDID": "TTW12gaHull",
+      "FULL": "Hull, 12 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807C",
+      "FORMID": "01807C",
+      "EDID": "TTW45Case",
+      "FULL": "Case, .45 Auto"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807B",
+      "FORMID": "01807B",
+      "EDID": "TTW5mmCase",
+      "FULL": "Case, 5mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01807A",
+      "FORMID": "01807A",
+      "EDID": "TTW556Case",
+      "FULL": "Case, 5.56mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018079",
+      "FORMID": "018079",
+      "EDID": "TTW127Case",
+      "FULL": "Case, 12.7mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018078",
+      "FORMID": "018078",
+      "EDID": "TTW50Case",
+      "FULL": "Case, .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018077",
+      "FORMID": "018077",
+      "EDID": "TTW4570Case",
+      "FULL": "Estojo, 45-70 Gov't"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018076",
+      "FORMID": "018076",
+      "EDID": "TTW44Case",
+      "FULL": "Case, .44 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018075",
+      "FORMID": "018075",
+      "EDID": "TTW357Case",
+      "FULL": "Case, .357 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018074",
+      "FORMID": "018074",
+      "EDID": "TTW308case",
+      "FULL": "Case, .308"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018073",
+      "FORMID": "018073",
+      "EDID": "TTW9mmCase",
+      "FULL": "Case, 9mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018072",
+      "FORMID": "018072",
+      "EDID": "TTW10mmCase",
+      "FULL": "Case, 10mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01801B",
+      "FORMID": "01801B",
+      "EDID": "TTWRecipeNukalurkSushi",
+      "FULL": "Sushi de Nukalurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0166D1",
+      "FORMID": "0166D1",
+      "EDID": "TTWRecipeMoleRatWonderMeat",
+      "FULL": "Mole Rat Wonder Meat"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE76",
+      "FORMID": "00EE76",
+      "EDID": "TTWRailwaySpikes",
+      "FULL": "Railway Spikes"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE75",
+      "FORMID": "00EE75",
+      "EDID": "TTWDart12ga",
+      "FULL": "Dardos"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE56",
+      "FORMID": "00EE56",
+      "EDID": "TTW22LRCase100",
+      "FULL": "Estojo, .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE55",
+      "FORMID": "00EE55",
+      "EDID": "TTW22LRCase",
+      "FULL": "Estojo, .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE52",
+      "FORMID": "00EE52",
+      "EDID": "TTWRecipe22LR",
+      "FULL": ".22LR Round"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFC6",
+      "FORMID": "00DFC6",
+      "EDID": "TTWRecipeSpicyQuantumSauce",
+      "FULL": "Molho Quântico Picante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFC5",
+      "FORMID": "00DFC5",
+      "EDID": "TTWRecipeSpicyNukalurkRoll",
+      "FULL": "Rolinho Picante de Nukalurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFB1",
+      "FORMID": "00DFB1",
+      "EDID": "TTWDartDarkDatura",
+      "FULL": "Dardo, Datura Negra"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFB0",
+      "FORMID": "00DFB0",
+      "EDID": "TTWDartCloudKissWeak",
+      "FULL": "Dardo, Beijo de Nuvem (Fraco)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFAF",
+      "FORMID": "00DFAF",
+      "EDID": "TTWDartCloudKissStrong",
+      "FULL": "Dardo, Beijo de Nuvem (Forte)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFAE",
+      "FORMID": "00DFAE",
+      "EDID": "TTWDartCloudKissLethal",
+      "FULL": "Dardo, Beijo de Nuvem (Letal)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFAD",
+      "FORMID": "00DFAD",
+      "EDID": "TTWRecipeMeltdown",
+      "FULL": "Meltdown"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00DFA3",
+      "FORMID": "00DFA3",
+      "EDID": "TTWRecipeYaoGuaiMedallions",
+      "FULL": "Medalhões de Yao Guai"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00CE0A",
+      "FORMID": "00CE0A",
+      "EDID": "TTWRecipePuraToPurified",
+      "FULL": "Conversão, Aqua Pura para Água Purificada"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD15",
+      "FORMID": "00BD15",
+      "EDID": "RecipeShishkebab",
+      "FULL": "Shishkebab"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD14",
+      "FORMID": "00BD14",
+      "EDID": "RecipeRockItLauncher",
+      "FULL": "Rock-It Launcher"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD13",
+      "FORMID": "00BD13",
+      "EDID": "RecipeRailwayRifle",
+      "FULL": "Railway Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD0F",
+      "FORMID": "00BD0F",
+      "EDID": "RecipeNukaGrenade3",
+      "FULL": "Nuka-Cocktail"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD0E",
+      "FORMID": "00BD0E",
+      "EDID": "RecipeNukaGrenade2",
+      "FULL": "Nuka-Cocktail"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD0D",
+      "FORMID": "00BD0D",
+      "EDID": "RecipeNukaGrenade1",
+      "FULL": "Nuka-Cocktail"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD0C",
+      "FORMID": "00BD0C",
+      "EDID": "RecipeDeathclawGauntlet",
+      "FULL": "Deathclaw Gauntlet"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD0B",
+      "FORMID": "00BD0B",
+      "EDID": "RecipeDartGun",
+      "FULL": "Dart Gun"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD09",
+      "FORMID": "00BD09",
+      "EDID": "RecipeBottlecapMine2",
+      "FULL": "Bottlecap Mine"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00BD08",
+      "FORMID": "00BD08",
+      "EDID": "RecipeBottlecapMine1",
+      "FULL": "Bottlecap Mine"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0093F0",
+      "FORMID": "0093F0",
+      "EDID": "TTWAmmoPress10mmAP100",
+      "FULL": "Munição 10mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0093EF",
+      "FORMID": "0093EF",
+      "EDID": "TTWAmmoPress10mmAP",
+      "FULL": "Munição 10mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009104",
+      "FORMID": "009104",
+      "EDID": "RecipeLiquidNitrogenOptimized",
+      "FULL": "Nitrogênio Líquido, Otimizado"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008E46",
+      "FORMID": "008E46",
+      "EDID": "RecipeEfficientLiquidNitrogen",
+      "FULL": "Reciclagem Eficiente, Nitrogênio Líquido"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D59",
+      "FORMID": "008D59",
+      "EDID": "TTWRecipeCryoMine",
+      "FULL": "Cryo Mine"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D58",
+      "FORMID": "008D58",
+      "EDID": "TTWRecipeCryoGrenade",
+      "FULL": "Cryo Grenade"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D56",
+      "FORMID": "008D56",
+      "EDID": "RecipeLiquidNitrogen",
+      "FULL": "Reciclagem, Nitrogênio Líquido"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008C47",
+      "FORMID": "008C47",
+      "EDID": "RecipeCryolator",
+      "FULL": "Criolador"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BD6",
+      "FORMID": "008BD6",
+      "EDID": "RecipeConversionSECtoMPC",
+      "FULL": "Conversão, SEC para MPC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BD3",
+      "FORMID": "008BD3",
+      "EDID": "RecipeTrenchKnife",
+      "FULL": "Trench Knife"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008B9D",
+      "FORMID": "008B9D",
+      "EDID": "RecipeMolotovCocktail",
+      "FULL": "Coquetel Molotov"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008476",
+      "FORMID": "008476",
+      "EDID": "TTWAmmoPress5mmJSP100",
+      "FULL": "Munição 5mm, JSP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008475",
+      "FORMID": "008475",
+      "EDID": "TTWAmmoPress45Super100",
+      "FULL": "Munição .45 Super"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008474",
+      "FORMID": "008474",
+      "EDID": "TTWAmmoPress45Super",
+      "FULL": "Munição .45 Super"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008473",
+      "FORMID": "008473",
+      "EDID": "TTWAmmoPress45P100",
+      "FULL": "Munição .45 Auto, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008472",
+      "FORMID": "008472",
+      "EDID": "TTWAmmoPress45P",
+      "FULL": "Munição .45 Auto, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008471",
+      "FORMID": "008471",
+      "EDID": "TTWAmmoPress45HP100",
+      "FULL": "Munição .45 Auto, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008470",
+      "FORMID": "008470",
+      "EDID": "TTWAmmoPress45HP",
+      "FULL": "Munição .45 Auto, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846F",
+      "FORMID": "00846F",
+      "EDID": "TTWAmmoPress45100",
+      "FULL": "Munição .45 Auto"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846E",
+      "FORMID": "00846E",
+      "EDID": "TTWAmmoPress45",
+      "FULL": "Munição .45 Auto"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846D",
+      "FORMID": "00846D",
+      "EDID": "TTWAmmoPress32Match100",
+      "FULL": "Munição .32, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846C",
+      "FORMID": "00846C",
+      "EDID": "TTWAmmoPress32Match",
+      "FULL": "Munição .32, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846B",
+      "FORMID": "00846B",
+      "EDID": "TTWAmmoPress32P100",
+      "FULL": "Munição .32, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00846A",
+      "FORMID": "00846A",
+      "EDID": "TTWAmmoPress32P",
+      "FULL": "Munição .32, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008469",
+      "FORMID": "008469",
+      "EDID": "TTWAmmoPress32100",
+      "FULL": "Munição .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008468",
+      "FORMID": "008468",
+      "EDID": "TTWAmmoPress32",
+      "FULL": "Munição .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008467",
+      "FORMID": "008467",
+      "EDID": "TTWAmmoPress9mmJHP100",
+      "FULL": "Munição 9mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008466",
+      "FORMID": "008466",
+      "EDID": "TTWAmmoPress9mmJHP",
+      "FULL": "Munição 9mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008465",
+      "FORMID": "008465",
+      "EDID": "TTWAmmoPress9mmP100",
+      "FULL": "Munição 9mm, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008464",
+      "FORMID": "008464",
+      "EDID": "TTWAmmoPress9mmP",
+      "FULL": "Munição 9mm, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008463",
+      "FORMID": "008463",
+      "EDID": "TTWAmmoPress9mmHP100",
+      "FULL": "Munição 9mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008462",
+      "FORMID": "008462",
+      "EDID": "TTWAmmoPress9mmHP",
+      "FULL": "Munição 9mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008461",
+      "FORMID": "008461",
+      "EDID": "TTWAmmoPress9mm100",
+      "FULL": "Munição 9mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008460",
+      "FORMID": "008460",
+      "EDID": "TTWAmmoPress9mm",
+      "FULL": "Munição 9mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845F",
+      "FORMID": "00845F",
+      "EDID": "TTWAmmoPress5mmJSP",
+      "FULL": "Munição 5mm, JSP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845E",
+      "FORMID": "00845E",
+      "EDID": "TTWAmmoPress5mmHP100",
+      "FULL": "Munição 5mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845D",
+      "FORMID": "00845D",
+      "EDID": "TTWAmmoPress5mmHP",
+      "FULL": "Munição 5mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845C",
+      "FORMID": "00845C",
+      "EDID": "TTWAmmoPress5mmAP100",
+      "FULL": "Munição 5mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845B",
+      "FORMID": "00845B",
+      "EDID": "TTWAmmoPress5mmAP",
+      "FULL": "Munição 5mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00845A",
+      "FORMID": "00845A",
+      "EDID": "TTWAmmoPress5mm100",
+      "FULL": "Munição 5mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008459",
+      "FORMID": "008459",
+      "EDID": "TTWAmmoPress5mm",
+      "FULL": "Munição 5mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008458",
+      "FORMID": "008458",
+      "EDID": "TTWAmmoPress556mmMatch100",
+      "FULL": "Munição 5.56mm, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008457",
+      "FORMID": "008457",
+      "EDID": "TTWAmmoPress556mmMatch",
+      "FULL": "Munição 5.56mm, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008456",
+      "FORMID": "008456",
+      "EDID": "TTWAmmoPress556HP100",
+      "FULL": "Munição 5.56mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008455",
+      "FORMID": "008455",
+      "EDID": "TTWAmmoPress556HP",
+      "FULL": "Munição 5.56mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008454",
+      "FORMID": "008454",
+      "EDID": "TTWAmmoPress556AP100",
+      "FULL": "Munição 5.56mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008453",
+      "FORMID": "008453",
+      "EDID": "TTWAmmoPress556AP",
+      "FULL": "Munição 5.56mm, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008452",
+      "FORMID": "008452",
+      "EDID": "TTWAmmoPress556mm100",
+      "FULL": "Munição 5.56mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008451",
+      "FORMID": "008451",
+      "EDID": "TTWAmmoPress556mm",
+      "FULL": "Munição 5.56mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008450",
+      "FORMID": "008450",
+      "EDID": "TTWAmmoPress40mm100",
+      "FULL": "Munição 40mm Grenade"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844F",
+      "FORMID": "00844F",
+      "EDID": "TTWAmmoPress40mm",
+      "FULL": "Munição 40mm Grenade"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844E",
+      "FORMID": "00844E",
+      "EDID": "TTWAmmoPress25mmTimed100",
+      "FULL": "Munição 25mm Grenade, Timed"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844D",
+      "FORMID": "00844D",
+      "EDID": "TTWAmmoPress25mmTimed",
+      "FULL": "Munição 25mm Grenade, Timed"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844C",
+      "FORMID": "00844C",
+      "EDID": "TTWAmmoPress25mmHE100",
+      "FULL": "Munição 25mm Grenade, High Explosive"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844B",
+      "FORMID": "00844B",
+      "EDID": "TTWAmmoPress25mmHE",
+      "FULL": "Munição 25mm Grenade, High Explosive"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00844A",
+      "FORMID": "00844A",
+      "EDID": "TTWAmmoPress25mmGrenade100",
+      "FULL": "Munição 25mm Grenade"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008449",
+      "FORMID": "008449",
+      "EDID": "TTWAmmoPress25mmGrenade",
+      "FULL": "Munição 25mm Grenade"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008448",
+      "FORMID": "008448",
+      "EDID": "TTWAmmoPress20ga30Mag100",
+      "FULL": "Munição 20 Gauge, 3/0 Buck Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008447",
+      "FORMID": "008447",
+      "EDID": "TTWAmmoPress20ga30Mag",
+      "FULL": "Munição 20 Gauge, 3/0 Buck Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008446",
+      "FORMID": "008446",
+      "EDID": "TTWAmmoPress20ga30100",
+      "FULL": "Munição 20 Gauge, 3/0 Buck"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008445",
+      "FORMID": "008445",
+      "EDID": "TTWAmmoPress20ga30",
+      "FULL": "Munição 20 Gauge, 3/0 Buck"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008444",
+      "FORMID": "008444",
+      "EDID": "TTWAmmoPress20gaSlug100",
+      "FULL": "Munição 20 Gauge, Slug"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008443",
+      "FORMID": "008443",
+      "EDID": "TTWAmmoPress20gaSlug",
+      "FULL": "Munição 20 Gauge, Slug"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008442",
+      "FORMID": "008442",
+      "EDID": "TTWAmmoPress20gaMag100",
+      "FULL": "Munição 20 Gauge, Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008441",
+      "FORMID": "008441",
+      "EDID": "TTWAmmoPress20gaMag",
+      "FULL": "Munição 20 Gauge, Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008440",
+      "FORMID": "008440",
+      "EDID": "TTWAmmoPress20ga100",
+      "FULL": "Munição 20 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843F",
+      "FORMID": "00843F",
+      "EDID": "TTWAmmoPress20ga",
+      "FULL": "Munição 20 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843E",
+      "FORMID": "00843E",
+      "EDID": "TTWAmmoPress127mmJHP100",
+      "FULL": "Munição 12.7mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843D",
+      "FORMID": "00843D",
+      "EDID": "TTWAmmoPress127mmJHP",
+      "FULL": "Munição 12.7mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843C",
+      "FORMID": "00843C",
+      "EDID": "TTWAmmoPress127mmHP100",
+      "FULL": "Munição 12.7mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843B",
+      "FORMID": "00843B",
+      "EDID": "TTWAmmoPress127mmHP",
+      "FULL": "Munição 12.7mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00843A",
+      "FORMID": "00843A",
+      "EDID": "TTWAmmoPress127mm100",
+      "FULL": "Munição 12.7mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008439",
+      "FORMID": "008439",
+      "EDID": "TTWAmmoPress127mm",
+      "FULL": "Munição 12.7mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008438",
+      "FORMID": "008438",
+      "EDID": "TTWAmmoPress12gaFlech100",
+      "FULL": "Munição 12 Gauge, Flechette"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008437",
+      "FORMID": "008437",
+      "EDID": "TTWAmmoPress12gaFlech",
+      "FULL": "Munição 12 Gauge, Flechette"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008436",
+      "FORMID": "008436",
+      "EDID": "TTWAmmoPress12ga40Mag100",
+      "FULL": "Munição 12 Gauge, 4/0 Buck Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008435",
+      "FORMID": "008435",
+      "EDID": "TTWAmmoPress12ga40Mag",
+      "FULL": "Munição 12 Gauge, 4/0 Buck Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008434",
+      "FORMID": "008434",
+      "EDID": "TTWAmmoPress12ga40100",
+      "FULL": "Munição 12 Gauge, 4/0 Buck"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008433",
+      "FORMID": "008433",
+      "EDID": "TTWAmmoPress12ga40",
+      "FULL": "Munição 12 Gauge, 4/0 Buck"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008432",
+      "FORMID": "008432",
+      "EDID": "TTWAmmoPress12gaSlug100",
+      "FULL": "Munição 12 Gauge, Slug"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008431",
+      "FORMID": "008431",
+      "EDID": "TTWAmmoPress12gaSlug",
+      "FULL": "Munição 12 Gauge, Slug"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008430",
+      "FORMID": "008430",
+      "EDID": "TTWAmmoPress12gaMag100",
+      "FULL": "Munição 12 Gauge, Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842F",
+      "FORMID": "00842F",
+      "EDID": "TTWAmmoPress12gaMag",
+      "FULL": "Munição 12 Gauge, Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842E",
+      "FORMID": "00842E",
+      "EDID": "TTWAmmoPress12ga100",
+      "FULL": "Munição 12 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842D",
+      "FORMID": "00842D",
+      "EDID": "TTWAmmoPress12ga",
+      "FULL": "Munição 12 Gauge"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842C",
+      "FORMID": "00842C",
+      "EDID": "TTWAmmoPress10mmJHP100",
+      "FULL": "Munição 10mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842B",
+      "FORMID": "00842B",
+      "EDID": "TTWAmmoPress10mmJHP",
+      "FULL": "Munição 10mm, JHP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00842A",
+      "FORMID": "00842A",
+      "EDID": "TTWAmmoPress10mmHP100",
+      "FULL": "Munição 10mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008429",
+      "FORMID": "008429",
+      "EDID": "TTWAmmoPress10mmHP",
+      "FULL": "Munição 10mm, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008428",
+      "FORMID": "008428",
+      "EDID": "TTWAmmoPress50Match100",
+      "FULL": "Munição .50 MG, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008427",
+      "FORMID": "008427",
+      "EDID": "TTWAmmoPress50Match",
+      "FULL": "Munição .50 MG, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008426",
+      "FORMID": "008426",
+      "EDID": "TTWAmmoPress50AP100",
+      "FULL": "Munição .50 MG, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008425",
+      "FORMID": "008425",
+      "EDID": "TTWAmmoPress50AP",
+      "FULL": "Munição .50 MG, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008424",
+      "FORMID": "008424",
+      "EDID": "TTWAmmoPress50100",
+      "FULL": "Munição .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008423",
+      "FORMID": "008423",
+      "EDID": "TTWAmmoPress50",
+      "FULL": "Munição .50 MG"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008422",
+      "FORMID": "008422",
+      "EDID": "TTWAmmoPress4570SWC100",
+      "FULL": "Munição .45-70 Govt, SWC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008421",
+      "FORMID": "008421",
+      "EDID": "TTWAmmoPress4570SWC",
+      "FULL": "Munição .45-70 Govt, SWC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008420",
+      "FORMID": "008420",
+      "EDID": "TTWAmmoPress4570HP100",
+      "FULL": "Munição .45-70 Govt, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841F",
+      "FORMID": "00841F",
+      "EDID": "TTWAmmoPress4570HP",
+      "FULL": "Munição .45-70 Govt, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841E",
+      "FORMID": "00841E",
+      "EDID": "TTWAmmoPress4570100",
+      "FULL": "Munição .45-70 Govt"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841D",
+      "FORMID": "00841D",
+      "EDID": "TTWAmmoPress4570",
+      "FULL": "Munição .45-70 Govt"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841C",
+      "FORMID": "00841C",
+      "EDID": "TTWAmmoPress44SWC100",
+      "FULL": "Munição .44 Magnum, SWC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841B",
+      "FORMID": "00841B",
+      "EDID": "TTWAmmoPress44SWC",
+      "FULL": "Munição .44 Magnum, SWC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00841A",
+      "FORMID": "00841A",
+      "EDID": "TTWAmmoPress44HP100",
+      "FULL": "Munição .44 Magnum, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008419",
+      "FORMID": "008419",
+      "EDID": "TTWAmmoPress44HP",
+      "FULL": "Munição .44 Magnum, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008418",
+      "FORMID": "008418",
+      "EDID": "TTWAmmoPress44100",
+      "FULL": "Munição .44 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008417",
+      "FORMID": "008417",
+      "EDID": "TTWAmmoPress44",
+      "FULL": "Munição .44 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008416",
+      "FORMID": "008416",
+      "EDID": "TTWAmmoPress357JFP100",
+      "FULL": "Munição .357 Magnum, JFP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008415",
+      "FORMID": "008415",
+      "EDID": "TTWAmmoPress357JFP",
+      "FULL": "Munição .357 Magnum, JFP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008414",
+      "FORMID": "008414",
+      "EDID": "TTWAmmoPress357HP100",
+      "FULL": "Munição .357 Magnum, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008413",
+      "FORMID": "008413",
+      "EDID": "TTWAmmoPress357HP",
+      "FULL": "Munição .357 Magnum, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008412",
+      "FORMID": "008412",
+      "EDID": "TTWAmmoPress357100",
+      "FULL": "Munição .357 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008411",
+      "FORMID": "008411",
+      "EDID": "TTWAmmoPress357",
+      "FULL": "Munição .357 Magnum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008410",
+      "FORMID": "008410",
+      "EDID": "TTWAmmoPress308JSP100",
+      "FULL": "Munição .308, JSP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840F",
+      "FORMID": "00840F",
+      "EDID": "TTWAmmoPress308JSP",
+      "FULL": "Munição .308, JSP"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840E",
+      "FORMID": "00840E",
+      "EDID": "TTWAmmoPress308HP100",
+      "FULL": "Munição .308, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840D",
+      "FORMID": "00840D",
+      "EDID": "TTWAmmoPress308HP",
+      "FULL": "Munição .308, Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840C",
+      "FORMID": "00840C",
+      "EDID": "TTWAmmoPress308AP100",
+      "FULL": "Munição .308, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840B",
+      "FORMID": "00840B",
+      "EDID": "TTWAmmoPress308AP",
+      "FULL": "Munição .308, Armor Piercing"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00840A",
+      "FORMID": "00840A",
+      "EDID": "TTWAmmoPress308100",
+      "FULL": "Munição .308"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008409",
+      "FORMID": "008409",
+      "EDID": "TTWAmmoPress308",
+      "FULL": "Munição .308"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008408",
+      "FORMID": "008408",
+      "EDID": "TTWAmmoPress22LRHP100",
+      "FULL": "Munição .22LR Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008407",
+      "FORMID": "008407",
+      "EDID": "TTWAmmoPress22LRHP",
+      "FULL": "Munição .22LR Hollow Point"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008406",
+      "FORMID": "008406",
+      "EDID": "TTWAmmoPress22LR100",
+      "FULL": "Munição .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008405",
+      "FORMID": "008405",
+      "EDID": "TTWAmmoPress22LR",
+      "FULL": "Munição .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008404",
+      "FORMID": "008404",
+      "EDID": "TTWAmmoPress223100",
+      "FULL": "Munição .223"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008403",
+      "FORMID": "008403",
+      "EDID": "TTWAmmoPress223",
+      "FULL": "Munição .223"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008402",
+      "FORMID": "008402",
+      "EDID": "TTWAmmoPress10mm100",
+      "FULL": "Munição 10mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008401",
+      "FORMID": "008401",
+      "EDID": "TTWAmmoPress10mm",
+      "FULL": "Munição 10mm"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083CC",
+      "FORMID": "0083CC",
+      "EDID": "TTWRecipe45AutoJunkRounds",
+      "FULL": "Munição .45 Auto, Junk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083CA",
+      "FORMID": "0083CA",
+      "EDID": "TTWRecipe22LRJunkRounds",
+      "FULL": "Munição .22LR, Junk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0083C9",
+      "FORMID": "0083C9",
+      "EDID": "TTWRecipe127mmJunkRounds",
+      "FULL": "Munição 12.7mm, Junk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D3B",
+      "FORMID": "007D3B",
+      "EDID": "TTWRecipeMoleRatSteak",
+      "FULL": "Bife de Rato-Toupeira"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D3A",
+      "FORMID": "007D3A",
+      "EDID": "TTWRecipeFireAntBits",
+      "FULL": "Pedaços de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D39",
+      "FORMID": "007D39",
+      "EDID": "TTWRecipeAntBits",
+      "FULL": "Pedaços de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D38",
+      "FORMID": "007D38",
+      "EDID": "TTWRecipeFireAntNogWhiskey",
+      "FULL": "Nog de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D37",
+      "FORMID": "007D37",
+      "EDID": "TTWRecipeFireAntNogVodka",
+      "FULL": "Nog de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D36",
+      "FORMID": "007D36",
+      "EDID": "TTWRecipeFireAntNogScotch",
+      "FULL": "Nog de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D35",
+      "FORMID": "007D35",
+      "EDID": "TTWRecipeFireAntNogAbsinthe",
+      "FULL": "Nog de Formiga de Fogo"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D34",
+      "FORMID": "007D34",
+      "EDID": "TTWRecipeAntNogWhiskey",
+      "FULL": "Nog de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D33",
+      "FORMID": "007D33",
+      "EDID": "TTWRecipeAntNogVodka",
+      "FULL": "Nog de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D32",
+      "FORMID": "007D32",
+      "EDID": "TTWRecipeAntNogScotch",
+      "FULL": "Nog de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D31",
+      "FORMID": "007D31",
+      "EDID": "TTWRecipeAntNogAbsinthe",
+      "FULL": "Nog de Formiga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D30",
+      "FORMID": "007D30",
+      "EDID": "TTWRecipeBloatFlySmoothie",
+      "FULL": "Vitamina de Mosca-Bota"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007D2F",
+      "FORMID": "007D2F",
+      "EDID": "TTWRecipeSteamedRadRoach",
+      "FULL": "Baratarro no Vapor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C87",
+      "FORMID": "007C87",
+      "EDID": "TTW32Case100",
+      "FULL": "Estojo, .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C86",
+      "FORMID": "007C86",
+      "EDID": "TTW32Case",
+      "FULL": "Estojo, .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C82",
+      "FORMID": "007C82",
+      "EDID": "TTWBreakdown32",
+      "FULL": "Desmontar .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C81",
+      "FORMID": "007C81",
+      "EDID": "TTWRecipe32JunkRounds",
+      "FULL": "Munição .32, Junk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C80",
+      "FORMID": "007C80",
+      "EDID": "TTWRecipe32Match",
+      "FULL": "Munição .32, Match"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C7F",
+      "FORMID": "007C7F",
+      "EDID": "TTWRecipe32P",
+      "FULL": "Munição .32, +P"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C7E",
+      "FORMID": "007C7E",
+      "EDID": "TTWRecipe32",
+      "FULL": "Munição .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004C00",
+      "FORMID": "004C00",
+      "EDID": "TTWRecipeMirelurkCakes",
+      "FULL": "Mirelurk Cakes"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004BFF",
+      "FORMID": "004BFF",
+      "EDID": "TTWRecipeSteamedMirelurk",
+      "FULL": "Mirelurk no Vapor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:004BFE",
+      "FORMID": "004BFE",
+      "EDID": "TTWRecipeMirelurkThermador",
+      "FULL": "Thermador de Mirelurk"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:003948",
+      "FORMID": "003948",
+      "EDID": "TTWRecipeMoonshine",
+      "FULL": "Moonshine"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0028EC",
+      "FORMID": "0028EC",
+      "EDID": "RecipeNukaColaQuantumIceCold",
+      "FULL": "Nuka-Cola Quantum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BEC",
+      "FORMID": "001BEC",
+      "EDID": "RecipeNukaColaQuantum",
+      "FULL": "Nuka-Cola Quantum"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BEB",
+      "FORMID": "001BEB",
+      "EDID": "TTWDartTremble",
+      "FULL": "Dardo, Tremor"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BEA",
+      "FORMID": "001BEA",
+      "EDID": "TTWDartSilverSting",
+      "FULL": "Dardo, Ferrão de Prata"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BE9",
+      "FORMID": "001BE9",
+      "EDID": "TTWDartMotherDarkness",
+      "FULL": "Dardo, Mãe das Trevas"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BE8",
+      "FORMID": "001BE8",
+      "EDID": "TTWDartBleakVenom",
+      "FULL": "Dardo, Veneno Sombrio"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A2C",
+      "FORMID": "000A2C",
+      "EDID": "NVDLC05Recipe127mmHandLoad",
+      "FULL": "Munição 12.7mm, JHP"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00093A",
+      "FORMID": "00093A",
+      "EDID": "NVDLC05Recipe12Ga40BuckMagnum",
+      "FULL": "Munição 12 Gauge, 4/0 Buck Magnum"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000939",
+      "FORMID": "000939",
+      "EDID": "NVDLC05Recipe20Ga30BuckMagnum",
+      "FULL": "Munição 20 Gauge, 3/0 Buck Magnum"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000936",
+      "FORMID": "000936",
+      "EDID": "NVDLC05RecipeTinGrenade",
+      "FULL": "Tin Grenade"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000935",
+      "FORMID": "000935",
+      "EDID": "NVDLC05RecipeBottlecapMineEfficient",
+      "FULL": "Mina de Tampas, Eficiente"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000934",
+      "FORMID": "000934",
+      "EDID": "NVDLC05RecipePowderChargeEfficient",
+      "FULL": "Carga de Pólvora, Eficiente"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000933",
+      "FORMID": "000933",
+      "EDID": "NVDLC05RecipeTimeBombHighYield",
+      "FULL": "Bomba Temporizada, Alto Rendimento"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000932",
+      "FORMID": "000932",
+      "EDID": "NVDLC05RecipeNukaGrenade",
+      "FULL": "Nuka-Grenade"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000931",
+      "FORMID": "000931",
+      "EDID": "NVDLC05RecipeMFCCluster",
+      "FULL": "Agrupamento MFC"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000930",
+      "FORMID": "000930",
+      "EDID": "NVDLC05RecipeMFCGrenade",
+      "FULL": "MFC Grenade"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00092F",
+      "FORMID": "00092F",
+      "EDID": "NVDLC05RecipeFatMine",
+      "FULL": "Fat Mine"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00092C",
+      "FORMID": "00092C",
+      "EDID": "NVDLC05Recipe5mmHandLoad",
+      "FULL": "Munição 5mm, JSP"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00092B",
+      "FORMID": "00092B",
+      "EDID": "NVDLC05Recipe9mmHandLoad",
+      "FULL": "Munição 9mm, JHP"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00092A",
+      "FORMID": "00092A",
+      "EDID": "NVDLC05Recipe556mmHandLoad",
+      "FULL": "Munição 5.56mm, Match"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000929",
+      "FORMID": "000929",
+      "EDID": "NVDLC05RecipeFlamerFuelOptimized",
+      "FULL": "Combustível de Lança-Chamas, Otimizado"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000928",
+      "FORMID": "000928",
+      "EDID": "NVDLC05RecipeSmallEnergyCellOptimized",
+      "FULL": "Célula de Energia, Otimizada"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000927",
+      "FORMID": "000927",
+      "EDID": "NVDLC05RecipeMicroFusionCellOptimized",
+      "FULL": "Célula de Microfusão, Otimizada"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000926",
+      "FORMID": "000926",
+      "EDID": "NVDLC05RecipeElectronChargePackOptimized",
+      "FULL": "Pacote de Carga de Elétrons, Otimizado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DFE3",
+      "FORMID": "00DFE3",
+      "EDID": "RecipeNVDLC04RocketIncendiaryAmmo",
+      "FULL": "Rocket, Incendiary"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CEE6",
+      "FORMID": "00CEE6",
+      "EDID": "RecipeNVDLC04ConversionBlankMagToBook",
+      "FULL": "Conversão, Carregador Vazio para Livro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C42F",
+      "FORMID": "00C42F",
+      "EDID": "RecipeNVDLC04RocketHEAmmo",
+      "FULL": "Foguete, Alto Explosivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009266",
+      "FORMID": "009266",
+      "EDID": "RecipeNVDLC04RocketAmmo",
+      "FULL": "Foguete"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158A9",
+      "FORMID": "0158A9",
+      "EDID": "NVDLC03RecipeBattleBrew",
+      "FULL": "Bebida de Batalha"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133C0",
+      "FORMID": "0133C0",
+      "EDID": "NVDLC03RecipeClonedWhiteHorsenettle",
+      "FULL": "Horsenettle Branca Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BF",
+      "FORMID": "0133BF",
+      "EDID": "NVDLC03RecipeClonedMaize",
+      "FULL": "Milho Clonado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BE",
+      "FORMID": "0133BE",
+      "EDID": "NVDLC03RecipeClonedJalapeno",
+      "FULL": "Pimenta Jalapeño Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BD",
+      "FORMID": "0133BD",
+      "EDID": "NVDLC03RecipeClonedHoneyMesquite",
+      "FULL": "Mesquite Melíflua Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BC",
+      "FORMID": "0133BC",
+      "EDID": "NVDLC03RecipeClonedXanderRoot",
+      "FULL": "Xander Root Clonado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BB",
+      "FORMID": "0133BB",
+      "EDID": "NVDLC03RecipeClonedPricklyPearFruit",
+      "FULL": "Fruta de Pera Espinhosa Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133BA",
+      "FORMID": "0133BA",
+      "EDID": "NVDLC03RecipeClonedBrocFlower",
+      "FULL": "Flor de Broc Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B9",
+      "FORMID": "0133B9",
+      "EDID": "NVDLC03RecipeClonedBananaYucca",
+      "FULL": "Yucca Banana Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B8",
+      "FORMID": "0133B8",
+      "EDID": "NVDLC03RecipeClonedPintoBeanPod",
+      "FULL": "Vagem de Feijão Pinto Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B7",
+      "FORMID": "0133B7",
+      "EDID": "NVDLC03RecipeClonedBarrelCactusFruit",
+      "FULL": "Fruta do Cacto Barril Clonado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B5",
+      "FORMID": "0133B5",
+      "EDID": "NVDLC03RecipeThickRedPaste",
+      "FULL": "Pasta Vermelha Grossa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B4",
+      "FORMID": "0133B4",
+      "EDID": "NVDLC03RecipeClonedNevadaAgaveFruit",
+      "FULL": "Fruta de Agave de Nevada Clonada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133B2",
+      "FORMID": "0133B2",
+      "EDID": "NVDLC03RecipeBlackBloodSausage",
+      "FULL": "Salsicha de Sangue Preta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01120C",
+      "FORMID": "01120C",
+      "EDID": "NVDLC02GreenGeckoHideBelt",
+      "FULL": "Cinto de Pele de Gecko Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011108",
+      "FORMID": "011108",
+      "EDID": "NVDLC02RecipeDaturaAntivenom",
+      "FULL": "Antiveneno de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011107",
+      "FORMID": "011107",
+      "EDID": "NVDLC02RecipeArmorMetalReinforcedGecko",
+      "FULL": "Armadura de Metal Reforçada com Couro de Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011106",
+      "FORMID": "011106",
+      "EDID": "NVDLC02RecipeArmorMetalGecko",
+      "FULL": "Armadura de Metal com Escamas de Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011105",
+      "FORMID": "011105",
+      "EDID": "NVDLC02RecipeArmorLeatherReinforcedGecko",
+      "FULL": "Armadura de Couro de Gecko Reforçada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011104",
+      "FORMID": "011104",
+      "EDID": "NVDLC02RecipeArmorLeatherGecko",
+      "FULL": "Armadura de Couro de Gecko com Reforço"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0110FD",
+      "FORMID": "0110FD",
+      "EDID": "NVDLC02RecipeGeckoGreenHideTanned",
+      "FULL": "Couro de Gecko Esverdeado Curtido"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCFD",
+      "FORMID": "00CCFD",
+      "EDID": "NVDLC02RecipeDaturaHide",
+      "FULL": "Couro de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCFC",
+      "FORMID": "00CCFC",
+      "EDID": "NVDLC02RecipeDaturana",
+      "FULL": "Daturana"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E76",
+      "FORMID": "009E76",
+      "EDID": "NVDLC02Recipe45AutoP",
+      "FULL": "Munição .45 Auto, +P"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E75",
+      "FORMID": "009E75",
+      "EDID": "NVDLC02Recipe45Super",
+      "FULL": "Munição .45 Super"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E74",
+      "FORMID": "009E74",
+      "EDID": "NVDLC02Recipe45Auto",
+      "FULL": "Cartucho .45 Auto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009909",
+      "FORMID": "009909",
+      "EDID": "NVDLC02RecipeDaturaRootPoison",
+      "FULL": "Datura Negra"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012C3C",
+      "FORMID": "012C3C",
+      "EDID": "RecipeNVDLC01GhostSight",
+      "FULL": "Visão Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010975",
+      "FORMID": "010975",
+      "EDID": "RecipeNVDLC01SpaceAgeKnifeHeated",
+      "FULL": "Faca Cósmica, Superaquecida"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010973",
+      "FORMID": "010973",
+      "EDID": "RecipeNVDLC01KnifeSpearSpaceAge",
+      "FULL": "Lança Faca Cósmica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010972",
+      "FORMID": "010972",
+      "EDID": "RecipeNVDLC01SpaceAgeKnifeClean",
+      "FULL": "Faca Cósmica, Limpa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010971",
+      "FORMID": "010971",
+      "EDID": "RecipeNVDLC01CloudKissLethal",
+      "FULL": "Beijo de Nuvem, Letal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010970",
+      "FORMID": "010970",
+      "EDID": "RecipeNVDLC01CloudKissStrong",
+      "FULL": "Beijo de Nuvem, Potente"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096F",
+      "FORMID": "01096F",
+      "EDID": "RecipeNVDLC01CloudKissWeak",
+      "FULL": "Beijo de Nuvem, Fraco"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096D",
+      "FORMID": "01096D",
+      "EDID": "RecipeNVDLC01KnifeSpear",
+      "FULL": "Lança Faca"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039F",
+      "FORMID": "01039F",
+      "EDID": "RecipeNVDLC01FinalComp",
+      "FULL": "Fichas Grátis"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB84",
+      "FORMID": "00FB84",
+      "EDID": "RecipeNVDLC019mmJunkRounds",
+      "FULL": "Munição 9mm, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB83",
+      "FORMID": "00FB83",
+      "EDID": "RecipeNVDLC015mmJunkRounds",
+      "FULL": "Munição 5mm, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB82",
+      "FORMID": "00FB82",
+      "EDID": "RecipeNVDLC01556mmJunkRounds",
+      "FULL": "Munição 5.56mm, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB81",
+      "FORMID": "00FB81",
+      "EDID": "RecipeNVDLC0150MGJunkRounds",
+      "FULL": "Munição .50 MG, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB80",
+      "FORMID": "00FB80",
+      "EDID": "RecipeNVDLC014570GovtJunkRounds",
+      "FULL": "Munição .45-70 Gov't, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7F",
+      "FORMID": "00FB7F",
+      "EDID": "RecipeNVDLC0144MagnumJunkRounds",
+      "FULL": "Munição .44 Magnum, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7E",
+      "FORMID": "00FB7E",
+      "EDID": "RecipeNVDLC01357MagnumJunkRounds",
+      "FULL": "Munição .357 Magnum, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7D",
+      "FORMID": "00FB7D",
+      "EDID": "RecipeNVDLC01308JunkRounds",
+      "FULL": "Munição .308, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7C",
+      "FORMID": "00FB7C",
+      "EDID": "RecipeNVDLC0120GaJunkRounds",
+      "FULL": "Munição 20 Gauge, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7B",
+      "FORMID": "00FB7B",
+      "EDID": "RecipeNVDLC0112GaJunkRounds",
+      "FULL": "Munição 12 Gauge, Junk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7A",
+      "FORMID": "00FB7A",
+      "EDID": "RecipeNVDLC0110mmJunkRounds",
+      "FULL": "Munição 10mm, Junk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17BA3D",
+      "FORMID": "17BA3D",
+      "EDID": "RecipeBreakdown127mm",
+      "FULL": "Desmontar 12.7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7F",
+      "FORMID": "165E7F",
+      "EDID": "Recipe12GaSlug",
+      "FULL": "Munição 12 Gauge, Slug"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7E",
+      "FORMID": "165E7E",
+      "EDID": "Recipe20GaSlug",
+      "FULL": "Munição 20 Gauge, Slug"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7D",
+      "FORMID": "165E7D",
+      "EDID": "Recipe12GaCoinShot",
+      "FULL": "Munição 12 Gauge, Coin Shot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7C",
+      "FORMID": "165E7C",
+      "EDID": "Recipe12GaMagnum",
+      "FULL": "Munição 12 Gauge, Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7B",
+      "FORMID": "165E7B",
+      "EDID": "Recipe20GaMagnum",
+      "FULL": "Munição 20 Gauge, Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CD",
+      "FORMID": "1613CD",
+      "EDID": "RecipeGeckoSteak",
+      "FULL": "Bife de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C9",
+      "FORMID": "1613C9",
+      "EDID": "RecipeDogSteak",
+      "FULL": "Bife de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C8",
+      "FORMID": "1613C8",
+      "EDID": "RecipeCoyoteSteak",
+      "FULL": "Bife de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AF0",
+      "FORMID": "140AF0",
+      "EDID": "RecipeBreakdown12Ga",
+      "FULL": "Desmontar 12 Gauge"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEF",
+      "FORMID": "140AEF",
+      "EDID": "RecipeBreakdown20Ga",
+      "FULL": "Desmontar 20 Gauge"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEE",
+      "FORMID": "140AEE",
+      "EDID": "Recipe12Ga",
+      "FULL": "12 Gauge Round"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AED",
+      "FORMID": "140AED",
+      "EDID": "Recipe20Ga",
+      "FULL": "20 Gauge Round"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABE",
+      "FORMID": "140ABE",
+      "EDID": "RecipeBreakdown50MG",
+      "FULL": "Desmontar .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABD",
+      "FORMID": "140ABD",
+      "EDID": "RecipeBreakdown5mm",
+      "FULL": "Desmontar 5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABC",
+      "FORMID": "140ABC",
+      "EDID": "RecipeBreakdown308",
+      "FULL": "Desmontar .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABB",
+      "FORMID": "140ABB",
+      "EDID": "RecipeBreakdown556mm",
+      "FULL": "Desmontar 5.56mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABA",
+      "FORMID": "140ABA",
+      "EDID": "RecipeBreakdown4570Govt",
+      "FULL": "Desmontar .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB9",
+      "FORMID": "140AB9",
+      "EDID": "RecipeBreakdown44Magnum",
+      "FULL": "Desmontar .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB8",
+      "FORMID": "140AB8",
+      "EDID": "RecipeBreakdown357Magnum",
+      "FULL": "Desmontar .357 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB7",
+      "FORMID": "140AB7",
+      "EDID": "RecipeBreakdown9mm",
+      "FULL": "Desmontar 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB6",
+      "FORMID": "140AB6",
+      "EDID": "RecipeBreakdown22LR",
+      "FULL": "Desmontar .22 LR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB4",
+      "FORMID": "140AB4",
+      "EDID": "RecipeBreakdown10mm",
+      "FULL": "Desmontar 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB1",
+      "FORMID": "140AB1",
+      "EDID": "Recipe50MGHandLoad",
+      "FULL": "Munição .50 MG, Match"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB0",
+      "FORMID": "140AB0",
+      "EDID": "Recipe4570GovtHandLoad",
+      "FULL": "Munição .45-70 Gov't, SWC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAF",
+      "FORMID": "140AAF",
+      "EDID": "Recipe357MagnumHandLoad",
+      "FULL": "Munição .357 Magnum, JFP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAE",
+      "FORMID": "140AAE",
+      "EDID": "Recipe308HandLoad",
+      "FULL": "Munição .308, JSP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAD",
+      "FORMID": "140AAD",
+      "EDID": "Recipe10mmHandLoad",
+      "FULL": "Munição 10mm, JHP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A65",
+      "FORMID": "140A65",
+      "EDID": "RecipeBottlecapMine",
+      "FULL": "Mina de Tampinhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E44D",
+      "FORMID": "13E44D",
+      "EDID": "Recipe44MagnumHandLoad",
+      "FULL": "Munição .44 Magnum, SWC"
+    }
+  ]
+}

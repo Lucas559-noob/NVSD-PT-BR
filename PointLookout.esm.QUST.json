@@ -1,0 +1,188 @@
+{
+  "QUST": [
+    {
+      "FORM": "@PointLookout.esm:00436E",
+      "FORMID": "00436E",
+      "EDID": "DLC04FF05",
+      "FULL": "A Cortina de Veludo",
+      "NNAM": {
+        "10": "Consiga os detalhes da missão no armário da espia chinesa morta em Point Lookout.",
+        "30": "Use a senha da Fita Holográfica para acessar o cofre 1207 do Banco de Point Lookout.",
+        "40": "Busque pistas sobre o paradeiro da Agente Yang.",
+        "45": "Investigue o que aconteceu com a Agente Yang no Campo de Detenção de Turtledove.",
+        "60": "Ative o protocolo de autodestruição do submarino Chinês.",
+        "70": "Volte ao Terminal do Motel Esconderijo para obter mais instruções.",
+        "80": "Use os Óculos Criptocromático e a Nota da Sequência para acessar o Bunker da Espia.",
+        "90": "Escape da cruzada!",
+        "5": "Investigue o espião do Quarto 1D do Motel.",
+        "9": "Recupere do quarto 1D do motel a chave do armário da espia chinesa.",
+        "31": "Escute a Fita Holográfica com os Detalhes da Missão de Espionagem.",
+        "71": "Pegue os Óculos Criptocromáticos da Descarga do Quarto 1D do Motel.",
+        "81": "Procure detalhes da extração e do pagamento no bunker da espia.",
+        "61": "Confirme a Autodestruição do Submarino com a ativação da Alavanca à Prova de Falhas.",
+        "62": "Saia do Submarino antes dele se autodestruir!"
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:003F70",
+      "FORMID": "003F70",
+      "EDID": "DLC04FF03",
+      "FULL": "Uma Colherada de Whiskey",
+      "NNAM": {
+        "40": "Traga para Marguerite dez Frutas Punga Refinadas, ou vinte Frutas Punga Silvestres.",
+        "50": "Traga para Marguerite três sacos de Fermento.",
+        "60": "Traga para Marguerite 24 garrafas de Água Purificada.",
+        "70": "Traga para Marguerite seis Baterias de Fissão.",
+        "90": "Colete o Licor na casa de Marguerite quando estiver pronto."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:002F47",
+      "FORMID": "002F47",
+      "EDID": "DLC04FF02",
+      "FULL": "O Coração Negro de Blackhall",
+      "NNAM": {
+        "10": "Recupere o Livro da Família Blackhall da área de rituais.",
+        "30": "Devolva o Krivbeknih para Obadiah OU para Marcella.",
+        "240": "Leve o Krivbeknih para Obadiah OU para o Edifício Dunwich na Capital Wasteland.",
+        "15": "Recupere o Krivbeknih da área de rituais.",
+        "40": "Investigue a Cena da Morte de Marcella",
+        "29": "Devolva o Livro da Família Blackhall para Obadiah.",
+        "31": "Devolva o Krivbeknih para Marcella",
+        "241": "Leve o Krivbeknih para o Edifício Dunwich na Capital Wasteland."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:002F18",
+      "FORMID": "002F18",
+      "EDID": "DLC04FF01",
+      "FULL": "Uma Terra Antiga",
+      "NNAM": {
+        "11": "Recupere o Estudo do Solo 01.",
+        "13": "Recupere o Estudo do Solo 03.",
+        "12": "Recupere o Estudo do Solo 02.",
+        "50": "Insira os dados no navio de pesquisa."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:009B5E",
+      "FORMID": "009B5E",
+      "EDID": "DLC04FF06",
+      "FULL": "Plik Safari",
+      "NNAM": {
+        "50": "Entre na arena e acene para Plik para começar o Safari.",
+        "51": "Sobreviva ao Safari de Plik.",
+        "10": "Pague à Plik 1,000 tampas para participar de seu Safari.",
+        "70": "Fale para Plik que você sobreviveu ao Safari."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00815C",
+      "FORMID": "00815C",
+      "EDID": "DLC04FF04",
+      "FULL": "Kenny Abandonado"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F939",
+      "FORMID": "00F939",
+      "EDID": "DLC04FF02graveyard",
+      "FULL": "Cemitério de Assuntos Não Mencionados"
+    },
+    {
+      "FORM": "@PointLookout.esm:00584B",
+      "FORMID": "00584B",
+      "EDID": "DLC04MQ05b",
+      "FULL": "Encontro de Mentes",
+      "NNAM": {
+        "10": "Vá para o Farol.",
+        "50": "Encontre Desmond e detenha ele.",
+        "100": "Mate Desmond OU mate o Professor.",
+        "125": "Mate Desmond.",
+        "150": "Fale com o Professor.",
+        "180": "Mate o Professor.",
+        "185": "Fale com Desmond.",
+        "175": "Mate o Professor."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00584A",
+      "FORMID": "00584A",
+      "EDID": "DLC04MQ05a",
+      "FULL": "Encontro de Mentes",
+      "NNAM": {
+        "10": "Encontre Desmond.",
+        "15": "Encontre-se com Desmond quando estiver pronto.",
+        "50": "Vá com Desmond encontrar o Professor.",
+        "100": "Mate Desmond OU mate o Professor.",
+        "101": "Mate Desmond.",
+        "102": "Mate o Professor.",
+        "75": "Fale com o Professor ou mate o Professor.",
+        "76": "Fale com o Professor.",
+        "150": "Fale com o Professor.",
+        "175": "Mate o Professor."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:0035BF",
+      "FORMID": "0035BF",
+      "EDID": "DLC04MQ02LD",
+      "FULL": "Defendendo a Mansão"
+    },
+    {
+      "FORM": "@PointLookout.esm:005849",
+      "FORMID": "005849",
+      "EDID": "DLC04MQ04",
+      "FULL": "Controlando Pensamentos",
+      "NNAM": {
+        "10": "Fale com Desmond.",
+        "20": "Instale o Interferidor de Ondas Cognitivas na Roda-Gigante.",
+        "100": "Volte para a Mansão.",
+        "25": "Instale o Interferidor de Ondas Cognitivas na Roda-Gigante OU use o Compactador de Lixo para destruí-lo.",
+        "21": "Use o Compactador de Lixo para destruir o Interferidor de Ondas Cognitivas.",
+        "50": "Ligue a Roda-Gigante."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:005848",
+      "FORMID": "005848",
+      "EDID": "DLC04MQ03",
+      "FULL": "Ouvindo Vozes",
+      "NNAM": {
+        "10": "Encontre o líder Tribal.",
+        "50": "Obtenha mais informações do líder da tribo.",
+        "150": "Saiba mais sobre o cérebro.",
+        "30": "Passe para Desmond a informação."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:005847",
+      "FORMID": "005847",
+      "EDID": "DLC04MQ02",
+      "FULL": "Andando com Espíritos",
+      "NNAM": {
+        "10": "Investigue os Tribais da Catedral.",
+        "100": "Colete sementes da Planta Punga Gigante.",
+        "150": "Volte à Catedral.",
+        "5": "Fale com Desmond sobre a oferta."
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:005846",
+      "FORMID": "005846",
+      "EDID": "DLC04MQ01",
+      "FULL": "Sabor Local",
+      "NNAM": {
+        "10": "Investigue o barco.",
+        "30": "Vá para Point Lookout.",
+        "50": "Descanse durante a viagem para Point Lookout.",
+        "120": "Investigue a mansão.",
+        "130": "Ajude o proprietário da mansão a repelir os invasores.",
+        "190": "Fale com o proprietário da mansão.",
+        "100": "Saia do Gambito da Duquesa.",
+        "160": "Acabe com os intrusos da ala Oeste.",
+        "165": "Acabe com os intrusos da ala Este.",
+        "170": "Acabe com o último invasor."
+      }
+    }
+  ]
+}

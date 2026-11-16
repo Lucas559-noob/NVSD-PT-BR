@@ -1,0 +1,358 @@
+{
+  "CELL": [
+    {
+      "FORM": "@PointLookout.esm:008853",
+      "FORMID": "008853",
+      "EDID": "DLC04Mine03",
+      "FULL": "Poço de Gás"
+    },
+    {
+      "FORM": "@PointLookout.esm:002EDF",
+      "FORMID": "002EDF",
+      "EDID": "DLC04surveyHole01",
+      "FULL": "Fossa de Resíduos Escavada"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AC1",
+      "FORMID": "010AC1",
+      "EDID": "DLC04PanicRoom",
+      "FULL": "Sala de Emergência"
+    },
+    {
+      "FORM": "@PointLookout.esm:002881",
+      "FORMID": "002881",
+      "EDID": "DLC04Mansion01",
+      "FULL": "Mansão Calvert"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F8AB",
+      "FORMID": "00F8AB",
+      "EDID": "DLC04BlackhallManor02",
+      "FULL": "Porão"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D6AF",
+      "FORMID": "00D6AF",
+      "EDID": "DLC04CampMorgue",
+      "FULL": "Necrotério"
+    },
+    {
+      "FORM": "@PointLookout.esm:008123",
+      "FORMID": "008123",
+      "EDID": "DLC04Mine01",
+      "FULL": "Mina Herzog"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AC0",
+      "FORMID": "010AC0",
+      "EDID": "DLC04zzWarehouse",
+      "FULL": "Depósito"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E798",
+      "FORMID": "00E798",
+      "EDID": "DLC04CampOffices",
+      "FULL": "Administração"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AB6",
+      "FORMID": "010AB6",
+      "EDID": "DLC04zzCave02",
+      "FULL": "Caverna"
+    },
+    {
+      "FORM": "@PointLookout.esm:010EEE",
+      "FORMID": "010EEE",
+      "EDID": "DLC04VendorChestsCell",
+      "FULL": "Baús Enterrados de Vendedor"
+    },
+    {
+      "FORM": "@PointLookout.esm:008122",
+      "FORMID": "008122",
+      "EDID": "DLC04Mine02",
+      "FULL": "Refeitório da Mina"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F50",
+      "FORMID": "017F50",
+      "EDID": "DunwichBuilding03",
+      "FULL": "Sobcâmaras Virulentas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABF",
+      "FORMID": "010ABF",
+      "EDID": "DLC04zzShop01",
+      "FULL": "Tenda Abandonada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E797",
+      "FORMID": "00E797",
+      "EDID": "DLC04MotelRoom1K",
+      "FULL": "Quarto 1K"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E91D",
+      "FORMID": "00E91D",
+      "EDID": "DLC04BogEntrance",
+      "FULL": "Entrada do Pântano"
+    },
+    {
+      "FORM": "@PointLookout.esm:00494F",
+      "FORMID": "00494F",
+      "EDID": "DLC04zTestSeaCave",
+      "FULL": "Caverna Marinha"
+    },
+    {
+      "FORM": "@PointLookout.esm:008121",
+      "FORMID": "008121",
+      "EDID": "DLC04MotelRoom1D",
+      "FULL": "Quarto 1D"
+    },
+    {
+      "FORM": "@PointLookout.esm:009B39",
+      "FORMID": "009B39",
+      "EDID": "DLC04CoastalGrotto02",
+      "FULL": "Plik Safari"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABE",
+      "FORMID": "010ABE",
+      "EDID": "DLC04zzShack01",
+      "FULL": "Cabana"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E796",
+      "FORMID": "00E796",
+      "EDID": "DLC04MotelRoom1G",
+      "FULL": "Quarto 1G"
+    },
+    {
+      "FORM": "@PointLookout.esm:008120",
+      "FORMID": "008120",
+      "EDID": "DLC04ShackMoonshiner",
+      "FULL": "Cabana do Contrabandista"
+    },
+    {
+      "FORM": "@PointLookout.esm:0040AC",
+      "FORMID": "0040AC",
+      "EDID": "DLC04Cathedral01",
+      "FULL": "Catedral Ark & Dove"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F28F",
+      "FORMID": "00F28F",
+      "EDID": "DLC04CoastalGrotto01",
+      "FULL": "Gruta Costeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABD",
+      "FORMID": "010ABD",
+      "EDID": "DLC04zzCafe01",
+      "FULL": "Lanchonete"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E795",
+      "FORMID": "00E795",
+      "EDID": "DLC04MotelOffice",
+      "FULL": "Escritório Homestead Motel"
+    },
+    {
+      "FORM": "@PointLookout.esm:007323",
+      "FORMID": "007323",
+      "EDID": "DLC04SpyBunker",
+      "FULL": "Bunker da Inteligência Chinesa"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D971",
+      "FORMID": "00D971",
+      "EDID": "DLC04Recruiter",
+      "FULL": "Estação de Recrutamento"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811F",
+      "FORMID": "00811F",
+      "EDID": "DLC04ShackTrapper",
+      "FULL": "Cabana do Caçador"
+    },
+    {
+      "FORM": "@PointLookout.esm:00BF1D",
+      "FORMID": "00BF1D",
+      "EDID": "DLC04CampShackTorture02",
+      "FULL": "Sala de Interrogação B"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B045",
+      "FORMID": "00B045",
+      "EDID": "DLC04RitualSiteBasement",
+      "FULL": "Porão Queimado"
+    },
+    {
+      "FORM": "@PointLookout.esm:00928B",
+      "FORMID": "00928B",
+      "EDID": "DLC04SeaCave",
+      "FULL": "Caverna Marinha"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B85A",
+      "FORMID": "00B85A",
+      "EDID": "DLC04SteamboatInt01",
+      "FULL": "Sala de Máquinas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABC",
+      "FORMID": "010ABC",
+      "EDID": "DLC04zzShop02",
+      "FULL": "Tenda Vazia"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E794",
+      "FORMID": "00E794",
+      "EDID": "DLC04CampShackBunkhouse01",
+      "FULL": "Beliche A"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B58A",
+      "FORMID": "00B58A",
+      "EDID": "DLC04ShackTrapperBasement",
+      "FULL": "Adega"
+    },
+    {
+      "FORM": "@PointLookout.esm:00FCF2",
+      "FORMID": "00FCF2",
+      "EDID": "DLC04zTestMarkiepoo",
+      "FULL": "Cela de Teste de Poo"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811E",
+      "FORMID": "00811E",
+      "EDID": "DLC04ShackHardwareStore",
+      "FULL": "Haley Hardware"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C700",
+      "FORMID": "00C700",
+      "EDID": "DLC04MedicalTent02",
+      "FULL": "Tenda Médica"
+    },
+    {
+      "FORM": "@PointLookout.esm:0049CD",
+      "FORMID": "0049CD",
+      "EDID": "DLC04zTestSeaCave02",
+      "FULL": "2º Teste: Caverna Marinha"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABB",
+      "FORMID": "010ABB",
+      "EDID": "DLC04zzShack02",
+      "FULL": "Cabana"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E793",
+      "FORMID": "00E793",
+      "EDID": "DLC04CampShackBunkhouse02",
+      "FULL": "Beliche B"
+    },
+    {
+      "FORM": "@PointLookout.esm:00977F",
+      "FORMID": "00977F",
+      "EDID": "DLC04Lab01",
+      "FULL": "Laboratório Subterrâneo"
+    },
+    {
+      "FORM": "@PointLookout.esm:00811D",
+      "FORMID": "00811D",
+      "EDID": "DLC04ShackGrower",
+      "FULL": "Cabana Desmoronada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6FF",
+      "FORMID": "00C6FF",
+      "EDID": "DLC04MedicalTent03",
+      "FULL": "Tenda Médica"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DF23",
+      "FORMID": "00DF23",
+      "EDID": "DLC04CampPipe01",
+      "FULL": "Acesso ao Túnel Séptico"
+    },
+    {
+      "FORM": "@PointLookout.esm:004E2D",
+      "FORMID": "004E2D",
+      "EDID": "DLC04BlackhallManor01",
+      "FULL": "Mansão Blackhall"
+    },
+    {
+      "FORM": "@PointLookout.esm:010ABA",
+      "FORMID": "010ABA",
+      "EDID": "DLC04zzCellar",
+      "FULL": "Adega"
+    },
+    {
+      "FORM": "@PointLookout.esm:008126",
+      "FORMID": "008126",
+      "EDID": "DLC04surveyHole02",
+      "FULL": "Fossa de Resíduos Excavada"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6FE",
+      "FORMID": "00C6FE",
+      "EDID": "DLC04MedicalTent04",
+      "FULL": "Tenda de Administração"
+    },
+    {
+      "FORM": "@PointLookout.esm:00BF1A",
+      "FORMID": "00BF1A",
+      "EDID": "DLC04CampShackTorture",
+      "FULL": "Sala de Interrogação A"
+    },
+    {
+      "FORM": "@PointLookout.esm:0072DA",
+      "FORMID": "0072DA",
+      "EDID": "DLC04zTestDuchessGambitCabin",
+      "FULL": "Cabine do Gambito da Duquesa"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AB9",
+      "FORMID": "010AB9",
+      "EDID": "DLC04zzBasement",
+      "FULL": "Porão"
+    },
+    {
+      "FORM": "@PointLookout.esm:00731F",
+      "FORMID": "00731F",
+      "EDID": "DLC04SpyTunnel",
+      "FULL": "Tubulação"
+    },
+    {
+      "FORM": "@PointLookout.esm:008125",
+      "FORMID": "008125",
+      "EDID": "DLC04surveyHole03",
+      "FULL": "Fossa de Resíduos Excavada"
+    },
+    {
+      "FORM": "@PointLookout.esm:010AB8",
+      "FORMID": "010AB8",
+      "EDID": "DLC04zzCave01",
+      "FULL": "Caverna"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E27C",
+      "FORMID": "00E27C",
+      "EDID": "DLC04Barge",
+      "FULL": "Convés"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F05A",
+      "FORMID": "00F05A",
+      "EDID": "DLC04Lighthouse",
+      "FULL": "Farol"
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFDC",
+      "FORMID": "00AFDC",
+      "EDID": "DLC04MedicalTent01",
+      "FULL": "Tenda de Marcella"
+    }
+  ]
+}

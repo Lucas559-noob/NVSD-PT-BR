@@ -1,0 +1,994 @@
+{
+  "MISC": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01808D",
+      "FORMID": "01808D",
+      "EDID": "TTWPrimer",
+      "FULL": "Espoleta"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01808C",
+      "FORMID": "01808C",
+      "EDID": "TTWPowder",
+      "FULL": "Pólvora"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01808B",
+      "FORMID": "01808B",
+      "EDID": "TTWPlastic",
+      "FULL": "Plástico"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01808A",
+      "FORMID": "01808A",
+      "EDID": "TTWBrass",
+      "FULL": "Latão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FD0",
+      "FORMID": "011FD0",
+      "EDID": "TTWUnStnReactorPrimer",
+      "FULL": "Espoleta de Reator"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE51",
+      "FORMID": "00EE51",
+      "EDID": "Case22LR",
+      "FULL": "Estojo, .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00EE4F",
+      "FORMID": "00EE4F",
+      "EDID": "BoxCase22LR",
+      "FULL": "Caixa de Estojos, .22LR"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009393",
+      "FORMID": "009393",
+      "EDID": "L38UpgradeAutodoc",
+      "FULL": "Melhoria da Suíte: Meu Primeiro Auto-Doc"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009392",
+      "FORMID": "009392",
+      "EDID": "L38UpgradeChemLab",
+      "FULL": "Melhoria da Suíte: Meu Primeiro Laboratório"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009391",
+      "FORMID": "009391",
+      "EDID": "L38UpgradeNukaVendingMachine",
+      "FULL": "Melhoria da Suíte: Máquina de Venda Impecável"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009390",
+      "FORMID": "009390",
+      "EDID": "L38UpgradeHotPlate",
+      "FULL": "Melhoria da Suíte: Fogareiro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00938F",
+      "FORMID": "00938F",
+      "EDID": "L38UpgradeReloadingBench",
+      "FULL": "Melhoria da Suíte: Bancada de Recarga"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00921F",
+      "FORMID": "00921F",
+      "EDID": "BobbleheadSUR",
+      "FULL": "Boneco - Sobrevivência"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008D55",
+      "FORMID": "008D55",
+      "EDID": "DrainedLiquidNitrogenTank",
+      "FULL": "Tanque de Nitrogênio Líquido Drenado"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BD4",
+      "FORMID": "008BD4",
+      "EDID": "SchematicsSECtoMPCItem",
+      "FULL": "Esquemas - SEC para MPC"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BAA",
+      "FORMID": "008BAA",
+      "EDID": "ShishkebabItem",
+      "FULL": "Shishkebab"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BA9",
+      "FORMID": "008BA9",
+      "EDID": "RockItLauncherItem",
+      "FULL": "Rock-It Launcher"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BA8",
+      "FORMID": "008BA8",
+      "EDID": "RailwayRifleItem",
+      "FULL": "Railway Rifle"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BA7",
+      "FORMID": "008BA7",
+      "EDID": "DeathclawGauntletItem",
+      "FULL": "Deathclaw Gauntlet"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BA6",
+      "FORMID": "008BA6",
+      "EDID": "DartGunItem",
+      "FULL": "Dart Gun"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008BA5",
+      "FORMID": "008BA5",
+      "EDID": "CryolatorItem",
+      "FULL": "Criolador"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008B9A",
+      "FORMID": "008B9A",
+      "EDID": "SchematicsMolotovCocktailItem",
+      "FULL": "Esquemas - Coquetel Molotov"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008AEB",
+      "FORMID": "008AEB",
+      "EDID": "CoolantComponent",
+      "FULL": "Componente Refrigerante"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008AEA",
+      "FORMID": "008AEA",
+      "EDID": "GardenHose",
+      "FULL": "Mangueira de Jardim"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008AE9",
+      "FORMID": "008AE9",
+      "EDID": "SchematicsCryolatorItem",
+      "FULL": "Esquemas - Criolador"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008400",
+      "FORMID": "008400",
+      "EDID": "TTWAmmoMatToken",
+      "FULL": "Material de Munição"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C7D",
+      "FORMID": "007C7D",
+      "EDID": "BoxCase32",
+      "FULL": "Caixa de Estojos, .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007C7C",
+      "FORMID": "007C7C",
+      "EDID": "Case32",
+      "FULL": "Estojo, .32"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E15",
+      "FORMID": "001E15",
+      "EDID": "TTWTrainTicket02",
+      "FULL": "Passagem de Trem para New Vegas"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E14",
+      "FORMID": "001E14",
+      "EDID": "TTWTrainTicket01",
+      "FULL": "Passagem de Trem para D.C."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001C03",
+      "FORMID": "001C03",
+      "EDID": "TTWHD00CraftingHotPlate",
+      "FULL": "Casa: Fogareiro"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001C02",
+      "FORMID": "001C02",
+      "EDID": "TTWHD00ReloadingBench",
+      "FULL": "Casa: Bancada de Recarga"
+    },
+    {
+      "FORM": "@PointLookout.esm:010BC5",
+      "FORMID": "010BC5",
+      "EDID": "DLC04LighthouseBulb",
+      "FULL": "Lâmpada do Farol"
+    },
+    {
+      "FORM": "@PointLookout.esm:00B5E8",
+      "FORMID": "00B5E8",
+      "EDID": "DLC04BoatTicket",
+      "FULL": "Bilhete Fluvial"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006530",
+      "FORMID": "006530",
+      "EDID": "DLC03SignalScrambler",
+      "FULL": "Codificador de Controle dos Deathclaw"
+    },
+    {
+      "FORM": "@Fallout3.esm:03713C",
+      "FORMID": "03713C",
+      "EDID": "FollowersCharonContract",
+      "FULL": "Contrato de Emprego de Charon"
+    },
+    {
+      "FORM": "@Fallout3.esm:02920F",
+      "FORMID": "02920F",
+      "EDID": "MetroTicket",
+      "FULL": "Bilhete de Metrô"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4E1",
+      "FORMID": "00D4E1",
+      "EDID": "NVDLC04RoughinItBedrollNoPhysics",
+      "FULL": "Kit de Cama Rústica!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CBBF",
+      "FORMID": "00CBBF",
+      "EDID": "NVDLC04BoxAmmoRocketCanister",
+      "FULL": "Cilindro de Foguete"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7DF",
+      "FORMID": "00C7DF",
+      "EDID": "NVDLC04BlankMagazineMISC",
+      "FULL": "Carregador Vazio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004687",
+      "FORMID": "004687",
+      "EDID": "NVDLC04Snowglobe",
+      "FULL": "Globo de Neve - A Estrada Solitária"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CDC6",
+      "FORMID": "00CDC6",
+      "EDID": "NVDLC03SnowGlobe",
+      "FULL": "Globo de Neve - Big MT"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0110FC",
+      "FORMID": "0110FC",
+      "EDID": "NVDLC02GeckoGreenHideTanned",
+      "FULL": "Couro de Gecko Esverdeado Curtido"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F84B",
+      "FORMID": "00F84B",
+      "EDID": "NVDLC02GeckoGreenHide",
+      "FULL": "Couro de Gecko-Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F848",
+      "FORMID": "00F848",
+      "EDID": "NVDLC02GreenGeckoEgg",
+      "FULL": "Ovo de Gecko-Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EDF5",
+      "FORMID": "00EDF5",
+      "EDID": "NVDLC02SnowGlobe",
+      "FULL": "Globo de Neve - Parque Nacional de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E72",
+      "FORMID": "009E72",
+      "EDID": "NVDLC02BoxCase45Auto",
+      "FULL": "Caixa de Estojos, .45 Auto"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011DE0",
+      "FORMID": "011DE0",
+      "EDID": "NVDLC01CRJar",
+      "FULL": "Pote de Resíduo de Nuvens"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FFD6",
+      "FORMID": "00FFD6",
+      "EDID": "NVDLC01VeraPartitures",
+      "FULL": "Partituras da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE80",
+      "FORMID": "00FE80",
+      "EDID": "NVDLC01Snowglobe",
+      "FULL": "Globo de Neve - Sierra Madre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AB2",
+      "FORMID": "175AB2",
+      "EDID": "RecipesCookCooksFiendStewItem",
+      "FULL": "Receitas - Ensopado de Demônio do Cozinheiro-Cozinheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AAC",
+      "FORMID": "175AAC",
+      "EDID": "RecipesBrahminWellingtonItem",
+      "FULL": "Receitas - Wellington de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F82",
+      "FORMID": "173F82",
+      "EDID": "BoxHull20Ga",
+      "FULL": "Caixa de Cápsulas, Calibre 20"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F81",
+      "FORMID": "173F81",
+      "EDID": "BoxHull12Ga",
+      "FULL": "Caixa de Cápsulas, Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168A6C",
+      "FORMID": "168A6C",
+      "EDID": "AcousticGuitar",
+      "FULL": "Violão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16665D",
+      "FORMID": "16665D",
+      "EDID": "JarPistolPowder",
+      "FULL": "Pote, Pólvora de Pistola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16665C",
+      "FORMID": "16665C",
+      "EDID": "JarRiflePowder",
+      "FULL": "Pote, Pólvora de Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F101",
+      "FORMID": "15F101",
+      "EDID": "L38UpgradeWorkBench",
+      "FULL": "Melhoria da Suíte: Bancada de Trabalho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01F",
+      "FORMID": "15F01F",
+      "EDID": "L38UpgradeWardrobe3",
+      "FULL": "Melhoria da Suíte: Guarda-Roupa de Hóspedes 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01E",
+      "FORMID": "15F01E",
+      "EDID": "L38UpgradeWardrobe1",
+      "FULL": "Melhoria da Suíte: Guarda-Roupa Principal 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01C",
+      "FORMID": "15F01C",
+      "EDID": "L38UpgradeLocker2",
+      "FULL": "Melhoria da Suíte: Armário de Criação 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01B",
+      "FORMID": "15F01B",
+      "EDID": "L38UpgradeLocker1",
+      "FULL": "Melhoria da Suíte: Armário de Criação 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F019",
+      "FORMID": "15F019",
+      "EDID": "L38UpgradessVendingmachine",
+      "FULL": "Melhoria da Suíte: Máquina de Venda da Sierra Madre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F018",
+      "FORMID": "15F018",
+      "EDID": "L38UpgradeSuitcase2",
+      "FULL": "Melhoria da Suíte: Mala 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F017",
+      "FORMID": "15F017",
+      "EDID": "L38UpgradeTrunk2",
+      "FULL": "Melhoria da Suíte: Baú de Armas 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F016",
+      "FORMID": "15F016",
+      "EDID": "L38UpgradeTrunk1",
+      "FULL": "Melhoria da Suíte: Baú de Armas 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F013",
+      "FORMID": "15F013",
+      "EDID": "L38UpgradeSuitcase1",
+      "FULL": "Melhoria da Suíte: Mala 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F012",
+      "FORMID": "15F012",
+      "EDID": "L38UpgradeWardrobe2",
+      "FULL": "Melhoria da Suíte: Guarda-Roupa Principal 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F011",
+      "FORMID": "15F011",
+      "EDID": "L38UpgradeWardrobe4",
+      "FULL": "Melhoria da Suíte: Guarda-Roupa de Hóspedes 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF5A",
+      "FORMID": "15EF5A",
+      "EDID": "L38UpgradeRefrigerator",
+      "FULL": "Melhoria da Suíte: Geladeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5C1",
+      "FORMID": "15E5C1",
+      "EDID": "NightstalkerEgg",
+      "FULL": "Ovo de Cão-Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5BF",
+      "FORMID": "15E5BF",
+      "EDID": "GoldenGeckoEgg",
+      "FULL": "Ovo de Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5BE",
+      "FORMID": "15E5BE",
+      "EDID": "FireGeckoEgg",
+      "FULL": "Ovo de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C631",
+      "FORMID": "15C631",
+      "EDID": "DrainedFlamerFuelTank",
+      "FULL": "Tanque de Combustível de Lança-chamas Esgotado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157249",
+      "FORMID": "157249",
+      "EDID": "VMS35SurgicalTools",
+      "FULL": "Ferramentas Cirúrgicas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52F",
+      "FORMID": "13D52F",
+      "EDID": "GeckoHideTanned",
+      "FULL": "Couro de Gecko Bronzeado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52E",
+      "FORMID": "13D52E",
+      "EDID": "GeckoGoldenHideTanned",
+      "FULL": "Couro de Gecko Dourado Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52D",
+      "FORMID": "13D52D",
+      "EDID": "GeckoFireHideTanned",
+      "FULL": "Couro de Gecko Flamejante Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B7",
+      "FORMID": "13B2B7",
+      "EDID": "GeckoFireHide",
+      "FULL": "Couro de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B6",
+      "FORMID": "13B2B6",
+      "EDID": "GeckoGoldenHide",
+      "FULL": "Couro de Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B5",
+      "FORMID": "13B2B5",
+      "EDID": "GeckoHide",
+      "FULL": "Couro de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B0",
+      "FORMID": "13B2B0",
+      "EDID": "CazadorPoisonGland",
+      "FULL": "Glândula de Veneno de Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13ABDC",
+      "FORMID": "13ABDC",
+      "EDID": "VBSBarnabasBear",
+      "FULL": "Urso Barnabas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E9",
+      "FORMID": "1378E9",
+      "EDID": "VMS38DeathclawEggs",
+      "FULL": "Pilha de Ovos de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E7",
+      "FORMID": "1378E7",
+      "EDID": "VMS38NightStalkerEggs",
+      "FULL": "Monte de Ovos de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1367FB",
+      "FORMID": "1367FB",
+      "EDID": "FortMelodyBear",
+      "FULL": "Sargento Teddy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F55A",
+      "FORMID": "11F55A",
+      "EDID": "VMS21WeaponsShipment",
+      "FULL": "Remessa de Armas Desmontadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C0E6",
+      "FORMID": "11C0E6",
+      "EDID": "JetEmpty",
+      "FULL": "Inalador de Jet Vazio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6627",
+      "FORMID": "0E6627",
+      "EDID": "DeathclawEggNV",
+      "FULL": "Ovo de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CADE6",
+      "FORMID": "0CADE6",
+      "EDID": "MS05NukaColaDisk",
+      "FULL": "Fórmula da Nuka-Cola Clear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8503",
+      "FORMID": "0C8503",
+      "EDID": "MS08AndroidComponent",
+      "FULL": "Componente Android"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BF20F",
+      "FORMID": "0BF20F",
+      "EDID": "MS15PrizeVoucher",
+      "FULL": "Vale-prêmio dos Arquivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB000",
+      "FORMID": "0BB000",
+      "EDID": "SchematicsShishkebabItem",
+      "FULL": "Esquemas - Shishkebab"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFF",
+      "FORMID": "0BAFFF",
+      "EDID": "SchematicsRockItLauncherItem",
+      "FULL": "Esquemas - Lançador de Coisas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFE",
+      "FORMID": "0BAFFE",
+      "EDID": "SchematicsRailwayRifleItem",
+      "FULL": "Esquemas - Rifle de Trilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFD",
+      "FORMID": "0BAFFD",
+      "EDID": "SchematicsNukaCocktailItem",
+      "FULL": "Esquemas - Nuka-Cocktail"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFC",
+      "FORMID": "0BAFFC",
+      "EDID": "SchematicsDeathclawGauntletItem",
+      "FULL": "Esquemas - Manopla de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFB",
+      "FORMID": "0BAFFB",
+      "EDID": "SchematicsBottlecapMineItem",
+      "FULL": "Esquemas - Mina de Garrafa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFA",
+      "FORMID": "0BAFFA",
+      "EDID": "SchematicsDartGunItem",
+      "FULL": "Esquemas - Arma de Dardos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A808",
+      "FORMID": "09A808",
+      "EDID": "ToasterPrewar",
+      "FULL": "Torradeira Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0943F2",
+      "FORMID": "0943F2",
+      "EDID": "PreWarBook",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBCC",
+      "FORMID": "07CBCC",
+      "EDID": "WoodChipper",
+      "FULL": "Picador de Madeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06CA30",
+      "FORMID": "06CA30",
+      "EDID": "MS03LibraryArchivesHolotape",
+      "FULL": "Holotape de Arquivos de Mídia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06C55A",
+      "FORMID": "06C55A",
+      "EDID": "RRControlCollar",
+      "FULL": "Coleira de Controle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B192",
+      "FORMID": "06B192",
+      "EDID": "MS15DeclarationRolledForged",
+      "FULL": "Declaração Forjada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06AA59",
+      "FORMID": "06AA59",
+      "EDID": "MS02AntResin",
+      "FULL": "Resina de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0604DE",
+      "FORMID": "0604DE",
+      "EDID": "Finger",
+      "FULL": "Dedo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0604DD",
+      "FORMID": "0604DD",
+      "EDID": "Ear",
+      "FULL": "Orelha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CE",
+      "FORMID": "05B6CE",
+      "EDID": "WhiskeyBottle01Empty01",
+      "FULL": "Garrafa de Uísque Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CD",
+      "FORMID": "05B6CD",
+      "EDID": "ScotchBottle01Empty01",
+      "FULL": "Garrafa de Uísque Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CB",
+      "FORMID": "05B6CB",
+      "EDID": "WhetStone01",
+      "FULL": "Pedra de Amolar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CA",
+      "FORMID": "05B6CA",
+      "EDID": "TinCan02",
+      "FULL": "Lata de Metal Amassada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A6CE",
+      "FORMID": "05A6CE",
+      "EDID": "MS10RewardBearCharm",
+      "FULL": "Amuleto de Urso de Yew"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0504DA",
+      "FORMID": "0504DA",
+      "EDID": "MS10TestTubeFull",
+      "FULL": "Seiva de Bétula"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0504D7",
+      "FORMID": "0504D7",
+      "EDID": "MS10TestTubeEmpty",
+      "FULL": "Recipiente de Seiva Vazio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04525A",
+      "FORMID": "04525A",
+      "EDID": "MS06DraftPoster",
+      "FULL": "Cartaz de Alistamento da Guerra Civil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045258",
+      "FORMID": "045258",
+      "EDID": "MS06ActionAbe",
+      "FULL": "Boneco de Ação do Abe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045256",
+      "FORMID": "045256",
+      "EDID": "MS06AssassinationPoster",
+      "FULL": "Cartaz de Procurado de John Wilkes Booth"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045254",
+      "FORMID": "045254",
+      "EDID": "MS06LincolnDiary",
+      "FULL": "Diário de Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045252",
+      "FORMID": "045252",
+      "EDID": "MS06Pennies",
+      "FULL": "Coleção de Moedas Lincoln Antigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:040D4D",
+      "FORMID": "040D4D",
+      "EDID": "MS18FinGeomapper",
+      "FULL": "Módulo de Geomapeamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E56A",
+      "FORMID": "03E56A",
+      "EDID": "MS10Liniment",
+      "FULL": "Linimento da Laurel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D34D",
+      "FORMID": "03D34D",
+      "EDID": "MQ08GECK",
+      "FULL": "G.E.C.K."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BD33",
+      "FORMID": "03BD33",
+      "EDID": "MQ09FEVVial",
+      "FULL": "Vírus FEV Modificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:039B5F",
+      "FORMID": "039B5F",
+      "EDID": "UtilityID",
+      "FULL": "ID de Funcionário da Utilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03997E",
+      "FORMID": "03997E",
+      "EDID": "OfficeID",
+      "FULL": "Identificação de Funcionário do Escritório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038954",
+      "FORMID": "038954",
+      "EDID": "BobbleheadSGUN",
+      "FULL": "Boneco - Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340B5",
+      "FORMID": "0340B5",
+      "EDID": "ShotGlass01",
+      "FULL": "Copo de Dose"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340A0",
+      "FORMID": "0340A0",
+      "EDID": "PlateDinnerCeramic",
+      "FULL": "Prato de Jantar de Cerâmica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034069",
+      "FORMID": "034069",
+      "EDID": "CigarettePack",
+      "FULL": "Maço de Cigarros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034068",
+      "FORMID": "034068",
+      "EDID": "CigaretteCarton",
+      "FULL": "Caixa de Cigarros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034067",
+      "FORMID": "034067",
+      "EDID": "PrewarMoney",
+      "FULL": "Dinheiro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030663",
+      "FORMID": "030663",
+      "EDID": "MS03Observer",
+      "FULL": "Observador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02EDFB",
+      "FORMID": "02EDFB",
+      "EDID": "MS01Lucky8ball",
+      "FULL": "Bola 8 da Sorte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3B4",
+      "FORMID": "02D3B4",
+      "EDID": "MS03TelemetryUnit",
+      "FULL": "Widget de Processador RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3B3",
+      "FORMID": "02D3B3",
+      "EDID": "MS03HistoryHolotape",
+      "FULL": "Registro Histórico de Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A5",
+      "FORMID": "02D3A5",
+      "EDID": "MS03Sanitizer",
+      "FULL": "Sanitizador de Comida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B419",
+      "FORMID": "02B419",
+      "EDID": "pool8ball",
+      "FULL": "Bola 8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029171",
+      "FORMID": "029171",
+      "EDID": "NukaTruck",
+      "FULL": "Caminhão da Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028EE9",
+      "FORMID": "028EE9",
+      "EDID": "MS06Poster",
+      "FULL": "Cartaz do Memorial Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028EE6",
+      "FORMID": "028EE6",
+      "EDID": "MS06Recording",
+      "FULL": "A Voz de Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025E03",
+      "FORMID": "025E03",
+      "EDID": "LawnmowerBlade",
+      "FULL": "Lâmina de Cortador de Grama"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A8",
+      "FORMID": "0250A8",
+      "EDID": "SurgicalSyringe01",
+      "FULL": "Seringa Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A5",
+      "FORMID": "0250A5",
+      "EDID": "SurgicalScalpel01",
+      "FULL": "Bisturi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02393C",
+      "FORMID": "02393C",
+      "EDID": "MQ02VirgoIIDish",
+      "FULL": "Prato de Virgem II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022FF0",
+      "FORMID": "022FF0",
+      "EDID": "MS13CollarMiscObj",
+      "FULL": "Coleira de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022419",
+      "FORMID": "022419",
+      "EDID": "MS15MuseumToken",
+      "FULL": "Ficha do Museu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210B",
+      "FORMID": "02210B",
+      "EDID": "DeathclawHand",
+      "FULL": "Mão de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022105",
+      "FORMID": "022105",
+      "EDID": "Turpentine",
+      "FULL": "Terebintina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022104",
+      "FORMID": "022104",
+      "EDID": "TinCan01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022103",
+      "FORMID": "022103",
+      "EDID": "NukaColaBottle",
+      "FULL": "Garrafa Vazia de Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022100",
+      "FORMID": "022100",
+      "EDID": "LeafBlower",
+      "FULL": "Soprador de Folhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0220FF",
+      "FORMID": "0220FF",
+      "EDID": "VacuumCleaner",
+      "FULL": "Aspirador de pó"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F21F",
+      "FORMID": "01F21F",
+      "EDID": "TeddyBear01",
+      "FULL": "Ursinho de pelúcia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EDC5",
+      "FORMID": "01EDC5",
+      "EDID": "FFDCBrotherhoodDogtag",
+      "FULL": "Holotag da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CFAF",
+      "FORMID": "01CFAF",
+      "EDID": "MS09VancesProposal",
+      "FULL": "Proposta de Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A168",
+      "FORMID": "01A168",
+      "EDID": "MQ05Fuse",
+      "FULL": "Fusível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01890A",
+      "FORMID": "01890A",
+      "EDID": "MS09SealedEnvelope",
+      "FULL": "Envelope Lacrado de Lucy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003AA2",
+      "FORMID": "003AA2",
+      "EDID": "MS15Ink",
+      "FULL": "Recipiente de Tinta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A82",
+      "FORMID": "003A82",
+      "EDID": "MS15BillofRightsRolled",
+      "FULL": "Declaração de Direitos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A80",
+      "FORMID": "003A80",
+      "EDID": "MS15MagnaCartaRolled",
+      "FULL": "Magna Carta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A7F",
+      "FORMID": "003A7F",
+      "EDID": "MS15DeclarationRolled",
+      "FULL": "Declaração da Independência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0033FF",
+      "FORMID": "0033FF",
+      "EDID": "MS17SoilStrad",
+      "FULL": "Stradivarius do Solo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00000F",
+      "FORMID": "00000F",
+      "EDID": "Caps001",
+      "FULL": "Tampinha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00000A",
+      "FORMID": "00000A",
+      "EDID": "Lockpick",
+      "FULL": "Grampo"
+    }
+  ]
+}

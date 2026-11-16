@@ -1,0 +1,703 @@
+{
+  "PERK": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079087",
+      "FORMID": "079087",
+      "EDID": "TTWBobbleheadPerkCharisma",
+      "FULL": "Charisma Bobblehead",
+      "DESC": "Nothing says pizzazz like a winning smile.\n\nCompanions now deal an additional 10% damage and have an additional 10% damage resistance."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D9",
+      "FORMID": "0185D9",
+      "EDID": "TTWXenophobeChallengePerk",
+      "FULL": "Xenófobo",
+      "DESC": "Toda essa experiência matando alienígenas mostrou a você a melhor maneira de fazer isso. Você causa 20% mais dano a alienígenas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D8",
+      "FORMID": "0185D8",
+      "EDID": "TTWTasteofDeathChallengePerk",
+      "FULL": "Gosto da Morte",
+      "DESC": "Aqua Pura tem gosto de morte."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D7",
+      "FORMID": "0185D7",
+      "EDID": "TTWTasteofLifeChallengePerk",
+      "FULL": "Gosto da Vida",
+      "DESC": "Aqua Pura tem gosto de vida."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D6",
+      "FORMID": "0185D6",
+      "EDID": "TTWGhoulChallengePerk",
+      "FULL": "Triturador de Ghouls",
+      "DESC": "É como viver em um filme de terror. Você agora causa dano extra a Ghouls Ferais."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009251",
+      "FORMID": "009251",
+      "EDID": "TTWBobbleheadPerkBigGuns",
+      "FULL": "Big Guns Bobblehead",
+      "DESC": "The best way to win an argument is to be the loudest.\n\nYou now do 5% more damage with any Big Gun."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009089",
+      "FORMID": "009089",
+      "EDID": "TTWFollowerPerkButchFollower",
+      "FULL": "Tunnel Snakes Dominam",
+      "DESC": "Butch é um membro de gangue no fundo do coração e se sai melhor quando tem um senso de pertencimento. Enquanto Butch estiver no seu grupo, vocês dois ganham +5% de Dano se ele estiver usando a mesma arma que você, e ambos ganham +5% de DR se ele estiver usando a mesma armadura que você, com +5% de DR extra se forem uniformes Tunnel Snake."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008DC0",
+      "FORMID": "008DC0",
+      "EDID": "TTWFrosty",
+      "FULL": "Fique Gélido",
+      "DESC": "Com o bônus Fique Gélido, armas criogênicas causam 50% mais dano e os efeitos duram 50% mais tempo."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008DBC",
+      "FORMID": "008DBC",
+      "EDID": "TTWThumpThumpFixPerk",
+      "FULL": "Conserto do Thump-Thump"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF6",
+      "FORMID": "008CF6",
+      "EDID": "TTWBobbleheadPerkUnarmed",
+      "FULL": "Unarmed Bobblehead",
+      "DESC": "When words fail, there's always fists.\n\nYour unarmed attacks now do double damage against blocking opponents."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF5",
+      "FORMID": "008CF5",
+      "EDID": "TTWBobbleheadPerkSurvival",
+      "FULL": "Boneco de Sobrevivência",
+      "DESC": "Sometimes, the best way to win is to outlast your opponent.\n\nAny chems you take or ingestibles you eat now last 10% longer."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF4",
+      "FORMID": "008CF4",
+      "EDID": "TTWBobbleheadPerkSpeech",
+      "FULL": "Speech Bobblehead",
+      "DESC": "Let your words be your weapon.\n\nYou can now hire any companion regardless of your Karma."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF3",
+      "FORMID": "008CF3",
+      "EDID": "TTWBobbleheadPerkSneak",
+      "FULL": "Sneak Bobblehead",
+      "DESC": "The safest distance between two points is a shadowy line.\n\nYour sneak attack criticals now do 10% more damage."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF2",
+      "FORMID": "008CF2",
+      "EDID": "TTWBobbleheadPerkScience",
+      "FULL": "Science Bobblehead",
+      "DESC": "Always be prepared to explain the hows and the whys.\n\nYou now do 10% more damage to robots."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF1",
+      "FORMID": "008CF1",
+      "EDID": "TTWBobbleheadPerkRepair",
+      "FULL": "Repair Bobblehead",
+      "DESC": "Why go down with the ship when you can try to fix it?\n\nYour weapons and armor now degrade 10% slower."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CF0",
+      "FORMID": "008CF0",
+      "EDID": "TTWBobbleheadPerkMeleeWeapons",
+      "FULL": "Boneco de Armas Brancas",
+      "DESC": "It's important to do business up close and personal.\n\nYou now swing Melee Weapons 10% faster."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CEF",
+      "FORMID": "008CEF",
+      "EDID": "TTWBobbleheadPerkMedicine",
+      "FULL": "Medicine Bobblehead",
+      "DESC": "The smart man knows a bandage only hides his wounds.\n\nYou are now 10% less likely to become addicted to chems."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CEE",
+      "FORMID": "008CEE",
+      "EDID": "TTWBobbleheadPerkLockpick",
+      "FULL": "Lockpick Bobblehead",
+      "DESC": "Always strive for the unobtainable.\n\nYour bobby pins are now less likely to break."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CED",
+      "FORMID": "008CED",
+      "EDID": "TTWBobbleheadPerkGuns",
+      "FULL": "Boneco de Armas de Fogo",
+      "DESC": "Because it's easier to have courage from a safe distance away.\n\nYou now do 5% more damage with Guns."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CEC",
+      "FORMID": "008CEC",
+      "EDID": "TTWBobbleheadPerkExplosives",
+      "FULL": "Explosives Bobblehead",
+      "DESC": "The best way to solve a problem is to make it go away.\n\nExplosives now have 10% less spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CEB",
+      "FORMID": "008CEB",
+      "EDID": "TTWBobbleheadPerkEnergyWeapons",
+      "FULL": "Energy Weapons Bobblehead",
+      "DESC": "Arrive at peaceful resolutions by using superior firepower.\n\nWhen using Energy Weapons, you ignore an additional 5 DT."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CEA",
+      "FORMID": "008CEA",
+      "EDID": "TTWBobbleheadPerkBarter",
+      "FULL": "Barter Bobblehead",
+      "DESC": "Never forget to walk away with more than you've brought.\n\nItems you buy now cost 5% less."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE9",
+      "FORMID": "008CE9",
+      "EDID": "TTWBobbleheadPerkLuck",
+      "FULL": "Luck Bobblehead",
+      "DESC": "There's only one way to give 101%.\n\nYou now have a 2.5% boost to critical hit chance."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE8",
+      "FORMID": "008CE8",
+      "EDID": "TTWBobbleheadPerkCharismaCompanion",
+      "FULL": "Charisma Bobblehead",
+      "DESC": "Nothing says pizzazz like a winning smile.\n\nCompanions now deal an additional 10% damage and have an additional 10% damage resistance."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE7",
+      "FORMID": "008CE7",
+      "EDID": "TTWBobbleheadPerkIntelligence",
+      "FULL": "Intelligence Bobblehead",
+      "DESC": "It takes the smartest individuals to realize there's always more to learn.\n\nYou now gain 5 extra skill points when reading magazines."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE6",
+      "FORMID": "008CE6",
+      "EDID": "TTWBobbleheadPerkEndurance",
+      "FULL": "Endurance Bobblehead",
+      "DESC": "Always be ready to take one for the team.\n\nYour Damage Resistance has been permanently increased by 5%."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE5",
+      "FORMID": "008CE5",
+      "EDID": "TTWBobbleheadPerkPerception",
+      "FULL": "Perception Bobblehead",
+      "DESC": "Only through observation will you perceive weakness.\n\nYou are now 10% more accurate with all ballistic and energy weapons."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE4",
+      "FORMID": "008CE4",
+      "EDID": "TTWBobbleheadPerkStrength",
+      "FULL": "Strength Bobblehead",
+      "DESC": "It's essential you can bear any weight placed upon your shoulders.\n\nYou can now carry 25 lbs. more gear."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008CE3",
+      "FORMID": "008CE3",
+      "EDID": "TTWBobbleheadPerkAgility",
+      "FULL": "Agility Bobblehead",
+      "DESC": "Never be afraid to dodge the sensitive issues.\n\nYou now run 5% faster."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007EA0",
+      "FORMID": "007EA0",
+      "EDID": "TTWFollowerPerkCharon",
+      "FULL": "O Contrato",
+      "DESC": "Charon é absolutamente leal ao portador de seu contrato, colocando-se em perigo para mantê-lo seguro. Infelizmente para ele, o portador do contrato leva uma vida perigosa e aventureira... Para cada 10% de saúde abaixo do máximo, você ganha 1 DT."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9F",
+      "FORMID": "007E9F",
+      "EDID": "TTWFollowerPerkJericho",
+      "FULL": "Sobrevivente Resiliente",
+      "DESC": "Os muitos anos de Jericho enfrentando o ermo o ensinaram a se virar apenas com sucata e ruínas. Você pode falar com ele a qualquer momento para acender uma fogueira."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9E",
+      "FORMID": "007E9E",
+      "EDID": "TTWFollowerPerkClover",
+      "FULL": "Ficar com Sorte",
+      "DESC": "Eulogy estava certo sobre ela. Quando você tiver um dia difícil na estrada e estiver pronto para encerrar a noite, ela garantirá que você acorde sorrindo. Com Clover no seu grupo, o bônus Bem Descansado concederá +15% de experiência adicional e +1 de Sorte."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9D",
+      "FORMID": "007E9D",
+      "EDID": "TTWFollowerPerkButch",
+      "FULL": "Tunnel Snakes Dominam",
+      "DESC": "Butch é um membro de gangue no fundo do coração e se sai melhor quando tem um senso de pertencimento. Enquanto Butch estiver no seu grupo, vocês dois ganham +5% de Dano se ele estiver usando a mesma arma que você, e ambos ganham +5% de DR se ele estiver usando a mesma armadura que você, com +5% de DR extra se forem uniformes Tunnel Snake."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9C",
+      "FORMID": "007E9C",
+      "EDID": "TTWFollowerPerkStarPaladinCross",
+      "FULL": "Segunda Pele",
+      "DESC": "A Paladina Estelar Cross é uma veterana experiente no uso de armaduras potentes e pode mostrar a você como lidar com suas idiossincrasias. Enquanto a Paladina Estelar Cross estiver no seu grupo, você terá +1 de Agilidade e +50 de capacidade de carga quando estiver usando armadura potente."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9B",
+      "FORMID": "007E9B",
+      "EDID": "TTWFollowerPerkFawkes",
+      "FULL": "Compensação Excessiva",
+      "DESC": "O amor de Fawkes por armas pesadas é contagiante. Com Fawkes no seu grupo, o requisito de Força para Armas Grandes é reduzido em 2, e elas causam 10% mais dano."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E9A",
+      "FORMID": "007E9A",
+      "EDID": "TTWFollowerPerkRL3",
+      "FULL": "Drill Sergeant",
+      "DESC": "Hooah! O sargento RL-3, todo animado, incentiva você a se destacar na matança, sejam eles comunistas ou não. Enquanto RL-3 estiver com você, você terá -5% de dispersão das armas e +5% de chance de crítico."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E99",
+      "FORMID": "007E99",
+      "EDID": "TTWFollowerPerkDogmeat",
+      "FULL": "Melhor Amigo do Homem",
+      "DESC": "Dogmeat é o melhor amigo do homem e sabe como coordenar e interferir. Enquanto ele estiver no seu grupo, você causará +25% de dano a alvos derrubados. Além disso, você pode pedir a Dogmeat para 'marcar' seu território, definindo um marcador de viagem rápida naquele local."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B65",
+      "FORMID": "007B65",
+      "EDID": "TTWHackerChallengePerk",
+      "FULL": "l337 H@cK3r",
+      "DESC": "Toda essa prática de invasão melhorou seu conhecimento do SO da RobCo; todos os terminais agora são mais fáceis de hackear."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B64",
+      "FORMID": "007B64",
+      "EDID": "TTWOrbitChallengePerk",
+      "FULL": "Nuke it From Orbit",
+      "DESC": "Sua habilidade no uso de lançadores é impressionante. Toda essa prática melhorou sua mira. Seus disparos acertam mais perto do alvo e causam mais dano."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B63",
+      "FORMID": "007B63",
+      "EDID": "NVDismemberChallengePerk",
+      "FULL": "I Dismember You",
+      "DESC": "Toda essa prática de arrancar membros aperfeiçoou sua mira. Contra membros."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B62",
+      "FORMID": "007B62",
+      "EDID": "TTWBarterTownChallengePerk",
+      "FULL": "Cidade do Escambo",
+      "DESC": "Sua habilidade nos negócios garante descontos onde quer que você compre. A cada nível deste bônus, os itens que você compra custam 10% menos."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB0",
+      "FORMID": "00ABB0",
+      "EDID": "DLC05Xenotech",
+      "FULL": "Especialista em Xenotech",
+      "DESC": "Sua familiaridade com tecnologia alienígena lhe dá um melhor controle sobre as armas, aumentando seu dano em 20%."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FC2E",
+      "FORMID": "00FC2E",
+      "EDID": "DLC04MirelurkEcology",
+      "FULL": "Ecologia Mirelurk",
+      "DESC": "Após horas de estudo, você finalmente aprendeu a explorar as fraquezas de um Mirelurk e ganha +5 de bônus de dano ao atacá-lo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FE",
+      "FORMID": "00D1FE",
+      "EDID": "DLC04FF06GhoulEcology",
+      "FULL": "Ecologia Ghoul",
+      "DESC": "You have learned to exploit the specific weaknesses of Ghouls, and gain a +5 damage bonus when attacking one."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FD",
+      "FORMID": "00D1FD",
+      "EDID": "DLC04GrayMatters",
+      "FULL": "Matéria Cinza",
+      "DESC": "Proteja o que é importante.  Com a perk Matéria Cinza você recebe menos 25% de dano quando atingido na cabeça."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FB",
+      "FORMID": "00D1FB",
+      "EDID": "DLC04SwingForTheFences",
+      "FULL": "Rebater com Tudo",
+      "DESC": "Com Rebater com Tudo, você causará 20% de dano adicional enquanto estiver com qualquer arma branca de uma ou duas mãos equipada."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D1FA",
+      "FORMID": "00D1FA",
+      "EDID": "DLC04SuperiorDefender",
+      "FULL": "Defesa Superior",
+      "DESC": "Com o bônus Defesa Superior, o jogador ganha +5 de dano e +10 de Resistência a Dano enquanto estiver parado."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C71",
+      "FORMID": "004C71",
+      "EDID": "DLC03QuantumChemist",
+      "FULL": "Químico Quantum",
+      "DESC": "Você desbloqueou o segredo para criar Nuka-Cola Quantum. Com este bônus, dez Nuka-Colas podem ser transformadas em uma Nuka-Cola Quantum em uma fogueira ou fogareiro."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C6F",
+      "FORMID": "004C6F",
+      "EDID": "DLC03EscalatorToHeaven",
+      "FULL": "Escada para o Céu",
+      "DESC": "Quando você escolhe a perk Escada para o Céu , seu Karma é instantaneamente definido para Muito Bom."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C6E",
+      "FORMID": "004C6E",
+      "EDID": "DLC03KarmicRebalance",
+      "FULL": "Karma Equilibrado",
+      "DESC": "Quando você escolhe a perk Karma Equilibrado, o Karma é instantaneamente ajustado para neutro."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C6D",
+      "FORMID": "004C6D",
+      "EDID": "DLC03DevilsHighway",
+      "FULL": "Caminho do Diabo",
+      "DESC": "Quando você escolhe a perk Caminho do Diabo, seu Karma é imediatamente definido para Muito Mal."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C6C",
+      "FORMID": "004C6C",
+      "EDID": "DLC03NuclearAnomaly",
+      "FULL": "Anomalia Nuclear",
+      "DESC": "Com a perk Anomalia Nuclear, sempre que a sua saúde estiver reduzida para 20 ou menos, você provocará uma explosão nuclear devastadora. Note que todos os aliados próximos também sofrerão os efeitos da explosão!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C6B",
+      "FORMID": "004C6B",
+      "EDID": "DLC03AlmostPerfect",
+      "FULL": "Quase Perfeito",
+      "DESC": "Pegue a perk Quase Perfeito, que todos os seus status S.P.E.C.I.A.L. serão imediatamente elevado à 9."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003211",
+      "FORMID": "003211",
+      "EDID": "DLC03Puppies",
+      "FULL": "Filhotes!",
+      "DESC": "Com a perk Filhotes!, se Dogmeat morrer, você vai ser capaz de obter um novo companheiro canino de sua ninhada de cachorros. Basta esperar um pouco, e você vai encontrar o seu novo amigo peludo esperando lá fora do Vault 101."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0011C1",
+      "FORMID": "0011C1",
+      "EDID": "DLC03RadTolerance",
+      "FULL": "Tolerância à Radiação",
+      "DESC": "Embora você ainda será notificado quando começar o Envenenamento por Radiação Menor, você não sofrerá qualquer efeito negativo a partir dele."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00108E",
+      "FORMID": "00108E",
+      "EDID": "DLC03NoWeakness",
+      "FULL": "Sem Fraquezas",
+      "DESC": "Quando você pega a perk Sem fraqueza, todos atributos S.P.E.C.I.A.L. que são menores que 5 serão instantaneamente aumentados para 5."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF70",
+      "FORMID": "00BF70",
+      "EDID": "DLC02CovertOps",
+      "FULL": "Operação Secreta",
+      "DESC": "Você aprendeu a arte da espionagem com informações recuperadas; sua chance de bater carteira é aumentada em 15%."
+    },
+    {
+      "FORM": "@Fallout3.esm:09982E",
+      "FORMID": "09982E",
+      "EDID": "SizeMatters",
+      "FULL": "Tamanho importa",
+      "DESC": "Você é obcecado por armas realmente grandes. A cada nível deste bônus, você ganha 10% de precisão e dano ao usar armas pesadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:069310",
+      "FORMID": "069310",
+      "EDID": "DaddysGirl",
+      "FULL": "Menina do Papai",
+      "DESC": "Assim como o querido papai, você dedicou seu tempo a buscas intelectuais. A cada nível, hackear fica mais fácil e as drogas duram 10% mais."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CAC",
+      "FORMID": "044CAC",
+      "EDID": "Lawbringer",
+      "FULL": "Justiceiro",
+      "DESC": "Once you have the Lawbringer perk, any evil character you kill will have a finger on their corpse. This finger can then be sold to a certain person (whose identity is disclosed when you take the perk) for caps and positive Karma (Requires Good Karma)."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CAB",
+      "FORMID": "044CAB",
+      "EDID": "Cyborg",
+      "FULL": "Ciborgue",
+      "DESC": "Você fez melhorias permanentes no seu corpo! O bônus Ciborgue adiciona instantaneamente +10% às suas Resistências a Veneno, Radiação, Energia e Fogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CA8",
+      "FORMID": "044CA8",
+      "EDID": "ContractKiller",
+      "FULL": "Matador de Aluguel",
+      "DESC": "Com o bônus Matador de Aluguel, qualquer personagem bom que você matar terá uma orelha em seu corpo. Essa orelha pode então ser vendida a uma certa pessoa (cuja identidade é revelada quando você recebe o bônus) por tampas e Karma negativo (Requer Karma Mau)."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CA6",
+      "FORMID": "044CA6",
+      "EDID": "Scoundrel",
+      "FULL": "Canalha",
+      "DESC": "Receba o bônus Canalha e você poderá usar seus encantos astutos para influenciar pessoas; a cada nível, os vendedores dão 10% de desconto e você ganha mais XP por passar em testes de diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:04494E",
+      "FORMID": "04494E",
+      "EDID": "GunNut",
+      "FULL": "Louco por Armas",
+      "DESC": "Você é obcecado por usar e manter uma grande variedade de armas de fogo convencionais. A cada nível do bônus Viciado em Armas, ao usar uma arma de fogo, a dispersão é reduzida em 10% e a condição do item é aumentada em 10%."
+    },
+    {
+      "FORM": "@Fallout3.esm:044948",
+      "FORMID": "044948",
+      "EDID": "DaddysBoy",
+      "FULL": "Menino do Papai",
+      "DESC": "Assim como o querido papai, você dedicou seu tempo a buscas intelectuais. A cada nível, hackear fica mais fácil e as drogas duram 10% mais."
+    },
+    {
+      "FORM": "@Fallout3.esm:031DDB",
+      "FORMID": "031DDB",
+      "EDID": "IronFist",
+      "FULL": "Punho de Ferro",
+      "DESC": "Com o bônus Punho de Ferro, você causa 10 pontos adicionais de dano Desarmado por nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:031DD6",
+      "FORMID": "031DD6",
+      "EDID": "Thief",
+      "FULL": "Ladrão",
+      "DESC": "A cada nível do bônus Ladrão, você ganha 10% de velocidade de movimento enquanto se esgueira e +5% de chance de bater carteira."
+    },
+    {
+      "FORM": "@Fallout3.esm:031DB8",
+      "FORMID": "031DB8",
+      "EDID": "MasterTrader",
+      "FULL": "Grande Comerciante",
+      "DESC": "Quando adquirir o bônus Grande Comerciante, o preço de todos os itens que comprar de um vendedor é reduzido em 25%."
+    },
+    {
+      "FORM": "@Fallout3.esm:014B97",
+      "FORMID": "014B97",
+      "EDID": "LittleLeaguer",
+      "FULL": "Pequeno Lançador",
+      "DESC": "Anos como MVP da liga infantil do Vault aprimoraram sua rebatida e arremesso. A cada nível, você ganha 10% de dano ao usar tacos e tábuas com pregos, e arremessa granadas com mais força e mais longe."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4E3",
+      "FORMID": "00D4E3",
+      "EDID": "NVDLC04EDENoMines",
+      "FULL": "Passo Leve",
+      "DESC": "ED-E não detona minas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C256",
+      "FORMID": "00C256",
+      "EDID": "NVDLC04LessonsLearnedPerk",
+      "FULL": "Lições Aprendidas",
+      "DESC": "O ermo te ensinou algumas lições duras, mas você se lembrou de todas elas. Você ganha +1% de experiência obtida por nível ganho. (Por exemplo, +25% de experiência no nível 25.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C254",
+      "FORMID": "00C254",
+      "EDID": "NVDLC04WalkerInstinctPerk",
+      "FULL": "Instinto do Andarilho",
+      "DESC": "Seus sentidos se tornaram tão aguçados que você consegue sentir a menor vibração no chão. Você ganha +1 nos atributos Percepção e Agilidade enquanto estiver ao ar livre."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C253",
+      "FORMID": "00C253",
+      "EDID": "NVDLC04VoraciousReaderPerk",
+      "FULL": "Leitor Voraz",
+      "DESC": "Você não só lê livros, você os devora. Livros danificados que você pega viram revistas em branco, que você pode usar para copiar suas revistas de habilidade existentes em uma bancada (ou converter revistas em branco de volta para livros)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C24F",
+      "FORMID": "00C24F",
+      "EDID": "NVDLC04JustLuckyImAlivePerk",
+      "FULL": "Ainda Bem que Estou Vivo",
+      "DESC": "Você já passou por poucas e boas. Sempre que terminar uma luta com menos de 25% de Saúde, sua Sorte aumenta em +4 por 3 minutos. Você também fica imune a acertos críticos, e seus próprios acertos críticos infligem +50% de dano. (Requer Karma Neutro.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C24E",
+      "FORMID": "00C24E",
+      "EDID": "NVDLC04ThoughtYouForDeadPerk",
+      "FULL": "Achou que Eu Estava Morto?",
+      "DESC": "Seu passado lendário caiu no esquecimento, porque todos acharam que você morreu. Seu Karma é reiniciado, você inflige +10% de dano e, a cada 100 pontos de Karma, você ganha 10 de Saúde. Você também é imune a acertos críticos. (Requer Bom Karma.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A749",
+      "FORMID": "00A749",
+      "EDID": "NVDLC04AintLikeThatNowPerk",
+      "FULL": "Não Sou Mais o Mesmo",
+      "DESC": "Talvez você tenha sido mau uma vez, mas não é mais assim. Seu Karma foi reiniciado para 0, você regenera PA 25% mais rápido e sua velocidade de ataque aumenta em 20%. Você também é imune a acertos críticos. (Requer Karma Ruim.)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F67C",
+      "FORMID": "00F67C",
+      "EDID": "NVDLC02FightThePower",
+      "FULL": "Lutem contra o Poder!",
+      "DESC": "Você já se cansou das chamadas 'autoridades' oprimindo os pobres! Você ganha +2 de Limiar de Dano e +5% de Chance de Crítico contra qualquer pessoa vestindo a armadura de facção da NCR, da Legião, da Enclave ou da Irmandade."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F67B",
+      "FORMID": "00F67B",
+      "EDID": "NVDLC02SneeringImperialist",
+      "FULL": "Imperialista Zombeteiro",
+      "DESC": "Você não gosta nada de saqueadores, viciados ou tribais tentando se 'estabelecer' ou 'sobreviver' em terras civilizadas. Contra tipos sujos de saqueadores, escravagistas e viciados, bem como tribais, você causa +15% de Dano e tem um bônus para acertar no V.A.T.S."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F679",
+      "FORMID": "00F679",
+      "EDID": "NVDLC02TribalWisdom",
+      "FULL": "Sabedoria Tribal",
+      "DESC": "Seus membros sofrem 50% menos dano de Animais, Animais Mutantes e Insetos Mutantes, você ganha +25% de resistência a Dano de Veneno e pode comer Insetos Mutantes quando estiver no modo Furtivo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB6A",
+      "FORMID": "00FB6A",
+      "EDID": "NVDLC01JunkRounds",
+      "FULL": "Sucateiro de Munição",
+      "DESC": "Sobrevivência é a mãe da invenção! Crie munição na Bancada de Recarga usando materiais alternativos (Sucata e Latas)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F218",
+      "FORMID": "00F218",
+      "EDID": "NVDLC01AndStayBack",
+      "FULL": "E Fique Para Trás",
+      "DESC": "Você descobriu uma técnica de Espingarda que tem chance de fazer um inimigo cair para trás."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F216",
+      "FORMID": "00F216",
+      "EDID": "NVDLC01InShiningArmor",
+      "FULL": "Armadura Reluzente",
+      "DESC": "Feixes refletem no acabamento espelhado da sua armadura reluzente! Você ganha +5 de Limite de Dano adicional contra armas de energia ao usar qualquer armadura de metal, +2 ao usar óculos reflexivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E26",
+      "FORMID": "167E26",
+      "EDID": "WaterChallengePerk",
+      "FULL": "Camelo do Ermo",
+      "DESC": "Seu consumo frequente de água resultou em benefícios aprimorados ao beber fluidos hidratantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE1",
+      "FORMID": "15EAE1",
+      "EDID": "CannibalChallengePerk",
+      "FULL": "Coma e Vaze",
+      "DESC": "Com a vantagem \"Larica e Fuga\", quando você estiver em modo Furtivo, você ganha a opção de pegar partes de cadáveres para comer mais tarde."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADD",
+      "FORMID": "15EADD",
+      "EDID": "SetLasersForFunPerk",
+      "FULL": "Configure os Lasers para a Diversão",
+      "DESC": "Você é louco por lasers e isso fica claro! Bônus menor para acertos críticos com todas as armas laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D2BE",
+      "FORMID": "15D2BE",
+      "EDID": "OldVaquero",
+      "FULL": "Cowboy Ancião",
+      "DESC": "A velocidade de disparo de Raul com revólveres e rifles de ação por alavanca é 33% maior que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C571",
+      "FORMID": "15C571",
+      "EDID": "CompanionSuite",
+      "FULL": "Suíte de Companheiro",
+      "DESC": "COMPANIONS ONLY\n* Mult Weap DAM 0.75\n* Mult Target DT 0.75\n* Decrease Carry Weight 75\n* Increase DR 33%"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609F",
+      "FORMID": "14609F",
+      "EDID": "PiercingStrike",
+      "FULL": "Ataque Perfurante",
+      "DESC": "Golpe Perfurante faz com que todas as suas armas de Desarmado e Corpo a Corpo (incluindo as arremessadas) ignorem 15 pontos de Limite de Dano do alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609C",
+      "FORMID": "14609C",
+      "EDID": "HeaveHo",
+      "FULL": "Iça, ô!",
+      "DESC": "Que braço forte você tem. Todas as armas de arremesso voam mais longe e mais rápido para você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:136E14",
+      "FORMID": "136E14",
+      "EDID": "DeathclawOmelet",
+      "FULL": "Omelete de Destroçador",
+      "DESC": "This recipe allows you to make Rose's famous Deathclaw omelet!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC9",
+      "FORMID": "135EC9",
+      "EDID": "GhastlyScavenger",
+      "FULL": "Abutre Horripilante",
+      "DESC": "Com Abutre Horripilante, quando estiver em modo Furtivo, você ganha a opção de comer um cadáver de Supermutante ou Necrótico Feral para recuperar Saúde. Toda vez que se alimenta, você perde Karma e, se o ato for testemunhado, é considerado um crime contra a natureza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC8",
+      "FORMID": "135EC8",
+      "EDID": "TriggerDiscipline",
+      "FULL": "Disciplina no Gatilho",
+      "DESC": "Ao usar Armas de Fogo e Armas de Energia, você atira 20% mais lentamente, mas é 20% mais preciso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:099834",
+      "FORMID": "099834",
+      "EDID": "GrimReaperSprint",
+      "FULL": "Grim Reaper's Sprint",
+      "DESC": "Se você matar um alvo no V.A.T.S., com o primeiro nível, 20 Pontos de Ação serão restaurados ao sair do V.A.T.S. Com o segundo nível, todos os seus Pontos de Ação serão restaurados ao sair do V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBC",
+      "FORMID": "094EBC",
+      "EDID": "Cannibal",
+      "FULL": "Canibal",
+      "DESC": "Com a vantagem \"Canibal\", quando você está no modo Furtivo, você ganha a opção de comer um cadáver para recuperar Saúde. Mas toda vez que você se alimenta, você perde Karma, e se o ato for testemunhado, é considerado um crime contra a natureza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CB1",
+      "FORMID": "044CB1",
+      "EDID": "IntenseTraining",
+      "FULL": "Treinamento Intenso",
+      "DESC": "Com a vantagem \"Treinamento Intenso\", você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA9",
+      "FORMID": "044CA9",
+      "EDID": "LeadBelly",
+      "FULL": "Barriga de Chumbo",
+      "DESC": "Com a vantagem \"Barriga de Chumbo\", você recebe 50% menos radiação ao consumir comida e bebida irradiadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DCC",
+      "FORMID": "031DCC",
+      "EDID": "Ninja",
+      "FULL": "Ninja",
+      "DESC": "A vantagem Ninja concede a você o poder dos lendários guerreiros das sombras. Ao atacar com Combate Corpo a Corpo ou Desarmado, você ganha +15% de chance de crítico a cada golpe. Acertos críticos de ataques furtivos causam 25% mais dano que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB2",
+      "FORMID": "031DB2",
+      "EDID": "Pyromaniac",
+      "FULL": "Piromaníaco",
+      "DESC": "Com o bônus Piromaníaco, você causa +50% de dano e dano de queimadura contínua com armas baseadas em fogo, como o Lança-Chamas e o Shishkebab."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB1",
+      "FORMID": "031DB1",
+      "EDID": "LifeGiver",
+      "FULL": "Doador de Vida",
+      "DESC": "Com o bônus Doador de Vida, a cada nível você ganha 30 Pontos de Vida adicionais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAC",
+      "FORMID": "031DAC",
+      "EDID": "HereandNow",
+      "FULL": "Aqui e Agora",
+      "DESC": "A vantagem \"Aqui e Agora\" concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    }
+  ]
+}

@@ -1,0 +1,991 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01CA7E",
+      "FORMID": "01CA7E",
+      "EDID": "ModTTW32RevolverBarrel",
+      "FULL": "Cano Longo da Pistola .32",
+      "DESC": "Reduz a dispersão."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185EC",
+      "FORMID": "0185EC",
+      "EDID": "ModTTWChinesePistolBluing",
+      "FULL": "Azulamento da Pistola Chinesa",
+      "DESC": "Aumenta a condição (+20%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185EB",
+      "FORMID": "0185EB",
+      "EDID": "ModTTWChinesePistolExtendedMagazine",
+      "FULL": "Carregador Estendido da Pistola Chinesa",
+      "DESC": "Increases ammunition capacity (+6)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185EA",
+      "FORMID": "0185EA",
+      "EDID": "ModTTWChinesePistoRifledBarrel",
+      "FULL": "Cano Raiado da Pistola Chinesa",
+      "DESC": "Increases damage (+3)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018041",
+      "FORMID": "018041",
+      "EDID": "ModTTWDLC04ShotgunStock",
+      "FULL": "Coronha de Bordo da Escopeta de Cano Duplo",
+      "DESC": "Reduz o peso (-2)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018040",
+      "FORMID": "018040",
+      "EDID": "ModTTWDLC04ShotgunChoke",
+      "FULL": "Estranguladores para Peru da Escopeta de Cano Duplo",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01803F",
+      "FORMID": "01803F",
+      "EDID": "ModTTWDLC04RifleParts",
+      "FULL": "Peças Melhoradas do Rifle de Alavanca",
+      "DESC": "Increases condition (+50%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01803E",
+      "FORMID": "01803E",
+      "EDID": "ModTTWDLC04RifleSights",
+      "FULL": "Miras do Rifle de Alavanca",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01803D",
+      "FORMID": "01803D",
+      "EDID": "ModTTWInfiltratorStock",
+      "FULL": "Coronha Tática do Infiltrador",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01803C",
+      "FORMID": "01803C",
+      "EDID": "ModTTWInfiltratorLaserSight",
+      "FULL": "Mira Laser do Infiltrador",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01803A",
+      "FORMID": "01803A",
+      "EDID": "ModTTWAssaultRifleBarrel",
+      "FULL": "Cano Pesado do Rifle de Assalto",
+      "DESC": "Increases condition (+50%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018039",
+      "FORMID": "018039",
+      "EDID": "ModTTWAssaultRifleDrums",
+      "FULL": "Tambores do Rifle de Assalto",
+      "DESC": "Aumenta a capacidade de munição (+26)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018038",
+      "FORMID": "018038",
+      "EDID": "ModTTWChineseRifleForgedReceiver",
+      "FULL": "Receptor Forjado do Rifle de Assalto Chinês",
+      "DESC": "Increases condition (+50%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018037",
+      "FORMID": "018037",
+      "EDID": "ModTTWChineseRifleBarrel",
+      "FULL": "Cano Curto do Rifle de Assalto Chinês",
+      "DESC": "Reduz o peso (-2)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018033",
+      "FORMID": "018033",
+      "EDID": "ModTTW32PistolLightAction",
+      "FULL": "Ação Leve da Pistola .32",
+      "DESC": "Aumenta a cadência de tiro (+82%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018032",
+      "FORMID": "018032",
+      "EDID": "ModTTWCombatShotgunStock",
+      "FULL": "Coronha Sintética da Escopeta de Combate",
+      "DESC": "Reduz o peso (-3)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018031",
+      "FORMID": "018031",
+      "EDID": "ModTTWCombatShotgunParts",
+      "FULL": "Peças Restauradas da Escopeta de Combate",
+      "DESC": "Aumenta a condição da arma (+50%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:018030",
+      "FORMID": "018030",
+      "EDID": "ModTTWCombatShotgunSights",
+      "FULL": "Mira Reflexa da Escopeta de Combate",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009112",
+      "FORMID": "009112",
+      "EDID": "ModNVTrailCarbineLam",
+      "FULL": "Trail Carbine Laminate Stock",
+      "DESC": "Reduz o peso (-1.5)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009111",
+      "FORMID": "009111",
+      "EDID": "ModNVTrailCarbineSteel",
+      "FULL": "Trail Carbine Custom Action",
+      "DESC": "Aumenta a cadência de tiro (+44%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009110",
+      "FORMID": "009110",
+      "EDID": "ModNVServiceRifleReflexSight",
+      "FULL": "Mira Reflexa do Rifle de Serviço",
+      "DESC": "Adiciona uma mira reflexa de curto alcance."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00910F",
+      "FORMID": "00910F",
+      "EDID": "NVDLC05ModNVRipperSilentMotor",
+      "FULL": "Estrutura de Liga do Estripador",
+      "DESC": "Reduz o peso (-3)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00910E",
+      "FORMID": "00910E",
+      "EDID": "ModNVMarksmanCarbineExtMags",
+      "FULL": "Carregadores Estendidos da Carabina de Atirador",
+      "DESC": "Increases ammunition capacity (+10)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00910D",
+      "FORMID": "00910D",
+      "EDID": "NVDLC05ModNVHuntingRevolverScope",
+      "FULL": "Luneta de Visão Noturna do Revólver de Caça",
+      "DESC": "Adiciona luneta de visão noturna."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00910C",
+      "FORMID": "00910C",
+      "EDID": "ModNVDLC0245AutoPistolSights",
+      "FULL": "Miras Melhoradas da .45 AP",
+      "DESC": "Miras de pontaria melhoradas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0090F1",
+      "FORMID": "0090F1",
+      "EDID": "ModNVMultiPlasRifleMagneticAccelerator",
+      "FULL": "Múltiplas Rifle Mag. Accelerator",
+      "DESC": "Increases speed of plasma projectile."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0090F0",
+      "FORMID": "0090F0",
+      "EDID": "ModNVMultiPlasRifleCoils",
+      "FULL": "Múltiplas Rifle HD Coils",
+      "DESC": "Increases condition (+50%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0090EF",
+      "FORMID": "0090EF",
+      "EDID": "ModNVMultiPlasRifleBarrel",
+      "FULL": "Múltiplas Rifle Tri-Barrel",
+      "DESC": "Cria um projétil adicional."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00903B",
+      "FORMID": "00903B",
+      "EDID": "ModTTWSilencedPistolFastTrigger",
+      "FULL": "Gatilho Rápido da Pistola 10mm Silenciada",
+      "DESC": "Aumenta a cadência de tiro (+125%)."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008316",
+      "FORMID": "008316",
+      "EDID": "ModTTW32HuntingRifleLongBarrel",
+      "FULL": "Cano Longo do Rifle .32",
+      "DESC": "Decreases spread."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008315",
+      "FORMID": "008315",
+      "EDID": "ModTTW32HuntingRifleExtMag",
+      "FULL": "Carregador Estendido do Rifle .32",
+      "DESC": "Increases ammunition capacity (+5)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084B",
+      "FORMID": "00084B",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleHighCapTerminal",
+      "FULL": "Terminal do Tri-feixe LR Hi-Cap",
+      "DESC": "Aumenta a capacidade de munição (+24)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084A",
+      "FORMID": "00084A",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleHDCapacitors",
+      "FULL": "Tri-beam LR HD Tampinhas",
+      "DESC": "Aumenta a condição (+200%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000849",
+      "FORMID": "000849",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleFocusOptics",
+      "FULL": "Óptica de Foco LR Tri-feixe",
+      "DESC": "Aumenta o dano (+9)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000847",
+      "FORMID": "000847",
+      "EDID": "NVDLC05ModNVRipperHeavyDutyChain",
+      "FULL": "Corrente HD do Estripador",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000846",
+      "FORMID": "000846",
+      "EDID": "NVDLC05ModNVRipperCarbideTeeth",
+      "FULL": "Dentes de Carbeto do Estripador",
+      "DESC": "Aumenta o dano (+10)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000845",
+      "FORMID": "000845",
+      "EDID": "NVDLC05ModNVPowerFistPortedChambers",
+      "FULL": "Câmaras Portadas do Punho de Aço",
+      "DESC": "Aumenta a velocidade de ataque (+44%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000844",
+      "FORMID": "000844",
+      "EDID": "NVDLC05ModNVPowerFistHighCapValves",
+      "FULL": "Válvulas de Alta Capacidade do Punho de Força",
+      "DESC": "Aumenta o dano (+8)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000843",
+      "FORMID": "000843",
+      "EDID": "NVDLC05ModNVPowerFistChromedTubes",
+      "FULL": "Tubo Cromado do Punho de Força",
+      "DESC": "Aumenta a condição (+100%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000842",
+      "FORMID": "000842",
+      "EDID": "NVDLC05ModNVPlasmaPistolRecycler",
+      "FULL": "Reciclador de Pistola Plas.",
+      "DESC": "Recarrega a munição (1/4 de tiros)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000841",
+      "FORMID": "000841",
+      "EDID": "NVDLC05ModNVPlasmaPistolMagneticAccelerator",
+      "FULL": "Plas. Acelerador de Carregador de Pistola.",
+      "DESC": "Aumenta a velocidade do projétil de plasma."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000840",
+      "FORMID": "000840",
+      "EDID": "NVDLC05ModNVPlasmaPistolHighEnergyIonizer",
+      "FULL": "Ionizador de Íons de Alta Energia de Pistola de Plas.",
+      "DESC": "Aumenta o dano (+7)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083F",
+      "FORMID": "00083F",
+      "EDID": "NVDLC05ModNVPlasmaDefenderSheathStabilizer",
+      "FULL": "Estabilizador de Bainha de Defesa de Plasma",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083E",
+      "FORMID": "00083E",
+      "EDID": "NVDLC05ModNVPlasmaDefenderScope",
+      "FULL": "Mira de Def. de Plasma",
+      "DESC": "Adiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083D",
+      "FORMID": "00083D",
+      "EDID": "NVDLC05ModNVPlasmaDefenderHighCapTerminal",
+      "FULL": "Terminal de Alta Capacidade de Def. de Plasma",
+      "DESC": "Aumenta a capacidade de munição (+32)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083C",
+      "FORMID": "00083C",
+      "EDID": "NVDLC05ModNVLaserPistolRecycler",
+      "FULL": "Reciclador de Pistola Laser",
+      "DESC": "Recarrega a munição (1/4 de tiros)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083B",
+      "FORMID": "00083B",
+      "EDID": "NVDLC05ModNVLaserPistolFocusOptics",
+      "FULL": "Óptica de Foco para Pistola Laser",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083A",
+      "FORMID": "00083A",
+      "EDID": "NVDLC05ModNVLaserPistolCombatSights",
+      "FULL": "Mira de Combate para Pistola Laser",
+      "DESC": "Adiciona miras de ferro utilizáveis."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000839",
+      "FORMID": "000839",
+      "EDID": "NVDLC05ModNVKatanaProtectiveSheath",
+      "FULL": "Bainha Protetora de Katana",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000838",
+      "FORMID": "000838",
+      "EDID": "NVDLC05ModNVKatanaBalancedGrip",
+      "FULL": "Katana Punho Balanceado",
+      "DESC": "Aumenta a velocidade de ataque (+44%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000837",
+      "FORMID": "000837",
+      "EDID": "NVDLC05ModNVKatanaAuthenticBlade",
+      "FULL": "Katana Lâmina Autêntica",
+      "DESC": "Aumenta o dano (+5)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000836",
+      "FORMID": "000836",
+      "EDID": "NVDLC05ModNVHuntingRevolverSixShotCylinder",
+      "FULL": "Caçando Rev. 6-Shot Cylinder",
+      "DESC": "Aumenta a capacidade de munição (+1)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000834",
+      "FORMID": "000834",
+      "EDID": "NVDLC05ModNVHuntingRevolverMatchBarrel",
+      "FULL": "Cano de Combinação Rev. Hunting",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000833",
+      "FORMID": "000833",
+      "EDID": "NVDLC05ModNVChainsawHeavyDutyChain",
+      "FULL": "Corrente de Motosserra HD",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000832",
+      "FORMID": "000832",
+      "EDID": "NVDLC05ModNVChainsawCarbideTeeth",
+      "FULL": "Dentes de Serra-Elétrica de Carbeto",
+      "DESC": "Aumenta o dano (+15)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000831",
+      "FORMID": "000831",
+      "EDID": "NVDLC05ModNVChainsawAlloyFrame",
+      "FULL": "Estrutura de Liga de Serra Elétrica",
+      "DESC": "Reduz o peso (-8)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000830",
+      "FORMID": "000830",
+      "EDID": "NVDLC05ModNVBaseballBatNails",
+      "FULL": "Taco de Beisebol com Pregos",
+      "DESC": "Aumenta o dano (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082F",
+      "FORMID": "00082F",
+      "EDID": "NVDLC05ModNVBaseballBatMapleBody",
+      "FULL": "Taco de Beisebol, Corpo de Maple",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082E",
+      "FORMID": "00082E",
+      "EDID": "NVDLC05ModNVBaseballBatCorkCore",
+      "FULL": "Bastão de Beisebol, Núcleo de Cortiça",
+      "DESC": "Aumenta a velocidade de ataque (+44%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082D",
+      "FORMID": "00082D",
+      "EDID": "NVDLC05ModNVAssaultCarbineLightBolt",
+      "FULL": "Carabina de Assalto. Parafuso Leve",
+      "DESC": "Aumenta a cadência de tiro (+44%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082C",
+      "FORMID": "00082C",
+      "EDID": "NVDLC05ModNVAssaultCarbineForgedReceiver",
+      "FULL": "Carabina de Assalto. Receptor Forjado",
+      "DESC": "Aumenta a condição (+33%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082B",
+      "FORMID": "00082B",
+      "EDID": "NVDLC05ModNVAssaultCarbineExtendedMags",
+      "FULL": "Carabina de Assalto - Carregadores Estendidos",
+      "DESC": "Aumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082A",
+      "FORMID": "00082A",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleSuppressor",
+      "FULL": "Supressor de Fuzil Anti-Mat.",
+      "DESC": "Reduz o ruído da arma."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000829",
+      "FORMID": "000829",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleCustomBolt",
+      "FULL": "Parafuso Personalizado da Anti-Mat. Rifle",
+      "DESC": "Aumenta a cadência de tiro (+44%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000828",
+      "FORMID": "000828",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleCarbonFiberParts",
+      "FULL": "Peças CF do Rifle Anti-Mat.",
+      "DESC": "Reduz o peso (-7)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000827",
+      "FORMID": "000827",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWUpgradedInternals",
+      "FULL": "25mm APW G. Int. Aprimorado",
+      "DESC": "Aumenta a cadência de tiro (+56%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000826",
+      "FORMID": "000826",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWLongBarrel",
+      "FULL": "Canhão Longo APW 25mm G.",
+      "DESC": "Aumenta a velocidade do projétil (+100%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000825",
+      "FORMID": "000825",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWExpandedDrum",
+      "FULL": "Tambor 25mm G. APW Exp.",
+      "DESC": "Aumenta a capacidade de munição (+2)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000824",
+      "FORMID": "000824",
+      "EDID": "NVDLC05ModNV127mmSMGSuppressor",
+      "FULL": "Silenciador de SMG 12,7mm",
+      "DESC": "Silences weapon."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000823",
+      "FORMID": "000823",
+      "EDID": "NVDLC05ModNV127mmSMGStackedMagazine",
+      "FULL": "Carregador Empilhado 12,7mm SMG",
+      "DESC": "Aumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000822",
+      "FORMID": "000822",
+      "EDID": "NVDLC05ModNV127mmSMGLaserSight",
+      "FULL": "Mira Laser 12,7mm SMG",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925D",
+      "FORMID": "00925D",
+      "EDID": "ModNVDLC04RedGlareAutoLauncher",
+      "FULL": "Lançador Automático Red Glare",
+      "DESC": "Increases rate of fire (+56%)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925C",
+      "FORMID": "00925C",
+      "EDID": "ModNVDLC04SMMGExtendedMag",
+      "FULL": "Carregador Estendido SMMG",
+      "DESC": "Aumenta a capacidade de munição (+15)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925B",
+      "FORMID": "00925B",
+      "EDID": "ModNVDLC04SMMGMechanicalUpgrade",
+      "FULL": "Melhoria Mecânica SMMG",
+      "DESC": "Aumenta a condição (+200%)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925A",
+      "FORMID": "00925A",
+      "EDID": "ModNVDLC04SMMGRecoilCompensator",
+      "FULL": "Compensador de Recuo SMMG",
+      "DESC": "Reduz a dispersão da arma."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009259",
+      "FORMID": "009259",
+      "EDID": "ModNVDLC04RedGlareAlphaStrike",
+      "FULL": "Ataque Alfa Red Glare",
+      "DESC": "Aumenta a velocidade dos foguetes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009258",
+      "FORMID": "009258",
+      "EDID": "ModNVDLC04RedGlareFarSighting",
+      "FULL": "Mira de Longo Alcance do Red Glare",
+      "DESC": "Aumenta o nível de zoom."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C5",
+      "FORMID": "0155C5",
+      "EDID": "NVDLC03ModK9000ReslaRoil",
+      "FULL": "Resla Roil da K9000",
+      "DESC": "Aumenta o dano (+2)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C4",
+      "FORMID": "0155C4",
+      "EDID": "NVDLC03ModLAERAuxRecharger",
+      "FULL": "Clipe Recarregador Auxiliar da LAER",
+      "DESC": "Recarrega munição (1/4 dos tiros)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C3",
+      "FORMID": "0155C3",
+      "EDID": "NVDLC03ModLAERPrismLens",
+      "FULL": "Lente Prismática da LAER",
+      "DESC": "Divide o feixe com dano aumentado (+30%)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C2",
+      "FORMID": "0155C2",
+      "EDID": "NVDLC03ModK9000MentatChow",
+      "FULL": "Ração de Mentats da K9000",
+      "DESC": "Aumenta a cadência de tiro (+44%)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CC06",
+      "FORMID": "00CC06",
+      "EDID": "ModNVDLC02WarClubHonors",
+      "FULL": "Honras do Clube de Guerra",
+      "DESC": "Aumenta a velocidade de ataque (+56%)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CC05",
+      "FORMID": "00CC05",
+      "EDID": "ModNVDLC02WarClubCasing",
+      "FULL": "Corpos de Clava de Guerra",
+      "DESC": "Aumenta o dano (+5)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00996B",
+      "FORMID": "00996B",
+      "EDID": "ModNVDLC0245AutoSubmachinegunDrums",
+      "FULL": "Tambores .45 Auto SMG",
+      "DESC": "Aumenta a capacidade de munição (+20)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00996A",
+      "FORMID": "00996A",
+      "EDID": "ModNVDLC0245AutoSubmachinegunCompensator",
+      "FULL": "Comp. SMG Auto .45",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E18",
+      "FORMID": "008E18",
+      "EDID": "ModNVDLC0245AutoPistolSilencer",
+      "FULL": ".45 AP Silenciador",
+      "DESC": "Silencia arma."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E17",
+      "FORMID": "008E17",
+      "EDID": "ModNVDLC0245AutoPistolHDSlide",
+      "FULL": "Cano Reforçado .45 AP",
+      "DESC": "Aumenta a condição (+75%)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B20",
+      "FORMID": "013B20",
+      "EDID": "ModNVDLC01HolorifleAdvancedCalibration",
+      "FULL": "Calibração Avançada do Holofuzil",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B1A",
+      "FORMID": "013B1A",
+      "EDID": "ModNVDLC01HolorifleFocusOptics",
+      "FULL": "Óptica de Foco do Holorrifle",
+      "DESC": "Aumenta o dano (+25)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012806",
+      "FORMID": "012806",
+      "EDID": "ModNVDLC01BearTrapFistHeavyDutySprings",
+      "FULL": "Molas do Punho de Urso HD",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012805",
+      "FORMID": "012805",
+      "EDID": "ModNVDLC01HolorifleReinforced",
+      "FULL": "Componentes de Reforço do Holofuzil",
+      "DESC": "Melhora a condição (+50%)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012804",
+      "FORMID": "012804",
+      "EDID": "ModNVDLC01AutoRifleUpgradedInternals",
+      "FULL": "Melhorias Internas de Rifle Automático",
+      "DESC": "Aumenta a cadência de tiro (+21%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1476B0",
+      "FORMID": "1476B0",
+      "EDID": "ModNV127mmSubmachinegunSilencer",
+      "FULL": "Silenciador de SMG 12,7mm",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:147620",
+      "FORMID": "147620",
+      "EDID": "ModNV127mmPistolSilencer",
+      "FULL": "Silenciador para Pistola 12,7mm",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:129878",
+      "FORMID": "129878",
+      "EDID": "ModNV10mmPistolSilencer",
+      "FULL": "Silenciador para Pistola de 10mm",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86F",
+      "FORMID": "10C86F",
+      "EDID": "ModNVSilenced22SMGDrums",
+      "FULL": "Sil. Carregadores Expansivos de SMG .22",
+      "DESC": "Aumenta a capacidade de munição (+60)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86E",
+      "FORMID": "10C86E",
+      "EDID": "ModNVMissileLauncherGuidanceSys",
+      "FULL": "Sist. de Orientação de Míssil",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86D",
+      "FORMID": "10C86D",
+      "EDID": "ModNVGatlingLaserCFFrame",
+      "FULL": "Armação de CF de Gat. Laser",
+      "DESC": "Diminui o peso (50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86C",
+      "FORMID": "10C86C",
+      "EDID": "ModNVGatlingLaserFocusOptics",
+      "FULL": "Gat. Ótica de Foco Laser",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86B",
+      "FORMID": "10C86B",
+      "EDID": "ModNVPlasmaRifleMagneticAccelerator",
+      "FULL": "Acelerador de Carregador de Rifle de Plasma",
+      "DESC": "Aumenta a velocidade do projétil de plasma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86A",
+      "FORMID": "10C86A",
+      "EDID": "ModNVLaserRifleBeamSplitter",
+      "FULL": "Divisor de Feixe de Rifle Laser",
+      "DESC": "Cria dois feixes que juntos causam dano aumentado (+30%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C869",
+      "FORMID": "10C869",
+      "EDID": "ModNVLaserRifleFocusOptics",
+      "FULL": "Mira de Precisão para Rifle Laser",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C868",
+      "FORMID": "10C868",
+      "EDID": "ModNVLaserRifleScope",
+      "FULL": "Mira de Rifle a Laser",
+      "DESC": "Adiciona mira de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C867",
+      "FORMID": "10C867",
+      "EDID": "ModNVMinigunHighSpeedMotor",
+      "FULL": "Motor de Alta Velocidade da Minigun",
+      "DESC": "Aumenta a cadência de tiro (+56%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C866",
+      "FORMID": "10C866",
+      "EDID": "ModNVMinigunDampedSubframe",
+      "FULL": "Minigun com Estrutura Amortecida",
+      "DESC": "Reduz a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C865",
+      "FORMID": "10C865",
+      "EDID": "ModNVSniperRifleCarbonFiberParts",
+      "FULL": "Peças de Fibra de Carbono para Rifle de Precisão",
+      "DESC": "Diminui o peso (-5)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C864",
+      "FORMID": "10C864",
+      "EDID": "ModNVSniperRifleSuppressor",
+      "FULL": "Supressor de Rifle de Precisão",
+      "DESC": "Reduz o ruído da arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C863",
+      "FORMID": "10C863",
+      "EDID": "ModNVAssaultCarbineExtMags",
+      "FULL": "Carregadores Estendidos de Carabina de Assalto",
+      "DESC": "Aumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C862",
+      "FORMID": "10C862",
+      "EDID": "ModNVHuntingRifleExtMag",
+      "FULL": "Carregador Estendido de Rifle de Caça",
+      "DESC": "Aumenta a capacidade de munição (+5)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C861",
+      "FORMID": "10C861",
+      "EDID": "ModNVHuntingRifleCustomAction",
+      "FULL": "Ação Customizada do Rifle de Caça",
+      "DESC": "Aumenta a cadência de tiro (+77%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C860",
+      "FORMID": "10C860",
+      "EDID": "ModNVHuntingRifleScope",
+      "FULL": "Mira de Rifle de Caça",
+      "DESC": "Adiciona mira de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85F",
+      "FORMID": "10C85F",
+      "EDID": "ModNVFlamerExpandedTanks",
+      "FULL": "Tanques Estendidos do Lança-chamas",
+      "DESC": "Aumenta a capacidade de munição (+60)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85E",
+      "FORMID": "10C85E",
+      "EDID": "ModNV10mmSMGRecoilCompensator",
+      "FULL": "Compensador de Recuo da SMG 10mm",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85D",
+      "FORMID": "10C85D",
+      "EDID": "ModNV10mmSMGExtMags",
+      "FULL": "Carregadores Estendidos da SMG de 10mm",
+      "DESC": "Aumenta a capacidade de munição (+10)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85C",
+      "FORMID": "10C85C",
+      "EDID": "ModNV44RevolverHeavyFrame",
+      "FULL": ".44 Revolver com Armação Reforçada",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85B",
+      "FORMID": "10C85B",
+      "EDID": "ModNV44RevolverScope",
+      "FULL": "Mira para Revólver .44",
+      "DESC": "Adiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C859",
+      "FORMID": "10C859",
+      "EDID": "ModNV10mmPistolLaserSight",
+      "FULL": "Mira Laser para Pistola de 10mm",
+      "DESC": "Diminui a dispersão, adiciona efeito de mira laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C858",
+      "FORMID": "10C858",
+      "EDID": "ModNV10mmPistolExtMags",
+      "FULL": "Carregadores Estendidos de Pistola 10mm",
+      "DESC": "Aumenta a capacidade de munição (+4)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C857",
+      "FORMID": "10C857",
+      "EDID": "ModNVGrenadeMachinegunHSKit",
+      "FULL": "Kit de Alta Velocidade para Metralhadora de Granadas",
+      "DESC": "Aumenta a cadência de tiro (+125%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C856",
+      "FORMID": "10C856",
+      "EDID": "ModNVGrenadeRifleLongBarrel",
+      "FULL": "Lança-granadas com cano longo",
+      "DESC": "Aumenta o alcance (+100%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C855",
+      "FORMID": "10C855",
+      "EDID": "ModNVPlasmaCasterHSElectrode",
+      "FULL": "Eletrodo HS do Lançador de Plasma",
+      "DESC": "Aumenta a cadência de tiro (+56%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C854",
+      "FORMID": "10C854",
+      "EDID": "ModNVLaserRCWRecycler",
+      "FULL": "Reciclador RCW a Laser",
+      "DESC": "Recarrega a munição (1/4 de tiros)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C852",
+      "FORMID": "10C852",
+      "EDID": "ModNVLightMGExpandedDrums",
+      "FULL": "Tambores Ampliados da Light MG",
+      "DESC": "Aumenta a capacidade de munição (+110)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C851",
+      "FORMID": "10C851",
+      "EDID": "ModNVServiceRifleForgedReceiver",
+      "FULL": "Receptor Forjado de Rifle de Serviço",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C850",
+      "FORMID": "10C850",
+      "EDID": "ModNVServiceRifleUpgradedSprings",
+      "FULL": "Molas do Rifle de Serviço Aprimoradas",
+      "DESC": "Aumenta a cadência de tiro (+69%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C1AD",
+      "FORMID": "10C1AD",
+      "EDID": "ModNVFatManLittleBoyKit",
+      "FULL": "Kit Fat Man Little Boy",
+      "DESC": "Diminui o peso (50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B968",
+      "FORMID": "10B968",
+      "EDID": "ModNV9mmSMGLightBolt",
+      "FULL": "Parafuso Leve da SMG 9mm",
+      "DESC": "Aumenta a cadência de tiro (+69%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F18FC",
+      "FORMID": "0F18FC",
+      "EDID": "ModNV9mmSMGDrums",
+      "FULL": "Tambores de SMG 9mm",
+      "DESC": "Aumenta a capacidade de munição (+30)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0FE9",
+      "FORMID": "0F0FE9",
+      "EDID": "ModNVHuntingShotgunChoke",
+      "FULL": "Choke para Espingarda de Caça",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0FE8",
+      "FORMID": "0F0FE8",
+      "EDID": "ModNVHuntingShotgunLongTube",
+      "FULL": "Espingarda de Caça Tubo Longo",
+      "DESC": "Aumenta a capacidade de munição (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEEDA",
+      "FORMID": "0EEEDA",
+      "EDID": "ModNV357RevolverLongBarrel",
+      "FULL": "Revólver .357 Cano Longo",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED9",
+      "FORMID": "0EEED9",
+      "EDID": "ModNV357RevolverHDCylinder",
+      "FULL": "Cilindro HD do Revólver .357",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED8",
+      "FORMID": "0EEED8",
+      "EDID": "ModNVVarmintRifleExtMags",
+      "FULL": "Carregadores Estendidos para Rifle de Pragas",
+      "DESC": "Aumenta a capacidade de munição (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED7",
+      "FORMID": "0EEED7",
+      "EDID": "ModNVVarmintRifleSilencer",
+      "FULL": "Silenciador para Rifle de Pragas",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3D",
+      "FORMID": "0EED3D",
+      "EDID": "ModNV9mmPistolExtMags",
+      "FULL": "Carregadores Estendidos de 9mm",
+      "DESC": "Aumenta a capacidade de munição (+7)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3C",
+      "FORMID": "0EED3C",
+      "EDID": "ModNV9mmPistolScope",
+      "FULL": "Mira de Pistola 9mm",
+      "DESC": "Adiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3B",
+      "FORMID": "0EED3B",
+      "EDID": "ModNVCowboyRepeaterMapleStock",
+      "FULL": "Rep. de Cby. Maple Stock",
+      "DESC": "Reduz o peso (-1.5)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3A",
+      "FORMID": "0EED3A",
+      "EDID": "ModNVCowboyRepeaterLongTube",
+      "FULL": "Cby. Rep. Tubo Longo",
+      "DESC": "Aumenta a capacidade de munição (+4)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED39",
+      "FORMID": "0EED39",
+      "EDID": "ModNVCowboyRepeaterCustomAction",
+      "FULL": "Ação Personalizada do Rep. Cby.",
+      "DESC": "Aumenta a cadência de tiro (+44%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA72",
+      "FORMID": "0EEA72",
+      "EDID": "ModNVBrushGunForgedReceiver",
+      "FULL": "Receptor Forjado para Rifle de Combate",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA70",
+      "FORMID": "0EEA70",
+      "EDID": "ModNVTrailCarbineScope",
+      "FULL": "Mira de Carabina de Trilha",
+      "DESC": "Adiciona mira de médio alcance."
+    }
+  ]
+}

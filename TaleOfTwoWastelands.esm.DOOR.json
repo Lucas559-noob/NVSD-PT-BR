@@ -1,0 +1,988 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079045",
+      "FORMID": "079045",
+      "EDID": "TTWMetroCenter07toDCWorld09aGate",
+      "FULL": "Metal Gate"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FC3",
+      "FORMID": "011FC3",
+      "EDID": "TTWUnStnSecurityDoor01",
+      "FULL": "Porta Antiexplosão"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FC2",
+      "FORMID": "011FC2",
+      "EDID": "TTWUnStnDoor03",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FC1",
+      "FORMID": "011FC1",
+      "EDID": "TTWUnStnDoor01",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FC0",
+      "FORMID": "011FC0",
+      "EDID": "TTWUnStnDoor02",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00D3D2",
+      "FORMID": "00D3D2",
+      "EDID": "TTWRamshackleBusDoor01",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00D3D1",
+      "FORMID": "00D3D1",
+      "EDID": "TTWMegatonDoor01",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:005047",
+      "FORMID": "005047",
+      "EDID": "TTWRCMarketSmDoorLoadL02",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:005046",
+      "FORMID": "005046",
+      "EDID": "TTWLamplightSouvDoor0",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:005045",
+      "FORMID": "005045",
+      "EDID": "TTWRCMarketSmDoorLoadL",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:005044",
+      "FORMID": "005044",
+      "EDID": "TTWRCSmDoor01DiegoFamily",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:003130",
+      "FORMID": "003130",
+      "EDID": "DLC03UtlHallBgEndSewerExLad01",
+      "FULL": "Ladder"
+    },
+    {
+      "FORM": "@Zeta.esm:00C48C",
+      "FORMID": "00C48C",
+      "EDID": "DLC05BridgeWastelandDoor",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00C476",
+      "FORMID": "00C476",
+      "EDID": "DLC05MZDoorBig01CoreScene",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Zeta.esm:00AACA",
+      "FORMID": "00AACA",
+      "EDID": "DLC05TeleporterDoorMinUseHidden",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00AA26",
+      "FORMID": "00AA26",
+      "EDID": "DLC05EscapeHatch",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@Zeta.esm:009924",
+      "FORMID": "009924",
+      "EDID": "DLC05TeleporterDoorScripted06",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:009923",
+      "FORMID": "009923",
+      "EDID": "DLC05TeleporterDoorScripted05",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:009922",
+      "FORMID": "009922",
+      "EDID": "DLC05TeleporterDoorScripted04",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:009921",
+      "FORMID": "009921",
+      "EDID": "DLC05TeleporterDoorScripted02",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:009920",
+      "FORMID": "009920",
+      "EDID": "DLC05TeleporterDoorScripted01",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:007E5F",
+      "FORMID": "007E5F",
+      "EDID": "DLC05BridgeTeleporterDoor",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:007E5E",
+      "FORMID": "007E5E",
+      "EDID": "DLC05LabTeleporterDoor",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:007E2B",
+      "FORMID": "007E2B",
+      "EDID": "DLC05LabTeleportDoor",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:004E67",
+      "FORMID": "004E67",
+      "EDID": "DLC05EngineCoreDoor",
+      "FULL": "Matriz de Teletransporte"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E27D",
+      "FORMID": "00E27D",
+      "EDID": "DLC04BargeHatch",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C6F1",
+      "FORMID": "00C6F1",
+      "EDID": "DLC04BogDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@PointLookout.esm:00951D",
+      "FORMID": "00951D",
+      "EDID": "DLC04WellTopDOOR",
+      "FULL": "Poço"
+    },
+    {
+      "FORM": "@PointLookout.esm:006BE4",
+      "FORMID": "006BE4",
+      "EDID": "DLC04LighthouseDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00887A",
+      "FORMID": "00887A",
+      "EDID": "DLC03CrlLoadDoorExt01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006DF0",
+      "FORMID": "006DF0",
+      "EDID": "DLC03CrlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@ThePitt.esm:00B182",
+      "FORMID": "00B182",
+      "EDID": "DLC01FF007Gate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@ThePitt.esm:006334",
+      "FORMID": "006334",
+      "EDID": "DLC01SlaveCampToPittDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@ThePitt.esm:006327",
+      "FORMID": "006327",
+      "EDID": "DLCPittEntranceDoor01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@ThePitt.esm:002BD8",
+      "FORMID": "002BD8",
+      "EDID": "DLC01DCSlavePenGate",
+      "FULL": "Portão do Redil dos Escravos"
+    },
+    {
+      "FORM": "@ThePitt.esm:0029EE",
+      "FORMID": "0029EE",
+      "EDID": "DLCPittArenaPipe01",
+      "FULL": "Porta Oxidada"
+    },
+    {
+      "FORM": "@ThePitt.esm:0027CF",
+      "FORMID": "0027CF",
+      "EDID": "DLC01ArenaToArenaWaitingRoom",
+      "FULL": "Grade de Drenagem"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CC65",
+      "FORMID": "00CC65",
+      "EDID": "DLC02OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C198",
+      "FORMID": "00C198",
+      "EDID": "DLCAnchTentDoorLoadAmerican",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:0029A5",
+      "FORMID": "0029A5",
+      "EDID": "DLC02OA3CommandTentDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3C14",
+      "FORMID": "0C3C14",
+      "EDID": "BunkerEntranceDoorBroke",
+      "FULL": "Tábuas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA2B",
+      "FORMID": "0BEA2B",
+      "EDID": "TenpennyTowerOffDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BCE44",
+      "FORMID": "0BCE44",
+      "EDID": "MQ09RRDoor4to1",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BC2C0",
+      "FORMID": "0BC2C0",
+      "EDID": "RRExtMainEntranceDoor01",
+      "FULL": "Entrada de Raven Rock"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B8D3C",
+      "FORMID": "0B8D3C",
+      "EDID": "ParadiseFallsEulogysDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B8823",
+      "FORMID": "0B8823",
+      "EDID": "MS11BalconyHotelDoor01",
+      "FULL": "Porta Metálica"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B4258",
+      "FORMID": "0B4258",
+      "EDID": "MamaDolceUtlDoorBg01",
+      "FULL": "Porta da Área de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2112",
+      "FORMID": "0B2112",
+      "EDID": "OffDoorHotelSmR03b",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B111C",
+      "FORMID": "0B111C",
+      "EDID": "MS18WaypointDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B0CED",
+      "FORMID": "0B0CED",
+      "EDID": "OffDoorHotelSmL03b",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA549",
+      "FORMID": "0AA549",
+      "EDID": "RCSmDoor01Staley",
+      "FULL": "Porta de Staley"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA548",
+      "FORMID": "0AA548",
+      "EDID": "RCSmDoor01BelleBonny",
+      "FULL": "Porta de Belle Bonny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA547",
+      "FORMID": "0AA547",
+      "EDID": "RCSmDoor01Hotel",
+      "FULL": "Porta do Quarto do Hotel"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA546",
+      "FORMID": "0AA546",
+      "EDID": "RCSmDoor01Sister",
+      "FULL": "Porta do Quarto do Hotel - Sister"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA545",
+      "FORMID": "0AA545",
+      "EDID": "RCSmDoor01Zimmer",
+      "FULL": "Porta do Quarto do Hotel - Zimmer"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA544",
+      "FORMID": "0AA544",
+      "EDID": "RCSmDoor01VeraWeatherly",
+      "FULL": "Porta de Vera Weatherly"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA543",
+      "FORMID": "0AA543",
+      "EDID": "RCSmDoor01DoctorLi",
+      "FULL": "Porta da Doutora Li"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA542",
+      "FORMID": "0AA542",
+      "EDID": "RCSmDoor01DocPreston",
+      "FULL": "Porta do Doutor Preston"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA541",
+      "FORMID": "0AA541",
+      "EDID": "RCSmDoor01FlakShrapnel",
+      "FULL": "Porta para Flak and Shrapnel"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA540",
+      "FORMID": "0AA540",
+      "EDID": "RCSmDoor01Young",
+      "FULL": "Porta da Young"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA53F",
+      "FORMID": "0AA53F",
+      "EDID": "RCSmDoor01Bannon",
+      "FULL": "Porta Proibida"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA53E",
+      "FORMID": "0AA53E",
+      "EDID": "RCSmDoor01AbrahamWashington",
+      "FULL": "Porta de Abraham Washington"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA53D",
+      "FORMID": "0AA53D",
+      "EDID": "RCSmDoor01Rectory",
+      "FULL": "Porta da Reitoria"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA53C",
+      "FORMID": "0AA53C",
+      "EDID": "RCSmDoor01SeagraveHolmes",
+      "FULL": "Porta da Seagrave Holmes"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA53B",
+      "FORMID": "0AA53B",
+      "EDID": "RCSmDoor01Cantelli",
+      "FULL": "Porta de Cantelli"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A8746",
+      "FORMID": "0A8746",
+      "EDID": "AWMBrokenDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A44F0",
+      "FORMID": "0A44F0",
+      "EDID": "ForgeRapairDoor01",
+      "FULL": "Porta da Zona de Mantimentos"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A1C17",
+      "FORMID": "0A1C17",
+      "EDID": "MQ05MainframeDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A1BE2",
+      "FORMID": "0A1BE2",
+      "EDID": "RCSmDoor01Locking",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0972AA",
+      "FORMID": "0972AA",
+      "EDID": "NtlGuardDepot06BunkerDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:082E7B",
+      "FORMID": "082E7B",
+      "EDID": "ParadiseDoubleDoor01NoHostiles",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E2BD",
+      "FORMID": "07E2BD",
+      "EDID": "OasisMainDoor01",
+      "FULL": "Portão de Madeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E1D8",
+      "FORMID": "07E1D8",
+      "EDID": "MS09FamilyGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:07B6A3",
+      "FORMID": "07B6A3",
+      "EDID": "ParadiseFallsExitDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0791EE",
+      "FORMID": "0791EE",
+      "EDID": "TLLastResortDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0790FC",
+      "FORMID": "0790FC",
+      "EDID": "CLPFallsGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:07905D",
+      "FORMID": "07905D",
+      "EDID": "DoorLLtoMurderPass",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:078C9E",
+      "FORMID": "078C9E",
+      "EDID": "TenpennyDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:07251F",
+      "FORMID": "07251F",
+      "EDID": "LLEntryDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:07251C",
+      "FORMID": "07251C",
+      "EDID": "LLExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:071F53",
+      "FORMID": "071F53",
+      "EDID": "MS12PlayerSuiteAttack",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:070ABE",
+      "FORMID": "070ABE",
+      "EDID": "TenpennyTowerOffDoorSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06CA62",
+      "FORMID": "06CA62",
+      "EDID": "MQ02GNRBackdoorOuter",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06CA5F",
+      "FORMID": "06CA5F",
+      "EDID": "MQ02GNRBackdoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06A175",
+      "FORMID": "06A175",
+      "EDID": "RCSmDoor01ActOther",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:068DB4",
+      "FORMID": "068DB4",
+      "EDID": "MetTunTransLOAD",
+      "FULL": "Porta de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:06774B",
+      "FORMID": "06774B",
+      "EDID": "MS12MetroToTenpennyDoorMinUse",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06634C",
+      "FORMID": "06634C",
+      "EDID": "MS12AttackLoadDoor2",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:066349",
+      "FORMID": "066349",
+      "EDID": "MS12AttackLoadDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0615BF",
+      "FORMID": "0615BF",
+      "EDID": "RockopolisDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:060BB1",
+      "FORMID": "060BB1",
+      "EDID": "ParadiseFallsBusDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06043F",
+      "FORMID": "06043F",
+      "EDID": "MuseumTechVDoorSliding01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B5A8",
+      "FORMID": "05B5A8",
+      "EDID": "MS15RoboticsAreaDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:05A21B",
+      "FORMID": "05A21B",
+      "EDID": "TempleUnionFenceGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:054786",
+      "FORMID": "054786",
+      "EDID": "CitadelDoorARingToLab",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:054777",
+      "FORMID": "054777",
+      "EDID": "CitadelDoorLabtoARing",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:054739",
+      "FORMID": "054739",
+      "EDID": "CitadelDoorLabToBailey",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:04CB19",
+      "FORMID": "04CB19",
+      "EDID": "FortCCODoor01",
+      "FULL": "Porta do Abrigo da Fortaleza Constantine"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E880",
+      "FORMID": "03E880",
+      "EDID": "MQ02WashingtonMonumentOuterDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D6F8",
+      "FORMID": "03D6F8",
+      "EDID": "FortIndependence02Door01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:038AAD",
+      "FORMID": "038AAD",
+      "EDID": "MS02LairDoorAntAgonizer",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D706",
+      "FORMID": "02D706",
+      "EDID": "WheatonArmoryUtlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3A2",
+      "FORMID": "02B3A2",
+      "EDID": "DEMOMoriartysDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:026D35",
+      "FORMID": "026D35",
+      "EDID": "NtlGuardDepotStairsHatch01",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@Fallout3.esm:026D0C",
+      "FORMID": "026D0C",
+      "EDID": "NtlGuardDepotWorldUtlDoor02",
+      "FULL": "Porta da Área de Mantimentos"
+    },
+    {
+      "FORM": "@Fallout3.esm:025FB3",
+      "FORMID": "025FB3",
+      "EDID": "NtlGuardDepotWorldUtlDoor01",
+      "FULL": "Porta da Área de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:022640",
+      "FORMID": "022640",
+      "EDID": "MS12OffDoorMetalSmL02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B338",
+      "FORMID": "01B338",
+      "EDID": "EvergreenMillsSlavePenDoor02",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B337",
+      "FORMID": "01B337",
+      "EDID": "EvergreenMillsSlavePenDoor01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B2E3",
+      "FORMID": "01B2E3",
+      "EDID": "EvergreenMillsFenceGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:019CF5",
+      "FORMID": "019CF5",
+      "EDID": "OffDoorMetalSmL01DC",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0155BF",
+      "FORMID": "0155BF",
+      "EDID": "DoorCollision01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:014EC2",
+      "FORMID": "014EC2",
+      "EDID": "VGearDoorR87",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C47E",
+      "FORMID": "00C47E",
+      "EDID": "NVDLC04CouriersMileDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C471",
+      "FORMID": "00C471",
+      "EDID": "NVDLC04NukedNCRGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B341",
+      "FORMID": "00B341",
+      "EDID": "NVDLC04CaveDivideDoorDUPLICATE000",
+      "FULL": "Sair"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466D",
+      "FORMID": "00466D",
+      "EDID": "NVDLC04RoadTunnelDoor01",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466C",
+      "FORMID": "00466C",
+      "EDID": "NVDLC04RoadTunnelDoor02",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039F2",
+      "FORMID": "0039F2",
+      "EDID": "NVDLC04Road01ToTunnelDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EC",
+      "FORMID": "0039EC",
+      "EDID": "NVDLC04MojaveDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016A50",
+      "FORMID": "016A50",
+      "EDID": "NVDLC03InvisibleDoorDup",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AC0",
+      "FORMID": "014AC0",
+      "EDID": "NVDLC03InvisibleCaveDoor",
+      "FULL": "Saída para Big MT"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173889",
+      "FORMID": "173889",
+      "EDID": "NVInvisibleDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A1CD",
+      "FORMID": "16A1CD",
+      "EDID": "VHDExteriorLadderFake",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A151",
+      "FORMID": "16A151",
+      "EDID": "VStripGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169E15",
+      "FORMID": "169E15",
+      "EDID": "VFSMormonFortToFreesideDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169E14",
+      "FORMID": "169E14",
+      "EDID": "VFSFreesideToMormonFortDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169595",
+      "FORMID": "169595",
+      "EDID": "VFSFreesideEastGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169594",
+      "FORMID": "169594",
+      "EDID": "VFSFreesideNorthGateExtDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169593",
+      "FORMID": "169593",
+      "EDID": "VFSFreesideEastGateExtDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169592",
+      "FORMID": "169592",
+      "EDID": "VFSFreesideNorthIntGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168A8A",
+      "FORMID": "168A8A",
+      "EDID": "FortMainCampExteriorGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A816",
+      "FORMID": "15A816",
+      "EDID": "VMS49OutpostDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157BC7",
+      "FORMID": "157BC7",
+      "EDID": "VGearDoorR19",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B0C9",
+      "FORMID": "14B0C9",
+      "EDID": "NVCGInvisibleCaveEntDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14842D",
+      "FORMID": "14842D",
+      "EDID": "NVCGInvisibleCaveDoor",
+      "FULL": "Sair"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EDD",
+      "FORMID": "144EDD",
+      "EDID": "VHDLegateCampGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141146",
+      "FORMID": "141146",
+      "EDID": "FortMainCampGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13ACA4",
+      "FORMID": "13ACA4",
+      "EDID": "NVCCInvisibleFortGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978E",
+      "FORMID": "11978E",
+      "EDID": "VFSStripGateToFreeside",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978D",
+      "FORMID": "11978D",
+      "EDID": "VFSVegasGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164C2",
+      "FORMID": "1164C2",
+      "EDID": "NVMonorailDoor",
+      "FULL": "Monotrilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE6CB",
+      "FORMID": "0EE6CB",
+      "EDID": "V22GearDoorR",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC9CB",
+      "FORMID": "0EC9CB",
+      "EDID": "VGearDoorR3",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EA4A0",
+      "FORMID": "0EA4A0",
+      "EDID": "VGearDoorR11",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D7",
+      "FORMID": "0E29D7",
+      "EDID": "DLC03CrlLoadHatchExt01",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B267D",
+      "FORMID": "0B267D",
+      "EDID": "OffDoorBarsSmR01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2672",
+      "FORMID": "0B2672",
+      "EDID": "OffDoorBarsSmL01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD9",
+      "FORMID": "0B0CD9",
+      "EDID": "OffDoorHotelSmR03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD5",
+      "FORMID": "0B0CD5",
+      "EDID": "OffDoorHotelSmR02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD4",
+      "FORMID": "0B0CD4",
+      "EDID": "OffDoorHotelSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD2",
+      "FORMID": "0B0CD2",
+      "EDID": "OffDoorHotelSmL03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CC3",
+      "FORMID": "0B0CC3",
+      "EDID": "OffDoorHotelSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0922B2",
+      "FORMID": "0922B2",
+      "EDID": "DLCPittScfDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07100D",
+      "FORMID": "07100D",
+      "EDID": "UtlRmStairsHatch01RemoteOpen",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045264",
+      "FORMID": "045264",
+      "EDID": "CaveDoorToCave",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03890E",
+      "FORMID": "03890E",
+      "EDID": "RCSmDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031589",
+      "FORMID": "031589",
+      "EDID": "UtlRmStairsHatch01",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5FA",
+      "FORMID": "01F5FA",
+      "EDID": "OffDoorMetalSmR02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5F9",
+      "FORMID": "01F5F9",
+      "EDID": "OffDoorMetalSmL02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C4CD",
+      "FORMID": "01C4CD",
+      "EDID": "CLFenceGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A019",
+      "FORMID": "01A019",
+      "EDID": "OffDoorMetalSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0159A6",
+      "FORMID": "0159A6",
+      "EDID": "OffDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E46",
+      "FORMID": "014E46",
+      "EDID": "VGearDoorR108",
+      "FULL": "Porta do Vault"
+    }
+  ]
+}

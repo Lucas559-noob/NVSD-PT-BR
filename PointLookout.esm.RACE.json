@@ -1,0 +1,28 @@
+{
+  "RACE": [
+    {
+      "FORM": "@PointLookout.esm:010303",
+      "FORMID": "010303",
+      "EDID": "HispanicTribal",
+      "FULL": "Hispânico"
+    },
+    {
+      "FORM": "@PointLookout.esm:010302",
+      "FORMID": "010302",
+      "EDID": "CaucasianTribal",
+      "FULL": "Caucasiano"
+    },
+    {
+      "FORM": "@PointLookout.esm:010301",
+      "FORMID": "010301",
+      "EDID": "AsianTribal",
+      "FULL": "Asiático"
+    },
+    {
+      "FORM": "@PointLookout.esm:010300",
+      "FORMID": "010300",
+      "EDID": "AfricanAmericanTribal",
+      "FULL": "Afro-Americano"
+    }
+  ]
+}

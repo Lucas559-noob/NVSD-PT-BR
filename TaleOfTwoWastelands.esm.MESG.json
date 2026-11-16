@@ -1,0 +1,1356 @@
+{
+  "MESG": [
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0791CC",
+      "FORMID": "0791CC",
+      "EDID": "TTWNVMIMIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "O TTW detectou que você tem o NVMIM instalado; este mod é incompatível com o TTW e já cobre todas as suas correções. Remova-o antes de continuar.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079157",
+      "FORMID": "079157",
+      "EDID": "TTWShowOffMissingMessage",
+      "FULL": "Dependência ausente/desatualizada!",
+      "DESC": "TTW has detected that ShowOff xNVSE is missing or you are using a version older than 1.80.\n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0790EF",
+      "FORMID": "0790EF",
+      "EDID": "NamedCellMegatonSaloon",
+      "FULL": "Saloon do Gob"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:07906C",
+      "FORMID": "07906C",
+      "EDID": "TTWStewieMissingMessage",
+      "FULL": "Dependência ausente/desatualizada!",
+      "DESC": "TTW has detected that lStewieAl's Tweaks and Engine Fixes is missing or you are using a version older than 9.41.\n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:07906B",
+      "FORMID": "07906B",
+      "EDID": "TTWJGMissingMessage",
+      "FULL": "Dependência ausente/desatualizada!",
+      "DESC": "TTW has detected that Johnny Guitar NVSE is missing or you are using a version older than 5.01.\n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:079048",
+      "FORMID": "079048",
+      "EDID": "TTWBadINIMessage",
+      "FULL": "Configurações INI incorretas detectadas!",
+      "DESC": "TTW has detected that the settings in your falloutcustom.ini are misconfigured.\n\nPlease follow the Best of Times guide to resolve this problem.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:04C7AD",
+      "FORMID": "04C7AD",
+      "EDID": "DLC05DeadSamuraiMessage",
+      "DESC": "Toshiro Kago morreu."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:036E93",
+      "FORMID": "036E93",
+      "EDID": "TTWNVMPIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "TTW has detected that you have New Vegas Multiplayer installed, this mod is incompatible with TTW and is unsupported due to the practices in use by the project. It is strongly suggested that you remove it before continuing.\n\nIf you choose to continue using this mod, you forfeit support for any issues you may encounter in TTW.",
+      "ITXT": [
+        "Entendo e concordo em abrir mão do suporte."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D5",
+      "FORMID": "0185D5",
+      "EDID": "TTWChallengeMessageGhoul",
+      "DESC": "Você ganhou a vantagem Triturador de Ghouls (Classificação %.0f)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D4",
+      "FORMID": "0185D4",
+      "EDID": "TTWDLC03FEVwaterMsg03",
+      "DESC": "Você se sente um pouco melhor."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D3",
+      "FORMID": "0185D3",
+      "EDID": "TTWDLC03FEVwaterMsg02",
+      "DESC": "Esta água faz você se sentir um pouco enjoado."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D2",
+      "FORMID": "0185D2",
+      "EDID": "TTWDLC03FEVwaterMsg01",
+      "DESC": "Esta água tem um gosto estranho."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:0185D1",
+      "FORMID": "0185D1",
+      "EDID": "TTWChallengeMessageGrindControl",
+      "DESC": "Você ganhou a vantagem Auto Axepert."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FCF",
+      "FORMID": "011FCF",
+      "EDID": "TTWUnStnPowerOffSwitchMsg",
+      "DESC": "Não há energia."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FCE",
+      "FORMID": "011FCE",
+      "EDID": "TTWUnStnReactorFailedNoSkillMsg",
+      "DESC": "You don't have the skill to do that."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FCD",
+      "FORMID": "011FCD",
+      "EDID": "TTWUnStnReactorFailedNoItemMsg",
+      "DESC": "Sem espoleta, o reator não pode ser iniciado."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FCC",
+      "FORMID": "011FCC",
+      "EDID": "TTWUnStnReactorFixedMsg",
+      "DESC": "Sucesso, o reator está pronto para iniciar."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FCB",
+      "FORMID": "011FCB",
+      "EDID": "TTWUnStnReactorBrokeMsg",
+      "DESC": "O reator não está funcionando.",
+      "ITXT": [
+        "Prepare o reator.",
+        "[Reparo 50] Faça um improviso na partida.",
+        "Do nothing."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:011FC6",
+      "FORMID": "011FC6",
+      "EDID": "TTWUnStnPowerOffDoorsMsg",
+      "DESC": "A energia deve ser restaurada antes que as barreiras de segurança possam ser levantadas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00938E",
+      "FORMID": "00938E",
+      "EDID": "HD00AutodocMessage",
+      "DESC": "O que você gostaria de fazer com o seu \"Meu Primeiro Auto-Doc\"?",
+      "ITXT": [
+        "Heal Yourself",
+        "Restore Damaged Limbs",
+        "Remove All Rads",
+        "Do Nothing"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009223",
+      "FORMID": "009223",
+      "EDID": "BobbleheadSURMessage",
+      "DESC": "\"Às vezes, a melhor maneira de vencer é durar mais que seu oponente.\""
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009222",
+      "FORMID": "009222",
+      "EDID": "BobbleheadSURBuffMessage",
+      "FULL": "Found Bobblehead",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Sometimes, the best way to win is to outlast your opponent.\"\n\nAny chems you take or ingestibles you eat now last 10%% longer."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:009218",
+      "FORMID": "009218",
+      "EDID": "DLC04GrayMattersPerkAdded",
+      "FULL": "Gray Matters",
+      "DESC": "Upon recovering your piece of mind, you've learned to protect what matters.\n\nYou now take less damage to your head."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F71",
+      "FORMID": "008F71",
+      "EDID": "TTWvPonyExpressTutorial",
+      "FULL": "Pony Express",
+      "DESC": "Welcome to the Pony Express!\n\nPony Express drop boxes, like this one, can be used to deliver items to any Pony Express Dropbox that you've discovered. Once you find a Pony Express Dropbox, just activate it and you will be able to use that location to send and receive items."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F70",
+      "FORMID": "008F70",
+      "EDID": "TTWvPonyExpressShippingMessage",
+      "FULL": "Envios e Recebimentos da Pony Express",
+      "DESC": "Bem-vindo à Pony Express!",
+      "ITXT": [
+        "Close Box",
+        "Pick Up Items",
+        "Enviar para Megaton",
+        "Enviar para a Torre Tenpenny",
+        "Enviar para Rivet City",
+        "Enviar para Paradise Falls",
+        "Enviar para Canterbury Commons"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F6F",
+      "FORMID": "008F6F",
+      "EDID": "TTWvPonyExpressMessageOpen",
+      "FULL": "Envios e Recebimentos da Pony Express"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F6E",
+      "FORMID": "008F6E",
+      "EDID": "TTWvPonyExpressInvalid",
+      "FULL": "Falha na Entrega da Pony Express",
+      "DESC": "Você deve descobrir uma segunda Caixa da Pony Express antes de fazer qualquer envio."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F6D",
+      "FORMID": "008F6D",
+      "EDID": "TTWvPonyExpressFirstMessage",
+      "FULL": "Nova Caixa Postal da Pony Express",
+      "DESC": "Você descobriu uma nova Caixa Postal da Pony Express! Agora você pode receber itens neste local, bem como enviar itens deste local para outras Caixas Postais da Pony Express. Deseja enviar alguns itens?",
+      "ITXT": [
+        "Close Box",
+        "Pick Up Items",
+        "Enviar para Megaton",
+        "Enviar para a Torre Tenpenny",
+        "Enviar para Rivet City",
+        "Enviar para Paradise Falls",
+        "Enviar para Canterbury Commons"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008F6C",
+      "FORMID": "008F6C",
+      "EDID": "TTWvPonyExpressEmpty",
+      "DESC": "You don't currently have any shipments awaiting delivery from this location."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008DFE",
+      "FORMID": "008DFE",
+      "EDID": "TTWStartMessage",
+      "ITXT": [
+        "Começar no Ermo da Capital (Recomendado)",
+        "Começar no Ermo de Mojave"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008057",
+      "FORMID": "008057",
+      "EDID": "TTWCaravanDeckMessage",
+      "DESC": "Baralho de caravana adicionado."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:008056",
+      "FORMID": "008056",
+      "EDID": "TTWEquipmentReturnedMessage",
+      "DESC": "Seu equipamento foi devolvido."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E8E",
+      "FORMID": "007E8E",
+      "EDID": "TTWFollowerMessageOneFollowerCritter",
+      "DESC": "Você só pode ter um seguidor não humanoide por vez."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E8D",
+      "FORMID": "007E8D",
+      "EDID": "TTWDLC03FollowerMessageLeavePuppyL38",
+      "DESC": "O filhote de Dogmeat foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E8C",
+      "FORMID": "007E8C",
+      "EDID": "TTWDLC03FollowerMessageLeavePuppyNV",
+      "DESC": "O filhote de Dogmeat retornou ao Ferro-Velho Gibson."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E8B",
+      "FORMID": "007E8B",
+      "EDID": "TTWFollowerMessageLeaveBooneDC",
+      "DESC": "Boone retornou ao Barraco do Atirador."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E8A",
+      "FORMID": "007E8A",
+      "EDID": "TTWFollowerMessageLeaveCharonNV",
+      "DESC": "Charon retornou ao The Thorn."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E89",
+      "FORMID": "007E89",
+      "EDID": "TTWFollowerMessagePerkCharonRemove",
+      "DESC": "Você perdeu a vantagem O Contrato do Charon."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E88",
+      "FORMID": "007E88",
+      "EDID": "TTWFollowerMessagePerkCharonAdd",
+      "DESC": "Charon lhe concedeu a vantagem O Contrato."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E87",
+      "FORMID": "007E87",
+      "EDID": "TTWFollowerMessagePerkFawkesRemove",
+      "DESC": "Você perdeu a vantagem Compensação Excessiva do Fawkes."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E86",
+      "FORMID": "007E86",
+      "EDID": "TTWFollowerMessagePerkFawkesAdd",
+      "DESC": "Fawkes lhe concedeu a vantagem Compensação Excessiva."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E85",
+      "FORMID": "007E85",
+      "EDID": "TTWFollowerMessagePerkJerichoRemove",
+      "DESC": "Você perdeu a vantagem Sobrevivente Briguento do Jericho."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E84",
+      "FORMID": "007E84",
+      "EDID": "TTWFollowerMessagePerkJerichoAdd",
+      "DESC": "Jericho lhe concedeu a vantagem Sobrevivente Briguento."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E83",
+      "FORMID": "007E83",
+      "EDID": "TTWFollowerMessagePerkCloverRemove",
+      "DESC": "Você perdeu a vantagem Ficar com Sorte da Clover."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E82",
+      "FORMID": "007E82",
+      "EDID": "TTWFollowerMessagePerkCloverAdd",
+      "DESC": "Clover lhe concedeu a vantagem Ficar com Sorte."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E81",
+      "FORMID": "007E81",
+      "EDID": "TTWFollowerMessagePerkStarPaladinCrossRemove",
+      "DESC": "Você perdeu a vantagem Segunda Pele da Paladina Estelar Cross."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E80",
+      "FORMID": "007E80",
+      "EDID": "TTWFollowerMessagePerkStarPaladinCrossAdd",
+      "DESC": "Paladina Estelar Cross lhe concedeu a vantagem Segunda Pele."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7F",
+      "FORMID": "007E7F",
+      "EDID": "TTWFollowerMessagePerkButchRemove",
+      "DESC": "Você perdeu a vantagem Tunnel Snakes Rule do Butch."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7E",
+      "FORMID": "007E7E",
+      "EDID": "TTWFollowerMessagePerkButchAdd",
+      "DESC": "Butch lhe concedeu a vantagem Tunnel Snakes Rule."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7D",
+      "FORMID": "007E7D",
+      "EDID": "TTWFollowerMessagePerkRL3Remove",
+      "DESC": "Você perdeu a vantagem Sargento Instrutor do RL-3."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7C",
+      "FORMID": "007E7C",
+      "EDID": "TTWFollowerMessagePerkRL3Add",
+      "DESC": "RL-3 lhe concedeu a vantagem Sargento Instrutor."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7B",
+      "FORMID": "007E7B",
+      "EDID": "TTWFollowerMessagePerkDogmeatRemove",
+      "DESC": "Você perdeu a vantagem Melhor Amigo do Homem do Dogmeat."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E7A",
+      "FORMID": "007E7A",
+      "EDID": "TTWFollowerMessagePerkDogmeatAdd",
+      "DESC": "Dogmeat lhe concedeu a vantagem Melhor Amigo do Homem."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E79",
+      "FORMID": "007E79",
+      "EDID": "TTWFollowerMessageLeaveVeronicaDC",
+      "DESC": "Veronica retornou a Megaton."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E78",
+      "FORMID": "007E78",
+      "EDID": "TTWFollowerMessageLeaveStarPaladinCross38",
+      "DESC": "Paladina Estelar Cross foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E77",
+      "FORMID": "007E77",
+      "EDID": "TTWFollowerMessageLeaveStarPaladinCrossNV",
+      "DESC": "Paladina Estelar Cross retornou à Clínica Médica de New Vegas."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E76",
+      "FORMID": "007E76",
+      "EDID": "TTWFollowerMessageLeaveRL338",
+      "DESC": "RL3 foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E75",
+      "FORMID": "007E75",
+      "EDID": "TTWFollowerMessageLeaveRL3NV",
+      "DESC": "RL3 retornou a Goodsprings."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E74",
+      "FORMID": "007E74",
+      "EDID": "TTWFollowerMessageLeaveRexDC",
+      "DESC": "Rex retornou a Megaton."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E73",
+      "FORMID": "007E73",
+      "EDID": "TTWFollowerMessageLeaveRaulDC",
+      "DESC": "Raul retornou ao Museu de História."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E72",
+      "FORMID": "007E72",
+      "EDID": "TTWFollowerMessageLeaveLilyDC",
+      "DESC": "Lily retornou ao Museu de História."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E71",
+      "FORMID": "007E71",
+      "EDID": "TTWFollowerMessageLeaveJericho38",
+      "DESC": "Jericho foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E70",
+      "FORMID": "007E70",
+      "EDID": "TTWFollowerMessageLeaveJerichoNV",
+      "DESC": "Jericho retornou ao Atomic Wrangler."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6F",
+      "FORMID": "007E6F",
+      "EDID": "TTWFollowerMessageLeaveFawkes38",
+      "DESC": "Fawkes foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6E",
+      "FORMID": "007E6E",
+      "EDID": "TTWFollowerMessageLeaveFawkesNV",
+      "DESC": "Fawkes retornou a Jacobstown."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6D",
+      "FORMID": "007E6D",
+      "EDID": "TTWFollowerMessageLeaveEDEDC",
+      "DESC": "ED-E retornou a Megaton."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6C",
+      "FORMID": "007E6C",
+      "EDID": "TTWFollowerMessageLeaveDogmeat38",
+      "DESC": "Dogmeat foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6B",
+      "FORMID": "007E6B",
+      "EDID": "TTWFollowerMessageLeaveDogmeatNV",
+      "DESC": "Dogmeat retornou ao Ferro-Velho Gibson."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E6A",
+      "FORMID": "007E6A",
+      "EDID": "TTWFollowerMessageLeaveClover38",
+      "DESC": "Clover foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E69",
+      "FORMID": "007E69",
+      "EDID": "TTWFollowerMessageLeaveCloverNV",
+      "DESC": "Clover retornou à estação de trem de Freeside."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E68",
+      "FORMID": "007E68",
+      "EDID": "TTWFollowerMessageLeaveCharon38",
+      "DESC": "Charon foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E67",
+      "FORMID": "007E67",
+      "EDID": "TTWFollowerMessageLeaveCassDC",
+      "DESC": "Cass retornou a Canterbury Commons."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E66",
+      "FORMID": "007E66",
+      "EDID": "TTWFollowerMessageLeaveButch38",
+      "DESC": "Butch foi para o Lucky 38."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E65",
+      "FORMID": "007E65",
+      "EDID": "TTWFollowerMessageLeaveButchNV",
+      "DESC": "Butch retornou a Freeside."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007E64",
+      "FORMID": "007E64",
+      "EDID": "TTWFollowerMessageLeaveArcadeDC",
+      "DESC": "Arcade retornou ao laboratório de ciências de Rivet City."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B60",
+      "FORMID": "007B60",
+      "EDID": "TTWDLC03FEVwaterMsg06",
+      "DESC": "Você se sente muito melhor."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5F",
+      "FORMID": "007B5F",
+      "EDID": "TTWDLC03FEVwaterMsg05",
+      "DESC": "Esta água faz você se sentir estranhamente bem."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5E",
+      "FORMID": "007B5E",
+      "EDID": "TTWDLC03FEVwaterMsg04",
+      "DESC": "Esta água tem um gosto bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5D",
+      "FORMID": "007B5D",
+      "EDID": "TTWChallengeMessageKarmaEvil",
+      "FULL": "Congratulations!",
+      "DESC": "Você alcançou o nível %.0f com Karma Mau."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5C",
+      "FORMID": "007B5C",
+      "EDID": "TTWChallengeMessageKarmaNeutral",
+      "FULL": "Congratulations!",
+      "DESC": "Você alcançou o nível %.0f com Karma Neutro."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5B",
+      "FORMID": "007B5B",
+      "EDID": "TTWChallengeMessageKarmaGood",
+      "FULL": "Congratulations!",
+      "DESC": "Você alcançou o nível %.0f com Karma Bom."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B5A",
+      "FORMID": "007B5A",
+      "EDID": "TTWChallengeMessageHacker",
+      "DESC": "Você ganhou a vantagem 1337 #4(|{3®."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B59",
+      "FORMID": "007B59",
+      "EDID": "TTWChallengeMessageVaultHunter",
+      "DESC": "Parabéns! Você descobriu todos os vaults."
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B58",
+      "FORMID": "007B58",
+      "EDID": "TTWChallengeMessageOrbit",
+      "DESC": "Você ganhou a vantagem Bombardeio Orbital (Classificação %.0f)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B57",
+      "FORMID": "007B57",
+      "EDID": "NVChallengeMessageDismember",
+      "DESC": "Você ganhou a vantagem Eu te Desmembro (Classificação %.0f)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:007B56",
+      "FORMID": "007B56",
+      "EDID": "TTWChallengeMessageBarterTown",
+      "DESC": "Você ganhou a vantagem Cidade do Escambo (Classificação %.0f)"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E13",
+      "FORMID": "001E13",
+      "EDID": "TTWTrainTravelNVtoDCNoTicket",
+      "FULL": "Travel",
+      "DESC": "Este trem leva a Washington D.C., mas primeiro você precisa comprar uma passagem. As passagens são só de ida.",
+      "ITXT": [
+        "Stay in the Mojave Wasteland."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E12",
+      "FORMID": "001E12",
+      "EDID": "TTWTrainTravelNVtoDC",
+      "FULL": "Travel",
+      "DESC": "This train leads to Washington D.C., your ticket is one way only, you will not be able to return without purchasing another ticket.\n\nAre you sure you wish to travel to Washington D.C.?",
+      "ITXT": [
+        "Stay in the Mojave Wasteland.",
+        "Viajar para Washington D.C.."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E11",
+      "FORMID": "001E11",
+      "EDID": "TTWTrainTravelDCtoNVNoTicket",
+      "FULL": "Travel",
+      "DESC": "Este trem leva a New Vegas, mas primeiro você precisa comprar uma passagem. As passagens são só de ida.",
+      "ITXT": [
+        "Stay in the Capital Wasteland."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001E10",
+      "FORMID": "001E10",
+      "EDID": "TTWTrainTravelDCtoNV",
+      "FULL": "Travel",
+      "DESC": "This train leads to New Vegas, your ticket is one way only, you will not be able to return without purchasing another ticket.\n\nAre you sure you wish to travel to New Vegas?",
+      "ITXT": [
+        "Stay in the Capital Wasteland.",
+        "Viajar para New Vegas."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001BE1",
+      "FORMID": "001BE1",
+      "EDID": "TTWPreorderMenu",
+      "FULL": "Menu do Pacote de Suprimentos",
+      "ITXT": [
+        "Ativar Pacote Caravana (Desativado no Momento)",
+        "Desativar Pacote Caravana (Ativado no Momento)",
+        "Ativar Pacote Clássico (Desativado no Momento)",
+        "Desativar Pacote Clássico (Ativado no Momento)",
+        "Ativar Pacote Mercenário (Desativado no Momento)",
+        "Desativar Pacote Mercenário (Ativado no Momento)",
+        "Ativar Pacote Tribal (Desativado no Momento)",
+        "Desativar Pacote Tribal (Ativado no Momento)",
+        "Concluído"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001877",
+      "FORMID": "001877",
+      "EDID": "TTWNVECIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "TTW has detected that you have NVEC installed, this mod is incompatible with TTW. It is strongly suggested that you remove it before continuing.\n\nIf you choose to continue with this mod installed, you forfeit support for any issues you may encounter in TTW.",
+      "ITXT": [
+        "Entendo e concordo em abrir mão do suporte."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001876",
+      "FORMID": "001876",
+      "EDID": "TTWFNCIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "TTW has detected that you have Fallout - New California installed, this mod is incompatible with TTW. It is strongly suggested that you remove it before continuing.\n\nIf you choose to continue with this mod installed, you forfeit support for any issues you may encounter in TTW.",
+      "ITXT": [
+        "Entendo e concordo em abrir mão do suporte."
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001875",
+      "FORMID": "001875",
+      "EDID": "TTWYUPIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "O TTW detectou que você tem a versão New Vegas do YUP instalada; este mod é incompatível com o TTW. Remova-o antes de continuar.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001874",
+      "FORMID": "001874",
+      "EDID": "TTWMMUEIncompatibleMessage",
+      "FULL": "Mod incompatível!",
+      "DESC": "O TTW detectou que você tem o Mission Mojave instalado; este mod é incompatível com o TTW. Remova-o antes de continuar.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001873",
+      "FORMID": "001873",
+      "EDID": "TTWUnconvertedModMessage",
+      "FULL": "Mod não convertido!",
+      "DESC": "O TTW detectou que você tem mods de Fallout 3 instalados; eles são incompatíveis com o TTW até serem convertidos corretamente para funcionar com ele. Remova quaisquer mods não convertidos antes de continuar.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001872",
+      "FORMID": "001872",
+      "EDID": "TTW4GBMissingMessage",
+      "FULL": "Dependência ausente!",
+      "DESC": "TTW has detected that your game is not 4GB patched, this may cause you to experience out of memory crashes.\n\nPlease follow the Best of Times guide for guidance on how to do this.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001871",
+      "FORMID": "001871",
+      "EDID": "TTWPluginMissingMessage",
+      "FULL": "Dependência ausente!",
+      "DESC": "TTW has detected that the ROOGNVSE plugin is missing.\n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:001870",
+      "FORMID": "001870",
+      "EDID": "TTWJIPLNMissingMessage",
+      "FULL": "Dependência ausente/desatualizada!",
+      "DESC": "TTW has detected that JIP LN NVSE Plugin is missing or you are using a version older than 57.21. \n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:00186F",
+      "FORMID": "00186F",
+      "EDID": "TTWNVSEMissingMessage",
+      "FULL": "Dependência ausente/desatualizada!",
+      "DESC": "TTW has detected that xNVSE is missing or you are using a version older than 6.3.5.\n\nPlease follow the Best of Times guide for guidance on how to install it.",
+      "ITXT": [
+        "OK"
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:009C52",
+      "FORMID": "009C52",
+      "EDID": "DLC05AsmAssemblyLowRepair",
+      "DESC": "A eletrônica da linha de montagem pode ser ligada para sobrecarregar. No entanto, é necessária uma habilidade de Reparo maior para definir um pequeno atraso (habilidade de Reparo 75 necessária). A sobrecarga deve causar uma detonação e abrir caminho.",
+      "ITXT": [
+        "Do Nothing.",
+        "Overload Assembly Line."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:001602",
+      "FORMID": "001602",
+      "EDID": "DLC05TeleporterChargingMSG",
+      "DESC": "Carregando. Aguarde."
+    },
+    {
+      "FORM": "@PointLookout.esm:0105E8",
+      "FORMID": "0105E8",
+      "EDID": "DLC04FF05radVentMSG",
+      "FULL": "Ventilação Emitindo Radiação",
+      "DESC": "A radiação está sendo ventilada para a sala por esta abertura. Com um pouco de habilidade, ela pode ser desativada, interrompendo o fluxo de radiação.",
+      "ITXT": [
+        "Leave the vent alone.",
+        "[Repair: 30] Disable the Vent",
+        "[Repair: 30] Disable the Vent"
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00D70F",
+      "FORMID": "00D70F",
+      "EDID": "DLC04FF05MorgueDrawerYangMSG",
+      "FULL": "Restos da Agente Wan Yang",
+      "DESC": "Você encontrou o que restou do Agente Yang. Examinando os restos de perto, você descobre um dente molar falso. Há um microfilme dentro dele que deve conter os Códigos de Autodestruição do submarino chinês.",
+      "ITXT": [
+        "Leave the tooth alone.",
+        "Remove the Self-Destruct Codes."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00314E",
+      "FORMID": "00314E",
+      "EDID": "DLC04FF02MurderSceneMSG",
+      "FULL": "Assassino!",
+      "DESC": "Marcella's dead body lies here. A message has been written in her blood: \n\n\"Return the Book and You Live.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00314A",
+      "FORMID": "00314A",
+      "EDID": "DLC04FF02AltarMSG01",
+      "FULL": "O Púlpito Cerimonial",
+      "DESC": "O grande tomo colocado neste púlpito deve ser o Krivbeknih. Está úmido com o que parece ser sangue fresco.",
+      "ITXT": [
+        "Take the Krivbeknih.",
+        "Leave the Krivbeknih alone."
+      ]
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBA1",
+      "FORMID": "00BBA1",
+      "EDID": "DLC03StartMessage",
+      "FULL": "Broken Steel",
+      "DESC": "Broken Steel foi carregado."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A54FD",
+      "FORMID": "0A54FD",
+      "EDID": "FollowerMessageLeaveRL3",
+      "DESC": "Sargento RL-3 retornou a Canterbury Commons."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D269",
+      "FORMID": "00D269",
+      "EDID": "NVDLC04TunnelerFrenzyMSG",
+      "DESC": "A luz brilhante leva o Tunneler ao frenesi!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C477",
+      "FORMID": "00C477",
+      "EDID": "NVDLC04NukedBothMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Your merciless nuclear assault on the nations of the Mojave has devastated the lands of both the Legion and the NCR and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. At Cottonwood Cove, you can now take a journey by river to Dry Wells, the site of a devastated Legion encampment. Be prepared - both areas are highly irradiated and infested with Feral Ghouls.\n\nYou have also unlocked the Dead Man's Burden Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the Boomers and the Powder Gangers for your... destructive tendencies, but you lose reputation with the NCR and Caesar's Legion."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C476",
+      "FORMID": "00C476",
+      "EDID": "NVDLC04NukedNCRMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Your merciless nuclear assault on the NCR has devastated the lands of California and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. Be prepared - the area is highly irradiated and infested with former NCR Ghouls.\n\nYou have also unlocked the Bear-Slayer Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with Caesar's Legion for annihilating the NCR's homeland, but lose reputation with the NCR."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C475",
+      "FORMID": "00C475",
+      "EDID": "NVDLC04NukedLegionMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Your merciless nuclear assault on Caesar's Legion has devastated the lands east of the Colorado and reached even the borders of the Mojave. At Cottonwood Cove, you can now take a journey by river to the site of Dry wells, a devastated Legion encampment. Be prepared - the area is highly irradiated and infested with Legion Ghouls.\n\nYou have also unlocked the Scourge of the East Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the NCR for breaking the back of Caesar's Legion, but you lose reputation with Caesar's Legion."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003606",
+      "FORMID": "003606",
+      "EDID": "NVDLC04LoadMessage02",
+      "FULL": "A Estrada Solitária",
+      "DESC": "Lonesome Road foi carregado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FD1",
+      "FORMID": "002FD1",
+      "EDID": "NVDLC03LoadMessage02",
+      "FULL": "A Melancolia Do Velho Mundo",
+      "DESC": "Old World Blues foi carregado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A6DF",
+      "FORMID": "00A6DF",
+      "EDID": "NVDLC02BighornerCalfMsg",
+      "DESC": "Você encontrou o Bezerro Perdido de Bighorner da Montanha. Ele parece estar com fome; alimentá-lo com uma Fruta Banana Yucca?",
+      "ITXT": [
+        "Leave it alone.",
+        "Feed it a Banana Yucca Fruit."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A34",
+      "FORMID": "008A34",
+      "EDID": "NVDLC02LoadMessage02",
+      "FULL": "Corações Honestos",
+      "DESC": "Honest Hearts foi carregado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F41E",
+      "FORMID": "00F41E",
+      "EDID": "NVDLC01LoadedMsg",
+      "FULL": "Dinheiro Morto foi carregado.",
+      "DESC": "Dead Money foi carregado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AEE1",
+      "FORMID": "16AEE1",
+      "EDID": "vSnowglobeFirstMessage",
+      "DESC": "You found a Limited Edition Mojave Landmark Snowglobe!\n\nThese rare, Pre-War artifacts are widely considered to be useless baubles, but rumor has it some collectors will pay dearly for them."
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E28",
+      "FORMID": "167E28",
+      "EDID": "ChallengeMessageWater",
+      "DESC": "Você ganhou a vantagem Camelo do Ermo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECC8",
+      "FORMID": "15ECC8",
+      "EDID": "NellisSolarArraySalvageMsg",
+      "DESC": "Os painéis refletores desta matriz estão danificados. Você poderia recuperar algumas peças da matriz. Deseja desmontar a matriz? (Reparo 20 ou superior necessário)",
+      "ITXT": [
+        "Leave it alone.",
+        "Salvage the array."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECC7",
+      "FORMID": "15ECC7",
+      "EDID": "NellisSolarArraySalvageLowMsg",
+      "DESC": "Os painéis refletores desta matriz estão danificados. Você não tem ideia de como começar a desmontar a matriz. (Reparo 20 ou superior necessário)",
+      "ITXT": [
+        "Leave it alone."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:152C87",
+      "FORMID": "152C87",
+      "EDID": "VMS30InjuredTrooper03HealMsgAlt",
+      "DESC": "Você usa o Med-X e diminui a dor do paciente. Com cuidado, usa a pinça para retirar pedaços de estilhaço. Devido à perda extrema de sangue, o paciente entra em choque circulatório. Você usa rapidamente o Super Stimpak para estabilizá-lo. O paciente se recuperará completamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:152C86",
+      "FORMID": "152C86",
+      "EDID": "VMS30InjuredTrooper02HealMsgAlt",
+      "DESC": "Usando o Med-X para diminuir a dor do paciente, você coloca a Tala Médica nele para estabilizar a perna. Em seguida, começa cuidadosamente a amputar o membro com a Serra Óssea. Durante a cirurgia, você nota que a mão do homem está gangrenada. Você também a amputa, salvando sua vida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:152C85",
+      "FORMID": "152C85",
+      "EDID": "VMS30InjuredTrooper01HealMsgAlt",
+      "DESC": "Usando o Med-X para diminuir a dor do paciente, você usa a mangueira cirúrgica para reduzir um pouco o sangramento e depois esteriliza o ferimento com o uísque. O paciente se recuperará completamente com o tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1253B4",
+      "FORMID": "1253B4",
+      "EDID": "VMS30InjuredTrooper02Msg",
+      "DESC": "This man's leg is seriously injured. It may require amputation to save him. Are you sure to want to attempt the operation? (Medicine 50 or higher required)\n\nAlternatively, if you have a Medical Brace, Med-X, and a Bonesaw you may be able to treat him.",
+      "ITXT": [
+        "Leave him alone.",
+        "Perform the operation with medicine.",
+        "Use medical equipment to operate."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1253B3",
+      "FORMID": "1253B3",
+      "EDID": "VMS30InjuredTrooper02LowSkillMsg",
+      "DESC": "This man's leg is seriously injured. It may require amputation to save him. Are you sure to want to attempt the operation? (Medicine 50 or higher required)\n\nAlternatively, if you have a Medical Brace, Med-X, and a Bonesaw you may be able to treat him.",
+      "ITXT": [
+        "Leave him alone.",
+        "Attempt to operate with medicine.",
+        "Use medical equipment to operate."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A14A",
+      "FORMID": "10A14A",
+      "EDID": "PowderGangerCampMsg03",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "DESC": "A nota diz: \"Alguns dos companheiros mais ao norte estão tentando se organizar. Estamos começando a achar que é uma boa ideia. Precisamos juntar recursos se quisermos sobreviver aqui fora. Aposto que você notou a diminuição de viajantes. Se eles estão ficando espertos, nós também deveríamos.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A144",
+      "FORMID": "10A144",
+      "EDID": "PowderGangerCampMsg02",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "DESC": "A nota diz: \"Alguns dos companheiros mais ao norte estão tentando se organizar. Estamos começando a achar que é uma boa ideia. Precisamos juntar recursos se quisermos sobreviver aqui fora. Aposto que você notou a diminuição de viajantes. Se eles estão ficando espertos, nós também deveríamos.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A13D",
+      "FORMID": "10A13D",
+      "EDID": "PowderGangerCampMsg01",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "DESC": "A nota diz: \"Poucas patrulhas por aqui ultimamente, o que significa pouco saque. Nossa equipe está pensando em fazer uma investida em breve. Siga os trilhos para o norte; vá em direção à Strip. Você está dentro? Não estamos mais na chain gang, mas ainda temos que ficar juntos.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:10649D",
+      "FORMID": "10649D",
+      "EDID": "NellisSolarArrayRepairMsg",
+      "DESC": "Os painéis refletores desta matriz estão danificados. Peças recuperadas poderiam ser usadas para consertar a matriz. Deseja consertar a matriz? (Reparo 65 ou superior necessário ou usar Peças de Matriz Solar)",
+      "ITXT": [
+        "Leave it alone.",
+        "Repair the array without spare parts.",
+        "Use Helios salvaged panels to repair the array."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:10649B",
+      "FORMID": "10649B",
+      "EDID": "NellisSolarArrayRepairedHighMsg",
+      "DESC": "Usando seu conhecimento de células fotovoltaicas, você limpa, polir e aprimora minuciosamente os painéis solares. Você também limpa e reconecta alguns circuitos degradados que encontrou. Eficiência da matriz melhorada em 50%%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10649A",
+      "FORMID": "10649A",
+      "EDID": "NellisSolarArrayRepairLowMsg",
+      "DESC": "Os painéis refletores desta matriz estão danificados. Ao inspecionar os danos, você percebe rapidamente que não tem habilidade para consertar a matriz sem peças de reposição. (Reparo 65 ou superior necessário ou usar Peças de Matriz Solar)",
+      "ITXT": [
+        "Leave it alone."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:104689",
+      "FORMID": "104689",
+      "EDID": "UnderpassWaterSciencedMsg",
+      "DESC": "Você modificou as configurações do purificador. Agora ele está produzindo água mais limpa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:104688",
+      "FORMID": "104688",
+      "EDID": "UnderpassWaterRepairedMsg",
+      "DESC": "Você consertou o purificador. Agora ele está produzindo água limpa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:100A02",
+      "FORMID": "100A02",
+      "EDID": "InjuredBoomerHeal3Msg",
+      "DESC": "Depois de considerar cuidadosamente as opções de tratamento, você percebe que o paciente está apenas tendo uma forte reação alérgica. Ao limpar todos os ferimentos do veneno de formiga e administrar um composto esteroide, você reduz o inchaço e a respiração do paciente volta ao normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:100A01",
+      "FORMID": "100A01",
+      "EDID": "InjuredBoomerHeal2Msg",
+      "DESC": "Após um exame mais detalhado depois de limpar a perna, você percebe que ela pode ser salva. Você remove cuidadosamente os pontos existentes, limpa bem os ferimentos e depois os fecha novamente usando um procedimento muito mais eficaz."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009FF",
+      "FORMID": "1009FF",
+      "EDID": "InjuredBoomer3Msg",
+      "DESC": "Este homem parece estar gravemente ferido. O inchaço ao redor do rosto e do pescoço está interferindo na respiração. Tem certeza de que deseja tratá-lo? (Medicina 60 ou superior necessária)",
+      "ITXT": [
+        "Never mind. Leave him alone.",
+        "Treat the patient."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009CF",
+      "FORMID": "1009CF",
+      "EDID": "InjuredBoomerKillMsg",
+      "DESC": "Com conhecimento médico limitado, você administra por engano uma dose letal de analgésicos misturados com antibióticos. O paciente solta um último suspiro penoso antes de sucumbir à overdose."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009CE",
+      "FORMID": "1009CE",
+      "EDID": "InjuredBoomerKill2Msg",
+      "DESC": "Sem examinar mais a perna, você decide que ela exige amputação. Antes mesmo de chegar ao osso, você percebe que pode ter pulado algumas etapas importantes... O paciente sangra até a morte rapidamente por causa de uma artéria cortada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009CD",
+      "FORMID": "1009CD",
+      "EDID": "InjuredBoomerKill3Msg",
+      "DESC": "Você decide que precisa realizar uma traqueotomia para abrir a via aérea dele. Enquanto você apunhala o paciente no pescoço de qualquer jeito, um pedaço do seu canudo se quebra na garganta dele, fazendo o paciente morrer engasgado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F888F",
+      "FORMID": "0F888F",
+      "EDID": "CookCookMessage",
+      "DESC": "Cook-Cook entra em frenesi com a morte de seu Brahmin favorito."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACC7",
+      "FORMID": "0EACC7",
+      "EDID": "REPCONHQTourMessage10",
+      "FULL": "\"Cuidado Onde Pisa!\"",
+      "DESC": "Whoa, watch your step! You don't want to be facing this fearsome fellow if you accidentally stumble into a restricted area. Whether sporting the latest in dual miniguns, rockets, or laser cannons, the Sentry Bot not only takes it job seriously, it also takes no prisoners! It's proof of RobCo's commitment to defense that these deadly guards are concealed in chambers throughout this facility, so let this be a warning: Watch where you step, or out'll come RobCo, guns blazing!\n\nExhibit Brought to You By Your Friends at RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8810",
+      "FORMID": "0E8810",
+      "EDID": "QJDeathclawMotherMessage",
+      "DESC": "A mãe Deathclaw enlouquece com a morte de seu filhote!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CBB53",
+      "FORMID": "0CBB53",
+      "EDID": "TrapComputerDisarmedMsg",
+      "DESC": "Esta armadilha de computador está desarmada e não explodirá a menos que seja rearmada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C01A4",
+      "FORMID": "0C01A4",
+      "EDID": "MS14QuestFail",
+      "FULL": "You Gotta Shoot 'Em in the Head",
+      "DESC": "Mister Crowley está morto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A53FB",
+      "FORMID": "0A53FB",
+      "EDID": "FollowerMessageDeadDogmeat",
+      "FULL": "Aviso de Seguidor",
+      "DESC": "Dogmeat morreu!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D95E",
+      "FORMID": "09D95E",
+      "EDID": "GenericGasValveRepairMsg",
+      "DESC": "Você conserta com sucesso a válvula de gás. Agora ela pode ser operada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:097183",
+      "FORMID": "097183",
+      "EDID": "FFSupermutantCaptiveNoActivateMessage",
+      "DESC": "Você não pode ajudar o cativo enquanto estiver em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07FE0B",
+      "FORMID": "07FE0B",
+      "EDID": "FollowerMessageOneFollower",
+      "DESC": "Você só pode ter um seguidor humanoide por vez."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E1B1",
+      "FORMID": "07E1B1",
+      "EDID": "HDLabDetoxify",
+      "DESC": "Vícios removidos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:079241",
+      "FORMID": "079241",
+      "EDID": "MQ04DiaryMessage",
+      "FULL": "Diário de Janet Rockwell",
+      "DESC": "I just don't know what to do anymore. When Roger’s not in that stupid basement, he’s outside sweet talking that hussy, Martha Simpson. He claims there's nothing between them, but I know it's all a lie. \n\nI found a woman's pendant once, on Roger’s workbench. But of course, I said nothing. That’s me, Janet Rockwell, prim and proper housewife, living a perfect life here on Tranquility Lane. \n\nSome days I wish I really had beat her to death with that rolling pin. Then Roger would know I'm the only girl in the world."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07252F",
+      "FORMID": "07252F",
+      "EDID": "FollowerMessageDeadRL3",
+      "FULL": "Aviso de Seguidor",
+      "DESC": "Sargento RL-3 foi destruído!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B250",
+      "FORMID": "06B250",
+      "EDID": "HelpKarma",
+      "FULL": "Karma",
+      "DESC": "Karma is an overall indication of your sense of good, evil... or neutrality. Your Karma starts at Neutral, and changes based on your actions. It can go up to Good or Very Good, or down to Evil or Very Evil. Kind or self-sacrificing acts will net you good Karma. Selfish and malicious acts will earn evil Karma. Sometimes, killing a particularly saintly or terrible enemy will modify your Karma as well.\n\nThough some people in the world react to Karma, most base their opinons off of Reputation. Karma is simply the universe's way of tracking your good and bad deeds in the world."
+    },
+    {
+      "FORM": "@FalloutNV.esm:05CF94",
+      "FORMID": "05CF94",
+      "EDID": "CG04VaultExitMessage",
+      "DESC": "Antes de deixar o Vault 101 para sempre, você pode revisar seu personagem.",
+      "ITXT": [
+        "Edit Name",
+        "Edit Race/Sex",
+        "Edit S.P.E.C.I.A.L.",
+        "Editar Traços",
+        "Edit Tag Skills",
+        "Finished - Exit Vault 101"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A236",
+      "FORMID": "05A236",
+      "EDID": "FFEU10RobotDestroyMsg",
+      "DESC": "Você destruiu os circuitos delicados do robô."
+    },
+    {
+      "FORM": "@FalloutNV.esm:04BA57",
+      "FORMID": "04BA57",
+      "EDID": "MS03MainframeChange1Msg",
+      "DESC": "Você instalou o widget do processador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:04656C",
+      "FORMID": "04656C",
+      "EDID": "TrapDebugMsg",
+      "DESC": "Disarmed: %.0f\nButton: %.0f"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E9",
+      "FORMID": "0410E9",
+      "EDID": "BobbleheadUARMBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"When words fail, there's always fists.\"\n\nYour unarmed attacks now do double damage against blocking opponents."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E7",
+      "FORMID": "0410E7",
+      "EDID": "BobbleheadSTRBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"It's essential you can bear any weight placed upon your shoulders.\"\n\nYou can now carry 25 lbs. more gear."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E6",
+      "FORMID": "0410E6",
+      "EDID": "BobbleheadSPCHBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Let your words be your weapon.\"\n\nYou can now hire any companion regardless of your Karma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E5",
+      "FORMID": "0410E5",
+      "EDID": "BobbleheadSNEKBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"The safest distance between two points is a shadowy line.\"\n\nYour sneak attack criticals now do 10%% more damage."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E4",
+      "FORMID": "0410E4",
+      "EDID": "BobbleheadSGUNBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Because it's easier to have courage from a safe distance away.\"\n\nYou now do 5%% more damage with Guns."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E3",
+      "FORMID": "0410E3",
+      "EDID": "BobbleheadSCNCBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Always be prepared to explain the hows and the whys.\"\n\nYou now do 10%% more damage to robots."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E2",
+      "FORMID": "0410E2",
+      "EDID": "BobbleheadREPRBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Why go down with the ship when you can try to fix it?\"\n\nYour weapons and armor now degrade 10%% slower."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E1",
+      "FORMID": "0410E1",
+      "EDID": "BobbleheadPERBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Only through observation will you perceive weakness.\"\n\nYou are now 10%% more accurate with all ballistic and energy weapons."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410E0",
+      "FORMID": "0410E0",
+      "EDID": "BobbleheadMELEBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"It's important to do business up close and personal.\"\n\nYou now swing Melee Weapons 10%% faster."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DF",
+      "FORMID": "0410DF",
+      "EDID": "BobbleheadMEDIBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"The smart man knows a bandage only hides his wounds.\"\n\nYou are now 10%% less likely to become addicted to chems."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DE",
+      "FORMID": "0410DE",
+      "EDID": "BobbleheadLUKBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"There's only one way to give 101%%.\"\n\nYou now have a 2.5%% boost to critical hit chance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DD",
+      "FORMID": "0410DD",
+      "EDID": "BobbleheadLOCKBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Always strive for the unobtainable.\"\n\nYour bobby pins are now less likely to break."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DC",
+      "FORMID": "0410DC",
+      "EDID": "BobbleheadINTBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"It takes the smartest individuals to realize there's always more to learn.\"\n\nYou now gain 5 extra skill points when reading magazines."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DB",
+      "FORMID": "0410DB",
+      "EDID": "BobbleheadEXPLBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"The best way to solve a problem is to make it go away.\"\n\nExplosives now have 10%% less spread."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410DA",
+      "FORMID": "0410DA",
+      "EDID": "BobbleheadERGWBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Arrive at peaceful resolutions by using superior firepower.\"\n\nWhen using Energy Weapons, you now ignore an additional 5 DT."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410D9",
+      "FORMID": "0410D9",
+      "EDID": "BobbleheadENDBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Always be ready to take one for the team.\"\n\nYour Damage Resistance has been permanently increased by 5%%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410D8",
+      "FORMID": "0410D8",
+      "EDID": "BobbleheadCHABuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Nothing says pizzazz like a winning smile.\"\n\nCompanions now deal an additional 10%% damage and have an additional 10%% damage resistance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410D7",
+      "FORMID": "0410D7",
+      "EDID": "BobbleheadBGUNBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"The best way to win an argument is to be the loudest.\"\n\nYou now do 5%% more damage with any Big Gun."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410D6",
+      "FORMID": "0410D6",
+      "EDID": "BobbleheadBARTBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Never forget to walk away with more than you've brought.\"\n\nItems you buy now cost 5%% less."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410D5",
+      "FORMID": "0410D5",
+      "EDID": "BobbleheadAGLBuffMessage",
+      "FULL": "Bobblehead encontrado",
+      "DESC": "You've found a Vault-Tec Limited Edition Bobblehead!\n\nThe inscription on the base reads \"Never be afraid to dodge the sensitive issues.\"\n\nYou now run 5%% faster."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410BF",
+      "FORMID": "0410BF",
+      "EDID": "BobbleheadSTRMessage",
+      "DESC": "\"É essencial que você suporte qualquer peso colocado sobre seus ombros.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:038E1F",
+      "FORMID": "038E1F",
+      "EDID": "SchematicsWorkbenchFailureGenericMsg",
+      "FULL": "Não é possível criar arma",
+      "DESC": "You don't know how to make that weapon yet."
+    },
+    {
+      "FORM": "@FalloutNV.esm:038AE6",
+      "FORMID": "038AE6",
+      "EDID": "CG03GoatQuestion05",
+      "FULL": "G.O.A.T. Pergunta 5",
+      "DESC": "Sua avó te convida para um chá, mas você se surpreende quando ela te dá uma pistola e ordena que você mate outro residente da Vault. O que você faz?",
+      "ITXT": [
+        "Obey your elder and kill the resident with the pistol.",
+        "Offer your most prized possession for the resident’s life.",
+        "Peça à vovó um pouco de cianeto para colocar na próxima refeição do morador.",
+        "Throw your tea in granny’s face."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:0388D4",
+      "FORMID": "0388D4",
+      "EDID": "DCWorld11GeneratorRepairMsg",
+      "DESC": "Você consertou o gerador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03889D",
+      "FORMID": "03889D",
+      "EDID": "ShalebridgeEggPileNoSkillMsg",
+      "DESC": "This pile of eggs must be how the forager ants sustain their numbers. With a little more insight, you may be able to figure out how to use these eggs to your advantage.\n(Science 70, Medicine 40 or Intelligence 8 required.)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038895",
+      "FORMID": "038895",
+      "EDID": "TimebombHealMsg",
+      "DESC": "Depois de alguns sustos, você consegue costurar os ferimentos do Timebomb. Ele deve ficar bem."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03887D",
+      "FORMID": "03887D",
+      "EDID": "TrapComputerDetectMsg",
+      "DESC": "The computer has been rigged to explode.\nIt could be possible to disarm and remove the grenade.",
+      "ITXT": [
+        "Leave it alone.",
+        "Attempt to defuse."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:000189",
+      "FORMID": "000189",
+      "EDID": "HelpCaravanContractWar",
+      "FULL": "Caravan: Guerra de Contratos",
+      "DESC": "Most game play in Caravan occurs during the Contract War. In this phase, both players are attempting to build their caravans and get them signed. To do this, their caravan must be neither light (below 21) or burdened (over 26). They must also compete with their opponent on the same track to prevent being outbid within the legal range.\n\nOn each of the three tracks, a caravan is considered signed if its value is from 21 to 26 and it is higher than the opponent's caravan on the same track. If two caravans are tied, neither is signed until the tie is broken. The game ends when all three tracks have signed contracts. Note: it is possible for a player to win while signing only two of the three contracts (the third going to the opponent). In such cases, all winnings still go to the overall victor.\n\nPlayers have the following options on their turn:\n\n* Play one card and draw a new card from his or her deck.\n* Discard one card from his or her hand and draw a new card to replace it.\n* Remove one of his or her own caravans from the table, discarding all cards in it.\n\nCaravans are primarily built with numbered cards and aces, which can be placed in the player's caravans according to the following rules. Caravans with more than one card have a direction (ascending or descending) and a suit. Direction is determined by the last two cards in a caravan, suit by the last card in a caravan. All subsequent cards must continue in the same direction OR they must match suit. Cards of the same numerical value cannot be played in sequence, regardless of suit.\n\nFace cards can be attached to numbered cards and aces in any player or opponent caravan. Face cards affect numbered cards and aces in various ways:\n\n* Joker - Played against A, 2-10. Effects change based on whether it is an ace or numbered card (see below). Multiple jokers may be played on the same card.\n* Ace - Value of 1. Jokers played on aces remove all other non-face cards of the ace's suit from the table. E.g. a joker played on an ace of spades removes all spades (except face cards and that card, specifically) from the table.\n* 2-10 - Listed value. Jokers played on these cards remove all other cards of this value from the table. E.g. a joker played on a 4 of hearts removes all 4s (other than that card, specifically) from the table.\n* Jack - Played against A, 2-10. Removes that card, along with any face cards attached to it.\n* Queen - Played against A, 2-10. Reverses the current direction of the hand, changes the current suit of the hand. Multiple queens may be played on the same card.\n* King - Played against A, 2-10. Multplies the value of the card upon which it is played. Multiple kings on the same card will have a multiplicative effect. E.g. one king on a 3 = 6. Two kings on a 3 = 12."
+    }
+  ]
+}

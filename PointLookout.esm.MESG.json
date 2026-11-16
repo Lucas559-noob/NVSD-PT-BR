@@ -1,0 +1,418 @@
+{
+  "MESG": [
+    {
+      "FORM": "@PointLookout.esm:00ED27",
+      "FORMID": "00ED27",
+      "EDID": "DLC04BogBobbleLuckMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Sem mãe, vivendo em uma Wasteland pós-nuclear e sem amigo algum. Acho que você não foi abençoado.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00B36F",
+      "FORMID": "00B36F",
+      "EDID": "DLC04BogBobbleCharismaMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Bah. Se meu filho fosse assim, eu também o abandonaria.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00B36A",
+      "FORMID": "00B36A",
+      "EDID": "DLC04BogBobbleAgilityMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Não é engraçado como tudo que você chega perto acaba indo embora?\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00731E",
+      "FORMID": "00731E",
+      "EDID": "DLC04StartMessage",
+      "FULL": "Point Lookout",
+      "DESC": "Um barco ancorou na foz do Rio Potomac, carregando mercadorias da península distante de Point Lookout. \n\nO Capitão oferece passagem para Point Lookout a qualquer mercenário, caçador de tesouro ou aventureiro que procura explorar a nova terra."
+    },
+    {
+      "FORM": "@PointLookout.esm:011186",
+      "FORMID": "011186",
+      "EDID": "DLC04FF06PlikDeathMSG",
+      "DESC": "Plik morreu."
+    },
+    {
+      "FORM": "@PointLookout.esm:003FE7",
+      "FORMID": "003FE7",
+      "EDID": "DLC04FF03StillRepairMSG",
+      "FULL": "Alambique de Marguerite",
+      "DESC": "O velho alambique de moonshine tem vários acessórios soltos e um pouco de corrosão, mas pode ser reparado com habilidade suficiente.",
+      "ITXT": [
+        "Não fazer nada.",
+        "[Reparo: 44] Realizar os reparos necessários."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED0B",
+      "FORMID": "00ED0B",
+      "EDID": "DLC04FF03StillRepairFailMSG",
+      "FULL": "Alambique de Marguerite",
+      "DESC": "Falta-lhe habilidade para executar o reparo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED0C",
+      "FORMID": "00ED0C",
+      "EDID": "DLC04FF03StillRepairDoneMSG",
+      "FULL": "Alambique de Marguerite",
+      "DESC": "O alambique de moonshine pode estar velho, mas está na melhor condição possível para a sua idade.",
+      "ITXT": [
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00AFF5",
+      "FORMID": "00AFF5",
+      "EDID": "DLC04FF03FailMSG",
+      "DESC": "Marguerite morreu."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E3B3",
+      "FORMID": "00E3B3",
+      "EDID": "DLC04FF02ObadiahDeathMSG",
+      "DESC": "Obadiah Blackhall morreu."
+    },
+    {
+      "FORM": "@PointLookout.esm:00E3B5",
+      "FORMID": "00E3B5",
+      "EDID": "DLC04FF02DunwichMSG02",
+      "FULL": "Obelisco de Dunwich",
+      "DESC": "Só de estar perto deste Obelisco você fica desconfortável."
+    },
+    {
+      "FORM": "@PointLookout.esm:010AAC",
+      "FORMID": "010AAC",
+      "EDID": "DLC04FF02DunwichMSG01",
+      "FULL": "Obelisco de Dunwich",
+      "DESC": "Este Obelisco compartilha suas origens com o Krivbeknih. Só de estar perto dele você se sente desconfortável.",
+      "ITXT": [
+        "Pressionar o Krivbeknih contra a superfície do Obelisco.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00927A",
+      "FORMID": "00927A",
+      "EDID": "DLC04CathedralDoorMessage",
+      "DESC": "A porta da Casa dos Ewers está trancada.",
+      "ITXT": [
+        "Bater na porta.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED24",
+      "FORMID": "00ED24",
+      "EDID": "DLC04BeachPOIShovelMsg",
+      "DESC": "Você precisa ter uma pá para cavar aqui."
+    },
+    {
+      "FORM": "@PointLookout.esm:006B62",
+      "FORMID": "006B62",
+      "EDID": "DLC04FF05sunkenSubMSG01",
+      "FULL": "Submarino Chinês",
+      "DESC": "Parece haver um botão de autodestruição funcional, mas o mecanismo não faz nada sem a devida autorização.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Confirmar o protocolo de autodestruição."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:005A2A",
+      "FORMID": "005A2A",
+      "EDID": "DLC04TempControlMessageBox",
+      "FULL": "Escolha Sua Aventura",
+      "DESC": "Então, qual vai ser?",
+      "ITXT": [
+        "Instalar o Interferidor.",
+        "Destruir o Interferidor.",
+        "Não fazer porra nenhuma."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00E273",
+      "FORMID": "00E273",
+      "EDID": "DLC04BogBobbleIntelligenceMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Tsk. Tsk. Caiu em outra armadilha. Você é tão estúpido assim?\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00C08B",
+      "FORMID": "00C08B",
+      "EDID": "DLC04BogBobblePerceptionMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Isso não parece certo, isso não tá certo.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00E1FE",
+      "FORMID": "00E1FE",
+      "EDID": "DLC04PlayerBrainMessage",
+      "FULL": "Matéria Cinza",
+      "DESC": "Por alguma razão, você sente uma terrível sensação de perda, como se você estivesse olhando para um nódulo familiar de matéria cinzenta.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Pegar."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:010AC9",
+      "FORMID": "010AC9",
+      "EDID": "DLC04MonumentPlaqueMSG",
+      "FULL": "Monumento Costeiro",
+      "DESC": "Aqui marca o desembarque do Capitão John Smith, após a sua descoberta de Point Lookout em 1612."
+    },
+    {
+      "FORM": "@PointLookout.esm:00731D",
+      "FORMID": "00731D",
+      "EDID": "DLC04DuchessToPointMessage",
+      "FULL": "Viajar para Point Lookout",
+      "DESC": "A Duquesa Gambit está pronta para ir à Point Lookout.",
+      "ITXT": [
+        "Não ir ainda.",
+        "Viajar para Point Lookout."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00FC35",
+      "FORMID": "00FC35",
+      "EDID": "DLC04GhoulEcologyPerkAdded",
+      "FULL": "Ecologia Ghoul",
+      "DESC": "A perk \"Ecologia de Ghoul\" foi adicionada. \n\nVocê agora causa dano adicional contra Ghouls."
+    },
+    {
+      "FORM": "@PointLookout.esm:00FC34",
+      "FORMID": "00FC34",
+      "EDID": "DLC04MirelurkEcologyPerkAdded",
+      "FULL": "Ecologia Mirelurk",
+      "DESC": "A perk \"Ecologia de Mirelurk\" foi adicionada. \n\nVocê agora causa dano adicional contra Mirelurks."
+    },
+    {
+      "FORM": "@PointLookout.esm:011188",
+      "FORMID": "011188",
+      "EDID": "DLC04FF06PerkMSG",
+      "FULL": "Perk Ecologia Ghoul",
+      "DESC": "Você aprendeu a explorar as fraquezas específicas de Ghouls e ganhou +5 de bônus de dano contra eles.",
+      "ITXT": [
+        "Ok"
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:011187",
+      "FORMID": "011187",
+      "EDID": "DLC04FF06PlikNotesMSG",
+      "FULL": "Diário de Campo de Plik",
+      "DESC": "Este livro contém observações e introspecções especificando como caçar e lutar com Ghouls.",
+      "ITXT": [
+        "Ler o livro.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00B040",
+      "FORMID": "00B040",
+      "EDID": "DLC04MQ04CompactorMessageDONE",
+      "FULL": "Compactador de Lixo",
+      "DESC": "O compactador terminou seu trabalho e agora está inativo."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B03F",
+      "FORMID": "00B03F",
+      "EDID": "DLC04MQ04CompactorMessageNO",
+      "FULL": "Compactador de Lixo",
+      "DESC": "O compactador não tem energia."
+    },
+    {
+      "FORM": "@PointLookout.esm:00D200",
+      "FORMID": "00D200",
+      "EDID": "DLC04FF05wantedPosterMSG",
+      "FULL": "Cartaz de Procurado",
+      "DESC": "Boletim: Atenção cidadãos de Point Lookout!\n\nWan Yang, suspeito simpatizante chines e comunista, foi relatado nas proximidades de Point Lookout. Agente Yang pode estar usando um nome falso e\/ou um disfarce. \n\nVocê deve relatar quaisquer suspeitos ou comportamentos estranhos para o Tenentes Krumfolz (DIA) no Escritório Naval dos Estados Unidos localizado em St. Mary's Branch, 1811."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B03E",
+      "FORMID": "00B03E",
+      "EDID": "DLC04MQ04CompactorMessage",
+      "FULL": "Compactador de Lixo",
+      "DESC": "Este compactador irá destruir qualquer coisa que você jogar nele.",
+      "ITXT": [
+        "Jogar o Interferidor de Ondas Cognitivas dentro do compactador.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00D01A",
+      "FORMID": "00D01A",
+      "EDID": "DLC04NoPodMessage",
+      "FULL": "Semente Punga",
+      "DESC": "Você não consegue encontrar mais sementes."
+    },
+    {
+      "FORM": "@PointLookout.esm:008101",
+      "FORMID": "008101",
+      "EDID": "DLC04DuchessNoTravel",
+      "FULL": "Impossível Viajar",
+      "DESC": "Você deve adquirir uma passagem de barco para viajar na Duquesa Gambit.",
+      "ITXT": [
+        "Permanecer aqui."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00731C",
+      "FORMID": "00731C",
+      "EDID": "DLC04DuchessToWastelandMessage",
+      "FULL": "Viajar para a Capital Wasteland",
+      "DESC": "A Duquesa Gambit está pronta para começar sua viagem até a Capital Wasteland.",
+      "ITXT": [
+        "Não estou pronto para ir ainda.",
+        "Viajar para a Capital Wasteland."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3C9",
+      "FORMID": "00B3C9",
+      "EDID": "DLC04MQ04FerrisWheelMessageNO",
+      "FULL": "Roda Gigante",
+      "DESC": "A Roda-Gigante não tem energia."
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3C8",
+      "FORMID": "00B3C8",
+      "EDID": "DLC04MQ04FerrisWheelMessageDONE",
+      "FULL": "Roda Gigante",
+      "DESC": "O Interferidor de Ondas Cognitivas foi instalado."
+    },
+    {
+      "FORM": "@PointLookout.esm:0105E8",
+      "FORMID": "0105E8",
+      "EDID": "DLC04FF05radVentMSG",
+      "FULL": "Ventilação Emitindo Radiação",
+      "DESC": "Radiação está sendo ventilada para a sala. Com um pouco de habilidade, ele pode ser desabilitada, acabando com o fluxo de radiação.",
+      "ITXT": [
+        "Não fazer nada.",
+        "[Reparo: 30] Desativar a ventilação.",
+        "[Reparo: 30] Desativar a ventilação."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00314E",
+      "FORMID": "00314E",
+      "EDID": "DLC04FF02MurderSceneMSG",
+      "FULL": "Assassino!",
+      "DESC": "O cadáver de Marcella encontra-se aqui.  Uma mensagem foi escrita com seu sangue: \n\n\"Devolva o Livro e Você Viverá.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00314C",
+      "FORMID": "00314C",
+      "EDID": "DLC04FF02AltarMSG02",
+      "FULL": "O Púlpito Cerimonial",
+      "DESC": "Se devolver o Krivbeknih você ficará em segurança, mas a vida de Obadiah Blackhall estará perdida.",
+      "ITXT": [
+        "Devolver o Krivbeknih.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00314A",
+      "FORMID": "00314A",
+      "EDID": "DLC04FF02AltarMSG01",
+      "FULL": "O Púlpito Cerimonial",
+      "DESC": "O grande livro colocado neste atril tem de ser o Krivbeknih. Está molhado com o que parece ser sangue fresco.",
+      "ITXT": [
+        "Pegar o Krivbeknih.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:0105E7",
+      "FORMID": "0105E7",
+      "EDID": "DLC04FF05radVentFailureMSG",
+      "FULL": "Ventilação Emitindo Radiação",
+      "DESC": "Falta-lhe habilidade para desabilitar o respiradouro."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED2F",
+      "FORMID": "00ED2F",
+      "EDID": "DLC04BogBobbleEnduranceMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Continue assim, vocês está quase lá... onde quer que 'lá' possa ser... provavelmente lugar nenhum .\""
+    },
+    {
+      "FORM": "@PointLookout.esm:0105D9",
+      "FORMID": "0105D9",
+      "EDID": "DLC04FF05fuseBoxMSG",
+      "FULL": "Caixa de Circuito",
+      "DESC": "Este circuito está ligado diretamente na porta. Um técnico especializado consegue substituir os controles da porta.",
+      "ITXT": [
+        "Não fazer nada.",
+        "[Ciência: 71] Substituir os controles da porta.",
+        "[Ciência: 71] Substituir os controles da porta."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:0105D8",
+      "FORMID": "0105D8",
+      "EDID": "DLC04FF05fuseBoxFailureMSG",
+      "FULL": "Caixa de Circuito",
+      "DESC": "Falta-lhe habilidade para substituir os circuitos"
+    },
+    {
+      "FORM": "@PointLookout.esm:00D70F",
+      "FORMID": "00D70F",
+      "EDID": "DLC04FF05MorgueDrawerYangMSG",
+      "FULL": "Restos da Agente Wan Yang",
+      "DESC": "Você encontrou o que sobrou do agente Yang. Inspecionando os restos de perto, você descobriu um falso dente molar. Há um microfilme dentro que deve conter os códigos de autodestruição do submarino chinês.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Remover os códigos de autodestruição."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:011095",
+      "FORMID": "011095",
+      "EDID": "DLC04MQ02PerkAddedalt02",
+      "FULL": "Poder Punga!",
+      "DESC": "A perk \"Poder Punga!\" foi adicionada. \n\nComer Frutas Punga agora lhe dará Pontos de Ação temporários."
+    },
+    {
+      "FORM": "@PointLookout.esm:011094",
+      "FORMID": "011094",
+      "EDID": "DLC04MQ02PerkAddedalt01",
+      "FULL": "Poder Punga!",
+      "DESC": "A perk \"Poder Punga!\" foi adicionada. \n\nComer Frutas Punga agora lhe dará Pontos de Ação temporários."
+    },
+    {
+      "FORM": "@PointLookout.esm:00ED2B",
+      "FORMID": "00ED2B",
+      "EDID": "DLC04BogBobbleStrengthMessage",
+      "FULL": "Bobblehead Encontrado",
+      "DESC": "Você encontrou um Bubblehead Schmault-Tec Edição Limitada!\n\nA inscrição na base diz: \"Essa é uma situação em que a luta não irá resolver.\""
+    },
+    {
+      "FORM": "@PointLookout.esm:00B3C7",
+      "FORMID": "00B3C7",
+      "EDID": "DLC04MQ04FerrisWheelMessage",
+      "FULL": "Roda Gigante",
+      "DESC": "Instalar o Interferidor de Ondas Cognitivas irá embaralhar as mensagens do Professor Calvert para seus seguidores e permitirá que Desmond possa localizá-lo..",
+      "ITXT": [
+        "Instalar o Interferidor de Ondas Cognitivas.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3DD",
+      "FORMID": "00F3DD",
+      "EDID": "DLC04MQ02PerkAdded",
+      "FULL": "Poder Punga!",
+      "DESC": "A perk \"Poder Punga!\" foi adicionada. \n\nAgora recebe melhores efeitos ao comer Frutas Punga."
+    },
+    {
+      "FORM": "@PointLookout.esm:00F3DC",
+      "FORMID": "00F3DC",
+      "EDID": "DLC04MQ01PerkAdded",
+      "FULL": "Defesa Superior",
+      "DESC": "A perk \"Defesa Superior\" foi adicionada. \n\nVocê agora causa mais dano e tem melhor defesa quando está parado."
+    }
+  ]
+}

@@ -1,0 +1,2104 @@
+{
+  "FACT": [
+    {
+      "FORM": "@Zeta.esm:0058D9",
+      "FORMID": "0058D9",
+      "EDID": "DLC05AbominationFaction",
+      "FULL": "Facção de Abominações"
+    },
+    {
+      "FORM": "@Zeta.esm:0058CE",
+      "FORMID": "0058CE",
+      "EDID": "DLC05RobotFaction",
+      "FULL": "Facção Robótica Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C46",
+      "FORMID": "003C46",
+      "EDID": "DLC05AlienFaction",
+      "FULL": "Facção Alienígena"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C1EB",
+      "FORMID": "00C1EB",
+      "EDID": "DLC04PetDogFaction",
+      "FULL": "Facção do Cão de Recompensa"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBC0",
+      "FORMID": "00BBC0",
+      "EDID": "DLC03WQFEVPatientFaction",
+      "FULL": "Pessoas infectadas com FEV"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00946C",
+      "FORMID": "00946C",
+      "EDID": "DLC03EnclaveBaseDClawFaction",
+      "FULL": "DLC03 Base de Deathclaws da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CCE",
+      "FORMID": "008CCE",
+      "EDID": "DLC03EnclaveBaseRobotFaction",
+      "FULL": "DLC03 Base de Robôs da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003895",
+      "FORMID": "003895",
+      "EDID": "DLC03EnclaveDeathclawFaction",
+      "FULL": "Facção de Deathclaws da Enclave DLC03"
+    },
+    {
+      "FORM": "@ThePitt.esm:00375A",
+      "FORMID": "00375A",
+      "EDID": "DLC01CombatRaiders",
+      "FULL": "Raiders de The Pitt (Facção Raider Principal)"
+    },
+    {
+      "FORM": "@ThePitt.esm:0015DE",
+      "FORMID": "0015DE",
+      "EDID": "DLC01RaiderCheckpointFaction",
+      "FULL": "Raiders no Ponto de Controle da Ponte"
+    },
+    {
+      "FORM": "@Anchorage.esm:005003",
+      "FORMID": "005003",
+      "EDID": "DLC02StrikeTeamFaction4Points",
+      "FULL": "Membro da Equipe de Combate Ponto 4"
+    },
+    {
+      "FORM": "@Anchorage.esm:005002",
+      "FORMID": "005002",
+      "EDID": "DLC02StrikeTeamFaction3Points",
+      "FULL": "Membro da Equipe de Combate Ponto 3"
+    },
+    {
+      "FORM": "@Anchorage.esm:005001",
+      "FORMID": "005001",
+      "EDID": "DLC02StrikeTeamFaction2Points",
+      "FULL": "Membro da Equipe de Combate Ponto 2"
+    },
+    {
+      "FORM": "@Anchorage.esm:005000",
+      "FORMID": "005000",
+      "EDID": "DLC02StrikeTeamFaction1Point",
+      "FULL": "Membro da Equipe de Combate Ponto 1"
+    },
+    {
+      "FORM": "@Anchorage.esm:0043F2",
+      "FORMID": "0043F2",
+      "EDID": "DLC02CombatAmericanFaction",
+      "FULL": "Simulação de Combate Anchorage -- Facção Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:00362E",
+      "FORMID": "00362E",
+      "EDID": "DLC02SoldierTalkFaction",
+      "FULL": "Facção de Conversa de Soldados"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D09",
+      "FORMID": "002D09",
+      "EDID": "DLC02StrikeTeamFaction",
+      "FULL": "Facção da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E21",
+      "FORMID": "000E21",
+      "EDID": "DLC02OutcastFaction",
+      "FULL": "DLC02 Facção Desertora"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D3FE",
+      "FORMID": "01D3FE",
+      "EDID": "BrotherhoodSteelFactionDC",
+      "FULL": "Irmandade de Aço"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEB9",
+      "FORMID": "00DEB9",
+      "EDID": "NVDLC04TunnelerFriendFaction",
+      "FULL": "NVDLC04 Facção dos Escavadores"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B3E5",
+      "FORMID": "00B3E5",
+      "EDID": "NVDLC04Silo02LiftTunnelerFaction",
+      "FULL": "NVDLC04 Silo02 Elevador Facção Escavador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009693",
+      "FORMID": "009693",
+      "EDID": "NVDLC04TempleEyebotFaction",
+      "FULL": "Facção Eyebot para eyebots amigáveis"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00949A",
+      "FORMID": "00949A",
+      "EDID": "NVDLC04TempleBattleFaction",
+      "FULL": "Facção da Batalha no Templo de Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00766C",
+      "FORMID": "00766C",
+      "EDID": "NVDLC04TunnelerFaction",
+      "FULL": "NVDLC04 Facção dos Escavadores"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016156",
+      "FORMID": "016156",
+      "EDID": "NVDLC03PlayerBrainFaction",
+      "FULL": "Facção Cerebral do Jogador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015D76",
+      "FORMID": "015D76",
+      "EDID": "NVDLC03SecuritronDamagedFaction",
+      "FULL": "Facção de Securitron Danificado/Enfurecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015CE9",
+      "FORMID": "015CE9",
+      "EDID": "NVDLC03RoboScorpionGiantFaction",
+      "FULL": "Facção dos Robo-Escorpiões Gigantes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015089",
+      "FORMID": "015089",
+      "EDID": "NVDLC03MuggyFaction",
+      "FULL": "A Facçãozinha do Muggy!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014E29",
+      "FORMID": "014E29",
+      "EDID": "NVDLC03X13RobotFaction",
+      "FULL": "Robôs X13"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013687",
+      "FORMID": "013687",
+      "EDID": "NVDLC03BigEmptyEnemyFaction",
+      "FULL": "Facção Inimiga de Big Empty"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01365E",
+      "FORMID": "01365E",
+      "EDID": "NVDLC03CreatureFaction",
+      "FULL": "Facção de Criaturas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01365D",
+      "FORMID": "01365D",
+      "EDID": "NVDLC03RobotFaction",
+      "FULL": "Facção Robótica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013608",
+      "FORMID": "013608",
+      "EDID": "NVDLC03CyberDogFaction",
+      "FULL": "Facção Cão Ciborgue"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C75",
+      "FORMID": "012C75",
+      "EDID": "NVDLC03X13RoboScorpFaction",
+      "FULL": "Robo-Escorpiões X-13"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0122A0",
+      "FORMID": "0122A0",
+      "EDID": "NVDLC03CorpseFaction",
+      "FULL": "Facção do Traje de Cadáver"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01229F",
+      "FORMID": "01229F",
+      "EDID": "NVDLC03LobotomiteFaction",
+      "FULL": "Facção Lobotomizada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01201C",
+      "FORMID": "01201C",
+      "EDID": "NVDLC03HologramSecurityFaction",
+      "FULL": "Facção de Segurança Holográfica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01201B",
+      "FORMID": "01201B",
+      "EDID": "NVDLC03HologramFriendFaction",
+      "FULL": "Facção Amiga do Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01201A",
+      "FORMID": "01201A",
+      "EDID": "NVDLC03HologramFaction",
+      "FULL": "Facção Genérica de Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00FA4E",
+      "FORMID": "00FA4E",
+      "EDID": "NVDLC03X8PlayerFriendFaction",
+      "FULL": "Facção Amiga do Jogador X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F5CA",
+      "FORMID": "00F5CA",
+      "EDID": "NVDLC03X13HatedFaction",
+      "FULL": "Inimigos do X13"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F441",
+      "FORMID": "00F441",
+      "EDID": "NVDLC03X42DroneFaction",
+      "FULL": "Facção de Drone da Zona Proibida"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E643",
+      "FORMID": "00E643",
+      "EDID": "NVDLC03X42TurretFaction",
+      "FULL": "Facção da Torre da Zona Proibida"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A936",
+      "FORMID": "00A936",
+      "EDID": "NVDLC03ThinkTankFaction",
+      "FULL": "NVDLC03 Facção Think Tank"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D01",
+      "FORMID": "009D01",
+      "EDID": "NVDLC03X8Faction",
+      "FULL": "Facção X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DA9",
+      "FORMID": "006DA9",
+      "EDID": "NVDLC03X13PatrolFaction",
+      "FULL": "Patrulhas de Robôs X13"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011756",
+      "FORMID": "011756",
+      "EDID": "NVDLC02NPCWeaponFaction",
+      "FULL": "Usuários de Armas Exclusivas de NPCs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01172F",
+      "FORMID": "01172F",
+      "EDID": "NVDLC02PainMakersFaction",
+      "FULL": "Fabricantes de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01172E",
+      "FORMID": "01172E",
+      "EDID": "NVDLC02BoneBreakersFaction",
+      "FULL": "Fabricantes de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011523",
+      "FORMID": "011523",
+      "EDID": "NVDLC02FollowsChalkBighornerFaction",
+      "FULL": "Facção para impedir que a FC ataque os Carneiro-Selvagems"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EA9",
+      "FORMID": "010EA9",
+      "EDID": "NVDLC02SorrowsPrisonerFaction",
+      "FULL": "Facção Prisioneiros do Luto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F675",
+      "FORMID": "00F675",
+      "EDID": "NVDLC02TribalsFaction",
+      "FULL": "Facção Tribal DLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F232",
+      "FORMID": "00F232",
+      "EDID": "NVDLC02CrWhiteLegMongrel",
+      "FULL": "Facção Cão Branco Mestiço"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E6F6",
+      "FORMID": "00E6F6",
+      "EDID": "NVDLC02ShamanFaction",
+      "FULL": "Facção Animação Xamã"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B458",
+      "FORMID": "00B458",
+      "EDID": "NVDLC02CrGreenGeckoFaction",
+      "FULL": "Facção dos Geckos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B456",
+      "FORMID": "00B456",
+      "EDID": "NVDLC02CrVoidCritterFaction",
+      "FULL": "Facção para Criaturas do Vazio Usada em Aparições Aleatórias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B455",
+      "FORMID": "00B455",
+      "EDID": "NVDLC02CrGiantRatFaction",
+      "FULL": "Facção dos Ratos Gigantes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B454",
+      "FORMID": "00B454",
+      "EDID": "NVDLC02CrGiantRadscorpionFaction",
+      "FULL": "Facção Escorpião-Radiante Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B452",
+      "FORMID": "00B452",
+      "EDID": "NVDLC02CrCazadorFaction",
+      "FULL": "Facção Cazador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B451",
+      "FORMID": "00B451",
+      "EDID": "NVDLC02CrBigHornerFaction",
+      "FULL": "Facção Big Horner"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B42E",
+      "FORMID": "00B42E",
+      "EDID": "NVDLC02PlayerFaction",
+      "FULL": "NVDLC02 Facção do Jogador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B42D",
+      "FORMID": "00B42D",
+      "EDID": "NVDLC02CrGeckoFaction",
+      "FULL": "Facção dos Geckos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A926",
+      "FORMID": "00A926",
+      "EDID": "NVDLC02DeadHorseFaction",
+      "FULL": "Facção do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A925",
+      "FORMID": "00A925",
+      "EDID": "NVDLC02SorrowsFaction",
+      "FULL": "Facção Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A3",
+      "FORMID": "00A4A3",
+      "EDID": "NVDLC02WhiteLegsAggressiveFaction",
+      "FULL": "Inimigo dos White Legs do Jogador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A2",
+      "FORMID": "00A4A2",
+      "EDID": "NVDLC02WhiteLegsFaction",
+      "FULL": "White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F66",
+      "FORMID": "009F66",
+      "EDID": "NVDLC02HappyTrailsCaravanFaction",
+      "FULL": "Facção Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EF1",
+      "FORMID": "010EF1",
+      "EDID": "NVDLC01TrapFaction",
+      "FULL": "Facção da Armadilha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB8F",
+      "FORMID": "00FB8F",
+      "EDID": "NVDLC01HologramStarletFaction",
+      "FULL": "Facção de Estrela Holográfica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4E6",
+      "FORMID": "00D4E6",
+      "EDID": "NVDLC01AntiGhostFaction",
+      "FULL": "Facção Anti-Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CDBC",
+      "FORMID": "00CDBC",
+      "EDID": "NVDLC01DogAttackFaction",
+      "FULL": "Cachorro Come Inimigos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4F6",
+      "FORMID": "00C4F6",
+      "EDID": "NVDLC01DogFaction",
+      "FULL": "Facção Cão e Deus"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4F5",
+      "FORMID": "00C4F5",
+      "EDID": "NVDLC01DeanFaction",
+      "FULL": "Facção Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE28",
+      "FORMID": "00AE28",
+      "EDID": "NVDLC01ElijahFaction",
+      "FULL": "Facção Pai Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A56B",
+      "FORMID": "00A56B",
+      "EDID": "NVDLC01VaultSecurityFaction",
+      "FULL": "Facção de Segurança do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:009254",
+      "FORMID": "009254",
+      "EDID": "NVDLC01HologramFaction",
+      "FULL": "Holograma Facção Genérica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:009253",
+      "FORMID": "009253",
+      "EDID": "NVDLC01HologramFriendFaction",
+      "FULL": "Facção Amiga do Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:009252",
+      "FORMID": "009252",
+      "EDID": "NVDLC01HologramSecurityFaction",
+      "FULL": "Facção de Segurança Holográfica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00923B",
+      "FORMID": "00923B",
+      "EDID": "NVDLC01SuitesFaction",
+      "FULL": "Hologramas das Suítes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00923A",
+      "FORMID": "00923A",
+      "EDID": "NVDLC01ChristineFaction",
+      "FULL": "Facção Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:001198",
+      "FORMID": "001198",
+      "EDID": "NVDLC01GhostFaction",
+      "FULL": "Facção dos Fantasmas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B76D",
+      "FORMID": "17B76D",
+      "EDID": "OmertaBossFaction2",
+      "FULL": "Facção Chefe Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A637",
+      "FORMID": "17A637",
+      "EDID": "VVault21Private",
+      "FULL": "Serviço Particular do Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A17B",
+      "FORMID": "17A17B",
+      "EDID": "CrimsonCaravanAnimalFaction",
+      "FULL": "Facção Animal da Caravana Vermelha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:179162",
+      "FORMID": "179162",
+      "EDID": "PrivateKowalskiFaction",
+      "FULL": "Facção Soldado Kowalski"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1776CA",
+      "FORMID": "1776CA",
+      "EDID": "VMS21aJoanaFaction",
+      "FULL": "Facção para Bye Bye Love"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176F0D",
+      "FORMID": "176F0D",
+      "EDID": "ArcadeFaction",
+      "FULL": "Facção de Arcade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174426",
+      "FORMID": "174426",
+      "EDID": "VCatoHostiliusFaction",
+      "FULL": "Facção Cato Hostilius"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174363",
+      "FORMID": "174363",
+      "EDID": "WWAlienFaction",
+      "FULL": "Facção Alienígena do Ermo Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173EEF",
+      "FORMID": "173EEF",
+      "EDID": "VMojaveMercenary",
+      "FULL": "Facção Mercenária de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1736FF",
+      "FORMID": "1736FF",
+      "EDID": "DontTazeMeBroFaction",
+      "FULL": "Facção Segura do Portão de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172946",
+      "FORMID": "172946",
+      "EDID": "NVBuzzed",
+      "FULL": "Preciso dizer mais?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A8A0",
+      "FORMID": "16A8A0",
+      "EDID": "NCRFactionTechMineNV",
+      "FULL": "Mina Techatticup da República da Nova Califórnia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1691EA",
+      "FORMID": "1691EA",
+      "EDID": "SunnySmilesFaction",
+      "FULL": "Facção Sunny Smiles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168992",
+      "FORMID": "168992",
+      "EDID": "VJackalsGangFaction",
+      "FULL": "Chacais"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1680A8",
+      "FORMID": "1680A8",
+      "EDID": "RemnantsFaction",
+      "FULL": "Facção Remanescentes da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1680A6",
+      "FORMID": "1680A6",
+      "EDID": "DoctorHenryFaction",
+      "FULL": "Facção Dr. Henry"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1680A5",
+      "FORMID": "1680A5",
+      "EDID": "TheFortAnimalFaction",
+      "FULL": "A Facção Animal do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673D4",
+      "FORMID": "1673D4",
+      "EDID": "VES0xGeckomanFaction",
+      "FULL": "Facção Geckoman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1672C9",
+      "FORMID": "1672C9",
+      "EDID": "JacobstownDialogueFaction",
+      "FULL": "Diálogo da Facção de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1658BF",
+      "FORMID": "1658BF",
+      "EDID": "HenryJamisonFaction",
+      "FULL": "Facção Henry Jamison"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165078",
+      "FORMID": "165078",
+      "EDID": "VERT2NiptonCaravanFaction",
+      "FULL": "Facção de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1639DA",
+      "FORMID": "1639DA",
+      "EDID": "VFSGarretGuardFaction",
+      "FULL": "Guardiões do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163371",
+      "FORMID": "163371",
+      "EDID": "FreesideGrannyGangFaction",
+      "FULL": "Gangue das Vovós de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631EB",
+      "FORMID": "1631EB",
+      "EDID": "VMS38RedLucyPrivate",
+      "FULL": "Facção para a Propriedade da Cama de Red Lucy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16311B",
+      "FORMID": "16311B",
+      "EDID": "VWhiteGloveSocietySnifferFaction",
+      "FULL": "Facção Cheiradora da Sociedade do Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16311A",
+      "FORMID": "16311A",
+      "EDID": "VGoodspringsDialogueFaction",
+      "FULL": "Diálogo Genérico de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163115",
+      "FORMID": "163115",
+      "EDID": "ArmorVWhiteGloveSocietyFaction",
+      "FULL": "Facção da Armadura da Sociedade Veste Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1630BF",
+      "FORMID": "1630BF",
+      "EDID": "BoomerChildFaction",
+      "FULL": "Crianças Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162CAB",
+      "FORMID": "162CAB",
+      "EDID": "GoodspringsRingoFaction",
+      "FULL": "Facção Pessoal de Ringo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162C13",
+      "FORMID": "162C13",
+      "EDID": "CrazedChemAddictFaction",
+      "FULL": "Facção de Viciados Químicos Enlouquecidos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161F35",
+      "FORMID": "161F35",
+      "EDID": "VWhiteGloveSocietyKitchenFaction",
+      "FULL": "Facção de Ranger da Cozinha da White Glove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1616E7",
+      "FORMID": "1616E7",
+      "EDID": "VCrVoidCritterFaction",
+      "FULL": "Facção para Criaturas do Vazio Usada em Gerações Aleatórias"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1602A7",
+      "FORMID": "1602A7",
+      "EDID": "BoomerCookFaction",
+      "FULL": "Cozinheiros Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8DB",
+      "FORMID": "15F8DB",
+      "EDID": "GoodspringsRingoAlliesFaction",
+      "FULL": "Facção Aliados de Ringo de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8C1",
+      "FORMID": "15F8C1",
+      "EDID": "GoodspringsBighornerFaction",
+      "FULL": "Facção Carneiro-Selvagem de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F16E",
+      "FORMID": "15F16E",
+      "EDID": "VWastelandNVBanditViperFaction",
+      "FULL": "Facção Víboras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC58",
+      "FORMID": "15EC58",
+      "EDID": "GoodspringsMilitiaFaction",
+      "FULL": "Milícia de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC29",
+      "FORMID": "15EC29",
+      "EDID": "Vault34SharecropperFaction",
+      "FULL": "Facção Êxodo dos Agricultores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E9E1",
+      "FORMID": "15E9E1",
+      "EDID": "Vault34Faction",
+      "FULL": "Moradores do Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A92B",
+      "FORMID": "15A92B",
+      "EDID": "OrionMorenoFaction",
+      "FULL": "Facção Orion Moreno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1599FE",
+      "FORMID": "1599FE",
+      "EDID": "FreesideAtomicWranglerEscort",
+      "FULL": "Acompanhantes do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15997B",
+      "FORMID": "15997B",
+      "EDID": "FreesidePickpocketFaction",
+      "FULL": "Batedores de Carteira de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1584D7",
+      "FORMID": "1584D7",
+      "EDID": "VCasinoCashierDialogueFaction",
+      "FULL": "Caixa do Cassino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F77",
+      "FORMID": "157F77",
+      "EDID": "CaravanPlayerFaction",
+      "FULL": "Jogadores de Caravana de NPCs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156FA1",
+      "FORMID": "156FA1",
+      "EDID": "NCRCFChavezGangerFaction",
+      "FULL": "Facção Chavez RNCCF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155DBE",
+      "FORMID": "155DBE",
+      "EDID": "CrucifiedFaction",
+      "FULL": "Facção Crucificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155DB5",
+      "FORMID": "155DB5",
+      "EDID": "BoulderCityWorkerFaction",
+      "FULL": "Facção dos Trabalhadores de Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154418",
+      "FORMID": "154418",
+      "EDID": "vCaesarsLegionTheFortFaction",
+      "FULL": "Legião de Caesar - O Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1532B8",
+      "FORMID": "1532B8",
+      "EDID": "VWhiteGloveSocietyDialogueFaction",
+      "FULL": "Facção de Diálogo da Sociedade White Glove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152E91",
+      "FORMID": "152E91",
+      "EDID": "vMojaveCivilianFaction",
+      "FULL": "Civis da Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F446",
+      "FORMID": "14F446",
+      "EDID": "VCrLakeLurkFaction",
+      "FULL": "Facção dos Lakelurks"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F422",
+      "FORMID": "14F422",
+      "EDID": "VCrBigHornerFaction",
+      "FULL": "Facção Big Horner"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3FB",
+      "FORMID": "14F3FB",
+      "EDID": "VCrGiantRatFaction",
+      "FULL": "Facção dos Ratos Gigantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3F9",
+      "FORMID": "14F3F9",
+      "EDID": "VCrFireAntFaction",
+      "FULL": "Facção das Formigas-de-Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3F8",
+      "FORMID": "14F3F8",
+      "EDID": "VCrGiantRadscorpionFaction",
+      "FULL": "Facção Escorpião-Radiante Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3F7",
+      "FORMID": "14F3F7",
+      "EDID": "VCrCazadorFaction",
+      "FULL": "Facção Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3F6",
+      "FORMID": "14F3F6",
+      "EDID": "VCrGoldenGeckoFaction",
+      "FULL": "Facção Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3F5",
+      "FORMID": "14F3F5",
+      "EDID": "VCrFireGeckoFaction",
+      "FULL": "Facção dos Geckos de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14EA1E",
+      "FORMID": "14EA1E",
+      "EDID": "CrucifiedNCRFaction",
+      "FULL": "Facção da NCR Crucificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E9FA",
+      "FORMID": "14E9FA",
+      "EDID": "VHooverDamSecurityFaction",
+      "FULL": "Facção de Diálogo da Segurança da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E9F9",
+      "FORMID": "14E9F9",
+      "EDID": "VHooverDamCrowdFaction",
+      "FULL": "Facção de Diálogo da Multidão da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E8F3",
+      "FORMID": "14E8F3",
+      "EDID": "vFollowerMormonFortDialogueFaction",
+      "FULL": "FoA Antigo Forte Mormon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA53",
+      "FORMID": "14DA53",
+      "EDID": "VHooverDamCaesarsLegionFaction",
+      "FULL": "Facção da Legião de Caesar da Barragem Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B03E",
+      "FORMID": "14B03E",
+      "EDID": "BrotherhoodSteelAllyFaction",
+      "FULL": "Aliado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148A38",
+      "FORMID": "148A38",
+      "EDID": "JacobstownMercenaryFaction",
+      "FULL": "Facção Mercenária de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14823D",
+      "FORMID": "14823D",
+      "EDID": "NightstalkerFaction",
+      "FULL": "Facção Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147DBB",
+      "FORMID": "147DBB",
+      "EDID": "VRRCInitiationFaction",
+      "FULL": "Lutadores da Iniciação dos Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1466F6",
+      "FORMID": "1466F6",
+      "EDID": "JacobstownAnimalFaction",
+      "FULL": "Facção Animal de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1466BD",
+      "FORMID": "1466BD",
+      "EDID": "LakelurkFaction",
+      "FULL": "Lakelurks"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1438BB",
+      "FORMID": "1438BB",
+      "EDID": "VCaesarsLegionHELIOSFaction",
+      "FULL": "Facção de Diálogo HELIOS da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1425A8",
+      "FORMID": "1425A8",
+      "EDID": "vCaesarsLegionMilitaryOfficerDialogueFaction",
+      "FULL": "Facção de Diálogo Militar da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141AA3",
+      "FORMID": "141AA3",
+      "EDID": "VPowderGangerSnifferFaction",
+      "FULL": "Facção Rastreamento da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141AA2",
+      "FORMID": "141AA2",
+      "EDID": "VKhanSnifferFaction",
+      "FULL": "Facção dos Cheiradores dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141AA1",
+      "FORMID": "141AA1",
+      "EDID": "VBOSSnifferFaction",
+      "FULL": "Facção Farejador da BoS"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140D4E",
+      "FORMID": "140D4E",
+      "EDID": "vCaesarsLegionVeteranDialogueFaction",
+      "FULL": "Facção de Diálogo de Veterano da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1400F9",
+      "FORMID": "1400F9",
+      "EDID": "CaesarsLegionTechMineFaction",
+      "FULL": "Facção Techatticup da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F8A6",
+      "FORMID": "13F8A6",
+      "EDID": "vFollowerDoctorDialogueFaction",
+      "FULL": "Facção de Médicos da FoA"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F8A5",
+      "FORMID": "13F8A5",
+      "EDID": "vFollowerGuardDialogueFaction",
+      "FULL": "Facção de Guardas da FoA"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F411",
+      "FORMID": "13F411",
+      "EDID": "NVDrunks",
+      "FULL": "Preciso dizer mais?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F05E",
+      "FORMID": "13F05E",
+      "EDID": "SharecropperFarmsFaction",
+      "FULL": "Facção das Fazendas de Meação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DE87",
+      "FORMID": "13DE87",
+      "EDID": "JacobstownFaction",
+      "FULL": "Facção de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13ACAB",
+      "FORMID": "13ACAB",
+      "EDID": "VCaesarsLegionCCoveExplorerFaction",
+      "FULL": "Exploradores de Cottonwood Cove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139B87",
+      "FORMID": "139B87",
+      "EDID": "VulpesStripFaction",
+      "FULL": "Facção da Strip de Vulpes Inculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137BB7",
+      "FORMID": "137BB7",
+      "EDID": "vCaesarsLegionMilitaryDialogueFaction",
+      "FULL": "Facção de Diálogo Militar da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137324",
+      "FORMID": "137324",
+      "EDID": "VCaesarsLegionCCoveFaction",
+      "FULL": "Facção da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136FCC",
+      "FORMID": "136FCC",
+      "EDID": "TheFortBennyFaction",
+      "FULL": "Facção Pessoal de Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136B28",
+      "FORMID": "136B28",
+      "EDID": "vDialogueHooverDamFaction",
+      "FULL": "Facção de Diálogo da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A25",
+      "FORMID": "136A25",
+      "EDID": "TheFortGladiatorFaction",
+      "FULL": "Facção Gladiador do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13658C",
+      "FORMID": "13658C",
+      "EDID": "VMichaelAngeloFaction",
+      "FULL": "Facção de Michael Angelo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F76",
+      "FORMID": "135F76",
+      "EDID": "BoulderCityHostageFaction",
+      "FULL": "Facção dos Reféns de Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B6E",
+      "FORMID": "134B6E",
+      "EDID": "ArmorVCaesarsLegionFaction",
+      "FULL": "Armadura da Facção da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B6D",
+      "FORMID": "134B6D",
+      "EDID": "ArmorPowderGangerFactionNV",
+      "FULL": "Facção da Armadura da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B6C",
+      "FORMID": "134B6C",
+      "EDID": "ArmorNCRFactionNV",
+      "FULL": "Facção da Armadura da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B6B",
+      "FORMID": "134B6B",
+      "EDID": "ArmorGreatKhansFactionNV",
+      "FULL": "Armadura da Facção dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B6A",
+      "FORMID": "134B6A",
+      "EDID": "ArmorBrotherhoodSteelFaction",
+      "FULL": "Facção Armadura da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B4B",
+      "FORMID": "134B4B",
+      "EDID": "ArmorPowderGangerFactionNVEnemy",
+      "FULL": "Facção da Armadura da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B4A",
+      "FORMID": "134B4A",
+      "EDID": "ArmorBrotherhoodSteelFactionEnemy",
+      "FULL": "Facção Armadura da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B49",
+      "FORMID": "134B49",
+      "EDID": "ArmorVCaesarsLegionFactionEnemy",
+      "FULL": "Armadura da Facção da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B48",
+      "FORMID": "134B48",
+      "EDID": "ArmorGreatKhansFactionNVEnemy",
+      "FULL": "Armadura da Facção dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B47",
+      "FORMID": "134B47",
+      "EDID": "ArmorNCRFactionNVEnemy",
+      "FULL": "Facção da Armadura da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1349D4",
+      "FORMID": "1349D4",
+      "EDID": "SVTurretFaction",
+      "FULL": "Facção da Torreta do Vault Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134420",
+      "FORMID": "134420",
+      "EDID": "TheFortChildFaction",
+      "FULL": "A Facção Infantil do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340E3",
+      "FORMID": "1340E3",
+      "EDID": "SVSentryBotFaction",
+      "FULL": "Facção do Robô Sentinela do Vault Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BBD",
+      "FORMID": "130BBD",
+      "EDID": "NVCCSlaveFaction",
+      "FULL": "Escravos de Cottonwood Cove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AF30",
+      "FORMID": "12AF30",
+      "EDID": "SVProtectronFaction",
+      "FULL": "Facção Protectron do Cofre Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129442",
+      "FORMID": "129442",
+      "EDID": "VNCRStreetMPFaction",
+      "FULL": "PMs de Rua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127477",
+      "FORMID": "127477",
+      "EDID": "OmertaTraitors",
+      "FULL": "Traidores da Facção Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271EE",
+      "FORMID": "1271EE",
+      "EDID": "TheFortSlaveFaction",
+      "FULL": "A Facção de Escravos do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12677F",
+      "FORMID": "12677F",
+      "EDID": "CaesarsLegionNelsonFaction",
+      "FULL": "Facção Nelson da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12676F",
+      "FORMID": "12676F",
+      "EDID": "VNCRSnifferFaction",
+      "FULL": "Facção Farejadora da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252C7",
+      "FORMID": "1252C7",
+      "EDID": "VCaesarsLegionSnifferFaction",
+      "FULL": "Facção de Farejadores da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B4F",
+      "FORMID": "122B4F",
+      "EDID": "VFSDealerFaction",
+      "FULL": "Facção Dixon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E495",
+      "FORMID": "11E495",
+      "EDID": "VVault21Guests2",
+      "FULL": "Hóspedes e Residentes da Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E38D",
+      "FORMID": "11E38D",
+      "EDID": "VVault21Guests",
+      "FULL": "Hóspedes e Residentes da Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E38C",
+      "FORMID": "11E38C",
+      "EDID": "VVault21KeyNPC",
+      "FULL": "NPCs da Missão da Chave do Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D5A5",
+      "FORMID": "11D5A5",
+      "EDID": "VMS18KitchenPatroller",
+      "FULL": "Personagens que patrulham a cozinha do Ultra-Luxe."
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C554",
+      "FORMID": "11C554",
+      "EDID": "OmertaBossFaction",
+      "FULL": "Facção Chefe Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C2C8",
+      "FORMID": "11C2C8",
+      "EDID": "BoulderCityNCRFaction",
+      "FULL": "Facção da NCR de Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCB0",
+      "FORMID": "11BCB0",
+      "EDID": "VFSGateGuardFaction",
+      "FULL": "Robôs Guardiões do Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B9B3",
+      "FORMID": "11B9B3",
+      "EDID": "GeckoFaction",
+      "FULL": "Facção Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11ACC3",
+      "FORMID": "11ACC3",
+      "EDID": "FreesideThugFaction",
+      "FULL": "Facção dos Rufiões de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A9F2",
+      "FORMID": "11A9F2",
+      "EDID": "VNCRStreetFaction",
+      "FULL": "Facção da Rua General"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119866",
+      "FORMID": "119866",
+      "EDID": "VFSVaporizedFaction",
+      "FULL": "Corredores Suicidas de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118368",
+      "FORMID": "118368",
+      "EDID": "VanGraffFaction",
+      "FULL": "Facção Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:117E12",
+      "FORMID": "117E12",
+      "EDID": "FollowersOfTheApocalypseFaction",
+      "FULL": "Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116E22",
+      "FORMID": "116E22",
+      "EDID": "VFSCalebMcCafferyFaction",
+      "FULL": "Caleb McCaffery"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116E21",
+      "FORMID": "116E21",
+      "EDID": "VFSGarretFaction",
+      "FULL": "Gêmeos Garret"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11640A",
+      "FORMID": "11640A",
+      "EDID": "FreesideLocalFaction",
+      "FULL": "Facção Local de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:111484",
+      "FORMID": "111484",
+      "EDID": "KingsFaction",
+      "FULL": "Facção Kings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110FE9",
+      "FORMID": "110FE9",
+      "EDID": "BoulderCityGreatKhanFaction",
+      "FULL": "Grandes Khans de Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3F6",
+      "FORMID": "10B3F6",
+      "EDID": "GoodspringsAnimalFaction",
+      "FULL": "Facção Animal de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C7E",
+      "FORMID": "104C7E",
+      "EDID": "GoodspringsPowderGangFaction",
+      "FULL": "Facção da Gangue da Pólvora de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C6E",
+      "FORMID": "104C6E",
+      "EDID": "GoodspringsFaction",
+      "FULL": "Facção de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10291B",
+      "FORMID": "10291B",
+      "EDID": "FiendsAnimalFaction",
+      "FULL": "Facção Animal dos Demônios"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FED1D",
+      "FORMID": "0FED1D",
+      "EDID": "CrimsonCaravanFactionNV",
+      "FULL": "Facção Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD15B",
+      "FORMID": "0FD15B",
+      "EDID": "DermotandStJamesFactionNV",
+      "FULL": "Dermot e Saint James"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9F4",
+      "FORMID": "0FC9F4",
+      "EDID": "WestsideThugFactionNV",
+      "FULL": "Facção dos Rufiões de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9DD6",
+      "FORMID": "0F9DD6",
+      "EDID": "WestsideFactionNV",
+      "FULL": "Facção de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F7A4E",
+      "FORMID": "0F7A4E",
+      "EDID": "ScorpionsGangFactionNV",
+      "FULL": "Escorpiões de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF323",
+      "FORMID": "0EF323",
+      "EDID": "FiendsFactionNV",
+      "FULL": "Gangue dos Demônios"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE68A",
+      "FORMID": "0EE68A",
+      "EDID": "VCaesarsLegionFaction",
+      "FULL": "Facção da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E74FB",
+      "FORMID": "0E74FB",
+      "EDID": "REPCONHQRobotFaction",
+      "FULL": "Facção de Robôs da REPCONHQ"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5F15",
+      "FORMID": "0E5F15",
+      "EDID": "188GeneralFaction",
+      "FULL": "Facção 188"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E448F",
+      "FORMID": "0E448F",
+      "EDID": "PrimmPetitionFaction",
+      "FULL": "Facção para rastrear cidadãos de Primm que podem assinar a Petição da NCR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32F6",
+      "FORMID": "0E32F6",
+      "EDID": "SammyAndPauline",
+      "FULL": "Sammy e Pauline"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D8039",
+      "FORMID": "0D8039",
+      "EDID": "VMS02NCRFaction",
+      "FULL": "VMS02 Facção da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEDF8",
+      "FORMID": "0CEDF8",
+      "EDID": "McBrideClanFaction",
+      "FULL": "Clã McBride"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CADC1",
+      "FORMID": "0CADC1",
+      "EDID": "SDOFaction",
+      "FULL": "Facção Morte Súbita na Prorrogação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C5CE5",
+      "FORMID": "0C5CE5",
+      "EDID": "FriendshipGalloFaction",
+      "FULL": "Facção Gallo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C4827",
+      "FORMID": "0C4827",
+      "EDID": "HD00TenpennyHouseVendor",
+      "FULL": "Vendedor da Casa da Torre Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BE793",
+      "FORMID": "0BE793",
+      "EDID": "TenpennyGenericResidentFaction",
+      "FULL": "TenpennyHabitantesGenéricosFacção *"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD692",
+      "FORMID": "0BD692",
+      "EDID": "MQ03RobobrainFaction",
+      "FULL": "Facção Robocérebro MQ03"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB9E8",
+      "FORMID": "0BB9E8",
+      "EDID": "NovacGenericTownie",
+      "FULL": "Residentes Genéricos de Novac"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B69D5",
+      "FORMID": "0B69D5",
+      "EDID": "JohnnyWesFaction",
+      "FULL": "Facção Johnny Wes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4221",
+      "FORMID": "0B4221",
+      "EDID": "ShakesVendorFaction",
+      "FULL": "Para fazer com que Shakes, um robô, possa possuir algo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4023",
+      "FORMID": "0B4023",
+      "EDID": "MQ07RoryMaclarenFaction",
+      "FULL": "Facção Rory Maclaren"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22EC",
+      "FORMID": "0B22EC",
+      "EDID": "MS15SydneyFactionPlayer",
+      "FULL": "Companheira Jogadora da Facção Sydney"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22EB",
+      "FORMID": "0B22EB",
+      "EDID": "MS04DoctorLeskoFaction",
+      "FULL": "Facção do Dr. Lesko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22EA",
+      "FORMID": "0B22EA",
+      "EDID": "MQ01SilverFaction",
+      "FULL": "Facção de Silver"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B1610",
+      "FORMID": "0B1610",
+      "EDID": "WarringtonGhoulsFaction",
+      "FULL": "Facção dos Necróticos de Warrington *"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AFC63",
+      "FORMID": "0AFC63",
+      "EDID": "AgathasFaction",
+      "FULL": "Facção da Agatha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD8E",
+      "FORMID": "0ACD8E",
+      "EDID": "GirdershadeFaction",
+      "FULL": "Facção de Girdershade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5EE6",
+      "FORMID": "0A5EE6",
+      "EDID": "BrotherhoodOutcastAllyFaction",
+      "FULL": "Pária da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4727",
+      "FORMID": "0A4727",
+      "EDID": "VMS02AmbusherFaction",
+      "FULL": "VMS02 Emboscada da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A3600",
+      "FORMID": "0A3600",
+      "EDID": "ReillysRangersFactionHostile",
+      "FULL": "Rangers de Reilly Hostis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A01DF",
+      "FORMID": "0A01DF",
+      "EDID": "MisterCrowleyFaction",
+      "FULL": "Facção Mister Crowley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:095B64",
+      "FORMID": "095B64",
+      "EDID": "MS09IanWestFaction",
+      "FULL": "Pequena Facção do Amor do Velho Ian West"
+    },
+    {
+      "FORM": "@FalloutNV.esm:095B61",
+      "FORMID": "095B61",
+      "EDID": "ArefuHostile",
+      "FULL": "Facção Arefu Hostil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0942BE",
+      "FORMID": "0942BE",
+      "EDID": "WastelanderForceGoodbye",
+      "FULL": "Substituir saudações genéricas por despedidas forçadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0929A1",
+      "FORMID": "0929A1",
+      "EDID": "FFEU15Faction",
+      "FULL": "FFE15 facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09189D",
+      "FORMID": "09189D",
+      "EDID": "BloatflyFaction",
+      "FULL": "Facção Mosca-mutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09070E",
+      "FORMID": "09070E",
+      "EDID": "DoctorLiLab",
+      "FULL": "Equipe do Laboratório da Dra. Li"
+    },
+    {
+      "FORM": "@FalloutNV.esm:087352",
+      "FORMID": "087352",
+      "EDID": "RaiderFriendFaction",
+      "FULL": "Usado para jogadores Muito Maus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:084225",
+      "FORMID": "084225",
+      "EDID": "GibsonFaction",
+      "FULL": "Facção da Velha Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0805A3",
+      "FORMID": "0805A3",
+      "EDID": "REPCONNightkinFaction",
+      "FULL": "Facção Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07FC25",
+      "FORMID": "07FC25",
+      "EDID": "REPCONDavisonFaction",
+      "FULL": "Facção do Líder Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F505",
+      "FORMID": "07F505",
+      "EDID": "MysteriousStrangerFaction",
+      "FULL": "Facção Estranho Misterioso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F47B",
+      "FORMID": "07F47B",
+      "EDID": "HD00RoboButler",
+      "FULL": "Facção Mordomo Robótico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E635",
+      "FORMID": "07E635",
+      "EDID": "MQ07CapturedLamplighterFaction",
+      "FULL": "MQ07 Facção Lamplighter Capturado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C722",
+      "FORMID": "07C722",
+      "EDID": "MS09VanceHollyFaction",
+      "FULL": "Facção de Vance e Holly"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B81A",
+      "FORMID": "07B81A",
+      "EDID": "CapitalBuildingTalonFaction",
+      "FULL": "Prédio do Capitólio Companhia Talon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:076D9B",
+      "FORMID": "076D9B",
+      "EDID": "MQ08Vault87Faction",
+      "FULL": "Supermutante da Vault 87"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074EF6",
+      "FORMID": "074EF6",
+      "EDID": "MS17MechanizedFaction",
+      "FULL": "Robôs Administrativos Vault-Tec"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074333",
+      "FORMID": "074333",
+      "EDID": "ArefuEwersFaction",
+      "FULL": "Família Ewers em Arefu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06E794",
+      "FORMID": "06E794",
+      "EDID": "MS15SydneyFaction",
+      "FULL": "Facção Sydney"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06E793",
+      "FORMID": "06E793",
+      "EDID": "MS15ButtonFaction",
+      "FULL": "Exército de Robôs de Button Gwinnett"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06DDF5",
+      "FORMID": "06DDF5",
+      "EDID": "FlakShrapnelSell",
+      "FULL": "Flak & Shrapnel Vendem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06DDF4",
+      "FORMID": "06DDF4",
+      "EDID": "CantelliFamilySell",
+      "FULL": "Família Cantelli Vende"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06A42A",
+      "FORMID": "06A42A",
+      "EDID": "MQ08FawkesFaction",
+      "FULL": "Facção Fawkes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:065374",
+      "FORMID": "065374",
+      "EDID": "TraderFaction",
+      "FULL": "Facção de Comerciantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:061F9D",
+      "FORMID": "061F9D",
+      "EDID": "SurpriseRaiderFaction",
+      "FULL": "Saqueadores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05FF9F",
+      "FORMID": "05FF9F",
+      "EDID": "AnimalFriendFaction",
+      "FULL": "Facção Amiga dos Bichos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:059410",
+      "FORMID": "059410",
+      "EDID": "CantCommonsFaction",
+      "FULL": "Facção de Canterbury Commons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0581F9",
+      "FORMID": "0581F9",
+      "EDID": "MS10OasisFactionEnemy",
+      "FULL": "Facção Oasis - Jogador é Inimigo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04F791",
+      "FORMID": "04F791",
+      "EDID": "FFER66UncleLeoFaction",
+      "FULL": "Tio Leo (supermutante marginalizado)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04E324",
+      "FORMID": "04E324",
+      "EDID": "AngelaDiegoFamily",
+      "FULL": "FF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04DECA",
+      "FORMID": "04DECA",
+      "EDID": "MS10OasisFaction",
+      "FULL": "Facção Oasis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04BB91",
+      "FORMID": "04BB91",
+      "EDID": "MegatonCrimeFaction",
+      "FULL": "Facção de rastreamento de crimes para Megaton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0474B6",
+      "FORMID": "0474B6",
+      "EDID": "FFEU54Faction",
+      "FULL": "FFEU54 Facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:046940",
+      "FORMID": "046940",
+      "EDID": "TrapFaction",
+      "FULL": "Coloque NPCs com armadilhas nesta facção para diálogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0448D2",
+      "FORMID": "0448D2",
+      "EDID": "MS13CantMez",
+      "FULL": "MS13 Não Pode Ser Hipnotizado (substitui outras facções MS13)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0448D1",
+      "FORMID": "0448D1",
+      "EDID": "MS13CanMez",
+      "FULL": "MS13 Pode ser Mesmerizado com o Mesmetron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04443B",
+      "FORMID": "04443B",
+      "EDID": "TalonCompany",
+      "FULL": "Companhia Talon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:041E7D",
+      "FORMID": "041E7D",
+      "EDID": "WastelanderFaction",
+      "FULL": "Facção dos Ermos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0410B5",
+      "FORMID": "0410B5",
+      "EDID": "MQPlayerBOSAllyFaction",
+      "FULL": "Facção Aliada do Jogador na Missão Principal da BoS"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D1FC",
+      "FORMID": "03D1FC",
+      "EDID": "MS13AlwaysMez",
+      "FULL": "MS13 Sempre Mexe com Mesmetron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A584",
+      "FORMID": "03A584",
+      "EDID": "WastelandHunterFaction",
+      "FULL": "Facção para caçadores da região selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A38D",
+      "FORMID": "03A38D",
+      "EDID": "MQ09EnclaveRobotFaction",
+      "FULL": "Facção de Robôs da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A38C",
+      "FORMID": "03A38C",
+      "EDID": "MQ09EnclaveGuardFaction",
+      "FULL": "Facção Guarda do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034773",
+      "FORMID": "034773",
+      "EDID": "ShalebridgeBlackAntFaction",
+      "FULL": "Formigas-pretas de Shalebridge"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033583",
+      "FORMID": "033583",
+      "EDID": "RobotServantFaction",
+      "FULL": "Robôs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03181F",
+      "FORMID": "03181F",
+      "EDID": "MS04AntFriend",
+      "FULL": "MS04 Amigo Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030512",
+      "FORMID": "030512",
+      "EDID": "BrotherhoodSteelGenericFaction",
+      "FULL": "Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0302C8",
+      "FORMID": "0302C8",
+      "EDID": "WastelandScavengerFaction",
+      "FULL": "Facção para saqueadores da Wasteland"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02F561",
+      "FORMID": "02F561",
+      "EDID": "FreedSlaveFaction",
+      "FULL": "Facção para escravos que o jogador libertou"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02F560",
+      "FORMID": "02F560",
+      "EDID": "SlaveFaction",
+      "FULL": "Facção para escravos genéricos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DD9E",
+      "FORMID": "02DD9E",
+      "EDID": "RobcoRobotsHacked",
+      "FULL": "Robôs Robco Hackeados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DD9D",
+      "FORMID": "02DD9D",
+      "EDID": "RobcoPests",
+      "FULL": "Pragas Robco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DC01",
+      "FORMID": "02DC01",
+      "EDID": "RobcoRobots",
+      "FULL": "Robôs Robco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B8D8",
+      "FORMID": "02B8D8",
+      "EDID": "DukovFaction",
+      "FULL": "Facção de Dukov"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B895",
+      "FORMID": "02B895",
+      "EDID": "RepublicOfDaveFaction",
+      "FULL": "República de Dave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02AB90",
+      "FORMID": "02AB90",
+      "EDID": "BigTownFaction",
+      "FULL": "BigTownFacção *"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0295A3",
+      "FORMID": "0295A3",
+      "EDID": "ReillysRangersFaction",
+      "FULL": "Rangers de Reilly"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028ED8",
+      "FORMID": "028ED8",
+      "EDID": "MS06Supermutants",
+      "FULL": "MS06 Supermutantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027FA5",
+      "FORMID": "027FA5",
+      "EDID": "TempleUnionFaction",
+      "FULL": "Templo da União"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0265B3",
+      "FORMID": "0265B3",
+      "EDID": "FFEU01Faction",
+      "FULL": "Facção de Ben Canning"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025A4B",
+      "FORMID": "025A4B",
+      "EDID": "GNRKnightFaction",
+      "FULL": "Cavaleiros da Rádio Galaxy News"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0251D9",
+      "FORMID": "0251D9",
+      "EDID": "MS01RescueFaction",
+      "FULL": "Facção para a sequência de resgate MS01"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0251D8",
+      "FORMID": "0251D8",
+      "EDID": "DoctorsDialogueFaction",
+      "FULL": "Diálogo do Doutor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0244A4",
+      "FORMID": "0244A4",
+      "EDID": "TranquilityLaneFaction",
+      "FULL": "Facção Tranquility Lane"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02147C",
+      "FORMID": "02147C",
+      "EDID": "YaoGuaiFaction",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02147A",
+      "FORMID": "02147A",
+      "EDID": "RadscorpionFaction",
+      "FULL": "Escorpião Radioativos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021479",
+      "FORMID": "021479",
+      "EDID": "MoleRatFaction",
+      "FULL": "Ratos-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021478",
+      "FORMID": "021478",
+      "EDID": "RadRoachFaction",
+      "FULL": "Baratas-radioativas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021476",
+      "FORMID": "021476",
+      "EDID": "RaiderFaction",
+      "FULL": "Saqueadores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021475",
+      "FORMID": "021475",
+      "EDID": "DogFaction",
+      "FULL": "Cães"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021474",
+      "FORMID": "021474",
+      "EDID": "DeathclawFaction",
+      "FULL": "Destroçadores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021473",
+      "FORMID": "021473",
+      "EDID": "CentaurFaction",
+      "FULL": "Centauros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021471",
+      "FORMID": "021471",
+      "EDID": "AntFaction",
+      "FULL": "Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0213FC",
+      "FORMID": "0213FC",
+      "EDID": "MQ01BrotherhoodGNR",
+      "FULL": "Batalha da Irmandade do Aço em GNR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0213FB",
+      "FORMID": "0213FB",
+      "EDID": "MQ01BrotherhoodDCFaction",
+      "FULL": "Facção da Irmandade do Aço em DC (para MQ01)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020F5E",
+      "FORMID": "020F5E",
+      "EDID": "MS09TheFamilyFriendly",
+      "FULL": "Os Familiares"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020365",
+      "FORMID": "020365",
+      "EDID": "MS09TheFamilyHostile",
+      "FULL": "Modo Hostil da Família"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FFB6",
+      "FORMID": "01FFB6",
+      "EDID": "RobotFaction",
+      "FULL": "Robôs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FFB5",
+      "FORMID": "01FFB5",
+      "EDID": "RCCityCouncil",
+      "FULL": "Conselho de Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F1D6",
+      "FORMID": "01F1D6",
+      "EDID": "RCSecurityFaction",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F0F4",
+      "FORMID": "01F0F4",
+      "EDID": "NoCombatFaction",
+      "FULL": "Coloque pessoas que você não quer enfrentar aqui"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F00B",
+      "FORMID": "01F00B",
+      "EDID": "WeatherlyHotelFaction",
+      "FULL": "Facção do Hotel Weatherly"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F00A",
+      "FORMID": "01F00A",
+      "EDID": "SaintMonicaFriends",
+      "FULL": "Igreja Amigos de Santa Mônica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F009",
+      "FORMID": "01F009",
+      "EDID": "MuddyRudderFriends",
+      "FULL": "Amigos do Muddy Rudder"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F008",
+      "FORMID": "01F008",
+      "EDID": "ZimmerFriends",
+      "FULL": "Amigos de Zimmer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F007",
+      "FORMID": "01F007",
+      "EDID": "HargraveFamily",
+      "FULL": "Família Hargrave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EAA0",
+      "FORMID": "01EAA0",
+      "EDID": "FlakAndShrapnel",
+      "FULL": "Flak e Estilhaços"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EA9F",
+      "FORMID": "01EA9F",
+      "EDID": "StaleyFamily",
+      "FULL": "Família Staley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01D3FF",
+      "FORMID": "01D3FF",
+      "EDID": "BrotherhoodOutcastFaction",
+      "FULL": "Pária da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01D3FE",
+      "FORMID": "01D3FE",
+      "EDID": "BrotherhoodSteelFaction",
+      "FULL": "Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01D3FD",
+      "FORMID": "01D3FD",
+      "EDID": "EnclaveFaction",
+      "FULL": "Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01D1EB",
+      "FORMID": "01D1EB",
+      "EDID": "SuperMutantFaction",
+      "FULL": "Supermutantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C6D3",
+      "FORMID": "01C6D3",
+      "EDID": "FeralGhoulFaction",
+      "FULL": "Facção em que necróticos selvagens devem estar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01B2A4",
+      "FORMID": "01B2A4",
+      "EDID": "PlayerFaction",
+      "FULL": "Facção do Jogador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01B1A8",
+      "FORMID": "01B1A8",
+      "EDID": "MS05NukaColaRobot",
+      "FULL": "Robôs Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019392",
+      "FORMID": "019392",
+      "EDID": "BrotherhoodSteelScribeFaction",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019019",
+      "FORMID": "019019",
+      "EDID": "ChengFaction",
+      "FULL": "Chengs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019018",
+      "FORMID": "019018",
+      "EDID": "TenpennyGuardFaction",
+      "FULL": "Guardas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019017",
+      "FORMID": "019017",
+      "EDID": "WellingtonFaction",
+      "FULL": "Wellingtons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018E52",
+      "FORMID": "018E52",
+      "EDID": "TurretFaction",
+      "FULL": "Facção da Torreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003130",
+      "FORMID": "003130",
+      "EDID": "ArefuFaction",
+      "FULL": "Facção de Arefu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00311A",
+      "FORMID": "00311A",
+      "EDID": "TenpennyHostileFaction",
+      "FULL": "Adicione atores que você quer que os guardas ataquem"
+    },
+    {
+      "FORM": "@TaleOfTwoWastelands.esm:01F006",
+      "FORMID": "01F006",
+      "EDID": "YoungFamily",
+      "FULL": "Família jovem"
+    }
+  ]
+}

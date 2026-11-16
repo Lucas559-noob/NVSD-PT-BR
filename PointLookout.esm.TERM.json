@@ -1,0 +1,449 @@
+{
+  "TERM": [
+    {
+      "FORM": "@PointLookout.esm:010AC8",
+      "FORMID": "010AC8",
+      "EDID": "DLC04FF02MarcellaTerminalSubJourno",
+      "FULL": "Terminal de Marcella",
+      "MENU": {
+        "ITXT": [
+          "The Pitt?",
+          "Deixando a Comunidade...",
+          "Estada na Capital Wasteland"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:01064D",
+      "FORMID": "01064D",
+      "EDID": "DLC04FF05campTerminalsubInterrogations",
+      "FULL": "Terminal",
+      "DESC": "Relatórios de Interrogação\n* Os funcionários devem reportar TODAS informações ao Comandante.",
+      "MENU": {
+        "ITXT": [
+          "Doe, John (submarinista)",
+          "ERRO: Arquivo Incompleto",
+          "Yang, Wan"
+        ],
+        "RNAM": [
+          "Carregando Relatório...",
+          "Contatar Oficial Técnico",
+          "Carregando Relatório..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:01064C",
+      "FORMID": "01064C",
+      "EDID": "DLC04FF05campTerminalsubOps",
+      "FULL": "Terminal",
+      "DESC": "Campo Turtledove\nRegistro Diário de Operações",
+      "MENU": {
+        "ITXT": [
+          "Patrulhas de Rota de Fuga",
+          "ERRO: Arquivo Incompleto"
+        ],
+        "RNAM": [
+          "Carregando Registro...",
+          "Contatar Oficial Técnico"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:01064B",
+      "FORMID": "01064B",
+      "EDID": "DLC04FF05campTerminalsubArchives",
+      "FULL": "Terminal",
+      "DESC": "Registros de Inteligências\nPessoa de Interesse\nYang, Wan (falecida)",
+      "MENU": {
+        "ITXT": [
+          "Boletim: Yang Capturado\/Transferido",
+          "ERRO: Arquivo Incompleto",
+          "Comunicado: Pessoa de Interesse",
+          "Fotografia: Yang, Wan (pseudônimo)",
+          "Arquivo de Inteligência: Yang, Wan (pseudônimo)"
+        ],
+        "RNAM": [
+          "Carregando Relatório...",
+          "Contatar Oficial Técnico",
+          "Carregando Relatório...",
+          "Carregando Imagem...",
+          "Carregando Arquivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:01064A",
+      "FORMID": "01064A",
+      "EDID": "DLC04FF05campTerminal",
+      "FULL": "Terminal",
+      "DESC": "Campo Turtledove\nNível de Acesso Alfa\nTerminal de Operações Privadas C.O.",
+      "MENU": {
+        "ITXT": [
+          "ALERTA: Suspeita de Espionagem (Ch.)",
+          "Relatórios de Interrogatórios",
+          "Relatórios de Operações de Campo",
+          "Dossiê de Inteligência: Yang, Wan"
+        ],
+        "RNAM": [
+          "Carregando comunicação de alta prioridade...",
+          "Carregando Sub-Menu...",
+          "Carregando Sub-Menu...",
+          "Carregando Sub-Menu..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:010050",
+      "FORMID": "010050",
+      "EDID": "DLC04FF02MarcellaTerminalSub",
+      "FULL": "Terminal de Marcella",
+      "MENU": {
+        "ITXT": [
+          "Obadiah Blackhall",
+          "Tobar, o Barqueiro",
+          "Cultura Tribal (Catedral)"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00FC2B",
+      "FORMID": "00FC2B",
+      "EDID": "DLC04FF02MarcellaTerminal",
+      "FULL": "Terminal de Marcella",
+      "DESC": "Diário de Campo Privado\nS. Marcella J, Abadia da Estrada\nExpedição Point Lookout \n...\n\"Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida.\"  João 8:12",
+      "MENU": {
+        "ITXT": [
+          "Último Registro <arquivo de áudio>",
+          "Encontrou um aliado?",
+          "Habitantes",
+          "Diário de Viagem"
+        ],
+        "RNAM": [
+          "Áudio armazenado no dispositivo...",
+          "Carregando Anotações...",
+          "Carregando submenu...",
+          "Carregando submenu..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00F31D",
+      "FORMID": "00F31D",
+      "EDID": "DLC04LabTerminalExperement",
+      "FULL": "Terminal",
+      "DESC": "Dpto. Defensa - S. O. en red v78.2",
+      "MENU": {
+        "ITXT": [
+          "Sist. de notas de laboratório"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00F31C",
+      "FORMID": "00F31C",
+      "EDID": "DLC04LabTerminalArchive",
+      "FULL": "Terminal",
+      "DESC": "Dpto. Defensa - S. O. en red v78.2",
+      "MENU": {
+        "ITXT": [
+          "Sistema de Transferência de Mensagem Eletrônica",
+          "Logado como: Adam Tomco"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00F316",
+      "FORMID": "00F316",
+      "EDID": "DLC04LabTerminalHistory",
+      "FULL": "Terminal",
+      "DESC": "Dpto. Defensa - S. O. en red v78.2",
+      "MENU": {
+        "ITXT": [
+          "Sistema de Transferência de Mensagem Eletrônica",
+          "Logado como: Dra. Laura Stewart",
+          "---"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00E763",
+      "FORMID": "00E763",
+      "EDID": "DLC04ReliefTerminalPamphlet",
+      "FULL": "Terminal",
+      "DESC": "A Nova Praga e VOCÊ\nDireitos Autorais e Distribuído por\nPrograma de Aptidão Presidencial (2059)",
+      "MENU": {
+        "ITXT": [
+          "Conheça os Sintomas!",
+          "Lembre-se do C.I.R.",
+          "Proteja-se!",
+          "Registre-se!"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00E758",
+      "FORMID": "00E758",
+      "EDID": "DLC04ReliefTerminalSub",
+      "FULL": "Terminal",
+      "DESC": "Assistência Líder de Unidade\nRegistros Privados",
+      "MENU": {
+        "ITXT": [
+          "Registro 001",
+          "Registro 002",
+          "Registro 003",
+          "Registro 004"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00E756",
+      "FORMID": "00E756",
+      "EDID": "DLC04ReliefTerminal",
+      "FULL": "Terminal",
+      "DESC": "Benevolência Coletiva\nUnidade de Voluntários #MD18-02\nInstituição Sem Fins Lucrativos REGMD982.90.2012\nCondado de St Mary, Área de Point Lookout",
+      "MENU": {
+        "ITXT": [
+          "Parâmetros da Missão",
+          "Informação Pública da Nova Praga",
+          "Registros do Líder da Unidade"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando Sub-Menu..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00D979",
+      "FORMID": "00D979",
+      "EDID": "DLC04FF05BankTellerTerminal",
+      "FULL": "Terminal",
+      "DESC": "Banco Popular de Point Lookout\nFilial da Isla Negra Holdings",
+      "MENU": {
+        "ITXT": [
+          "Atualizações de Segurança",
+          "Atualização de Segurança Nacional",
+          "Anotações de Término de Turno"
+        ],
+        "RNAM": [
+          "Carregando Registro...",
+          "Carregando Registro...",
+          "Carregando Registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00D5DD",
+      "FORMID": "00D5DD",
+      "EDID": "DLC04LabRoundRoomPrimaryTerminal",
+      "FULL": "Terminal de Laboratório Primário",
+      "DESC": "Instalações Médicas St. Aubin\nDivisão de Registros",
+      "MENU": {
+        "ITXT": [
+          "Informações sobre o laboratório aqui!"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:006AB3",
+      "FORMID": "006AB3",
+      "EDID": "DLC04FF05agentKrumfolzTerminal",
+      "FULL": "Terminal do Oficial da AID",
+      "DESC": "Operação de Campo MD-PL-01a (dom.) Marinha dos E.U.A\nTenente Krumfolz, Oficial da AID",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Campo - Captura de Yang\/Transferência",
+          "Comunicado: Pessoa de Interesse",
+          "Fotografia: Wan Yang"
+        ],
+        "RNAM": [
+          "\\.> copiado para o dispositivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00AD4F",
+      "FORMID": "00AD4F",
+      "EDID": "DLC04LabEntranceTurretTerminal",
+      "FULL": "Terminal de Controle de Segurança",
+      "DESC": "-Sistema de Gestão de Intruso RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Alvo<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informação do Sistema"
+        ],
+        "RNAM": [
+          "Dados Apagados.  Tenha Cuidado.",
+          "<!>Por favor, tenha cuidado<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:0073B7",
+      "FORMID": "0073B7",
+      "EDID": "DLC04FF05extractionTerminal",
+      "FULL": "Terminal de Extração",
+      "DESC": "ERRO: SISTEMA NÃO OPERANTE",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Extração"
+        ],
+        "RNAM": [
+          "ERRO! ERRO!"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00E76D",
+      "FORMID": "00E76D",
+      "EDID": "DLC04FF01ByssheTerminalSub",
+      "FULL": "Bysshe Co. Terminal",
+      "DESC": "ERRO: Banco de Dados Corrompido\n(exceção em 01XC91DDDF)\n...11XC91EEHH\n...00XC00DDDF\n\\>_secure_shell_layer <corrompido>",
+      "MENU": {
+        "ITXT": [
+          "<!> Confidencial <!>",
+          "Tentando Recuperar Arquivo...."
+        ],
+        "RNAM": [
+          "Tentando Recuperar Arquivo...."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:002F17",
+      "FORMID": "002F17",
+      "EDID": "DLC04FF01ByssheTerminal",
+      "FULL": "Bysshe Co. Terminal",
+      "DESC": "Bysshe Energy Partners\nEmbarcação de Pesquisa de Gás Natural\nUSS Ozymandias",
+      "MENU": {
+        "ITXT": [
+          "Acessar Suprimentos de Expedição",
+          "Parâmetros da Missão",
+          "Digite o Código Autenticação 001",
+          "Digite o Código Autenticação 001",
+          "Código de Autenticação 001 Aprovado",
+          "Digite o Código Autenticação 002",
+          "Digite o Código Autenticação 002",
+          "Código de Autenticação 002 Aprovado",
+          "Digite o Código Autenticação 003",
+          "Digite o Código Autenticação 003",
+          "Código de Autenticação 003 Aprovado",
+          "ERRO:12XU_user_shell"
+        ],
+        "RNAM": [
+          "Autorização Concedida.",
+          "ERROR: Código de Autenticação Não Encontrado !",
+          "C. Saunders: Autorização Concedida",
+          "C. Saunders: Autorização Concedida",
+          "ERROR: Código de Autenticação Não Encontrado !",
+          "C. Saunders: Autorização Concedida",
+          "C. Saunders: Autorização Concedida",
+          "ERROR: Código de Autenticação Não Encontrado !",
+          "C. Saunders: Autorização Concedida",
+          "C. Saunders: Autorização Concedida",
+          "Violação de Segurança!"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00732D",
+      "FORMID": "00732D",
+      "EDID": "DLC04FF05safehouseTerminal",
+      "FULL": "Terminal do Esconderijo",
+      "DESC": "criptografia k.v1910-mkIV\nnível de acesso GAMMA\n... TRANSMISSÃO SEGURA",
+      "MENU": {
+        "ITXT": [
+          "Bem-vindo aos EUA, Dr. Jiang.",
+          "Fotografia: Wan Yang",
+          "Detalhes da Extração"
+        ],
+        "RNAM": [
+          "Baixando Áudio...",
+          "Arquivado no Dispositivo Local",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00C5E5",
+      "FORMID": "00C5E5",
+      "EDID": "DLC04FF05SubTerminal",
+      "FULL": "Terminal de Operações Submarinas",
+      "DESC": "Submarino Secreto SSN-37-1A\n==================\nShì shàng wú nán shì, \nzhi pà you xin rén",
+      "MENU": {
+        "ITXT": [
+          "Parâmetros da Missão",
+          "Iniciar Autodestruição",
+          "Iniciar Autodestruição",
+          "Status da Autodestruição"
+        ],
+        "RNAM": [
+          "CONFIDENCIAL! Apenas para o Capitão.",
+          "ERRO: Código de Autenticação Não Presente!",
+          "Evacuação Recomendada.",
+          "Protocolo Iniciado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00D5DF",
+      "FORMID": "00D5DF",
+      "EDID": "DLC04LabRoundRoomBypassTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Instalação Médica de St. Aubin\nTerminal de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Anular Trava de Segurança"
+        ],
+        "RNAM": [
+          "Obrigado.  Tenha um bom dia"
+        ]
+      }
+    },
+    {
+      "FORM": "@PointLookout.esm:00E198",
+      "FORMID": "00E198",
+      "EDID": "DLC04LabSecurityHallBypassTerminal",
+      "FULL": "Terminal de segurança",
+      "DESC": "Instalação Médica St. Aubin\nTerminal de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Anular Trava de Segurança"
+        ],
+        "RNAM": [
+          "Obrigado.  Tenha um bom dia"
+        ]
+      }
+    }
+  ]
+}

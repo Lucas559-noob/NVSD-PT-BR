@@ -1,0 +1,892 @@
+{
+  "CONT": [
+    {
+      "FORM": "@PointLookout.esm:0107E2",
+      "FORMID": "0107E2",
+      "EDID": "DLC04HotelWardrobe01",
+      "FULL": "Guarda Roupa"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E1",
+      "FORMID": "0107E1",
+      "EDID": "DLC04HotelDesk01",
+      "FULL": "Escrivaninha"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E0",
+      "FORMID": "0107E0",
+      "EDID": "DLC04HollowRockContainer",
+      "FULL": "Pedra Oca"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DF",
+      "FORMID": "0107DF",
+      "EDID": "DLC04GenericSafeWall01",
+      "FULL": "Cofre de Parede"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DE",
+      "FORMID": "0107DE",
+      "EDID": "DLC04GenericSafeFloor01",
+      "FULL": "Cofre de Chão"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DD",
+      "FORMID": "0107DD",
+      "EDID": "DLC04GenericSafe01",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DC",
+      "FORMID": "0107DC",
+      "EDID": "DLC04GarbageCanUrban03",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DB",
+      "FORMID": "0107DB",
+      "EDID": "DLC04GarbageCanUrban02",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107DA",
+      "FORMID": "0107DA",
+      "EDID": "DLC04GarbageCanUrban01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D9",
+      "FORMID": "0107D9",
+      "EDID": "DLC04Footlocker01Toys",
+      "FULL": "Caixa de Brinquedo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D8",
+      "FORMID": "0107D8",
+      "EDID": "DLC04Footlocker01Household",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D7",
+      "FORMID": "0107D7",
+      "EDID": "DLC04Footlocker01Liquor",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D6",
+      "FORMID": "0107D6",
+      "EDID": "DLC04Footlocker01",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D5",
+      "FORMID": "0107D5",
+      "EDID": "DLC04FilingCabinetBunch04",
+      "FULL": "Armário de Arquivo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D4",
+      "FORMID": "0107D4",
+      "EDID": "DLC04FilingCabinetBunch03",
+      "FULL": "Armário de Arquivo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D3",
+      "FORMID": "0107D3",
+      "EDID": "DLC04FilingCabinetBunch02",
+      "FULL": "Armário de Arquivo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D2",
+      "FORMID": "0107D2",
+      "EDID": "DLC04FilingCabinetBunch01",
+      "FULL": "Armário de Arquivo"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D1",
+      "FORMID": "0107D1",
+      "EDID": "DLC04FilingCabinet",
+      "FULL": "Armário de Arquivo"
+    },
+    {
+      "FORM": "@PointLookout.esm:00422C",
+      "FORMID": "00422C",
+      "EDID": "DLC04FF03rewardFridge",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107D0",
+      "FORMID": "0107D0",
+      "EDID": "DLC04Dumpster02",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107CF",
+      "FORMID": "0107CF",
+      "EDID": "DLC04DeskOfficeMetal",
+      "FULL": "Escrivaninha"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107CE",
+      "FORMID": "0107CE",
+      "EDID": "DLC04DeskOfficeCornerMetal",
+      "FULL": "Escrivaninha"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107CD",
+      "FORMID": "0107CD",
+      "EDID": "DLC04BurialMound03Cont",
+      "FULL": "Enterramento"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107CC",
+      "FORMID": "0107CC",
+      "EDID": "DLC04BurialMound02Cont",
+      "FULL": "Enterramento"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107CB",
+      "FORMID": "0107CB",
+      "EDID": "DLC04BurialMound01Cont",
+      "FULL": "Enterramento"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F759",
+      "FORMID": "00F759",
+      "EDID": "DLC04BeachTreasureChest",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E4CE",
+      "FORMID": "00E4CE",
+      "EDID": "DLC04SafetyDepositBox02",
+      "FULL": "Caixa de Depósito Bancário"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E4CD",
+      "FORMID": "00E4CD",
+      "EDID": "DLC04SafetyDepositBox",
+      "FULL": "Caixa de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:00F0CC",
+      "FORMID": "00F0CC",
+      "EDID": "DLC04HotelSuitCase01",
+      "FULL": "Mala de Viagem"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CE22",
+      "FORMID": "00CE22",
+      "EDID": "DLC04MirelurkEggClutchCont02a",
+      "FULL": "Ninho de Ovos Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E302",
+      "FORMID": "00E302",
+      "EDID": "DLC04FF02MarcellaSafe",
+      "FULL": "Suprimentos Médicos de Marcella"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CE21",
+      "FORMID": "00CE21",
+      "EDID": "DLC04MirelurkEggClutchCont01a",
+      "FULL": "Ninho de Ovos Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:00CC63",
+      "FORMID": "00CC63",
+      "EDID": "DLC04MorgueDrawerEMPTY",
+      "FULL": "Caixa de Restos Vazia"
+    },
+    {
+      "FORM": "@PointLookout.esm:00C2BA",
+      "FORMID": "00C2BA",
+      "EDID": "DLC04BlackboxContainer",
+      "FULL": "Gravador de Caixa Preta"
+    },
+    {
+      "FORM": "@PointLookout.esm:005B6F",
+      "FORMID": "005B6F",
+      "EDID": "DLC04FF05ContactLocker",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:01170B",
+      "FORMID": "01170B",
+      "EDID": "LockerEnclave01Military",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:01170A",
+      "FORMID": "01170A",
+      "EDID": "LockerEnclave01Household",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:011709",
+      "FORMID": "011709",
+      "EDID": "LockerEnclave01Hospital",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:00DE18",
+      "FORMID": "00DE18",
+      "EDID": "DLC04FF05Luggage",
+      "FULL": "Mala para Bagagem"
+    },
+    {
+      "FORM": "@PointLookout.esm:0110D1",
+      "FORMID": "0110D1",
+      "EDID": "DLC04Coffin01ClosedCont",
+      "FULL": "Caixão"
+    },
+    {
+      "FORM": "@PointLookout.esm:010EF2",
+      "FORMID": "010EF2",
+      "EDID": "DLC04VendorContainerHaley",
+      "FULL": "Inventário de Haley"
+    },
+    {
+      "FORM": "@PointLookout.esm:010EF0",
+      "FORMID": "010EF0",
+      "EDID": "DLC04VendorContainerPanada",
+      "FULL": "Mercadorias da Madame Panada"
+    },
+    {
+      "FORM": "@PointLookout.esm:010BCF",
+      "FORMID": "010BCF",
+      "EDID": "DLC04ToolboxContainerLUNCH",
+      "FULL": "Lancheira"
+    },
+    {
+      "FORM": "@PointLookout.esm:009537",
+      "FORMID": "009537",
+      "EDID": "DLC04SeaCaveHiddenChest",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A66",
+      "FORMID": "010A66",
+      "EDID": "DLC04SafetyDepositBox1191",
+      "FULL": "Caixa de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A65",
+      "FORMID": "010A65",
+      "EDID": "DLC04SafetyDepositBox1213",
+      "FULL": "Caixa de Segurança"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A4F",
+      "FORMID": "010A4F",
+      "EDID": "DLC04FF05BankManagerDesk",
+      "FULL": "Escrivaninha de Banqueiro"
+    },
+    {
+      "FORM": "@PointLookout.esm:010A3F",
+      "FORMID": "010A3F",
+      "EDID": "DLC04FF01SampleSiteLocker",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:00E76C",
+      "FORMID": "00E76C",
+      "EDID": "DLC04FF01rewardSafe",
+      "FULL": "Suprimentos de Expedição"
+    },
+    {
+      "FORM": "@PointLookout.esm:010846",
+      "FORMID": "010846",
+      "EDID": "DLC04ToolCabinetMetal",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010845",
+      "FORMID": "010845",
+      "EDID": "DLC04ToolCabinet",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010844",
+      "FORMID": "010844",
+      "EDID": "DLC04ToolboxContainer",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010843",
+      "FORMID": "010843",
+      "EDID": "DLC04SuitCase02",
+      "FULL": "Mala de Viagem"
+    },
+    {
+      "FORM": "@PointLookout.esm:010842",
+      "FORMID": "010842",
+      "EDID": "DLC04SteamerTrunk01",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:010841",
+      "FORMID": "010841",
+      "EDID": "DLC04SchoolDeskRuined01",
+      "FULL": "Escrivaninha Arruinada de Escola"
+    },
+    {
+      "FORM": "@PointLookout.esm:010840",
+      "FORMID": "010840",
+      "EDID": "DLC04RefrigeratorWithLiquor",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:01083F",
+      "FORMID": "01083F",
+      "EDID": "DLC04RefrigeratorWithFood",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:01083E",
+      "FORMID": "01083E",
+      "EDID": "DLC04RefrigeratorMirelurk",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@PointLookout.esm:01083D",
+      "FORMID": "01083D",
+      "EDID": "DLC04OvenRangeDirty01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@PointLookout.esm:01083C",
+      "FORMID": "01083C",
+      "EDID": "DLC04OvenRangeClean01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@PointLookout.esm:01083A",
+      "FORMID": "01083A",
+      "EDID": "DLC04NukaVendingMachineClean",
+      "FULL": "Máquina de Vendas Perfeita"
+    },
+    {
+      "FORM": "@PointLookout.esm:010839",
+      "FORMID": "010839",
+      "EDID": "DLC04NukaVendingMachine",
+      "FULL": "Máquina de Vendas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010838",
+      "FORMID": "010838",
+      "EDID": "DLC04MirelurkEggCont",
+      "FULL": "Ovo Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:010837",
+      "FORMID": "010837",
+      "EDID": "DLC04MirelurkEggClutchCont03",
+      "FULL": "Ninho Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:010836",
+      "FORMID": "010836",
+      "EDID": "DLC04MirelurkEggClutchCont02",
+      "FULL": "Ninho Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:010835",
+      "FORMID": "010835",
+      "EDID": "DLC04MirelurkEggClutchCont01",
+      "FULL": "Ninho Mirelurk"
+    },
+    {
+      "FORM": "@PointLookout.esm:010834",
+      "FORMID": "010834",
+      "EDID": "DLC04MetalBox01School",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:010833",
+      "FORMID": "010833",
+      "EDID": "DLC04MetalBox01Office",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:010832",
+      "FORMID": "010832",
+      "EDID": "DLC04MetalBox01Military",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:010831",
+      "FORMID": "010831",
+      "EDID": "DLC04MetalBox01Metro",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:010830",
+      "FORMID": "010830",
+      "EDID": "DLC04MetalBox01Library",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082F",
+      "FORMID": "01082F",
+      "EDID": "DLC04MetalBox01Household",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082E",
+      "FORMID": "01082E",
+      "EDID": "DLC04MetalBox01Hospital",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082D",
+      "FORMID": "01082D",
+      "EDID": "DLC04MetalBox01Factory",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082C",
+      "FORMID": "01082C",
+      "EDID": "DLC04MetalBox01Commercial",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082B",
+      "FORMID": "01082B",
+      "EDID": "DLC04MetalBin01",
+      "FULL": "Lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:01082A",
+      "FORMID": "01082A",
+      "EDID": "DLC04MailboxDestroyedUnarmed",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@PointLookout.esm:010829",
+      "FORMID": "010829",
+      "EDID": "DLC04MailboxDestroyedSmallGuns",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@PointLookout.esm:010828",
+      "FORMID": "010828",
+      "EDID": "DLC04MailboxDestroyed",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@PointLookout.esm:010827",
+      "FORMID": "010827",
+      "EDID": "DLC04lootUrbanGarbageCan",
+      "FULL": "Lata de lixo"
+    },
+    {
+      "FORM": "@PointLookout.esm:010826",
+      "FORMID": "010826",
+      "EDID": "DLC04LootSafeWallOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010825",
+      "FORMID": "010825",
+      "EDID": "DLC04LootSafeWallMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010824",
+      "FORMID": "010824",
+      "EDID": "DLC04LootSafeWallHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010823",
+      "FORMID": "010823",
+      "EDID": "DLC04LootSafeWallHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010822",
+      "FORMID": "010822",
+      "EDID": "DLC04LootSafeWallFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010821",
+      "FORMID": "010821",
+      "EDID": "DLC04LootSafeOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010820",
+      "FORMID": "010820",
+      "EDID": "DLC04LootSafeMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081F",
+      "FORMID": "01081F",
+      "EDID": "DLC04LootSafeHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081E",
+      "FORMID": "01081E",
+      "EDID": "DLC04LootSafeHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081D",
+      "FORMID": "01081D",
+      "EDID": "DLC04LootSafeFloorOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081C",
+      "FORMID": "01081C",
+      "EDID": "DLC04LootSafeFloorMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081B",
+      "FORMID": "01081B",
+      "EDID": "DLC04LootSafeFloorHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:01081A",
+      "FORMID": "01081A",
+      "EDID": "DLC04LootSafeFloorHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010819",
+      "FORMID": "010819",
+      "EDID": "DLC04LootSafeFloorFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010818",
+      "FORMID": "010818",
+      "EDID": "DLC04LootSafeFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010817",
+      "FORMID": "010817",
+      "EDID": "DLC04LootSafeDrugDealer",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@PointLookout.esm:010816",
+      "FORMID": "010816",
+      "EDID": "DLC04LootMineRND",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010815",
+      "FORMID": "010815",
+      "EDID": "DLC04LootMinePulse",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010814",
+      "FORMID": "010814",
+      "EDID": "DLC04LootMinePlasmaEnclave",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010813",
+      "FORMID": "010813",
+      "EDID": "DLC04LootMinePlasma",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010812",
+      "FORMID": "010812",
+      "EDID": "DLC04LootMineFragLOCK",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010811",
+      "FORMID": "010811",
+      "EDID": "DLC04LootMineFrag",
+      "FULL": "Caixa de Minas"
+    },
+    {
+      "FORM": "@PointLookout.esm:010810",
+      "FORMID": "010810",
+      "EDID": "DLC04LootGunCaseMissileLauncher",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080F",
+      "FORMID": "01080F",
+      "EDID": "DLC04LootGunCaseMiniGun",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080E",
+      "FORMID": "01080E",
+      "EDID": "DLC04LootGunCaseLaserRifle",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080D",
+      "FORMID": "01080D",
+      "EDID": "DLC04LootGunCaseLaserPistol",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080C",
+      "FORMID": "01080C",
+      "EDID": "DLC04LootGunCaseHuntingRifle",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080B",
+      "FORMID": "01080B",
+      "EDID": "DLC04LootGunCaseGatlingLaser",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:01080A",
+      "FORMID": "01080A",
+      "EDID": "DLC04LootGunCaseFlamer",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:010809",
+      "FORMID": "010809",
+      "EDID": "DLC04LootGunCaseChinesePistol",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:010808",
+      "FORMID": "010808",
+      "EDID": "DLC04LootGunCaseChineseAssaultRifle",
+      "FULL": "Maleta de Arma"
+    },
+    {
+      "FORM": "@PointLookout.esm:010807",
+      "FORMID": "010807",
+      "EDID": "DLC04LootGunCabinetWoodRiflesGunpowder",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010806",
+      "FORMID": "010806",
+      "EDID": "DLC04LootGunCabinetWoodRiflesAll",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010805",
+      "FORMID": "010805",
+      "EDID": "DLC04LootGunCabinetWoodRifleLaser",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010804",
+      "FORMID": "010804",
+      "EDID": "DLC04LootGunCabinetWoodPistolsGunpowder",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010803",
+      "FORMID": "010803",
+      "EDID": "DLC04LootGunCabinetWoodPistolsAll",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010802",
+      "FORMID": "010802",
+      "EDID": "DLC04LootGunCabinetWoodPistolLaser",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010801",
+      "FORMID": "010801",
+      "EDID": "DLC04LootGunCabinetMetalRifleLaser",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:010800",
+      "FORMID": "010800",
+      "EDID": "DLC04LootGunCabinetMetalPistolLaser",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FF",
+      "FORMID": "0107FF",
+      "EDID": "DLC04LootGunCabinetMetalBRiflesGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FE",
+      "FORMID": "0107FE",
+      "EDID": "DLC04LootGunCabinetMetalBRiflesAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FD",
+      "FORMID": "0107FD",
+      "EDID": "DLC04LootGunCabinetMetalBPistolsGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FC",
+      "FORMID": "0107FC",
+      "EDID": "DLC04LootGunCabinetMetalBPistolsAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FB",
+      "FORMID": "0107FB",
+      "EDID": "DLC04LootGunCabinetMetalBPistolLaser",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107FA",
+      "FORMID": "0107FA",
+      "EDID": "DLC04LootGunCabinetMetalARiflesGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F9",
+      "FORMID": "0107F9",
+      "EDID": "DLC04LootGunCabinetMetalARiflesAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F8",
+      "FORMID": "0107F8",
+      "EDID": "DLC04LootGunCabinetMetalAPistolsGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F7",
+      "FORMID": "0107F7",
+      "EDID": "DLC04LootGunCabinetMetalAPistolsAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F6",
+      "FORMID": "0107F6",
+      "EDID": "DLC04LootGunCabinetMetalAPistolLaser",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F5",
+      "FORMID": "0107F5",
+      "EDID": "DLC04LootGrenadePulse",
+      "FULL": "Caixa de Granadas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F4",
+      "FORMID": "0107F4",
+      "EDID": "DLC04LootGrenadePlasma",
+      "FULL": "Caixa de Granadas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F3",
+      "FORMID": "0107F3",
+      "EDID": "DLC04LootGrenadeFrag",
+      "FULL": "Caixa de Granadas"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F2",
+      "FORMID": "0107F2",
+      "EDID": "DLC04LootFootlockerOfficeLock",
+      "FULL": "Baú Pessoal"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F1",
+      "FORMID": "0107F1",
+      "EDID": "DLC04LootFootlockerMilitaryLock",
+      "FULL": "Baú Pessoal"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107F0",
+      "FORMID": "0107F0",
+      "EDID": "DLC04LootFootlockerHouseholdLock",
+      "FULL": "Baú Pessoal"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107EF",
+      "FORMID": "0107EF",
+      "EDID": "DLC04LootFootlockerFactoryLock",
+      "FULL": "Baú Pessoal"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107EE",
+      "FORMID": "0107EE",
+      "EDID": "DLC04LootFootlocker01HouseholdLock",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107ED",
+      "FORMID": "0107ED",
+      "EDID": "DLC04LootFirstAidKitLock",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107EC",
+      "FORMID": "0107EC",
+      "EDID": "DLC04LootFirstAidKit",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107EB",
+      "FORMID": "0107EB",
+      "EDID": "DLC04LootDrugKitLock",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107EA",
+      "FORMID": "0107EA",
+      "EDID": "DLC04LootCashRegister",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E9",
+      "FORMID": "0107E9",
+      "EDID": "DLC04LootDrugKit",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E8",
+      "FORMID": "0107E8",
+      "EDID": "DLC04LockerCabinet02",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E7",
+      "FORMID": "0107E7",
+      "EDID": "DLC04Locker01Office",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E6",
+      "FORMID": "0107E6",
+      "EDID": "DLC04Locker01Military",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E5",
+      "FORMID": "0107E5",
+      "EDID": "DLC04Locker01Hospital",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E4",
+      "FORMID": "0107E4",
+      "EDID": "DLC04Locker01Factory",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@PointLookout.esm:0107E3",
+      "FORMID": "0107E3",
+      "EDID": "DLC04LiquorCabinet",
+      "FULL": "Armário"
+    }
+  ]
+}
