@@ -1,0 +1,105 @@
+{
+  "MESG": [
+    {
+      "FORM": "@BrokenSteel.esm:0091D9",
+      "FORMID": "0091D9",
+      "EDID": "DLC03WQ01LepelletierDeadMsg",
+      "FULL": "Proteção do Caminho da Água",
+      "DESC": "A Oficial Lepelletier está morta."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009968",
+      "FORMID": "009968",
+      "EDID": "DLC03WQ02GriffonDeadMsg",
+      "FULL": "A Incrível Aqua Cura!",
+      "DESC": "Griffon está morto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBA1",
+      "FORMID": "00BBA1",
+      "EDID": "DLC03StartMessage",
+      "FULL": "Broken Steel",
+      "DESC": "Broken Steel carregada. Nível máximo aumentado para 30."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003210",
+      "FORMID": "003210",
+      "EDID": "DLC03Freshmeat",
+      "FULL": "Filhote do Dogmeat"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003065",
+      "FORMID": "003065",
+      "EDID": "DLC03TrapRadiationDetectMsg",
+      "DESC": "Sua habilidade de reparação permite a você desarmar a Caixa de Radiação.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Desarmar a Caixa de Radiação."
+      ]
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0027EF",
+      "FORMID": "0027EF",
+      "EDID": "DLC03TrapFieldDisarmDetectMsg",
+      "DESC": "Desativar o Campo de Repulsão? (Ciência 80)\nDefinir uma carga cronometrada? (Explosivos 50)\nEsmagar o Painel de Controle?",
+      "ITXT": [
+        "Não fazer nada.",
+        "Desativar o Campo de Repulsão.",
+        "Definir uma carga cronometrado.",
+        "Esmagar o Painel de Controle."
+      ]
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0027F0",
+      "FORMID": "0027F0",
+      "EDID": "DLC03TrapFieldArmDetectMsg",
+      "DESC": "Ativar o Campo de Repulsão?\n(Ciência %.0f ou superior necessária)",
+      "ITXT": [
+        "Não fazer nada.",
+        "Ativar o Campo de Repulsão."
+      ]
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001052",
+      "FORMID": "001052",
+      "EDID": "DLC03TransitionBink",
+      "DESC": "2 SEMANAS DEPOIS"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C17",
+      "FORMID": "006C17",
+      "EDID": "DLC03PresMetroDoorNoUse",
+      "DESC": "Esta porta não pode ser aberta enquanto não houver energia."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049A8",
+      "FORMID": "0049A8",
+      "EDID": "DLC03MetroActivatedElsewhereMsg",
+      "DESC": "Use o console do vagão da frente para viajar na direção oposta."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00999B",
+      "FORMID": "00999B",
+      "EDID": "DLC03FollowerMessageLeavePuppy",
+      "DESC": "O Filhote de Dogmeat está esperando no Vault 101."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00999A",
+      "FORMID": "00999A",
+      "EDID": "DLC03FollowerMessageDeadPuppy",
+      "DESC": "O filhote de Dogmeat morreu."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD7C",
+      "FORMID": "00BD7C",
+      "EDID": "DLC03FEVwaterMsg",
+      "DESC": "O consumo contínuo da Água infectada com FEV será fatal."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00641F",
+      "FORMID": "00641F",
+      "EDID": "DLC03CantUseMsg",
+      "DESC": "É necessário um fusível para ligar o trem."
+    }
+  ]
+}

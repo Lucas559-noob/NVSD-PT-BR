@@ -1,0 +1,208 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@BrokenSteel.esm:0045B0",
+      "FORMID": "0045B0",
+      "EDID": "DLC03AirlockControl1",
+      "FULL": "Controle da Câmara de Ar"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0031E4",
+      "FORMID": "0031E4",
+      "EDID": "DLC03PresMetroDoor01",
+      "FULL": "Porta do Metro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002D29",
+      "FORMID": "002D29",
+      "EDID": "DLC03RadiationTrap01",
+      "FULL": "Armadilha Radioativa"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0027EA",
+      "FORMID": "0027EA",
+      "EDID": "DLC03ForceFieldControlPanel",
+      "FULL": "Painel de Controle do Campo de Repulsão"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009A5A",
+      "FORMID": "009A5A",
+      "EDID": "DLC03PrMetroColTrainTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0068DA",
+      "FORMID": "0068DA",
+      "EDID": "DLC03AFBArtillerySwitch02",
+      "FULL": "Alternar Artilharia"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004A05",
+      "FORMID": "004A05",
+      "EDID": "DLC03AFBArtillerySwitch01",
+      "FULL": "Alternar Artilharia"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0097A1",
+      "FORMID": "0097A1",
+      "EDID": "testPhilSwitchSequence",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0095B1",
+      "FORMID": "0095B1",
+      "EDID": "DLC03PresMetroRandAnnounceTrig05",
+      "FULL": "Interruptor do Intercomunicador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0095B0",
+      "FORMID": "0095B0",
+      "EDID": "DLC03PresMetroRandAnnounceTrig04",
+      "FULL": "Interruptor do Intercomunicador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00957A",
+      "FORMID": "00957A",
+      "EDID": "DLC03PresMetroRandAnnounceTrig03",
+      "FULL": "Interruptor do Intercomunicador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009579",
+      "FORMID": "009579",
+      "EDID": "DLC03PresMetroRandAnnounceTrig02",
+      "FULL": "Interruptor do Intercomunicador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D69",
+      "FORMID": "000D69",
+      "EDID": "DLC03MetroRideSwitch01",
+      "FULL": "Console do Metro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009542",
+      "FORMID": "009542",
+      "EDID": "DLC03EnclaveRadio",
+      "FULL": "Rádio da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D473",
+      "FORMID": "00D473",
+      "EDID": "DLC03PresMetroWithinSecurityRangeTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009514",
+      "FORMID": "009514",
+      "EDID": "DLC03MainDoorOpen",
+      "FULL": "Painel de Acesso"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049F0",
+      "FORMID": "0049F0",
+      "EDID": "DLC03PowerWorksRadiationTrap",
+      "FULL": "Emissor"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064B6",
+      "FORMID": "0064B6",
+      "EDID": "DLC03PresMetroGhoulWave01Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064AA",
+      "FORMID": "0064AA",
+      "EDID": "DLC03PresMetroDoDamage01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00641C",
+      "FORMID": "00641C",
+      "EDID": "DLC03PresMetroPowerBox",
+      "FULL": "Caixa de Energia"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7F9",
+      "FORMID": "00B7F9",
+      "EDID": "DLC03PPurityKeypadEnter",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B414",
+      "FORMID": "00B414",
+      "EDID": "DLC03PresMetroAutosave02b",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B413",
+      "FORMID": "00B413",
+      "EDID": "DLC03PresMetroAutosave01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B412",
+      "FORMID": "00B412",
+      "EDID": "DLC03PresMetroAutosave01b",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049DC",
+      "FORMID": "0049DC",
+      "EDID": "DLC03PowerWorksTurretHallSwitch01",
+      "FULL": "Interruptor Elétrico de Emergência"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005705",
+      "FORMID": "005705",
+      "EDID": "DLC03TeslaCoil01",
+      "FULL": "Bobina de Tesla"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049AA",
+      "FORMID": "0049AA",
+      "EDID": "DLC03MetroRideEndSwitch",
+      "FULL": "Console do Metro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0072EA",
+      "FORMID": "0072EA",
+      "EDID": "DLC03PresMetroRandAnnounceTrig01",
+      "FULL": "Interruptor do Intercomunicador"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0072D2",
+      "FORMID": "0072D2",
+      "EDID": "DLC03PresMetroComputerAlarmTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007296",
+      "FORMID": "007296",
+      "EDID": "DLC03PowerWorksZMachineFailSwitch",
+      "FULL": "Interruptor de Emergência"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00725E",
+      "FORMID": "00725E",
+      "EDID": "DLC03KnifeSwitch01",
+      "FULL": "Troca de Faca"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049A3",
+      "FORMID": "0049A3",
+      "EDID": "DLC03MetroRideSwitch02",
+      "FULL": "Console do Metro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009B89",
+      "FORMID": "009B89",
+      "EDID": "DLC03MargotHelloTrigger",
+      "FULL": "Mecanismo Ativador de Saudação de Margot"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009AD5",
+      "FORMID": "009AD5",
+      "EDID": "DLC03ForceFieldControlPanelDummy",
+      "FULL": "Painel de Controle do Campo de Repulsão"
+    }
+  ]
+}

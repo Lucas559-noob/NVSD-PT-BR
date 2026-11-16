@@ -1,0 +1,426 @@
+{
+  "NOTE": [
+    {
+      "FORM": "@BrokenSteel.esm:00B9B9",
+      "FORMID": "00B9B9",
+      "EDID": "DLC03PresMetroMaintNote05",
+      "TNAM": "Mecânico: D.T.\n\nTemos uma nova Unidade Sentinela em funcionamento. Bem fodão. Não só tem capacidade de manutenção, para que eu possa comandar remotamente para fazer reparos, como também é uma grande unidade de supressão de motim... podemos usá-lo quando tiver alguma manifestação aqui novamente. Finalmente, uma adição de valor à frota robô."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B9B8",
+      "FORMID": "00B9B8",
+      "EDID": "DLC03PresMetroMaintNote04",
+      "TNAM": "Mecânico: D.T.\n\nOh, hoje foi uma beleza. Fui convocado para a Salão do Senado perto da estação da Casa Branca e alguém decidiu fazer uma declaração política por grafite nas paredes no interior do Salão com mais de uma parte equitativa dos insultos raciais chineses. Eles devem ter quebrado enquanto fechavam e então fez o estrago. Um viva para a segurança... eles realmente derrubaram a bola nesta. Nunca envie um robô para fazer o trabalho de um homem, é o que sempre digo. Passei a maior parte do dia esfregando paredes mais limpas do que sujas e instalando novas luminárias. Que Alegria."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B9B7",
+      "FORMID": "00B9B7",
+      "EDID": "DLC03PresMetroMaintNote03",
+      "TNAM": "Mecânico: D.T.\n\nApós debater durante alguns dias, os poderes decidiram mudar a interface vocal do Mainframe Xoted de masculino para feminino. Por quê? Para eles poderem dar-lhe um nome mais bonito tipo \"Margot\". Então eles farão trotes para a imprensa para que todos possamos ver onde nossos suado dólares dos contribuintes foi gasto. Wow, que colossal desperdício do meu tempo. Agora eu tenho que retirar o conjunto de circuitos do mainframe e liberar toda a memória para colocar a voz.... ótimo, apenas ótimo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B9B6",
+      "FORMID": "00B9B6",
+      "EDID": "DLC03PresMetroMaintNote02",
+      "TNAM": "Mecânico: D.T.\n\nO interruptor que vai da Base de Força Aérea Adams e da linha principal da Casa Branca está aderindo novamente. Enviei uma equipe para repará-lo. Espero que a linha não caia nunca mais. Podemos desviar todos os trens para a linha de entrada alternativa e só executar a metade da agenda por agora. Só uma sugestão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B9B5",
+      "FORMID": "00B9B5",
+      "EDID": "DLC03PresMetroMaintNote01",
+      "TNAM": "Mecânico: D.T.\n\nAinda estamos tendo um pouco de dificuldade para obter o novo Mainframe SYL-02 Xoted adaptado aos nossos sistemas de acionamento de trem aqui. Vai demorar mais de 72 horas para tê-lo em pleno funcionamento. Estou trabalhando em três turnos já a dois dias E os supervisores estão constantemente nas nossas costas nos culpando pelos atrasos por ELES terem comprado um sistema incompatível. Queria apenas dormir e acabar com tudo isso... besteira do ensino médio. Estou perdido, estou enlouquecendo e todo mundo sabe... todo mundo está assistindo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007393",
+      "FORMID": "007393",
+      "EDID": "DLC03FireControlNote02",
+      "TNAM": "Conexão com o Satélite \"Bradley-Hercules\" Estabelecida\nExecutando Comprovação Detalhada da Carga\n\nOgiva Salvo Um...     ESGOTADO\nOgiva Salvo Dois...      ESGOTADO\nOgiva Salvo Três...     ESGOTADO\nOgiva Salvo Quatro...     ESGOTADO\nOgiva Salvo Cinco...     PRONTO\nOgiva Salvo Seis...     PRONTO\nOgiva Salvo Sete...     PRONTO\nOgiva Salvo Oito...     PRONTO\n\n*Todos os sistemas de controle de fogo estão VERDES. Satélite pronto para proceder com o lançamento de carga."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007392",
+      "FORMID": "007392",
+      "EDID": "DLC03FireControlNote01",
+      "TNAM": "Conexão com o Satélite \"Bradley-Hercules\" Estabelecida\nDiagnóstico em Andamento\n\nPropulsão...   FALHA\nDispositivo Elétrico...   OK\nDispositivo Ótico...   OK\nNavegação...   OK\nStatus da Carga...   OK\nCarregando Equipamento... FALHA\nLançamento Equipamento... OK\n\n*Sistema de propulsão VERMELHO. Propulsão indisponível.\n*Erro no Carregamento de Carga. Cargas Restantes bloqueadas na posição de lançamento.\n*Todos os sistemas de controle de lançamento estão VERDES. Satélite pronto para proceder com o lançamento da carga."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD68",
+      "FORMID": "00BD68",
+      "EDID": "DLC03CommsTransfer",
+      "TNAM": "Ei, subterrâneos - \n\nEste novo cara que você enviou para ajudar é terrível. Digo, ele mal consegue amarrar os sapatos. Temos um avançado equipamento técnico aqui em cima, e eu não consigo trabalhar nele. Ele provavelmente vai acabar provocando acidentalmente um ataque orbital contra a base ou algo assim.\n\nAqui está uma ideia - que tal você enviar o cara que limpa os banheiros para cá, para que eu possa dar-lhe o trabalho. Será que é realmente difícil encontrar ajuda decente?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD69",
+      "FORMID": "00BD69",
+      "EDID": "DLC03CommsSatelliteEquip",
+      "TNAM": "Ei, subterrâneos, sou eu de novo - \n\nQue tal mandarmos um técnico aqui para trabalhar neste equipamento de rastreamento via satélite? Juro desliga a cada dois dias, e depois literalmente é horas de trabalho para conectar novamente com o satélite.\n\nIsso é ridículo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD6B",
+      "FORMID": "00BD6B",
+      "EDID": "DLC03CommsRobots",
+      "TNAM": "OS ROBÔS ESTÃO PIRANDO! - \n\nUns quinze minutos atrás, todos os robôs aqui ficaram confusos e começaram a atacar todos. Os guardas e o novo cara conseguiram prendê-los na área de armazenamento, mas precisamos de alguém aqui para classificá-los imediatamente.\n\nO que está acontecendo lá em baixo, afinal?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD6A",
+      "FORMID": "00BD6A",
+      "EDID": "DLC03CommsMentatsAbuse",
+      "TNAM": "Caras - \n\nStrike dois. Esta é a segunda vez que você envia um inútil aqui em cima, e estou ficando cansado disso. Pensei que estava ok no início, mas na hora do almoço o efeito Mentats tinha acabado e ele mal conseguia manter uma conversa e muito menos trabalhar em um terminal de controle do satélite. Não posso ter um viciado aqui ocupando espaço assim que suas pílulas acabarem.\n\nConserte isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7FF",
+      "FORMID": "00B7FF",
+      "EDID": "DLC03CitadelArmoryItem04",
+      "FULL": "Item 908776",
+      "TNAM": "Item 908777\n\nAdição\/Remoção: Adição\nTipo de Item: Canhão Tesla\nNúmero: 4\nAutorização: Escrivão Vallincourt\n\nFonte\/Receptor:\nArmas criadas pela equipe do Escrivão Vallincourt estão sendo armazenadas em vários arsenal diferentes por segurança. Escrivão Vallincourt pediu para colocar 4 dos Canhões Tesla neste arsenal."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7FE",
+      "FORMID": "00B7FE",
+      "EDID": "DLC03CitadelArmoryItem03",
+      "FULL": "Item 908776",
+      "TNAM": "Item 908776\n\nAdição\/Remoção: Remoção\nTipo de Item: Granadas de Fragmentação\nNúmero: 12\nAutorização: Paladino Tristan\n\nFonte\/Receptor:\nArmas designadas para o Esquadrão 7 pelo Paladino Tristan para a missão operacional da Base de Força Aérea Adams. Armas igualmente distribuídas para o esquadrão inteiro."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7FD",
+      "FORMID": "00B7FD",
+      "EDID": "DLC03CitadelArmoryItem02",
+      "FULL": "Item 908775",
+      "TNAM": "Item 908775\n\nAdição\/Remoção: Remoção\nTipo de Item: Gatling Laser\nNúmero: 1\nAutorização: Paladino Tristan\n\nFonte\/Receptor:\nArma designada ao Esquadrão 7 pelo Paladino Tristan para a missão operacional na Base de Força Aérea Adams. Assinado pelo Cavaleiro Marcus."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7FC",
+      "FORMID": "00B7FC",
+      "EDID": "DLC03CitadelArmoryItem01",
+      "FULL": "Item 908774",
+      "TNAM": "Item 908774\n\nAdição\/Remoção: Adição\nTipo de Item: Mini-Bomba Nuclear\nNúmero: 3\nAutorização: Cavaleiro Lazarus\n\nFonte\/Receptor:\nRecolhida por uma patrulha nas Ruínas da D.C. Item recuperado de um caminhão do exército tombado e usado pela Companhia Talon como ponto de emboscada. As bombas estavam numa caixa de munição trancada; acreditamos que a Companhia Talon não sabia o que estava dentro da caixa."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97D",
+      "FORMID": "00B97D",
+      "EDID": "DLC03WQNoteMissionsMegNoExists",
+      "FULL": "Missões Atuais",
+      "TNAM": "Andale: Desaparecidos em Combate\n\nBig Town: retornou, missão fracassada - Emboscado por Mutantes, baixas: 1\n\nCidadela: retornou, missão bem-sucedida\n\nCanterbury Commons: em andamento\n\nCasa de Dukov: Desaparecidos em Combate\n\nGNR: em andamento\n\nRepublica de Dave:  Desaparecidos em Combate\n\nRivet City: retornou, missão bem-sucedida\n\nTorre Tenpenny:  Desaparecidos em Combate"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97C",
+      "FORMID": "00B97C",
+      "EDID": "DLC03WQNotePersonalLog11MegExists",
+      "FULL": "Entrada 11",
+      "TNAM": "Estou ignorando os pedidos de Megaton por mais água até que eu possa determinar o que diabos aconteceu. A caravana reportou como bem-sucedida. Não tenho nenhuma razão para duvidar do relatório."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97B",
+      "FORMID": "00B97B",
+      "EDID": "DLC03WQNotePersonalLog10",
+      "FULL": "Entrada 10",
+      "TNAM": "Lepelletier continua enviando-me mensagens solicitando recursos adicionais. Eu não tenho nada para ela. Não tenho certeza se serão capazes de lidar com esta distribuição de água depois de tudo. Ótimo. Vou ficar preso aqui para sempre."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97A",
+      "FORMID": "00B97A",
+      "EDID": "DLC03WQNotePersonalLog9",
+      "FULL": "Entrada 9",
+      "TNAM": "Onde está todo mundo? Um monte de caravanas sumiram."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B979",
+      "FORMID": "00B979",
+      "EDID": "DLC03WQNotePersonalLog8",
+      "FULL": "Entrada 8",
+      "TNAM": "Noa lembo a ultima vez que drumi mais de trinta minutos. Estou tão cansado jkhkjkjsdfg sdfgssdfgsd  ha. aparentemente cochilei e bati com o rosto no teclado. Não aguento masi!!!!11!!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B978",
+      "FORMID": "00B978",
+      "EDID": "DLC03WQNotePersonalLog7",
+      "FULL": "Entrada 7",
+      "TNAM": "Então este Ghoul do Submundo, Griffon, ofereceu-se para pagar-me pelas transferências de água. Lyons não aprovaria, mas eu não me importo. Precisamos das tampas e da tecnologia que ele está oferecendo. Posso usá-los para financiar as outras entregas.\n\nUm dia Lyons tomará juízo e perceberá que vender a água é a coisa mais sábia a se fazer. Deixe a oferta e a demanda de combustível no sistema de entrega. Este coração sangrando de caridade trará abaixo a Irmandade. Estamos em guerra! Não deveríamos estar gastando recursos nas entregas de água. De qualquer forma, nós podemos fazer isso depois que acabar com a Enclave. Às vezes me pergunto se Lyons está ficando velho.\n\nEu deveria excluir essa entrada no caso de alguém importante mexer meus arquivos. Ah, foda-se. Talvez seja hora de eu sair da Irmandade, de qualquer maneira. Não tenho certeza pra onde vou, no entanto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B977",
+      "FORMID": "00B977",
+      "EDID": "DLC03WQNotePersonalLog6",
+      "FULL": "Entrada 6",
+      "TNAM": "Tantas caravanas desaparecidos em ação. As escoltas para Rivet City eu consigo entender. Eles não veem muito sangue, por estarem enfurnados naquele barco. Claro, aqui tem mais Iniciados do que Cavaleiro por causa da guerra. Mas ainda assim, até mesmo um par de Iniciados fortemente armados devem ser capazes de lidar com o escoltamento de uma mula e de um motorista através da Wasteland."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B976",
+      "FORMID": "00B976",
+      "EDID": "DLC03WQNotePersonalLog5",
+      "FULL": "Entrada 5",
+      "TNAM": "Primeira vítima relatada hoje. Sei que em comparação com a guerra o que acontecerá à Cidadela não será nada. Mas ainda assim... Odeio ser responsável, mesmo que indiretamente, pela morte de outro homem. Isso me trás memórias desagradáveis."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B975",
+      "FORMID": "00B975",
+      "EDID": "DLC03WQNotePersonalLog4",
+      "FULL": "Entrada 4",
+      "TNAM": "Dr. Li saiu hoje. Foi para o norte para a Commonwealth. Que vadia.  Ela não conseguia lidar com o fato de que esses idiotas que Rothchild me enviou faziam melhor o seu trabalho. Não é à toa que ela nunca trabalhou sem ajuda, em primeiro lugar. De qualquer forma, foda-se a Dr. Li. Boa viagem."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B974",
+      "FORMID": "00B974",
+      "EDID": "DLC03WQNotePersonalLog3",
+      "FULL": "Entrada 3",
+      "TNAM": "Não estou recebendo nenhum tipo de ajuda. Rothchild ignora minhas mensagens. Os Cavaleiros estão presos com os deveres da entrega e estão mais do que um pouco ressentidos. Não quero ter que fazê-los andar mais do que querem."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B973",
+      "FORMID": "00B973",
+      "EDID": "DLC03WQNotePersonalLog2",
+      "FULL": "Entrada 2",
+      "TNAM": "Acho que Rothchild está realmente chateado comigo neste momento. Ele me mandou escrivães que aparentemente falharam na sua formação Cartografia. Não tenho tempo para isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B972",
+      "FORMID": "00B972",
+      "EDID": "DLC03WQNotePersonalLog1",
+      "FULL": "Entrada 1",
+      "TNAM": "Este lugar é um desastre total. Espero que eu consiga instalar este sistema de distribuição e voltar a Cidadela. Não deve demorar mais que duas semanas. Eu já falei com o Conselho Municipal de Rivet City. Eles timidamente concordaram em assumir a Rede de Distribuição de Água para nós uma vez que temos resolvido seu problema. Algo me diz que será mais de um."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B971",
+      "FORMID": "00B971",
+      "EDID": "DLC03WQNoteRivetCity",
+      "FULL": "Relatório da Missão de Rivet City",
+      "TNAM": "Relatório da Missão de Rivet City:\n\nMissão bem sucedida.\n\n [Devemos apenas construir um gasoduto. - B.]"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B970",
+      "FORMID": "00B970",
+      "EDID": "DLC03WQNoteMissionMegatonMegExists",
+      "FULL": "Relatório da Missão de Megaton",
+      "TNAM": "Relatório da Missão de Megaton:\n\nMissão bem-sucedida. Conheci um errante local fora da cidade, uma tal de Mãe Curie. Entreguemos os bens com as instruções de distribuição."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96F",
+      "FORMID": "00B96F",
+      "EDID": "DLC03WQNoteMissionBigTown",
+      "FULL": "Relatório da Missão de Big Town",
+      "TNAM": "Relatório da Missão de Big Town:\n\nMissão fracassada. Emboscado por Mutantes. Perdemos um iniciado, o motorista da caravana, e a mula. Sobrevivente em estado crítico na Cidadela."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A675",
+      "FORMID": "00A675",
+      "EDID": "DLC03BoSOrders",
+      "FULL": "Ordens"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0081E3",
+      "FORMID": "0081E3",
+      "EDID": "DLC03LDAFBEnclave02Holotape",
+      "FULL": "Fita Holográfica do Esconderijo do Combustível"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0064FF",
+      "FORMID": "0064FF",
+      "EDID": "DLC03WQ03HolyWaterPamphlet",
+      "FULL": "Panfleto da Água Benta",
+      "TNAM": "Cidadãos de Megaton, sua salvação está na nossa mão!\n\nSomos os Apóstolos da Luz Eterna. Para curar esta cidade ferida, nós estamos dispostos a fornecer água benta a todos os suplicantes que desejam purificar-se.\n\nVenha para o nosso monastério em Springvale, e o irmão Gerard vai ministrar todas as suas necessidades.\n\nVamos saciar sua sede com a Água da Luz."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005325",
+      "FORMID": "005325",
+      "EDID": "DLC03EnclaveReport",
+      "FULL": "Relatório do Oficial sobre os Deathclaw",
+      "TNAM": "Nosso destacamento foi estabelecido fora Olney. Mantemos uma distância de segurança e nossas unidades de detenção se instalaram atrás de uma encosta para evitar ser pego pela população deathclaw.  Não temos certeza se essas coisas usam feromônios ou outras substâncias, mas eu não estou tendo tempo para comprovar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B172",
+      "FORMID": "00B172",
+      "EDID": "DLC03WQ02Note",
+      "FULL": "Instruções de Engarrafamento de Griffon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B802",
+      "FORMID": "00B802",
+      "EDID": "DLC03CitadelArmoryPenta03",
+      "FULL": "Relatório do Incidente 08-22-07",
+      "TNAM": "Relatório de Incidente 08-22-77\n\nOficial Informante:  Harold Callahan\n\nUm alarme silencioso tropeçou na Escada 117, e eu imediatamente respondi. Quando me aproximei da entrada da escada, ouvi barulhos como se alguém estivesse em perigo. Peguei minha arma e chutei a porta. Vi Ronald Bales da Inteligência e Análise em uma posição comprometedora com Wilma Firestone, uma secretária da Divisão de Contabilidade. Dei-lhes uma advertência, e disse a Bales que esta era sua quinta e última vez.... na próxima vez que ele for pego realizando este tipo de atividade na propriedade do Pentágono, ele vai ser multado e uma ação disciplinar será recomendada."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B37",
+      "FORMID": "003B37",
+      "EDID": "DLC03WQ01Note",
+      "FULL": "Novo Ponto de Encontro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BD82",
+      "FORMID": "00BD82",
+      "EDID": "DLC03DunbarNote",
+      "FULL": "Nota de Dunbar",
+      "TNAM": "Se você estiver lendo isto, é porque você pode ser capaz de ajudar.\n\nEstamos pensando em ramificar. O Submundo foi um bom começo, mas encontramos um lugar ainda mais seguro para chamarmos de lar.\n\nVelha Olney.\n\nNinguém nunca vai lá. Ninguém jamais pensará em nos procurar lá. Há toneladas de espaço na cidade. Estamos procurando algumas costas fortes para ajudar a derrubar algumas paredes, limpar um pouco, e ajudar a arrumar tudo.\n\n-S"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B968",
+      "FORMID": "00B968",
+      "EDID": "DLC03LagBoltNote",
+      "FULL": "Nota de Lag-Bolt",
+      "TNAM": "Ei, Lags!\n\nÉ o teu mano! Espero que tenha recebido o pacote. Tenho duas dessas coisas feitas especialmente para nós, na Virgínia pelo Alfaiate. Ele é mestre neste tipo de coisas. Sei que você e sua garota vai adorar. Tente não usar muito rápido, se é que você me entende.\n\nAbraços,\nLug-Nut"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B801",
+      "FORMID": "00B801",
+      "EDID": "DLC03CitadelArmoryPenta02",
+      "FULL": "Relatório do Incidente 08-16-07",
+      "TNAM": "Relatório de Incidente 08-16-77\n\nOficial Informante:  Harold Callahan\n\nSecretária Maybel Meyers da Divisão de Contabilidade chamou-nos até aqui e relatou uma briga entre duas outras secretárias. Sargento Deke DaSilva e eu chegamos ao local para encontrar as duas secretárias, Carol Wallace e Isabelle Franks, e estavam brigando no chão. Nós separamos a briga e ouvimos suas declarações. Ms. Wallace estava acusando a Sra. Franks de ser uma \"...espia daqueles bastardos Vermelhos!\" e afirmou que ouviu \"...conversas secretas entre Isabelle e seus conspiradores Chineses!\" Ms. Franks simplesmente declarou que estava \"Falando com o marido sobre os planos para o fim de semana.\" Ambas as senhoras receberam um aviso e foram mandadas para casa por seus supervisores.\n\nAs tensões aumentaram recentemente desde os incidentes no Alasca, e este é apenas um exemplo do efeito que tem sobre todos."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B800",
+      "FORMID": "00B800",
+      "EDID": "DLC03CitadelArmoryPenta01",
+      "FULL": "Relatório do Incidente 08-07-07",
+      "TNAM": "Relatório de Incidente 08-07-77\n\nOficial Informante:  Harold Callahan\n\nO alarme de incêndio soou em cerca de 10:05 na área de venda perto da Cafeteria B3. Imediatamente corri para o local e encontrei o General Robert Dobbs chutando uma máquina de Nuka-Cola repetidamente. General Dobbs ignorou minhas ordens de se retirar e sacou a arma. Ele então disparou 7 tiros na máquina, rompendo várias garrafas e perfurando a caixa de moeda. Após as moedas caírem no chão, ele pegou uma delas e exclamou: \"Roubando de um oficial superior? Você está LOUCO, soldado?\" Ele guardou a arma e olhou para mim, depois para a máquina e simplesmente declarou: \"Bem, não fique aí parado, acredito que este soldado precise de um médico, filho.\"\nO general largou sua ar e ficou na nossa instalação até que chegou a Polícia Metropolitana da D.C e o levou."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007D9D",
+      "FORMID": "007D9D",
+      "EDID": "DLC03LDAFBEnclave01Holotape",
+      "FULL": "Registro do Soldado da Enclave #1"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004A0D",
+      "FORMID": "004A0D",
+      "EDID": "DLC03AFBArtilleryNote01",
+      "FULL": "Nota da Artilharia do Setor 2",
+      "TNAM": "Do Alto Comando da Enclave\nOrdem de Artilharia #553\nSetor 2\n\nA Irmandade de Aço limpou o perímetro exterior da base. Apuramento foi dado para usar os ataques de artilharia no Setor 2 se, e somente se, todos os outros recursos forem esgotados e os alvos serem claramente visíveis.  Agir com extrema cautela."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005326",
+      "FORMID": "005326",
+      "EDID": "DLC03EnclaveOrders",
+      "FULL": "Ordens do Posto Avançado sobre os Deathclaw",
+      "TNAM": "RRD-HA23-P \nBEM-VINDO:  \n\n1.  Estabelecer um perímetro em torno município de Olney.\n\n2.  Verificar os relatórios da população Deathclaw no município e interrogar os superiores sobre suas descobertas.\n\n3.  Adquirir todos os espécimes Deathclaw que conseguir, e minimizar as baixas para população Deathclaw local e pessoal Enclave."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006718",
+      "FORMID": "006718",
+      "EDID": "DLC03FFELD02Holotape",
+      "FULL": "Registro de Mercenário da Companhia Talon #1"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006717",
+      "FORMID": "006717",
+      "EDID": "DLC03FFELD03Holotape",
+      "FULL": "Fita Holográfica de Habitante de Wasteland #1"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003890",
+      "FORMID": "003890",
+      "EDID": "DLC03BS1TelemetryNote",
+      "FULL": "Dados Telemétricos Criptografados",
+      "TNAM": "0001606684200035138800998440055566000\n\n\nXXHF1VR0008BDM9QT0001JPR856BT000"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00997A",
+      "FORMID": "00997A",
+      "EDID": "DLC03PowerWorksAlphaCellEntry01",
+      "FULL": "Entrada da Cela Alfa 01",
+      "TNAM": "Códigodo Projeto: AC-PPE-47\nRelatório: GATS2\n\nEntrada do Projeto 01: Desconstrução\n\nNo primeiro olhar, após o desmantelamento da Célula Alpha, notamos uma estrutura semelhante a uma de nossas células voltaicas padrões.    Após uma investigação mais aprofundada percebemos que o fluido a ser usado como eletrólito é de origem indeterminada, e foi enviada amostras ao nosso laboratório irmão sob a Tarefa: AC-PPE-47-N."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009979",
+      "FORMID": "009979",
+      "EDID": "DLC03PowerWorksControlManifest",
+      "FULL": "Manifesto de Controle",
+      "TNAM": "PPE-46*31BMO\nArmazém: 663\nClasse da Carga: A\nSupervisor da Carga: J. Yackman\n\nConteúdo:\n------------------------------------\n   [Série]        [#]   [Envio]\n01   AZ4-23-165   | 6 |   3G-5\n02   AZ4-23-166   | 3 |   3G-5\n03   AZ4-41-001   | 1 |   3G-5\n04   AZ4-42-103   | 1 |   3G-5\n05   AZ4-50-015   | 2 |   3G-5\n   [Série]        [#]   [Envio]\n06   AZ4-50-067   | 3 |   3G-5\n07   AZ4-5F-000   | 1 |   3G-5\n08   AZ4-68-188   | 4 |   3G-5\n09   AZ4-74-022   | 2 |   3G-5\n10   AZ4-88-252   | 1 |   3G-5"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B957",
+      "FORMID": "00B957",
+      "EDID": "DLC03NN01",
+      "FULL": "Desculpe, Meu Amor"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B956",
+      "FORMID": "00B956",
+      "EDID": "DLC03MuseumAuthorityNote03",
+      "FULL": "Museu Authority - Registro MA-0089",
+      "TNAM": "Registro do Museu Authority MA-0085\n\nJá foi registrado quatro pedidos da Dra. Gillian Taylor do aquário nacional a respeito de um novo tanque que ela quer que seja construído para sua exposição de baleias. Já falei com o diretor Barnicky, e ele afirma que uma nova exposição está fora de questão e a atual está se tornando muito difícil de manter. Diretor Barnicky já falou para o Aquário de San Francisco, e eles concordaram em iniciar a construção de um tanque de tamanho e área de exibição adequada para as baleias da Dra. Taylor. Ele também negociou em transferir a Dra. Taylor para esta instalação, eu apoio essa decisão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B955",
+      "FORMID": "00B955",
+      "EDID": "DLC03MuseumAuthorityNote02",
+      "FULL": "Museu Authority - Registro MA-0089",
+      "TNAM": "Registro do Museu Authority MA-0086\n\nBrantseg do Arquivo Nacional está solicitando um novo pacote de software inteligente para o Protectron \"TJEFF002 Thomas Jefferson\". O software original foi apagado e substituído por um dispositivo de conexão de rádio e um pacote de software de digitalização de frequência que simplesmente recebe e emite transmissões de rádio locais. Sugiro em criptografar o próximo pacote inteligente para que não seja necessário comprar o software."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B954",
+      "FORMID": "00B954",
+      "EDID": "DLC03MuseumAuthorityNote01",
+      "FULL": "Museu Authority - Registro MA-0089",
+      "TNAM": "Registro do Museu Authority MA-0089\n\nRemmings do Museu de Tecnologia está reclamando novamente sobre o mau funcionamento do sistema planetário. Eu já substitui a unidade de reprodução nessa coisa 3 vezes agora. Parece que o sistema para de funcionar e tenta reiniciar, mas em seguida cai de novo... continua repetindo esse ciclo até que seja completamente reinicializado. Sugiro que adquira um novo tipo de sistema no ano que vem. O custo de substituir e montar um novo sistema é mais barato do que ficar consertando toda hora."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0068E3",
+      "FORMID": "0068E3",
+      "EDID": "DLC03AFBArtilleryNote02",
+      "FULL": "Nota de Artilharia do Setor 1",
+      "TNAM": "Do Alto Comando da Enclave\nOrdem de Artilharia #447\nSetor 1\n\nA Irmandade de Aço limpou o perímetro exterior da base. Apuramento foi dado para usar os ataques de artilharia no Setor 1 se, e somente se, todos os outros recursos forem esgotados e os alvos serem claramente visíveis.  Agir com extrema cautela."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B986",
+      "FORMID": "00B986",
+      "EDID": "DLC03WQNoteRequitions",
+      "FULL": "Requisições Disponíveis",
+      "TNAM": "Objetos Disponíveis:\n\n1 Rifle de Plasma\n2 Power Armor Suits\n4 Rifles de Assalto\n1 Mini-gun\n1 Lança-Mísseis (3 mísseis)\n6 Medkits\n20+ Drogas (várias)"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B985",
+      "FORMID": "00B985",
+      "EDID": "DLC03WQNotePettyCash",
+      "FULL": "Caixa Pequeno",
+      "TNAM": "24 tampas (não, não é um erro de digitação)"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B984",
+      "FORMID": "00B984",
+      "EDID": "DLC03WQNoteMissionsMegExists",
+      "FULL": "Missões Atuais",
+      "TNAM": "Andale: Desaparecidos em Combate\n\nBig Town: retornou, missão fracassada - Emboscado por Mutantes, baixas: 1\n\nCidadela: retornou, missão sucedida\n\nCanterbury Commons: em andamento\n\nCasa de Dukov: Desaparecidos em Combate\n\nGNR: em andamento\n\nMegaton: retornou, missão bem-sucedida\n\nRepublica de Dave:  Desaparecidos em Combate\n\nRivet City: retornou, missão bem-sucedida\n\nTorre Tenpenny:  Desaparecidos em Combate"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B983",
+      "FORMID": "00B983",
+      "EDID": "DLC03WQNotePersonalLog17MegGone",
+      "FULL": "Entrada 17",
+      "TNAM": "Wow… Megaton desapareceu. Sei que eu estava reclamando sobre eles… mas, todas aquelas pessoas! Apagadas em um apenas segundo… não posso imaginar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B982",
+      "FORMID": "00B982",
+      "EDID": "DLC03WQNotePersonalLog16",
+      "FULL": "Entrada 16",
+      "TNAM": "Eu desisto. Isso é impossível."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B981",
+      "FORMID": "00B981",
+      "EDID": "DLC03WQNotePersonalLog15",
+      "FULL": "Entrada 15",
+      "TNAM": "Gostaria que alguém consertasse aquele vazamento maldito! O gotejamento está me enlouquecendo!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B980",
+      "FORMID": "00B980",
+      "EDID": "DLC03WQNotePersonalLog14",
+      "FULL": "Entrada 14",
+      "TNAM": "Estou pensando seriamente em matar esses cientistas do Projeto Pureza. Ingratos, inúteis, muitos deles são um incômodo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97F",
+      "FORMID": "00B97F",
+      "EDID": "DLC03WQNotePersonalLog13",
+      "FULL": "Entrada 13",
+      "TNAM": "Eu acho que Lyons suspeita de algo. Ele deve ter uma planta aqui. Como diabos ele sabe sobre os \"desaparecimentos\" dos carregamentos de água? Tenho enrolado ele. Como diabos ele tem tempo para se preocupar conosco com a guerra acontecendo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B97E",
+      "FORMID": "00B97E",
+      "EDID": "DLC03WQNotePersonalLog12",
+      "FULL": "Entrada 12",
+      "TNAM": "Ouvi dizer que o garoto que ajudou a iniciar o Purificador finalmente acordou."
+    }
+  ]
+}

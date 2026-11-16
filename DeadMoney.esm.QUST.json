@@ -1,0 +1,472 @@
+{
+  "QUST": [
+    {
+      "FORM": "@DeadMoney.esm:013C18",
+      "FORMID": "013C18",
+      "EDID": "NVDLC01MQ03d",
+      "FULL": "Acorde a Sierra Madre",
+      "NNAM": {
+        "10": "Ganhe acesso ao armário elétrico do cassino.",
+        "20": "Restaure a energia para o resto da Sierra Madre."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C69",
+      "FORMID": "013C69",
+      "EDID": "NVDLC01MQ01d",
+      "FULL": "Retorne à Fonte",
+      "NNAM": {
+        "10": "Retorne à Fonte e fale com Elijah para receber suas próximas tarefas."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139DF",
+      "FORMID": "0139DF",
+      "EDID": "NVDLC01MQ01a",
+      "FULL": "Encontre o Colar 8: \"Dog\"",
+      "NNAM": {
+        "10": "Encontre o Cão na Delegacia na Villa.",
+        "20": "Procure no porão da Delegacia uma forma de libertar Dog de sua cela.",
+        "30": "Toque o registro de áudio do porão no seu Pip-Boy perto da cela do Dog.",
+        "40": "Recrutar Cão."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139E0",
+      "FORMID": "0139E0",
+      "EDID": "NVDLC01MQ01b",
+      "FULL": "Encontre o Colar 14: Dean Domino",
+      "NNAM": {
+        "10": "Vá encontrar Dean Domino em seu esconderijo no Distrito Residencial.",
+        "20": "Recrutar Dean Domino."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139E1",
+      "FORMID": "0139E1",
+      "EDID": "NVDLC01MQ01c",
+      "FULL": "Encontre o Colar 12: Christine",
+      "NNAM": {
+        "10": "Procure por Christine na Clínica no Distrito Médico.",
+        "20": "Entre no porão da clínica e desligue a energia dos Alto-falantes Blindados na ala do Auto-Doc.",
+        "30": "Encontre Christine na ala Auto-Doc da Clínica.",
+        "40": "Recrutar Christine."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A03",
+      "FORMID": "013A03",
+      "EDID": "NVDLC01MQ03a",
+      "FULL": "Abata a Fera",
+      "NNAM": {
+        "10": "Recupere a chave da porta de emergência da cozinha da Cantina Madrid.",
+        "30": "Repare as três válvulas de gás quebradas na cozinha sem ser visto pelo Cão.",
+        "40": "Confrontar o Cão e convencê-lo a recuar - de um jeito ou de outro.",
+        "20": "Acesse a cozinha da Cantina Madrid pela Porta de Emergência no Cassino.",
+        "50": "Mate o Cão.",
+        "60": "Saia da cozinha antes que a coleira do Cão detone - e a sua, por tabela.",
+        "5": "Ganhe acesso ao armário elétrico do Cassino e restaure a energia para o resto do Sierra Madre."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A04",
+      "FORMID": "013A04",
+      "EDID": "NVDLC01MQ02c",
+      "FULL": "Sinais Mistos",
+      "NNAM": {
+        "10": "Viaje para a Estação de Troca Puesta del Sol com Christine.",
+        "20": "Repare a caixa elétrica para ter acesso ao resto da Estação de Manobras.",
+        "30": "Leve Christine ao elevador para a Câmara de Anulação Manual.",
+        "40": "Peça para Christine descer de elevador para a Câmara de Anulação Manual.",
+        "50": "Obtenha acesso ao Terminal de Manutenção Remota para Christine.",
+        "60": "Use os controles do elevador para enviar Christine para a Câmara de Anulação Manual.",
+        "70": "Leve Christine ao Terminal de Manutenção Remota e diga a ela que pode ser usado."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A3F",
+      "FORMID": "013A3F",
+      "EDID": "NVDLC01MQ02a",
+      "FULL": "Fogo no Céu",
+      "NNAM": {
+        "10": "Leve o Cão até a Subestação de Salida del Sol.",
+        "20": "Mandar o Cão esperar na Subestação de Comutação.",
+        "30": "Encontre duas placas dos restos do Ceifador Fantasma para convencer Cão a ficar na Subestação de Mudança.",
+        "35": "(Opcional) Use o terminal da Subestação de Mudança para trancar o Cão lá dentro e forçá-lo a fazer sua parte na Gala.",
+        "5": "Fale com Elijah na Fonte para mais instruções.",
+        "40": "Retorne ao Cão com os restos do Ceifador Fantasma."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A40",
+      "FORMID": "013A40",
+      "EDID": "NVDLC01MQ02b",
+      "FULL": "Forme a Banda",
+      "NNAM": {
+        "10": "Leve Dean ao terraço sul do Puesta del Sol.",
+        "20": "Diga ao Dean para ficar na posição e tocar sua parte do Evento Gala.",
+        "30": "Ligue os dois Hologramas de Segurança para guardar o pátio abaixo de Dean.",
+        "40": "Avise ao Dean que é seguro para ele ir para a posição dele na Gala.",
+        "50": "Retorne ao telhado sul de Puesta del Sol com Dean."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A43",
+      "FORMID": "013A43",
+      "EDID": "NVDLC01MQ03b",
+      "FULL": "A Cortina Cai no Tampico",
+      "NNAM": {
+        "10": "Procure Dean no Teatro Tampico.",
+        "20": "Encontre uma maneira de desativar a segurança holográfica do Tampico.",
+        "30": "Toque a holofita do Dean no Projetor de Holotape do Tampico.",
+        "40": "Vá para os bastidores do Tampico e lide com Dean.",
+        "15": "Procure a chave dos bastidores.",
+        "50": "Matar Dean Domino.",
+        "60": "Fuja do Tampico antes que a coleira do Dean detone a sua."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A44",
+      "FORMID": "013A44",
+      "EDID": "NVDLC01MQ03c",
+      "FULL": "Últimos Luxos",
+      "NNAM": {
+        "10": "Encontre Christine nas Suítes Executivas.",
+        "20": "Mate Christine.",
+        "30": "Fuja das Suítes Executivas antes que a coleira da Christine detone a sua."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AA5",
+      "FORMID": "013AA5",
+      "EDID": "NVDLC01EnemyTest",
+      "FULL": "Teste de Inimigo DLC01"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012EA5",
+      "FORMID": "012EA5",
+      "EDID": "NVDLC01RadioAMBMusic",
+      "FULL": "Música Ambiente DLC01"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F6B",
+      "FORMID": "012F6B",
+      "EDID": "NVDLC01RadioSpeakers",
+      "FULL": "Áudio do Colar Bomba"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01340D",
+      "FORMID": "01340D",
+      "EDID": "NVDLC01ChipReward",
+      "FULL": "Recompensa de Ficha da Missão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0127AB",
+      "FORMID": "0127AB",
+      "EDID": "NVDLC01HoloVendor",
+      "FULL": "Vendedor Holográfico (Missão)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B11",
+      "FORMID": "011B11",
+      "EDID": "NVDLC01ElijahBarkLobby",
+      "FULL": "Missão de Apoio ao Cassino do Lobby"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F973",
+      "FORMID": "00F973",
+      "EDID": "NVDLC01ElijahBarkCasino",
+      "FULL": "Sinal de Elijah Restabelecido",
+      "NNAM": {
+        "160": "Agora, junte as palavras de seus holotapes na sequência correta.",
+        "120": "O elevador para o cofre do cassino está trancado, encontre uma maneira de abri-lo.",
+        "180": "Você encontrou um caminho para o Vault... bom. Agora encontre um caminho para a Câmara.",
+        "90": "Encontre a muda e se livre dela. Ela está em algum lugar neste andar.",
+        "60": "Se aquele Necrótico ainda estiver vivo... corrija isso. Ou quebre-o.",
+        "30": "Anda logo e lide com o rejeitado da FEV, ele não serve pra nada.",
+        "10": "Sierra Madre ainda está selada. Encontre uma maneira de restaurar a energia.",
+        "210": "Preso agora. Você não vai conseguir lidar com as torretas sozinho.",
+        "220": "Isso já chega. Eu vou atrás de você.",
+        "230": "Seu colar está programado para detonar. Você não vai longe.",
+        "64": "A porta está selada. Deve haver uma chave para os bastidores. Procure por ela.",
+        "66": "Ele sabia como chegar ao quarto da estrela? \"Passagem\" para os bastidores, de fato.",
+        "68": "Aquela estrelinha - Vera - deve ter tido acesso à segurança? Talvez aos controles da plateia...?",
+        "69": "Esse Holodisco precisa de um emissor de holo. Vá para a cabine de projeção, reproduza-o e desative os Hologramas de Segurança.",
+        "73": "Agora, lide com o Necrótico. Já chega.",
+        "124": "Agora encontre o fragmento de voz e escape antes que sua coleira exploda. Ande logo!",
+        "75": "Fale o que quiser, não confio nele. Pelo menos você pode ir embora agora.",
+        "74": "Vá para a porta antes que a coleira exploda, ande!",
+        "125": "O Necrótico é seu fardo - encontre o fragmento da Holotape e guarde-o para si.",
+        "65": "Até você lidar com os Hologramas, não pode alcançar o Necrótico - encontre uma maneira de desativar os Hologramas de Segurança.",
+        "11": "As portas ficarão fechadas até a energia voltar.",
+        "12": "A porta não vai abrir até você restaurar a energia. Verifique o cassino principal.",
+        "13": "Energia primeiro, depois a porta destranca. Entendeu?",
+        "31": "Deve ter uma entrada dos fundos para a cozinha - verifique os corredores principais do lado do cassino. Encontre-a.",
+        "33": "Desligue as válvulas de gás, ou aquele idiota vai nos matar.",
+        "51": "Bom, agora continue andando. Você ainda precisa destravar o elevador para o cofre.",
+        "42": "Pode abaixá-lo, bom. Agora suma daqui antes que sua coleira exploda.",
+        "41": "Conserte as válvulas e saia de lá antes que a coleira dele exploda!",
+        "52": "Boa, agora continue andando. Pegue o elevador para o cofre.",
+        "100": "Sounds like she's going to be difficult. Handle it.",
+        "110": "Floor's buzzing with emitter signatures. Watch out for Holograms.",
+        "14": "Find a way past the Hologram Security and get to the power switch.",
+        "15": "Lot of power lines... leading to a room near the cashier's counter. Check it out.",
+        "122": "The vault has an audio lock. And it responds to the starlet's voice. We need to find more samples.",
+        "123": "A theater... it may have the recordings of the Starlet's voice we need.",
+        "35": "Gas leak has stopped - now, for the mutant.",
+        "37": "He broke one of the valves. Wait for him to leave, then fix it.",
+        "121": "The door to the vault is voice-activated. Which means we need the starlet's voice. Or recordings of it.",
+        "150": "The holotape... the starlet's voice is the key to the vault, look for more fragments.",
+        "165": "What is wrong? Maybe... maybe you need to splice the fragment to make the phrase.",
+        "170": "The Theater should have the tools you need to edit the tapes. Look around.",
+        "175": "Ah, that's it. Try it out in the Suites at once.",
+        "53": "That's it for the mutant reject. Now for the others.",
+        "127": "Search for more recordings of the starlet. Maybe she had an admirer here, among the staff.",
+        "126": "Look for more voice recordings. Might be something in her possessions.",
+        "32": "That idiot's opened the gas valves! A single spark - or he sets off his collar, the casino's going to burn. Us along with him.",
+        "34": "The gas leak's sealed the main kitchen door. Check for an emergency entrance - the casino side corridors, look there.",
+        "36": "Don't let him spot you! If he does, talk him down before he has a chance to ignite the gas.",
+        "38": "Quick! Talk him down before he ignites the gas!"
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3F7",
+      "FORMID": "00F3F7",
+      "EDID": "NVDLC01ElijahBarkTown",
+      "FULL": "Sinal de Elijah Estabelecido",
+      "NNAM": {
+        "1": "Acorde.",
+        "2": "Levante-se, antes que eu detone sua coleira.",
+        "3": "Olhe para seu Pip-Boy. Ouça o registro de áudio, siga as instruções.",
+        "4": "De agora em diante, faça o que eu digo. É a única maneira de sair vivo da Sierra Madre.",
+        "5": "Tente fugir, me desobedecer? Eu vou acionar sua coleira e encontrar alguém que saiba como ouvir.",
+        "6": "...e nada de dormir, nada de ficar esperando, nem mesmo por uma hora. Se perder meu tempo, você não serve pra nada.",
+        "10": "Detectando sinais perto de você. Detonadores. Cuidado com armadilhas.",
+        "20": "Os alto-falantes de comunicação da Villa... envelheceram mal, como a Madre. Lixo pré-guerra.",
+        "21": "Os alto-falantes emitem um sinal que fará seu colar explodir. Perto demais, tempo demais, e você perde a cabeça.",
+        "22": "Alguns alto-falantes podem estar danificados, os azuis, soltando faíscas - você pode destruir esses. Outros, vermelhos, são muito bem blindados.",
+        "23": "Não seja idiota. Preste atenção, continue se movendo. Ouviu seu colar apitar, olhe em volta.",
+        "30": "Não passe pelo portão para Puesta del Sol ainda, reúna os outros primeiro.",
+        "31": "Deixe o portão de Salida em paz. Você ainda não terminou com a Villa, então não se desvie.",
+        "40": "Você encheu os arquivos do seu Pip-Boy com lixo.",
+        "41": "Mitchell... esse é seu nome, Mitchell? Não, espera... antigo dono, Vault 21. Vegas.",
+        "42": "Não importa, não é importante. Provavelmente roubou esse Pip-Boy dele, não foi?",
+        "43": "Não se preocupe, se você for um ladrão, um ladrão é exatamente o que eu preciso.",
+        "44": "Seguiu o sinal de rádio Gala, assim como eu, esperando ficar rico?",
+        "45": "Coopere comigo, siga em frente, vamos invadir Sierra Madre. Juntos.",
+        "46": "Havia outros como você... que se voltaram uns contra os outros, mesmo antes das coleiras.",
+        "47": "Jogue as cartas certas, seja esperto, e você sobreviverá. Seja burro...",
+        "48": "..bem, sua cabeça não era muito útil de qualquer forma, era?",
+        "7": "A Villa é tóxica. Quanto mais você fica lá fora, mais você respira...",
+        "8": "...então a Cloud vence. Então se apresse, não fique ao ar livre por muito tempo.",
+        "49": "Lá fora, você pode notar que sua visão pulsa, fica tonta.",
+        "50": "É a Nuvem. Come suas entranhas, aos poucos. Muita exposição, morte.",
+        "25": "Falantes malditos no fim do salão - luz vermelha significa que estão blindados. Deve haver uma maneira de desligá-los em outro lugar.",
+        "26": "Coleira 12 está perto de você, no prédio.",
+        "27": "Recebendo um sinal estranho perto de sua localização. Algum tipo de emissor, vá atrás dele.",
+        "28": "Perdeu o sinal do emissor. Seu trabalho, presumo?",
+        "29": "Captei outro sinal do emissor, e então o perdi.",
+        "60": "Talvez você ache que eu queria mandar pessoas para cá. Para inalar toxinas. Morrer. Matar uns aos outros.",
+        "61": "Dificilmente. Se robôs pudessem fazer isso, eu os teria mandado.",
+        "62": "Essa coleira no seu pescoço é porque as pessoas são pouco confiáveis. Até mesmo as cadeias de comando - pouco confiáveis.",
+        "63": "Essas coleiras, com ajustes, funcionam muito melhor.",
+        "32": "Cuidado com os moradores da Villa.",
+        "33": "Os habitantes da Villa parecem obcecados por Hologramas. Use-os para distraí-los.",
+        "34": "Detectando uma assinatura de emissor - cuidado com Hologramas de Segurança, perigoso.",
+        "90": "Energia principal desligada. Que problemático.",
+        "91": "Os controles do sistema de ventilação devem estar localizados naquele prédio.",
+        "92": "Eles deveriam ajudar com a Névoa.",
+        "93": "Boa, a ventilação voltou.",
+        "110": "Decidindo explorar? A curiosidade mata, volte para o caminho principal.",
+        "111": "Eu digo isso - se você morrer aqui, tudo começa de novo.",
+        "112": "Coleiras nem sempre foram ligadas umas às outras. Um erro.",
+        "113": "Outros que vieram, continuaram se matando. Agora, eu consertei isso, ligando-os uns aos outros.",
+        "114": "Continue indo para o Oeste, é lá que você vai ter que deixar o mutante.",
+        "115": "As malditas alavancas da usina precisam da força dele para operar.",
+        "116": "Você está em um dos locais da Gala, precisará trazer o mutante para cá.",
+        "117": "Só ele tem força para operar as alavancas, descobri.",
+        "118": "Vá para o norte, chegue ao campanário. Lá é onde você vai ativar o evento.",
+        "119": "Desde que você tenha todos em seus devidos lugares.",
+        "120": "Toxinas estão densas na sua área. Vá para leste, evite as nuvens.",
+        "121": "Não me teste ou a Cloud... ambos vão te matar sem pensar duas vezes.",
+        "122": "Cobriu bastante terreno, bom. Ainda falta um bocado.",
+        "123": "Mantenha o foco. Só uma chance de fazer isso.",
+        "124": "Salida del Sol... agora um labirinto de toxinas.",
+        "125": "A vila inteira é uma armadilha mortal.",
+        "126": "Vá para o norte - é lá que você vai encontrar a torre do sino.",
+        "127": "Todos precisam estar no lugar, senão será uma viagem desperdiçada.",
+        "128": "Você é engenhoso. Tive uma filha, filha adotiva, como você.",
+        "129": "Ela era obstinada, teimosa. Mas esperta. Ela se foi agora. Perdida para mim.",
+        "130": "Não temos tempo para você explorar a Villa, fique na Gala.",
+        "131": "Você está prestando atenção? Se vagar pela Villa, vai morrer.",
+        "132": "A torre do sino. É lá que você vai iniciar o Evento de Gala.",
+        "133": "Está um pouco alto. Tenho certeza que você vai encontrar uma forma de subir.",
+        "134": "Pegue a escada. Ela ainda deve estar intacta.",
+        "135": "Assim que estiver na torre, acione o interruptor e se prepare para se mover.",
+        "136": "O que você está fazendo?",
+        "137": "Os outros ainda não estão no lugar. Leve-os para suas estações e depois volte aqui.",
+        "143": "Deixe a muda na Estação de Mudança - ela saberá o que fazer.",
+        "138": "Seus desvios estão me cansando.",
+        "139": "O que você espera encontrar? Uma forma de escapar? Não, eu não acho.",
+        "140": "Isso devia ser o paraíso antes da guerra.",
+        "141": "Mas não, a radiação e a Nuvem arruinaram esse sonho.",
+        "142": "Siga para oeste, passe pelas toxinas e chegue à Estação de Chaves.",
+        "144": "Então foi isso que aconteceu com aquele.",
+        "145": "Reze para não acabar como ele. A ganância o matou. Pode matar você também.",
+        "146": "Lembre-se - você precisa trazer a garota muda aqui.",
+        "147": "Se não, vai ser uma longa caminhada de volta, e o tempo está acabando.",
+        "148": "Cansado de ter que guiar todos vocês pela Villa...",
+        "149": "...pelo menos você está progredindo mais do que a última equipe.",
+        "150": "Não perca tempo tentando ter um vislumbre da Sierra Madre.",
+        "151": "Chega de desvios, volte à tarefa em mãos.",
+        "152": "O alvo da Gala está logo à frente - sudeste na bússola.",
+        "153": "É onde você deveria deixar o Necrótico.",
+        "154": "Você está na área da Gala... agora, precisa que alguém fique lá.",
+        "155": "Tragam o Necrótico... ele serve.",
+        "180": "Eu consigo ouvir o evento disparando. Agora vá para as portas principais, rápido.",
+        "181": "Continue andando. As portas vão fechar se você não chegar a tempo.",
+        "182": "Mais rápido!",
+        "183": "O que está demorando tanto? Vá para o cassino!",
+        "184": "Chegue lá logo ou as portas vão se fechar, e você vai ficar preso do lado de fora.",
+        "64": "Se estiver tentando se esconder, não acenda a luz do seu Pip-Boy...",
+        "65": "...aquela luz? Facilita para... outros te verem.",
+        "66": "Veja se consegue acessar aquele terminal.",
+        "67": "Pode haver alguns códigos de acesso de \"Máquina de Vendas\" que você pode baixar.",
+        "68": "Aquelas máquinas \"Vending\", as com as luzes azuis. Use-as para reabastecer.",
+        "69": "Pegue todas as fichas de cassino que vir e leve-as às máquinas.",
+        "70": "Segui o sinal até aqui por causa daquela voz maldita.",
+        "71": "Prometendo \"começar de novo\"? Bobagem da Pré-Guerra. Mais como \"acabar de novo\".",
+        "72": "Essa é a saída - depois que você arrombar o cofre da Sierra Madre. Tente sair, e eu farei seu colar explodir.",
+        "73": "Siga minhas ordens, a liberdade é sua. Eu prometo.",
+        "74": "O portão para Sierra Madre está lacrado, trancado. Por enquanto.",
+        "75": "Faça o que eu digo, e não ficará trancado por muito tempo.",
+        "76": "Aquelas máquinas de \"venda\"... vender não era o uso pretendido para elas.",
+        "77": "Eles fazem muito mais. Tornam a Villa autossuficiente.",
+        "255": "< Elijah diz que o jogador desobedeceu seu aviso sobre cooperar com companheiros, então o jogador vai para o espaço >"
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2BB",
+      "FORMID": "00F2BB",
+      "EDID": "NVDLC01RadioElijah",
+      "FULL": "Rádio do Colar de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2BA",
+      "FORMID": "00F2BA",
+      "EDID": "NVDLC01RadioCasino",
+      "FULL": "Diálogo da Rádio Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2B9",
+      "FORMID": "00F2B9",
+      "EDID": "NVDLC01RadioDeanQuest",
+      "FULL": "Rádio do Colar do Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2B8",
+      "FORMID": "00F2B8",
+      "EDID": "NVDLC01RadioChristine",
+      "FULL": "Rádio do Colar da Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2B7",
+      "FORMID": "00F2B7",
+      "EDID": "NVDLC01RadioDog",
+      "FULL": "Rádio da Coleira do Dog"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E882",
+      "FORMID": "00E882",
+      "EDID": "NVDLC01GlobalToxicDamage",
+      "FULL": "Funcionalidade do Script para Dano Tóxico Global"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C543",
+      "FORMID": "00C543",
+      "EDID": "NVDLC01ToxicCloud",
+      "FULL": "Funcionalidade do Script para Nuvens Tóxicas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E93",
+      "FORMID": "006E93",
+      "EDID": "NVDLC01BombCollarQuest",
+      "FULL": "Missão do Colar Bomba"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005DCB",
+      "FORMID": "005DCB",
+      "EDID": "NVDLC01HoloSupport",
+      "FULL": "Suporte de Script para Recursos de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005229",
+      "FORMID": "005229",
+      "EDID": "NVDLC01MQ00",
+      "FULL": "Grande Inauguração da Sierra Madre!",
+      "NNAM": {
+        "10": "Localize a fonte do convite do Sierra Madre."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:001305",
+      "FORMID": "001305",
+      "EDID": "NVDLC01ElijahDialogue",
+      "FULL": "Diálogo do Padre Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:001304",
+      "FORMID": "001304",
+      "EDID": "NVDLC01DogDialogue",
+      "FULL": "Diálogo de Cão\/Deus"
+    },
+    {
+      "FORM": "@DeadMoney.esm:001303",
+      "FORMID": "001303",
+      "EDID": "NVDLC01ChristineDialogue",
+      "FULL": "Diálogo da Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:001302",
+      "FORMID": "001302",
+      "EDID": "NVDLC01DeanDialogue",
+      "FULL": "Diálogo de Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0012FD",
+      "FORMID": "0012FD",
+      "EDID": "NVDLC01Followers",
+      "FULL": "DLC01 Seguidores"
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FC1",
+      "FORMID": "000FC1",
+      "EDID": "NVDLC01MQ03",
+      "FULL": "Roubo dos Séculos",
+      "NNAM": {
+        "10": "Junte a sequência musical de Vera no Terminal da Recepcionista no Lobby.",
+        "50": "Fuja do cofre de Sierra Madre antes que sua coleira exploda.",
+        "30": "Descubra os segredos da Sierra Madre na câmara central do Vault.",
+        "20": "Ganhar acesso ao Cofre Sierra Madre.",
+        "40": "Derrotar Elijah.",
+        "45": "(Opcional) Saia sorrateiramente da área da câmara do Vault sem ser detectado, prendendo Elijah quando ele abrir o cofre."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FC0",
+      "FORMID": "000FC0",
+      "EDID": "NVDLC01MQ02",
+      "FULL": "Acionar o Evento de Gala",
+      "NNAM": {
+        "10": "Acione o Evento de Gala no painel de controle no topo da torre do sino em Salida del Sol Norte e ative-o.",
+        "50": "Vá para o Portão Principal do Sierra Madre e entre no cassino."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:000FBF",
+      "FORMID": "000FBF",
+      "EDID": "NVDLC01MQ01",
+      "FULL": "Missão Principal MQ01"
+    }
+  ]
+}

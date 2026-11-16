@@ -1,0 +1,262 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@Anchorage.esm:007BBF",
+      "FORMID": "007BBF",
+      "EDID": "DLC02ArtilleryGunA",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B603",
+      "FORMID": "00B603",
+      "EDID": "DLC02OA4PowerArmorRedShirtTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:003EC9",
+      "FORMID": "003EC9",
+      "EDID": "DLC02ElevSwitch",
+      "FULL": "Interruptor do Elevador"
+    },
+    {
+      "FORM": "@Anchorage.esm:002F39",
+      "FORMID": "002F39",
+      "EDID": "DLC02FuelTankPanelB",
+      "FULL": "Tanque de Combustível B: Depósito de Quimeras"
+    },
+    {
+      "FORM": "@Anchorage.esm:002F38",
+      "FORMID": "002F38",
+      "EDID": "DLC02FuelTankPanelA",
+      "FULL": "Tanque de Combustível A: Depósito de Quimeras"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4DA",
+      "FORMID": "00B4DA",
+      "EDID": "DLC02FF004Briefcase",
+      "FULL": "Inteligência"
+    },
+    {
+      "FORM": "@Anchorage.esm:0024ED",
+      "FORMID": "0024ED",
+      "EDID": "testPhilWorkBench",
+      "FULL": "Bancada de Trabalho de Phil"
+    },
+    {
+      "FORM": "@Anchorage.esm:0020B6",
+      "FORMID": "0020B6",
+      "EDID": "DLC02ArtilleryGunCOLD",
+      "FULL": "Artilharia"
+    },
+    {
+      "FORM": "@Anchorage.esm:0020B5",
+      "FORMID": "0020B5",
+      "EDID": "DLC02ArtilleryGunBOLD",
+      "FULL": "Artilharia"
+    },
+    {
+      "FORM": "@Anchorage.esm:0020B4",
+      "FORMID": "0020B4",
+      "EDID": "DLC02ArtilleryGunAOLD",
+      "FULL": "Artilharia"
+    },
+    {
+      "FORM": "@Anchorage.esm:0019EC",
+      "FORMID": "0019EC",
+      "EDID": "DLC02ExplosiveChargeUnarmed",
+      "FULL": "Carga Explosiva"
+    },
+    {
+      "FORM": "@Anchorage.esm:0019EB",
+      "FORMID": "0019EB",
+      "EDID": "DLC02ExplosiveChargePlanted",
+      "FULL": "Carga Explosiva"
+    },
+    {
+      "FORM": "@Anchorage.esm:0019AB",
+      "FORMID": "0019AB",
+      "EDID": "DLC02SimExitFX",
+      "FULL": "SAÍDA"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018CF",
+      "FORMID": "0018CF",
+      "EDID": "DLC02ElectricalSwitch",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018A6",
+      "FORMID": "0018A6",
+      "EDID": "DLC02SimActivator",
+      "FULL": "Cápsula de Simulação"
+    },
+    {
+      "FORM": "@Anchorage.esm:007514",
+      "FORMID": "007514",
+      "EDID": "DLCAnchGunBatteryControlBox01",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A4C6",
+      "FORMID": "00A4C6",
+      "EDID": "DLC02ElevAboveSwitch",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Anchorage.esm:0013FB",
+      "FORMID": "0013FB",
+      "EDID": "DLC02OutcastRadio",
+      "FULL": "Radioamador"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A03F",
+      "FORMID": "00A03F",
+      "EDID": "DLC02HealthKit",
+      "FULL": "Kit Médico"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CEE5",
+      "FORMID": "00CEE5",
+      "EDID": "DLC02FatmanDistanceCheckTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:0068C0",
+      "FORMID": "0068C0",
+      "EDID": "DLC02ArtyBaseDisableAll",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:008290",
+      "FORMID": "008290",
+      "EDID": "DLC02AmmoBox",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB32",
+      "FORMID": "00CB32",
+      "EDID": "DLCAnchAmmoDispenser01",
+      "FULL": "Dispensador de Munição"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CAA9",
+      "FORMID": "00CAA9",
+      "EDID": "DLC02MinefieldSwitch",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C8C7",
+      "FORMID": "00C8C7",
+      "EDID": "DLC02MissileACTIVATOR",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C8C1",
+      "FORMID": "00C8C1",
+      "EDID": "DLC02MicroFusionACTIVATOR",
+      "FULL": "Célula de Microfusão"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C89F",
+      "FORMID": "00C89F",
+      "EDID": "DLC02MineFragACTIVATOR",
+      "FULL": "Mina de Fragmentação"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C7BF",
+      "FORMID": "00C7BF",
+      "EDID": "DLC02HealthDispenser02",
+      "FULL": "Dispensador de Saúde"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C7BC",
+      "FORMID": "00C7BC",
+      "EDID": "DLC02HealthDispenser01",
+      "FULL": "Dispensador de Saúde"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C788",
+      "FORMID": "00C788",
+      "EDID": "DLCAnchGenElecSwitch04",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C48F",
+      "FORMID": "00C48F",
+      "EDID": "DLC02FatmanStartCombat",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C48E",
+      "FORMID": "00C48E",
+      "EDID": "DLC02FatmanStartCombatTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C488",
+      "FORMID": "00C488",
+      "EDID": "DLC02FatmanStopCombat",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:004E29",
+      "FORMID": "004E29",
+      "EDID": "DLC02ParaSceneMoveToTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C364",
+      "FORMID": "00C364",
+      "EDID": "DLC02GrenadeFragACTIVATOR",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C362",
+      "FORMID": "00C362",
+      "EDID": "DLC02ChineseAssaultRifleACTIVATOR",
+      "FULL": "Rifle de Assalto Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C35F",
+      "FORMID": "00C35F",
+      "EDID": "DLC02LockPickACTIVATOR",
+      "FULL": "Grampo de Cabelo"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C320",
+      "FORMID": "00C320",
+      "EDID": "DLC02BobbyPin",
+      "FULL": "Grampo de Cabelo"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C1CE",
+      "FORMID": "00C1CE",
+      "EDID": "DLC02SniperRifleACTIVATOR",
+      "FULL": "Sniper"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C063",
+      "FORMID": "00C063",
+      "EDID": "DLC02SpiderCrateParachute",
+      "FULL": "Cachê da Fortificação Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:004E13",
+      "FORMID": "004E13",
+      "EDID": "DLC02ParaSceneTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Anchorage.esm:007BC3",
+      "FORMID": "007BC3",
+      "EDID": "DLC02ArtilleryGunC",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Anchorage.esm:007BC1",
+      "FORMID": "007BC1",
+      "EDID": "DLC02ArtilleryGunB",
+      "FULL": "Controle"
+    }
+  ]
+}

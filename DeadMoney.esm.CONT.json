@@ -1,0 +1,1408 @@
+{
+  "CONT": [
+    {
+      "FORM": "@DeadMoney.esm:005232",
+      "FORMID": "005232",
+      "EDID": "NVDLC01ClinicDesk01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006C1A",
+      "FORMID": "006C1A",
+      "EDID": "NVDLC01DresserRustyLow",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A7C5",
+      "FORMID": "00A7C5",
+      "EDID": "NVDLC01ClinicDesk02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE2F",
+      "FORMID": "00AE2F",
+      "EDID": "NVDLC01FilingCabinetCasino",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCD6",
+      "FORMID": "00BCD6",
+      "EDID": "NVDLC01LockerPoliceStation",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCD7",
+      "FORMID": "00BCD7",
+      "EDID": "NVDLC01LockerPoliceStationC4",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCF7",
+      "FORMID": "00BCF7",
+      "EDID": "NVDLC01DeskPoliceStation01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCF8",
+      "FORMID": "00BCF8",
+      "EDID": "NVDLC01DeskPoliceStation02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C10F",
+      "FORMID": "00C10F",
+      "EDID": "NVDLC01LockerPoliceStationPistol",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C54F",
+      "FORMID": "00C54F",
+      "EDID": "NVDLC01SuitesStarletSafe",
+      "FULL": "Cofre da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C669",
+      "FORMID": "00C669",
+      "EDID": "NVDLC01LockerPoliceStationShotgun",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C825",
+      "FORMID": "00C825",
+      "EDID": "NVDLC01SuitesStarletDesk",
+      "FULL": "Mesa da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DAD0",
+      "FORMID": "00DAD0",
+      "EDID": "NVDLC01VaultFounderBody",
+      "FULL": "Os Restos do Fundador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDAE",
+      "FORMID": "00DDAE",
+      "EDID": "NVDLC01HotelDesk01Low",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDAF",
+      "FORMID": "00DDAF",
+      "EDID": "NVDLC01HotelDesk01Med",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB0",
+      "FORMID": "00DDB0",
+      "EDID": "NVDLC01HotelDesk01High",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB1",
+      "FORMID": "00DDB1",
+      "EDID": "NVDLC01HotelDesk01Locked",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB2",
+      "FORMID": "00DDB2",
+      "EDID": "NVDLC01HotelWardrobe01Low",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB3",
+      "FORMID": "00DDB3",
+      "EDID": "NVDLC01HotelWardrobe01Med",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB4",
+      "FORMID": "00DDB4",
+      "EDID": "NVDLC01HotelWardrobe01High",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB5",
+      "FORMID": "00DDB5",
+      "EDID": "NVDLC01HotelWardrobe01Locked",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB6",
+      "FORMID": "00DDB6",
+      "EDID": "NVDLC01RefrigeratorWithFoodLow",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB7",
+      "FORMID": "00DDB7",
+      "EDID": "NVDLC01RefrigeratorWithFoodMed",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDB8",
+      "FORMID": "00DDB8",
+      "EDID": "NVDLC01RefrigeratorWithFoodHigh",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBA",
+      "FORMID": "00DDBA",
+      "EDID": "NVDLC01LootFirstAidKitNVMED",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBB",
+      "FORMID": "00DDBB",
+      "EDID": "NVDLC01LootFirstAidKitNVHigh",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBC",
+      "FORMID": "00DDBC",
+      "EDID": "NVDLC01LootFirstAidKitNVLow",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBD",
+      "FORMID": "00DDBD",
+      "EDID": "NVDLC01DeskOfficeMetalNVLow",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBE",
+      "FORMID": "00DDBE",
+      "EDID": "NVDLC01DeskOfficeMetalNVMed",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDBF",
+      "FORMID": "00DDBF",
+      "EDID": "NVDLC01DeskOfficeMetalNVHigh",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC0",
+      "FORMID": "00DDC0",
+      "EDID": "NVDLC01DeskOfficeMetalNVLocked",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC1",
+      "FORMID": "00DDC1",
+      "EDID": "NVDLC01FilingCabinetBunch01Low",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC2",
+      "FORMID": "00DDC2",
+      "EDID": "NVDLC01FilingCabinetBunch01Med",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC3",
+      "FORMID": "00DDC3",
+      "EDID": "NVDLC01FilingCabinetBunch01High",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC4",
+      "FORMID": "00DDC4",
+      "EDID": "NVDLC01FilingCabinetBunch01Locked",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC5",
+      "FORMID": "00DDC5",
+      "EDID": "NVDLC01ToolCabinetLow",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC6",
+      "FORMID": "00DDC6",
+      "EDID": "NVDLC01ToolCabinetMed",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC7",
+      "FORMID": "00DDC7",
+      "EDID": "NVDLC01ToolCabinetHigh",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC8",
+      "FORMID": "00DDC8",
+      "EDID": "NVDLC01ToolCabinetLocked",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDC9",
+      "FORMID": "00DDC9",
+      "EDID": "NVDLC01DeskOfficeCornerMetalNVLow",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCA",
+      "FORMID": "00DDCA",
+      "EDID": "NVDLC01DeskOfficeCornerMetalNVMed",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCB",
+      "FORMID": "00DDCB",
+      "EDID": "NVDLC01DeskOfficeCornerMetalNVHigh",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCC",
+      "FORMID": "00DDCC",
+      "EDID": "NVDLC01FilingCabinetLow",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCD",
+      "FORMID": "00DDCD",
+      "EDID": "NVDLC01FilingCabinetMed",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCE",
+      "FORMID": "00DDCE",
+      "EDID": "NVDLC01FilingCabinetHigh",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDCF",
+      "FORMID": "00DDCF",
+      "EDID": "NVDLC01GenericSafe01Low",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD0",
+      "FORMID": "00DDD0",
+      "EDID": "NVDLC01GenericSafe01Med",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD1",
+      "FORMID": "00DDD1",
+      "EDID": "NVDLC01GenericSafe01High",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD3",
+      "FORMID": "00DDD3",
+      "EDID": "NVDLC01DeskOfficeCornerMetalNVLocked",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD4",
+      "FORMID": "00DDD4",
+      "EDID": "NVDLC01FilingCabinetLocked",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD5",
+      "FORMID": "00DDD5",
+      "EDID": "NVDLC01GenericSafeFloor01Low",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD6",
+      "FORMID": "00DDD6",
+      "EDID": "NVDLC01GenericSafeFloor01Med",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD7",
+      "FORMID": "00DDD7",
+      "EDID": "NVDLC01GenericSafeFloor01High",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD8",
+      "FORMID": "00DDD8",
+      "EDID": "NVDLC01MetalBox01Low",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDD9",
+      "FORMID": "00DDD9",
+      "EDID": "NVDLC01MetalBox01Med",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDA",
+      "FORMID": "00DDDA",
+      "EDID": "NVDLC01MetalBox01High",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDB",
+      "FORMID": "00DDDB",
+      "EDID": "NVDLC01MetalBox01Locked",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDC",
+      "FORMID": "00DDDC",
+      "EDID": "NVDLC01RefrigeratorWithFoodNEWLow",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDD",
+      "FORMID": "00DDDD",
+      "EDID": "NVDLC01RefrigeratorWithFoodNEWMed",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDE",
+      "FORMID": "00DDDE",
+      "EDID": "NVDLC01RefrigeratorWithFoodNEWHigh",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDF",
+      "FORMID": "00DDDF",
+      "EDID": "NVDLC01ToolboxContainerLow",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE0",
+      "FORMID": "00DDE0",
+      "EDID": "NVDLC01ToolboxContainerMed",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE1",
+      "FORMID": "00DDE1",
+      "EDID": "NVDLC01ToolboxContainerHigh",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE2",
+      "FORMID": "00DDE2",
+      "EDID": "NVDLC01SuitCase01Low",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE3",
+      "FORMID": "00DDE3",
+      "EDID": "NVDLC01SuitCase01Med",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE4",
+      "FORMID": "00DDE4",
+      "EDID": "NVDLC01SuitCase01High",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE5",
+      "FORMID": "00DDE5",
+      "EDID": "NVDLC01DeskWoodTopR01ContainerLow",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE6",
+      "FORMID": "00DDE6",
+      "EDID": "NVDLC01DeskWoodTopR01ContainerMed",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE7",
+      "FORMID": "00DDE7",
+      "EDID": "NVDLC01DeskWoodTopR01ContainerHigh",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE8",
+      "FORMID": "00DDE8",
+      "EDID": "NVDLC01DeskWoodTopR01ContainerLocked",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDE9",
+      "FORMID": "00DDE9",
+      "EDID": "NVDLC01DresserAbandonedLow",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDEA",
+      "FORMID": "00DDEA",
+      "EDID": "NVDLC01DresserAbandonedMed",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDEB",
+      "FORMID": "00DDEB",
+      "EDID": "NVDLC01DresserAbandonedHigh",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDEC",
+      "FORMID": "00DDEC",
+      "EDID": "NVDLC01DresserAbandonedLocked",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDED",
+      "FORMID": "00DDED",
+      "EDID": "NVDLC01FilingCabinetBunch02NVLow",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDEE",
+      "FORMID": "00DDEE",
+      "EDID": "NVDLC01FilingCabinetBunch02NVMed",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDEF",
+      "FORMID": "00DDEF",
+      "EDID": "NVDLC01FilingCabinetBunch02NVHigh",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF0",
+      "FORMID": "00DDF0",
+      "EDID": "NVDLC01FilingCabinetNVLow",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF1",
+      "FORMID": "00DDF1",
+      "EDID": "NVDLC01FilingCabinetNVMed",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF2",
+      "FORMID": "00DDF2",
+      "EDID": "NVDLC01FilingCabinetNVHigh",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF3",
+      "FORMID": "00DDF3",
+      "EDID": "NVDLC01FilingCabinetBunch02NVLocked",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF4",
+      "FORMID": "00DDF4",
+      "EDID": "NVDLC01FilingCabinetNVLocked",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF5",
+      "FORMID": "00DDF5",
+      "EDID": "NVDLC01FilingCabinetBunch03NVLow",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF6",
+      "FORMID": "00DDF6",
+      "EDID": "NVDLC01FilingCabinetBunch03NVMed",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF7",
+      "FORMID": "00DDF7",
+      "EDID": "NVDLC01FilingCabinetBunch03NVHigh",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF8",
+      "FORMID": "00DDF8",
+      "EDID": "NVDLC01FilingCabinetBunch03NVLocked",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDF9",
+      "FORMID": "00DDF9",
+      "EDID": "NVDLC01FilingCabinetBunch04NVLow",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFA",
+      "FORMID": "00DDFA",
+      "EDID": "NVDLC01FilingCabinetBunch04NVMed",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFB",
+      "FORMID": "00DDFB",
+      "EDID": "NVDLC01FilingCabinetBunch04NVHigh",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFC",
+      "FORMID": "00DDFC",
+      "EDID": "NVDLC01DresserRustyMed",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFD",
+      "FORMID": "00DDFD",
+      "EDID": "NVDLC01DresserRustyHigh",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFE",
+      "FORMID": "00DDFE",
+      "EDID": "NVDLC01DresserRustyLocked",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDFF",
+      "FORMID": "00DDFF",
+      "EDID": "NVDLC01OvenRangeDirty01Low",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE00",
+      "FORMID": "00DE00",
+      "EDID": "NVDLC01OvenRangeDirty01Med",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE01",
+      "FORMID": "00DE01",
+      "EDID": "NVDLC01OvenRangeDirty01High",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE03",
+      "FORMID": "00DE03",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolLaserLow",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE04",
+      "FORMID": "00DE04",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolsAllLocked",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE05",
+      "FORMID": "00DE05",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolsGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE0F",
+      "FORMID": "00DE0F",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolLaserMed",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE10",
+      "FORMID": "00DE10",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolLaserHigh",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE11",
+      "FORMID": "00DE11",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolsAllLow",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE12",
+      "FORMID": "00DE12",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolsAllMed",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE13",
+      "FORMID": "00DE13",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolsAllHigh",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE17",
+      "FORMID": "00DE17",
+      "EDID": "NVDLC01LootGunCabinetMetalAPistolLaserLocked",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE19",
+      "FORMID": "00DE19",
+      "EDID": "NVDLC01LootGunCabinetMetalARiflesAllMed",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE33",
+      "FORMID": "00DE33",
+      "EDID": "NVDLC01VDresser01Low",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE34",
+      "FORMID": "00DE34",
+      "EDID": "NVDLC01VDresser01Med",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE35",
+      "FORMID": "00DE35",
+      "EDID": "NVDLC01VDresser01High",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE36",
+      "FORMID": "00DE36",
+      "EDID": "NVDLC01VDresser01Locked",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE37",
+      "FORMID": "00DE37",
+      "EDID": "NVDLC01LootCashRegisterNVLow",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE38",
+      "FORMID": "00DE38",
+      "EDID": "NVDLC01LootCashRegisterNVMed",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE39",
+      "FORMID": "00DE39",
+      "EDID": "NVDLC01LootCashRegisterNVHigh",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE3A",
+      "FORMID": "00DE3A",
+      "EDID": "NVDLC01LootCashRegisterNVLocked",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DE3B",
+      "FORMID": "00DE3B",
+      "EDID": "NVDLC01SuitCase01Locked",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E1E0",
+      "FORMID": "00E1E0",
+      "EDID": "NVDLC01ToolCabinetMetalLow",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E1E1",
+      "FORMID": "00E1E1",
+      "EDID": "NVDLC01ToolCabinetMetalMed",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E4C1",
+      "FORMID": "00E4C1",
+      "EDID": "NVDLC01SuitesSecurityLocker",
+      "FULL": "Armário de Segurança"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E4C2",
+      "FORMID": "00E4C2",
+      "EDID": "NVDLC01SuitesSecurityLocker2",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E549",
+      "FORMID": "00E549",
+      "EDID": "NVDLC01GarbageCanUrban03Med",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E54A",
+      "FORMID": "00E54A",
+      "EDID": "NVDLC01GarbageCanUrban03High",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E54B",
+      "FORMID": "00E54B",
+      "EDID": "NVDLC01GarbageCanUrban02Low",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E54C",
+      "FORMID": "00E54C",
+      "EDID": "NVDLC01GarbageCanUrban02Med",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E54D",
+      "FORMID": "00E54D",
+      "EDID": "NVDLC01GarbageCanUrban02High",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E54E",
+      "FORMID": "00E54E",
+      "EDID": "NVDLC01GarbageCanUrban03Low",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E87D",
+      "FORMID": "00E87D",
+      "EDID": "NVDLC01AmmoBoxLow",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E87E",
+      "FORMID": "00E87E",
+      "EDID": "NVDLC01AmmoBoxMed",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E87F",
+      "FORMID": "00E87F",
+      "EDID": "NVDLC01AmmoBoxHigh",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E880",
+      "FORMID": "00E880",
+      "EDID": "NVDLC01AmmoBoxLocked",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC97",
+      "FORMID": "00EC97",
+      "EDID": "NVDLC01Gala02Locker",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC98",
+      "FORMID": "00EC98",
+      "EDID": "NVDLC01Gala02LockedLocker",
+      "FULL": "Armário do Ennis"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED40",
+      "FORMID": "00ED40",
+      "EDID": "NVDLC01LootGunsFootlockerPistosAllLow",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EF10",
+      "FORMID": "00EF10",
+      "EDID": "NVDLC01TheaterDeanSafe01",
+      "FULL": "Cofre do Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EFC9",
+      "FORMID": "00EFC9",
+      "EDID": "NVDLC01VentContainerMed",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EFCB",
+      "FORMID": "00EFCB",
+      "EDID": "NVDLC01PlayerEquipmentContainer",
+      "FULL": "Armazenamento de Equipamentos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F384",
+      "FORMID": "00F384",
+      "EDID": "NVDLC01LootGunsFootlockerPistosAllVault",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F385",
+      "FORMID": "00F385",
+      "EDID": "NVDLC01LootGunCabinetMetalAVaultWeapons",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3B4",
+      "FORMID": "00F3B4",
+      "EDID": "NVDLC01VentContainerLow",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3B5",
+      "FORMID": "00F3B5",
+      "EDID": "NVDLC01VentContainerHigh",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE2B",
+      "FORMID": "00FE2B",
+      "EDID": "NVDLC01ToolCabinetMetalMedCasino",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE7A",
+      "FORMID": "00FE7A",
+      "EDID": "NVDLC01DresserSuitesMed",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE7B",
+      "FORMID": "00FE7B",
+      "EDID": "NVDLC01DresserSuitesStarlet",
+      "FULL": "Cômoda da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE7C",
+      "FORMID": "00FE7C",
+      "EDID": "NVDLC01SuitesFinalMedicalCabinet",
+      "FULL": "Armário de Suprimentos Médicos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE7D",
+      "FORMID": "00FE7D",
+      "EDID": "NVDLC01SuitesChipsSuitCase",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010113",
+      "FORMID": "010113",
+      "EDID": "NVDLC01DresserSuitesMetalArmor",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010114",
+      "FORMID": "010114",
+      "EDID": "NVDLC01SuitesSecurityLocker3",
+      "FULL": "Armário de Segurança"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010115",
+      "FORMID": "010115",
+      "EDID": "NVDLC01SuitesFilingCabinet",
+      "FULL": "Arquivo de Pasta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010116",
+      "FORMID": "010116",
+      "EDID": "NVDLC01SuitesSecurityDesk",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010117",
+      "FORMID": "010117",
+      "EDID": "NVDLC01SuitesSecurityLocker5",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010118",
+      "FORMID": "010118",
+      "EDID": "NVDLC01SuitesSecurityLocker4",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010119",
+      "FORMID": "010119",
+      "EDID": "NVDLC01SuitesSuitCase",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01011A",
+      "FORMID": "01011A",
+      "EDID": "NVDLC01SuitesGarbageCanLockpicks",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010123",
+      "FORMID": "010123",
+      "EDID": "NVDLC01HotelCupboard01Empty",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010211",
+      "FORMID": "010211",
+      "EDID": "NVDLC01SuitesSuitCase02",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010212",
+      "FORMID": "010212",
+      "EDID": "NVDLC01SuitesGarbageCan01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010213",
+      "FORMID": "010213",
+      "EDID": "NVDLC01SuitesLootSafeWall2",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010214",
+      "FORMID": "010214",
+      "EDID": "NVDLC01SuitesLootSafeWall",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010215",
+      "FORMID": "010215",
+      "EDID": "NVDLC01SuitesSecurityFootlocker",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010216",
+      "FORMID": "010216",
+      "EDID": "NVDLC01HotelDesk02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010217",
+      "FORMID": "010217",
+      "EDID": "NVDLC01HotelDesk01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01041C",
+      "FORMID": "01041C",
+      "EDID": "NVDLC01LootFootlockerARiflesAllLow",
+      "FULL": "Baú de Campanha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010622",
+      "FORMID": "010622",
+      "EDID": "NVDLC01KitchenOfficeDesk",
+      "FULL": "Balcão do Gerente do Restaurante"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010623",
+      "FORMID": "010623",
+      "EDID": "NVDLC01KitchenMaintLocker",
+      "FULL": "Armário de Manutenção"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010641",
+      "FORMID": "010641",
+      "EDID": "NVDLC01GenericSafeWall01High",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011022",
+      "FORMID": "011022",
+      "EDID": "NVDLC01DuffleBagCasino",
+      "FULL": "Bolsa do Guarda de Segurança"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011024",
+      "FORMID": "011024",
+      "EDID": "NVDLC01LootGunCabinetCasinoPistolLaserMed",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116D7",
+      "FORMID": "0116D7",
+      "EDID": "NVDLC01KitchenMeatLocker",
+      "FULL": "Câmara de Carnes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116D8",
+      "FORMID": "0116D8",
+      "EDID": "NVDLC01KitchenToolCabinetMetalMed",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116D9",
+      "FORMID": "0116D9",
+      "EDID": "NVDLC01GarbageCanKitchenHigh",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116DA",
+      "FORMID": "0116DA",
+      "EDID": "NVDLC01GarbageCanKitchen01High",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116DB",
+      "FORMID": "0116DB",
+      "EDID": "NVDLC01KitchenCabinet",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0119DB",
+      "FORMID": "0119DB",
+      "EDID": "NVDLC01ElijahsFootlocker",
+      "FULL": "Baú da Irmandade"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011A84",
+      "FORMID": "011A84",
+      "EDID": "NVDLC01DeanSecretStash",
+      "FULL": "Depósito Secreto do Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011ADD",
+      "FORMID": "011ADD",
+      "EDID": "NVDLC01FireHoseBox",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D29",
+      "FORMID": "011D29",
+      "EDID": "NVDLC01DresserMed",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2A",
+      "FORMID": "011D2A",
+      "EDID": "NVDLC01NightstandMed",
+      "FULL": "Mesa de cabeceira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2B",
+      "FORMID": "011D2B",
+      "EDID": "NVDLC01DresserLow",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2C",
+      "FORMID": "011D2C",
+      "EDID": "NVDLC01DresserHigh",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2D",
+      "FORMID": "011D2D",
+      "EDID": "NVDLC01DeskArtDecoMed",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2E",
+      "FORMID": "011D2E",
+      "EDID": "NVDLC01DeskArtDecoLow",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F82",
+      "FORMID": "011F82",
+      "EDID": "NVDLC01DeskArtDecoHigh",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F83",
+      "FORMID": "011F83",
+      "EDID": "NVDLC01NightstandLow",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F84",
+      "FORMID": "011F84",
+      "EDID": "NVDLC01NightstandHigh",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012084",
+      "FORMID": "012084",
+      "EDID": "NVDLC01VaultSinclairBag",
+      "FULL": "Bolsa do Sinclair"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0127B0",
+      "FORMID": "0127B0",
+      "EDID": "NVDLC01HoloVendorContainer",
+      "FULL": "Contêiner do Vendedor Holográfico"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F8A",
+      "FORMID": "012F8A",
+      "EDID": "NVDLC01SuitesKitchenFirstAidKit",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013093",
+      "FORMID": "013093",
+      "EDID": "NVDLC01CraftingBox",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013242",
+      "FORMID": "013242",
+      "EDID": "NVDLC01MetalBox01Crafting",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01336B",
+      "FORMID": "01336B",
+      "EDID": "NVDLC01Gala02SampleLocker",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01336C",
+      "FORMID": "01336C",
+      "EDID": "NVDLC01Gala02SampleNoteLocker",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01340B",
+      "FORMID": "01340B",
+      "EDID": "NVDLC01ElijahsMailbox",
+      "FULL": "Dropbox"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01367B",
+      "FORMID": "01367B",
+      "EDID": "NVDLC01ResidencesWoodenCrateContainer",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138C2",
+      "FORMID": "0138C2",
+      "EDID": "NVDLC01KitchenCabinetCrafting",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EA",
+      "FORMID": "0138EA",
+      "EDID": "NVDLC01AmmoExtra01",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EB",
+      "FORMID": "0138EB",
+      "EDID": "NVDLC01AmmoExtra02",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EC",
+      "FORMID": "0138EC",
+      "EDID": "NVDLC01DeskArtDecoExtra01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138ED",
+      "FORMID": "0138ED",
+      "EDID": "NVDLC01DeskArtDecoExtra02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EE",
+      "FORMID": "0138EE",
+      "EDID": "NVDLC01DeskOfficeMetalExtra01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EF",
+      "FORMID": "0138EF",
+      "EDID": "NVDLC01DeskOfficeMetalExtra02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F0",
+      "FORMID": "0138F0",
+      "EDID": "NVDLC01DresserExtra01",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F1",
+      "FORMID": "0138F1",
+      "EDID": "NVDLC01DresserExtra02",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F2",
+      "FORMID": "0138F2",
+      "EDID": "NVDLC01FilingCabinetBunchExtra01",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F3",
+      "FORMID": "0138F3",
+      "EDID": "NVDLC01FilingCabinetBunchExtra02",
+      "FULL": "Arquivos de Armários"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F4",
+      "FORMID": "0138F4",
+      "EDID": "NVDLC01GarbageCanExtra01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F5",
+      "FORMID": "0138F5",
+      "EDID": "NVDLC01GarbageCanExtra02",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F6",
+      "FORMID": "0138F6",
+      "EDID": "NVDLC01GenericSafeExtra01",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F7",
+      "FORMID": "0138F7",
+      "EDID": "NVDLC01GenericSafeExtra02",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F8",
+      "FORMID": "0138F8",
+      "EDID": "NVDLC01HotelDeskExtra01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138F9",
+      "FORMID": "0138F9",
+      "EDID": "NVDLC01HotelDeskExtra02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FA",
+      "FORMID": "0138FA",
+      "EDID": "NVDLC01HotelWardrobeExtra01",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FB",
+      "FORMID": "0138FB",
+      "EDID": "NVDLC01HotelWardrobeExtra02",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FC",
+      "FORMID": "0138FC",
+      "EDID": "NVDLC01KitchenCabinetExtra01",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FD",
+      "FORMID": "0138FD",
+      "EDID": "NVDLC01KitchenCabinetExtra02",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FE",
+      "FORMID": "0138FE",
+      "EDID": "NVDLC01LockerExtra01",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138FF",
+      "FORMID": "0138FF",
+      "EDID": "NVDLC01LockerExtra02",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013900",
+      "FORMID": "013900",
+      "EDID": "NVDLC01LootCashRegisterExtra01",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013901",
+      "FORMID": "013901",
+      "EDID": "NVDLC01LootCashRegisterExtra03",
+      "FULL": "Caixa Registradora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013902",
+      "FORMID": "013902",
+      "EDID": "NVDLC01LootFirstAidKitExtra01",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013903",
+      "FORMID": "013903",
+      "EDID": "NVDLC01LootFirstAidKitVault",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013908",
+      "FORMID": "013908",
+      "EDID": "NVDLC01MetalBoxExtra01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013909",
+      "FORMID": "013909",
+      "EDID": "NVDLC01MetalBoxExtra02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390A",
+      "FORMID": "01390A",
+      "EDID": "NVDLC01NightstandExtra01",
+      "FULL": "Mesa de cabeceira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390B",
+      "FORMID": "01390B",
+      "EDID": "NVDLC01OvenRangeDirtyExtra01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390C",
+      "FORMID": "01390C",
+      "EDID": "NVDLC01RefrigeratorExtra01",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390D",
+      "FORMID": "01390D",
+      "EDID": "NVDLC01SuitCaseExtra01",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390E",
+      "FORMID": "01390E",
+      "EDID": "NVDLC01SuitCaseVault",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01390F",
+      "FORMID": "01390F",
+      "EDID": "NVDLC01ToolboxContainerExtra01",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013910",
+      "FORMID": "013910",
+      "EDID": "NVDLC01ToolboxContainerExtra02",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01399E",
+      "FORMID": "01399E",
+      "EDID": "NVDLC01HeadlessCorpseContainer1",
+      "FULL": "Cadáver"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139A0",
+      "FORMID": "0139A0",
+      "EDID": "NVDLC01HeadlessCorpseContainer2",
+      "FULL": "Cadáver"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139A1",
+      "FORMID": "0139A1",
+      "EDID": "NVDLC01HeadlessCorpseContainer3",
+      "FULL": "Cadáver"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139D6",
+      "FORMID": "0139D6",
+      "EDID": "NVDLC01GarbageCanUrban02",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139D9",
+      "FORMID": "0139D9",
+      "EDID": "NVDLC01GarbageCanUrban01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167BCC",
+      "FORMID": "167BCC",
+      "EDID": "VLootSafeGen02",
+      "FULL": "Seguro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01405E",
+      "FORMID": "01405E",
+      "EDID": "NVDLC01TheaterDeanFootlocker",
+      "FULL": "Maleta de Armas"
+    }
+  ]
+}

@@ -1,0 +1,1060 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@DeadMoney.esm:001311",
+      "FORMID": "001311",
+      "EDID": "NVDLC01DebugGalaTrigger",
+      "FULL": "Gatilho de Gala de Depuração"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0029DA",
+      "FORMID": "0029DA",
+      "EDID": "HoloTestCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:003515",
+      "FORMID": "003515",
+      "EDID": "NVDLC01SierraMadreEntryTrigger",
+      "FULL": "Gatilho de Entrada Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:004F08",
+      "FORMID": "004F08",
+      "EDID": "NVDLC01TheaterDeanFirstTrigger",
+      "FULL": "Comece o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005235",
+      "FORMID": "005235",
+      "EDID": "NVDLC01ClinicChristinePanel",
+      "FULL": "Painel de Controle do Auto-Doc"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005239",
+      "FORMID": "005239",
+      "EDID": "NVDLC01ClinicAutoDoc",
+      "FULL": "Auto-Doc Mark IX"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005259",
+      "FORMID": "005259",
+      "EDID": "NVDLC01RadioStartON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00545C",
+      "FORMID": "00545C",
+      "EDID": "NVDLC01HologramCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005D13",
+      "FORMID": "005D13",
+      "EDID": "NVDLC01HireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005D14",
+      "FORMID": "005D14",
+      "EDID": "NVDLC01FireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00636C",
+      "FORMID": "00636C",
+      "EDID": "NVDLC01CasinoHoloCodeHolder",
+      "FULL": "Hologramas de Ensino do Cassino"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00680E",
+      "FORMID": "00680E",
+      "EDID": "NVDLC01GasValveRepair",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CA6",
+      "FORMID": "006CA6",
+      "EDID": "NVDLC01RadioSphereTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E94",
+      "FORMID": "006E94",
+      "EDID": "NVDLC01Radio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E98",
+      "FORMID": "006E98",
+      "EDID": "NVDLC01CollarTestConsole",
+      "FULL": "Console de Teste de Colar"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E9E",
+      "FORMID": "006E9E",
+      "EDID": "NVDLC01SpeakerINV",
+      "FULL": "Orador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006ED3",
+      "FORMID": "006ED3",
+      "EDID": "NVDLC01VaultHoloTrigger01",
+      "FULL": "Comece o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:007401",
+      "FORMID": "007401",
+      "EDID": "NVDLC01HoloEmitterA",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:007402",
+      "FORMID": "007402",
+      "EDID": "NVDLC01HoloEmitterC",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:007403",
+      "FORMID": "007403",
+      "EDID": "NVDLC01HoloEmitterB",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:008FC2",
+      "FORMID": "008FC2",
+      "EDID": "NVDLC01PatrolTrigger",
+      "FULL": "Pacotes de Patrulha da Cidade Oeste"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A53B",
+      "FORMID": "00A53B",
+      "EDID": "NVDLC01HologramStopTrigger",
+      "FULL": "Pare o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A59C",
+      "FORMID": "00A59C",
+      "EDID": "NVDLC01LobbyCodeHolder",
+      "FULL": "Portador do Código do Lobby"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A59D",
+      "FORMID": "00A59D",
+      "EDID": "NVDLC01CasinoSwitchCodeBox",
+      "FULL": "Caixa de Código do Interruptor do Cassino"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A59E",
+      "FORMID": "00A59E",
+      "EDID": "NVDLC01CasinoSwitch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A847",
+      "FORMID": "00A847",
+      "EDID": "NVDLC01TrapTripwire",
+      "FULL": "Armadilha de Fio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ABEC",
+      "FORMID": "00ABEC",
+      "EDID": "NVDLC01VendingArtDeco",
+      "FULL": "Máquina de Venda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AD9A",
+      "FORMID": "00AD9A",
+      "EDID": "NVDLC01SuitesBarkActivator",
+      "FULL": "Ativador de Intercom de Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ADC4",
+      "FORMID": "00ADC4",
+      "EDID": "NVDLC01DogGalaTrigger",
+      "FULL": "Gatilho da Gala do Dog"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE26",
+      "FORMID": "00AE26",
+      "EDID": "NVDLC01VaultCodeHolder",
+      "FULL": "Mostrar Fim de Jogo Direto"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE29",
+      "FORMID": "00AE29",
+      "EDID": "NVDLC01DeanGalaTrigger",
+      "FULL": "Gatilho da Gala do Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE2C",
+      "FORMID": "00AE2C",
+      "EDID": "NVDLC01ChristineGalaTrigger",
+      "FULL": "Gatilho de Gala Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AE73",
+      "FORMID": "00AE73",
+      "EDID": "NVDLC01VistaWestherVolume",
+      "FULL": "Definir Clima da Vista"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BE21",
+      "FORMID": "00BE21",
+      "EDID": "NVDLC01VaultTurretCodeHolder",
+      "FULL": "Torretas: Contador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C10B",
+      "FORMID": "00C10B",
+      "EDID": "NVDLC01GalaActivator",
+      "FULL": "Painel de Controle de Fogos de Artifício"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C14D",
+      "FORMID": "00C14D",
+      "EDID": "NVDLC01VaultMainDoorSealTrigger",
+      "FULL": "Selar o Cofre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4CF",
+      "FORMID": "00C4CF",
+      "EDID": "NVDLC01RouletteTable",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C54E",
+      "FORMID": "00C54E",
+      "EDID": "NVDLC01TrapBearTrap",
+      "FULL": "Armadilha de Urso"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C596",
+      "FORMID": "00C596",
+      "EDID": "NVDLC01VaultPlayerSafeTrigger",
+      "FULL": "Zona Segura do Jogador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C59C",
+      "FORMID": "00C59C",
+      "EDID": "NVDLC01VillaTravelTrigger",
+      "FULL": "Transição para Villa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C827",
+      "FORMID": "00C827",
+      "EDID": "NVDLC01SuitesAutoDoc",
+      "FULL": "Auto-Doc Mk I"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C828",
+      "FORMID": "00C828",
+      "EDID": "NVDLC01SuitesSurgeryReadyActivator",
+      "FULL": "Ativador Pronto para Cirurgia de Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C829",
+      "FORMID": "00C829",
+      "EDID": "NVDLC01SuitesChristineConvActivator",
+      "FULL": "Ativador de Intercom de Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CDE2",
+      "FORMID": "00CDE2",
+      "EDID": "NVDLC01VaultPlayerBlocksTrigger",
+      "FULL": "Zona de Bloqueio do Jogador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D95A",
+      "FORMID": "00D95A",
+      "EDID": "NVDLC01BlackjackTable",
+      "FULL": "Mesa de Blackjack",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DFD1",
+      "FORMID": "00DFD1",
+      "EDID": "NVDLC01DogBarkTrigger",
+      "FULL": "Gatilho do Latido do Dog"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E1DE",
+      "FORMID": "00E1DE",
+      "EDID": "NVDLC01Slot01",
+      "FULL": "Máquina Caça-Níqueis",
+      "XATO": "Jogar Slots"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2AA",
+      "FORMID": "00E2AA",
+      "EDID": "NVDLC01VaultKillTrigger",
+      "FULL": "Matar Jogador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2CD",
+      "FORMID": "00E2CD",
+      "EDID": "NVDLC01Gala02Ebox",
+      "FULL": "Caixa Elétrica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E424",
+      "FORMID": "00E424",
+      "EDID": "NVDLC01HamRadio",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E426",
+      "FORMID": "00E426",
+      "EDID": "NVDLC01HamRadioON",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E4E7",
+      "FORMID": "00E4E7",
+      "EDID": "NVDLC01GodBarkActivator",
+      "FULL": "Ativador de Latido do Porão de God"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E545",
+      "FORMID": "00E545",
+      "EDID": "NVDLC01wtCrowdControlN01",
+      "FULL": "Controle de Multidão WT"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D72",
+      "FORMID": "020D72",
+      "EDID": "DrinkFireHydrant01Avg",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E546",
+      "FORMID": "00E546",
+      "EDID": "NVDLC01wtCrowdControlN02",
+      "FULL": "Controle de Multidão WT"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D73",
+      "FORMID": "020D73",
+      "EDID": "DrinkFireHydrant03Purified",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E8A0",
+      "FORMID": "00E8A0",
+      "EDID": "NVDLC01TheaterCodeHolder",
+      "FULL": "Cena Direta do Teatro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E9F5",
+      "FORMID": "00E9F5",
+      "EDID": "NVDLC01TheaterProjector",
+      "FULL": "Projetor de Holotape"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC92",
+      "FORMID": "00EC92",
+      "EDID": "NVDLC01Gala02ElevatorTopsideDoor",
+      "FULL": "Elevador para a Estação de Comutação"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC93",
+      "FORMID": "00EC93",
+      "EDID": "NVDLC01Gala02ElevatorDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED52",
+      "FORMID": "00ED52",
+      "EDID": "NVDLC01TheaterTapeRecorder",
+      "FULL": "Gravador de Holotape"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F224",
+      "FORMID": "00F224",
+      "EDID": "NVDLC01DeanBarkTrigger",
+      "FULL": "Gatilho do Dean Bark"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F229",
+      "FORMID": "00F229",
+      "EDID": "NVDLC01RadioDean",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F41F",
+      "FORMID": "00F41F",
+      "EDID": "NVDLC01StealthTestCodeBox",
+      "FULL": "Pacotes de Patrulha de Teste de Furtividade"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FFD5",
+      "FORMID": "00FFD5",
+      "EDID": "NVDLC01VerasPartituresActivator",
+      "FULL": "Partituras da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01009C",
+      "FORMID": "01009C",
+      "EDID": "NVDLC01ElijahMedicalTrigger",
+      "FULL": "Ativador de Latido do Distrito Médico Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01009F",
+      "FORMID": "01009F",
+      "EDID": "NVDLC01ElijahResidentialTrigger",
+      "FULL": "Casca Residencial de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0100A2",
+      "FORMID": "0100A2",
+      "EDID": "NVDLC01ElijahEastTownTrigger",
+      "FULL": "Gatilho da Cidade Leste de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0100A6",
+      "FORMID": "0100A6",
+      "EDID": "NVDLC01ElijahWestTownTrigger",
+      "FULL": "Gatilho da Cidade Oeste de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010416",
+      "FORMID": "010416",
+      "EDID": "NVDLC01ResetBarkTrigger",
+      "FULL": "Redefinir Gatilho de Latido"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010626",
+      "FORMID": "010626",
+      "EDID": "NVDLC01KitchenGasValve",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0107F6",
+      "FORMID": "0107F6",
+      "EDID": "NVDLC01ETNGalaGauntletGhostTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109F5",
+      "FORMID": "0109F5",
+      "EDID": "NVDLC01SpeakerINVOff",
+      "FULL": "Orador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010A10",
+      "FORMID": "010A10",
+      "EDID": "NVDLC01SlideShowTrigger",
+      "FULL": "NVDLC01 Disparador de Apresentação de Slides"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010A20",
+      "FORMID": "010A20",
+      "EDID": "NVDLC01ETNGGGSwitch01Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010A21",
+      "FORMID": "010A21",
+      "EDID": "NVDLC01ETNGGGSwitch02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010ABF",
+      "FORMID": "010ABF",
+      "EDID": "DrinkSinkMetal01Avg",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010AF7",
+      "FORMID": "010AF7",
+      "EDID": "NVDLC01DeanBarkActivateTrigger",
+      "FULL": "Ativador de Dean Bark"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BFD",
+      "FORMID": "010BFD",
+      "EDID": "NVDLC01ClinicBarkTrigger",
+      "FULL": "Gatilho de Latido de Companheiro da Clínica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DCB",
+      "FORMID": "010DCB",
+      "EDID": "NVDLC01LobbyElijahBark01",
+      "FULL": "Bem, bem, bem. Olha o que o gato trouxe."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E06",
+      "FORMID": "010E06",
+      "EDID": "NVDLC01GhostSpawnTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E07",
+      "FORMID": "010E07",
+      "EDID": "NVDLC01GhostSpawnTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E08",
+      "FORMID": "010E08",
+      "EDID": "NVDLC01GhostSpawnDisable",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E88",
+      "FORMID": "010E88",
+      "EDID": "NVDLC01BunkerRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010ED5",
+      "FORMID": "010ED5",
+      "EDID": "NVDLC01HologramFriendCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EF2",
+      "FORMID": "010EF2",
+      "EDID": "NVDLC01TrapPressurePlate",
+      "FULL": "Placa de Pressão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EF7",
+      "FORMID": "010EF7",
+      "EDID": "NVDLC01GhostSpawnTrigger03",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010F5C",
+      "FORMID": "010F5C",
+      "EDID": "NVDLC01ClinicElijahBark01Trigger",
+      "FULL": "Gatilho de Latido de Elijah na Clínica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010F61",
+      "FORMID": "010F61",
+      "EDID": "NVDLC01ClinicElijahBark02Trigger",
+      "FULL": "Gatilho de Latido de Elijah na Clínica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010F63",
+      "FORMID": "010F63",
+      "EDID": "NVDLC01VillaElijahTrigger",
+      "FULL": "Ativador de Casca de Elijah da Vila"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111BF",
+      "FORMID": "0111BF",
+      "EDID": "NVDLC01TheaterDeanBark04Trigger",
+      "FULL": "Dean Rosna"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111C0",
+      "FORMID": "0111C0",
+      "EDID": "NVDLC01TheaterDeanBark03Trigger",
+      "FULL": "Dean Rosna"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111C1",
+      "FORMID": "0111C1",
+      "EDID": "NVDLC01TheaterDeanBark02Trigger",
+      "FULL": "Dean Rosna"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111C2",
+      "FORMID": "0111C2",
+      "EDID": "NVDLC01TheaterDeanBark01Trigger",
+      "FULL": "Dean Rosna"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011219",
+      "FORMID": "011219",
+      "EDID": "NVDLC01CraftingOven",
+      "FULL": "Chapa Elétrica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011407",
+      "FORMID": "011407",
+      "EDID": "NVDLC01SuitesElijahElevatorTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011408",
+      "FORMID": "011408",
+      "EDID": "NVDLC01SuitesVaultIntercom",
+      "FULL": "Microfone do Elevador do Cofre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011476",
+      "FORMID": "011476",
+      "EDID": "NVDLC01VendingBarkTrigger",
+      "FULL": "Eu não fui programada para fazer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0118F8",
+      "FORMID": "0118F8",
+      "EDID": "NVDLC01Gala02FirstDoorBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0118F9",
+      "FORMID": "0118F9",
+      "EDID": "NVDLC01Gala02ExitingCloudBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0118FA",
+      "FORMID": "0118FA",
+      "EDID": "NVDLC01Gala02EnteringCloudBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0118FB",
+      "FORMID": "0118FB",
+      "EDID": "NVDLC01Gala02CloudTerminalBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0118FC",
+      "FORMID": "0118FC",
+      "EDID": "NVDLC01Gala02BrokenCatwalkBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011A43",
+      "FORMID": "011A43",
+      "EDID": "NVDLC01SuitesElijahSecondUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011A44",
+      "FORMID": "011A44",
+      "EDID": "NVDLC01SuitesElijahFirstUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011ADA",
+      "FORMID": "011ADA",
+      "EDID": "NVDLC01Gala02EnterElijahBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011ADB",
+      "FORMID": "011ADB",
+      "EDID": "NVDLC01Gala02ChristineJumpBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011ADC",
+      "FORMID": "011ADC",
+      "EDID": "NVDLC01Gala02ElijahCloudBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BC4",
+      "FORMID": "011BC4",
+      "EDID": "NVDLC01ETDogGalaBarkTrigger",
+      "FULL": "Cachorro perto do gatilho de latido da gala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BC7",
+      "FORMID": "011BC7",
+      "EDID": "NVDLC01ETDeanGasBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C0E",
+      "FORMID": "011C0E",
+      "EDID": "NVDLC01TheaterElijahFirstUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C11",
+      "FORMID": "011C11",
+      "EDID": "NVDLC01TheaterElijahTapeUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C34",
+      "FORMID": "011C34",
+      "EDID": "NVDLC01KitchenElijahFirstUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C35",
+      "FORMID": "011C35",
+      "EDID": "NVDLC01KitchenElijahTapeUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C36",
+      "FORMID": "011C36",
+      "EDID": "NVDLC01SuitesElijahTapeUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011DDF",
+      "FORMID": "011DDF",
+      "EDID": "NVDLC01CloudResidue",
+      "FULL": "Resíduo da Nuvem",
+      "XATO": "Coletar Resíduo de Nuvem"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F4C",
+      "FORMID": "011F4C",
+      "EDID": "NVDLC01RadioElijahActivator",
+      "FULL": "Volume de Ativação do Rádio Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F66",
+      "FORMID": "011F66",
+      "EDID": "NVDLC01ClinicAutoDocChristine",
+      "FULL": "Auto-Doc com Defeito"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120A8",
+      "FORMID": "0120A8",
+      "EDID": "NVDLC01GhostBarkTrigger",
+      "FULL": "Disparador de Latido Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012265",
+      "FORMID": "012265",
+      "EDID": "NVDLC01VaultCollarCodeHolder",
+      "FULL": "Contador de Colar Bomba"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012266",
+      "FORMID": "012266",
+      "EDID": "NVDLC01VaultPlayerTroubleTrigger",
+      "FULL": "Zona de Problemas do Jogador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01226D",
+      "FORMID": "01226D",
+      "EDID": "NVDLC01DogGalaDiagram",
+      "FULL": "Diagrama Elétrico",
+      "XATO": "Ler Diagrama Elétrico"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01226E",
+      "FORMID": "01226E",
+      "EDID": "NVDLC01DogGalaElectricalSwitch",
+      "FULL": "Interruptor Elétrico Corroído"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0123E5",
+      "FORMID": "0123E5",
+      "EDID": "NVDLC01ChristineSpeakerDialogueTrigger",
+      "FULL": "[Fez isso?]"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012500",
+      "FORMID": "012500",
+      "EDID": "NVDLC01VendingArtDecoOFF",
+      "FULL": "Máquina de Venda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01266A",
+      "FORMID": "01266A",
+      "EDID": "NVDLC01VaultExplosionTrigger01",
+      "FULL": "Fogos de artifício!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126D2",
+      "FORMID": "0126D2",
+      "EDID": "NVDLC01ElijahMojaveBarkTrigger",
+      "FULL": "Gatilho de Latido Mojave de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126D8",
+      "FORMID": "0126D8",
+      "EDID": "NVDLC01ElijahCasinoGateBarkTrigger",
+      "FULL": "Gatilho do Cão de Guarda do Portão do Cassino Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0127F6",
+      "FORMID": "0127F6",
+      "EDID": "NVDLC01WTChristineTerrifiedSoundBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012BAF",
+      "FORMID": "012BAF",
+      "EDID": "NVDLC01GodTapeActivator",
+      "FULL": "Ativador da Fita do Porão de God"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F60",
+      "FORMID": "012F60",
+      "EDID": "NVDLC01WTElijahHolorifleBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01302E",
+      "FORMID": "01302E",
+      "EDID": "NVDLC01HologramFriendCodeHolder2",
+      "FULL": "Dirija o Show Parte Dois"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013551",
+      "FORMID": "013551",
+      "EDID": "NVDLC01SuitesGasValve",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013780",
+      "FORMID": "013780",
+      "EDID": "NVDLC01HoloEmitterVendor",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013867",
+      "FORMID": "013867",
+      "EDID": "NVDLC01KitchenElijahSecondUpTrigger",
+      "FULL": "Transmissão de Sinal de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138A8",
+      "FORMID": "0138A8",
+      "EDID": "NVDLC01ElijahsChemistrySet",
+      "FULL": "Conjunto de Química de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01393A",
+      "FORMID": "01393A",
+      "EDID": "NVDLC01VaultTurretBox",
+      "FULL": "Gerador Elétrico de Defesa da Torreta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139BF",
+      "FORMID": "0139BF",
+      "EDID": "NVDLC01VaultElijahScreen",
+      "FULL": "Tela do Cofre Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139C4",
+      "FORMID": "0139C4",
+      "EDID": "NVDLC01DrinkUrinal01Avg",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139CC",
+      "FORMID": "0139CC",
+      "EDID": "NVDLC01DrinkUrinal03Purified",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139DC",
+      "FORMID": "0139DC",
+      "EDID": "NVDLC01GlobalToxicBarkTrigger",
+      "FULL": "Casca Tóxica Global de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FA",
+      "FORMID": "0139FA",
+      "EDID": "NVDLC01HoloEmitterA25",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FB",
+      "FORMID": "0139FB",
+      "EDID": "NVDLC01HoloEmitterA50",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FC",
+      "FORMID": "0139FC",
+      "EDID": "NVDLC01HoloEmitterA75",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FD",
+      "FORMID": "0139FD",
+      "EDID": "NVDLC01HoloEmitterB25",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FE",
+      "FORMID": "0139FE",
+      "EDID": "NVDLC01HoloEmitterB50",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139FF",
+      "FORMID": "0139FF",
+      "EDID": "NVDLC01HoloEmitterB75",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A00",
+      "FORMID": "013A00",
+      "EDID": "NVDLC01HoloEmitterC25",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A01",
+      "FORMID": "013A01",
+      "EDID": "NVDLC01HoloEmitterC50",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A02",
+      "FORMID": "013A02",
+      "EDID": "NVDLC01HoloEmitterC75",
+      "FULL": "Emissor de Holograma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A05",
+      "FORMID": "013A05",
+      "EDID": "NVDLC01EnableElijahTrigger",
+      "FULL": "Ativar Gatilho Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A5E",
+      "FORMID": "013A5E",
+      "EDID": "NVDLC01ElijahProjector",
+      "FULL": "Projetor Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A7B",
+      "FORMID": "013A7B",
+      "EDID": "NVDLC01PostChristineEnemyEnableTrigger",
+      "FULL": "Gatilho de Ativação de Inimigo Pós-Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A7C",
+      "FORMID": "013A7C",
+      "EDID": "NVDLC01PoliceStationDoorTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C1B",
+      "FORMID": "013C1B",
+      "EDID": "NVDLC01MQ03aEscapeTrigger",
+      "FULL": "Gatilho de Fuga da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C64",
+      "FORMID": "013C64",
+      "EDID": "NVFollowerFireTrigger",
+      "FULL": "Novo Vegas Companheiro Disparador de Fogo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C66",
+      "FORMID": "013C66",
+      "EDID": "NVDLC01SuitesEscapeTrigger",
+      "FULL": "Gatilho de Fuga das Suítes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C6E",
+      "FORMID": "013C6E",
+      "EDID": "NVDLC01ScareHarvesterActivateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C6F",
+      "FORMID": "013C6F",
+      "EDID": "NVDLC01InitialHarvesterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C70",
+      "FORMID": "013C70",
+      "EDID": "NVDLC01ScareHarvesterDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013C87",
+      "FORMID": "013C87",
+      "EDID": "NVDLC01ElijahFountainActivator",
+      "FULL": "Pai Elijah",
+      "XATO": "Fale com o Padre Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D90",
+      "FORMID": "013D90",
+      "EDID": "NVDLC01WorshipBreakingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D91",
+      "FORMID": "013D91",
+      "EDID": "NVDLC01HologramWorshipTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013F5D",
+      "FORMID": "013F5D",
+      "EDID": "NVDLC01RadioElijahSpeaker",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013F78",
+      "FORMID": "013F78",
+      "EDID": "NVDLC01TheaterEscapeTrigger",
+      "FULL": "Gatilho de Fuga do Teatro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013FB2",
+      "FORMID": "013FB2",
+      "EDID": "NVDLC01ReturnEquipmentTrigger",
+      "FULL": "Ativador de Retorno de Equipamento do Jogador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013FF5",
+      "FORMID": "013FF5",
+      "EDID": "NVDLC01SuitesNoSleepTrigger",
+      "FULL": "Gatilho Sem Sono das Suítes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013FFB",
+      "FORMID": "013FFB",
+      "EDID": "NVDLC01FollowerGhostBarkTrigger",
+      "FULL": "Gatilho de Latido do Seguidor Ghost"
+    },
+    {
+      "FORM": "@DeadMoney.esm:014015",
+      "FORMID": "014015",
+      "EDID": "NVDLC01trapShotgun",
+      "FULL": "Espingarda Armadilhada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:014016",
+      "FORMID": "014016",
+      "EDID": "NVDLC01SprungTrapBearTrap",
+      "FULL": "Armadilha de Urso"
+    },
+    {
+      "FORM": "@DeadMoney.esm:014024",
+      "FORMID": "014024",
+      "EDID": "NVDLC01StopGodBasementBarkTrigger",
+      "FULL": "Parar Gatilho de Latido do Deus no Porão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01406C",
+      "FORMID": "01406C",
+      "EDID": "NVDLC01TheaterKeyTrigger",
+      "FULL": "Gatilho da Chave do Teatro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01406E",
+      "FORMID": "01406E",
+      "EDID": "NVDLC01ChristineWaitTrigger",
+      "FULL": "Gatilho de Espera de Christine"
+    },
+    {
+      "FORM": "@DeadMoney.esm:014077",
+      "FORMID": "014077",
+      "EDID": "NVDLC01GotDogTapeTrigger",
+      "FULL": "Gatilho da Fita do Dog"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1658BA",
+      "FORMID": "1658BA",
+      "EDID": "MedicalClinicAutoDoc",
+      "FULL": "Auto-Doc Mk I"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "WEAP": [
+    {
+      "FORM": "@Anchorage.esm:00C06C",
+      "FORMID": "00C06C",
+      "EDID": "DLC02Weap10mmPistolWasteland",
+      "FULL": "Pistola 10mm de Liga de Aço"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C7C2",
+      "FORMID": "00C7C2",
+      "EDID": "DLC02WeapShotgunCombat",
+      "FULL": "Escopeta de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002972",
+      "FORMID": "002972",
+      "EDID": "testPhilWeap10mmPistolSilenced",
+      "FULL": "Pistola 10mm com Silenciador e Sem Munição"
+    },
+    {
+      "FORM": "@Anchorage.esm:004DAD",
+      "FORMID": "004DAD",
+      "EDID": "testPhilElectricSword",
+      "FULL": "Espada Elétrica"
+    },
+    {
+      "FORM": "@Anchorage.esm:00AACC",
+      "FORMID": "00AACC",
+      "EDID": "DLC02WeapMontgomeryAssaultRifle",
+      "FULL": "Rifle de Assalto"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B554",
+      "FORMID": "00B554",
+      "EDID": "DLC02WeapShockSword",
+      "FULL": "Espada Elétrica de Jingwei"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F72",
+      "FORMID": "003F72",
+      "EDID": "DLC02Weap10mmSubmachineGun",
+      "FULL": "Submetralhadora 10mm"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F4A",
+      "FORMID": "003F4A",
+      "EDID": "DLC02Weap10mmPistolSilenced",
+      "FULL": "Pistola 10mm com Silenciador"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F49",
+      "FORMID": "003F49",
+      "EDID": "DLC02Weap10mmPistol",
+      "FULL": "Pistola 10mm"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F48",
+      "FORMID": "003F48",
+      "EDID": "DLC02WeapSniperRifle",
+      "FULL": "Sniper"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F46",
+      "FORMID": "003F46",
+      "EDID": "DLC02WeapMissileLauncher",
+      "FULL": "Lança - Mísseis"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F45",
+      "FORMID": "003F45",
+      "EDID": "DLC02WeapMineFrag",
+      "FULL": "Mina de Fragmentação"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F44",
+      "FORMID": "003F44",
+      "EDID": "DLC02WeapKnifeCombat",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F43",
+      "FORMID": "003F43",
+      "EDID": "DLC02WeapGrenadeFrag",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F42",
+      "FORMID": "003F42",
+      "EDID": "DLC02WeapFlamer",
+      "FULL": "Lança-Chamas"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F41",
+      "FORMID": "003F41",
+      "EDID": "DLC02WeapChinesePistol",
+      "FULL": "Pistola Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F40",
+      "FORMID": "003F40",
+      "EDID": "DLC02WeapChineseOfficerSword",
+      "FULL": "Espada de Oficial Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F3F",
+      "FORMID": "003F3F",
+      "EDID": "DLC02WeapChineseAssaultRifle",
+      "FULL": "Rifle de Assalto Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003F3E",
+      "FORMID": "003F3E",
+      "EDID": "DLC02WeapAssaultRifle",
+      "FULL": "Rifle de Assalto"
+    },
+    {
+      "FORM": "@Anchorage.esm:008236",
+      "FORMID": "008236",
+      "EDID": "testPhilSmokeGrenade",
+      "FULL": "Granada de Fumaça"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CF2E",
+      "FORMID": "00CF2E",
+      "EDID": "DLCAnchChimeraLaserCanonBLOCKER",
+      "FULL": "Tanque Laser de Teste"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BEB5",
+      "FORMID": "00BEB5",
+      "EDID": "testphilShockSwordStack",
+      "FULL": "Espada Elétrica de Jingwei Stack"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A4DF",
+      "FORMID": "00A4DF",
+      "EDID": "DLC02TestGun",
+      "FULL": "Pistola de Teste"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C38E",
+      "FORMID": "00C38E",
+      "EDID": "testphilShockSwordDOT",
+      "FULL": "Espada Elétrica de Jingwei DOT"
+    },
+    {
+      "FORM": "@Anchorage.esm:003E21",
+      "FORMID": "003E21",
+      "EDID": "DLCAnchChimeraLobber",
+      "FULL": "Tanque Laser de Teste"
+    },
+    {
+      "FORM": "@Anchorage.esm:003BFB",
+      "FORMID": "003BFB",
+      "EDID": "DLCAnchChimeraLaserCanon",
+      "FULL": "Tanque Laser de Teste"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A4DD",
+      "FORMID": "00A4DD",
+      "EDID": "DLC02BombFlare",
+      "FULL": "Foguetes de Sinalização"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE38",
+      "FORMID": "00BE38",
+      "EDID": "testPhilElectricSwordB",
+      "FULL": "Dano Múltiplo da Espada Elétrica"
+    },
+    {
+      "FORM": "@Anchorage.esm:003A04",
+      "FORMID": "003A04",
+      "EDID": "DLC02WeapGaussRifle",
+      "FULL": "Rifle Gauss"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE37",
+      "FORMID": "00BE37",
+      "EDID": "testPhilElectricSwordA",
+      "FULL": "Dano Crítico de Eletrocussão da Espada Elétrica A"
+    },
+    {
+      "FORM": "@Anchorage.esm:00AF7D",
+      "FORMID": "00AF7D",
+      "EDID": "DLC02WeapHIGHDMGChineseAssaultRifle",
+      "FULL": "Rifle de Assalto Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C07D",
+      "FORMID": "00C07D",
+      "EDID": "DLC02WeapGaussRifleWasteland",
+      "FULL": "Rifle Gauss"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C07C",
+      "FORMID": "00C07C",
+      "EDID": "DLC02WeapShockSwordWasteland",
+      "FULL": "Espada Elétrica de Jingwei"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CBFC",
+      "FORMID": "00CBFC",
+      "EDID": "DLC02WeapLaserRifle",
+      "FULL": "Rifle Laser"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C07B",
+      "FORMID": "00C07B",
+      "EDID": "DLC02WeapKnifeCombatWasteland",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C071",
+      "FORMID": "00C071",
+      "EDID": "DLC02WeapChinesePistolWasteland",
+      "FULL": "Pistola de Dragão Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C070",
+      "FORMID": "00C070",
+      "EDID": "DLC02WeapChineseAssaultRifleWasteland",
+      "FULL": "Rifle de Assalto de Dragão Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C06F",
+      "FORMID": "00C06F",
+      "EDID": "DLC02Weap10mmSubmachineGunWasteland",
+      "FULL": "Submetralhadora 10mm de Liga de Aço"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C06E",
+      "FORMID": "00C06E",
+      "EDID": "DLC02WeapAssaultRifleWasteland",
+      "FULL": "Rifle de Assalto de Liga de Aço"
+    },
+    {
+      "FORM": "@Anchorage.esm:001616",
+      "FORMID": "001616",
+      "EDID": "testPhilGaussRifle",
+      "FULL": "Rifle Gauss"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C06D",
+      "FORMID": "00C06D",
+      "EDID": "DLC02Weap10mmPistolSilencedWasteland",
+      "FULL": "Pistola 10mm de Liga de Aço com Silenciador"
+    }
+  ]
+}

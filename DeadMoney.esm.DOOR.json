@@ -1,0 +1,418 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@DeadMoney.esm:0029DB",
+      "FORMID": "0029DB",
+      "EDID": "NVDLC01ElevatorVaultLevel",
+      "FULL": "Elevador do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00469D",
+      "FORMID": "00469D",
+      "EDID": "NVDLC01CasHotelDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00469E",
+      "FORMID": "00469E",
+      "EDID": "NVDLC01CasHotelDoorSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00469F",
+      "FORMID": "00469F",
+      "EDID": "NVDLC01CasHotelDoorSmL03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A0",
+      "FORMID": "0046A0",
+      "EDID": "NVDLC01CasHotelDoorSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A1",
+      "FORMID": "0046A1",
+      "EDID": "NVDLC01CasHotelDoorSmR02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A2",
+      "FORMID": "0046A2",
+      "EDID": "NVDLC01CasHotelDoorSmR03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A3",
+      "FORMID": "0046A3",
+      "EDID": "NVDLC01CasHotelDoorSmStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A4",
+      "FORMID": "0046A4",
+      "EDID": "NVDLC01CasHotelDoorSmStaticA",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A5",
+      "FORMID": "0046A5",
+      "EDID": "NVDLC01TheaterIntDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A6",
+      "FORMID": "0046A6",
+      "EDID": "NVDLC01TheaterIntWideDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A7",
+      "FORMID": "0046A7",
+      "EDID": "NVDLC01TheaterMainDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A8",
+      "FORMID": "0046A8",
+      "EDID": "NVDLC01ToTheaterDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046A9",
+      "FORMID": "0046A9",
+      "EDID": "NVDLC01TheaterBackDoorSmR03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046AA",
+      "FORMID": "0046AA",
+      "EDID": "NVDLC01TheaterVeraDoorSmL01",
+      "FULL": "Porta do Camarim da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0046AB",
+      "FORMID": "0046AB",
+      "EDID": "NVDLC01TheaterDeanDoorSmL01",
+      "FULL": "Porta do Camarim de Dean"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C150",
+      "FORMID": "00C150",
+      "EDID": "NVDLC01VaultDoor",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C6FD",
+      "FORMID": "00C6FD",
+      "EDID": "NVDLC01TSKitLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D7E9",
+      "FORMID": "00D7E9",
+      "EDID": "NVDLC01SMGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DACF",
+      "FORMID": "00DACF",
+      "EDID": "NVDLC01VaultMaintDoor",
+      "FULL": "Porta de Manutenção"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DAEE",
+      "FORMID": "00DAEE",
+      "EDID": "NVDLC01TSKitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E27E",
+      "FORMID": "00E27E",
+      "EDID": "NVDLC01SuitesBigDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E27F",
+      "FORMID": "00E27F",
+      "EDID": "NVDLC01SuitesSmallDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E280",
+      "FORMID": "00E280",
+      "EDID": "NVDLC01SuitesSmallDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2C0",
+      "FORMID": "00E2C0",
+      "EDID": "NVDLC01VaultMainDoor",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2D1",
+      "FORMID": "00E2D1",
+      "EDID": "NVDLC01Gala02InitialDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E474",
+      "FORMID": "00E474",
+      "EDID": "NVDLC01TSKitGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7CB",
+      "FORMID": "00E7CB",
+      "EDID": "NVDLC01ElevatorSuitesLevel",
+      "FULL": "Elevador do Vault"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E8A1",
+      "FORMID": "00E8A1",
+      "EDID": "NVDLC01TheaterStageDoorSmL01",
+      "FULL": "Porta do Palco"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC99",
+      "FORMID": "00EC99",
+      "EDID": "NVDLC01Gala02ElevatorControl",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EF12",
+      "FORMID": "00EF12",
+      "EDID": "NVDLC01LobbyTheaterDoor",
+      "FULL": "Porta do Teatro Tampico"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F379",
+      "FORMID": "00F379",
+      "EDID": "NVDLC01LobbytoRestaurantDoor",
+      "FULL": "Porta da Cantina Madrid"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F37A",
+      "FORMID": "00F37A",
+      "EDID": "NVDLC01LobbytoSuitesDoor",
+      "FULL": "Elevador das Suítes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F37B",
+      "FORMID": "00F37B",
+      "EDID": "NVDLC01RestaurantInteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F37C",
+      "FORMID": "00F37C",
+      "EDID": "NVDLC01SuiteInteriorElevator",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F386",
+      "FORMID": "00F386",
+      "EDID": "NVDLC01VaultEntry01Door01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F387",
+      "FORMID": "00F387",
+      "EDID": "NVDLC01VaultEntry02Door01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FFA5",
+      "FORMID": "00FFA5",
+      "EDID": "NVDLC01TSKitDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01063F",
+      "FORMID": "01063F",
+      "EDID": "NVDLC01TheaterBackDoorLLocked",
+      "FULL": "Porta dos Fundos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010640",
+      "FORMID": "010640",
+      "EDID": "NVDLC01TheaterBackDoorRLocked",
+      "FULL": "Porta dos Fundos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01092D",
+      "FORMID": "01092D",
+      "EDID": "NVDLC01TheaterEmergencyDoorSmR03a",
+      "FULL": "Porta de Saída de Emergência"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010A6A",
+      "FORMID": "010A6A",
+      "EDID": "NVDLC01RestaurantKitchenDoor",
+      "FULL": "Porta de Emergência"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B47",
+      "FORMID": "010B47",
+      "EDID": "NVDLC01KitchenBackDoor",
+      "FULL": "Porta de Emergência"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DCC",
+      "FORMID": "010DCC",
+      "EDID": "NVDLC01OffDoorMetalLobby",
+      "FULL": "Porta do Escritório"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DCD",
+      "FORMID": "010DCD",
+      "EDID": "NVDLC01OffDoorSmL01Casino",
+      "FULL": "Porta do Escritório do Caixa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DD6",
+      "FORMID": "010DD6",
+      "EDID": "NVDLC01KitchenBackIntDoor",
+      "FULL": "Porta de Emergência"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0119EB",
+      "FORMID": "0119EB",
+      "EDID": "NVDLC01CasInaccessibleDoorBig01",
+      "FULL": "Porta Selada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B01",
+      "FORMID": "011B01",
+      "EDID": "NVDLC01CasinoSmallDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B8B",
+      "FORMID": "011B8B",
+      "EDID": "NVDLC01CasinoOffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011DB1",
+      "FORMID": "011DB1",
+      "EDID": "NVDLC01SMGateMojave",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C5",
+      "FORMID": "0120C5",
+      "EDID": "NVDLC01ClinicChiefDoctorDoor",
+      "FULL": "Porta para o Escritório do Médico-Chefe"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012173",
+      "FORMID": "012173",
+      "EDID": "NVDLC01OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012174",
+      "FORMID": "012174",
+      "EDID": "NVDLC01OffDoorMetalSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012175",
+      "FORMID": "012175",
+      "EDID": "NVDLC01OffDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012176",
+      "FORMID": "012176",
+      "EDID": "NVDLC01OffDoorSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0121E5",
+      "FORMID": "0121E5",
+      "EDID": "NVDLC01TSKitDoor03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019CF5",
+      "FORMID": "019CF5",
+      "EDID": "OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012BD8",
+      "FORMID": "012BD8",
+      "EDID": "NVDLC01BunkerDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01354E",
+      "FORMID": "01354E",
+      "EDID": "NVDLC01SuitesKitchenDoor",
+      "FULL": "Porta de Emergência"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01354F",
+      "FORMID": "01354F",
+      "EDID": "NVDLC01SuitesEmergencyDoor",
+      "FULL": "Porta de Emergência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E6E4",
+      "FORMID": "02E6E4",
+      "EDID": "HotelDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013911",
+      "FORMID": "013911",
+      "EDID": "NVDLC01ExtraDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013912",
+      "FORMID": "013912",
+      "EDID": "NVDLC01ExtraDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013913",
+      "FORMID": "013913",
+      "EDID": "NVDLC01ExtraDoor03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013914",
+      "FORMID": "013914",
+      "EDID": "NVDLC01FakeBunkerReturnDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A6C",
+      "FORMID": "013A6C",
+      "EDID": "NVDLC01ExtraDoor04",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A6D",
+      "FORMID": "013A6D",
+      "EDID": "NVDLC01ExtraDoor05",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A6E",
+      "FORMID": "013A6E",
+      "EDID": "NVDLC01ExtraDoor06",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AA6",
+      "FORMID": "013AA6",
+      "EDID": "NVDLC01CasinoToLobby",
+      "FULL": "Porta do Cassino"
+    }
+  ]
+}

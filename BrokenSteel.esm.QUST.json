@@ -1,0 +1,180 @@
+{
+  "QUST": [
+    {
+      "FORM": "@BrokenSteel.esm:00817C",
+      "FORMID": "00817C",
+      "EDID": "DLC03DialoguePresidentialMetro",
+      "FULL": "DLC03 Metro Presidencial Dialogue"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006231",
+      "FORMID": "006231",
+      "EDID": "DLC03EnclaveBase",
+      "FULL": "Missão de Apoio da Base da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C75",
+      "FORMID": "004C75",
+      "EDID": "DLC03WQ03",
+      "FULL": "Água Benta",
+      "NNAM": {
+        "50": "Pergunte sobre a água benta no Monastério da Luz Eterna.",
+        "10": "Investigue a área em volta de Megaton para estudar sobre a situação da água.",
+        "60": "(Opcional) Pegue radiação para ganhar entrada no Monastério.",
+        "100": "Pare os Apóstolos da Luz Eterna.",
+        "150": "Informe Bigsley.",
+        "55": "Beba a Água Benta.",
+        "56": "Fale com o Irmão Gerard.",
+        "57": "Ganhe entrada para o Monastério."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B67",
+      "FORMID": "003B67",
+      "EDID": "DLC03WQ02",
+      "FULL": "A Incrível Aqua Cura!",
+      "NNAM": {
+        "20": "Descubra o que Bigsley no Projeto Pureza sabe sobre o abastecimento de água de Griffon.",
+        "10": "Descubra o que Griffon está fazendo com a Aqua Pura no Submundo .",
+        "30": "Descubra a localização e consiga provas da operação de engarrafamento de Griffon.",
+        "40": "Fale com Griffon sobre a operação no edifício do Museu Authority.",
+        "5": "Descubra quem está fornecendo Aqua Pura à Griffon."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B42",
+      "FORMID": "003B42",
+      "EDID": "DLC03WQ01",
+      "FULL": "Protegendo o Caminho da Água",
+      "NNAM": {
+        "2": "Encontre os Oficiais Davis e Lorin junto ao rio, à norte do Projeto Pureza.",
+        "3": "Descubra quem está ordenando os ataques contra as caravanas.",
+        "10": "Lide com Split Jack e sua gangue.",
+        "100": "Informe à Oficial Lepelletier que o trabalho está feito.",
+        "1": "Encontre-se com a Oficial Lepelletier em Rivet City.",
+        "150": "Peça a Bigsley uma recompensa por ajudar a Oficial Lepelletier em Rivet City.",
+        "101": "Informe à Oficial Lepelletier que o trabalho está feito, OU extorque ela para dar dinheiro em troca de \"Proteção\".",
+        "160": "Colete tampinhas da gangue uma vez por semana no Cais de Wilhelm."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003853",
+      "FORMID": "003853",
+      "EDID": "DLC03WQ",
+      "NNAM": {
+        "2": "[Mude isto para WQ03] Descubra o que aconteceu com o carregamento de água de Megaton."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003383",
+      "FORMID": "003383",
+      "EDID": "DLC03AudioHolotapes",
+      "FULL": "Fita Holográfica de Áudio para DLC03"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DC4",
+      "FORMID": "002DC4",
+      "EDID": "DLC03ConvCitadel",
+      "FULL": "DLC03 Cidadela Conversations"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0011AD",
+      "FORMID": "0011AD",
+      "EDID": "DLC03BS3",
+      "FULL": "Quem Arrisca Ganha",
+      "NNAM": {
+        "10": "Entre no Metro Presidencial.",
+        "20": "Localize a Saída da Base de Força Aérea Adams.",
+        "30": "Consiga ordens e equipamentos na Caixa de Reabastecimento.",
+        "50": "Entre na Plataforma Móvel da Enclave.",
+        "60": "Destrua a Plataforma Móvel da Enclave com um Ataque Orbital.",
+        "70": "Escape da Plataforma Móvel da Enclave.",
+        "80": "Suba a Bordo do Vertibird Capturado.",
+        "25": "(Opcional) Arrume a falha de segurança no Metro Presidencial .",
+        "40": "Encontre o Terminal de Acesso para baixar a rampa da Plataforma Móvel."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000AFD",
+      "FORMID": "000AFD",
+      "EDID": "DLC03BS2",
+      "FULL": "Valor do Impacto",
+      "NNAM": {
+        "10": "Fale com o Paladino Tristan.",
+        "20": "Encontre as ruínas da Olney Powerworks.",
+        "30": "Adquira uma Bobina de Tesla.",
+        "40": "Entregue a Bobina de Tesla para o Paladino Tristan.",
+        "50": "Fale com o Paladino Tristan para receber sua próxima missão.",
+        "60": "(Opcional) Fale com o Escrivão Vallincourt no Laboratório da Cidadela.",
+        "61": "(Opcional) Use os Deathclaws controlados pela Enclave a seu favor."
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000802",
+      "FORMID": "000802",
+      "EDID": "DLC03BS1",
+      "FULL": "Ataque por Cima",
+      "NNAM": {
+        "10": "Fale com o Escrivão Rothchild.",
+        "20": "Ajude o Paladino Tristan durante o assalto.",
+        "30": "Recupere os dados do Satélite de Retransmissão.",
+        "40": "Entregue os dados para o Escrivão Rothchild.",
+        "50": "Informe à Ancião Lyons.",
+        "15": "Encontre o Paladino Tristan no Túnel de Carros de Rockland."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:022486",
+      "FORMID": "022486",
+      "EDID": "RadioGalaxyNewsQuest",
+      "FULL": "Rádio de Notícias Galaxy"
+    },
+    {
+      "FORM": "@Fallout3.esm:014E9E",
+      "FORMID": "014E9E",
+      "EDID": "MS11",
+      "FULL": "O Poder do Átomo",
+      "NNAM": {
+        "10": "Desarme a bomba atômica de Megaton.",
+        "15": "Burle a bomba atômica de Megaton para Explodir.",
+        "30": "Informe a Lucas Simms em Megaton.",
+        "40": "Informe ao Senhor Burke na Torre Tenpenny.",
+        "50": "Ative o detonador na Torre Tenpenny.",
+        "60": "Receba a recompensa do Senhor Burke na Torre Tenpenny.",
+        "20": "Desarme a bomba atômica de Megaton... ou a burle para explodir.",
+        "31": "Informe ao filho de Lucas Simms, Harden, em Megaton.",
+        "1": "[Opcional] Pergunte a Leo Stahl no Brass Lantern sobre comprar Mentats.",
+        "2": "[Opcional] Encontre Leo Stahl na planta de tratamento de água em troca de Mentats.",
+        "3": "[Opcional] Roube as coisas de Leo Stahl na planta de tratamento de água em troca de Mentats."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E93",
+      "FORMID": "014E93",
+      "EDID": "MQA",
+      "FULL": "Projeto Impureza",
+      "NNAM": {
+        "10": "Infecte o abastecimento de água do Projeto Pureza... Ou não.",
+        "100": "Você infectou o abastecimento de água do Projeto Pureza.",
+        "200": "Você devolveu o vírus FEV para o Ancião Lyons."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E91",
+      "FORMID": "014E91",
+      "EDID": "MQ11",
+      "FULL": "Devolve-los!",
+      "NNAM": {
+        "10": "Fale com Sarah Lyons sobre as instruções da missão.",
+        "20": "Prepare-se para a batalha, e então reporte à Sarah Lyons.",
+        "30": "Siga Liberty Prime em seu caminho até o Purificados.",
+        "40": "Chegue até a sala de controle do Projeto Pureza.",
+        "50": "Assegure a sala de controle do Projeto Pureza.",
+        "60": "Ative o Projeto Pureza!",
+        "1": "Siga o Ancião Lyons até o Lab. da Cidadela.",
+        "61": "Ative a cabine pressurizada para Sarah.",
+        "65": "Diga ao seu seguidor para iniciar o purificador."
+      }
+    }
+  ]
+}

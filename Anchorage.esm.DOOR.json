@@ -1,0 +1,82 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@Anchorage.esm:00C198",
+      "FORMID": "00C198",
+      "EDID": "DLCAnchTentDoorLoadAmerican",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B14A",
+      "FORMID": "00B14A",
+      "EDID": "DLC02HiddenGenDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CC66",
+      "FORMID": "00CC66",
+      "EDID": "DLC02OffDoorBigMetal01ExteriorPEN",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CC65",
+      "FORMID": "00CC65",
+      "EDID": "DLC02OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CC64",
+      "FORMID": "00CC64",
+      "EDID": "DLC02OffDoorBigMetal01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:0029A5",
+      "FORMID": "0029A5",
+      "EDID": "DLC02OA3CommandTentDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:007DA5",
+      "FORMID": "007DA5",
+      "EDID": "DLCAnchUtlDoor010000",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:003EC7",
+      "FORMID": "003EC7",
+      "EDID": "DLC02ElevDoor",
+      "FULL": "Elevador de Carga"
+    },
+    {
+      "FORM": "@Anchorage.esm:007DA6",
+      "FORMID": "007DA6",
+      "EDID": "DLCAnchUtlDoorBg010000",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CBD2",
+      "FORMID": "00CBD2",
+      "EDID": "DLCAnchCLFenceGateRoad01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB42",
+      "FORMID": "00CB42",
+      "EDID": "DLCAnchOffDoorRedL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:002144",
+      "FORMID": "002144",
+      "EDID": "DLCAnchTentDoorLoad01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CEAC",
+      "FORMID": "00CEAC",
+      "EDID": "DLC02ChineseHQDoor",
+      "FULL": "Porta"
+    }
+  ]
+}

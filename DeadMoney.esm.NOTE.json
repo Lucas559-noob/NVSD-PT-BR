@@ -1,0 +1,1028 @@
+{
+  "NOTE": [
+    {
+      "FORM": "@DeadMoney.esm:013B21",
+      "FORMID": "013B21",
+      "EDID": "NVDLC01VendingModHoloRifle03",
+      "FULL": "Código da Máquina de Vendas - \"Rifle de Holograma - Calibração Avançada\"",
+      "TNAM": "Este é um código restrito para uso nos Dispensadores.\n\nAumenta o dano do Holofuzil."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B33",
+      "FORMID": "013B33",
+      "EDID": "NVDLC01Gala02Note00",
+      "FULL": "Status da Energia",
+      "TNAM": "* Sistema de Anúncios: Ativado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B34",
+      "FORMID": "013B34",
+      "EDID": "NVDLC01Gala02Note01",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Sistema de Anúncios: AVISO! Um de quatro alto-falantes está offline. Entre em contato com o TI para resolver. CÓDIGO: 000FHX9A"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B35",
+      "FORMID": "013B35",
+      "EDID": "NVDLC01Gala02Note02",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Sistema de Anúncios: AVISO! Dois de quatro alto-falantes estão offline. Entre em contato com o TI para resolver. CÓDIGO: 000FHX9B"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B36",
+      "FORMID": "013B36",
+      "EDID": "NVDLC01Gala02Note03",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Sistema de Anúncios: AVISO! Três de quatro alto-falantes estão offline. Entre em contato com o TI para resolver. CÓDIGO: 000FHX9C"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B37",
+      "FORMID": "013B37",
+      "EDID": "NVDLC01Gala02Note04",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Sistema de Anúncios: AVISO! Todos os alto-falantes estão offline. Entre em contato com o TI para resolver. CÓDIGO: 00J0TD7F"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B38",
+      "FORMID": "013B38",
+      "EDID": "NVDLC01EastTownNote02",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Caixas de Som: Desligadas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B39",
+      "FORMID": "013B39",
+      "EDID": "NVDLC01EastTownNote01",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Caixas de Som: Ligadas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B3B",
+      "FORMID": "013B3B",
+      "EDID": "NVDLC01FinalCompNote",
+      "TNAM": "Prezado Sr. Elijah,\n\nParabéns pela sua sorte no Cassino Sierra Madre! Seu Vale de Cortesia será entregue automaticamente na caixa postal que você especificou a cada três dias e poderá ser resgatado em qualquer Máquina de Venda Sierra Madre.\n\nObrigado e esperamos que tenha gostado da sua estadia!\n\nAtenciosamente,\n\nA Administração Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B3D",
+      "FORMID": "013B3D",
+      "EDID": "NVDLC01ETVentilationNote01",
+      "FULL": "Ventoinha #5 ... Online",
+      "TNAM": "Status da Ventoinha:\nVentoinha nº 1 ... Online\nVentoinha nº 2 ... Offline (Falha de Energia, Reiniciar Sistema)\nVentoinha nº 3 ... Online\nVentoinha nº 4 ... Online\nVentoinha nº 5 ... Offline (Falha de Energia, Reiniciar Sistema)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B3E",
+      "FORMID": "013B3E",
+      "EDID": "NVDLC01ETVentilationNote02",
+      "FULL": "Ventoinha #5 ... Online",
+      "TNAM": "Status do Sistema de Ventilação Salida Del Sol\n\nStatus da Ventoinha:\nVentoinha #1 ... Online\nVentoinha #2 ... Online\nVentoinha #3 ... Online\nVentoinha #4 ... Online\nVentoinha #5 ... Online"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B43",
+      "FORMID": "013B43",
+      "EDID": "NVDLC01SuitesNote01",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Alto-falantes: Ligados"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B44",
+      "FORMID": "013B44",
+      "EDID": "NVDLC01SuitesNote02",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia ***\n\nSistemas Não Essenciais\n * Alto-falantes: Desligados"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B45",
+      "FORMID": "013B45",
+      "EDID": "NVDLC01TheaterNote01",
+      "FULL": "Status da Energia",
+      "TNAM": "* Áudio: Ativado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B46",
+      "FORMID": "013B46",
+      "EDID": "NVDLC01TheaterNote02",
+      "FULL": "Status da Energia",
+      "TNAM": "* Áudio: Desligado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B1B",
+      "FORMID": "013B1B",
+      "EDID": "NVDLC01VendingModHoloRifle02",
+      "FULL": "Código da Máquina de Vendas - \"Rifle de Holograma - Lente de Foco\"",
+      "TNAM": "Este é um código restrito do dispensador para uso nas Máquinas de Venda.\n\nParece aumentar o dano do Holorifle."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013750",
+      "FORMID": "013750",
+      "EDID": "NVDLC01Holograms01Note",
+      "FULL": "Holograma: Instalação e Manutenção 1.1",
+      "TNAM": "Bem-vindo, e em nome de seus amigos da N.E., agradecemos por adquirir o que há de mais recente em tecnologia de serviço e segurança.\n\nSe você encontrar algum problema, entre em contato com nossos representantes de atendimento urgente a qualquer momento durante a semana, das 10h às 14h às terças e quintas-feiras. Se ninguém estiver disponível para responder à sua emergência, deixe uma mensagem e um de nossos representantes treinados retornará sua ligação nos próximos três a quatro dias úteis."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013751",
+      "FORMID": "013751",
+      "EDID": "NVDLC01Holograms02Note",
+      "FULL": "Holograma: Protocolos de Serviço 2.3",
+      "TNAM": "Hologramas são programados com protocolos de serviço e protocolos de segurança.\n\nHologramas de protocolo de serviço desempenham uma função específica - recepcionistas, vendedores simples ou, no caso do próprio cassino Sierra Madre, até mesmo monitorando mesas de jogo. Esses hologramas de serviço seguem rotinas simples e são incapazes de desempenhar qualquer função de segurança.\n\nHologramas não podem se mover além do alcance de seus emissores e são melhores quando usados para uma função simples e localizada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013752",
+      "FORMID": "013752",
+      "EDID": "NVDLC01Holograms03Note",
+      "FULL": "Holograma: Protocolos de Segurança 2.4",
+      "TNAM": "Os hologramas de protocolo de segurança fazem exatamente o que o nome sugere: fornecem segurança. Eles desempenham essa função melhor do que a maioria dos guardas de segurança convencionais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013753",
+      "FORMID": "013753",
+      "EDID": "NVDLC01Holograms04Note",
+      "FULL": "Hologram: Adendo: Aparência 2.4.1",
+      "TNAM": "Hologramas de segurança foram programados com os protocolos específicos da Sierra Madre.\n\nOs hologramas de segurança não só se parecem com o pessoal da Sierra Madre, como também responderão a ameaças ou pessoal não autorizado da mesma forma que os guardas de segurança convencionais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013754",
+      "FORMID": "013754",
+      "EDID": "NVDLC01Holograms05Note",
+      "FULL": "Holograma: Protocolos de Segurança 2.5",
+      "TNAM": "Eles podem, no entanto, mudar a direção conforme necessário e escanear seu ambiente em busca de atividades não autorizadas. É melhor comprar emissores de holograma de segurança em pares para cobrir uma visão completa do ambiente, pois invasores poderiam, possivelmente, usar pontos cegos dos hologramas para obter acesso a áreas não autorizadas!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013755",
+      "FORMID": "013755",
+      "EDID": "NVDLC01Holograms06Note",
+      "FULL": "Holograma: Detecção de Ameaças 2.6",
+      "TNAM": "Se hologramas de segurança detectarem convidados não autorizados ou ação criminosa, eles exibirão uma cor de aviso \"cuidado\" para o alvo.\n\nSe você acreditar que eles exibem essa cor por engano, afaste-se imediatamente do campo de visão do holograma até que ele retome seu protocolo normal. Se o comportamento persistir, eles entrarão no modo de combate, ficarão vermelhos e tentarão subjugar os alvos com seus feixes de descarga.\n\nObservação: Conforme solicitado no contrato de serviço, a N.E. instalou sistemas EBE em todos os emissores de holograma de segurança da Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013756",
+      "FORMID": "013756",
+      "EDID": "NVDLC01Holograms07Note",
+      "FULL": "Holograma: Resposta à Ameaça 2.6.2",
+      "TNAM": "Frequentemente, a reação natural de um intruso é atacar um holograma de segurança, seja com os punhos ou com uma arma. Felizmente para o dono do holograma, todos esses ataques são inúteis contra hologramas de segurança! Eles não podem ser feridos, danificados ou prejudicados, a menos que seu emissor seja destruído.\n\nOs atacantes que gastam tempo procurando emissores geralmente são nocauteados pelos feixes de descarga de um holograma antes que possam desativá-los, então não há nada a temer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013757",
+      "FORMID": "013757",
+      "EDID": "NVDLC01Holograms08Note",
+      "FULL": "Hologram: Patrulhas de Segurança 2.7",
+      "TNAM": "Assim como os hologramas de serviço, os hologramas de segurança não podem sair do alcance do emissor. No entanto, eles perseguirão um alvo até o perímetro do emissor. Isso geralmente permite que um alvo seja subjugado e não deve apresentar nenhum obstáculo à segurança do cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013758",
+      "FORMID": "013758",
+      "EDID": "NVDLC01Holograms09Note",
+      "FULL": "Holograma: Emissores de Holograma 5.0",
+      "TNAM": "Os emissores de holograma são resistentes, mas ainda podem ser danificados ou quebrados se uma força suficiente for aplicada. Além disso, embora sejam protegidos por ligas espaciais resistentes, seus circuitos são vulneráveis a adulterações. Se isso ocorrer, consulte o manual de reparo que acompanha o guia de instalação do holograma. Entre em contato com o suporte ao cliente se isso ocorrer. Não tente consertar o emissor sozinho!\n\nAviso: Não se aproxime de um emissor que possa ter sido adulterado! Se precisar, use equipamentos de manutenção reflexivos ou armadura de metal em caso de mau funcionamento do holograma e certifique-se de que pode se mover para além do campo de visão de um holograma, caso surjam problemas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013759",
+      "FORMID": "013759",
+      "EDID": "NVDLC01Holograms10Note",
+      "FULL": "Hologram: Manutenção 8.3",
+      "TNAM": "A saudação holográfica e a tecnologia de segurança exigem serviço de profissionais treinados e manutenção de rotina. Embora os emissores mantenham uma carga por teoricamente centenas de anos, danos podem ocorrer e os circuitos podem se deteriorar com o tempo. Como parte do contrato exclusivo da Security Madre, cumprimos os emissores de reciclagem de energia personalizados solicitados pelos financiadores da Sierra Madre e pelo Sr. Sinclair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01375A",
+      "FORMID": "01375A",
+      "EDID": "NVDLC01Holograms11Note",
+      "FULL": "Sinclair: E.B.E.",
+      "TNAM": "Sr. Sinclair,\n\nLevei a sério os pontos que você levantou na ligação de hoje, e espero que minhas respostas tenham oferecido alguma segurança. O que estamos fornecendo é uma tecnologia exclusiva e abrangente, mas, mais importante, queremos abordar a preocupação que você levantou sobre proteger seus convidados de ameaças, especificamente a crescente ameaça comunista dos chineses.\n\nSegurança é a principal preocupação da N.E. Não há razão para fornecer um serviço que você não possa defender, e caso a situação mundial atual leve ao aumento das hostilidades, um Emissor de Transmissão de Emergência foi colocado dentro de emissores de holograma selecionados na Sierra Madre. Em caso de ataque nuclear, os hologramas defenderão suas estações com força letal para proteger os convidados sob seus cuidados.\n\nSe você deseja garantir que aqueles que vêm para sua Villa e cassino tenham os meios para se defender, garanto que você não precisa procurar mais do que o E.T.E., é uma tecnologia comprovada, e qualquer pessoa que decidir atacar você ou seus convidados se arrependerá de qualquer agressão.\n\nMartin T. Harris\n\nP.S. Alguma chance de pedirmos para a Srta. Keyes assinar um autógrafo para nós? Isso não reduzirá o preço, embora eu pudesse ver se consigo enviar alguns sistemas extras para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013893",
+      "FORMID": "013893",
+      "EDID": "NVDLC01VaultElevatorWarnProtocolNote",
+      "FULL": "Aviso: Protocolos do Elevador",
+      "TNAM": "Aviso: Se a segurança do Vault for desativada e o terminal do Vault for invadido, o elevador retornará automaticamente para as Suítes e travará permanentemente no lugar. Depois disso, não haverá como operar o elevador, e a área do Vault será selada. Conforme solicitado pelo Sr. Sinclair, não há nenhuma anulação manual ou do terminal assim que o elevador for travado. Uma vez iniciado, não pode ser desfeito.\n\nAté esse momento, o elevador pode ser operado livremente a partir do terminal acima."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013894",
+      "FORMID": "013894",
+      "EDID": "NVDLC01VaultWorkerNote",
+      "FULL": "Nota do Trabalhador",
+      "TNAM": "Esse trabalho não paga o suficiente, trabalhar aqui embaixo com aquelas aberrações luminosas me irrita. E o elevador... será que o Sinclair sabe o perigo de travar o elevador daquele jeito? Se alguém acidentalmente acionar o botão de \"homem morto\" lá dentro do cofre dele... até mesmo o próprio Sinclair... este lugar todo vira um caixão de metal. O Lou tentou avisá-lo e o Sinclair disse que seria \"erro do usuário\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013896",
+      "FORMID": "013896",
+      "EDID": "NVDLC01VaultSecurityWarnProtocolNote",
+      "FULL": "Protocolos de Segurança do Vault",
+      "TNAM": "Aviso: Caso a segurança do Vault seja desativada por qualquer meio e o terminal privado no Vault seja acessado, o Vault entrará em estado de bloqueio. Nesse momento, o elevador retornará às Suítes e não poderá ser acessado novamente. Conforme solicitado pelo Sr. Sinclair, não há anulação manual ou por terminal assim que o elevador for bloqueado. Uma vez iniciado, não pode ser desfeito."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013897",
+      "FORMID": "013897",
+      "EDID": "NVDLC01VaultVera01Note",
+      "FULL": "Holotape Extraída",
+      "TNAM": "<Esta holofita parece ter sido arrancada de um disco de terminal.>\n\nVera,\n\nSe você está lendo isto, eu sei o que você e Dean planejaram esta noite na véspera do Evento de Gala. Eu amava você muito, e o que quer que tenha te possuído a escolher o braço de Dean em vez da minha mão está além de mim. Seja ganância ou luxúria, isso te trouxe até aqui e nos manterá separados para sempre. Espero que isso te deixe tão vazia quanto você me deixou. Por mais que você tenha procurado o que estava dentro do Sierra Madre, agora isso te manterá.\n\nA porta foi selada, o elevador partiu, e nem mesmo sua voz vai destravá-la. Este cassino foi meu presente para você, e você agora será seu coração por toda a eternidade.\n\nSinceramente,\n\nFrederick Sinclair"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01389B",
+      "FORMID": "01389B",
+      "EDID": "NVDLC01VaultVera02Note",
+      "FULL": "Vera",
+      "TNAM": "Vera, se você está lendo isto, meus medos se concretizaram, e esta é uma desculpa.\n\nEspero que você tenha percebido o que minhas últimas palavras significavam para você. Se sim, elas a trouxeram aqui, e este lugar a manterá segura. Eu sei o que elas significavam para mim, e temo que elas tenham me prendido aqui.\n\nEu extraí a entrada anterior depois da nossa conversa esta noite. Não deve ter sido fácil para você, e sinto muito por tudo o que fiz você passar em silêncio. Eu sei que, embora você não me ame, você não teve nenhuma intenção de maldade no que fez.\n\nEu sabia sobre seus planos de roubar o cassino com Dean antes de você me contar. Ouvir isso de você não tornou as coisas mais fáceis. Para o que vale, fico feliz que você tenha me contado, e eu entendi as fitas que ele tinha em sua posse.\n\nEu não acho que nenhum de vocês percebeu de onde veio o vício de vocês, no entanto, e essa é a tragédia nisso. Eu suspeito que o mundo não teria acreditado em você, de qualquer forma, então eu respeito seu desejo de manter isso longe dos outros.\n\nQuando construí esta Villa, este cassino, eu a queria para você. À medida que o mundo parecia correr em direção à guerra, isso se tornou parte do meu desejo de protegê-la. Os empréstimos, o financiamento que coloquei na construção do cassino...\n\nEu sabia que não importaria quando a guerra chegasse para nós. Era meu meio de criar um abrigo, uma defesa se o mundo fosse bombardeado por radiação e bombas.\n\nQuando Dean revelou seus planos inadvertidamente através da nossa apresentação, eu percebi o que tinha acontecido, e como eu tinha sido enganado. Por um tempo, meus pensamentos foram sombrios. Eu mudei o cofre do cassino de um abrigo para uma armadilha, pois eu sabia que o primeiro a entrar seria Dean. Ele morreria aqui embaixo, e teria sido por suas próprias mãos.\n\nTemo, no entanto, que eu tenha me excedido, e o único lugar seguro no cassino é o Cofre. Eu tentei reprogramar os sistemas, mudar os protocolos, e não consigo. Farei uma última verificação nos canos pela borda da plataforma externa e verei se algo pode ser feito. Temo que seja inútil.\n\nSe você vier aqui, não acesse minha entrada de contas pessoais.\n\nEla contém apenas uma mensagem para Dean, e ela selará a porta e você não terá como sair - mesmo o elevador foi projetado para retornar automaticamente quando a porta é fechada, e ele travará no lugar.\n\nDeve haver o suficiente no Cofre para sustentá-la até que a ajuda chegue. Eu garanti que haja suprimentos médicos suficientes aqui embaixo para mantê-la confortável.\n\nOs hologramas devem defender o cassino de quaisquer atacantes, e o farol de holograma na Villa transmitirá um sinal de emergência para que outros saibam que você está aqui.\n\nQuando o perigo passar, o resgate virá.\n\nEspero que você tenha conseguido ler isto, e saiba que eu a amei.\n\nFrederick Sinclair"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01389D",
+      "FORMID": "01389D",
+      "EDID": "NVDLC01VaultDean01Note",
+      "FULL": "Contas Pessoais de Sinclair",
+      "TNAM": "Dean,\n\nSe você está lendo isto, é um adeus. Você terá muitos anos para ler esta mensagem. Por que você sorriu para mim e me apunhalou, eu não sei. Você era rico, respeitado... até admirado, amado por muitos. Quando você finalmente morrer aqui embaixo, seja por sua própria mão ou por inanição, saiba que sua ganância o trouxe aqui, sem nenhuma razão que eu possa entender.\n\nVocê fez um hábito de usar os outros para seus próprios fins. Agora, a Sierra Madre é sua recompensa. Se você usou chantagem ou força - ou até mesmo jogou com a ganância de Vera, isso não vai ajudar aqui no Cofre. A ganância o trouxe aqui. Espero que isso o deixe tão vazio quanto você me deixou.\n\nA porta foi selada, o elevador partiu. Nem mesmo a voz de Vera vai destrancá-la. Saiba que na noite do Evento de Gala eu levantarei meu copo e sussurrarei, \"Fortunato.\"\n\nIn pace requiescat,\n\nFrederick Sinclair"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138B3",
+      "FORMID": "0138B3",
+      "EDID": "NVDLC01ToxicAnalysisNote",
+      "TNAM": "Comecei a analisar amostras da Névoa que envolve a Sierra Madre. Os resultados preliminares são promissores. Preciso realizar uma análise atmosférica adequada, o que exige que eu viaje para lá diretamente. Ainda assim, a amostra que coletei no meu kit de química é suficiente para manter meus experimentos em andamento. O Resíduo da Névoa se regenera lentamente, e preciso limitar a coleta de amostras à sua taxa de crescimento, permitindo que eu reponha uma vez por dia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138E5",
+      "FORMID": "0138E5",
+      "EDID": "NVDLC01KitchenTheseKnivesNote",
+      "FULL": "Essas facas!",
+      "TNAM": "Essas facas estão afiadas, afiadas demais! Um dos cozinheiros quase perdeu o dedão ao picar vegetais, e estamos perdendo tábuas de corte a uma taxa de pelo menos uma por dia. As facas simplesmente cortam elas! Estamos ficando sem panos de prato para limpar o sangue."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138E6",
+      "FORMID": "0138E6",
+      "EDID": "NVDLC01KitchenAnotherShipmentNote",
+      "FULL": "Outro carregamento?",
+      "TNAM": "Chegou hoje (!) mais um carregamento de facas de cozinha para a Cantina Madrid, com o novo material polímero de liga \"era espacial\". Temos muito mais do que precisamos para o Evento de Gala, mesmo que todo mundo tivesse 3 facas de bife! Mas é sempre o melhor para Sinclair, sempre, sempre, sempre, sempre, ele insiste que tudo deve ser perfeito."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138E7",
+      "FORMID": "0138E7",
+      "EDID": "NVDLC01KitchenTooHotNote",
+      "FULL": "Muito quente!",
+      "TNAM": "Um dos cozinheiros notou que a faca dele estava brilhando outro dia. Ele tinha deixado em cima do fogão, e o metal começou a ficar vermelho - e não esfriava! Que tipo de metal \"Era Espacial\" é essa Faca Cósmica feita? Ficou brilhando quente por várias horas, e então a faca ficou tão fraca que, quando tentamos usar, ela simplesmente quebrou. Acho que é por isso que o metal não é usado em foguetes!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138E8",
+      "FORMID": "0138E8",
+      "EDID": "NVDLC01RecipeSuperHeatedKnifeNote",
+      "FULL": "Receita: Faca Superaquecida!",
+      "TNAM": "Brinquei com isso outro dia, e:\n\n1 Faca Merda Cósmica\n1 Chama Piloto\n1 Chapa Quente\nAlgo para segurar a porra toda para cozinhar por igual\n\nPré-aqueça o forno a 232 graus Celsius\nPegue 1 Faca, deixe no fogão!\nDeixe cozinhar por 5 minutos\nVeja a Faca ficar incandescente\nColoque a Faca na mesa, derrete a mesa\nProcesse o cientista que fez essa porra\nDê para os militares?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B13",
+      "FORMID": "013B13",
+      "EDID": "NVDLC01CasinoFinalComp",
+      "FULL": "Sierra Madre - Voucher de Cortesia",
+      "TNAM": "Este vale garante ao portador:\n\"Cortesia da Casa!\"\n\nAproveite seus...\n<Fichas de Cassino>\n...com saúde e vitalidade.\n\n[Abuso resultará na\nnegação de todo status\n\"Cortesia\".]"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B19",
+      "FORMID": "013B19",
+      "EDID": "NVDLC01Gala02MercNote",
+      "FULL": "Vejo você no inferno, seu babaca.",
+      "TNAM": "O tesouro da Sierra Madre é meu, meu, meu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E48",
+      "FORMID": "012E48",
+      "EDID": "NVDLC01StarletMusicFragment02",
+      "FULL": "Música \"Deixe o Amanhã Radiante Entrar\" de Vera Keyes (II)",
+      "TNAM": "Este é um fragmento da melodia de Vera Keyes, \"Let the Bright Tomorrow in.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E49",
+      "FORMID": "012E49",
+      "EDID": "NVDLC01StarletMusicFragment03",
+      "FULL": "Música \"Deixe o Amanhã Radiante Entrar\" de Vera Keyes (III)",
+      "TNAM": "Este é um fragmento da melodia de Vera Keyes, \"Let the Bright Tomorrow in.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E4A",
+      "FORMID": "012E4A",
+      "EDID": "NVDLC01StarletMusicFragment01",
+      "FULL": "Música \"Deixe o Amanhã Radiante Entrar\" de Vera Keyes (I)",
+      "TNAM": "Este é um fragmento da melodia de Vera Keyes, \"Let the Bright Tomorrow in.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F53",
+      "FORMID": "012F53",
+      "EDID": "NVDLC01VendReturnSAArmor",
+      "FULL": "Código da Máquina de Vendas - \"Devolver Armadura SA\"",
+      "TNAM": "Este é um código restrito do dispensador para uso nas Máquinas de Venda que permite ao usuário devolver o item selecionado por Fichas de Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F55",
+      "FORMID": "012F55",
+      "EDID": "NVDLC01VendingStimpak",
+      "FULL": "Código da Máquina de Venda - \"Stimpak\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F56",
+      "FORMID": "012F56",
+      "EDID": "NVDLC01VendReturnOutfitItem",
+      "FULL": "Código da Máquina de Venda - \"Devolver Item de Roupa\"",
+      "TNAM": "Este é um código restrito do dispensador para uso nas Máquinas de Venda que permite ao usuário devolver o item selecionado por Fichas de Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132D7",
+      "FORMID": "0132D7",
+      "EDID": "NVDLC01VaultTurretPasswordNote",
+      "FULL": "Senha do Terminal da Torre da Vault",
+      "TNAM": "Não use isso a menos que seja estritamente necessário.\n\nO Vault é proibido. Não há razão para entrar nele a menos que sua autorização seja aprovada pessoalmente pelo Sr. Sinclair.\n\nAinda assim, se algo der errado com aqueles sistemas de segurança, use esta senha no terminal de Defesa de Torre na Câmara do Vault:\n\n\"HeartArrow\"\n\nLou Martin\n\nM&M Construction Inc.\nChefe de Equipe."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132D8",
+      "FORMID": "0132D8",
+      "EDID": "NVDLC01StarletAudition01Note",
+      "FULL": "A Audição de Vera Keyes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132D9",
+      "FORMID": "0132D9",
+      "EDID": "NVDLC01DeanBlackmailTapeNote",
+      "FULL": "Evidências de Chantagem de Dean Domino"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013329",
+      "FORMID": "013329",
+      "EDID": "NVDLC01VendingModAutoRifle",
+      "FULL": "Código da Máquina de Vendas - \"Rifle Automático - Componentes Internos Melhorados\"",
+      "TNAM": "Este é um código restrito do dispensador para uso nas Máquinas de Venda.\n\nEle aumenta a cadência de tiro do Rifle Automático."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01332A",
+      "FORMID": "01332A",
+      "EDID": "NVDLC01VendingModHoloRifle",
+      "FULL": "Código da Máquina de Vendas - \"Rifle de Holograma - Componentes Reforçados\"",
+      "TNAM": "Este é um código restrito do dispensador para uso nas Máquinas de Venda.\n\nParece melhorar a condição do Rifle Holográfico."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01332B",
+      "FORMID": "01332B",
+      "EDID": "NVDLC01VendingModBearTrapFist",
+      "FULL": "Código da Máquina de Vendas - \"Punho Armadilha de Urso - Molas Reforçadas\"",
+      "TNAM": "Este é um código restrito para uso nos Dispensadores.\n\nParece que ele pode aumentar o dano que o Punho de Armadilha de Urso causa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01336E",
+      "FORMID": "01336E",
+      "EDID": "NVDLC01Gala02SampleNote",
+      "FULL": "Amostras Tóxicas",
+      "TNAM": "Rapaz, como eu estou feliz por estar fora daquele maldito traje! Quase perdi alguns homens hoje juntando amostras suficientes para os cabeças de ovo darem uma olhada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013410",
+      "FORMID": "013410",
+      "EDID": "NVDLC01SuitesVeraMedNote",
+      "FULL": "\/Acesso Sinclair 301\nAssunto: Keyes, Vera\nCondição: Terminal\n\nSinclair,\n\nNão há muito mais que possamos fazer pela Srta. Keyes, exceto mantê-la confortável. A exaustão dela vai persistir, assim como a insônia.\n\nRecomendo continuar os tratamentos com Med-X\/Superstim. Esta não é uma solução viável a longo prazo. A dor vai persistir e aumentar com o tempo, e as dosagens que ela está tomando atualmente já trazem o risco de overdose. Com base nas discussões, também temo que permitir que a Srta. Keyes tenha acesso a essas quantidades de drogas possa levar a uma overdose proposital, e recomendo também uma avaliação psiquiátrica.",
+      "TNAM": "Recomendo continuar os tratamentos com Med-X\/Superstim. Esta não é uma solução viável a longo prazo. A dor vai persistir e aumentar com o tempo, e as dosagens que ela está tomando atualmente já trazem o risco de overdose. Com base nas discussões, também temo que permitir que a Srta. Keyes tenha acesso a essas quantidades de drogas possa levar a uma overdose proposital, e recomendo também uma avaliação psiquiátrica."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013411",
+      "FORMID": "013411",
+      "EDID": "NVDLC01ChipRewardNote",
+      "TNAM": "Prezado Sr. Elijah,\n\nParabéns pela sua sorte no Cassino Sierra Madre! Nós configuramos o pagamento de Fichas Sierra Madre para serem entregues automaticamente na caixa postal que você especificou a cada três dias.\n\nObrigado e esperamos que tenha gostado da sua estadia!\n\nAtenciosamente,\n\nA Gerência do Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E5",
+      "FORMID": "0126E5",
+      "EDID": "NVDLC01ETPersonalLog01Note",
+      "FULL": "Diário Pessoal",
+      "TNAM": "Perguntei ao capataz por que ninguém se ligou ainda, e ele só piscou, disse que temos alguém cuidando de nós, um trunfo na manga. Contanto que estejamos bem até a hora do show, toda essa Villa vai ser o maior golpe de todos os tempos. Isso porque metade dos carregamentos de manutenção não estão chegando - Sinclair está cego demais por aquela Starlet para enxergar além do cassino, então podemos cortar custos quando precisamos, e ninguém vai olhar muito de perto os orçamentos enquanto a grande inauguração do cassino estiver em andamento, e depois disso, já teremos sumido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E4",
+      "FORMID": "0126E4",
+      "EDID": "NVDLC01ETStatusReportNote",
+      "FULL": "Relatório de Status",
+      "TNAM": "...a Villa é feita de papelão, mas o cassino? Aquele lugar não foi construído para as pessoas apenas jogarem, é um lugar para elas se protegerem se os grandes chegarem. Aquelas portas podem ser seladas hermeticamente, e o que quer que eles tenham revestindo os pisos fode qualquer coisa que não esteja conectada diretamente por fios. \n\nDizem que, enquanto o Mr. Yesterday cuidou da Villa, Sinclair está trancando a Sierra Madre como uma armadilha dourada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E3",
+      "FORMID": "0126E3",
+      "EDID": "NVDLC01ETStainedPageNote",
+      "FULL": "Página Manchada",
+      "TNAM": "Não vou me entregar pelo que aconteceu na Villa - eu não fui quem colocou a fundação, e também não vou assumir a culpa pelos pilares. Se tentarem me incriminar, vou deixar todo mundo saber o que realmente está acontecendo com os contratos de construção."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E2",
+      "FORMID": "0126E2",
+      "EDID": "NVDLC01ETTornJournalNote",
+      "FULL": "Página de Jornal Rasgada",
+      "TNAM": "...parece simpática, autografou meu pôster e até a foto promocional. Mas com um olhar meio triste, como se não estivesse realmente ali. E quase correu quando o Sr. Domino passou o braço pelo dela, e ele nem estava olhando para ela, como se ela fosse uma sacola pendurada no braço dele. Algo errado entre os dois, não sei se Sinclair vê, mas eu vejo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E1",
+      "FORMID": "0126E1",
+      "EDID": "NVDLC01ETJournalNote",
+      "FULL": "Página do Diário",
+      "TNAM": "...a cidade vai ser construída, só não vai durar muito. O cassino pode ser diferente, é tipo um cofre no céu, mas isso sou só eu. É um grande show pra alguém, espero que Sinclair sobreviva a essa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126E0",
+      "FORMID": "0126E0",
+      "EDID": "NVDLC01ETPersonalLog02Note",
+      "FULL": "Diário Pessoal",
+      "TNAM": "O Sr. Yesterday diz que eles podem abafar o incidente, afinal, ninguém realmente viu o que aconteceu quando o pátio desabou, e a varanda junto... também podemos ver de apagar os relatórios médicos da clínica, também, tá tudo bem. Mesmo assim, estou ficando nervoso - tudo isso é uma grande aposta, não vai demorar muito para as pessoas verem a Villa pelo que ela é, areia mal grudada com cuspe e cola. Estamos protegidos legalmente, mesmo assim, isso é criminoso. É como se ele não quisesse que este lugar durasse."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126DF",
+      "FORMID": "0126DF",
+      "EDID": "NVDLC01ETInfrastructureNote",
+      "FULL": "Infraestrutura",
+      "TNAM": "Por mais vagabundas que sejam as vigas de sustentação da maioria desses prédios, o sistema de ventilação é pior, e os problemas que tiveram em Puesta... claro, quando você conta nossos bônus, é bom, mas não quando os trabalhadores estão tossindo até a morte. Odeio ver o que este lugar vomitaria se alguém deixasse o sistema de ventilação funcionando por alguns anos, teríamos outro Greener Pastures em nossas mãos, fácil, e uma pilha de corpos além disso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255F",
+      "FORMID": "01255F",
+      "EDID": "NVDLC01Gala02SuitDamageNote",
+      "FULL": "Dano na roupa",
+      "TNAM": "Claro, os Doutores na Clínica ficaram putos, mas não tínhamos escolha se quiséssemos atendimento médico depois daquele gás. Então cortamos a roupa dele com uma daquelas facas de bife excedentes (coisas que cortavam um T-bone como se fosse manteiga quente). O resto de nós tentou forçar as fechaduras das nossas roupas, finalmente tivemos que usar as facas nas nossas também.\n\nMal posso esperar até que esse trabalho acabe e possamos deixar a Villa desabar sozinha. Eles estarão ocupados demais no cassino de qualquer forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255E",
+      "FORMID": "01255E",
+      "EDID": "NVDLC01Gala02MaintenanceReportNote",
+      "FULL": "Relatório de Manutenção",
+      "TNAM": "Não demorou muito para encontrar o problema. Descendo pelo cano principal, encontramos vestígios do gás - não o material vermelho completo como da última vez, embora, uma pequena bênção. O problema é que, apesar do selante, ele ainda entrou na roupa, acontece que o gás corroeu o metal das travas da roupa. Então, não só um dos caras foi exposto, como todos que desceram lá ficaram presos em suas roupas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255D",
+      "FORMID": "01255D",
+      "EDID": "NVDLC01Gala02SuitsAreHereNote",
+      "FULL": "Os trajes estão aqui",
+      "TNAM": "Chegaram hoje aqueles novos trajes químicos, então pudemos dar uma olhada nas câmaras de ventilação, ver como aquela nuvem de veneno se formou. Os trajes são meio sinistros, difíceis de conversar neles, então tivemos que usar linguagem de sinais para realmente nos entendermos. Pelo menos podemos verificar os canos e as câmaras de ventilação agora.\n\nGás me preocupa, no entanto. Realmente ferrou com os caras. Se as câmaras voltarem a entupir, não quero ver aquele gás sair, acabar com a Villa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255C",
+      "FORMID": "01255C",
+      "EDID": "NVDLC01Gala02SecondShiftNote",
+      "FULL": "Turnos extras",
+      "TNAM": "Os caras atingidos pelo gás ainda estão fora, todo mundo está puxando mais trabalho como resultado, e os resmungos estão começando. O Sr. Yesterday tem mantido as bebidas fortes e as drogas chegando sob os olhos de Sinclair, não está ajudando. Precisamos daqueles caras de volta. Se tivermos outro vazamento químico como aquele, não haverá mais construção pelo resto do ano."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255B",
+      "FORMID": "01255B",
+      "EDID": "NVDLC01Gala02GasLeakNote",
+      "FULL": "Vazamento de gás",
+      "TNAM": "A ventilação foi toda pro saco, o que vai ser um problema quando o verão chegar. Os canos entupiram, as câmaras começaram a soltar essa nuvem de poeira vermelha, tipo ferrugem - seja lá o que for, fez os caras começarem a engasgar e vomitar. É como se o lugar estivesse sendo pulverizado contra baratas, só que o veneno tava pegando na gente. Levei os caras pra Clínica, tirei eles de serviço. O Sr. Yesterday disse que não podia justificar pagar eles, mas ia ver o que podia fazer \"por fora\". Parece que ele ia dar uns químicos pra eles - e uma graninha pra eles ficarem de bico calado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0122A7",
+      "FORMID": "0122A7",
+      "EDID": "NVDLC01PoliceNote04c",
+      "FULL": "Chega de Multas de Estacionamento",
+      "TNAM": "Desde que eu não precise me preocupar com esnobes estacionando em fila dupla ou com os \"gas-hogs\" da Chryslus entupindo a Villa, eu não me importo. Mas me pergunto como ele espera que as pessoas cheguem aqui. Parece extremo, mesmo para privacidade."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0122A6",
+      "FORMID": "0122A6",
+      "EDID": "NVDLC01PoliceNote04b",
+      "FULL": "Busca e Apreensão",
+      "TNAM": "Depois de outra \"discussão\" com a equipe da Puesta del Sol, falei para o Chefe que seria difícil fazer cumprir a lista de proibições, quanto mais as buscas. O Chefe estava com a Gala na cabeça, disse que Sinclair achava a construção da Villa mais importante do que revistar as equipes de construção em busca de bebida e drogas, desde que não machucassem ninguém ou a si mesmos. Ficou um pouco irritado, o Chefe também, mandou eu me acalmar.\n\nEssa parada toda fede. O Chefe mal tem tempo pra mim, agora Sinclair está fazendo vista grossa para as coisas na Villa porque o amigo dele está no comando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0122A5",
+      "FORMID": "0122A5",
+      "EDID": "NVDLC01PoliceNote04a",
+      "FULL": "Instalação de Máquina de Vendas",
+      "TNAM": "Finalmente reclamei com o Chefe sobre as máquinas. Elas parecem uma \"loja da empresa\". Só recebemos algumas fichas do cassino com o salário, então mal podemos comprar alguma coisa. O Chefe diz que não tem certeza se as fichas foram ideia do Sinclair, e que, se tivermos algum problema com as máquinas, avisemos ele imediatamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012287",
+      "FORMID": "012287",
+      "EDID": "NVDLC01wtMoreExplosivesNote",
+      "FULL": "Mais Explosivos",
+      "TNAM": "Mais cargas de demolição apareceram hoje - falei com o Sr. Yesterday, ele não sabia porra nenhuma sobre o carregamento, só estava interessado em saber se alguém tinha lucrado com isso. Será que o Sinclair pediu isso, ou é outra cagada como as facas? Já temos explosivos demais - qual é, o metido a besta está planejando explodir a estrada para que ninguém suba aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012286",
+      "FORMID": "012286",
+      "EDID": "NVDLC01wtDamnRaidNote",
+      "FULL": "Porra de Ataque",
+      "TNAM": "A segurança da Villa apareceu hoje e revistou o lugar. Domino deve ter deixado o Chefe puto, então isso foi vingança. Tinha todos os nossos esconderijos guardados quando eles chegaram, não acharam muita coisa. O Chefe tentou ser durão com a gente sobre manter o nariz limpo, tagarelou sobre \"política do cassino\". \n\nAquele Sinclair é um cuzão. Cansado dessas vistorias e revistado pelos programas de busca do cassino toda vez que entro na Villa. Qual é o problema dele com drogas? Ele podia usar um pouco. A noiva bonita também, embora ela pareça meio chapada com aquela expressão dela. Med-X, pelo que parece."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012285",
+      "FORMID": "012285",
+      "EDID": "NVDLC01wtChatNote",
+      "FULL": "Bate-papo",
+      "TNAM": "Domino apareceu hoje depois do acidente do encarregado. Queria saber como eu estava lidando com isso, se eu e os rapazes estávamos bem. O cara é uma cobra, com aquele charme falso, tentando ser um de nós - perguntou se estávamos sendo pagos \"como convém às nossas habilidades\". Ele disse que, se não estivéssemos, era para procurá-lo, que ele nos daria um jeito. Eu não sou burro, eu vi as porcentagens, sei que alguém está ganhando uma fortuna com as falcatruas que estamos fazendo - parece que Domino e a construção estão de mãos dadas. Não me importa, desde que o dinheiro seja deixado na gaveta toda semana."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012284",
+      "FORMID": "012284",
+      "EDID": "NVDLC01wtPromotionNote",
+      "FULL": "Promoção",
+      "TNAM": "Este lugar é o sonho molhado de um inspetor de segurança. Ou pesadelo. O capataz acabou caindo na estação de comutação ontem à noite, quebrou uma perna e o pescoço, mas não morreu - ele sangrou até a morte antes que alguém o encontrasse. Azar - não era o turno dele, não faço ideia do que ele estava fazendo lá embaixo, mas estou surpreso que ele tenha caído e não tenha havido uma das plataformas que desabasse sobre ele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012283",
+      "FORMID": "012283",
+      "EDID": "NVDLC01wtContractsNote",
+      "FULL": "Contratos",
+      "TNAM": "Temos um acordo e tanto aqui. Avisei o Sr. Yesterday que, que talvez precisemos renegociar nosso acordo e mudar os % por aí. Deixei registros na manutenção, caso as coisas ficassem difíceis, explodir essa armadilha mortal. Concordei em discutir as coisas na estação de mudança para não sermos ouvidos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012282",
+      "FORMID": "012282",
+      "EDID": "NVDLC01wtVisitNote",
+      "FULL": "Visitar",
+      "TNAM": "Sinclair foi muito mais sensato do que eu esperava. Especialmente depois das piadas do Sr. Yesterday. Ele também é mais esperto que uma daquelas facas. Ele fez um monte de perguntas boas sobre as fundações, algumas eu nem consegui responder, mas não o incomodou. Ele entende de engenharia, disso eu tenho certeza. Preocupado que ele vá enxergar através da Villa, vê-la como a cidade de papelão que é."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012281",
+      "FORMID": "012281",
+      "EDID": "NVDLC01wtSurveySchedulesNote",
+      "FULL": "Cronogramas de Pesquisa",
+      "TNAM": "Sinclair chega amanhã para verificar o \"progresso\" da Villa, disse aos rapazes para estarem espertos para o engomadinho. Não vai trazer a grande estrelinha, então os rapazes estavam resmungando por causa disso.\n\nÉ melhor ele se cuidar, pode ter uma queda feia na estação de comutação."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012280",
+      "FORMID": "012280",
+      "EDID": "NVDLC01wtJournalNote",
+      "FULL": "Diário",
+      "TNAM": "Uma coisa sobre a bebida que eles estão transportando, está fazendo alguém falar - o chefão veio hoje e nos disse que temos um acordo bom, e uma palavra solta na frente da segurança pode fazer tudo desmoronar... de verdade."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227F",
+      "FORMID": "01227F",
+      "EDID": "NVDLC01wtShipmentInvoiceNote",
+      "FULL": "Fatura de Remessa",
+      "TNAM": "Os carregamentos foram desviados de novo, e o que era para o restaurante do cassino acabou na Villa principal pela enésima vez. Levar aqueles caixotes de facas para o saguão principal não vai ser meu trabalho, especialmente sem carros."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227E",
+      "FORMID": "01227E",
+      "EDID": "NVDLC01wtStainedNote",
+      "FULL": "Bilhete Manchado",
+      "TNAM": "A remessa de bebida finalmente chegou hoje. Não imaginava que trabalhar aqui seria como trabalhar num estado seco. Só preciso manter longe da segurança e do Sinclair, e vai tirar o peso do dia, manter escondido lá atrás."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227D",
+      "FORMID": "01227D",
+      "EDID": "NVDLC01wtSpecialOrdersNote",
+      "FULL": "Ordens Especiais",
+      "TNAM": "Essas máquinas de venda são demais - recebemos códigos hoje, então nem precisamos de explosivos, ou mesmo mais pedidos de ferramentas. Você usa essas coisas nas máquinas de venda, elas liberam equipamentos de construção - até explosivos e kits de reparo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012215",
+      "FORMID": "012215",
+      "EDID": "NVDLC01PoliceNote03b",
+      "FULL": "Relatório do Dispensador",
+      "TNAM": "Os distribuidores estão funcionando. Ao contrário de quase todo o resto, tivemos poucos problemas com eles. Ouvi dizer que eles faziam parte de uma exposição da Feira Mundial que Sinclair tinha visto, então ele contatou os pesquisadores sobre os distribuidores para ver se ele poderia usá-los aqui. \n\nAcontece que os distribuidores fazem mais do que fornecer itens de conveniência: se houver uma emergência ou a ameaça de um ataque comunista, códigos podem desbloquear munição e kits de reparo para os distribuidores. Backups armazenados dos códigos na sala de contrabando, por precaução."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012214",
+      "FORMID": "012214",
+      "EDID": "NVDLC01PoliceNote03a",
+      "FULL": "Inventário",
+      "TNAM": "Odeio pensar se alguém botasse as mãos em metade das coisas que temos guardadas aqui. Tem armamento militar suficiente aqui para transformar a Villa num campo minado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012213",
+      "FORMID": "012213",
+      "EDID": "NVDLC01PoliceNote02b",
+      "FULL": "Instalação do Sistema de Segurança",
+      "TNAM": "Sinclair installed a new security system for visitors coming into and out of the Villa - he doesn't seem to care too much about what they do when they're inside, only that we confiscate any personal items that could be dangerous or foreign, and make sure we know who enters and who leaves. Asked him again about watching the construction crews. He said that was a \"Villa matter\" (ótimo, isso significa que o Babaca manda). As long as there were no more accidents among the crews, that's what he cared about. \n\nBarely tucked my flask under the desk before he showed up. He gets that disapproving look when he sees the hard stuff."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012212",
+      "FORMID": "012212",
+      "EDID": "NVDLC01PoliceNote02a",
+      "FULL": "Itens Proibidos",
+      "TNAM": "A lista de proibições do Sinclair vai ser difícil de impor, e eu avisei ele. Ele diz que vamos ter um sistema automatizado que vai confiscar itens com a menor radioatividade ou que forem de fora e mandar de volta para o endereço de origem do visitante. Perguntei sobre os itens que já estão na Villa (não mencionei a equipe de construção) e ele ignorou.\n\nClaro, assim que o Sinclair faz o discurso de proibições, o amiguinho dele aparece na mesma hora, perguntando o quão \"duros\" nós íamos ser. Disse que não podia garantir que ia me manter abastecido se eu não tratasse os \"amigos\" dele com o mesmo respeito. Babaca."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012211",
+      "FORMID": "012211",
+      "EDID": "NVDLC01PoliceNote01c",
+      "FULL": "Comunicações",
+      "TNAM": "Prepare a sala de rádio no andar de baixo para transmitir pelos alto-falantes. Não quero perder a apresentação de hoje à noite, o receptor lá embaixo é mais forte do que os rádios de mesa que temos aqui em cima.\n\nEscondi alguns suprimentos da sala de evidências lá embaixo para comemorar quando meu turno acabar. Pelo que eu prevejo, o resto dos guardas estará ocupado demais para me fiscalizar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012210",
+      "FORMID": "012210",
+      "EDID": "NVDLC01PoliceNote01b",
+      "FULL": "Cela de Detenção",
+      "TNAM": "Nada de mais para relatar. Bem quieto hoje à noite, até mesmo em Puesta del Sol. Imagino que Morris lá no cassino provavelmente tenha mais do que o suficiente com os convidados chegando hoje à noite, pobre coitado.\n\nConfigurei os rádios para poder ouvir o Evento de Gala quando começar, e deixei um para os prisioneiros. Se Sinclair não quer que sejamos muito rigorosos com os convidados hoje à noite, posso simplesmente jogar a chave na cela com qualquer um que pegarmos e deixá-los destrancar a porta quando dormirem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0121FE",
+      "FORMID": "0121FE",
+      "EDID": "NVDLC01SecurityMeetingNote",
+      "FULL": "Reunião sobre Medidas de Segurança",
+      "TNAM": "Já que você perdeu, Sinclair delineou as medidas de segurança hoje. Não estava cego ao que estava acontecendo nas notícias, queria tomar medidas caso os chineses conseguissem se estabelecer em solo americano. Nos explicou a funcionalidade adicional dos hologramas, depois explicou a construção do cassino, seus protocolos de emergência e o sinal de transmissão que estamos usando para o Evento de Gala. O cara é um maluco, ainda assim, parece ter tudo sob controle. Acho que o isolamento do cassino foi intencional. Não sei o que ele espera proteger, com certeza parece obcecado por isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0121FD",
+      "FORMID": "0121FD",
+      "EDID": "NVDLC01ProtocolsNote",
+      "FULL": "Notas sobre Protocolos de Emergência",
+      "TNAM": "Estive lendo isto: \"Em caso de incêndio, vazamento químico, ataque nuclear ou outra ameaça ao cassino, as portas internas e externas serão seladas hermeticamente para evitar danos aos hóspedes. Durante esse tempo, Hologramas serão implantados e assumirão o status de ameaça até que o bloqueio termine.\"\n\nAcho que não se pode ser muito cuidadoso hoje em dia. Ainda assim, e se houvesse outro vazamento na estação de comutação? Sem falar nas válvulas de gás na cozinha. Se essas fossem atingidas, o cassino inteiro viraria uma tocha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C4",
+      "FORMID": "0120C4",
+      "EDID": "NVDLC01ClinicNote05b",
+      "FULL": "Visita Desagradável",
+      "TNAM": "Domino parou para perguntar sobre os resultados dos exames e a voz de Vera. Ele parecia preocupado que ela perdesse a voz para o Evento de Gala. Eu disse a ele que, se a Srta. Keyes estivesse preocupada, ela deveria me procurar, e eu só divulgaria qualquer informação médica para ela. Eu disse a ele que os Auto-Docs eram mais do que capazes de curar a voz da Srta. Keyes se ela desenvolvesse alguma infecção na garganta, e poderíamos até operar, se necessário, se ela rasgasse a laringe. Ele pareceu satisfeito com a notícia, pediu desculpas, incrivelmente, e deixou uma garrafa de vinho como prova de sua apreciação. Eu disse a ele que achei inapropriado, ele insistiu. Joguei no lixo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C3",
+      "FORMID": "0120C3",
+      "EDID": "NVDLC01ClinicNote05a",
+      "FULL": "Calendário de compromissos",
+      "TNAM": "A Srta. Keyes apareceu hoje (sem Sinclair), escoltada pelo Sr. Domino. Ele me explicou que a Srta. Keyes desenvolveu uma infecção na garganta e perguntou se o Auto-Doc poderia ajudar. Perguntei sobre o Auto-Doc da Sierra Madre. Ele disse que não queria \"alarmar\" Sinclair.\n\nFiz alguns testes. A voz da Srta. Keyes está boa, a perda de voz dela era mais apatia, sintomática do uso excessivo de Med-X. Quando tentei falar com ela sobre isso, o Sr. Domino interveio. Avisei que muita Química poderia deixar um sujeito em coma, e Domino riu. Perdi a paciência, e ele disse que voltariam outra hora, quando eu estivesse em \"melhores condições\". Desprezo aquele homem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C2",
+      "FORMID": "0120C2",
+      "EDID": "NVDLC01ClinicNote04",
+      "FULL": "Calendário de compromissos",
+      "TNAM": "Sinclair + Srta. Keyes\n<<Transmitido para Sierra Madre>>\n\nSinclair + Srta. Keyes\n<<Transmitido para Sierra Madre>>\n\nDomino + Srta. Keyes\n<<Transmitido para o Terminal do Médico-Chefe>>\n\nSinclair\nPropôs mover 1 Auto-Doc para o cassino e agendar visitas. Sinclair concordou."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120BD",
+      "FORMID": "0120BD",
+      "EDID": "NVDLC01ClinicNote03",
+      "FULL": "Exaustão",
+      "TNAM": "A insônia da Srta. Keyes parece ter piorado, então acabamos pedindo as novas melhorias do Auto-Doc, deve ter custado uma fortuna para Sinclair. Os novos programas para os Auto-Docs atenuam os efeitos do esgotamento. Já falei com a equipe sobre os efeitos colaterais e os perigos do uso prolongado - queria ter certeza de que não estavam usando para fazer turnos duplos.\n\nSinclair perguntou se esses códigos poderiam ser baixados nos dispensadores públicos. Os códigos não são compatíveis, infelizmente. Ele disse que \"daria uma olhada nisso\". Acho que seus contatos em Grande Montanha receberão uma ligação em breve."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120B9",
+      "FORMID": "0120B9",
+      "EDID": "NVDLC01ClinicNote02b",
+      "FULL": "Os trajes de segurança chegaram",
+      "TNAM": "Eu pedi para Sinclair encomendar mais em caso de vazamento na Villa, e preparei estimativas de custos para outro vazamento de gás para apoiar meu caso. Não precisei, ele concordou com o pedido imediatamente, então perguntou se ele poderia ver os trabalhadores e ter certeza de que estavam todos bem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120B8",
+      "FORMID": "0120B8",
+      "EDID": "NVDLC01ClinicNote02a",
+      "FULL": "Vazamento de gás na Estação de Troca Puesta del Sol",
+      "TNAM": "Pesquisando seus efeitos. O gás, seja o que for, pode estar se acumulando nos dutos sob a cidade. Pedi ao capataz para investigar a fonte antes que os inspetores do governo o façam."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011DFF",
+      "FORMID": "011DFF",
+      "EDID": "NVDLC01VendingMedX",
+      "FULL": "Código da Máquina de Vendas - \"Med-X\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B37",
+      "FORMID": "011B37",
+      "EDID": "NVDLC01VendingVodka",
+      "FULL": "Código da Máquina de Vendas - \"Vodka\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B36",
+      "FORMID": "011B36",
+      "EDID": "NVDLC01VendingScotch",
+      "FULL": "Código da Máquina de Vendas - \"Scotch\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B35",
+      "FORMID": "011B35",
+      "EDID": "NVDLC01VendingWine",
+      "FULL": "Código da Máquina de Vendas - \"Vinho\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B34",
+      "FORMID": "011B34",
+      "EDID": "NVDLC01VendingMentats",
+      "FULL": "Código da Máquina de Vendas - \"Mentats\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B33",
+      "FORMID": "011B33",
+      "EDID": "NVDLC01VendingBuffout",
+      "FULL": "Código da Máquina de Venda - \"Buffout\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B32",
+      "FORMID": "011B32",
+      "EDID": "NVDLC01VendingRebound",
+      "FULL": "Código da Máquina de Venda - \"Rebound\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B31",
+      "FORMID": "011B31",
+      "EDID": "NVDLC01VendingSteady",
+      "FULL": "Código da Máquina de Venda - \"Steady\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B30",
+      "FORMID": "011B30",
+      "EDID": "NVDLC01VendingWeapRepairKit",
+      "FULL": "Código da Máquina de Vendas - \"Kit de Reparo de Armas\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2F",
+      "FORMID": "011B2F",
+      "EDID": "NVDLC01VendingRadX",
+      "FULL": "Código da Máquina de Venda - \"Rad-X\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2E",
+      "FORMID": "011B2E",
+      "EDID": "NVDLC01VendingRadAway",
+      "FULL": "Código da Máquina de Vendas - \"RadAway\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2D",
+      "FORMID": "011B2D",
+      "EDID": "NVDLC01VendingAutoRifleAmmo",
+      "FULL": "Código da Máquina de Venda - \".308 Rifle Rounds\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2C",
+      "FORMID": "011B2C",
+      "EDID": "NVDLC01VendingPolicePistolAmmo",
+      "FULL": "Código da Máquina de Vendas - \"Munição .357 Magnum\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2B",
+      "FORMID": "011B2B",
+      "EDID": "NVDLC01VendingDemoCharge",
+      "FULL": "Código da Máquina de Vendas - \"Carga de Demolição\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B2A",
+      "FORMID": "011B2A",
+      "EDID": "NVDLC01VendingPolicePistol",
+      "FULL": "Código da Máquina de Vendas - \"Pistola de Polícia\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B29",
+      "FORMID": "011B29",
+      "EDID": "NVDLC01VendingSuperStims",
+      "FULL": "Código da Máquina de Vendas - \"Super Stimpak\"",
+      "TNAM": "Este é um código restrito para uso nas Máquinas de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B03",
+      "FORMID": "011B03",
+      "EDID": "NVDLC01SecurityMemo01",
+      "FULL": "Memorando de Segurança da Sierra Madre",
+      "TNAM": "Queixa: Sra. Purvis\/Desordem e Embriaguez \nRegistro de Segurança da Sierra Madre: 23:02\nGuarda de Plantão: Morris, Tyler\n\nDescreva o Incidente: 22:00, recebemos reclamações sobre barulho no bar superior, depois uma chamada de emergência da caixa do andar principal que relatou (citação) \"velha no teto\". Investigando, encontramos convidados aplaudindo a Sra. Millicent Purvis, 72 anos, que havia escalado a grade do bar superior e estava andando nas vigas de suporte, indicando em voz alta que ela (citação), \"ia se juntar ao circo\". Ela já havia tropeçado em um Holo-Emissor (sem ferimentos) e estava convidando os convidados para as vigas para que pudéssemos \"usá-las como barras de macaco\". \n\nSubi atrás dela, encurralei-a perto da viga sobre a área do caixa, então levei a Sra. Purvis para a detenção e liguei para sua filha vir escoltá-la para seu quarto. Nenhum dano foi causado às vigas ou ao emissor. A filha da Sra. Purvis ficou visivelmente agitada com o incidente e muito envergonhada para tomar qualquer ação legal, dizendo que ela (citação), \"não queria causar mais problemas para o Sr. Sinclair\". Precisa isolar a área da viga para evitar incidentes repetidos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B02",
+      "FORMID": "011B02",
+      "EDID": "NVDLC01SecurityMemo02",
+      "FULL": "Descreva o Incidente: A filha da Sra. Purvis ligou para perguntar se havíamos encontrado a bolsa da mãe dela, que ela pode ter deixado cair durante o \"passeio\" da noite passada. Encontramos a bolsa no andar principal. Nenhum dos objetos de valor estava lá dentro, podem ter sido pegos quando a bolsa caiu, ou a Sra. Purvis pode ter esvaziado o conteúdo da bolsa durante o incidente da noite passada.",
+      "TNAM": "Reclamação: Achados e Perdidos\nRegistro de Segurança da Sierra Madre: 8:07\nGuarda de Plantão: Morris, Tyler\nDescreva o Incidente: A filha da Sra. Purvis ligou para perguntar se havíamos encontrado a bolsa da mãe dela, que ela pode ter deixado cair durante o \"passeio\" da noite passada. Encontramos a bolsa no andar principal. Nenhum dos objetos de valor estava lá dentro, podem ter sido pegos quando a bolsa caiu, ou a Sra. Purvis pode ter esvaziado o conteúdo da bolsa durante o incidente da noite passada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0119DC",
+      "FORMID": "0119DC",
+      "EDID": "NVDLC01ElijahHolomessage",
+      "FULL": "Esta holomensagem está trancada. Um rótulo na frente diz: \"Para Veronica\". Um sensor estranho montado na parte de trás parece estar ligado ao mecanismo de travamento.",
+      "TNAM": "Esta Holomensagem está trancada. Um rótulo na frente diz: \"Para Veronica\". Um sensor estranho montado na parte de trás parece estar ligado ao mecanismo de travamento."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109EF",
+      "FORMID": "0109EF",
+      "EDID": "NVDLC01TheaterEntertainerPasscodeNote",
+      "FULL": "Senha do Diretor de Palco do Tampico",
+      "TNAM": "Dean tinha seu Passe de Artista enrolado em um pedaço de papel velho e esfarelado.\n\nMal dá para ver, mas está escrito:\n\n\"Huba-luba\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109CA",
+      "FORMID": "0109CA",
+      "EDID": "NVDLC01TheaterFrontDeskMessage",
+      "FULL": "John K. Lester: \"Já estou indo!\"",
+      "TNAM": "De: John K. Lester: \"Estou a caminho!\" 23\/10\/77\n\nJá estou indo, Eve!\n\nSe esconda até eu chegar aí. Faça o que tiver que fazer, entendeu!?\n\nEu não vou deixar nada acontecer com você.\n\n\n\n\n\n\n---------------------------------\nDe: Evelyn A. Sainz: \"John, Socorro!\" 23\/10\/77\n\nTudo explodiu! Tem fumaça. Hologramas estão atirando nas pessoas! Não conseguimos sair, John!\n\nPor favor!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010977",
+      "FORMID": "010977",
+      "EDID": "NVDLC01TheaterFrontDeskTerminalPassword",
+      "FULL": "Senha do Terminal da Recepção do Tampico",
+      "TNAM": "Ardent Tequila"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01092C",
+      "FORMID": "01092C",
+      "EDID": "NVDLC01TheaterSecurityProtocolNote",
+      "FULL": "Administração de Sierra Madre.",
+      "TNAM": "Agendamento das Apresentações do Tampico:\n\n- Preparativos para a Apresentação:\n - Portas do Palco do Tampico Abertas.\n - Sentinelas Holográficas Ligadas.\n - Sistema de Áudio Ambiente Ligado.\n - Sistema de Áudio do Palco Desligado.\n\n- Apresentação em Andamento:\n - Portas do Palco do Tampico Fechadas.\n - Sentinelas Holográficas Desligadas.\n - Sistema de Áudio Ambiente Desligado.\n - Sistema de Áudio do Palco Ligado.\n\n\nEm caso de emergência, procure o Gerente do Palco para ignorar os Protocolos de Segurança.\n\nAdministração de Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01092B",
+      "FORMID": "01092B",
+      "EDID": "NVDLC01TheaterTampicoShowsNote",
+      "FULL": "Os Shows da Grande Inauguração do Tampico!",
+      "TNAM": "A Gerência da Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0108EA",
+      "FORMID": "0108EA",
+      "EDID": "NVDLC01StarletPartitures",
+      "FULL": "Partituras de Vera Keyes",
+      "TNAM": "Esta cópia das partituras de Vera Keyes contém várias anotações nas margens de suas páginas.\nA maioria das anotações trata de como executar melhor cada melodia. A primeira página mostra um rabisco que parece fora do lugar. Ele diz:\n\n\"Comece de novo, deixe ir.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE77",
+      "FORMID": "00FE77",
+      "EDID": "NVDLC01SuitesSecurityPassNote",
+      "FULL": "Senha de Segurança das Suítes",
+      "TNAM": "Parece ser a senha do chefe de segurança para um terminal de segurança."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED51",
+      "FORMID": "00ED51",
+      "EDID": "NVDLC01StarletVoiceFragment04",
+      "FULL": "Holotape Editada",
+      "TNAM": "Você tem uma Holotape editada com fragmentos da voz de Vera Keyes, juntando as palavras: \"Deixe\", e \"Ir.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECF6",
+      "FORMID": "00ECF6",
+      "EDID": "NVDLC01Gala02EmergencyNote",
+      "TNAM": "Em caso de emergência, todos os sistemas não essenciais devem ser desligados imediatamente para ajudar os sistemas automáticos a equilibrar a carga. Se os sistemas automáticos falharem, seu capataz designará um de vocês para entrar na Câmara de Anulação Manual localizada adjacente ao regulador principal."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECF5",
+      "FORMID": "00ECF5",
+      "EDID": "NVDLC01Gala02StatusNote",
+      "TNAM": "Nível mínimo de energia exigido: 43%\nEnergia atualmente fornecida: 85%\n\nVariação aceitável em relação à norma: +\/- 15%\nMaior variação nas últimas 24 horas: 36%\n\nSistemas Automáticos: Offline\n\nAVISO: Grandes flutuações de energia detectadas. Grandes gastos de energia devem ser evitados a todo custo nessas condições. Reporte isso ao encarregado imediatamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC9F",
+      "FORMID": "00EC9F",
+      "EDID": "NVDLC01Gala02EnnisLockerNote",
+      "FULL": "Bilhete de Ennis",
+      "TNAM": "Sistema estúpido me bloqueou de novo. Como é que eu vou lembrar da senha se ficam me obrigando a mudar a cada poucos meses? Bah, vou anotar aqui para não esquecer.\n\nXHT68J09DS"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC9E",
+      "FORMID": "00EC9E",
+      "EDID": "NVDLC01Gala02EnnisTerminalFromNote",
+      "FULL": "Senha do Terminal de Manutenção Remota",
+      "TNAM": "Porra, Ennis, quantas vezes eu tenho que te dizer? A senha para o Terminal de Manutenção Remota é T7GF0SEW."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC9D",
+      "FORMID": "00EC9D",
+      "EDID": "NVDLC01Gala02KeyNote",
+      "TNAM": "O velho Ennis deixou a chave dele em um dos consoles de novo, então estou fazendo esta anotação para me lembrar de devolver para ele da próxima vez que eu o vir. Deveríamos encher o armário dele com Maçãs Dandy Boy ou algo do tipo. Talvez assim ele fosse menos esquecido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC9C",
+      "FORMID": "00EC9C",
+      "EDID": "NVDLC01Gala02EnnisTerminalToNote",
+      "TNAM": "Simmons, o sistema de ventilação está na merda de novo e preciso equalizar a distribuição de energia manualmente para o novo gerador que estamos colocando em operação. Está um calor do caralho naquela salinha apertada, e você sabe que não lido bem com o calor, então gostaria de fazer o trabalho remotamente. Qual é a senha da máquina de backup de novo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E9F6",
+      "FORMID": "00E9F6",
+      "EDID": "NVDLC01TheaterDeanHolotapeNote",
+      "FULL": "Canção \"Saw Her Yesterday\" de Dean Domino",
+      "TNAM": "Este Holodisco contém a melodia de Dean Domino, \"Saw Her Yesterday\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7CA",
+      "FORMID": "00E7CA",
+      "EDID": "NVDLC01StarletVoiceFragment03",
+      "FULL": "Canção \"Recomeçar\" de Vera Keyes",
+      "TNAM": "Você tem um Holodisco da melodia de Vera Keyes, \"Recomeçar\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7C9",
+      "FORMID": "00E7C9",
+      "EDID": "NVDLC01StarletVoiceFragment02",
+      "FULL": "Canção \"Vá Para Longe\" de Vera Keyes",
+      "TNAM": "Você tem um Holodisco da melodia de Vera Keyes, \"Vá para Longe\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7C8",
+      "FORMID": "00E7C8",
+      "EDID": "NVDLC01StarletVoiceFragment01",
+      "FULL": "Música \"Deixe o Amanhã Radiante Entrar\" de Vera Keyes",
+      "TNAM": "Você tem um Holodisco da melodia de Vera Keyes, \"Deixe o Amanhã Brilhante Entrar\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E4CD",
+      "FORMID": "00E4CD",
+      "EDID": "NVDLC01PoliceNote01a",
+      "FULL": "Visita de Sinclair",
+      "TNAM": "Sinclair fez a ronda de novo hoje. Que bom que ele deixou sua comitiva fantasmagórica no cassino, aqueles shows de luz ambulantes me fazem pensar por que ele ainda nos tem na folha de pagamento, sendo que eles poderiam nos explodir em um segundo. De resto, Sinclair comanda um navio firme, bom de ver nestes dias e tempos. Não sei o quão esperto ele é tentando construir um resort para escapar de tudo no mundo exterior, mas caras ricos podem fazer isso acontecer, mesmo os que foram atingidos com força como Sinclair foi."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DFCF",
+      "FORMID": "00DFCF",
+      "EDID": "NVDLC01DogCommandNote",
+      "FULL": "Fita de Comando do Cão"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DACE",
+      "FORMID": "00DACE",
+      "EDID": "NVDLC01VaultTechReplicatorNote",
+      "FULL": "Tecnologia do Replicador de Sierra Madre",
+      "TNAM": "Sierra Madre Replicator Schematics Retrieved."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DACD",
+      "FORMID": "00DACD",
+      "EDID": "NVDLC01VaultTechHoloNote",
+      "FULL": "Tecnologia de Holograma de Sierra Madre",
+      "TNAM": "Sierra Madre Hologram Technology Retrieved."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DACC",
+      "FORMID": "00DACC",
+      "EDID": "NVDLC01VaultTechCloudNote",
+      "FULL": "Tecnologia de Nuvem Sierra Madre",
+      "TNAM": "Sierra Madre Environmental Analysis Retrieved."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C840",
+      "FORMID": "00C840",
+      "EDID": "NVDLC01ClinicNote01a",
+      "FULL": "Códigos do Dispensador",
+      "TNAM": "Os códigos para os dispensadores públicos chegaram hoje. Sinclair nos instruiu sobre seu uso em caso de emergência. Devemos conseguir obter stimpaks e outros tratamentos das máquinas. Sinclair indicou que elas poderiam dispensar mais dependendo da natureza da emergência médica ou da condição do sujeito.\n\nEntre os códigos, ele continuava perguntando se podíamos garantir que o código para Med-X fosse feito backup. Ele deve ter dito isso três vezes, acho que não percebeu? Deve ser o estresse - fiz um backup do código neste terminal, só por precaução."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BFBD",
+      "FORMID": "00BFBD",
+      "EDID": "NVDLC01VaultSecurityProtocolNote",
+      "FULL": "Protocolos de Segurança do Vault",
+      "TNAM": "- Electric-Barriers Down."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCDA",
+      "FORMID": "00BCDA",
+      "EDID": "NVDLC01ElijahNote02",
+      "FULL": "Mensagem de Elijah: Evento de Gala"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCD9",
+      "FORMID": "00BCD9",
+      "EDID": "NVDLC01ElijahNote01",
+      "FULL": "Comandos do Prisioneiro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A845",
+      "FORMID": "00A845",
+      "EDID": "NVDLC01SuitesPasswordNote",
+      "FULL": "Lembrete de Senha das Suítes",
+      "TNAM": "Kevin,\n\nNão se esqueça de configurar uma substituição de segurança separada para os alto-falantes do corredor antes de ir embora hoje à noite. A última coisa que precisamos é que nossas comunicações caiam no meio de um roubo. Defina para 1837uC@n7Gu355. Isso deve impedir um palpite de sorte de algum hacker com um cartão de segurança roubado.\n\nObrigado,\nRubin"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A5A2",
+      "FORMID": "00A5A2",
+      "EDID": "NVDLC01CasinoPasscode01",
+      "FULL": "-Bill",
+      "TNAM": "Sheila,\n\nA senha para o holograma de segurança da sala do caixa é \"MrFizzle17\". Por favor, não se esqueça de novo, posso perder meu emprego se descobrirem que eu te dei. Te vejo no armário de eletricidade depois do Evento de Gala?\n\n -Bill"
+    },
+    {
+      "FORM": "@DeadMoney.esm:009238",
+      "FORMID": "009238",
+      "EDID": "NVDLC01PassEntertainerNote",
+      "FULL": "Sierra Madre Passe de Artista",
+      "TNAM": "Este parece ser um 'Passe de Artista' único para o Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:009237",
+      "FORMID": "009237",
+      "EDID": "NVDLC01PassMaintenanceNote",
+      "FULL": "Passe de Manutenção de Sierra Madre",
+      "TNAM": "Este parece ser um 'Passe de Manutenção' padrão para a Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008BCE",
+      "FORMID": "008BCE",
+      "EDID": "NVDLC01ClinicBasmentNote02",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia da Clínica ***\n\nSistemas Essenciais\n * Auto-Doc: Backup de emergência ativado.\n * Holograma de Segurança: Backup de emergência ativado.\n\nSistemas Não Essenciais\n * Caixas de Som: Desligadas"
+    },
+    {
+      "FORM": "@DeadMoney.esm:008BCD",
+      "FORMID": "008BCD",
+      "EDID": "NVDLC01ClinicBasmentNote01",
+      "FULL": "Status da Energia",
+      "TNAM": "*** Status da Energia da Clínica ***\n\nSistemas Essenciais\n * Auto-Docs: Ligados\n * Holograma de Segurança: Ligado\n\nSistemas Não Essenciais\n * Caixas de Som: Ligadas\n\nOBSERVAÇÃO: Informe a gerência da clínica antes de desligar o gerador para manutenção."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006371",
+      "FORMID": "006371",
+      "EDID": "NVDLC01CasinoSecurityMemo",
+      "FULL": "Memorando de Segurança do Cassino (DLC01)",
+      "TNAM": "Memorando de Segurança\n\nFuncionários de Sierra Madre,\n\nA pedido do Sr. Sinclair, por favor, abstenham-se de adulterar ou destruir os emissores de Hologramas de Segurança. Lembrem-se de que os Hologramas mantêm a nós - e nossos hóspedes - seguros.\n\nObrigado,\n\nAdministração de Sierra Madre"
+    }
+  ]
+}

@@ -1,0 +1,1912 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@BrokenSteel.esm:00BD03",
+      "FORMID": "00BD03",
+      "EDID": "DLC03WQRewardRivetCity",
+      "FULL": "A oficial Lepelletier disse que você me recompensaria..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCBC",
+      "FORMID": "00BCBC",
+      "EDID": "DLC03BS2WintHelpA",
+      "FULL": "Pode me ajudar a chegar no gerador da Velha Olney?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCBB",
+      "FORMID": "00BCBB",
+      "EDID": "DLC03BS2WintHelpB",
+      "FULL": "Você não vai conseguir."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCBA",
+      "FORMID": "00BCBA",
+      "EDID": "DLC03BS2WintHelpC",
+      "FULL": "Me ajude se não quiser morrer."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBAB",
+      "FORMID": "00BBAB",
+      "EDID": "DLC03WQSickDoctorTopic",
+      "FULL": "Casa cheia hoje, doutor. O que há de errado com todo mundo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB90",
+      "FORMID": "00BB90",
+      "EDID": "DLC03BS2WintGreetA",
+      "FULL": "Quem é você? O que faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB8F",
+      "FORMID": "00BB8F",
+      "EDID": "DLC03BS2WintGreetB",
+      "FULL": "Ah, ótimo. Ghouls, eu detesto ghouls..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB8E",
+      "FORMID": "00BB8E",
+      "EDID": "DLC03BS2WintGreetC",
+      "FULL": "Procuro pelo gerador da Velha Olney. Sabe onde fica?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB8D",
+      "FORMID": "00BB8D",
+      "EDID": "DLC03BS2WintDeathclawsA",
+      "FULL": "Não tenho medo dos deathclaws."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB8C",
+      "FORMID": "00BB8C",
+      "EDID": "DLC03BS2WintDeathclawsB",
+      "FULL": "Se havia tantos deathclaws, como você sobreviveu?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB8B",
+      "FORMID": "00BB8B",
+      "EDID": "DLC03BS2WintDeathclawsC",
+      "FULL": "O que faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB89",
+      "FORMID": "00BB89",
+      "EDID": "DLC03WQ02WigTopic",
+      "FULL": "Quem corta seu cabelo? Se parece muito com o meu, não?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B904",
+      "FORMID": "00B904",
+      "EDID": "MQ11SarahEndSendFollower",
+      "FULL": "Fawkes pode iniciar o purificador."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B817",
+      "FORMID": "00B817",
+      "EDID": "DLC03WQ03Megaton",
+      "FULL": "Você verá o real poder do Átomo quando eu detonar essa bomba em Megaton."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7EC",
+      "FORMID": "00B7EC",
+      "EDID": "DLC03TLPPScientistsWhereDrLi",
+      "FULL": "Onde está a Dra. Li?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B7EB",
+      "FORMID": "00B7EB",
+      "EDID": "DLC03TLPPScientistWhatDoingHere",
+      "FULL": "O que faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B403",
+      "FORMID": "00B403",
+      "EDID": "DLC03StopApostles3C",
+      "FULL": "Por que tem tanta certeza de que está certa, afinal? Quem é você para falar pelo Átomo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B402",
+      "FORMID": "00B402",
+      "EDID": "DLC03WQ03Prophet",
+      "FULL": "Sou o profeta do Átomo, pare de contaminar a água."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B401",
+      "FORMID": "00B401",
+      "EDID": "DLC03StopApostles2C",
+      "FULL": "Deve haver algo que eu possar fazer para convencê-lo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B365",
+      "FORMID": "00B365",
+      "EDID": "DLC03WQ03HolyFEV",
+      "FULL": "Peraí... você está dizendo que a \"água benta\" é Aqua Pura contaminada?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B364",
+      "FORMID": "00B364",
+      "EDID": "DLC03WQ03HolyFEVA",
+      "FULL": "Ah... Eu cometi um grande erro..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B363",
+      "FORMID": "00B363",
+      "EDID": "DLC03WQ03HolyFEVB",
+      "FULL": "Não acredito que você me obrigou a beber essa merda. Eu não fazia ideia. Você está morto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AEFD",
+      "FORMID": "00AEFD",
+      "EDID": "DLC03WQ01Briefing6",
+      "FULL": "Obrigado. Isso é tudo por enquanto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE99",
+      "FORMID": "00AE99",
+      "EDID": "DLC03BS3SarahPlatform01",
+      "FULL": "Vou te falar... Você está bem melhor!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE98",
+      "FORMID": "00AE98",
+      "EDID": "DLC03BS3SarahPlatform02",
+      "FULL": "Na verdade não, seu pai disse que você sobreviveria."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE97",
+      "FORMID": "00AE97",
+      "EDID": "DLC03BS3SarahPlatform03",
+      "FULL": "Sinceramente, esqueci completamente de você."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE96",
+      "FORMID": "00AE96",
+      "EDID": "DLC03BS3SarahPlatform04",
+      "FULL": "O que quer que diga. Podemos conversar na volta à Cidadela."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE95",
+      "FORMID": "00AE95",
+      "EDID": "DLC03BS3SarahPlatform05",
+      "FULL": "Sim, madame!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE94",
+      "FORMID": "00AE94",
+      "EDID": "DLC03BS3SarahPlatform06",
+      "FULL": "Certo, certo... estou indo!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE63",
+      "FORMID": "00AE63",
+      "EDID": "DLC03PQTLCamera",
+      "FULL": "Trouxe câmeras, Escrivão Rothchild."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE62",
+      "FORMID": "00AE62",
+      "EDID": "DLC03PQTLSensor",
+      "FULL": "Achei alguns módulos de sensores pra você."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE61",
+      "FORMID": "00AE61",
+      "EDID": "DLC03PQTLEnclave",
+      "FULL": "Então, nós dizimamos a Enclave?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AE60",
+      "FORMID": "00AE60",
+      "EDID": "DLC03PQTLPride",
+      "FULL": "E a Pride?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00AD8C",
+      "FORMID": "00AD8C",
+      "EDID": "DLC03PQTLPrime",
+      "FULL": "Como vai a restauração do Liberty Prime?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A968",
+      "FORMID": "00A968",
+      "EDID": "DLC03WQAboutBottles",
+      "FULL": "Já pensou em deixar as pessoas trazerem garrafas vazias para encher?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A967",
+      "FORMID": "00A967",
+      "EDID": "DLC03WQAboutMachine",
+      "FULL": "É difícil engarrafar toda essa água? Ou é tudo feito por máquinas?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A966",
+      "FORMID": "00A966",
+      "EDID": "DLC03WQAboutForgot",
+      "FULL": "Eu ia te perguntar uma coisa, mas esqueci o que era."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A965",
+      "FORMID": "00A965",
+      "EDID": "DLC03WQAboutTopLevel",
+      "FULL": "Vamos discutir alguns outros assuntos."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A964",
+      "FORMID": "00A964",
+      "EDID": "DLC03WQAboutDrLi",
+      "FULL": "Onde está a Doutora Li?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A963",
+      "FORMID": "00A963",
+      "EDID": "DLC03WQBigsleyJob",
+      "FULL": "Então, o que você faz neste trabalho?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A962",
+      "FORMID": "00A962",
+      "EDID": "DLC03WQBigsleyOrder",
+      "FULL": "Então, a que Ordem de Escrivães você faz parte?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A961",
+      "FORMID": "00A961",
+      "EDID": "DLC03WQBigsleyTired",
+      "FULL": "Você parece estar muito cansado."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A960",
+      "FORMID": "00A960",
+      "EDID": "DLC03WQBigsleyLyons",
+      "FULL": "Qual é a sua opinião sobre o Ancião Lyons?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A95F",
+      "FORMID": "00A95F",
+      "EDID": "DLC03WQBigsleyTopLevel",
+      "FULL": "Isso é tudo o que eu queria saber."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A95E",
+      "FORMID": "00A95E",
+      "EDID": "DLC03WQBigsleyBContinue",
+      "FULL": "Estou interessado. Continue..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A95D",
+      "FORMID": "00A95D",
+      "EDID": "DLC03WQBigsleyBNevermind",
+      "FULL": "Não estou com humor para ouvir uma longa história."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A0F8",
+      "FORMID": "00A0F8",
+      "EDID": "DLC03BS1TLRothchildPrime",
+      "FULL": "Como está o Liberty Prime?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A0EE",
+      "FORMID": "00A0EE",
+      "EDID": "DLC03PQTLBlood",
+      "FULL": "Trouxe amostra de sangues para análise,"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009F8E",
+      "FORMID": "009F8E",
+      "EDID": "DLC03PQTLBrotherhood",
+      "FULL": "E o que acontecerá com a Irmandade?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009F8D",
+      "FORMID": "009F8D",
+      "EDID": "DLC03PQTLBoSJob",
+      "FULL": "Tem algo que eu possa fazer para ajudar a Irmandade?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009A38",
+      "FORMID": "009A38",
+      "EDID": "DLC03BS1RothGreetA",
+      "FULL": "Aprendi um pouco. Mas esperava que você me ensinasse mais."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009A37",
+      "FORMID": "009A37",
+      "EDID": "DLC03BS1RothGreetB",
+      "FULL": "Ele disse que você me daria mais detalhes."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009A36",
+      "FORMID": "009A36",
+      "EDID": "DLC03BS1RothGreetC",
+      "FULL": "Tudo o que sei é que você precisa de minha ajuda. De novo..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0097F6",
+      "FORMID": "0097F6",
+      "EDID": "DLC03TLPurifier",
+      "FULL": "O que está acontecendo com o purificador?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00958E",
+      "FORMID": "00958E",
+      "EDID": "DLC03MetroTLMargotStatusPQ",
+      "FULL": "Qual o estado atual do Metrô Presidencial?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00958D",
+      "FORMID": "00958D",
+      "EDID": "DLC03MetroTLMargotSelfPQ",
+      "FULL": "Gostaria de lhe fazer algumas perguntas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00958C",
+      "FORMID": "00958C",
+      "EDID": "DLC03MetroTLMargotSelfPQ01",
+      "FULL": "O que significa seu nome?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00958B",
+      "FORMID": "00958B",
+      "EDID": "DLC03MetroTLMargotSelfPQ02",
+      "FULL": "O que faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009589",
+      "FORMID": "009589",
+      "EDID": "DLC03MetroDone",
+      "FULL": "Quero lhe perguntar uma coisa."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00952E",
+      "FORMID": "00952E",
+      "EDID": "DLC03WQMegatonYes",
+      "FULL": "Vou ver o que posso fazer sobre Megaton."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00952D",
+      "FORMID": "00952D",
+      "EDID": "DLC03WQMegatonNo",
+      "FULL": "Não penso em ajudá-lo com Megaton. Tenho coisas melhores para fazer."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00952C",
+      "FORMID": "00952C",
+      "EDID": "DLC03WQMegatonYesPaid",
+      "FULL": "Contanto que eu seja pago, você terá seu problema solucionado."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00952B",
+      "FORMID": "00952B",
+      "EDID": "DLC03WQRivetCityNo",
+      "FULL": "Eu não sou um fã de Rivet City, não quero arriscar minha vida. Boa sorte com isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00952A",
+      "FORMID": "00952A",
+      "EDID": "DLC03WQRivetCityYes",
+      "FULL": "Verei se posso oferecer assistência de segurança a Rivet City."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009529",
+      "FORMID": "009529",
+      "EDID": "DLC03WQRivetCityYesPaid",
+      "FULL": "Darei uma mão a Oficial Lepelletier, mas não sairá de graça."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00944B",
+      "FORMID": "00944B",
+      "EDID": "DLC03BS3TLTristanDirections",
+      "FULL": "Direções para o Metrô Presidencial seria ótimo, Tristan."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009437",
+      "FORMID": "009437",
+      "EDID": "DLC03BS1TLElderWhatElseAboutWar",
+      "FULL": "O que você pode me dizer sobre a luta contra a Enclave?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CB1",
+      "FORMID": "008CB1",
+      "EDID": "DLC03WQSparkleAboutSplitJack",
+      "FULL": "O que você acha sobre a gangue de Split Jack?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008C8C",
+      "FORMID": "008C8C",
+      "EDID": "DLC03BS3TLTristanPMetro",
+      "FULL": "O que vou encontrar no Metrô Presidencial?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008C8B",
+      "FORMID": "008C8B",
+      "EDID": "DLC03BS3TLTristanPlans",
+      "FULL": "Parece que vou andar pela base aérea às cegas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008C8A",
+      "FORMID": "008C8A",
+      "EDID": "DLC03BS3TLTristanAlone",
+      "FULL": "Só pra saber... Por que vou sozinho para o Metrô Presidencial?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008245",
+      "FORMID": "008245",
+      "EDID": "DLC03WQGriffonDead",
+      "FULL": "Achei que gostaria de saber que Griffon está morto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008244",
+      "FORMID": "008244",
+      "EDID": "DLC03WQGriffonScam",
+      "FULL": "Sabia que Griffon está roubando a Aqua Pura e vendendo água contaminada?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007E18",
+      "FORMID": "007E18",
+      "EDID": "DLC03AboutApostles2A",
+      "FULL": "Quer dizer que você transforma as pessoas em Ghouls?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007E17",
+      "FORMID": "007E17",
+      "EDID": "DLC03AboutApostles2B",
+      "FULL": "Chega dessas besteiras religiosas. Isso é doentio."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B4D",
+      "FORMID": "007B4D",
+      "EDID": "DLC03BS2TLTristanExtraHelp",
+      "FULL": "A Velha Olney é um lugar perigoso. Alguma dica que possa me ajudar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B4C",
+      "FORMID": "007B4C",
+      "EDID": "DLC03BS2TLVallincourtNeedHelp",
+      "FULL": "Ouvi que você pode me ajudar na Velha Olney."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B4B",
+      "FORMID": "007B4B",
+      "EDID": "DLC03BS2VallincourtScramblerA",
+      "FULL": "O que é esta coisa exatamente?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B4A",
+      "FORMID": "007B4A",
+      "EDID": "DLC03BS2VallincourtScramblerB",
+      "FULL": "Como isso funciona?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B49",
+      "FORMID": "007B49",
+      "EDID": "DLC03BS2VallincourtScramblerC",
+      "FULL": "Mais alguma coisa que eu deva saber?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007B48",
+      "FORMID": "007B48",
+      "EDID": "DLC03BS2VallincourtScramblerDone",
+      "FULL": "Certo, é isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C6",
+      "FORMID": "0071C6",
+      "EDID": "DLC03GerardEntry",
+      "FULL": "Preciso entrar em seu monastério."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C4",
+      "FORMID": "0071C4",
+      "EDID": "DLC03GerardRadEntry2A",
+      "FULL": "Quer dizer que devo ser irradiado se quiser entrar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C3",
+      "FORMID": "0071C3",
+      "EDID": "DLC03GerardRadEntry2B",
+      "FULL": "Certo, eu tentei do jeito educado. Agora vai ser do jeito rude!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C2",
+      "FORMID": "0071C2",
+      "EDID": "DLC03GerardRadEntry",
+      "FULL": "Preciso entrar no monastério."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C1",
+      "FORMID": "0071C1",
+      "EDID": "DLC03StopApostles",
+      "FULL": "Você tem que parar de contaminar a Aqua Pura para conseguir sua água benta."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071C0",
+      "FORMID": "0071C0",
+      "EDID": "DLC03StopApostles2A",
+      "FULL": "Por favor, você está colocando em risco pessoas inocentes que pensam que a água é segura."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071BF",
+      "FORMID": "0071BF",
+      "EDID": "DLC03StopApostles2B",
+      "FULL": "Se você não parar, eu terei que pará-lo. À força se for preciso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071BE",
+      "FORMID": "0071BE",
+      "EDID": "DLC03StopApostles3A",
+      "FULL": "Não quero lutar com você."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0071BD",
+      "FORMID": "0071BD",
+      "EDID": "DLC03StopApostles3B",
+      "FULL": "Isso é o suficiente. Hora de morrer."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F7C",
+      "FORMID": "006F7C",
+      "EDID": "DLC03BS3TLMargotBreach04",
+      "FULL": "O que exatamente essas pessoas não identificadas destruíram?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F7A",
+      "FORMID": "006F7A",
+      "EDID": "DLC03BS3TLMargotSelf04",
+      "FULL": "Isso é admirável, mas não muito necessário."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F79",
+      "FORMID": "006F79",
+      "EDID": "DLC03BS3TLMargotSelf05",
+      "FULL": "Hmmm. Fique à vontade. Parece ser uma perda de tempo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F78",
+      "FORMID": "006F78",
+      "EDID": "DLC03BS3TLMargotSelf06",
+      "FULL": "Todo mundo está morto. Sua lata estúpida!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006E9B",
+      "FORMID": "006E9B",
+      "EDID": "DLC03WQ03BigsleyReport",
+      "FULL": "E sobre o fornecimento de água de Megaton?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006E96",
+      "FORMID": "006E96",
+      "EDID": "DLC03Rosa1C",
+      "FULL": "Acidente, é? Por que eu deveria acreditar nisso?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C31",
+      "FORMID": "006C31",
+      "EDID": "DLC03WQ01FinExtortSpeech",
+      "FULL": "Uhum. Se não fosse por mim, não haveria nenhuma proteção."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C30",
+      "FORMID": "006C30",
+      "EDID": "DLC03WQ01FinExtortKarma",
+      "FULL": "Não é o bastante, me dê suas tampas ou as tirarei de você!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C2F",
+      "FORMID": "006C2F",
+      "EDID": "DLC03WQ01FinExtortStrength",
+      "FULL": "Me dê mais. Ou arrebento sua cabeça."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C2E",
+      "FORMID": "006C2E",
+      "EDID": "DLC03WQ01FinExtortLuck",
+      "FULL": "Qual é, eu sei que você tem mais. Pare de enrolar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006C2D",
+      "FORMID": "006C2D",
+      "EDID": "DLC03WQ01FinExtortGoodbye",
+      "FULL": "Até mais. Lhe vejo em uma semana."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006B1F",
+      "FORMID": "006B1F",
+      "EDID": "DLC03WQ01DeadExtort1",
+      "FULL": "Pague 500 tampinhas agora, e cessarei os ataques."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006B1E",
+      "FORMID": "006B1E",
+      "EDID": "DLC03WQ01DeadExtort2",
+      "FULL": "O contrato de proteção me custa 200 tampinhas por semana."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006B1D",
+      "FORMID": "006B1D",
+      "EDID": "DLC03WQ01DeadExtort3",
+      "FULL": "Deixa pra lá, só estava brincando."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006B1C",
+      "FORMID": "006B1C",
+      "EDID": "DLC03WQ01DeadExtortYes",
+      "FULL": "Fechado. Cessarei os ataques."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006B1B",
+      "FORMID": "006B1B",
+      "EDID": "DLC03WQ01DeadExtortNo",
+      "FULL": "Não é o bastante. 500 tampas agora e eu direi quando quiser mais."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006953",
+      "FORMID": "006953",
+      "EDID": "DLC03WQ01DeadExtort",
+      "FULL": "Sim, eu o matei. Mas eu estou aqui para negociar \"proteção\" com a gangue."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006733",
+      "FORMID": "006733",
+      "EDID": "DLC03WQ01SplitJackChallenge1",
+      "FULL": "Facas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006732",
+      "FORMID": "006732",
+      "EDID": "DLC03WQ01SplitJackChallenge2",
+      "FULL": "Canos."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006731",
+      "FORMID": "006731",
+      "EDID": "DLC03WQ01SplitJackChallenge3",
+      "FULL": "Tábuas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006730",
+      "FORMID": "006730",
+      "EDID": "DLC03WQ01SplitJackChallenge4",
+      "FULL": "Armas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00672F",
+      "FORMID": "00672F",
+      "EDID": "DLC03WQ01SplitJackChallenge5",
+      "FULL": "Ah, não importa."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006524",
+      "FORMID": "006524",
+      "EDID": "DLC03WQBigsley",
+      "FULL": "Posso fazer algumas perguntas sobre o seu papel em tudo isso?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006523",
+      "FORMID": "006523",
+      "EDID": "DLC03WQEmptyBottle",
+      "FULL": "Já pensou em deixar as pessoas trazerem garrafas vazias para encher com Aqua Pura?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006516",
+      "FORMID": "006516",
+      "EDID": "DLC03AboutHolyWater",
+      "FULL": "Onde conseguiu essa água?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006515",
+      "FORMID": "006515",
+      "EDID": "DLC03AboutApostles",
+      "FULL": "Fale sobre sua ordem."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006514",
+      "FORMID": "006514",
+      "EDID": "DLC03Rosa2C",
+      "FULL": "Me parece que você o queria morto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006513",
+      "FORMID": "006513",
+      "EDID": "DLC03Rosa2B",
+      "FULL": "Investigarei isso. Onde conseguiu a água?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006512",
+      "FORMID": "006512",
+      "EDID": "DLC03Rosa2A",
+      "FULL": "Está tudo bem. Você não sabia que isso aconteceria."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006511",
+      "FORMID": "006511",
+      "EDID": "DLC03Rosa1B",
+      "FULL": "Calma. O que houve aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00650C",
+      "FORMID": "00650C",
+      "EDID": "DLC03CurieMeeting1C",
+      "FULL": "Estou pondo um fim nesse culto idiota agora mesmo!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00650A",
+      "FORMID": "00650A",
+      "EDID": "DLC03CurieMeeting1A",
+      "FULL": "Mãe Luminescente, preciso falar com você sobre sua água benta."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006509",
+      "FORMID": "006509",
+      "EDID": "DLC03GerardMeeting2C",
+      "FULL": "Parece que você realmente tem boas intenções. Divirta-se envenenando as pessoas!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006508",
+      "FORMID": "006508",
+      "EDID": "DLC03GerardMeeting2B",
+      "FULL": "Você sabe que esta água está cheia de radiação, certo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006507",
+      "FORMID": "006507",
+      "EDID": "DLC03GerardMeeting2A",
+      "FULL": "Tenho certeza que você tem boas intenções, mas isso tem que parar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006506",
+      "FORMID": "006506",
+      "EDID": "DLC03GerardMeeting1B",
+      "FULL": "Obrigado, mas passo. Não tenho muita sorte com religiões."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006505",
+      "FORMID": "006505",
+      "EDID": "DLC03GerardMeeting1A",
+      "FULL": "Os Apóstolos da Luz Eterna? Eles todos são você?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0062F3",
+      "FORMID": "0062F3",
+      "EDID": "DLC03WQ01SplitJackAbout",
+      "FULL": "Como funciona?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0062F2",
+      "FORMID": "0062F2",
+      "EDID": "DLC03WQ01SplitJackLeave",
+      "FULL": "Eles não irão lhe pagar para proteger algo que estão dando de graça."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0062F1",
+      "FORMID": "0062F1",
+      "EDID": "DLC03WQ01SplitJackChallenge",
+      "FULL": "Está na hora de alguém assumir o comando. Você e eu. Agora. Hora de morrer."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00628E",
+      "FORMID": "00628E",
+      "EDID": "DLC03WQ01AboutSplitJack",
+      "FULL": "Um cara chamado Split Jack está por trás dos ataques."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E16",
+      "FORMID": "005E16",
+      "EDID": "DLC03WQ02EndBlackmail",
+      "FULL": "Isso NÃO é Aqua Pura. Se você quiser meu silêncio, terá que comprá-lo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E15",
+      "FORMID": "005E15",
+      "EDID": "DLC03WQ02EndConfess",
+      "FULL": "Ou você conta a eles, ou eu conto. Você escolhe."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E14",
+      "FORMID": "005E14",
+      "EDID": "DLC03WQ02End",
+      "FULL": "Descobri sua operação de engarrafamento. O jogo acabou."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E13",
+      "FORMID": "005E13",
+      "EDID": "DLC03WQ02EndReal",
+      "FULL": "Olha. Eu não vou expor suas mentiras... mas só se você começar a vender a Aqua Pura de verdade."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E11",
+      "FORMID": "005E11",
+      "EDID": "DLC03WQ02EndBlackmail2",
+      "FULL": "Certo, 20\/80 a seu favor. Mas se você me enganar, vai se arrepender."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005E10",
+      "FORMID": "005E10",
+      "EDID": "DLC03WQ02EndBlackmail3",
+      "FULL": "Esqueça tudo isso. Basta dar-me 300 tampas e estaremos de bem."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00582D",
+      "FORMID": "00582D",
+      "EDID": "DLC03TLCitadelEnclave",
+      "FULL": "Então... alguma coisa sobre a Enclave?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CF",
+      "FORMID": "0056CF",
+      "EDID": "DLC03WQ02GreetingA1a",
+      "FULL": "Não. Quer dizer, você apenas mudou o nome? Ou está fazendo alguma coisa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CE",
+      "FORMID": "0056CE",
+      "EDID": "DLC03WQ02GreetingA1b",
+      "FULL": "Você pode obter a Aqua Pura gratuitamente. Por que pagar pela sua?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CD",
+      "FORMID": "0056CD",
+      "EDID": "DLC03WQ02Source",
+      "FULL": "Estou curioso. Onde você conseguiu toda essa Aqua Pura?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CC",
+      "FORMID": "0056CC",
+      "EDID": "DLC03WQ02SourceA1",
+      "FULL": "Não estou interessado em causar problemas. Estou apenas curioso para saber onde você conseguiu a água."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CB",
+      "FORMID": "0056CB",
+      "EDID": "DLC03WQ02SourceA2",
+      "FULL": "Pensei que dar Aqua Pura a um Ghoul seria desperdício."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056CA",
+      "FORMID": "0056CA",
+      "EDID": "DLC03WQ02SourceA3",
+      "FULL": "Pra jogar conversa fora. Eu realmente não me importo onde você conseguiu o material."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C9",
+      "FORMID": "0056C9",
+      "EDID": "DLC03WQ02AboutGriffon",
+      "FULL": "Griffon está tramando algo com a Aqua Pura. O que sabe a respeito?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C8",
+      "FORMID": "0056C8",
+      "EDID": "DLC03WQ02Irradiated",
+      "FULL": "A análise do Pip-Boy mostra que a sua Aqua Cura está irradiada. Interessante..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C7",
+      "FORMID": "0056C7",
+      "EDID": "DLC03WQ02Irradiated1",
+      "FULL": "Você está claramente tramando algo. Não há como negar isso. Fale. Agora!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C6",
+      "FORMID": "0056C6",
+      "EDID": "DLC03WQ02Irradiated2",
+      "FULL": "Não há nada de errado com o meu Pip-Boy. Você senhor, é um mentiroso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C5",
+      "FORMID": "0056C5",
+      "EDID": "DLC03WQ02Irradiated3",
+      "FULL": "Relaxa. Eu não me importo. Tome desses idiotas tudo de valor que eles têm. Estou apenas curioso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C4",
+      "FORMID": "0056C4",
+      "EDID": "DLC03WQ02Location",
+      "FULL": "Pode me dizer onde acontece essa sua operação de engarrafamento?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C2",
+      "FORMID": "0056C2",
+      "EDID": "DLC03WQ02GreetingPoorNo",
+      "FULL": "Temo que não tenho 10 tampas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056C1",
+      "FORMID": "0056C1",
+      "EDID": "DLC03WQ02GreetingNotInterested",
+      "FULL": "Olha, eu realmente não estou interessado em comprar a sua Aqua Cura."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0056BE",
+      "FORMID": "0056BE",
+      "EDID": "DLC03WQ02BuyBottle",
+      "FULL": "Eu gostaria de uma garrafa de Aqua Cura. A quanto você está vendendo para eles?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005670",
+      "FORMID": "005670",
+      "EDID": "DLC03BS1ElderStage50A",
+      "FULL": "Você não poderia saber que isso aconteceria. Ninguém poderia."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566F",
+      "FORMID": "00566F",
+      "EDID": "DLC03BS1ElderStage50B",
+      "FULL": "Bem, agora é tarde para voltar atrás."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566E",
+      "FORMID": "00566E",
+      "EDID": "DLC03BS1ElderStage50C",
+      "FULL": "Agora não é hora de ser pessimista."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566D",
+      "FORMID": "00566D",
+      "EDID": "DLC03BS1ElderStage50FollowupA",
+      "FULL": "Temos que continuar lutando. Não podemos desistir agora."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566C",
+      "FORMID": "00566C",
+      "EDID": "DLC03BS1ElderStage50FollowupB",
+      "FULL": "Todos acreditam em você, e na Irmandade. Nós podemos fazer isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566B",
+      "FORMID": "00566B",
+      "EDID": "DLC03BS1ElderStage50FollowupC",
+      "FULL": "Isso não parece muito com um líder falando."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00566A",
+      "FORMID": "00566A",
+      "EDID": "DLC03BS2TristanGreetA",
+      "FULL": "Estou preparado para mais. Do que precisa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005669",
+      "FORMID": "005669",
+      "EDID": "DLC03BS2TristanGreetB",
+      "FULL": "Qualquer trabalho que você tenha, eu faço."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005668",
+      "FORMID": "005668",
+      "EDID": "DLC03BS2TristanGreetC",
+      "FULL": "Serei pago por isso?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005667",
+      "FORMID": "005667",
+      "EDID": "DLC03BS2TristanPaidA",
+      "FULL": "Desculpe, foi só uma piada."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005666",
+      "FORMID": "005666",
+      "EDID": "DLC03BS2TristanPaidB",
+      "FULL": "Você não tem lá muito senso de humor, né?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005665",
+      "FORMID": "005665",
+      "EDID": "DLC03BS2TristanPaidC",
+      "FULL": "Eu não serei pago? Tá de brincadeira..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005664",
+      "FORMID": "005664",
+      "EDID": "DLC03BS2TristanOlneyA",
+      "FULL": "Olney Powerworks? O que tem lá?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005663",
+      "FORMID": "005663",
+      "EDID": "DLC03BS2TristanOlneyB",
+      "FULL": "Você quer que eu vá para a Velha Olney?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005662",
+      "FORMID": "005662",
+      "EDID": "DLC03BS2TristanOlneyC",
+      "FULL": "Olney? Não, eu acho que não."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005661",
+      "FORMID": "005661",
+      "EDID": "DLC03BS2TristanStage40A",
+      "FULL": "Estou pronto. Mais alguma coisa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005660",
+      "FORMID": "005660",
+      "EDID": "DLC03BS2TristanStage40B",
+      "FULL": "Preciso de um tempo, Olney ainda é perigosa demais para mim."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B7A",
+      "FORMID": "003B7A",
+      "EDID": "DLC03WQ02GreetingA1",
+      "FULL": "Esta é diferente da Aqua Pura normal?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B79",
+      "FORMID": "003B79",
+      "EDID": "DLC03WQ02GreetingA2",
+      "FULL": "Você tem uma bela cabeleira. Para um Ghoul, digo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B78",
+      "FORMID": "003B78",
+      "EDID": "DLC03WQ02GreetingA3",
+      "FULL": "Vou te dizer. Troco um pedaço azul do céu por uma garrafa."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B77",
+      "FORMID": "003B77",
+      "EDID": "DLC03WQ02GreetingB1",
+      "FULL": "Tem alguma amostra grátis que eu possa provar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B76",
+      "FORMID": "003B76",
+      "EDID": "DLC03WQ02GreetingB2",
+      "FULL": "A quanto você está vendendo para eles?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B75",
+      "FORMID": "003B75",
+      "EDID": "DLC03WQ02GreetingB3",
+      "FULL": "Acho que vou passar. Obrigado mesmo assim."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B74",
+      "FORMID": "003B74",
+      "EDID": "DLC03WQ02GreetingB2a",
+      "FULL": "Não sei, 40 tampas?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B73",
+      "FORMID": "003B73",
+      "EDID": "DLC03WQ02GreetingB2b",
+      "FULL": "Tenho mesmo que adivinhar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B72",
+      "FORMID": "003B72",
+      "EDID": "DLC03WQ02GreetingB2c",
+      "FULL": "Cansei dos seus joguinhos de adivinha."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B61",
+      "FORMID": "003B61",
+      "EDID": "DLC03WQLepelletierTopLevelA",
+      "FULL": "O que Rivet City ganha com a ajuda da Irmandade?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B60",
+      "FORMID": "003B60",
+      "EDID": "DLC03WQLepelletierTopLevelB",
+      "FULL": "Eu ainda não entendo porquê a Irmandade não começa a vender a água."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B06",
+      "FORMID": "003B06",
+      "EDID": "DLC03WQRivetCityReward",
+      "FULL": "O oficial Lepelletier disse que você me recompensaria..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B05",
+      "FORMID": "003B05",
+      "EDID": "DLC03WQ01RewardA3",
+      "FULL": "Você não está tentando me roubar, né?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B04",
+      "FORMID": "003B04",
+      "EDID": "DLC03WQ01RewardA2",
+      "FULL": "Quero o meu dinheiro, e quero agora."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B03",
+      "FORMID": "003B03",
+      "EDID": "DLC03WQ01RewardA1",
+      "FULL": "O que quer dizer que com vou fazer alguns \"acordos\"?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B02",
+      "FORMID": "003B02",
+      "EDID": "DLC03WQ01Completed2",
+      "FULL": "Eu matei o líder. Você me deve um grande pagamento, Senhorita."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B01",
+      "FORMID": "003B01",
+      "EDID": "DLC03WQ01Completed1",
+      "FULL": "Um cara chamado Split Jack. Não se preocupe. Ele está morto."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFF",
+      "FORMID": "003AFF",
+      "EDID": "DLC03WQ01SplitJackGreetingA00",
+      "FULL": "Estou aqui para enviar você e sua gangue para um lugar melhor. Últimas palavras?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFE",
+      "FORMID": "003AFE",
+      "EDID": "DLC03WQ01Passphrase4",
+      "FULL": "\"Abre-te Sésamo\"?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFD",
+      "FORMID": "003AFD",
+      "EDID": "DLC03WQ01Passphrase3",
+      "FULL": "Ummm... oh sim, a senha. É \"Tapa-olho\"!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFC",
+      "FORMID": "003AFC",
+      "EDID": "DLC03WQ01Passphrase2",
+      "FULL": "Senha? Não sei sobre senha nenhuma."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFB",
+      "FORMID": "003AFB",
+      "EDID": "DLC03WQ01Passphrase1",
+      "FULL": "\"Ensopado de Mirelurk.\""
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AFA",
+      "FORMID": "003AFA",
+      "EDID": "DLC03WQ01SplitJackGreetingA0",
+      "FULL": "Eu vim pelo trabalho. Ainda está precisando de atiradores?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF9",
+      "FORMID": "003AF9",
+      "EDID": "DLC03WQ01SplitJackGreetingA3",
+      "FULL": "<Não dizer nada.>"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF8",
+      "FORMID": "003AF8",
+      "EDID": "DLC03WQ01SplitJackGreetingA2",
+      "FULL": "Sou seu pior pesadelo!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF7",
+      "FORMID": "003AF7",
+      "EDID": "DLC03WQ01SplitJackGreetingA1",
+      "FULL": "Ninguém com quem você precise se preocupar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF6",
+      "FORMID": "003AF6",
+      "EDID": "DLC03WQ01MissionBack",
+      "FULL": "Obrigado. Isso é tudo por agora."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF5",
+      "FORMID": "003AF5",
+      "EDID": "DLC03WQ01MissionQuestions",
+      "FULL": "Tenho algumas perguntas sobre a minha missão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF4",
+      "FORMID": "003AF4",
+      "EDID": "DLC03WQ01BriefingPay3",
+      "FULL": "Você pode pelo menos me falar o que receberei?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF3",
+      "FORMID": "003AF3",
+      "EDID": "DLC03WQ01BriefingPay4",
+      "FULL": "Entendido."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF2",
+      "FORMID": "003AF2",
+      "EDID": "DLC03WQ01BriefingPay2",
+      "FULL": "Temo que precisarei receber o pagamento adiantado."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF1",
+      "FORMID": "003AF1",
+      "EDID": "DLC03WQ01BriefingPay1",
+      "FULL": "É um Rifle de Plasma que você tem aí? Eu poderia usá-lo na missão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AF0",
+      "FORMID": "003AF0",
+      "EDID": "DLC03WQ01Briefing5",
+      "FULL": "Passo. Ache outra pessoa."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AEF",
+      "FORMID": "003AEF",
+      "EDID": "DLC03WQ01Briefing4",
+      "FULL": "Tudo bem, eu vou proteger a caravana e rastrear os inimigos."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AEE",
+      "FORMID": "003AEE",
+      "EDID": "DLC03WQ01Briefing3",
+      "FULL": "Estarei sendo pago, né?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AED",
+      "FORMID": "003AED",
+      "EDID": "DLC03WQ01Briefing2",
+      "FULL": "E se formos atacados e eu encontrar o chefe?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AEC",
+      "FORMID": "003AEC",
+      "EDID": "DLC03WQ01Briefing1",
+      "FULL": "Você parece muito certa de que essa caravana em especial será atacada."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AEB",
+      "FORMID": "003AEB",
+      "EDID": "DLC03WQ01GreetingB3",
+      "FULL": "É, não estou interessado em morrer. Boa sorte para você e para seus homens."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AEA",
+      "FORMID": "003AEA",
+      "EDID": "DLC03WQ01GreetingB2",
+      "FULL": "Contrate-me e seus problemas desaparecerão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AE9",
+      "FORMID": "003AE9",
+      "EDID": "DLC03WQ01GreetingB1",
+      "FULL": "Parece que você precisa de ajuda. O que precisa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AE8",
+      "FORMID": "003AE8",
+      "EDID": "DLC03WQ01GreetingA4",
+      "FULL": "\"Operações Militares\"? Você só pode estar brincando. A segurança de Rivet City é uma droga."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AE7",
+      "FORMID": "003AE7",
+      "EDID": "DLC03WQ01GreetingA3",
+      "FULL": "Pensei que a segurança de Rivet City era uma força policial, e não uma organização militar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AE6",
+      "FORMID": "003AE6",
+      "EDID": "DLC03WQ01GreetingA2",
+      "FULL": "Eu sou um atirador decente. Precisa de outro pistoleiro?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003AE5",
+      "FORMID": "003AE5",
+      "EDID": "DLC03WQ01GreetingA1",
+      "FULL": "É por isso que eu estou aqui. Bigsley me enviou."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003881",
+      "FORMID": "003881",
+      "EDID": "DLC03BS1TristanStage30Q1",
+      "FULL": "O que estou procurando?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003880",
+      "FORMID": "003880",
+      "EDID": "DLC03BS1TristanStage30Q2",
+      "FULL": "Ei, espera! Você disse que não precisaria de ajuda!"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387F",
+      "FORMID": "00387F",
+      "EDID": "DLC03BS1TristanStage30Q3",
+      "FULL": "Não foi por isso que eu entrei aqui..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387E",
+      "FORMID": "00387E",
+      "EDID": "DLC03BS1TristanStage30Bye",
+      "FULL": "Certo, estou indo."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387D",
+      "FORMID": "00387D",
+      "EDID": "DLC03BS1TristanStage40A",
+      "FULL": "Achei alguns dados criptografados em seus terminais."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387C",
+      "FORMID": "00387C",
+      "EDID": "DLC03BS1TristanStage40B",
+      "FULL": "Encontrei algo, mas não tenho certeza o que é."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387B",
+      "FORMID": "00387B",
+      "EDID": "DLC03BS1TristanStage40C",
+      "FULL": "Estou indo para a Cidadela agora."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00387A",
+      "FORMID": "00387A",
+      "EDID": "DLC03BS1RothchildGreetA",
+      "FULL": "Sinto muito pelo robô... Não havia nada que qualquer um pudesse fazer."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003879",
+      "FORMID": "003879",
+      "EDID": "DLC03BS1RothchildGreetB",
+      "FULL": "Teria sido pior se eles tivessem atacado a cidadela."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003878",
+      "FORMID": "003878",
+      "EDID": "DLC03BS1RothchildGreetC",
+      "FULL": "Felizmente eu achei algo que pode lhe ajudar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003876",
+      "FORMID": "003876",
+      "EDID": "DLC03BS1RothchildHaveDataA",
+      "FULL": "Achei alguns dados criptografados na estação de transmissão."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003875",
+      "FORMID": "003875",
+      "EDID": "DLC03BS1RothchildHaveDataB",
+      "FULL": "Não sei muito bem o que achei, parece alguns dados... Talvez você possa ver o que é."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003874",
+      "FORMID": "003874",
+      "EDID": "DLC03BS1RothchildHaveDataC",
+      "FULL": "Você poderia focar na análise desses dados em vez de chorar por seu robô..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00374B",
+      "FORMID": "00374B",
+      "EDID": "DLC03WQGreetingA1",
+      "FULL": "Desculpe? Quem é você?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00374A",
+      "FORMID": "00374A",
+      "EDID": "DLC03WQGreetingA2",
+      "FULL": "E um caloroso \"olá\" para você também, idiota."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003749",
+      "FORMID": "003749",
+      "EDID": "DLC03WQGreetingA3",
+      "FULL": "Não sei do que você está falando. Que história é essa de purificador? <Mentir.>"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003748",
+      "FORMID": "003748",
+      "EDID": "DLC03WQGreetingB1",
+      "FULL": "Parece que você está com as mãos cheias."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003747",
+      "FORMID": "003747",
+      "EDID": "DLC03WQGreetingB2",
+      "FULL": "Você não é o único com problemas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003746",
+      "FORMID": "003746",
+      "EDID": "DLC03WQGreetingC1",
+      "FULL": "Existe algo que eu possa fazer para ajudar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003745",
+      "FORMID": "003745",
+      "EDID": "DLC03WQGreetingC2",
+      "FULL": "Eu gostaria de poder ajudar. Mas, não trabalho de graça."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003744",
+      "FORMID": "003744",
+      "EDID": "DLC03WQGreetingC3",
+      "FULL": "Não é problema meu. Boa sorte com isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003743",
+      "FORMID": "003743",
+      "EDID": "DLC03WQGreetingD1",
+      "FULL": "Como posso ajudar?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003742",
+      "FORMID": "003742",
+      "EDID": "DLC03WQGreetingD2",
+      "FULL": "Se eu for pago, posso dar uma mão. Qual é o trabalho?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003740",
+      "FORMID": "003740",
+      "EDID": "DLC03WQRivetCity",
+      "FULL": "Como vai o negócio com as caravanas de Rivet City?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00373F",
+      "FORMID": "00373F",
+      "EDID": "DLC03WQMegaton",
+      "FULL": "Você acha que Megaton está tentando convencê-lo a dar-lhes mais água?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00373E",
+      "FORMID": "00373E",
+      "EDID": "DLC03WQAbout",
+      "FULL": "Tenho algumas perguntas sobre a operação do Projeto Pureza."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00373D",
+      "FORMID": "00373D",
+      "EDID": "DLC03WQSellWater",
+      "FULL": "Parece que dar a água está dando problemas. Por que você não vende água?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00373C",
+      "FORMID": "00373C",
+      "EDID": "DLC03WQGriffonHintSpeechChallenge",
+      "FULL": "Vocês estão planejando algo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E69",
+      "FORMID": "002E69",
+      "EDID": "DLC03BS3MargotStart01SC",
+      "FULL": "Eu sou do exército dos Estados Unidos e estou aqui para prestar assistência."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E68",
+      "FORMID": "002E68",
+      "EDID": "DLC03BS3MargotStart02",
+      "FULL": "Isso realmente importa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E67",
+      "FORMID": "002E67",
+      "EDID": "DLC03BS3MargotStart03",
+      "FULL": "Quem eu sou não é da sua conta."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E66",
+      "FORMID": "002E66",
+      "EDID": "DLC03BS3MargotStart01ID",
+      "FULL": "Sou um Senador dos Estados Unidos. Aqui está minha identificação."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E65",
+      "FORMID": "002E65",
+      "EDID": "DLC03BS3MargotStart01Science",
+      "FULL": "Substituir parâmetros de segurança. Atribuir ao usuário atual autorização total."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E64",
+      "FORMID": "002E64",
+      "EDID": "DLC03BS3MargotStart01",
+      "FULL": "Estou apenas divagando."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E63",
+      "FORMID": "002E63",
+      "EDID": "DLC03BS3MargotIDFail01",
+      "FULL": "Não tenho nenhuma identificação."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E62",
+      "FORMID": "002E62",
+      "EDID": "DLC03BS3MargotIDFail02",
+      "FULL": "Não há nada para proteger aqui. Esse lugar está em ruínas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E61",
+      "FORMID": "002E61",
+      "EDID": "DLC03BS3MargotStart00",
+      "FULL": "Estou procurando os túneis para a Base de Força Aérea Adams."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E60",
+      "FORMID": "002E60",
+      "EDID": "DLC03BS3TLMargotStatus",
+      "FULL": "O que está acontecendo aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5F",
+      "FORMID": "002E5F",
+      "EDID": "DLC03BS3TLMargotStatus01",
+      "FULL": "Me dê seu relatório."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5E",
+      "FORMID": "002E5E",
+      "EDID": "DLC03BS3TLMargotStatus02",
+      "FULL": "Quero o relatório sobre o status do Sistema do Metrô Presidencial."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5D",
+      "FORMID": "002E5D",
+      "EDID": "DLC03BS3TLMargotStatus03",
+      "FULL": "Deixe-me ouvir o relatório sobre o status de segurança."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5C",
+      "FORMID": "002E5C",
+      "EDID": "DLC03BS3TLMargotAdamsAFB",
+      "FULL": "Preciso de informação sobre a Base de Força Aérea Adams."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5B",
+      "FORMID": "002E5B",
+      "EDID": "DLC03BS3TLMargotAdamsAFB01",
+      "FULL": "Como chego na base através desses túneis?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E5A",
+      "FORMID": "002E5A",
+      "EDID": "DLC03BS3Done",
+      "FULL": "Mais uma pergunta..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E59",
+      "FORMID": "002E59",
+      "EDID": "DLC03BS3TLMargotAdamsAFB02",
+      "FULL": "Mais alguém já usou o túnel para chegar lá?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E58",
+      "FORMID": "002E58",
+      "EDID": "DLC03BS3TLMargotAdamsAFB03",
+      "FULL": "Há muitos soldados da Enclave por lá?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E57",
+      "FORMID": "002E57",
+      "EDID": "DLC03BS3TLMargotBreach",
+      "FULL": "Gostaria de saber mais sobre essa \"falha de segurança.\""
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E56",
+      "FORMID": "002E56",
+      "EDID": "DLC03BS3TLMargotBreach01",
+      "FULL": "Preciso de mais detalhes... Me conte sobre essa falha."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E55",
+      "FORMID": "002E55",
+      "EDID": "DLC03BS3TLMargotBreach02",
+      "FULL": "Fale mais sobre essas pessoas não identificadas."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E54",
+      "FORMID": "002E54",
+      "EDID": "DLC03BS3TLMargotBreach03",
+      "FULL": "Que medidas de segurança você tomou para parar as pessoas não identificadas?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E53",
+      "FORMID": "002E53",
+      "EDID": "DLC03BS3TLMargotRepair",
+      "FULL": "Poderia consertar o trem que vai para a Base de Força Aérea Adams?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E52",
+      "FORMID": "002E52",
+      "EDID": "DLC03BS3TLMargotSecurity",
+      "FULL": "Gostaria que você desativasse todas as unidades de segurança."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E51",
+      "FORMID": "002E51",
+      "EDID": "DLC03BS3TLMargotSelf",
+      "FULL": "Quero saber mais sobre você."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E50",
+      "FORMID": "002E50",
+      "EDID": "DLC03BS3TLMargotSelf01",
+      "FULL": "O que seu nome significa?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E4F",
+      "FORMID": "002E4F",
+      "EDID": "DLC03BS3TLMargotSelf02",
+      "FULL": "O que você faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E4E",
+      "FORMID": "002E4E",
+      "EDID": "DLC03BS3TLMargotSelf03",
+      "FULL": "Você sabe alguma coisa sobre a guerra que aconteceu há 200 anos?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DEF",
+      "FORMID": "002DEF",
+      "EDID": "DLC03EncounterFBPrisonerA1",
+      "FULL": "Certo, você está livre. E agora?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DEE",
+      "FORMID": "002DEE",
+      "EDID": "DLC03EncounterFBPrisonerA2",
+      "FULL": "O que faz aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DED",
+      "FORMID": "002DED",
+      "EDID": "DLC03EncounterFBPrisonerA3",
+      "FULL": "Acho que não."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DEC",
+      "FORMID": "002DEC",
+      "EDID": "DLC03EncounterFBSquadA1",
+      "FULL": "Jensen vai demorar um pouco. Ele foi capturado."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DEB",
+      "FORMID": "002DEB",
+      "EDID": "DLC03EncounterFBSquadA2",
+      "FULL": "Darei uma olhada por aí pra ver se acho Jensen."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DEA",
+      "FORMID": "002DEA",
+      "EDID": "DLC03EncounterFBSquadA3",
+      "FULL": "Boa sorte com isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DAD",
+      "FORMID": "002DAD",
+      "EDID": "DLC03BS1TristanGreet1",
+      "FULL": "Bom lhe ver também, estou aqui para ajudar."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DAC",
+      "FORMID": "002DAC",
+      "EDID": "DLC03BS1TristanGreet2",
+      "FULL": "Por que não deixamos as brincadeiras de lado e voltamos ao trabalho?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DAB",
+      "FORMID": "002DAB",
+      "EDID": "DLC03BS1TristanGreet3",
+      "FULL": "O Ancião Lyons disse que você precisaria de ajuda. Então aqui estou."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DAA",
+      "FORMID": "002DAA",
+      "EDID": "DLC03BS1TristanGreet4",
+      "FULL": "Então você está no comando agora, né?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA9",
+      "FORMID": "002DA9",
+      "EDID": "DLC03BS1Tristan1WhatDoIDo",
+      "FULL": "Precisa de mim para algo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA8",
+      "FORMID": "002DA8",
+      "EDID": "DLC03BS1Tristan1ReadyToGo",
+      "FULL": "Certo, estou pronto para ir."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA7",
+      "FORMID": "002DA7",
+      "EDID": "DLC03BS1Tristan1Questions",
+      "FULL": "Tenho algumas perguntas para você."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA6",
+      "FORMID": "002DA6",
+      "EDID": "DLC03BS1Tristan1QEnclavePutUpFight",
+      "FULL": "A Enclave está dando muito trabalho?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA5",
+      "FORMID": "002DA5",
+      "EDID": "DLC03BS1Tristan1QWhatsNext",
+      "FULL": "O que fazer agora?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA4",
+      "FORMID": "002DA4",
+      "EDID": "DLC03BS1Tristan1QWhatHappenedPurifer",
+      "FULL": "O que aconteceu no purificador?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DA3",
+      "FORMID": "002DA3",
+      "EDID": "DLC03BS1Tristan1QDone",
+      "FULL": "É isso."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002671",
+      "FORMID": "002671",
+      "EDID": "DLC03EncounterMegBOS1",
+      "FULL": "Qual o problema em deixá-los uma água extra?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002670",
+      "FORMID": "002670",
+      "EDID": "DLC03EncounterMegBOS2",
+      "FULL": "Deixa pra lá."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00266F",
+      "FORMID": "00266F",
+      "EDID": "DLC03EncounterMegSettlers1",
+      "FULL": "Parece sério para mim. O risco realmente vale a pena?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00266E",
+      "FORMID": "00266E",
+      "EDID": "DLC03EncounterMegSettlers2",
+      "FULL": "Bastardos arrogantes. Apoiarei se quiser criar pegar água."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00266D",
+      "FORMID": "00266D",
+      "EDID": "DLC03EncounterMegSettlers3",
+      "FULL": "Não é da minha conta. Estou só de passagem..."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001093",
+      "FORMID": "001093",
+      "EDID": "DLC03BS1Elder1HowLongOut",
+      "FULL": "Quanto tempo fiquei inconsciente?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001092",
+      "FORMID": "001092",
+      "EDID": "DLC03BS1Elder2NeedHelp",
+      "FULL": "Há algo que eu possa fazer?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001091",
+      "FORMID": "001091",
+      "EDID": "DLC03BS1Elder2NotInterested",
+      "FULL": "Não, obrigado. Já tive o suficiente."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D3F",
+      "FORMID": "000D3F",
+      "EDID": "DLC03BS1Elder1DidWeWin",
+      "FULL": "Ganhamos? Derrotamos a Enclave?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D3E",
+      "FORMID": "000D3E",
+      "EDID": "DLC03BS1Elder1DidItWork",
+      "FULL": "E quanto ao purificador? Funcionou?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D3D",
+      "FORMID": "000D3D",
+      "EDID": "DLC03BS1Elder1WhereIsSarah",
+      "FULL": "Onde está Sarah? Ela está bem?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D3C",
+      "FORMID": "000D3C",
+      "EDID": "DLC03BS1Elder1SoWhatNow",
+      "FULL": "E o que acontece agora?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D3B",
+      "FORMID": "000D3B",
+      "EDID": "DLC03BS1Elder1ThanksImOut",
+      "FULL": "Wow. Bem, obrigado por cuidar de mim. Estou dando o fora daqui."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000B03",
+      "FORMID": "000B03",
+      "EDID": "DLC03MQ11CharonEmployer",
+      "FULL": "Este contrato diz que você está de acordo. O código é 2-1-6. Agora saia."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000B02",
+      "FORMID": "000B02",
+      "EDID": "DLC03MQ11CharonForgetIt",
+      "FULL": "Deixa pra lá."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000B01",
+      "FORMID": "000B01",
+      "EDID": "DLC03MQ11CharonPlease",
+      "FULL": "Charon, por favor, faça isso por mim. O código é 2-1-6."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000AF5",
+      "FORMID": "000AF5",
+      "EDID": "DLC03BS1ElderGreet1",
+      "FULL": "Cadê a Sarah? Ela está bem?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000AF4",
+      "FORMID": "000AF4",
+      "EDID": "DLC03BS1ElderGreet2",
+      "FULL": "O que está acontecendo?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000AF3",
+      "FORMID": "000AF3",
+      "EDID": "DLC03BS1ElderGreet3",
+      "FULL": "O que houve? Como cheguei aqui?"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000904",
+      "FORMID": "000904",
+      "EDID": "DLC03MQ11SendFollowerIn",
+      "FULL": "Fawkes, preciso que você inicie o purificador. O código é 2-1-6."
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000903",
+      "FORMID": "000903",
+      "EDID": "DLC03MQ11FollowerNotGoing",
+      "FULL": "Adeus, Fawkes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E5",
+      "FORMID": "0000E5",
+      "EDID": "Murder",
+      "FULL": "Assassinar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assalto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Golpear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D5",
+      "FORMID": "0000D5",
+      "EDID": "IdleChatter",
+      "FULL": "Conversa amena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Tenho que ir agora."
+    }
+  ]
+}

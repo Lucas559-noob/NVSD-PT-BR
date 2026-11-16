@@ -1,0 +1,40 @@
+{
+  "PROJ": [
+    {
+      "FORM": "@DeadMoney.esm:011A47",
+      "FORMID": "011A47",
+      "EDID": "NVDLC01DemoProjectile",
+      "FULL": "Carga de Demonstração Armada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C45C",
+      "FORMID": "00C45C",
+      "EDID": "NVDLC01GasBombProjectile",
+      "FULL": "Bomba de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BB19",
+      "FORMID": "00BB19",
+      "EDID": "HologramPulseGunProjectile",
+      "FULL": "Raio Laser"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0069A9",
+      "FORMID": "0069A9",
+      "EDID": "NVDLC01KnifeSpearProjectile",
+      "FULL": "Projetil de Lança"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0049C3",
+      "FORMID": "0049C3",
+      "EDID": "NVDLC01HoloRifleProjectile",
+      "FULL": "Raio Laser"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00119C",
+      "FORMID": "00119C",
+      "EDID": "NVDLC01GhostGasBombProjectile",
+      "FULL": "Tanque de Gás"
+    }
+  ]
+}

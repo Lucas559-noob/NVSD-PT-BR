@@ -1,0 +1,39 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@DeadMoney.esm:013B20",
+      "FORMID": "013B20",
+      "EDID": "ModNVDLC01HolorifleAdvancedCalibration",
+      "FULL": "Calibração Avançada do Holofuzil",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B1A",
+      "FORMID": "013B1A",
+      "EDID": "ModNVDLC01HolorifleFocusOptics",
+      "FULL": "Óptica de Foco do Holorrifle",
+      "DESC": "Aumenta o dano (+25)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012806",
+      "FORMID": "012806",
+      "EDID": "ModNVDLC01BearTrapFistHeavyDutySprings",
+      "FULL": "Molas do Punho de Urso HD",
+      "DESC": "Aumenta o dano da arma (+3 DAN)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012805",
+      "FORMID": "012805",
+      "EDID": "ModNVDLC01HolorifleReinforced",
+      "FULL": "Componentes de Reforço do Holofuzil",
+      "DESC": "Melhora a condição da arma (+50%)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012804",
+      "FORMID": "012804",
+      "EDID": "ModNVDLC01AutoRifleUpgradedInternals",
+      "FULL": "Melhorias Internas de Rifle Automático",
+      "DESC": "Aumenta a cadência de tiro da arma (+10%)"
+    }
+  ]
+}

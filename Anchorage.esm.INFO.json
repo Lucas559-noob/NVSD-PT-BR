@@ -1,0 +1,5368 @@
+{
+  "INFO": [
+    {
+      "FORM": "@Anchorage.esm:00CB95",
+      "RESP": [
+        "Montgomery ao quartel general de campo. Prontos para atacar! Envie as latas! Repito, estamos prontos para atacar!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C10B",
+      "RESP": [
+        "Gary?",
+        "Ouça, filho, eu sei que Morrill foi difícil para você. Eu sinto muito, de verdade...",
+        "Gary?  Gary?",
+        "Olhe, você pode parar de fingir agora. Eu não estou aqui para te machucar.",
+        "Gary?",
+        "<suspiro profundo> Olhe, basta tirar seu Pip-Boy e nós poderemos ir cada um para seu lado.",
+        "Gary? GARY!",
+        "Ah, quer saber? Foda-se. Dê-me essa merda e desligue o gravador.",
+        "Gaaaaaaary...."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C520",
+      "RESP": [
+        "...sim, eu posso. Apesar de eu não saber a quem deve beneficiar esta simulação.",
+        "...<interferências>...",
+        "Jesus, estes caras falam sério? Por que eles trazem esse tipo de equipamento com eles?",
+        "...<interferências>...",
+        "Eu tenho palavra de bronze no Pentágono. Teremos que modificar as normas de combate para estarmos à altura dos chineses.",
+        "...<interferências>...",
+        "Acabamos de receber mais relatórios de campo do Departamento de Defesa. Ei, Rick, Está ocupado?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C51F",
+      "RESP": [
+        "Você e eu. Como o General fica mais à vontade por passar mais de uma noite aqui.. This is reconstructed surveillance.  Overheard office chatter.",
+        "...<interferências>...",
+        "Dizem que Chase vai enviar seus pertences pessoais, incluindo um berço para a noite.",
+        "...<interferências>...",
+        "Que isso fique entre nós: acho que o general está muito interessado no projeto. Você sabe que o escritório do comandante é geralmente uma formalidade.",
+        "...<interferências>...",
+        "...sim, claro. Os bombardeiros que Chase solicitou, estamos colocando o sistema ao limite com toda essa merda.",
+        "...<interferências>...",
+        "Vamos ver, se eu apenas recolocar alguns... Sim, vai liberar memórias para os bombardeios e..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C522",
+      "RESP": [
+        "Sim? Podemos falar de todas as vezes que eu pedi a ele para mudar o casaco usado na simulação...",
+        "...<interferências>...",
+        "Claro, mas não me surpreende se acontecer de os chineses desenvolver algo semelhante.",
+        "...<interferências>...",
+        "Tanques Quimera? Vamos, cara, você tem de admitir que é pura fantasia.",
+        "...<interferências>...",
+        "Olha, este é o trabalho. A maioria destes casos nunca irá acontecer, mas se acontecer, nós vamos ter um plano.",
+        "...<interferências>...",
+        "Eu te juro que Chase virá com mais um caso ridículo de contingência..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C521",
+      "RESP": [
+        "...<risos>Você parece um simpatizante - você realmente sente pena desses pobres infelizes?",
+        "...<interferências>...",
+        "Sim, exatamente. Eles virão para ficar.",
+        "...<interferências>...",
+        "Você acha, mas eles não são como nós. Seus homens são arrastados e deixados para apodrecer em qualquer missão.",
+        "...<interferências>...",
+        "Não, não - não é nada disso. Entendo que a ocupação chinesa no Alasca é estritamente militar, mas você não acha que eles se estabeleceram um pouco?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50F",
+      "RESP": [
+        "Certo, McGraw. Isso já foi longe demais."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50E",
+      "RESP": [
+        "Merda Sibley, agora não é hora."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50D",
+      "RESP": [
+        "Não, senhor. Agora é a hora. Não pense de forma alguma que eu deixarei esse... nativo... ir embora sem nada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50C",
+      "RESP": [
+        "Eu já deixei bem claro que essa escolha não é sua. Acordo é acordo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50B",
+      "RESP": [
+        "Desculpe, senhor, mas essa escolha é minha. Eu não recebo mais ordens suas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C50A",
+      "RESP": [
+        "Traição, Sibley? Sério? Você não vai conseguir escapar dessa."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C509",
+      "RESP": [
+        "Não, você não vai desistir da tecnologia que arriscamos nossos pescoços para pegar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C508",
+      "RESP": [
+        "Queime no inferno, traidor!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C507",
+      "RESP": [
+        "Te verei lá..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C511",
+      "RESP": [
+        "Certamente. Dê uma olhada no que temos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C510",
+      "RESP": [
+        "Claro. Você pode fazer negócios com a gente a qualquer hora. Estamos sempre recolhendo histórias de Wasteland, por isso, volte para ver o que nós temos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CC",
+      "RESP": [
+        "Entrando no prédio em ruínas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CB",
+      "RESP": [
+        "Entrando nas ruínas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CA",
+      "RESP": [
+        "Pronto. Vamos atacar as ruínas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C9",
+      "RESP": [
+        "Ponto assegurado. Só faltam aqueles mutantes das ruínas. Desertores, movam-se!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D0",
+      "RESP": [
+        "Esse era o último. Voltem para a base."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CF",
+      "RESP": [
+        "Pronto. Volte para a base."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CE",
+      "RESP": [
+        "Área limpa. Retornando para a base."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4CD",
+      "RESP": [
+        "Todos os mutantes foram derrubados. Desertores, procedam para a base!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C8",
+      "RESP": [
+        "Mexam-se, pessoal."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C7",
+      "RESP": [
+        "Sim, senhor. Vamos subir a colina, aniquilando qualquer verde."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C6",
+      "RESP": [
+        "Sim, senhor! Prosseguiremos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C5",
+      "RESP": [
+        "Desertores, precisamos proteger essas ruínas antes de alcançarmos a base!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C49F",
+      "RESP": [
+        "Não se preocupe com isso. Sargento Montgomery será o comandante de sua equipe e ele conhece tudo dentro e fora do time.",
+        "Se precisar de algo, como reforços ou relatórios da situação, basta falar com ele.",
+        "Então, o que mais eu posso fazer por você antes que pule para campo de batalha?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C49E",
+      "RESP": [
+        "Não se preocupe com isso. Sargento Montgomery será o comandante de sua equipe e ele conhece tudo dentro e fora do time.",
+        "Se precisar de algo, como reforços ou relatórios da situação, basta falar com ele.",
+        "Então, o que mais eu posso fazer por você antes que pule para o campo de batalha?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4A0",
+      "RESP": [
+        "Haha! Bastardo arrogante, né? Você está planejando acabar com todo o Exército Vermelho sozinho?",
+        "Apenas fique colado no Sargento Montgomery. Ele será o comandante de sua equipe e ele conhece tudo dentro e fora do time.",
+        "Se precisar de algo, como reforços ou relatórios da situação, basta falar com ele.",
+        "Então, o que mais eu posso fazer por você antes que pule para o campo de batalha?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E5",
+      "RESP": [
+        "Eu estou desperdiçando seu tempo? Você está na MINHA casa, escória. É melhor lembrar-se disso. Agora cale a boca e ouça. Talvez isto lhe interesse.",
+        "Registros indicam que há uma tecnologia de alto valor nessa base, mas não podemos pegá-la. O arsenal é vedado por uma porta de segurança, e não conseguimos abri-la.",
+        "Estamos bastante seguros de que aquele que cumprir o programa de simulação das instalações, terá acesso, mas isso requer uma certa interface. Como o seu Pip-Boy.",
+        "Eu preciso que você entre no simulador e complete o programa... Para desbloquear o arsenal. Se conseguir, você ficará com uma parte do equipamento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DF",
+      "RESP": [
+        "Essa é a libertação de Anchorage, no Alaska, dos Comunistas Chineses. Foi um evento muito significativo na história Americana, de acordo com nosso Escrivão.",
+        "Eu não vou mentir. É um combate difícil - sem protocolos de segurança. Isso significa que se você morrer na simulação... Seu corpo entrará em uma enorme parada cardíaca.",
+        "Você ainda está ouvindo, então presumo que você está interessado. Mas o meu tempo está sendo desperdiçado. Sibley te levará à cápsula. Olin te dará informações.",
+        "Se você quiser ir embora, está livre para sair. Meus homens não vão te parar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E6",
+      "RESP": [
+        "Peço desculpas pela aspereza de meus homens, mas como você pode ver, todos estamos um pouco... Coagidos. Talvez eu deva explicar nossa situação?",
+        "Registros indicam que há uma tecnologia de alto valor nessa base, mas não podemos pegá-la. O arsenal é vedado por uma porta de segurança, e não conseguimos abri-la.",
+        "Estamos bastante seguros de que aquele que cumprir o programa de simulação das instalações, terá acesso, mas isso requer uma certa interface. Como o seu Pip-Boy.",
+        "Eu preciso que você entre no simulador e complete o programa... Que desbloqueará o arsenal. Se conseguir, você ficará com uma parte do equipamento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E3",
+      "RESP": [
+        "Ah, então você é um mercenário. De repente tudo se tornou bem mais claro... Certo, vou direto ao ponto.",
+        "Registros indicam que há uma tecnologia de alto valor nessa base, mas não podemos pegá-la. O arsenal é vedado por uma porta de segurança, e não conseguimos abri-la.",
+        "Estamos bastante seguros de que aquele que cumprir o programa de simulação das instalações terá acesso, mas isso requer uma certa interface. Como o seu Pip-Boy.",
+        "Eu preciso que você entre no simulador e complete o programa... Que desbloqueará o arsenal. Se conseguir, você ficará com uma parte do equipamento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E2",
+      "RESP": [
+        "Não é tão seguro. É a libertação de Anchorage, no Alaska, dos comunistas chineses. Um evento muito importante na história americana...",
+        "Estamos falando da linha de frente, combate pesado - sem protocolo de segurança. Isso significa que se você morrer na simulação... Seu corpo terá uma parada cardíaca massiva.",
+        "Você continua a me ouvir, então eu suspeito que você esteja interessado. Mas é um desperdício de tempo. Sibley pode levar você a cápsula. Olin lhe dará as instruções.",
+        "Se você quiser ir embora, vá em frente. Meus homens não impedirão você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E0",
+      "RESP": [
+        "Não é bem assim. É uma simulação hiper-realista de treinamento militar de libertação de Anchorage, no Alaska, dos comunistas chineses.",
+        "Este é um combate pesado - sem protocolos de segurança. Isso significa que se você morrer na simulação... Seu corpo terá uma parada cardíaca massiva. Você morrerá... Morrerá de verdade.",
+        "Você continua a me ouvir, então eu suspeito que você esteja interessado. Mas é um desperdício de tempo. Sibley pode levar você à cápsula. Olin lhe dará as instruções.",
+        "Se você quiser ir embora, vá em frente. Meus homens não impedirão você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E1",
+      "RESP": [
+        "Humm... Naooo...",
+        "É a libertação de Anchorage, no Alaska, dos comunistas chineses. Foi um evento muito significativo da história norte-americana, de acordo com o nosso Escrivão.",
+        "Estamos falando da linha de frente, combate pesado - sem protocolo de segurança. Isso significa que se você morrer na simulação... Seu corpo terá uma parada cardíaca massiva.",
+        "Você continua a me ouvir, então eu suspeito que você esteja interessado. Mas é um desperdício de tempo. Sibley pode levar você à cápsula. Olin lhe dará as instruções.",
+        "Se você quiser ir embora, vá em frente. Meus homens não impedirão você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3C0",
+      "RESP": [
+        "Cachorros não são permitidos. Pode descer, mas deixe o vira-lata comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BF",
+      "RESP": [
+        "Você tem muita coragem em trazer a cadela Lyons aqui. Pode descer. Sozinho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BE",
+      "RESP": [
+        "Sim, recebi ordens para te deixar passar. No entanto, não poderá levar o robô com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BD",
+      "RESP": [
+        "Pode descer, mas seu parceiro fica aqui em cima."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BC",
+      "RESP": [
+        "Você está livre para entrar, mas deixe seu monstro de estimação aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BB",
+      "RESP": [
+        "Sim, eu ouvi sobre você. Comporte-se lá embaixo, ou terá que se ver comigo quando sair."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3BA",
+      "RESP": [
+        "Reporte ao Protetor McGraw assim que você descer. Eu ficarei de olho no cachorro enquanto você vai."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B9",
+      "RESP": [
+        "Vá reportar ao Protetor McGraw. Estou de olho na sua heresia. Ela fica comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B8",
+      "RESP": [
+        "Então, entre no elevador. O robô fica aqui em cima."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B7",
+      "RESP": [
+        "Já era hora. Reporte ao Protetor McGraw, mas deixe seu amigo comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B6",
+      "RESP": [
+        "Certo. No entanto, o show de horrores continua. Reporte ao Protetor McGraw. Descendo as escadas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B5",
+      "RESP": [
+        "Bem. Desça e reporte isso ao Protetor McGraw."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B4",
+      "RESP": [
+        "Cachorros não são permitidos. Pode descer, mas deixe o vira-lata comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B3",
+      "RESP": [
+        "Você tem muita coragem em trazer a cadela Lyons aqui. Pode descer. Sozinho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B2",
+      "RESP": [
+        "Sim, recebi ordens para te deixar passar. No entanto, não poderá levar o robô com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B1",
+      "RESP": [
+        "Pode descer, mas seu parceiro fica aqui em cima."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C0",
+      "RESP": [
+        "Você pode entrar, mas seu zumbi ficará por aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3B0",
+      "RESP": [
+        "Você pode entrar, mas seu Frankenstein de estimação fica aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AF",
+      "RESP": [
+        "Sim, eu ouvi sobre você. Comporte-se lá embaixo, ou terá que acertar as contas comigo quando sair."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AE",
+      "RESP": [
+        "Sim, mas certifique-se que o vira-lata não vá junto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AD",
+      "RESP": [
+        "Sim, mas a mulher de Lyon permanece na parte superior. Siga em frente. Sozinho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AC",
+      "RESP": [
+        "Não tem problema, mas deixe o robô aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AB",
+      "RESP": [
+        "Não tem problema, mas o seu amigo fica na parte superior comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4BF",
+      "RESP": [
+        "Claro, mas o zumbi permanece aqui, onde eu possa manter o olho nele..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3AA",
+      "RESP": [
+        "Claro, mas o Frankenstein de estimação fica aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A9",
+      "RESP": [
+        "Sim, claro. Vá em frente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A8",
+      "RESP": [
+        "Sim, mas certifique-se que o vira-lata não vá junto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A7",
+      "RESP": [
+        "Sim, mas a mulher de Lyon permanece na parte superior. Você pode seguir em frente. Sozinho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A6",
+      "RESP": [
+        "Sem problema, mas deixe o robô aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A5",
+      "RESP": [
+        "Sem problema, mas seu amigo fica na parte superior comigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4BE",
+      "RESP": [
+        "Claro, mas o zumbi fica aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A4",
+      "RESP": [
+        "Você com certeza, mas o Frankenstein de estimação fica aqui..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A3",
+      "RESP": [
+        "Sim, claro. Vá em frente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39F",
+      "RESP": [
+        "O que? Seu Bastardo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39E",
+      "RESP": [
+        "Sim, Talvez."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39D",
+      "RESP": [
+        "Claro. Vejo você por aí."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C17D",
+      "RESP": [
+        "Você está bem agora. Só tome cuidado lá fora, certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C17C",
+      "RESP": [
+        "Todos remendados. Agora vamos voltar para a luta!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C17B",
+      "RESP": [
+        "Pronto. Tome cuidado lá fora, tá?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C179",
+      "RESP": [
+        "Tudo certo, tentem não morrer lá fora, tá bem? Deus abençoe vocês, e Deus abençoe os Estados Unidos da América!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C178",
+      "RESP": [
+        "Excelente! O Capital Post te agradece! Quem sabe, talvez algum dia alguém transforme essa foto em uma estátua."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C177",
+      "RESP": [
+        "Certo. Isso. Desse jeito. Fiquem assim."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C176",
+      "RESP": [
+        "Certo, garotos, eu vou torná-los famosos, comecem com uma pose heroica."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C07A",
+      "RESP": [
+        "Espero ser capaz de ajudar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C079",
+      "RESP": [
+        "Eu vou ver o que posso fazer."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C078",
+      "RESP": [
+        "Tudo bem, vamos dar uma olhada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C077",
+      "RESP": [
+        "Normalmente isso não acontece, mas eu provavelmente não estaria viva se não fosse você. Eu diria que isso garante uma exceção."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C047",
+      "RESP": [
+        "Eu diria que 20%, senhor. Mas o número vai cair e muito se as latas não chegarem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C049",
+      "RESP": [
+        "As unidades T-51b estão 90% prontas. Tivemos alguns problemas para adaptá-las ao frio."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C045",
+      "RESP": [
+        "Desculpe, senhor, disseram que os técnicos ainda estão um pouco atrasados com as questões da fusão das usinas de energia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C046",
+      "RESP": [
+        "Bom, muito bom. Continue monitorando o campo de batalha e me avise quando perfurarmos o Campo de Impulso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C048",
+      "RESP": [
+        "Bem, você tem que preparar esses homens. Quando chegar ao campo de impulso, você tem que estar bem equipado e pronto para a ação."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C050",
+      "RESP": [
+        "Diga-lhes se querem este plano de contingência, e a liberação em caso de falha da Operação Anchorage. Movam esses rabos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5D",
+      "RESP": [
+        "Sob diferentes circunstâncias, isto não estaria nem perto de uma explicação satisfatória.",
+        "Mas... Acho que você pode realmente ser útil, então esquecerei esse fato por um momento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF60",
+      "RESP": [
+        "Bem, você certamente não é a ajuda que Morrill tinha em mente, mas pelo que vejo, você poderá servir de outras utilidades."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5E",
+      "RESP": [
+        "Teste-me, escória. Desertoooreees! Hostilidade na base!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA43",
+      "RESP": [
+        "Oh ho! Escutem esse cara!",
+        "Que tipo de modelo você espera ser para seus homens com essa conversa mole?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA47",
+      "RESP": [
+        "Apenas um dia de trabalho, ele diz. Sim, claro... todos os dias eu levanto e, sozinho, me infiltro em uma base infestada de Comunistas numa missão suicida.",
+        "Com um modelo que nem você, nossos homens se transformarão em máquinas de matar!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3D",
+      "RESP": [
+        "Qual o problema?",
+        "Deixe eu dar uma boa olhada em você. Hmmm. Não, não vejo nenhum revestimento de estanho. Você não me parece com um robô.",
+        "Qual é. Você não tem ideia do tipo de modelo que você é para esses homens. Eles se espelham em você agora. Você precisa ser um exemplo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3F",
+      "RESP": [
+        "Esse é o espírito, amigo!",
+        "Agora as coisas são maiores e melhores, né?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA40",
+      "RESP": [
+        "Todos nós queremos acabar isso. Nenhum de nós pediu para estar aqui. TODOS nós deixamos coisas para trás quando esta merda começou.",
+        "Alguns homens estão caindo lá fora. Precisamos de homens como você para mantê-los focados; faça-os acreditar que chegarão em casa algum dia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA42",
+      "RESP": [
+        "Nossa, este lugar deve ter realmente mexido com você.",
+        "Olha... todos nós queremos acabar com isso. Nenhum de nós pediu para estar aqui. TODOS nós deixamos coisas para trás quando esta merda começou.",
+        "Alguns homens estão caindo lá fora. Precisamos de homens como você para mantê-los focados; faça-os acreditar que chegarão em casa algum dia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA44",
+      "RESP": [
+        "Esse é o espírito, amigo!",
+        "Agora as coisas são maiores e melhores, hein?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA41",
+      "RESP": [
+        "Não se preocupe. Nós vamos acabar isso. Eu estarei lá a cada passo do caminho para lhe estender a mão."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3E",
+      "RESP": [
+        "Certo. Acho que nós temos um trabalho a fazer, então vamos lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA45",
+      "RESP": [
+        "Sub-rotinas? Isso é o Exército, não a Marinha. Tem certeza que aquela artilharia não abalou nada aí na sua cabeça?",
+        "Olha... todos nós queremos acabar isso. Nenhum de nós pediu para estar aqui. TODOS nós deixamos coisas para trás quando esta merda começou.",
+        "Alguns homens estão caindo lá fora. Precisamos de homens como você para mantê-los focados; faça-os acreditar que chegarão em casa algum dia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA46",
+      "RESP": [
+        "Simulação? Do que diabos você está falando? Isso é tão real quanto a vida, soldado.",
+        "E obrigado, muitos homens ainda continuam de pé. Aquelas artilharias iriam acabar com os nossos soldados!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FB",
+      "RESP": [
+        "Ah, com certeza. Claro que sim, senhorita. Eu vou levá-la ao Protetor McGraw."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FF",
+      "RESP": [
+        "Você é metido a espertinho ou simplesmente estúpido?",
+        "Certo, estúpido, vamos ver o chefe."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FE",
+      "RESP": [
+        "De fato, eu me importo. Eu me importo o suficiente para deixar você todo marcado. Entendeu?",
+        "Você e eu, vamos ver o chefe, para que ele possa decidir o que fazer com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FD",
+      "RESP": [
+        "Um lugar onde nenhum nativo é bem-vindo, assim como você.",
+        "Mas... Já que você está aqui, vamos conversar com o chefe."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9EA",
+      "RESP": [
+        "Primeiro você precisa colocar o traje de interface neural, e então você poderá ir."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9E9",
+      "RESP": [
+        "Tudo bem, ótimo. Quanto mais cedo você terminar, mais cedo poderemos ir."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9E8",
+      "RESP": [
+        "Não se esqueça de colocar o traje de interface neural antes. Você só poderá se conectar quando estiver usando-o."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9E7",
+      "RESP": [
+        "Certo, boa sorte. E não se preocupe - eu estarei bem aqui quando você voltar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B565",
+      "RESP": [
+        "Molly, eu espero que esta fita chegue a você algum dia. Eu não tenho muito tempo, mas você precisa saber o que aconteceu comigo.",
+        "Os relatórios iniciais não eram besteiras. Os chineses estão aqui. Estão invadindo Anchorage agora mesmo!",
+        "Este negócio é sério. O Pearl Harbor foi uma farsa, só isso. Eu nunca vi tantos malditos navios de guerra.",
+        "Sargento Lowry ordenou ao pelotão para se reunir no refeitório em quinze minutos.",
+        "O plano é alavancar sobre o penhasco e deter o avanço dos chineses até que possamos evacuar os trabalhadores civis.",
+        "E então... Então, manter a linha, enquanto pudermos. Eu conversei com Durney, Cielo e Dallas, e todos nós concordamos - rendição não é uma opção.",
+        "Eu nunca te disse isso ante, mas... Você se lembra daquela noite em Cleveland? Na roda gigante? Foi quando eu me apaixonei por você.",
+        "Adeus Molly. Eu... Sinto muito.",
+        "Este é o Soldado de Primeira Classe Henry Hodges, terminando a sessão."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B566",
+      "RESP": [
+        "Início do registro de áudio.",
+        "Aqui é o Capitão Zachary Lloyd, do Exército dos Estados Unidos, destacamento de segurança de Anchorage, no Alaska.",
+        "Aproximadamente 23 minutos atrás, as forças comunistas chinesas pisaram em Anchorage, mesmo com os esforços de nossos melhores soldados para impedir o desembarque.",
+        "Como esperado, os chineses lançaram um ataque em duas frentes: uma voltada para ocupar Anchorage, e outra para garantir esta base.",
+        "Graças às trincheiras, as vítimas americanas nas montanhas foram mínimas, mas a situação não vai durar muito.",
+        "Mas isso não vai durar por muito tempo. Reforços chineses parecem ser... Intermináveis. É apenas uma questão de tempo para eles nos superarem.",
+        "Nós vamos morrer hoje, mas em nome de Deus, vamos dar para aquelas cadelas Comunistas uma maldição que nunca vão esquecer.",
+        "Lloyd. Câmbio e desligo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B563",
+      "RESP": [
+        "Início do Registro de Áudio!",
+        "Aqui é o Capitão Zachary Lloyd, do Exército dos Estados Unidos, destacamento de segurança de Anchorage, no Alaska!",
+        "Faltam apenas duas horas até que venha o ataque chinês sobre este posto!",
+        "Estamos sendo bombardeados indiscriminadamente e sem trégua! Toda a base está sob bombardeio dos navios chineses, e eles não se importam em quem acertar!",
+        "Todos os cáculos apontam que eles realmente mataram mais de seus próprios homens do que dos nossos! Eles simplesmente não parece se preocupar com suas próprias tropas!",
+        "A este ritmo, a montanha inteira será um cemitério em menos de uma hora, e em seguida, os chineses entrarão e se estabelecerão!",
+        "Que Deus nos ajude! Que Deus ajude a América!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B564",
+      "RESP": [
+        "Ah, Molly... Sinto muito. Eu sinto muito.",
+        "Eu não posso fazer isso. Eu tenho tanto medo, Molly. Eu não quero morrer. Oh meu Deus, eu não quero morrer...",
+        "Nós aguentamos tudo que conseguimos, eu juro. Então Ciello pediu uma revista, e quando eu me virei para dar a ele, explodiu uma granada e...",
+        "Ele se foi, Molly. Ele estava lá em um segundo, e então. Seu sangue... E... E... Pedaços dele... Ohh... Meu Deus, eu estou coberto de pedaços do seu corpo!",
+        "Por favor, por favor, deixe-os ir, deixe-os ir. Eu só quero ir para casa e ficar ao seu lado novamente.",
+        "Eu estou escondido. Os chineses estão em toda parte. Sou um covarde, eu sou um covarde, eu sei. Mas eu não me importo. Se me encontrarem, me renderei."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B562",
+      "RESP": [
+        "Molly, eu.... eu estou bem. Tudo está bem. Eu fui encontrado, mas não pelos Chineses. Foi o Capitão, ele me encontrou. O Capitão disse que tudo sairia bem.",
+        "Foi a algumas horas e estou cansado, mas queria que você soubesse que estou bem. Estou na refinaria agora, descansando.",
+        "O Capitão me trouxe aqui. Nós passamos sorrateiramente pelos Chineses e entramos. Aqui é o último lugar que eles não tomaram.",
+        "Eu levei... eu levei um tiro, Molly. No ombro. E nas costas. Quando eu e o Capitão evacuamos a montanha. Não foi ruim. Apenas algumas balas. Lembranças, certo?",
+        "O Capitão me encheu com um monte de remédios, por isso não posso sentir muita coisa. Ele me remendou muito bem também. Ainda estou sangrando, mas irá parar.",
+        "Eu posso ouvir o Capitão e os outros lá fora, lutando. Tantos tiros. Eles vão matar aqueles Chineses bastardos e então todos nós poderemos voltar para casa..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B561",
+      "RESP": [
+        "Registro Médico, Doutor Adrienn Adami, Exército dos Estados Unidos, Anchorage, Base Avançada do Alaska.",
+        "Considerando o que está em jogo, o general Chase e eu o conhecemos pelo codinome chem \"Psycho\" que pode ser de uso significativo durante esta operação.",
+        "Eu li os primeiros testes clínicos, e há certamente alguns possíveis efeitos colaterais - demência, agressão psicótica e vício.",
+        "Mas os efeitos adversos parecem limitados. Ok, eu percebo que o chem foi desenvolvido pela divisão R. & D. Chase , mas se a coisa funciona, funciona.",
+        "Podemos realmente dar ao luxo de ser exigentes a esse ponto? Alguns destes animais têm famílias em Anchorage. Se eu puder dar-lhes uma chance, eu vou.",
+        "Espero que meu juramento Hipocrático siga me respondendo até quando acabar toda essa bagunça..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4E6",
+      "RESP": [
+        "Caralho, você ganhou respeito dos soldados pelo o que fez com a artilharia chinesa.",
+        "Preste atenção... pegue este equipamento e leve com você, que se danem os requisitos. Se alguém perguntar, ele caiu de um caminhão."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B57A",
+      "RESP": [
+        "Toc, Toc, Olin. Tenho um novo melhor amigo para você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B579",
+      "RESP": [
+        "O que?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B578",
+      "RESP": [
+        "Yep. Só espero que você trate este melhor do que o último, hein? Hehe."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B577",
+      "RESP": [
+        "Vai pro inferno, Sibley. Você sabe que não foi minha culpa."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B576",
+      "RESP": [
+        "Claro, tanto faz. Apenas tente fazer alguns progressos, certo? Estamos todos ansiosos para sair daqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A79E",
+      "RESP": [
+        "Ótimo, então saia e deixe-me fazer o meu trabalho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189A",
+      "RESP": [
+        "Caminhar por uma zona de guerra?",
+        "Ouça, nativo, se você quiser colaborar, ajude-nos a acabar com os mutantes daqui até nosso acampamento. Se não, fique fora do nosso caminho!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:001899",
+      "RESP": [
+        "Caralho, já era hora! Em formação, soldado!",
+        "Temos vários inimigos daqui até o acampamento base. Estamos varrendo a área para protegê-la. Em marcha!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BD5",
+      "RESP": [
+        "Tenha cuidado em sua abordagem, você terá que passar pelo campo inimigo a caminho do armazém."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BD4",
+      "RESP": [
+        "Existem algumas minas abandonadas ao longo da rota, então mantenha seus olhos e ouvidos atentos. É um ótimo lugar para emboscadas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:008CB3",
+      "RESP": [
+        "Porra, já era hora!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF6F",
+      "RESP": [
+        "Com a morte do general, nossos homens poderão proteger esta refinaria e continuar com Anchorage sem problemas.",
+        "Você tem ajudado a tirar a cidade das mãos dos vermelhos, Soldado. bom trabalho.",
+        "Com isso você termina seu treinamento. Fale com o seu superior sobre a sua próxima missão.",
+        "Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007670",
+      "RESP": [
+        "Com a morte do general, nossos homens poderão proteger esta refinaria e continuar com Anchorage sem problemas.",
+        "Você tem ajudado a tirar a cidade das mãos dos vermelhos, Soldado. bom trabalho.",
+        "Você também foi além do seu dever e recuperou informações importantes sobre o explosivo e já expôs os planos do inimigo para nós. Mais uma vez, Bom trabalho, soldado.",
+        "Com isso você termina seu treinamento. Fale com o seu superior sobre a sua próxima missão.",
+        "Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF6E",
+      "RESP": [
+        "Isso completa a simulação e o seu treinamento. Mas se você quiser mais, o seu comandante saberá exatamente como te satisfazer.",
+        "Você mostrou que tem garra. Há uma possível promoção futuramente, se você mantiver a cabeça no lugar.",
+        "Bom trabalho, soldado. Quando você sair da simulação, peça aos seus superiores informações sobre sua próxima missão. Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007671",
+      "RESP": [
+        "Isso completa a simulação e o seu treinamento. Mas se você quiser mais, o seu comandante saberá exatamente como te satisfazer.",
+        "Você mostrou que tem garra. Há uma possível promoção futuramente, se você mantiver a cabeça no lugar.",
+        "Você também foi além de seu dever e recuperou informações importantes sobre o explosivo e já expôs os planos do inimigo para nós. Mais uma vez, bom trabalho, soldado.",
+        "Bom trabalho, soldado. Quando você sair da simulação, peça aos seus superiores informações sobre sua próxima missão. Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF6D",
+      "RESP": [
+        "Você tem um problema de atitude, soldado. E esta simulação irá lhe recomendar um bom pontapé no cú para solucionar.",
+        "Quando você sair da simulação, peça aos seus superiores informações sobre sua próxima missão. Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00766E",
+      "RESP": [
+        "Você tem um problema de atitude, soldado. E esta simulação irá lhe recomendar um bom pontapé no cú para solucionar.",
+        "No entanto, você recuperou informações importantes e descobriu os planos do inimigo. Isso o compensa por tudo, então eu não vou considerar essa sua atitude.",
+        "Quando você sair da simulação, peça aos seus superiores informações sobre sua próxima missão. Dispensado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007415",
+      "RESP": [
+        "Sim, senhor. Estamos a caminho. Vamos esperar por você no Acampamento de Gelo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007414",
+      "RESP": [
+        "Sim, senhor. Estamos a caminho. Vamos esperar por você no Posto de Escuta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007413",
+      "RESP": [
+        "Sim, senhor. Estamos a caminho. Vamos esperar por você no Depósito de Quimeras."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007201",
+      "RESP": [
+        "Sim, senhor. Estamos a caminho. Vamos esperar por você na Cidade de Mineração."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00741B",
+      "RESP": [
+        "Sim, senhor. Vamos atacar o inimigo no Depósito de Quimeras."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00741A",
+      "RESP": [
+        "Sim, senhor. Vamos atacar o inimigo no Acampamento de Gelo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007419",
+      "RESP": [
+        "Sim, senhor. Vamos atacar o inimigo no Posto de Escuta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007203",
+      "RESP": [
+        "Sim, senhor. Vamos atacar o inimigo na Cidade de Mineração."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007418",
+      "RESP": [
+        "Sim, senhor. Vamos esperar aqui. Avise-nos quando você quiser que a gente ataque o inimigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007417",
+      "RESP": [
+        "Sim, senhor. Vamos esperar aqui. Avise-nos quando você quiser que a gente ataque o inimigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007416",
+      "RESP": [
+        "Sim, senhor. Vamos esperar aqui. Avise-nos quando você quiser que a gente ataque o inimigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007202",
+      "RESP": [
+        "Sim, senhor. Vamos esperar aqui. Avise-nos quando você quiser que a gente ataque o inimigo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058AB",
+      "RESP": [
+        "Aqui é a entrada. O local está, provavelmente, repleto de vermelhos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A4",
+      "RESP": [
+        "Puta merda..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A8",
+      "RESP": [
+        "Lá! Você os vê lá embaixo? Malditos Tanques Quimera. Relaxem, estamos fora de seu alcance."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A1",
+      "RESP": [
+        "Hmm. Parece que os comunistas estão ficando com pouca munição para as armas grandes. Acho que a gente não precisa vir até aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A6",
+      "RESP": [
+        "É, é... eu me equívoquei. Vamos continuar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058AA",
+      "RESP": [
+        "Ali embaixo está a Frente. Essas armas estão abatendo nossos homens. Vamos destruí-las!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A3",
+      "RESP": [
+        "Tudo bem, Chefe... Temos três dessas coisas para destruir. Você lidera o caminho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A7",
+      "RESP": [
+        "Plante essa coisa e vamos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A0",
+      "RESP": [
+        "Vamos enviar essa besta para além!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A5",
+      "RESP": [
+        "Última arma! Mande esta coisa para fora do mapa!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A2",
+      "RESP": [
+        "É! Tomem isso, bastardos vermelhos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058AC",
+      "RESP": [
+        "Já se foram dois. Vamos finalizar o serviço."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0058A9",
+      "RESP": [
+        "Ha ha! E todos eles vieram abaixo! É!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056F3",
+      "RESP": [
+        "Woah... Cuidado onde pisa. Vai ser uma PUTA queda"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056F0",
+      "RESP": [
+        "Olhos abertos, temos companhia à frente!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056F1",
+      "RESP": [
+        "SVamos cruzar essa linha? E eu que pensava que eu era o kamikaze."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056F4",
+      "RESP": [
+        "Se eu viver mais um dia sem ver uma dessas passagens, eu vou morrer feliz."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056F2",
+      "RESP": [
+        "Através desta seguinte estrutura acessaremos a Base de Artilharia. Eu não sei o que ali nos espera, então fiquem atentos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056E0",
+      "RESP": [
+        "Desculpe, senhor. Aqui está ela, como pediste."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DF",
+      "RESP": [
+        "Desculpe, senhor. Aqui está ele, como pediste."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DE",
+      "RESP": [
+        "Você deveria vigiar o nosso convidado, Defensor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DD",
+      "RESP": [
+        "Sim, desculpe, senhor. Não é culpa minha se ele veio correndo até aqui. Ouça, eu ainda acho que isso não é uma boa ideia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DC",
+      "RESP": [
+        "Sim, desculpe, senhor. Não é culpa minha se ele veio correndo até aqui. Ouça, eu ainda acho que isso não é uma boa ideia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DB",
+      "RESP": [
+        "Isso é tudo, Defensor. Obrigado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056DA",
+      "RESP": [
+        "Aqui está ele, Protetor. Como você pediu."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D9",
+      "RESP": [
+        "Aqui está ela, Protetor. Como você pediu."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D8",
+      "RESP": [
+        "Obrigado, Defensor. Dê-nos um momento, por favor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D7",
+      "RESP": [
+        "Senhor, eu vou repitir: eu não gosto dessa ideia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D6",
+      "RESP": [
+        "Anotado, Defensor. Isso é tudo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D5",
+      "RESP": [
+        "Sim, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FFA",
+      "RESP": [
+        "Sem problemas, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FFE",
+      "RESP": [
+        "Agora mesmo, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FFD",
+      "RESP": [
+        "Afirmativo, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FFC",
+      "RESP": [
+        "Entendido, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FFB",
+      "RESP": [
+        "Sim, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D4",
+      "RESP": [
+        "...como eu disse, Morrill deveria estar lá em cima. Então quem diabos está no elevador?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004DC5",
+      "RESP": [
+        "...estou dizendo, por que não congelamos a garota e usamos o computador dela?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004DC4",
+      "RESP": [
+        "...estou dizendo, por que não congelamos o cara e usamos o computador dele?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056E1",
+      "RESP": [
+        "Não faço a mínima ideia. Fiquem preparados, mas não abram fogo sem minhas ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004DC3",
+      "RESP": [
+        "McGraw nos deu as ordens. Simples."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D0",
+      "RESP": [
+        "Cara, essa é a última coisa que precisamos..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004DC1",
+      "RESP": [
+        "Vamos lá, cara. Por quanto tempo você vai deixar McGraw ferrar conosco desse jeito?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004DC2",
+      "RESP": [
+        "Já basta. McGraw é o responsável, então seguiremos suas ordens, não importa o quanto não gostamos disso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A48",
+      "RESP": [
+        "Espere."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4A",
+      "RESP": [
+        "Franco-atirador."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A49",
+      "RESP": [
+        "Peguei!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4B",
+      "RESP": [
+        "McKinney! Jesus Cristo! Você quer morrer?!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4C",
+      "RESP": [
+        "Ele está acima daquele cume. Bem ali."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4D",
+      "RESP": [
+        "Po-rraaaa!!! Droga, McKinney!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4E",
+      "RESP": [
+        "Temos que acabar com aquele maldito atirador! Estamos presos aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00496C",
+      "RESP": [
+        "Todos estamos prontos para chutar alguns traseiros Comunistas... Senhor.",
+        "Quais são as ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004976",
+      "RESP": [
+        "Sim, senhor. Quais são suas ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00496F",
+      "RESP": [
+        "Sim, senhor. Quais são suas ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004973",
+      "RESP": [
+        "Bem, eles estão praticamente intactos. O Posto de Escuta precisa ser protegido e os tanques de combustível no depósito de Quimeras precisam ser destruídos.",
+        "Claro, depois de tudo ser feito, o Campo de impulso ainda precisa ser desativado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004972",
+      "RESP": [
+        "O Posto de Escuta ainda precisa de proteção, e em seguida o Campo de impulso precisa ser desativado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004971",
+      "RESP": [
+        "Temos de destruir os tanques de combustível do deposito de Quimeras. E, então, poderemos desativar o campo de impulso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004970",
+      "RESP": [
+        "Quando acabarmos com o campo de impulso, contate o Chase para que nos envie as tropas de choque!",
+        "Eles usam a Power Armor T-51b. Veremos o que sobrará para os vermelhos quando entrarmos e acabarmos com o seu quartel general."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00496B",
+      "RESP": [
+        "Feito. Que unidade nós devemos pedir?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF8",
+      "RESP": [
+        "Como desejar, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF6",
+      "RESP": [
+        "Sem problema, eles devem chegar em breve."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF7",
+      "RESP": [
+        "Unidade de mísseis a caminho, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF5",
+      "RESP": [
+        "Chegarão a qualquer momento, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF9",
+      "RESP": [
+        "Nós o enviaremos em seguida, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF4",
+      "RESP": [
+        "Senhor, está a caminho neste momento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004430",
+      "RESP": [
+        "Certo... Preste atenção, soldado. Eu só lhe direi uma vez."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004434",
+      "RESP": [
+        "Nós montamos o nosso novo Quartel General de campo aqui. Agora que liquidamos a artilharia, a área está bastante segura."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442E",
+      "RESP": [
+        "O primeiro dos três objetivos é o Depósito de Quimeras que está aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004435",
+      "RESP": [
+        "Uma vez que você violar o perímetro do Depósito, você deverá acabar com os principais tanques de combustível."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004433",
+      "RESP": [
+        "Seu segundo alvo está do outro lado. Os Chineses instalaram um posto de escuta na extremidade da Cordilheira Calliway."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442B",
+      "RESP": [
+        "Você precisa acabar com o pessoal para que possamos colocar nossos homens da inteligência lá, a fim de iniciar a decodificação."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442D",
+      "RESP": [
+        "Uma vez finalizado os dois primeiros alvos, o último obstáculo no meu caminho é o maldito Campo de Impulso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442F",
+      "RESP": [
+        "Você precisa atravessá-lo e, em seguida, causar uma sobrecarga para que possamos limpar o local com o T-51b."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004432",
+      "RESP": [
+        "Deixe-me avisá-lo agora. A menos que você queira morrer, eu não chegaria perto do campo antes de finalizar os outros dois alvos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442A",
+      "RESP": [
+        "O Tenente Morgan será seus olhos e ouvidos na Operação Anchorage, então pegue tudo o que precisar com ele."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00442C",
+      "RESP": [
+        "Tio Sam investiu muito dinheiro transformando-o numa máquina de matar... Hora de retribuir. Dispensado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004383",
+      "RESP": [
+        "Oh, eu... Eu sinto muito. As coisas têm sido tensas aqui ultimamente, e temo que eu esteja sendo afetada.",
+        "Eu não deveria estar descontando en você. Precisa de algo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437A",
+      "RESP": [
+        "Olha, se você estiver indo para ajudar, ótimo. Só não fique no meu caminho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004385",
+      "RESP": [
+        "Até que você realmente faça algo que nos ajude, você não é nada além de um fardo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D2",
+      "RESP": [
+        "O que? Isto é algum tipo de piada?",
+        "Olha, você está aqui só porque McGraw disse que você é útil. Se não, você estaria lá por conta própria."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437D",
+      "RESP": [
+        "O que? Isto é algum tipo de piada?",
+        "Olha, você está aqui só porque McGraw disse que precisamos de você. Caso contrário, você estaria do lado de fora, com o resto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004375",
+      "RESP": [
+        "Tudo bem, então seja rápido. O que você quer?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004384",
+      "RESP": [
+        "Tá brincando comigo?",
+        "Ouça, idiota. Você está aqui porque McGraw disse que precisamos de você. Você não está aqui para jogar conversa fora.",
+        "Eu garanto que você não vai conseguir nada de mim, então não tente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004379",
+      "RESP": [
+        "*Suspiro* Sua ignorância é repugnante, mas eu já esperava.",
+        "Esta sim tinha que ter sido uma das simulações mais importante da sua época - é a libertação de Anchorage, no Alaska, dos Chineses.",
+        "Eventualmente, os americanos entravam e libertavam os cidadãos, mas houve grandes perdas. Esta simulação treinou os soldados para o combate.",
+        "Sinceramente, você tem que estudar história um pouco mais."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004378",
+      "RESP": [
+        "Você não conhece? Esta foi uma das simulações mais importante da sua época - é a libertação de Anchorage, no Alaska, dos Chineses.",
+        "Você não é de história, é? Antes de o mundo ser aquecido, os chineses invadiram Anchorage, no Alaska. Isso empolgou as coisas.",
+        "Eventualmente, os americanos entravam e libertavam os cidadãos, mas houve grandes perdas. Esta simulação treinou os soldados para o combate.",
+        "De qualquer forma, a tecnologia aqui é impressionante, mas não tanto. Os registros informam que até mesmo algumas das pessoas que a construíram não a compreendem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004380",
+      "RESP": [
+        "O mesmo de sempre: localizando a tecnologia, preservando-a, e assegurando que ela não caia em mãos erradas.",
+        "McGraw espera que o que encontrarmos aqui nos dará uma grande vantagem. Não é muito convincente, mas eu estou do seu lado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D1",
+      "RESP": [
+        "Estamos apenas fazendo o nosso trabalho. Localizando tecnologia, preservando-a, e nos certificando de que não caia em mãos erradas.",
+        "Alguém tem que garantir o futuro da raça humana, não é?",
+        "McGraw acha que há algo de valor aqui. Eu sei que nem todo mundo concorda, mas com base no que eu vi, eu acho que ele está certo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437F",
+      "RESP": [
+        "O mesmo de sempre: localizando a tecnologia, preservando-a, e assegurando que ela não caia em mãos erradas.",
+        "McGraw acha que há algo de valor aqui. Eu sei que nem todo mundo concorda, mas com base no que eu vi, eu acho que ele está certo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004377",
+      "RESP": [
+        "Bem, acho que você não se importa se nós cortarmos fora seu antebraço.",
+        "O simulador está à procura de uma interface externa. Não sabemos muito bem por que, mas não há maneira de burlar isso.",
+        "O seu Pip-Boy é muito útil para nós. Então, já que você é o único a usá-lo, você será o único a fazer simulação. O que acha?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004376",
+      "RESP": [
+        "A simulação precisa de um dispositivo de interface externa para funcionar corretamente. Eu não sei exatamente por que, mas deixa os registros funcionando melhor.",
+        "Descobrimos que só o seu Pip-Boy seria o suficiente. Mas já que você está grudado a ele, você vai junto.",
+        "Você vai ficar bem... Suponho que você pode realmente obter alguns resultados."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437C",
+      "RESP": [
+        "Olha, quando isto tudo acabar não seremos amigos, então quanto menos conversarmos, melhor, certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004386",
+      "RESP": [
+        "Eu tenho um monte de problemas, idiota. Se você não quiser se tornar um também, cale a boca e entre no... Simulador. Mexa-se!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437E",
+      "RESP": [
+        "Sim, sim, tanto faz."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00437B",
+      "RESP": [
+        "Esta merda de missão é uma porra. Nós ficamos presos aqui por muito tempo, e não tivemos nenhum resultado.",
+        "McGraw não irá desistir, então vamos ter de usar idiotas como você para ajudar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004361",
+      "RESP": [
+        "Essa foi uma puta queda. Quando o paraquedas fez isso, pensei que você tinha morrido. Espero que os demais tenham chegado em uma parte..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004360",
+      "RESP": [
+        "Eu acho que as patrulhas não nos viram chegando, então, vamos aproveitar essa vantagem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004364",
+      "RESP": [
+        "Você possui o equipamento, você decide: entrar sigilosamente ou sair mandando bala."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004362",
+      "RESP": [
+        "Nos reuniremos no ponto de encontro como planejado, e então mandaremos esses artilheiros para o inferno."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004365",
+      "RESP": [
+        "Tome cuidado. Os vermelhos não fazem prisioneiros. Boa sorte!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003621",
+      "RESP": [
+        "Pra que serve ter uma arma se eles não deixam usá-la? Amigo, eu estou pronto para baixar a trava e se disparar"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003620",
+      "RESP": [
+        "Eu estou sentindo essa \"puxada\" na minha sobrancelha. E você sabe que quando eu sinto isso, Comunistas estão por perto. Será um dia muito divertido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361F",
+      "RESP": [
+        "Você me conhece. Meu dia não estará completo a menos que eu mate alguns Vermelhos. Então, vamos começar a matança logo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361E",
+      "RESP": [
+        "Cara, Anchorage não é nada. Sabe o que é isso? Prática. Próxima parada, Shanghai. Basta esperar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361D",
+      "RESP": [
+        "Eu já te disse que eu tenho uma tia em Anchorage? Ela está lá... em algum lugar. E que Deus me ajude, porque vou tirar esses Vermelhos do seu quintal."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361C",
+      "RESP": [
+        "Estou pronto para matar Comunistas, e posso dizer que serão muitos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361B",
+      "RESP": [
+        "Tudo que eu preciso é de uma arma na frente e de vocês, filhos da puta, atrás. Estou pronto para acabar com isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00361A",
+      "RESP": [
+        "Eu só quero entrar lá, matar alguns Vermelhos e, em seguida, trazer meu traseiro de volta para o acampamento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003619",
+      "RESP": [
+        "Falou como um verdadeiro defensor da liberdade. Só não vá fazer nada estúpido lá fora, certo? Lembre-se, eu estarei ao seu lado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003618",
+      "RESP": [
+        "Ah, está certo. Você se inscreveu para esta porcaria. Às vezes eu esqueço que você realmente gosta de matar pessoas. Talvez enviemos você por conta própria."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003617",
+      "RESP": [
+        "Sim, bem, apenas se lembre que você não é um exército de um homem só, e você viverá o suficiente para aproveitar a vitória."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003616",
+      "RESP": [
+        "Bem, não banque o herói comigo, certo? Você ficará com todas as medalhas, como da última vez."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00362B",
+      "RESP": [
+        "Bem, tenho uma espécie de \"objetivo secundário\" que preciso terminar. Meu irmãozinho quer uma daquelas armas Chinesas. A coisa poderia ficar feia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00362A",
+      "RESP": [
+        "Ei, Eu farei o que for preciso. Sabe por que? Se eu não proteger os fracos -- sabe, pessoas como você -- quem protegerá?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003629",
+      "RESP": [
+        "Soldado, apenas fique comigo. Nós seremos os soldados mais condecorados do Exército quando esta coisa acabar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003628",
+      "RESP": [
+        "Eu não morri ainda, não é? Na verdade, estou começando achar que sou indestrutível. Algo como um super-herói. Você pode me chamar de... \"Super Recruta.\""
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003627",
+      "RESP": [
+        "Bem, agora, lembre-se... Temos vários malditos Chineses para matar. Milhões deles. Você precisará intensificar seu jogo. Fazer algo que um soldado realmente faria."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00301A",
+      "RESP": [
+        "Bem, uma saudação é o mínimo que eu posso fazer. Tem ideia de quantos homens você salvou quando acabou com aquelas armas?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003018",
+      "RESP": [
+        "Você merece, senhor.",
+        "Você não tem ideia de quantas vidas salvou destruindo aquelas armas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003017",
+      "RESP": [
+        "Sim, senhor. Desculpe, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F44",
+      "RESP": [
+        "Vocês de Wasteland, sempre pensando si mesmos.",
+        "Está certo. Olhe, estou em um dilema aqui. Eu preciso dos resultados desta expedição e eu preciso deles agora.",
+        "Se você nos ajudar, você receberá um pouco de tudo o que encontrarmos trancado aqui. Você não conseguirá uma proposta de mim melhor do que essa."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F25",
+      "RESP": [
+        "Tudo parece estar em ordem. Pegue."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F24",
+      "RESP": [
+        "Eu vou cuidar de todos os seus equipamentos velhos e aqui estão os novos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F27",
+      "RESP": [
+        "Tudo parece estar em ordem. Pegue."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F26",
+      "RESP": [
+        "Eu vou cuidar de todos os seus equipamentos velhos e aqui estão os novos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F21",
+      "RESP": [
+        "Tudo parece estar em ordem. Pegue."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F20",
+      "RESP": [
+        "Eu vou cuidar de todos os seus equipamentos velhos e aqui estão os novos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F23",
+      "RESP": [
+        "Tudo parece estar em ordem. Pegue."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F22",
+      "RESP": [
+        "Eu vou cuidar de todos os seus equipamentos velhos e aqui estão os novos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1F",
+      "RESP": [
+        "Te vira. Tudo o que você precisar está nas caixas de munição."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1A",
+      "RESP": [
+        "Sim, com certeza. Só me traga um formulário de requisição novo.",
+        "Mas você só pode mudar de equipamento uma vez. Aqui temos armas muito limitadas. O resto a gente pega por ai, no campo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F19",
+      "RESP": [
+        "Desculpe, isso é tudo que estamos autorizados a distribuir.",
+        "Se você tiver alguma reclamação, certifique-se de apresentá-la por escrito, utilizando o formulário padrão 10-78BGHCF."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002EED",
+      "RESP": [
+        "Não sente aí até que ponha o traje. Não permitirei que frite os circuitos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBF",
+      "RESP": [
+        "Vamos, eu não tenho o dia todo. O que foi?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBE",
+      "RESP": [
+        "Estou ouvindo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBD",
+      "RESP": [
+        "Se tem algo a dizer, diga."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBC",
+      "RESP": [
+        "Diga logo, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBB",
+      "RESP": [
+        "Em que você está pensando?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DBA",
+      "RESP": [
+        "O que? O que é isso?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DEA",
+      "RESP": [
+        "Bem. Eu, hum... Ouça, quando tudo isso acabar, eu... eu acho que poderei voltar. Não para a Cidadela! Digo, voltar mesmo. Sabe, para o oeste."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE9",
+      "RESP": [
+        "Apenas me escute. Eu estive pensando... imagine o que um grupo como a Companhia Talon poderia fazer com nós dois. Hein? Você e eu, suplicando misericórd..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE8",
+      "RESP": [
+        "Digamos que nós realmente encontramos alguma tecnologia de alta qualidade. Parece-me que um grupo de empreendedores burros não poderiam lidar por conta própria. Ser... independente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE7",
+      "RESP": [
+        "Isso não vai dar em nada. Tecnologia perdida? Por favor. A única coisa que vamos encontrar neste túmulo são pêssegos enlatados e cobertores mofados."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE6",
+      "RESP": [
+        "Você já se perguntou o que eles estão fazendo? Sabe, na Cidadela? Digo, Lyons se retirou da missão... mas não era uma vida ruim, certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE5",
+      "RESP": [
+        "Apenas... se Casdin estivesse no comando, nós teríamos a tecnologia e voltaríamos para o Forte Independente. Protetor McGraw pediu mais do que deviria."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE4",
+      "RESP": [
+        "Olha, ultimamente estamos caindo como moscas. Quanto tempo a mais poderemos manter aqueles Frankensteins na baía? Mais um ataque concentrado, e todos nós estaremos mortos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE3",
+      "RESP": [
+        "É só... eu não sei, aquele cara, Gary, me passa uma sensação ruim. Não foi culpa dele o Pip-Boy não funcionar. Será que realmente precisamos... você sabe."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE2",
+      "RESP": [
+        "Você não sente que tudo isso é uma perda de tempo? Digo, como nós saberemos se REALMENTE aquela simulação dá acesso à tecnologia?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD9",
+      "RESP": [
+        "Ah, de novo não! Tem de tirar essas ideias da cabeça. Limpe sua mente. Você é um Desertor agora, assim como o resto de nós. Entenda isso. Certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD8",
+      "RESP": [
+        "Não! Não, não, não, não. Se quiser falar como louco, faça isso em outro lugar. Vou manter minha boca fechada e seguindo as ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD7",
+      "RESP": [
+        "Eu não sei de onde isso está vindo, soldado, mas eu já ouvi o suficiente. Cale-se, ou eu mesmo irei te reportar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD6",
+      "RESP": [
+        "Huh? Do que você está FALANDO? Olha, apenas... apenas volte para suas atribuições. Eu não escutei isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD5",
+      "RESP": [
+        "Cara, você está tendo sérios problemas... Você ouviu o que disse? Isso é traição!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD4",
+      "RESP": [
+        "Você ficou maluco? E se o Protetor ouve você falando isso..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD3",
+      "RESP": [
+        "O que? Você não pode estar falando sério. Apenas... pare de falar. Você vai acabar matando nós dois."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE1",
+      "RESP": [
+        "Achei que você entenderia. Entre todas as pessoas. Mas eu acho que estava errado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DE0",
+      "RESP": [
+        "Certo, como você é o modelo de adaptação. Eu vi a maneira que olhou McGraw. Você é do tipo que foge na primeira oportunidade. Admita."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDF",
+      "RESP": [
+        "Espera, espera! O que eu QUIS dizer era, na verdade, hum..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDE",
+      "RESP": [
+        "Ah. Mas eu pensei que... Sabe..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDD",
+      "RESP": [
+        "Vamos, você sabe que eu estou certo! Eu ouvi o que você disse ontem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDC",
+      "RESP": [
+        "Sim, mas... Quero dizer..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDB",
+      "RESP": [
+        "Ah, pare de se achar! Viu o que aconteceu por aqui. Nós estamos caindo aos pedaços desde que saímos da Cidadela. Não aguento mais isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DDA",
+      "RESP": [
+        "Eu sei, eu sei... É que..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC8",
+      "RESP": [
+        "Pra trás, cara, ou eu VOU reportar seu traseiro perdedor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC7",
+      "RESP": [
+        "Basta! Está bem? Se você cair, não pense que deixarei você me arrastar junto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC6",
+      "RESP": [
+        "Traição. Essa é a palavra, soldado. Pense sobre isso enquanto se afasta de mim. Agora, xô."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC5",
+      "RESP": [
+        "Dispensado, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC4",
+      "RESP": [
+        "Você ainda está aqui? Porque alguns de nós temos ordens a seguir."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC3",
+      "RESP": [
+        "Ugh! Não mais. Apenas... não mais."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC2",
+      "RESP": [
+        "Fique longe de mim, idiota. E reze para que eu não te reporte."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC1",
+      "RESP": [
+        "Faça um favor a nós dois, vá embora e esqueça que essa conversa aconteceu."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC0",
+      "RESP": [
+        "Essa conversa acabou."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D84",
+      "RESP": [
+        "Registros indicam que há uma tecnologia de alto valor nessa base, mas não podemos pegá-la. O arsenal é vedado por uma porta de segurança, e não conseguimos abri-la.",
+        "Estamos bastante seguros de que aquele que cumprir a simulação VR das instalações terá acesso, mas isso requer uma certa interface.",
+        "Infelizmente, não temos nenhuma. Mas você tem... Aí no seu pulso.",
+        "Eu preciso que você entre no simulador e complete o programa... Que desbloqueará o arsenal. Se fizer, te daremos uma parte do equipamento, é claro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D86",
+      "RESP": [
+        "Você sabe que eu poderia te forçar a ficar?",
+        "Mas eu não vou fazer isso. Espero que você entenda este gesto como ele é - mostrando que eu realmente quero sua ajuda."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002976",
+      "RESP": [
+        "Você nunca vai me levar preso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002977",
+      "RESP": [
+        "Render-me? Nunca!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002978",
+      "RESP": [
+        "Terei seu sangue em minha espada, até o final do dia!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F8",
+      "RESP": [
+        "Pelo menos você tem a metade do cérebro. Isso é bom.",
+        "Farei de um jeito simples. Eu preciso de você e desse seu computador. Você me ajuda e eu verei no que poderei te ajudar.",
+        "Essa não é uma oferta que os Desertores fazem a qualquer um, então pense com cuidado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026FC",
+      "RESP": [
+        "Heh, tudo bem. Obviamente você é mais penetrante do que a maioria dos habitantes dos escombros.",
+        "Esse computador que você tem em seu pulso é bem sofisticado. Preciso de alguém que saiba usá-lo.",
+        "Se você puder ser esse alguém, eu estarei disposto a trabalhar com você para tornar sua vida mais fácil."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D83",
+      "RESP": [
+        "Parecemos com canibais? Você é sempre assim tão esquisito?",
+        "Estou falando desse computador em seu pulso. Eu preciso desse computador - e da pessoa conectada a ele - para acessar a tecnologia daqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A7A2",
+      "RESP": [
+        "Eu não sou estúpido. E esse computador que você tem em seu pulso? Não é de nossa tecnologia.",
+        "Então, o que você acha de me dizer o que você realmente fazia aqui antes que eu te mate."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D85",
+      "RESP": [
+        "Certo, certo. Já entendi. Não estou tentando te intimidar. Só preciso de sua ajuda, e ambos poderemos melhorar nossa atual situação.",
+        "Esse computador no seu pulso. Eu preciso dele, e preciso de você para usá-lo. Certo? É isso. Ninguém vai te machucar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A7A0",
+      "RESP": [
+        "Esse aparelho que você leva em seu pulso. Não é tecnologia nossa.",
+        "E essa seria a parte em que eu te mato. Pelo menos, em circunstâncias normais.",
+        "Mas, acontece que você pode ser útil para nós. Se você puder nos ajudar, eu esquecerei que você deveria morrer por vestir aquela armadura."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A7A1",
+      "RESP": [
+        "Esse aparelho em seu pulso. Isso não é de nossa tecnologia. Isso e o fato de que nenhum de nós seria estúpido o suficiente para tirar a armadura.",
+        "E essa seria a parte em que eu te mato. Pelo menos, em circunstâncias normais.",
+        "Mas, acontece que você pode ser útil para nós. Se você puder nos ajudar, eu esquecerei que você deveria morrer por vestir aquela armadura."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D87",
+      "RESP": [
+        "Se você puder ajudar, tenho certeza que isso definitivamente valerá o preço."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE29",
+      "RESP": [
+        "Você não errado. Então vou ignorar o fato de você estar usando parte de nossa tecnologia.",
+        "Se você puder nos ajudar, isso valerá a pena."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F6",
+      "RESP": [
+        "Sim, esta é a nossa principal base de operações na área. Se Casdin está disposta a confiar em você, então espero que possamos trabalhar juntos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026FB",
+      "RESP": [
+        "Seu pedaço de merda arrogante. Desertoooreees! Nós temos um hostil!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A7",
+      "RESP": [
+        "Isso não é brincadeira. Ouça, talvez você possa nos ajudar. Nós estávamos procurando por alguém como você.",
+        "Por que você não entra e vai lá falar com o Protetor McGraw? Vou fazer contato por rádio e avisar que você está indo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AC",
+      "RESP": [
+        "Olha, calma. Eu não estou te pedindo.",
+        "Porém, eu acho que você deveria falar com o Protetor McGraw. Entre lá; avisarei que você está indo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026FD",
+      "RESP": [
+        "Tá, Tá. Tenho certeza que o Protetor McGraw ficará feliz em falar como você.",
+        "Por que você não vai lá dentro? Vou avisá-lo que você está indo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002495",
+      "RESP": [
+        "Sim?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002490",
+      "RESP": [
+        "Continue."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248E",
+      "RESP": [
+        "O que você precisa saber?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002489",
+      "RESP": [
+        "Tudo bem, à seu dispor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002488",
+      "RESP": [
+        "Simplificando: é uma torre de perfuração convertida em veículo brindado. Maior e mais forte do que qualquer um dos tanques em nosso arsenal.",
+        "Os chineses armaram o veículo com várias armas, reforçaram a armadura e os prepararam para o combate de longo alcance."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002498",
+      "RESP": [
+        "Pegue as cargas explosivas que eu lhe dei e localize os  tanques de combustível. Arme-os e boom! Nada poderia ser mais simples.",
+        "Eu não ficaria muito perto para admirar o espetáculo, a bola de fogo pode arrancar sua cabeça."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002492",
+      "RESP": [
+        "Bem, eu não sei quanto a você, mas se eu tivesse que correr pelo campo de batalha, iria preferir menos dessas monstruosidades atirando em mim.",
+        "Acabe com o arsenal e eles não terão onde repor nem abastecer o veículo blindado. Caso contrario, farão sua equipe em pedaços."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248F",
+      "RESP": [
+        "Basicamente, você precisa remover todo o pessoal e proteger a área para que possa ser ocupada por nossas tropas.",
+        "É quase como uma caça ao rato, porém, você tem que verificar o interior das instalações e arrancá-los um por um."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249C",
+      "RESP": [
+        "Os chineses têm uma equipe de combate chamada Dragão Vermelho. São os melhores soldados que eles têm.",
+        "Este Posto de Escuta está cheio dessas unidades. Eu seria mais cuidadoso se eu fosse você - Eles não vão abrir mão daquele lugar facilmente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248B",
+      "RESP": [
+        "Bem, o exército chinês não usa o Posto de Escuta só para detectar as nossas forças e enviar informações de batalha, eles também o usam para controlar o tráfego aéreo.",
+        "Se tivermos esse posto, poderemos parar os bombardeios deles."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248C",
+      "RESP": [
+        "Bem, ele gera uma rede elétrica, composta de pulsos eletromagnéticos. Qualquer coisa mecânica que fique lá queima os circuitos.",
+        "A única coisa que pode perfurar suas defesas são os T-51B, é ai que está o problema."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249A",
+      "RESP": [
+        "Há um bunker, os chineses o criaram para monitorar a área que está além dos emissores.",
+        "O operador do bunker pode desativar o campo para permitir que seu pessoal cruze a área de forma segura.",
+        "Se você chegar ao bunker, você poderia sobrecarregar o campo e destruí-lo de uma vez por todas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249F",
+      "RESP": [
+        "Sim, se você acabar com o campo de impulsos enviaremos as T-51b para que rompam suas defesas e entrem no quartel general."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002493",
+      "RESP": [
+        "Com certeza."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248D",
+      "RESP": [
+        "O Tio Sam tornou mais fácil para você. Tudo o que você tem de fazer é usar o terminal de Patterson, aqui na tenda de comando.",
+        "Use os marcadores de recrutamento que lhe dei, e escolha os membros da sua equipe de maneira que achar melhor.",
+        "Então vá para o quartel e suas unidades estarão prontas para agir."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002497",
+      "RESP": [
+        "De jeito nenhum. Quanto maior a Equipe de Combate, maior a possibilidade dos sensores chineses o detectarem. Quanto menor melhor.",
+        "Os marcadores de recrutamento que lhe dei irão recomendar o tamanho certo para sua equipe para evitar a detecção.",
+        "Simplificando... Se você escolher um robô grande, não terá muito espaço para outras unidades. Você decide!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249B",
+      "RESP": [
+        "Você sempre pode falar com o líder do esquadrão da sua equipe de combate e solicitar uma nova unidade, caso você perca."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C6F8",
+      "RESP": [
+        "Claro. Basta usar o Terminal de Requisição na Tenda de Comando.",
+        "Escolha qualquer equipamento que você precisar e o terminal irá enviar uma Fita de Requisição. Traga-a para o Furriel e pronto.",
+        "O governo ama essa papelada, não é mesmo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249E",
+      "RESP": [
+        "Desculpe, isso é tudo que Tio Sam emitirá. Talvez você encontre mais algumas coisas lá fora, no campo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002491",
+      "RESP": [
+        "Essa é minha especialidade. De qual alvo você precisa do relatório?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00248A",
+      "RESP": [
+        "Você tem dois Tanques de Combustível para destruir. Um no pátio central da instalação e outro perto do portão de trás.",
+        "Esse lugar é osso. Não apenas por você ter quimeras para enfrentar, mas o lugar está infestado pela infantaria."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00249D",
+      "RESP": [
+        "Ah, deixe-me te dizer, este lugar é um pote de mel.",
+        "Não é só porque está repleto de tropas regulares, mas também porque eles colocaram seus melhores lá, os Dragões Vermelhos.",
+        "Ouvi que esses caras começaram a treinar nos úteros de suas mães, estão tome cuidado lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002496",
+      "RESP": [
+        "O problema em questão não é o Campo... Quero dizer, você não seria tolo o bastante para levar robôs com você.",
+        "O lugar está cheio de unidades furtivas... os Dragões Vermelhos.",
+        "Se você ver algo suspeito, atire primeiro e pergunte depois ou será a última coisa que você verá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002EEC",
+      "RESP": [
+        "Morrill chamando... Sim, nós cuidamos deles. Ouça, eu estou te enviando um. Você vai querer falar com ele. Sim, exatamente. Câmbio e desligo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AE",
+      "RESP": [
+        "Bem, isso não foi muito agradável. Parece que as coisas se acalmaram um pouco, já pode seguir em frente...",
+        "...ei, o que é isso no seu pulso? Algum tipo de computador, não é?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AD",
+      "RESP": [
+        "Uh huh. Bem, agora você tem que se dar por satisfeito em devolver o que é nosso...",
+        "...ei, o que é isso no seu pulso? Algum tipo de computador?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AB",
+      "RESP": [
+        "Eu sugiro que você dê meia volta antes que fique com o corpo cheio de buracos. Nós tomamos esse setor, e...",
+        "Espere. Isso que está no seu pulso é algum tipo de computador?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AA",
+      "RESP": [
+        "Você é algum tipo de idiota? Ouça garoto... ei, espere um pouco. O que é isso no seu pulso? Algum tipo de computador?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A9",
+      "RESP": [
+        "Você é algum tipo de idiota? Ouça garotinha... ei, espere um pouco. O que é isso no seu pulso? Algum tipo de computador?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A8",
+      "RESP": [
+        "Seu nativo imundo de Wasteland... Você está morto, ouviu? Morto!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026B0",
+      "RESP": [
+        "Como você ouviu nosso sinal? Ele não está numa frequência padrão...",
+        "...ah, estou vendo. Você tem um daqueles computadores de pulso. Ora, ora. Isso é interessante."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026AF",
+      "RESP": [
+        "Você ouviu nosso sinal? Como você conseguiu? O sinal não é transmitido em nenhuma frequência padrão...",
+        "...ah, estou vendo. Você tem um daqueles computadores de pulso. Ora, ora. Que interessante."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022CE",
+      "RESP": [
+        "Ei, tudo o que eu tenho para me manter quente aqui nesse inferno de gelo é o meu senso de humor.",
+        "De qualquer forma, estou aqui para te ajudar com a Inteligência e a Logística. O que você precisar, basta me dizer."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022CC",
+      "RESP": [
+        "Eu realmente tenho que responder isso? Você não está indo atrás de civis conhecidos... Isso é algo muito maior.",
+        "De qualquer forma, estou aqui para te ajudar com a Inteligência e Logística. O que você precisar, basta me dizer."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022CF",
+      "RESP": [
+        "Nenhum de nós também. Todos nós só fazemos o que é esperado de se fazer, e esperamos que o inimigo morra no processo.",
+        "De qualquer forma, estou aqui para te dar uma mão com a Inteligência e Logística. O que você precisar, basta me dizer."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002499",
+      "RESP": [
+        "Ok, é pra isso que eu estou aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002494",
+      "RESP": [
+        "Claro, o que você precisa saber?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002222",
+      "RESP": [
+        "Infelizmente, enquanto você estava lá em cima escalando montanhas, nós estávamos aqui levando chutes nos nossos traseiros.",
+        "Os Chineses decidiram usar o nosso Quartel General de Campo para praticar tiro ao alvo, e quase nos deixaram em pedaços.",
+        "Perdemos bons homens, incluindo meu Comandante da Equipe de Combate, o Coronel Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002223",
+      "RESP": [
+        "Não precisa me agradecer. Eu conheço um verdadeiro soldado quando vejo um... e por isso te enviei.",
+        "Infelizmente, enquanto você estava lá em cima escalando montanhas, nós estávamos aqui levando chutes nos nossos traseiros.",
+        "Os Chineses decidiram usar o nosso Quartel General de Campo para praticar tiro ao alvo,, e quase nos deixaram em pedaços.",
+        "Perdemos bons homens, incluindo meu Comandante da Equipe de Combate, o Coronel Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002228",
+      "RESP": [
+        "Um momento, soldado. Está vendo estas estrelas douradas sobre meu uniforme?",
+        "Eu gastei muito tempo conquistando-as, e eu não vou permitir que algum punk como você me falte com respeito.",
+        "Enquanto eu aprecio seu entusiasmo nessa operação, ainda há um protocolo a ser mantido. Entendido?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002226",
+      "RESP": [
+        "Isso não é uma simulação, soldado! Isso que você vê lá fora na neve, é sangue de verdade!",
+        "Já tenho o suficiente para me preocupar sem que algum figurão como você quebre o protocolo. Agora, fique junto... você tem um trabalho a fazer. Fui claro, soldado?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002224",
+      "RESP": [
+        "Eu não chamei você aqui para uma conversa estimulante e cigarros. Você conquistou uma promoção de campo, soldado.",
+        "A partir desse momento você está assumindo a Equipe de Combate de Patterson.",
+        "E antes que me agradeça, é melhor esperar e ver no que sua missão implica."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002221",
+      "RESP": [
+        "Malditos bastardos Vermelhos... Mal posso esperar para mandar todos eles de volta para Pequim.",
+        "Mas eu não chamei você aqui para uma conversa estimulante e cigarros. Você conquistou uma promoção de campo, soldado.",
+        "Desse momento em diante, você está assumindo a Equipe de Combate de Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00221F",
+      "RESP": [
+        "Comunistas filhos da puta. O Inferno irá congelar antes de eu deixá-los atravessar o Canadá pelo continente.",
+        "Mas chega disso. Eu o chamei aqui por uma razão.",
+        "Você conquistou uma promoção de campo, soldado. Desse momento em diante, você está assumindo a Equipe de Combate de Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00221D",
+      "RESP": [
+        "À vontade, soldado. Estamos todos um pouco estonteados desde o último ataque Comunista ao nosso Quartel General de Campo.",
+        "Perdemos bons homens, incluindo meu Comandante da Equipe de Combate, o Coronel Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002220",
+      "RESP": [
+        "Estamos todos um pouco estonteados desde o último ataque Comunista ao nosso Quartel General de Campo.",
+        "Perdemos bons homens, incluindo meu Comandante da Equipe de Combate, o Coronel Patterson."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00221E",
+      "RESP": [
+        "Soldado, você está pedindo para ter um coturno militar tamanho 45 enfiado no seu rabo.",
+        "Sua atitude apenas conquistou o demérito. Eu não quero ouvir esse tipo de conversa vindo de você novamente. Isso ficou claro?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002227",
+      "RESP": [
+        "Há três alvos que estão entre nós e o Quartel General dos Chineses. E é aí que sua Equipe de Combate entra.",
+        "Siga-me até esse mapa da situação e eu te deixarei informado rapidamente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002225",
+      "RESP": [
+        "Bem, é melhor você têr, soldado. Estamos correndo contra o tempo e isso não é uma oferta, é uma ordem.",
+        "Nós temos três alvos onde precisamos que sua equipe lide com eles, de outra forma, a Operação Anchorage fracassará.",
+        "Siga-me até esse mapa da situação e eu te deixarei informado rapidamente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CB",
+      "RESP": [
+        "Sim, um pouco mais e eu caía do penhasco. Eu não sabia que os vermelhos eram tão bons atiradores.",
+        "Bem, qual é a situação? Será que podemos explodir esse lugar?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D0",
+      "RESP": [
+        "Entendido.",
+        "Bem, qual é a situação? Será que podemos explodir esse lugar?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CE",
+      "RESP": [
+        "É, é. Não fique muito feliz, recruta. Você foi pelo caminho mais fácil.",
+        "Então, qual é a situação? Que tal botarmos para quebrar?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CF",
+      "RESP": [
+        "Eu lhe dou cobertura."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CD",
+      "RESP": [
+        "E eu vou matar os chineses com o que? Bolas de neve? Desculpe, isso é tudo que eu posso lhe dar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CC",
+      "RESP": [
+        "Sim, eu posso lhe dar alguns cartuchos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D5",
+      "RESP": [
+        "Não se preocupe. É aqui, novato."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:001896",
+      "RESP": [
+        "O que? Quem é você? Algum nativo? Você quer morrer? Andando em nosso...",
+        "Um momento... Esse computador em seu pulso. Você é de um daqueles malditos Vaults?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:001897",
+      "RESP": [
+        "Tudo bem, nós certamente precisaremos de sua ajuda. Os mutantes estarão de volta em breve.",
+        "Entre e fale com o Protetor McGraw. Ele é o chefe da operação."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0036B9",
+      "RESP": [
+        "Uhh, refere-se ao Protetor McGraw... Senhora, ele está... Ele está lá dentro. Vá em frente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189B",
+      "RESP": [
+        "Ah, refere-se ao Protetor McGraw... Senhor, ele está... Ele está lá dentro. Vá em frente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:001898",
+      "RESP": [
+        "Muito bem. Sibley irá levá-lo para o simulador."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:001895",
+      "RESP": [
+        "Olhe, nativo. Estou tentando ser razoável com sua situação. Não me faça reconsiderá-la.",
+        "Estaremos aguardando por você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0013F9",
+      "RESP": [
+        "Esta é uma mensagem de alta prioridade. Precisamos de reforços na nossa posição atual."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0013F7",
+      "RESP": [
+        "Qualquer pessoa que escutar esta frequência, por favor, informe imediatamente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C019",
+      "RESP": [
+        "Cuidado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C018",
+      "RESP": [
+        "Peguem eles! Peguem todos eles!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C017",
+      "RESP": [
+        "Destrua todos eles!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C016",
+      "RESP": [
+        "Nós vamos esmagá-los!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C626",
+      "RESP": [
+        "Agh!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C625",
+      "RESP": [
+        "Merda. Perdemos um."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C624",
+      "RESP": [
+        "Droga!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C623",
+      "RESP": [
+        "Eu farei você pagar por isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BEBA",
+      "RESP": [
+        "Bastardo! Você irá pagar por isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF2",
+      "RESP": [
+        "Homem ferido, homem ferido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0013F8",
+      "RESP": [
+        "...aqui é o Defensor Morrill... Qualquer Desertor que esteja ouvindo esta frequência, relate ao Sector 7-B, Encruzilhada Bailey."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF8",
+      "RESP": [
+        "Eu vou te encontrar, cão Americano."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF7",
+      "RESP": [
+        "Não visualizei o alvo ainda..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF6",
+      "RESP": [
+        "Onde você foi?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF5",
+      "RESP": [
+        "Você não pode se esconder, Americano..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD9",
+      "RESP": [
+        "Continuando nossa varredura. Continuaremos informando."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD8",
+      "RESP": [
+        "Nada ainda. Continuando a busca."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD7",
+      "RESP": [
+        "Expandindo a busca."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD3",
+      "RESP": [
+        "Mantenham os olhos abertos, gente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C006",
+      "RESP": [
+        "Quem está aí?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C005",
+      "RESP": [
+        "Talvez eu esteja apenas nervoso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C004",
+      "RESP": [
+        "O que foi isso?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C002",
+      "RESP": [
+        "Hmm, pensei ter ouvido alguma coisa."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB7",
+      "RESP": [
+        "Movimento detectado. Mantenham-se atentos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB6",
+      "RESP": [
+        "Possível contato hostil."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB5",
+      "RESP": [
+        "Temos um fantasma aqui. Fiquem atentos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB4",
+      "RESP": [
+        "Alvo na proximidade. Pesquisa padrão 7-3."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4E9",
+      "RESP": [
+        "Desculpe, é o melhor que temos. Se você não gosta, vá pegar algo emprestado dos Vermelhos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE26",
+      "RESP": [
+        "Você já sabe o que tem de saber. Não abuse da sorte."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE25",
+      "RESP": [
+        "Cale-se, recruta. Eu não recebo ordens de ninguém além de McGraw. Agora, se você já terminou de tagarelar, entre e solicite novas ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FC",
+      "RESP": [
+        "Sua cabeça será um troféu, cadela!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFFA",
+      "RESP": [
+        "Você não pode se esconder!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF9",
+      "RESP": [
+        "Alvo avistado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFEF",
+      "RESP": [
+        "Lá está ele! Pegue-o!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFEE",
+      "RESP": [
+        "Alvo adquirido! Vai, vai, vai!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFED",
+      "RESP": [
+        "Encontrei-o! Abrir fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFEC",
+      "RESP": [
+        "Nós o pegamos! Fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C01D",
+      "RESP": [
+        "Eu não vejo nada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C01C",
+      "RESP": [
+        "Tudo limpo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C01B",
+      "RESP": [
+        "Área assegurada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C01A",
+      "RESP": [
+        "Rende-se."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFEB",
+      "RESP": [
+        "É isso, ele se foi."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFEA",
+      "RESP": [
+        "Alvo perdido. Droga!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE9",
+      "RESP": [
+        "Comunista Escorregadio escapou."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE8",
+      "RESP": [
+        "Contato perdido, recuem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFFD",
+      "RESP": [
+        "O Invasor desapareceu!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFFC",
+      "RESP": [
+        "Vasculhem a área!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFBB",
+      "RESP": [
+        "Mas que merda? Onde ele foi?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFBA",
+      "RESP": [
+        "Perda de contato visual com o alvo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB9",
+      "RESP": [
+        "Alvo fora do campo de visão! Cuidado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB8",
+      "RESP": [
+        "O inimigo desapareceu. Mantenha seus olhos abertos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF4",
+      "RESP": [
+        "Retornar às patrulhas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF3",
+      "RESP": [
+        "Situação resolvida."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF2",
+      "RESP": [
+        "Ainda bem que acabou."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFF1",
+      "RESP": [
+        "Isso está liquidado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAE",
+      "RESP": [
+        "EUA para sempre!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAD",
+      "RESP": [
+        "É assim que fazemos as coisas em minha cidade natal!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAC",
+      "RESP": [
+        "Ha! Um a menos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAB",
+      "RESP": [
+        "Boa noite, Comunista!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAA",
+      "RESP": [
+        "Alvo finalizado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA9",
+      "RESP": [
+        "Ameaças vaporizadas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA8",
+      "RESP": [
+        "Bem-vindo ao Alaska, Comunista."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA7",
+      "RESP": [
+        "Pode marcar mais um pra mim!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA6",
+      "RESP": [
+        "Área assegurada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089FB",
+      "RESP": [
+        "Todos alvos eliminados."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089FA",
+      "RESP": [
+        "É ASSIM que fazemos as coisas na Corporação!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F9",
+      "RESP": [
+        "Ameaças vaporizadas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F8",
+      "RESP": [
+        "Não mexa com os E.U.A.!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F7",
+      "RESP": [
+        "Ah, qual é. Isso é tudo que você tem?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F6",
+      "RESP": [
+        "Comunista bom é Comunista morto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F5",
+      "RESP": [
+        "Área limpa... Circulando."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F4",
+      "RESP": [
+        "Isso vai ensiná-los a não se meter conosco."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C015",
+      "RESP": [
+        "Parece limpo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C014",
+      "RESP": [
+        "Nada aqui..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C013",
+      "RESP": [
+        "Já se foi, eu acho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD2",
+      "RESP": [
+        "Alvo perdido."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD1",
+      "RESP": [
+        "Não há ninguém aqui. Bater em retirada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD0",
+      "RESP": [
+        "Nada aqui. Alarme falso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCF",
+      "RESP": [
+        "Alvo perdido. Deve ter escapado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C00A",
+      "RESP": [
+        "Você ouviu alguma coisa?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C009",
+      "RESP": [
+        "Olá?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C008",
+      "RESP": [
+        "Alguém aí? Apareça!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C007",
+      "RESP": [
+        "Quem está aí?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE7",
+      "RESP": [
+        "O que foi isso?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE6",
+      "RESP": [
+        "Podemos ter um alvo. Olhar afiado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE5",
+      "RESP": [
+        "Possível ameaça na área."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE4",
+      "RESP": [
+        "Olhos abertos. acho que temos companhia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C012",
+      "RESP": [
+        "Invasor!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C011",
+      "RESP": [
+        "Ei!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C00F",
+      "RESP": [
+        "Encontrei você!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA5",
+      "RESP": [
+        "Hostil! Hostil!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA4",
+      "RESP": [
+        "Alvo localizado! Ataquem!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA3",
+      "RESP": [
+        "Ali está! Solte isso, filho da puta!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA2",
+      "RESP": [
+        "Inimigo avistado! Pegue ele!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C00E",
+      "RESP": [
+        "Você nunca vencerá..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C00B",
+      "RESP": [
+        "Naooo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA1",
+      "RESP": [
+        "Não..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFA0",
+      "RESP": [
+        "Não pode ser..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF9F",
+      "RESP": [
+        "Mãe..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C001",
+      "RESP": [
+        "Ajude-me!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C000",
+      "RESP": [
+        "Americanos! Ataquem!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFFF",
+      "RESP": [
+        "Ataquem!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFFE",
+      "RESP": [
+        "Invasores! Abrir fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE3",
+      "RESP": [
+        "Ataquem o alvo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE2",
+      "RESP": [
+        "Abrir fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE1",
+      "RESP": [
+        "Alvo localizado! Vão aquecendo as armas!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFE0",
+      "RESP": [
+        "Acabem com esses Vermelhos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDF",
+      "RESP": [
+        "Hora da vingança!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDE",
+      "RESP": [
+        "Saia do meu país, Comunista!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDD",
+      "RESP": [
+        "Ali estão eles! Por ali! Pegue-os!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDC",
+      "RESP": [
+        "Inimigo localizado! Acabe com eles!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDB",
+      "RESP": [
+        "Enterre esses Comunistas de merda!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFDA",
+      "RESP": [
+        "Hostis localizados! Fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F3",
+      "RESP": [
+        "Alvo localizado! Ao combate!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F2",
+      "RESP": [
+        "Se precisar, empurrarei vocês de volta à Grande Muralha, seus bastardos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007659",
+      "RESP": [
+        "Venham bastardos vermelhos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007658",
+      "RESP": [
+        "Acorde... O velho Benji tem algo para você!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007657",
+      "RESP": [
+        "Não deixem que nenhum desses Comunistas fuja!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007656",
+      "RESP": [
+        "Por ali, por ali! Pegue-os!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F1",
+      "RESP": [
+        "Aqui vai uma coisinha do Tio Sam!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007655",
+      "RESP": [
+        "Saia do meu país, Comunista!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB3",
+      "RESP": [
+        "Estão vindo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB2",
+      "RESP": [
+        "Protejam-se!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB1",
+      "RESP": [
+        "Explosivos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFB0",
+      "RESP": [
+        "Abaixem-se e protejam-se!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFAF",
+      "RESP": [
+        "Pro chão!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007669",
+      "RESP": [
+        "Granada!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007668",
+      "RESP": [
+        "Estão vindo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007667",
+      "RESP": [
+        "Pare e morra!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD6",
+      "RESP": [
+        "Fogo no buraco!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD5",
+      "RESP": [
+        "Explosivos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFD4",
+      "RESP": [
+        "Lançador pesado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089ED",
+      "RESP": [
+        "Explosivo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089EC",
+      "RESP": [
+        "Granada!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089EB",
+      "RESP": [
+        "Ei, cuidado com isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089EA",
+      "RESP": [
+        "Olhe para onde você dispara! Olhe para você onde dispara!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089E9",
+      "RESP": [
+        "Olhe para onde você aponta essa coisa!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765E",
+      "RESP": [
+        "Procurando por algo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765D",
+      "RESP": [
+        "Algum problema?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765C",
+      "RESP": [
+        "Mantenha suas mãos com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C618",
+      "RESP": [
+        "Jesus! O que foi aquilo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C617",
+      "RESP": [
+        "Melhor que aquilo tenha sido um acidente"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C616",
+      "RESP": [
+        "Tenha mais cuidado da próxima vez."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD81",
+      "RESP": [
+        "Pense muito antes de fazer isso novamente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD80",
+      "RESP": [
+        "Essa é a decisão mais inteligente que você já tomou."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF1",
+      "RESP": [
+        "Recuar! Recuar, merda!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF0",
+      "RESP": [
+        "Retirem-se!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EEF",
+      "RESP": [
+        "Retirada!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF92",
+      "RESP": [
+        "Levando fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF91",
+      "RESP": [
+        "Fui atingido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC5",
+      "RESP": [
+        "Fui atingido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC4",
+      "RESP": [
+        "Tomei um tiro!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC3",
+      "RESP": [
+        "Estão atirando em mim!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC2",
+      "RESP": [
+        "Médico!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFBF",
+      "RESP": [
+        "Urgh! Minha cabeça!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFBE",
+      "RESP": [
+        "Agh! Minha perna!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFBD",
+      "RESP": [
+        "Meu braço foi atingido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007664",
+      "RESP": [
+        "Estão atirando em mim!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007663",
+      "RESP": [
+        "Maldição!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007661",
+      "RESP": [
+        "Fui atingido! Fui atingido!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007660",
+      "RESP": [
+        "Agh! Bastardos Comunistas!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765F",
+      "RESP": [
+        "Ugh... estão atirando em mim!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF9B",
+      "RESP": [
+        "Morra americano!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF9A",
+      "RESP": [
+        "Defendam suas posições! Não os deixem passar!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF99",
+      "RESP": [
+        "Fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF98",
+      "RESP": [
+        "Esvazie seus pentes! Não deixe sobreviventes!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF97",
+      "RESP": [
+        "Pelo General Jingwei!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF96",
+      "RESP": [
+        "Pelo presidente Cheng!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF94",
+      "RESP": [
+        "Destrua os americanos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF93",
+      "RESP": [
+        "Matem-nos! Matem todos eles!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EFA",
+      "RESP": [
+        "Desertores na mira!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF9",
+      "RESP": [
+        "Eliminem os hostis!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF8",
+      "RESP": [
+        "Defendam nossos recursos a todo custo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF7",
+      "RESP": [
+        "Ataquem!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF6",
+      "RESP": [
+        "Agressor localizado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF5",
+      "RESP": [
+        "Desertores, comigo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF4",
+      "RESP": [
+        "Repressão! Repressão!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009EF3",
+      "RESP": [
+        "Façam picadinho dele!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCE",
+      "RESP": [
+        "Ataquem os alvos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCD",
+      "RESP": [
+        "As armas estão ficando quentes!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCC",
+      "RESP": [
+        "Abrir fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCB",
+      "RESP": [
+        "Ataquem os Alvos!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFCA",
+      "RESP": [
+        "Atacar!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC9",
+      "RESP": [
+        "Fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC8",
+      "RESP": [
+        "Ataque os hostis!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC7",
+      "RESP": [
+        "Listras e estrelas para sempre, Seus comunistas filhos das putas!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BFC6",
+      "RESP": [
+        "E.U.A!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089F0",
+      "RESP": [
+        "Fogo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089EF",
+      "RESP": [
+        "Tem muito mais de onde veio este!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0089EE",
+      "RESP": [
+        "Tenho um presente para você, Comunista!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765B",
+      "RESP": [
+        "Este é meu!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00765A",
+      "RESP": [
+        "Por lá, lá! Peguem eles!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD2",
+      "RESP": [
+        "Nossa, certo, me desculpe. Eu só estava... brincando..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD1",
+      "RESP": [
+        "Tá bem, tá bem. Esqueça que eu tenha dito qualquer coisa."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DD0",
+      "RESP": [
+        "Já estou saindo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCF",
+      "RESP": [
+        "Pfft. Tudo bem. Eu vou te deixar sozinho, então poderá fingir que está tudo certo. Mas você está enganando a si mesmo e sabe disso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCE",
+      "RESP": [
+        "certo, certo. Estou indo. Mas estou certo. Você sabe que eu estou certo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCD",
+      "RESP": [
+        "*Suspiro.* Que seja."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCC",
+      "RESP": [
+        "Certo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCB",
+      "RESP": [
+        "Pense sobre o que eu disse."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DCA",
+      "RESP": [
+        "Bem, isso foi perda de tempo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DC9",
+      "RESP": [
+        "Olha, desculpe-me se eu te perturbei. Certo? Vou só... voltar para meus deveres agora. Sem problema."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003626",
+      "RESP": [
+        "Às vezes é como falar com uma criança, sabia?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003625",
+      "RESP": [
+        "Nós sobreviveremos a isso, a cerveja é por sua conta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003624",
+      "RESP": [
+        "Ceeeerrrttttooooooo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003623",
+      "RESP": [
+        "Você é louco, sabia?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003622",
+      "RESP": [
+        "Certo, agora você só está balbuciando. Falarei com você mais tarde."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04F",
+      "RESP": [
+        "Senhor, Sim, senhor!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04E",
+      "RESP": [
+        "Absolutamente, senhor. Vou certificar-me de que estão prontos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04D",
+      "RESP": [
+        "Afirmativo, senhor. Vou informá-los de seu, hummm, desprazer com o progresso deles."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF6C",
+      "RESP": [
+        "Boa sorte lá fora."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDB",
+      "RESP": [
+        "Cuide-se lá fora... o Exército Chinês é uma das melhores forças de combate da Terra."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDA",
+      "RESP": [
+        "Melhor morto que Vermelho, certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BD9",
+      "RESP": [
+        "Acabe com alguns Comunistas por Patterson e por todos os outros caras que perdemos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BD8",
+      "RESP": [
+        "Recupere munição na tenda de Intendência. Você precisará."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BD7",
+      "RESP": [
+        "Lembre-se que os membros da Equipe de Combate têm famílias. Vamos mandá-los para casa vivos, ao invés de mandá-los dentro de uma caixa de madeira, entendeu?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007554",
+      "RESP": [
+        "Sim, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00720C",
+      "RESP": [
+        "Sim, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00720B",
+      "RESP": [
+        "Entendido."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C073",
+      "RESP": [
+        "Estaremos aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DF0",
+      "RESP": [
+        "Preciso conversar com você... Dois minutos do seu tempo, é tudo que estou pedindo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DEF",
+      "RESP": [
+        "Tem um segundo? Eu só..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DEE",
+      "RESP": [
+        "Sabe, estive pensando..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DED",
+      "RESP": [
+        "Então, hum..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DEC",
+      "RESP": [
+        "Ei... Hum... Ah, esqueça... não é nada..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002DEB",
+      "RESP": [
+        "Queria sua opinião sobre algo..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C31C",
+      "RESP": [
+        "Mantenha distância, vira-lata. Não sei o que você carrega."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C31B",
+      "RESP": [
+        "Ótimo, outro nativo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C31A",
+      "RESP": [
+        "O que faz aqui?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C319",
+      "RESP": [
+        "Você não deveria estar se escondendo numa caverna em algum lugar?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C318",
+      "RESP": [
+        "Se está aqui para ajudar, ótimo. Caso contrario, saia do meu caminho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C317",
+      "RESP": [
+        "Cuidado, nativo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C316",
+      "RESP": [
+        "Acho que não conheço a sua unidade. Deve ser uma nova conversão do velho Lyons."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C315",
+      "RESP": [
+        "É bom ter reforços."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C314",
+      "RESP": [
+        "Tudo limpo, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C313",
+      "RESP": [
+        "É bom ver um rosto amigável."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C312",
+      "RESP": [
+        "Alegro-me por você se juntar à festa!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C311",
+      "RESP": [
+        "Nada a reportar, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61F",
+      "RESP": [
+        "Senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003615",
+      "RESP": [
+        "Olhe para você, todo calmo e com tudo sob controle. O fato de que estamos cercados por tropas Chinesas não te torna um pouquinho ansioso?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003614",
+      "RESP": [
+        "Como você pode estar tão relaxado? Antes do fim do dia, estaremos lutando por nossas vidas. Você sabe disso... certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003613",
+      "RESP": [
+        "Deus, a adrenalina está me fazendo tremer. Como você está se controlando?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003612",
+      "RESP": [
+        "Já está quase na hora. Você está indo bem?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003611",
+      "RESP": [
+        "Esta espera está me matando. Só quero chegar lá e acabar com isso. E você... como vai?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003610",
+      "RESP": [
+        "Como está se sentindo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00360F",
+      "RESP": [
+        "Então... Você está pronto?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04C",
+      "RESP": [
+        "Estaremos perdendo alguma coisa se fizermos isso?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04B",
+      "RESP": [
+        "O que nossos garotos dos trajes estão fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C04A",
+      "RESP": [
+        "Algo de Washington sobre minha última solicitação?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF56",
+      "RESP": [
+        "Continue, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF55",
+      "RESP": [
+        "Você está fazendo um trabalho de homem, soldado. Continue assim!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF54",
+      "RESP": [
+        "Aqueles alvos não podem se proteger. Você tem um trabalho a fazer... agora acabe com isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF53",
+      "RESP": [
+        "Acho que é hora de mostrar para aqueles bastardos Vermelhos que o Exército Americano é o melhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF52",
+      "RESP": [
+        "Os malditos Chineses Comunistas estão nos pisoteando. Hora de retribuirmos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF51",
+      "RESP": [
+        "Vamos acabar com essas coisas, soldado. Estamos com frio, estamos cansados e queremos nosso maldito óleo de volta!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF50",
+      "RESP": [
+        "O exército Americano precisa de mais soldados como você. Continue assim."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BE4",
+      "RESP": [
+        "Alguma coisa em que a Int. e Log. possa ajudar?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BE3",
+      "RESP": [
+        "Bem-vindo de volta ao Q.G."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BE2",
+      "RESP": [
+        "O restante da Operação vai fazer com que a Artilharia se sinta num passeio no parque."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BE1",
+      "RESP": [
+        "Belo trabalho com os Tanques de Combustível das Chimeras. Metade da divisão deles estão mortos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BE0",
+      "RESP": [
+        "Boom! Acabamos com um Depósito de Chimera. Bom trabalho!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDF",
+      "RESP": [
+        "O radar confirma que os Bombardeiros Chineses estão voando em círculos porque agora temos os Postos de Escuta. Boa!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDE",
+      "RESP": [
+        "Acabaram de confirmar que o Posto de Escuta é nosso. Era disso que eu estava falando!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDD",
+      "RESP": [
+        "Próxima parada, Q.G. Chinês. Continuem andando!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:009BDC",
+      "RESP": [
+        "Tenente Thomas Morgan, Inteligência e Logística ao seu dispor. Eu miro, você atira."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003486",
+      "RESP": [
+        "Senhor!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C185",
+      "RESP": [
+        "Que trabalho do caralho que você fez lá, soldado. A América está olhando por ti. Isso eu garanto."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C184",
+      "RESP": [
+        "Você foi ferido?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF57",
+      "RESP": [
+        "O general está muito ansioso para falar com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0018BC",
+      "RESP": [
+        "Ei... ei! Acorda. Vamos lá... anda logo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004AAD",
+      "RESP": [
+        "Continue em movimento, nativo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004AAC",
+      "RESP": [
+        "Ah, ótimo. Exatamente o que precisávamos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D8",
+      "RESP": [
+        "Obrigado, eu acho."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D7",
+      "RESP": [
+        "Nunca pensei que um selvagem poderia fazer isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D6",
+      "RESP": [
+        "Bom trabalho, para um nativo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D5",
+      "RESP": [
+        "Você nos deixaram orgulhosos lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D4",
+      "RESP": [
+        "Jogos antigos não são páreo para nós Desertores, huh?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4D3",
+      "RESP": [
+        "Bom trabalho, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C074",
+      "RESP": [
+        "Bem-vindo de volta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD7C",
+      "RESP": [
+        "...que diabos você pensa que está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD7B",
+      "RESP": [
+        "...que diabos você pensa que está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C622",
+      "RESP": [
+        "Jesus! Abaixe isso! Eu sou amigo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C621",
+      "RESP": [
+        "Senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C620",
+      "RESP": [
+        "Espero que seja seguro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD7F",
+      "RESP": [
+        "Má ideia. Grande má ideia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD7E",
+      "RESP": [
+        "Você fez isso, mas não viverá para contar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD7D",
+      "RESP": [
+        "Nem pense nisso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60C",
+      "RESP": [
+        "Cuidado. Você está bem?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60B",
+      "RESP": [
+        "Ops."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60A",
+      "RESP": [
+        "Está agitado, senhor? Por que você não se senta e descanse um pouco?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD84",
+      "RESP": [
+        "Tenha mais cuidado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD83",
+      "RESP": [
+        "Nativo descuidado..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD82",
+      "RESP": [
+        "Ei, cuidado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8A",
+      "RESP": [
+        "Pare com isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD89",
+      "RESP": [
+        "Largue isso."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60F",
+      "RESP": [
+        "O que há de errado?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60E",
+      "RESP": [
+        "Estamos sob ataque?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C60D",
+      "RESP": [
+        "Mire onde dispara!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8D",
+      "RESP": [
+        "Sem armas de fogo aqui, droga!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8C",
+      "RESP": [
+        "Coldre essa coisa imediatamente!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8B",
+      "RESP": [
+        "Mantenha sua arma no coldre!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61E",
+      "RESP": [
+        "Cuidado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61D",
+      "RESP": [
+        "Batata Quente!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61C",
+      "RESP": [
+        "Fogo no buraco!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61B",
+      "RESP": [
+        "Atenção."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C61A",
+      "RESP": [
+        "Talvez você devesse guardar isso. Antes que alguém se machuque."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C619",
+      "RESP": [
+        "Whoa. Cuidado com isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:000800",
+      "RESP": [
+        "Olá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:008299",
+      "RESP": [
+        "Vá procurar outro para encher, nativo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:008298",
+      "RESP": [
+        "Você não vê que estou ocupado? Se toca."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C391",
+      "RESP": [
+        "Se você está aqui para ajudar, ajude. Se não... saia."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C390",
+      "RESP": [
+        "Meio ocupado aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C38F",
+      "RESP": [
+        "Siga em frente. Tenho tudo sob controle."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:008297",
+      "RESP": [
+        "Nada a reportar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1E",
+      "RESP": [
+        "Desculpe, sem requerimento holográfico não há equipamento. Isto não é uma biblioteca"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1D",
+      "RESP": [
+        "Preciso de um requerimento holográfico para lhe dar o equipamento... você já deveria saber!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1C",
+      "RESP": [
+        "Eu não lhe darei qualquer coisa até que me traga o requerimento holográfico."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BCE3",
+      "RESP": [
+        "De volta para mais equipamento?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BCE2",
+      "RESP": [
+        "Lembre que essa equipe é a de Tio Sam. Espero que você não os destrua..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BCE1",
+      "RESP": [
+        "Você veio para mudar a artilharia?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F1B",
+      "RESP": [
+        "O que você precisa, soldado?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE2E",
+      "RESP": [
+        "Senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE2D",
+      "RESP": [
+        "Nós vamos esmagar os comunistas logo, não é, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE2C",
+      "RESP": [
+        "Esses Comunistas não têm a menor chance, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE2B",
+      "RESP": [
+        "Nada importante para informar-lhe senhor, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED4",
+      "RESP": [
+        "Obrigado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED3",
+      "RESP": [
+        "Você realmente tem tempo para ficar aqui e conversar? Temos trabalho a fazer."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED2",
+      "RESP": [
+        "Obrigado novamnte! Vou sair aqui!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED1",
+      "RESP": [
+        "Estou feliz em vê-lo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED0",
+      "RESP": [
+        "Graças a Deus! Achei que eu era um caso perdido."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ECF",
+      "RESP": [
+        "Eles nos pegaram de surpresa. Eu tive sorte. Obrigado pelo resgate!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ECD",
+      "RESP": [
+        "Malditos Comunistas me pegaram de calças abaixadas. Não diga a ninguém que você me encontrou assim, certo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:003ECE",
+      "RESP": [
+        "Obrigado. Olha, Eu tenho que voltar para o Quartel General. Encontrei alguns papéis antes que me pegassem. Boa caçada!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C183",
+      "RESP": [
+        "Vamos te deixar 100%, tá? Tio Sam precisa de você no combate! Fique quieto por um momento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C182",
+      "RESP": [
+        "De volta novamente? Bem, fico feliz que tenha vindo por conta própria, e não em um saco. Agora, fique parado enquanto eu te remendo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C181",
+      "RESP": [
+        "Bem, você não está morto. Isso é bom. Fique quieto enquanto eu te remendo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C180",
+      "RESP": [
+        "Parabéns por chegar ao Quartel General. Está bem ruim lá fora. Aqui está sua ração química. Eu sou a doutora Adami. Venha me ver se precisar de um remendo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C17F",
+      "RESP": [
+        "Boa Sorte, soldado. Estamos todos contando com você!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C17E",
+      "RESP": [
+        "Boa sorte, soldado. Todos que voltaram para casa estão torcendo por você. Quem sabe, talvez seu rosto acabe saindo na primeira página do Capital Post!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022D2",
+      "RESP": [
+        "O General está esperando para conversar com você... e ele odeia esperar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002229",
+      "RESP": [
+        "Que belo trabalho você fez acabando com aquelas armas. Belo mesmo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0018C8",
+      "RESP": [
+        "Vejo você no ponto de encontro. Agora, vá!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0018C7",
+      "RESP": [
+        "Sem tempo para conversa. Entre na base e me encontre no ponto de encontro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0018C6",
+      "RESP": [
+        "Não temos tempo para isso... apenas entre na base e me encontre no ponto de encontro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D4",
+      "RESP": [
+        "Porra, esse lugar está cheio de Vermelhos. Quase não consigo contar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D3",
+      "RESP": [
+        "O que é isso, uma pausa? Continuem em movimento."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D2",
+      "RESP": [
+        "Mantenha seus olhos abertos para os Comunistas. Eles estão por perto, posso senti-los."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020D1",
+      "RESP": [
+        "Guarde a conversa para depois e vamos acabar com aquelas armas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00301C",
+      "RESP": [
+        "Quais são suas ordens, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00301B",
+      "RESP": [
+        "Bem, parece que estamos trabalhando juntos de novo, senhor. General Chase me designou para a Equipe de Combate.",
+        "E graças à sua promoção, eu acho que terei que bater continência a partir de agora"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B645",
+      "RESP": [
+        "Bom trabalho. Eles empurraram aquelas Quimeras pra cima de nós por meses... É bom vê-los fora por um tempo.",
+        "Vou ordenar à Equipe de Combate que regressem ao Quartel General de Campo. Vejo você lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4E5",
+      "RESP": [
+        "Esse deve ser o último deles, e o último bombardeiro que mira nos nossos homens, muito obrigado.",
+        "Vou ordenar aos nossos homens que regressem ao Quartel General de Campo. Vejo você lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004431",
+      "RESP": [
+        "Eu consultaria o mapa e escutaria as informações do General, se fosse você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00443D",
+      "RESP": [
+        "Espero que a operação dê certo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00443C",
+      "RESP": [
+        "Perguntas?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022D4",
+      "RESP": [
+        "Então... o que o Serviço de Inteligência fez por você?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0022D3",
+      "RESP": [
+        "Então... você está no comando do esquadrão suicida de Patterson, huh?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00222C",
+      "RESP": [
+        "Você tem trabalho a fazer, soldado. Agora, se apresse!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00222B",
+      "RESP": [
+        "O Tenente Morgan te dará todos os detalhes. Siga em frente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00222A",
+      "RESP": [
+        "Pare de me olhar com essa cara de idiota e vá andando, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C516",
+      "RESP": [
+        "O Defensor Morrill está querendo falar com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C515",
+      "RESP": [
+        "Acho que o Defensor Sibley está querendo falar com você. Pegue o elevador que vai para a base."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C514",
+      "RESP": [
+        "Pegue o elevador e reporte ao Defensor Sibley."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C513",
+      "RESP": [
+        "Fique conosco até alcançarmos a base!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C512",
+      "RESP": [
+        "Morrill vai explicar na base. Concentre-se naqueles mutantes por enquanto!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002230",
+      "RESP": [
+        "Estou um pouco ocupado aqui!."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A2",
+      "RESP": [
+        "Bem? Você está cansado ou não?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A1",
+      "RESP": [
+        "Você pode parar ai mesmo. Quem diabos é você?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3A0",
+      "RESP": [
+        "Pro inferno com os detalhes da guarda! Isso soa confusão."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0023D4",
+      "RESP": [
+        "Certo nativo, você se importa de explicar o que está fazendo aqui?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0023D3",
+      "RESP": [
+        "Não pense, nem por um segundo, que eu não vi o que você está vestindo. Se você não tivesse realmente ajudado aqui, eu teria que te derrubar junto com esses mutantes.",
+        "Você tem cerca de três segundos para se explicar, forasteiro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0023D2",
+      "RESP": [
+        "Certo, agora quem diabos é você, e o que você pensa que está fazendo usando essa armadura?",
+        "Dê-me uma boa razão para eu não acabar com você agora, forasteiro."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189F",
+      "RESP": [
+        "Como você pode ter sido tão inútil lá fora? Você não merece vestir essa armadura depois do que mostrou! Explique-se, soldado!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002D88",
+      "RESP": [
+        "Entre na base e converse com McGraw. Eu o avisarei que você está indo. Não se preocupe, eles não vão atirar em você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189E",
+      "RESP": [
+        "Belo trabalho lá fora, soldado. Obrigado pelo apoio, mas onde está o resto do seu destacamento?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0036BC",
+      "RESP": [
+        "Protetor McGraw está lá dentro, Madame, como eu disse. É melhor você falar com ele."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0036BB",
+      "RESP": [
+        "Protetor McGraw está lá dentro, Senhor, como eu disse. É melhor você falar com ele."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0036BA",
+      "RESP": [
+        "Entre, soldado. Reporte para McGraw e então volte aqui fora para nos ajudar a fortificar as defesas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189C",
+      "RESP": [
+        "Então você é aquele que Morrill enviou.",
+        "Espero que tenha algo em funcionamento dentro da cabeça. Você pode ser útil para nós."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3E4",
+      "RESP": [
+        "Eu já falei. Se você está interessado em ajudar, siga Sibley até a cápsula de simulação. Olin irá te ajudar a alcançar o simulador."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00189D",
+      "RESP": [
+        "Esta é uma instalação de pesquisa pré-guerra. Aqui tem tecnologia, e estou determinado a consegui-la.",
+        "Infelizmente, está trancada. E pelo que podemos dizer, está ligada a um tipo de simulador.",
+        "Mas nós não podemos acessar o simulador, porque nos falta a interface adequada. O seu pequeno computador ali é exatamente o que procurávamos.",
+        "Então, vou fazer um acordo. Você acessa o computador e nos leva para o resto dessa base, e eu te darei uma parte do que encontrarmos.",
+        "\"Pagamentos por serviços prestados.\" Você nos ajuda, e nós te ajudamos."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F7",
+      "RESP": [
+        "Olha, Wastelander. Não tenho certeza do que te traz aqui, mas não gostamos de visitas surpresas da população local. Você tem sorte de não ter sido morto.",
+        "Mas... Talvez você seja algo mais do que um desses que moram em destroços, hmm? Esse computador em seu pulso...",
+        "Talvez você possa ser útil, afinal..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4BD",
+      "RESP": [
+        "Então você é aquele que Morrill enviou.",
+        "Vou ser sincero -- Eu terei que confiar num Wastelander para brilhar na minha Power Armor, isso já seria forçado demais.",
+        "Mas... você tem esse computador em seu pulso. Hum. Posso ver agora que Morrill fez a escolha certa. Talvez você possa ser útil, afinal..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A79F",
+      "RESP": [
+        "Então você é aquele que Morrill enviou.",
+        "Só que você não é um de nós, não é? Eu vou precisar ter uma pequena conversa com Morrill sobre isso.",
+        "Mas... você tem esse computador em seu pulso. Hum. Posso ver agora que Morrill fez a escolha certa. Talvez você possa ser útil, afinal..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0039FF",
+      "RESP": [
+        "Vamos. Vou te mostrar a sala de comando."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004382",
+      "RESP": [
+        "Você vai entrar ou O que?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D3",
+      "RESP": [
+        "Vamos, vamos, mexa-se. Eu não tenho o dia todo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002EEE",
+      "RESP": [
+        "Então, essa coisa é um tipo de simulador de treinamento, é só o que podemos imaginar. Acho que você poderá nos dizer mais quando acabar."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C633",
+      "RESP": [
+        "Estou um pouco ocupado, aqui."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD86",
+      "RESP": [
+        "Você tem o traje, então coloque-o e entre no simulador."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004381",
+      "RESP": [
+        "Você está aqui para ajudar? Certo, então coloque isso, sente na cadeira, e que inicie a simulação."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D2",
+      "RESP": [
+        "Quem diabos é você, e O que você acha que está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C393",
+      "RESP": [
+        "Certo, você. Mantenha suas armas no coldre, suas mãos quietas, e boca fechada. Siga-me."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0056D1",
+      "RESP": [
+        "Por favor, venha por aqui. E cuidado no que você toca - alguns desses equipamentos são bem delicados."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5F",
+      "RESP": [
+        "Você é o reforço? Ótimo. Excelente.",
+        "Certo, siga-me. Vou levá-lo ao Protetor McGraw."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C392",
+      "RESP": [
+        "Você é o reforço? Ótimo. Excelente.",
+        "Certo, siga-me. Vou levá-lo ao Protetor McGraw."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:005026",
+      "RESP": [
+        "Ah, obrigado por responder ao nosso pedido de socorro.",
+        "Certo, siga-me. Vou levá-lo ao Protetor McGraw."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA27",
+      "RESP": [
+        "O Sargento Montgomery quer conversar com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA26",
+      "RESP": [
+        "O Sargento quer falar com você."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007555",
+      "RESP": [
+        "Senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD73",
+      "RESP": [
+        "Estou de saída, senhor."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00720A",
+      "RESP": [
+        "Quais são suas ordens para a Equipe de Combate, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007209",
+      "RESP": [
+        "Acampamento de Gelo assegurado, senhor. Aguardando novas ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007208",
+      "RESP": [
+        "O Acampamento de Gelo está na virada da esquina, senhor. Estamos suportando, por hora.",
+        "Quais são suas ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007207",
+      "RESP": [
+        "Atacando o Acampamento de Gelo como ordenado, senhor. Eu lhe informarei quando o objetivo for completado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00741E",
+      "RESP": [
+        "Posto avançado assegurado, senhor. Aguardando novas ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00741D",
+      "RESP": [
+        "O Posto Avançado está logo a frente, senhor. Eu posso sentir o cheiro dos Vermelhos daqui.",
+        "Quais são suas ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00741C",
+      "RESP": [
+        "Atacando o Posto Avançado como ordenado, senhor.  Eu lhe informarei quando o objetivo for completado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007206",
+      "RESP": [
+        "A Cidade de Mineração está assegurada, senhor. Aguardando suas novas ordens."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007205",
+      "RESP": [
+        "A Cidade de Mineração está infestada de Comunistas, senhor. Estamos suportando, por hora.",
+        "Quais são suas ordens?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:007204",
+      "RESP": [
+        "O ataque na Cidade de Mineração está em andamento, senhor. Eu lhe informarei quando o objetivo for completado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA03",
+      "RESP": [
+        "Bem, O que você está esperando? Vamos abrir essa porta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA02",
+      "RESP": [
+        "É melhor haver algo bom atrás dessa porta..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD88",
+      "RESP": [
+        "Objetivo à vista, soldado! Seu lugar é lá fora, no campo!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00766F",
+      "RESP": [
+        "A simulação está concluída, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD87",
+      "RESP": [
+        "Você alcançou os objetivos, agora a única coisa que resta é a refinaria. Boa sorte."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002232",
+      "RESP": [
+        "Basta, soldado. Descansar!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00767E",
+      "RESP": [
+        "Bom trabalho ao acabar a simulação. Tudo que você tem que fazer agora é abrir o Arsenal.",
+        "E, como acordado, você fica com sua parte. Sinta-se livre para você levar o que quiser. Se nossos registros estão corretos, há de sobra para nós."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00767D",
+      "RESP": [
+        "Devemos ser capazes de acessar áreas restritas agora. Vamos torcer para que tenha valido a pena todo esse tempo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C504",
+      "RESP": [
+        "Tudo certo, vamos abrir essa porta."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002231",
+      "RESP": [
+        "Continue, pegue o que quiser. Eu nunca quebro minhas promessas."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002979",
+      "RESP": [
+        "Seu tolo! Você será esmagado pelo poder do Exército Chinês!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:002F45",
+      "RESP": [
+        "Está tudo bem? Nada mudou, então você não terminou..."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE28",
+      "RESP": [
+        "Vamos abrir este lugar num piscar de olhos! Para trás!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BE27",
+      "RESP": [
+        "Vamos entrar lá e acabar com isso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB9B",
+      "RESP": [
+        "Certo, agora é só você e eu. Vamos acabar com o Campo de Impulso!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB9A",
+      "RESP": [
+        "É isso! Basta mexer nessa alavanca e poderemos enviar os T-51b."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB99",
+      "RESP": [
+        "Só resta o General Jingwei. Nós acabaremos com ele, e retomaremos à Anchorage. Vamos nessa!"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB98",
+      "RESP": [
+        "Tome cuidado, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB97",
+      "RESP": [
+        "Foi um prazer, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00CB96",
+      "RESP": [
+        "Tem sido uma honra trabalhar com você. Não acho que já tenho visto tamanha bravura no campo de batalha.",
+        "Espero que depois de limpar essa bagunça em Anchorage nós possamos nos encontrar e tomar umas cervejas.",
+        "Tome cuidado, soldado."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C076",
+      "RESP": [
+        "Bom te ver de novo."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C506",
+      "RESP": [
+        "Obrigado pela sua ajuda. Sibley teria tirado tudo de mim se você não estivesse aqui.",
+        "É uma pena sobre Olin, mas ela morreu pelo bem."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C505",
+      "RESP": [
+        "Você nos salvou. Sibley teria tido vantagem se você não estivesse aqui.",
+        "Ficaremos aqui por enquanto, catalogando toda a tecnologia. Se precisar de qualquer coisa, venha até nós.",
+        "Você pode não ser um de nós, mas está quase lá."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C518",
+      "RESP": [
+        "Bem-vindo de volta. Ainda estamos juntando os pedaços do... incidente."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C517",
+      "RESP": [
+        "Mais uma visita? Trouxe alguma tecnologia boa com você?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF8D",
+      "RESP": [
+        "Está tudo bem com você? Ainda estamos um pouco ocupados catalogando todo o equipamento que você descobriu."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C615",
+      "RESP": [
+        "Tem uma melhor vista lá de cima, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C614",
+      "RESP": [
+        "Bem, isso não é algo que se vê todos os dias."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C613",
+      "RESP": [
+        "Estressado, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C612",
+      "RESP": [
+        "a...O que você está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C611",
+      "RESP": [
+        "Precisa de algo, senhor?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00C610",
+      "RESP": [
+        "Não há nada lá que valha a pena."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD85",
+      "RESP": [
+        "Que diabos você pensa que está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD90",
+      "RESP": [
+        "Tire as mãos daí."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8F",
+      "RESP": [
+        "Está trancada. Por alguma razão."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00BD8E",
+      "RESP": [
+        "Nem pense nisso."
+      ]
+    }
+  ]
+}

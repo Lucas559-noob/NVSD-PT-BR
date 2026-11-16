@@ -1,0 +1,770 @@
+{
+  "TERM": [
+    {
+      "FORM": "@BrokenSteel.esm:00BD6C",
+      "FORMID": "00BD6C",
+      "EDID": "DLC03EnclaveTowerUnlockTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Entrando na Rede de Segurança...\n...",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear Portas da Estação"
+        ],
+        "RNAM": [
+          "Portas da Estação Desbloqueadas"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B9B4",
+      "FORMID": "00B9B4",
+      "EDID": "DLC03PresmetroTerminal01",
+      "FULL": "Terminal do Departamento de Manutenção",
+      "DESC": "Sistema de Metro Presidencial\nRegistros",
+      "MENU": {
+        "ITXT": [
+          "Anotação AK197896",
+          "Anotação AK197887",
+          "Anotação AK197872",
+          "Anotação AK197865",
+          "Anotação AK197833"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96E",
+      "FORMID": "00B96E",
+      "EDID": "DLC03WQTerminalSubPersonalLogs3",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Registro, Escrivão Bigsley",
+      "MENU": {
+        "ITXT": [
+          "Megaton",
+          "Despertar",
+          "Embarcações Desaparecidas",
+          "Cientistas do Projeto Pureza",
+          "Mais"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96D",
+      "FORMID": "00B96D",
+      "EDID": "DLC03WQTerminalSubPersonalLogs4",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Registros, Escrivão Bigsley",
+      "MENU": {
+        "ITXT": [
+          "Fuga",
+          "Cansado...",
+          "Novo Mantra Pessoal",
+          "Megaton Acabou"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96C",
+      "FORMID": "00B96C",
+      "EDID": "DLC03WQTerminalSubPersonalLogs2",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Registros, Escrivão Bigsley",
+      "MENU": {
+        "ITXT": [
+          "Desaparecidos em Combate",
+          "Griffon",
+          "Onde eles estão?",
+          "Lepelletier",
+          "Mais"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96B",
+      "FORMID": "00B96B",
+      "EDID": "DLC03WQTerminalSubPersonalLogs1",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Registros, Escrivão Bigsley",
+      "MENU": {
+        "ITXT": [
+          "Primeiro Dia",
+          "Incompetência",
+          "Trabalhem comigo, pessoal.",
+          "Dra. Li",
+          "Primeira Vítima",
+          "Mais"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B96A",
+      "FORMID": "00B96A",
+      "EDID": "DLC03WQTerminalSubMissionLogs",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Registro da Missão",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Big Town",
+          "Relatório de Megaton",
+          "Relatório de Rivet City"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B969",
+      "FORMID": "00B969",
+      "EDID": "DLC03WQTerminalMain",
+      "FULL": "Terminal de Bigsley",
+      "DESC": "Missão de Distribuição de Água e Registros Pessoais.",
+      "MENU": {
+        "ITXT": [
+          "Resumo da Missão",
+          "Resumo da Missão",
+          "Relatórios da Missão",
+          "Requisições",
+          "Conta para Gastos Pequenos",
+          "Registros"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B953",
+      "FORMID": "00B953",
+      "EDID": "DLC03MuseumAuthorityTerminal",
+      "FULL": "Museu Authority - Estação de Trabalho",
+      "DESC": "Museu Authority Estação de Trabalho 7\nDallas Bryce",
+      "MENU": {
+        "ITXT": [
+          "Anotação MA-0089",
+          "Anotação MA-0088",
+          "Anotação MA-0087",
+          "Anotação MA-0086",
+          "Anotação MA-0085",
+          "Anotação MA-0084"
+        ],
+        "RNAM": [
+          "Registro Corrompido",
+          "Registro Corrompido",
+          "Registro Corrompido"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B40C",
+      "FORMID": "00B40C",
+      "EDID": "DLC03CitadelArmoryTerminal02",
+      "FULL": "Terminal de Callahan",
+      "DESC": "Polícia Militar dos Estados Unidos\nPentágono - Subestação 3A",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Incidente 08-07-77",
+          "Relatório do Incidente 08-16-77",
+          "Relatório do Incidente 08-22-77",
+          "Desbloqueio Seguro"
+        ],
+        "RNAM": [
+          "Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B40B",
+      "FORMID": "00B40B",
+      "EDID": "DLC03CitadelArmoryTerminal01",
+      "FULL": "Terminal 089A do Arsenal",
+      "DESC": "Terminal de Acesso de Segurança do Arsenal\n=Por favor, liste todos os equipamentos colocados ou retirados!=",
+      "MENU": {
+        "ITXT": [
+          "Registro de troca de item",
+          "Item 908774",
+          "Item 908775",
+          "Item 908776",
+          "Item 908777"
+        ],
+        "RNAM": [
+          "Erro - Conexão com Mainframe Perdida"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009541",
+      "FORMID": "009541",
+      "EDID": "DLC03SecurityTerminalMB",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Vida Longa à Enclave!\nSistema de Segurança On-line",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear Portas Interiores",
+          "Desbloquear Porta para o Exterior",
+          "Desbloquear Arsenal"
+        ],
+        "RNAM": [
+          "Portas Interiores Desbloqueadas",
+          "Porta para o Exterior Desbloqueada",
+          "Arsenal Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:009517",
+      "FORMID": "009517",
+      "EDID": "DLC03PowerworksRadHallTerminalWall",
+      "FULL": "Terminal de Controle Automatizado",
+      "DESC": "Velha Olney Powerworks\n          Uma Divisão de PPE\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Liberação de Radiação",
+          "Desativar Processo Automático",
+          "Reativar Processo Automático"
+        ],
+        "RNAM": [
+          "Por favor, aguarde...",
+          "Iniciando Protocolo de Desconexão de Operário",
+          "Erro 623 - Por favor, consulte o manual"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0090D7",
+      "FORMID": "0090D7",
+      "EDID": "DLC03ControlTowerTurretTerminal01",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Intruso da RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar Parâmetros de Seleção de Alvo",
+          "<!>ERRO: Torreta(s) Não Respondendo<!>",
+          "Ativar o Sistema de Torretas",
+          "Desativar o Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Dados de Alvo Apagado.  Tenha Cuidado.",
+          "<!>Por Favor, Tenha Cuidado<!>",
+          "Iniciando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CBB",
+      "FORMID": "008CBB",
+      "EDID": "DLC03RobotControlMainframe",
+      "FULL": "Mainframe de Controle de Robôs",
+      "DESC": "Vida Longa à Emcçave!\nMainframe de Controle de Robôs v2.7",
+      "MENU": {
+        "ITXT": [
+          "Executar Diagnóstico Robótico",
+          "Executar Diagnóstico Robótico",
+          "Executar Diagnóstico Robótico",
+          "Executar Desligamento Segurança",
+          "Codificar Seleção de Alvo dos Robôs",
+          "Alvo: Enclave [Especialista em Robótica]"
+        ],
+        "RNAM": [
+          "Robôs on-line e em modo defensivo.",
+          "Robôs desligados.",
+          "Robots instáveis??. Possível Ameaça.",
+          "Robôs desligando.",
+          "Robots instáveis??. Possível Ameaça.",
+          "Enclave definida como alvo hostil."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0074C3",
+      "FORMID": "0074C3",
+      "EDID": "DLC03PowerWorksCargoRoomTerminal",
+      "FULL": "Terminal de Controle Automatizado",
+      "DESC": "Velha Olney Powerworks\n-Uma Divisão de PPE-\n\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Processo Automático",
+          "Reativar Processo Automático",
+          "Carregar Manifesto de Controle"
+        ],
+        "RNAM": [
+          "Iniciando Protocolo de Desconexão de Operário",
+          "Erro 623 - Por Favor, Consulte o Manual",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007397",
+      "FORMID": "007397",
+      "EDID": "DLC03FireControlTerminal04",
+      "FULL": "Controle de Incêndio",
+      "DESC": "Sistema de Satélite de Controle de Fogo\n+ALVO ADQUIRIDO: Plataforma Móvel da BFA Adams+\n++ATENÇÃO: Este alvo é apenas para fins de autodestruição! Aprovação Final Necessária!++",
+      "MENU": {
+        "ITXT": [
+          "Confirmar"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007396",
+      "FORMID": "007396",
+      "EDID": "DLC03FireControlTerminal03",
+      "FULL": "Controle de Incêndio",
+      "DESC": "Sistema de Satélite de Controle de Fogo\n+ALVO ADQUIRIDO: Plataforma Móvel da BFA Adams+\n++AVISO: Isto comprometerá todas as ogivas nucleares ao atacar e bloquear essa estação.++",
+      "MENU": {
+        "ITXT": [
+          "Lançar Carga"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007395",
+      "FORMID": "007395",
+      "EDID": "DLC03FireControlTerminal02",
+      "FULL": "Controle de Incêndio",
+      "DESC": "Sistema de Satélite de Controle de Fogo\n+ALVO ADQUIRIDO: Cidadela+\n++AVISO: Isto comprometerá todas as ogivas nucleares ao atacar e bloquear essa estação.++",
+      "MENU": {
+        "ITXT": [
+          "Lançar Carga"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007394",
+      "FORMID": "007394",
+      "EDID": "DLC03FireControlTerminal01",
+      "FULL": "Controle de Incêndio",
+      "DESC": "Sistema de Satélite de Controle de Fogo\n+AVISO: Segurança Desligada\/Sistema Desbloqueado+",
+      "MENU": {
+        "ITXT": [
+          "Predefinir Alvo 01: Cidadela",
+          "Predefinir Alvo 02: Projeto Pureza",
+          "Predefinir Alvo 03: Megaton",
+          "Predefinir Alvo 04: Transporte de Rivet City",
+          "Predefinir Alvo 05: Plataforma da BFA Adams"
+        ],
+        "RNAM": [
+          "Satélite Fora da Órbita Correta",
+          "Satélite Fora da Órbita Correta",
+          "Satélite Fora da Órbita Correta"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007391",
+      "FORMID": "007391",
+      "EDID": "DLC03FireControlTerminal",
+      "FULL": "Terminal de Conexão com Satélite",
+      "DESC": "Terminal de Conexão a Satélite\nApenas Pessoal Autorizado",
+      "MENU": {
+        "ITXT": [
+          "CARGA PREPARADA",
+          "Verificar Status do Satellite",
+          "Verificar Carga",
+          "Carregar Carga",
+          "Lançar Carga"
+        ],
+        "RNAM": [
+          "Estação Bloqueada",
+          "Erro no Hardware de Carregamento Detectado"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00729F",
+      "FORMID": "00729F",
+      "EDID": "DLC03EnclaveTowerCommsTerminal",
+      "FULL": "Terminal de Comunicações",
+      "DESC": "Entrando na Retransmissão de Comunicação...\n...\nComunicações Ativadas.",
+      "MENU": {
+        "ITXT": [
+          "Solicitação de Transferência",
+          "Equipamento de Rastreamento Via Satélite",
+          "Abuso de Mentats",
+          "Robôs Longe de Haywire"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00726C",
+      "FORMID": "00726C",
+      "EDID": "DLC03PowerworksZMachineTerminal",
+      "FULL": "Terminal de Pesquisa de Acesso Remoto",
+      "DESC": "Velha Olney Powerworks\n          Uma Divisão De PPE\n>\\ Bem-vindo, Usuário",
+      "MENU": {
+        "ITXT": [
+          "Detonador A Prova de Falhas"
+        ],
+        "RNAM": [
+          "Desativando"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00726B",
+      "FORMID": "00726B",
+      "EDID": "DLC03PowerworksRadHallTerminalDE",
+      "FULL": "Terminal de Pesquisa de Acesso Remoto",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança, é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Máquina Z A Prova de Falhas [3\/4]"
+        ],
+        "RNAM": [
+          "Desligando Pilões.  Saia da Zona..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00726A",
+      "FORMID": "00726A",
+      "EDID": "DLC03PowerworksRadHallTerminalFG",
+      "FULL": "Terminal de Pesquisa de Acesso Remoto",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança, é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Máquina Z A Prova de Falhas [1\/4]",
+          "Máquina Z A Prova de Falhas [2\/4]",
+          "Máquina Z A Prova de Falhas [3\/4]",
+          "Máquina Z A Prova de Falhas [4\/4]"
+        ],
+        "RNAM": [
+          "Desativando",
+          "Desativando",
+          "Desativando",
+          "Desativando"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007268",
+      "FORMID": "007268",
+      "EDID": "DLC03PowerworksRadHallTerminalBC",
+      "FULL": "Terminal de Pesquisa de Acesso Remoto",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança, é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Máquina Z A Prova de Falhas [2\/4]"
+        ],
+        "RNAM": [
+          "Desligando Pilões.  Saia..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007267",
+      "FORMID": "007267",
+      "EDID": "DLC03PowerworksRadHallTerminalAH",
+      "FULL": "Terminal de Pesquisa de Acesso Remoto",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança, é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Máquina Z A Prova de Falhas [1\/4]"
+        ],
+        "RNAM": [
+          "Desligando Pilões.  Saia..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005DD1",
+      "FORMID": "005DD1",
+      "EDID": "DLC03ControlTowerTerminal",
+      "FULL": "Terminal de Pesquisa de Campo da Enclave",
+      "DESC": "*************************\n*Controle da Plataforma Móvel*\n*************************",
+      "MENU": {
+        "ITXT": [
+          "Abrir Rampa de Carga da Plataforma Móvel",
+          "Fechar Rampa de Carga da Plataforma Móvel",
+          "Contatar o Centro de Controle da Plataforma Móvel",
+          "Contatar o Controle de Voo do Vertibird"
+        ],
+        "RNAM": [
+          "Rampa Aberta",
+          "Rampa Fechada",
+          "Indisponível - Protocolo de Silêncio de Rádio A45",
+          "Indisponível - Protocolo de Silêncio de Rádio A45"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005327",
+      "FORMID": "005327",
+      "EDID": "DLC03EnclaveCampTerminal",
+      "FULL": "Terminal de Pesquisa de Campo da Enclave",
+      "DESC": "*****------  OPERAÇÕES DE CAMPO\n*****------      ENCLAVE \n*****------\n-----------\n-----------  DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Oficial",
+          "Ordens do Oficial"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004A06",
+      "FORMID": "004A06",
+      "EDID": "DLC03Sector03Terminal01",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gestão de Intrusos da RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar Parâmetros do Alvo",
+          "<!>ERRO: Torreta(s) Não Respondendo<!>",
+          "Ativar Sistema de Torretas",
+          "Desativar Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagado. Tenha cuidado.",
+          "<!>Tenha cuidado<!>",
+          "Iniciando...",
+          "Desativando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049FD",
+      "FORMID": "0049FD",
+      "EDID": "DLC03PowerworksRadHallTerminal",
+      "FULL": "Terminal Remoto de Ventilação",
+      "DESC": "Velha Olney Powerworks\n          Uma Divisão de PPE\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Liberação de Radiação"
+        ],
+        "RNAM": [
+          "Por favor, aguarde..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0049D2",
+      "FORMID": "0049D2",
+      "EDID": "DLC03TurretHallSecurityTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Velha Olney Powerworks\n          Uma Divisão de PPE\n>\\ Bem-Vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desconectar o Sistema de Segurança",
+          "Desconectar Porta de Segurança"
+        ],
+        "RNAM": [
+          "Autorização Concedida, Desbloqueando...",
+          "Desbloqueando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0039E0",
+      "FORMID": "0039E0",
+      "EDID": "DLC03AFBDeathclawTerminal02",
+      "FULL": "Terminal da Porta do Redil dos Deathclaw",
+      "DESC": "Terminal da Porta do Redil Deathclaw",
+      "MENU": {
+        "ITXT": [
+          "Destrancar e Abrir Porta do Redil",
+          "Fechar e Trancar Porta do Redil"
+        ],
+        "RNAM": [
+          "!!Aviso - Porta do Redil Deathclaw Destrancada!!",
+          "Porta do Redil Deathclaw Trancada"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0039DF",
+      "FORMID": "0039DF",
+      "EDID": "DLC03AFBDeathclawTerminal03",
+      "FULL": "Terminal da Porta do Redil dos Deathclaw",
+      "DESC": "Terminal da Porta do Redil Deathclaw",
+      "MENU": {
+        "ITXT": [
+          "Destrancar e Abrir Porta do Redil",
+          "Fechar e Trancar Porta do Redil"
+        ],
+        "RNAM": [
+          "!!Aviso - Porta do Redil Deathclaw Destrancada!!",
+          "Porta do Redil Deathclaw Trancada"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0039DE",
+      "FORMID": "0039DE",
+      "EDID": "DLC03AFBDeathclawTerminal01",
+      "FULL": "Terminal da Porta do Redil dos Deathclaw",
+      "DESC": "Terminal da Porta do Redil Deathclaw",
+      "MENU": {
+        "ITXT": [
+          "Destrancar e Abrir Porta do Redil",
+          "Fechar e Trancar Porta do Redil"
+        ],
+        "RNAM": [
+          "!!Aviso - Porta do Redil Deathclaw Destrancada!!",
+          "Porta do Redil Deathclaw Trancada"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0039DD",
+      "FORMID": "0039DD",
+      "EDID": "DLC03AFBDeathclawTerminal04",
+      "FULL": "Terminal da Porta do Redil dos Deathclaw",
+      "DESC": "Terminal da Porta do Redil Deathclaw",
+      "MENU": {
+        "ITXT": [
+          "Destrancar e Abrir Porta do Redil",
+          "Fechar e Trancar Porta do Redil"
+        ],
+        "RNAM": [
+          "!!Aviso - Porta do Redil Deathclaw Destrancada!!",
+          "Porta do Redil Deathclaw Trancada"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E90",
+      "FORMID": "002E90",
+      "EDID": "DLC03EnclaveBase02DClawControlTerminal",
+      "FULL": "Terminal de Controle de Deathclaw",
+      "DESC": "Terminal da Estação de Proteção dos Deathclaw\n\nNo caso de instabilidade na manipulação neural dos Deathclaw, por favor, faça uso do dispositivo de indução de fogo nas proximidades.",
+      "MENU": {
+        "ITXT": [
+          "Desativar Campo dos Deathclaw",
+          "Ativar Campo dos Deathclaw",
+          "Desativar Campo da Estação de Proteção",
+          "Ativar Campo da Estação de Proteção"
+        ],
+        "RNAM": [
+          "Campo dos Deathclaw desativado",
+          "Campo dos Deathclaw ativado.",
+          "Campo da Estação Desativado",
+          "Campo da Estação Ativado"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002D93",
+      "FORMID": "002D93",
+      "EDID": "DLC03EnclaveBase02DClawFieldTerminal",
+      "FULL": "Terminal de Pesquisa Deathclaw",
+      "DESC": "Terminal de investigación de sanguinários",
+      "MENU": {
+        "ITXT": [
+          "Relatório da Investigação 1",
+          "Relatório da Investigação 2",
+          "Relatório da Investigação 3",
+          "Desativar Campo dos Deathclaw"
+        ],
+        "RNAM": [
+          "texto do relatório 1",
+          "texto do relatório 2",
+          "texto do relatório 3",
+          "Campo desativado"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002929",
+      "FORMID": "002929",
+      "EDID": "DLC03Sector02Terminal01",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gestão de Intrusos da RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar Parâmetros do Alvo",
+          "<!>ERRO: Torreta(s) Não Respondendo<!>",
+          "Ativar Sistema de Torretas",
+          "Desativar Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagado. Tenha cuidado.",
+          "<!>Tenha cuidado<!>",
+          "Iniciando...",
+          "Desativando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002928",
+      "FORMID": "002928",
+      "EDID": "DLC03Sector01Terminal01",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gestão de Intrusos da RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar Parâmetros do Alvo",
+          "<!>ERRO: Torreta(s) Não Respondendo<!>",
+          "Ativar Sistema de Torretas",
+          "Desativar Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagado. Tenha cuidado.",
+          "<!>Tenha cuidado<!>",
+          "Iniciando...",
+          "Desativando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002631",
+      "FORMID": "002631",
+      "EDID": "DLC03EntranceTerminal01",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gestão de Invasor RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar Parâmetros do Alvo",
+          "<!>ERRO: Torreta(s) Não Respondendo<!>",
+          "Ativar Sistema de Torretas",
+          "Desativar Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagado. Tenha cuidado.",
+          "<!>Tenha cuidado<!>",
+          "Iniciando",
+          "Desativando"
+        ]
+      }
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000D5C",
+      "FORMID": "000D5C",
+      "EDID": "DLC03RelayTerminal",
+      "FULL": "Terminal de Conexão com Satélite",
+      "DESC": "RETRANSMISSOR 0X9-B DA ENCLAVE",
+      "MENU": {
+        "ITXT": [
+          "Atualizar Ordens Permanentes",
+          "Requisitar Novos Dados Telemétricos",
+          "Baixar Dados Telemétricos para o Dispositivo",
+          "Desconectar"
+        ],
+        "RNAM": [
+          "Ordens Permanecem Inalterados.",
+          "Dados Telemétricos Baixados.",
+          "Dados Baixados.",
+          "Comando Anulado. Não Autorizado."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE2EB",
+      "FORMID": "0BE2EB",
+      "EDID": "CitadelLibertyPrimeTerminal",
+      "FULL": "Operações Liberty Prime",
+      "DESC": "Conexão 39L ao sistema central da Cidadela\n\nBem-vindo, Escrivão Rothchild",
+      "MENU": {
+        "ITXT": [
+          "Registros históricos",
+          "Relatórios dos diagnósticos",
+          "Diário do escrivão chefe",
+          "Teste do emissor de voz",
+          "Iniciar sequência de ativação"
+        ],
+        "RNAM": [
+          "Teste do emissor de voz iniciado...",
+          "FALHA: *Energia insuficiente*"
+        ]
+      }
+    }
+  ]
+}

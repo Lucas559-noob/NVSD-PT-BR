@@ -1,0 +1,90 @@
+{
+  "QUST": [
+    {
+      "FORM": "@Anchorage.esm:002DF1",
+      "FORMID": "002DF1",
+      "EDID": "DLC02ConvOutcast",
+      "FULL": "Sistema de Conversação dos Desertores"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B567",
+      "FORMID": "00B567",
+      "EDID": "DLC02AudioHolotapes",
+      "FULL": "Fita Holográfica Informativa de Anchorage"
+    },
+    {
+      "FORM": "@Anchorage.esm:0009BE",
+      "FORMID": "0009BE",
+      "EDID": "DLC02OA1",
+      "FULL": "Ajudando os Desertores",
+      "NNAM": {
+        "10": "Investigue o Sinal de Rádio dos Desertores.",
+        "15": "Encontre e entre na Base dos Desertores.",
+        "20": "Fale com o Líder dos Desertores.",
+        "30": "Explore o Posto Avançado VSS.",
+        "50": "Entre na cápsula de simulação.",
+        "45": "Coloque o traje de Interface Neural.",
+        "40": "Siga Sibley até a sala do simulador."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0014F6",
+      "FORMID": "0014F6",
+      "EDID": "DLC02OA4",
+      "FULL": "Operação: Anchorage!",
+      "NNAM": {
+        "10": "Desative o Campo de Impulso.",
+        "20": "Entre no Complexo Chinês.",
+        "30": "Mate o General Jingwei.",
+        "40": "Fale com o General Chase.",
+        "50": "Saia da Simulação.",
+        "60": "Acesse o Arsenal VSS.",
+        "70": "Entre no Arsenal VSS e pegue tudo o que você precisar.",
+        "11": "(Opcional) Diga ao Sargento Montgomery para comandar a sua Equipe de Combate."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0013FA",
+      "FORMID": "0013FA",
+      "EDID": "DLC02RadioOutcast",
+      "FULL": "Chamada de Socorro dos Desertores"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF9C",
+      "FORMID": "00BF9C",
+      "EDID": "DLC02ChineseDialogue",
+      "FULL": "Diálogo de Combate Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D0A",
+      "FORMID": "002D0A",
+      "EDID": "DLC02StrikeTeam",
+      "FULL": "Missão da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:0009C0",
+      "FORMID": "0009C0",
+      "EDID": "DLC02OA3",
+      "FULL": "Pavimentando o Caminho",
+      "NNAM": {
+        "20": "Destrua os dois Tanques de Combustível do Depósito de Quimeras.",
+        "30": "Proteja o Posto de Escuta Chinês.",
+        "15": "Fale com o Tenente Morgan.",
+        "10": "Ouça as instruções do General Chase.",
+        "17": "(Opcional) Diga ao Sargento Montgomery para comandar a sua Equipe de Combate."
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0009BF",
+      "FORMID": "0009BF",
+      "EDID": "DLC02OA2",
+      "FULL": "As Armas de Anchorage",
+      "NNAM": {
+        "10": "Infiltre-se no Arsenal Chinês.",
+        "30": "Destrua toda a Artilharia.",
+        "40": "Informe ao General Chase no Quartel General de Campo dos E.U.A.",
+        "20": "Encontre-se com o Sargento Montgomery."
+      }
+    }
+  ]
+}

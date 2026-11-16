@@ -1,0 +1,5800 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@DeadMoney.esm:013FE6",
+      "FORMID": "013FE6",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic083",
+      "FULL": "Dog... apenas se acalme... não há necessidade de continuar lutando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013FC5",
+      "FORMID": "013FC5",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic013",
+      "FULL": "Como você me trouxe aqui novamente?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D8C",
+      "FORMID": "013D8C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic213",
+      "FULL": "Essas Pessoas Fantasmas... são as únicas vivas por aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013BE9",
+      "FORMID": "013BE9",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic004",
+      "FULL": "Então você é quem sabe como eu cheguei à Villa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B4B",
+      "FORMID": "013B4B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic205",
+      "FULL": "Ambos os hologramas estão ligados agora. É seguro para você chegar à sua posição."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B17",
+      "FORMID": "013B17",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic077",
+      "FULL": "Quando estávamos nos esgueirando, você mencionou Lou... quem é Lou?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B14",
+      "FORMID": "013B14",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic280",
+      "FULL": "Então, depois do seu discurso sobre controle, agora você vai usar os colares como Elijah fez?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B10",
+      "FORMID": "013B10",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic017",
+      "FULL": "Onde posso encontrá-lo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B0A",
+      "FORMID": "013B0A",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic003",
+      "FULL": "Como eu devo chegar aos marcadores no meu mapa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B09",
+      "FORMID": "013B09",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic004",
+      "FULL": "O que é o Evento de Gala?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B08",
+      "FORMID": "013B08",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic013",
+      "FULL": "Vamos sair, então."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B07",
+      "FORMID": "013B07",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic014",
+      "FULL": "O verdadeiro trabalho? O que foi isso, um aquecimento?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B06",
+      "FORMID": "013B06",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic015",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AF4",
+      "FORMID": "013AF4",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic020",
+      "FULL": "Então, como eu destruo os rádios e alto-falantes então?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AF3",
+      "FORMID": "013AF3",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic022",
+      "FULL": "Então eu preciso de outros para realizar este... assalto. Quem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AF2",
+      "FORMID": "013AF2",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic026",
+      "FULL": "Por que você faria isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AF1",
+      "FORMID": "013AF1",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic027",
+      "FULL": "Vou ajudar. O que você quer que eu faça?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AF0",
+      "FORMID": "013AF0",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic028",
+      "FULL": "Estão todos mortos?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AEF",
+      "FORMID": "013AEF",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic005",
+      "FULL": "O que tem dentro da Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AEE",
+      "FORMID": "013AEE",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic029",
+      "FULL": "Quantas dessas vítimas você trouxe aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AED",
+      "FORMID": "013AED",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic030",
+      "FULL": "Onde está meu equipamento?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AEC",
+      "FORMID": "013AEC",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic031",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AEB",
+      "FORMID": "013AEB",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic032",
+      "FULL": "Que rifle é este?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AEA",
+      "FORMID": "013AEA",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyOldTopic002",
+      "FULL": "\"Segurança\" não soa seguro para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE9",
+      "FORMID": "013AE9",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyOldTopic003",
+      "FULL": "Como eles são diferentes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE8",
+      "FORMID": "013AE8",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic006",
+      "FULL": "Além de desligá-los, o que posso fazer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE7",
+      "FORMID": "013AE7",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic007",
+      "FULL": "Se eu não posso socá-los ou esmagá-los, isso não me deixa muitas opções."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE6",
+      "FORMID": "013AE6",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic008",
+      "FULL": "Quem é a mulher holograma na Fonte?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE5",
+      "FORMID": "013AE5",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic033",
+      "FULL": "Você pegou outros?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE4",
+      "FORMID": "013AE4",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic034",
+      "FULL": "Então, eu não estou sozinho."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE3",
+      "FORMID": "013AE3",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic035",
+      "FULL": "Então talvez seja melhor você me dizer por que estou aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE2",
+      "FORMID": "013AE2",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic009",
+      "FULL": "Como eu cheguei aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE1",
+      "FORMID": "013AE1",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic010",
+      "FULL": "Eu tinha perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013AE0",
+      "FORMID": "013AE0",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic011",
+      "FULL": "Deixa pra lá, então."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013ADF",
+      "FORMID": "013ADF",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic012",
+      "FULL": "Decidi que não vou te ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013ADE",
+      "FORMID": "013ADE",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic036",
+      "FULL": "Vou cooperar - se você puder responder algumas perguntas para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013ADD",
+      "FORMID": "013ADD",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic037",
+      "FULL": "Esqueça, então. Estarei a caminho."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013ADC",
+      "FORMID": "013ADC",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic038",
+      "FULL": "Então eu tenho que lidar com eles - ou eu explodo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013ADB",
+      "FORMID": "013ADB",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic039",
+      "FULL": "Você só pode estar brincando. Este lugar está cheio de minas de rádio que podem me matar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A73",
+      "FORMID": "013A73",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic021",
+      "FULL": "Como devo encontrá-los?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A72",
+      "FORMID": "013A72",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic023",
+      "FULL": "Alguma sugestão de quem eu deveria pegar primeiro?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A70",
+      "FORMID": "013A70",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic025",
+      "FULL": "O que é FEV?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A67",
+      "FORMID": "013A67",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyOldTopic000",
+      "FULL": "O que são esses Hologramas?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A66",
+      "FORMID": "013A66",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyOldTopic001",
+      "FULL": "Por quê?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A65",
+      "FORMID": "013A65",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic000",
+      "FULL": "Você pode me falar sobre os Hologramas na Villa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A64",
+      "FORMID": "013A64",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic001",
+      "FULL": "O que é a Nuvem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A63",
+      "FORMID": "013A63",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTalkingActivatorTopic002",
+      "FULL": "Quais são as Máquinas de Venda na Villa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A61",
+      "FORMID": "013A61",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic018",
+      "FULL": "Os habitantes? Há pessoas vivas aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A60",
+      "FORMID": "013A60",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic019",
+      "FULL": "Sobre quais hologramas você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A30",
+      "FORMID": "013A30",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic004",
+      "FULL": "Existe algum lugar seguro para descansar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2F",
+      "FORMID": "013A2F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyTopic000",
+      "FULL": "Quem é você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2E",
+      "FORMID": "013A2E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyTopic001",
+      "FULL": "Como você está falando comigo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2D",
+      "FORMID": "013A2D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic012",
+      "FULL": "Rádios e alto-falantes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2C",
+      "FORMID": "013A2C",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic015",
+      "FULL": "Rádios e alto-falantes podem acionar minha coleira?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2B",
+      "FORMID": "013A2B",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic016",
+      "FULL": "Tudo bem. Então encontre as outras três pessoas com coleiras-bomba e traga-as de volta aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A2A",
+      "FORMID": "013A2A",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyTopic003",
+      "FULL": "Quem são essas pessoas que estou reunindo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A29",
+      "FORMID": "013A29",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahProxyTopic004",
+      "FULL": "Era tudo o que eu precisava saber."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A18",
+      "FORMID": "013A18",
+      "EDID": "NVDLC01ElijahIntroduction",
+      "FULL": "{playername}, eu sou Elijah."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A17",
+      "FORMID": "013A17",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic000",
+      "FULL": "Coleira? Do que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A16",
+      "FORMID": "013A16",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic001",
+      "FULL": "O que você quer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A15",
+      "FORMID": "013A15",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic002",
+      "FULL": "Não vou te ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A14",
+      "FORMID": "013A14",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic003",
+      "FULL": "Não, eu não vou te ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A13",
+      "FORMID": "013A13",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic005",
+      "FULL": "{Holograma de Elijah}Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A12",
+      "FORMID": "013A12",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic006",
+      "FULL": "Que lugar é este?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A11",
+      "FORMID": "013A11",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic007",
+      "FULL": "Como eu cheguei aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A10",
+      "FORMID": "013A10",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic008",
+      "FULL": "Há alguém vivo por aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A0F",
+      "FORMID": "013A0F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic009",
+      "FULL": "Por que minha visão está embaçando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A0E",
+      "FORMID": "013A0E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic010",
+      "FULL": "Onde está meu equipamento?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A0D",
+      "FORMID": "013A0D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic011",
+      "FULL": "A exposição vai me matar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A0B",
+      "FORMID": "013A0B",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic014",
+      "FULL": "O que você precisa que eu faça agora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139B9",
+      "FORMID": "0139B9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic051",
+      "FULL": "Parece... interessante."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139B8",
+      "FORMID": "0139B8",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic110",
+      "FULL": "Sempre com vontade de mais uma bebida. Qual é a receita?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138D4",
+      "FORMID": "0138D4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic276",
+      "FULL": "Quais armas você manja?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138D3",
+      "FORMID": "0138D3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic277",
+      "FULL": "Armas de Energia, Explosivos, Corpo a Corpo, Desarmado e Armas de Fogo. É só isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138D2",
+      "FORMID": "0138D2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic278",
+      "FULL": "Você parece ter sido bem treinado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138D1",
+      "FORMID": "0138D1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic279",
+      "FULL": "Ah, é só isso? Acho que serve."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138D0",
+      "FORMID": "0138D0",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic047",
+      "FULL": "Com quais armas você é habilidoso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CF",
+      "FORMID": "0138CF",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic022",
+      "FULL": "Em quais armas você é bom?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CE",
+      "FORMID": "0138CE",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic001",
+      "FULL": "Em quais armas você é bom?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013892",
+      "FORMID": "013892",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic000",
+      "FULL": "Se você tiver a chave lá dentro, o \"Velho\" pode ordenar que Dog abra a jaula."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013886",
+      "FORMID": "013886",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic108",
+      "FULL": "{TEATRO: 1ª vez, gosta do jogador}Como você veio do Evento de Gala até aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013884",
+      "FORMID": "013884",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic199",
+      "FULL": "{TEATRO: 1ª Vez, Odeia o jogador}Como você chegou do Evento de Gala até aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01387F",
+      "FORMID": "01387F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic067",
+      "FULL": "Como você chegou ao portão principal? Depois chegou aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01387E",
+      "FORMID": "01387E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic275",
+      "FULL": "Como você chegou aqui do Evento de Gala? E a este andar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013625",
+      "FORMID": "013625",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic183",
+      "FULL": "Você foi nocauteado?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013624",
+      "FORMID": "013624",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic203",
+      "FULL": "Você foi gaseado como eu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013623",
+      "FORMID": "013623",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic204",
+      "FULL": "Eu não trouxe você aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013622",
+      "FORMID": "013622",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic205",
+      "FULL": "Você acha que eu tive algo a ver com isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013621",
+      "FORMID": "013621",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic206",
+      "FULL": "Agora... espere, você está agindo como se não confiasse em mim ou algo assim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013620",
+      "FORMID": "013620",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic207",
+      "FULL": "O quê? E meus pés?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361F",
+      "FORMID": "01361F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic208",
+      "FULL": "Você deu uma volta pela área, ou...?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361E",
+      "FORMID": "01361E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic209",
+      "FULL": "Eu... não entendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361D",
+      "FORMID": "01361D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic210",
+      "FULL": "Segui um sinal de rádio até aqui, a voz de uma mulher."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361C",
+      "FORMID": "01361C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic211",
+      "FULL": "Não é da sua conta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361B",
+      "FORMID": "01361B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic212",
+      "FULL": "<Levantar a sobrancelha de volta.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01361A",
+      "FORMID": "01361A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic213",
+      "FULL": "...Eu estava curioso para saber aonde isso levava."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013619",
+      "FORMID": "013619",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic214",
+      "FULL": "Precisava de suprimentos, pensei que poderia me levar a algum lugar interessante."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013618",
+      "FORMID": "013618",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic215",
+      "FULL": "Achei que poderia ter tropeçado em um tesouro do Velho Mundo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013617",
+      "FORMID": "013617",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic216",
+      "FULL": "Procurando começar a vida como um Garimpeiro, achei que este lugar era um bom ponto de partida."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013616",
+      "FORMID": "013616",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic217",
+      "FULL": "Eu nem saberia te dizer por quê, eu apenas... fiz."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013615",
+      "FORMID": "013615",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic218",
+      "FULL": "Se eu pudesse ir embora, eu iria."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013614",
+      "FORMID": "013614",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic219",
+      "FULL": "Eu? E você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013613",
+      "FORMID": "013613",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic220",
+      "FULL": "Você está dizendo que é um ou outro?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013612",
+      "FORMID": "013612",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic221",
+      "FULL": "E quanto a você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013611",
+      "FORMID": "013611",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic222",
+      "FULL": "Você não vai sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013610",
+      "FORMID": "013610",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic223",
+      "FULL": "Não posso acreditar que você queira ficar aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360F",
+      "FORMID": "01360F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic224",
+      "FULL": "Você sabe como sair daqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360E",
+      "FORMID": "01360E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic225",
+      "FULL": "Então, assim que as coleiras forem removidas, podemos simplesmente ir embora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360D",
+      "FORMID": "01360D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic226",
+      "FULL": "Eu... não faço ideia do que você está dizendo. De novo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360C",
+      "FORMID": "01360C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic228",
+      "FULL": "...para voltar aqui se eu sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360B",
+      "FORMID": "01360B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic229",
+      "FULL": "Mas não você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01360A",
+      "FORMID": "01360A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic230",
+      "FULL": "Por que você não consegue encontrar o caminho de volta?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013609",
+      "FORMID": "013609",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic231",
+      "FULL": "Você não vai sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013608",
+      "FORMID": "013608",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic232",
+      "FULL": "Então você está atrás do tesouro então?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013607",
+      "FORMID": "013607",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic233",
+      "FULL": "Você está tentando invadir o cassino?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013606",
+      "FORMID": "013606",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic234",
+      "FULL": "Por que você gostaria de ficar aqui de todos os lugares?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013605",
+      "FORMID": "013605",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic236",
+      "FULL": "Você quer... caçar aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013604",
+      "FORMID": "013604",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic237",
+      "FULL": "Por que você quer fazer isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013603",
+      "FORMID": "013603",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic238",
+      "FULL": "Você está preocupado que alguém vá encontrar este lugar? Usá-lo para machucar as pessoas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013602",
+      "FORMID": "013602",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic239",
+      "FULL": "Você não pode proteger o mundo do mundo... é inútil."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013601",
+      "FORMID": "013601",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic240",
+      "FULL": "Eu não sou o único tentando se comunicar com gestos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013600",
+      "FORMID": "013600",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic241",
+      "FULL": "Tudo bem, seja uma vadia, então."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FF",
+      "FORMID": "0135FF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic242",
+      "FULL": "As coisas seriam muito mais fáceis se você fizesse um estalo para sim, dois estalos para não."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FE",
+      "FORMID": "0135FE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic243",
+      "FULL": "Por que você está balançando e acenando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FD",
+      "FORMID": "0135FD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic245",
+      "FULL": "Um sorriso... agora sim, isso é mais parecido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FC",
+      "FORMID": "0135FC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic246",
+      "FULL": "Você realmente precisa relaxar. Este lugar inteiro é um paraíso pré-guerra, você sabe."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FB",
+      "FORMID": "0135FB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic247",
+      "FULL": "Olha... vamos encontrar uma maneira de curá-lo, tudo bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135FA",
+      "FORMID": "0135FA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic227",
+      "FULL": "Você estava nas nuvens?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F9",
+      "FORMID": "0135F9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic235",
+      "FULL": "Você estava... procurando por algo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F8",
+      "FORMID": "0135F8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic244",
+      "FULL": "Você estava procurando por alguém?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F7",
+      "FORMID": "0135F7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic248",
+      "FULL": "Onde quer que você estivesse, estava quente lá fora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F6",
+      "FORMID": "0135F6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic249",
+      "FULL": "Essa merda de mímica está me deixando louco."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F5",
+      "FORMID": "0135F5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic250",
+      "FULL": "Um robô?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F4",
+      "FORMID": "0135F4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic251",
+      "FULL": "Cara?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F3",
+      "FORMID": "0135F3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic252",
+      "FULL": "Ou uma mulher?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F2",
+      "FORMID": "0135F2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic253",
+      "FULL": "Tudo bem, alguém vivo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F1",
+      "FORMID": "0135F1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic254",
+      "FULL": "Um... homem barbudo... zangado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135F0",
+      "FORMID": "0135F0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic255",
+      "FULL": "Você estava procurando por um homem em um Vault."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135EF",
+      "FORMID": "0135EF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic256",
+      "FULL": "Você estava procurando por um Vault Boy?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135EE",
+      "FORMID": "0135EE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic257",
+      "FULL": "O homem na holotape do Pip-Boy, Elijah."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135ED",
+      "FORMID": "0135ED",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic258",
+      "FULL": "Alguém esperto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135EC",
+      "FORMID": "0135EC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic259",
+      "FULL": "...e nozes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135EB",
+      "FORMID": "0135EB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic260",
+      "FULL": "Então por que você perderia tempo procurando por ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135EA",
+      "FORMID": "0135EA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic261",
+      "FULL": "Não entendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E9",
+      "FORMID": "0135E9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic262",
+      "FULL": "Ele te afastou de alguém."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E8",
+      "FORMID": "0135E8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic263",
+      "FULL": "Família? Marido?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E7",
+      "FORMID": "0135E7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic264",
+      "FULL": "Oh - namorada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E6",
+      "FORMID": "0135E6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic265",
+      "FULL": "Uh... namorado?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E5",
+      "FORMID": "0135E5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic266",
+      "FULL": "O quê, sua esposa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E4",
+      "FORMID": "0135E4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic267",
+      "FULL": "Oh - namorada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E3",
+      "FORMID": "0135E3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic268",
+      "FULL": "Oh- namorada."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E2",
+      "FORMID": "0135E2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic269",
+      "FULL": "Vocês eram mais do que namoradas - amantes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E1",
+      "FORMID": "0135E1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic270",
+      "FULL": "Não correspondido? Ou..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135E0",
+      "FORMID": "0135E0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic271",
+      "FULL": "O quê, você acha que eu não entendo o amor?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135DF",
+      "FORMID": "0135DF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic272",
+      "FULL": "Dê-me um pouco de crédito."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135DE",
+      "FORMID": "0135DE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic273",
+      "FULL": "Eu entendo como uma pessoa amada pode ser importante."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0135DD",
+      "FORMID": "0135DD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic274",
+      "FULL": "Tanto faz, o amor é transitório - ou termina em tiroteio."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013521",
+      "FORMID": "013521",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic010",
+      "FULL": "Esse Auto-Doc aí funciona?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013520",
+      "FORMID": "013520",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic011",
+      "FULL": "Dá pra baixar alguma coisa dele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351F",
+      "FORMID": "01351F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic012",
+      "FULL": "{Ato 3}Eu tinha algumas perguntas que queria fazer a você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351E",
+      "FORMID": "01351E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic013",
+      "FULL": "O Auto-Doc pode curar suas cicatrizes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351D",
+      "FORMID": "01351D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic014",
+      "FULL": "Você disse que teve sorte?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351C",
+      "FORMID": "01351C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic015",
+      "FULL": "Elijah não colocou você no Auto-Doc... Dean colocou."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351B",
+      "FORMID": "01351B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic022",
+      "FULL": "Ele não estava tentando te torturar, ele precisava alterar sua voz para usar um bloqueio de áudio."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01351A",
+      "FORMID": "01351A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic188",
+      "FULL": "Não está chateado?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134CF",
+      "FORMID": "0134CF",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic132",
+      "FULL": "Se é isso que é preciso para fazer você ouvir, sim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134CE",
+      "FORMID": "0134CE",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic122",
+      "FULL": "Espero que você faça o que lhe foi dito."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C6",
+      "FORMID": "0134C6",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic123",
+      "FULL": "Tudo bem, vou caçar, ver o que consigo encontrar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C5",
+      "FORMID": "0134C5",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic124",
+      "FULL": "Então, um pouco da \"carne\" dentro deles?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C4",
+      "FORMID": "0134C4",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic125",
+      "FULL": "Não temos realmente tempo para isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C3",
+      "FORMID": "0134C3",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic126",
+      "FULL": "Não vou lutar contra mais nenhum Ghost People só para alimentar você... ou Dog."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C2",
+      "FORMID": "0134C2",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic127",
+      "FULL": "Se você souber como operar os interruptores, preciso que confie em mim para passar por isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C1",
+      "FORMID": "0134C1",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic128",
+      "FULL": "Sim, bem, vou fazer o Dog me ajudar. Não deve ser difícil entender toda essa coisa de fios."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134C0",
+      "FORMID": "0134C0",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic129",
+      "FULL": "Eu não quero que o Dog tenha que lidar com isso, prefiro lidar com você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134BF",
+      "FORMID": "0134BF",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic130",
+      "FULL": "Porque isso requer inteligência, e eu confio que você fará isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134BE",
+      "FORMID": "0134BE",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic131",
+      "FULL": "Preciso de alguém que possa operar os interruptores - e manter o controle."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134BD",
+      "FORMID": "0134BD",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic133",
+      "FULL": "Posso confiar em você para fazer isso direito. Posso confiar em você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134BC",
+      "FORMID": "0134BC",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic139",
+      "FULL": "Parece que se eu trouxer os Ghost People aqui, você não conseguiria lidar com eles."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0134BB",
+      "FORMID": "0134BB",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic140",
+      "FULL": "Se você não ficar aqui, vou trazer o Dog e deixá-lo aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013489",
+      "FORMID": "013489",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic171",
+      "FULL": "Esse acenar, franzir a testa e apontar que você faz está me cansando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013488",
+      "FORMID": "013488",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic178",
+      "FULL": "Algo relacionado à cirurgia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013487",
+      "FORMID": "013487",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic179",
+      "FULL": "Então... dano cerebral, ou...?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013486",
+      "FORMID": "013486",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic180",
+      "FULL": "Por que... alguém removeria sua capacidade de escrever, ou..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013485",
+      "FORMID": "013485",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic181",
+      "FULL": "Você ainda consegue fazer contas, isso é bom de ouvir."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013484",
+      "FORMID": "013484",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic182",
+      "FULL": "Você ainda pode fazer números e cálculos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013482",
+      "FORMID": "013482",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic184",
+      "FULL": "Ele está transmitindo do cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013481",
+      "FORMID": "013481",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic185",
+      "FULL": "Você realmente quer chegar até ele, não é?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013480",
+      "FORMID": "013480",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic186",
+      "FULL": "Hum, você quer falar sobre isso, ou...?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347F",
+      "FORMID": "01347F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic187",
+      "FULL": "Você meio que... mudou por um segundo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347E",
+      "FORMID": "01347E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic189",
+      "FULL": "Você está procurando pelo homem dentro do cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347D",
+      "FORMID": "01347D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic190",
+      "FULL": "Elijah? Você precisa ver Elijah."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347C",
+      "FORMID": "01347C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic191",
+      "FULL": "Por que você está procurando por ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347B",
+      "FORMID": "01347B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic192",
+      "FULL": "Você quer matá-lo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01347A",
+      "FORMID": "01347A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic193",
+      "FULL": "Ele é responsável pelas cicatrizes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013479",
+      "FORMID": "013479",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic194",
+      "FULL": "Você está falando sério."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013478",
+      "FORMID": "013478",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic195",
+      "FULL": "Estou bem em matar o filho da puta. Contanto que possamos torturá-lo primeiro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013477",
+      "FORMID": "013477",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic196",
+      "FULL": "Sempre podemos colocar um colar nele e deixá-lo correr em direção a uma parede de alto-falantes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013476",
+      "FORMID": "013476",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic197",
+      "FULL": "Eu gostaria de saber por que ele fez tudo isso primeiro e o que é tão importante sobre o cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013475",
+      "FORMID": "013475",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic198",
+      "FULL": "Não estou aqui para matar ninguém, só quero sair daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013474",
+      "FORMID": "013474",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic199",
+      "FULL": "Eu não me importo. Prefiro tentar dialogar com alguém antes de simplesmente matá-lo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013473",
+      "FORMID": "013473",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic200",
+      "FULL": "Ele veio por aqui por um motivo, e eu quero saber por quê."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013472",
+      "FORMID": "013472",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic201",
+      "FULL": "Talvez você esteja certo, matá-lo é a melhor opção."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013471",
+      "FORMID": "013471",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic202",
+      "FULL": "Eu só quero matar ele de qualquer maneira."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013441",
+      "FORMID": "013441",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic160",
+      "FULL": "<Linha de Armazenamento. Não traduza.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013440",
+      "FORMID": "013440",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic165",
+      "FULL": "O que você está planejando fazer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343F",
+      "FORMID": "01343F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic166",
+      "FULL": "Você recuperou sua voz há pouco tempo, e eu já estou cansado de ouvir você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343E",
+      "FORMID": "01343E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic167",
+      "FULL": "Se te matar vai te calar, vamos nessa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343D",
+      "FORMID": "01343D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic168",
+      "FULL": "Isso é tipo uma coisa de ciência?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343C",
+      "FORMID": "01343C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic169",
+      "FULL": "Mas... seu colar ainda está ligado. Então você não está livre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343B",
+      "FORMID": "01343B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic170",
+      "FULL": "Sobre o que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01343A",
+      "FORMID": "01343A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic172",
+      "FULL": "Terminou de falar? Quero colocar sua teoriazinha à prova."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013439",
+      "FORMID": "013439",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic173",
+      "FULL": "Haverá um ou dois segundos de atraso enquanto você troca. Isso é tempo suficiente para eu te matar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013438",
+      "FORMID": "013438",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic174",
+      "FULL": "Você sabe que não fui eu quem te colocou no Auto-Doc, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013437",
+      "FORMID": "013437",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic175",
+      "FULL": "Mesmo com as diferenças na Villa, eu não quero brigar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013436",
+      "FORMID": "013436",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic176",
+      "FULL": "Eu não coloquei você naquele Auto-Doc. Dean fez isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013435",
+      "FORMID": "013435",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic177",
+      "FULL": "Ele não estava tentando te torturar, ele precisava alterar sua voz para usar um bloqueio de áudio."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013434",
+      "FORMID": "013434",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic008",
+      "FULL": "Preciso que você fique e opere os interruptores para o Evento de Gala."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013433",
+      "FORMID": "013433",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic009",
+      "FULL": "Aposto que consigo fazer o Dog ficar aqui, se você não quiser."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013432",
+      "FORMID": "013432",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic113",
+      "FULL": "Se você não fizer isso, então Dog fará, como ele fez na delegacia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013431",
+      "FORMID": "013431",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic116",
+      "FULL": "Você sabe como operar os interruptores?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013430",
+      "FORMID": "013430",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic117",
+      "FULL": "Preocupado em ser atacado se ficar aqui? O portão parece forte o suficiente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342F",
+      "FORMID": "01342F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic118",
+      "FULL": "Preciso que você confie em mim. Eu te libertei da jaula na Delegacia de Polícia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342E",
+      "FORMID": "01342E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic119",
+      "FULL": "Que tipo de comida devo trazer de volta?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342D",
+      "FORMID": "01342D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic120",
+      "FULL": "Você precisa confiar em mim se quisermos passar por isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342C",
+      "FORMID": "01342C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic121",
+      "FULL": "<Mentira> Vou caçar comida, você fica aqui e espera."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342B",
+      "FORMID": "01342B",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic030",
+      "FULL": "Sabe qual o gosto do Povo Fantasma?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01342A",
+      "FORMID": "01342A",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic037",
+      "FULL": "Eu vi você devorar um dos Ghost People."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013429",
+      "FORMID": "013429",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic038",
+      "FULL": "Não deixa a voz irritada?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013428",
+      "FORMID": "013428",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic039",
+      "FULL": "Por que você come o Povo Fantasma?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013427",
+      "FORMID": "013427",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic073",
+      "FULL": "Você precisa comê-los para que eles fiquem no lugar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013426",
+      "FORMID": "013426",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic078",
+      "FULL": "Isso tudo parece letal. Meio que."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013425",
+      "FORMID": "013425",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic081",
+      "FULL": "Como você faz isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013424",
+      "FORMID": "013424",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic082",
+      "FULL": "Você pode me mostrar onde?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133CA",
+      "FORMID": "0133CA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic139",
+      "FULL": "Você sabe o que são aquelas máquinas ao redor da Villa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C9",
+      "FORMID": "0133C9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic148",
+      "FULL": "Não tenho nenhuma Ficha Sierra Madre comigo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C8",
+      "FORMID": "0133C8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic152",
+      "FULL": "Aqui está um Chip Sierra Madre. Vou precisar dele de volta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C7",
+      "FORMID": "0133C7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic153",
+      "FULL": "Você quer... um círculo pequeno?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C6",
+      "FORMID": "0133C6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic154",
+      "FULL": "Realmente não temos tempo para truques de mágica agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C5",
+      "FORMID": "0133C5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic155",
+      "FULL": "Você... pode fazer mais?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C4",
+      "FORMID": "0133C4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic156",
+      "FULL": "Não entendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C3",
+      "FORMID": "0133C3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic157",
+      "FULL": "Sim, há mais. Por toda parte."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C2",
+      "FORMID": "0133C2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic158",
+      "FULL": "Não faço ideia do que você está falando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C1",
+      "FORMID": "0133C1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic159",
+      "FULL": "Talvez se eu encontrar os objetos que você está tentando descrever, isso faça mais sentido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133C0",
+      "FORMID": "0133C0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic161",
+      "FULL": "Você precisa de uma bateria... uma Bateria de Fissão... e Sucata de Metal? E você pode falsificar as fichas?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133BF",
+      "FORMID": "0133BF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic162",
+      "FULL": "Você pode me ensinar como fazer isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133BE",
+      "FORMID": "0133BE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic163",
+      "FULL": "Talvez, se eu encontrar o que você está falando, você possa me avisar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133BD",
+      "FORMID": "0133BD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic164",
+      "FULL": "Você pode usar isso de alguma forma? Para fazer... fazer Fichas Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133B9",
+      "FORMID": "0133B9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic105",
+      "FULL": "Achei um dos seus esconderijos. Por que os deixou por aí na Villa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133B8",
+      "FORMID": "0133B8",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic106",
+      "FULL": "Arranjar suprimentos? Tipo o quê?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133B7",
+      "FORMID": "0133B7",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic109",
+      "FULL": "Como você faz isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133AF",
+      "FORMID": "0133AF",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic194",
+      "FULL": "Deixe-me dar uma olhada, talvez haja algo que eu possa fazer para proteger a área."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0133AE",
+      "FORMID": "0133AE",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic212",
+      "FULL": "Há um holograma guardando o pátio abaixo, você está coberto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01338D",
+      "FORMID": "01338D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic033",
+      "FULL": "Esse é o plano. Você vai conseguir fazer isso com segurança?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01338C",
+      "FORMID": "01338C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic034",
+      "FULL": "Eu poderia simplesmente enfiar os dois fios em você, fechar o circuito dessa forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01338B",
+      "FORMID": "01338B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic035",
+      "FULL": "Se reconectar os alto-falantes faz parte do Evento de Gala, sim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01338A",
+      "FORMID": "01338A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic036",
+      "FULL": "Olha, eu preciso que você fique aqui e faça isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013389",
+      "FORMID": "013389",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic190",
+      "FULL": "Se eu eliminar todos os Ghost People na área, você mudará de ideia?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013388",
+      "FORMID": "013388",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic191",
+      "FULL": "Certo. O que vai ser necessário?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013387",
+      "FORMID": "013387",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic192",
+      "FULL": "E se eu puder garantir que eles não entrarão no pátio abaixo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013386",
+      "FORMID": "013386",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic193",
+      "FULL": "Eu poderia simplesmente te jogar do telhado. Que tal isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013385",
+      "FORMID": "013385",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic195",
+      "FULL": "Ativei dois Hologramas para cobrir o pátio, eles devem te proteger."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013384",
+      "FORMID": "013384",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic196",
+      "FULL": "Okay, deixe-me ver se consigo reativar os Hologramas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013383",
+      "FORMID": "013383",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic197",
+      "FULL": "Eu não preciso te matar, você sabe."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013382",
+      "FORMID": "013382",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic198",
+      "FULL": "Morrer não estava nos meus planos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013380",
+      "FORMID": "013380",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic200",
+      "FULL": "Eu poderia quebrar suas duas pernas e deixá-lo aqui no telhado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01337F",
+      "FORMID": "01337F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic201",
+      "FULL": "Tudo o que preciso são suas mãos para segurar os fios."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01337E",
+      "FORMID": "01337E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic202",
+      "FULL": "Não, isso só significa que eu não voltaria para você. Nunca."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01337D",
+      "FORMID": "01337D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic203",
+      "FULL": "Se eu quebrar suas pernas, você não pode sair - apenas gritar. Aqui, no meio da cidade."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01337C",
+      "FORMID": "01337C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic204",
+      "FULL": "Faça o que eu digo, ou vou quebrar suas duas pernas e te deixar aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01337A",
+      "FORMID": "01337A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic206",
+      "FULL": "Se você não fizer isso, eu vou desligar os Hologramas agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013379",
+      "FORMID": "013379",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic207",
+      "FULL": "Dean... um homem com pés frios não é alguém com quem eu dividiria a cama."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013378",
+      "FORMID": "013378",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic208",
+      "FULL": "Olha, o que você quer fazer com isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013377",
+      "FORMID": "013377",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic209",
+      "FULL": "Apenas confie em mim, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013376",
+      "FORMID": "013376",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic210",
+      "FULL": "Acho que você pode contar com os Hologramas, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013375",
+      "FORMID": "013375",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic211",
+      "FULL": "Você já deve me conhecer o suficiente agora para saber que não vou te colocar em perigo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01331A",
+      "FORMID": "01331A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic000",
+      "FULL": "Você vai me dar a chave ou não?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013319",
+      "FORMID": "013319",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic001",
+      "FULL": "Pare de enrolar, entregue logo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013318",
+      "FORMID": "013318",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic004",
+      "FULL": "Esqueça, vou apenas te matar e pegar isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013317",
+      "FORMID": "013317",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic028",
+      "FULL": "Você é realmente tão estúpido assim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013316",
+      "FORMID": "013316",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic030",
+      "FULL": "Não estou interessado em matar você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013315",
+      "FORMID": "013315",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic032",
+      "FULL": "A Nuvem deteriorou seu cérebro? Esqueça a Sierra Madre!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01330B",
+      "FORMID": "01330B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic005",
+      "FULL": "Achei este Holodisco no seu cofre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01330A",
+      "FORMID": "01330A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic006",
+      "FULL": "{Odeia o PC}Era só isso que eu queria saber. Pronto para morrer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013309",
+      "FORMID": "013309",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic009",
+      "FULL": "Aposto que consigo descobrir como destrancar a saída sem você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013308",
+      "FORMID": "013308",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic022",
+      "FULL": "Não, com base na sua resposta, tenho certeza disso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013307",
+      "FORMID": "013307",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic023",
+      "FULL": "Me dá a chave, Dean, e você sai andando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013306",
+      "FORMID": "013306",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic024",
+      "FULL": "Tenho certeza de que você tem isso. Agora, vou apenas te matar e pegar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013305",
+      "FORMID": "013305",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic025",
+      "FULL": "Acho que ela estava doente, sim. Encontrei um relatório médico na Suíte dela."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013304",
+      "FORMID": "013304",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic026",
+      "FULL": "Por que você precisava dela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013303",
+      "FORMID": "013303",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic027",
+      "FULL": "Não sei."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013301",
+      "FORMID": "013301",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic002",
+      "FULL": "Vamos lá, Dean, me transformar em cinzas? Não é exatamente a maneira de terminar uma bela parceria."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F5",
+      "FORMID": "0132F5",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic089",
+      "FULL": "Segurança? Que segurança?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F4",
+      "FORMID": "0132F4",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic150",
+      "FULL": "Por mim, tudo bem. Vamos lá, vamos resolver isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F3",
+      "FORMID": "0132F3",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic153",
+      "FULL": "E os colares, hein? Me mate, e..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F2",
+      "FORMID": "0132F2",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic180",
+      "FULL": "Sério? O que te faz pensar que pode escapar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F1",
+      "FORMID": "0132F1",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic181",
+      "FULL": "Eu acho que eu deveria ter imaginado que você teria um plano de fuga. Esperto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132F0",
+      "FORMID": "0132F0",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic182",
+      "FULL": "Sou tão previsível assim, não sou? Você provavelmente está certo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132EF",
+      "FORMID": "0132EF",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic183",
+      "FULL": "...vá para os bastidores, destrua todos os alto-falantes, pegue todas as chaves, depois desligue a segurança..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132EE",
+      "FORMID": "0132EE",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic184",
+      "FULL": "Então, contanto que eu me certifique de não correr para a saída..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132ED",
+      "FORMID": "0132ED",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic185",
+      "FULL": "...esse plano parece bem claro para mim. Entendi."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132EC",
+      "FORMID": "0132EC",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic186",
+      "FULL": "Sério? Você é um péssimo mentiroso. Vejo você em breve, Dean."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132EB",
+      "FORMID": "0132EB",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic187",
+      "FULL": "Vamos falar mais sobre isso quando estivermos cara a cara."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132EA",
+      "FORMID": "0132EA",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic188",
+      "FULL": "Acho que vou tentar a chave e ver o que acontece."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132E9",
+      "FORMID": "0132E9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic189",
+      "FULL": "Posso lidar com um cantor de lounge decadente de 200 anos, confie em mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01329B",
+      "FORMID": "01329B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic148",
+      "FULL": "O que você está fazendo com uma chave do quarto dela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01329A",
+      "FORMID": "01329A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic149",
+      "FULL": "A chave é uma música de Vera Keyes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013299",
+      "FORMID": "013299",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic151",
+      "FULL": "Contanto que eu restabeleça uma frequência para cada andar, posso reconstruir a música."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013298",
+      "FORMID": "013298",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic152",
+      "FULL": "A música ainda existe em fragmentos nos arquivos da Sierra Madre em cada andar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013297",
+      "FORMID": "013297",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic154",
+      "FULL": "<Mentir> Ainda não tenho certeza de como fazer isso. Você disse que tinha uma gravação lá fora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013296",
+      "FORMID": "013296",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic155",
+      "FULL": "A pessoa que colocou esses colares em nós queria que eu lidasse com todos primeiro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013295",
+      "FORMID": "013295",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic156",
+      "FULL": "Espere - você disse que tem uma dentro? Onde está a gravação da música que você tem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013294",
+      "FORMID": "013294",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic157",
+      "FULL": "Christine está viva. Dog... bem..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013293",
+      "FORMID": "013293",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic158",
+      "FULL": "Christine está morta. Dog... bem..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013292",
+      "FORMID": "013292",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic159",
+      "FULL": "<Mentir> Se por \"gravação lá dentro\" você quis dizer Christine, ela está morta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013291",
+      "FORMID": "013291",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic160",
+      "FULL": "Se por \"gravação lá dentro\", você quis dizer Christine, ela está morta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013290",
+      "FORMID": "013290",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic161",
+      "FULL": "A pessoa que colocou esses colares em nós queria que eu lidasse com todos primeiro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328F",
+      "FORMID": "01328F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic162",
+      "FULL": "Não - acredite ou não, eu não ia deixar você morrer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328E",
+      "FORMID": "01328E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic163",
+      "FULL": "Se isso significa que posso sair vivo daqui, sim, é por isso que estou aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328D",
+      "FORMID": "01328D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic164",
+      "FULL": "Sim, esse é o próximo passo. Você vai ficar bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328C",
+      "FORMID": "01328C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic165",
+      "FULL": "Agora que estabeleci o sinal para este andar, sim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328B",
+      "FORMID": "01328B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic166",
+      "FULL": "O terminal pode unir os fragmentos, só preciso finalizar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01328A",
+      "FORMID": "01328A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic167",
+      "FULL": "<Não Traduzir: Nós de Armazenamento Adicionais>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013289",
+      "FORMID": "013289",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic168",
+      "FULL": "Espere, você estava tentando contrabandear um para dentro? Onde está?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013288",
+      "FORMID": "013288",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic169",
+      "FULL": "Se você estava usando o modulador de voz da Christine para contrabandear a voz da Vera, ela está morta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013287",
+      "FORMID": "013287",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic170",
+      "FULL": "<Mentir> Se a cirurgia na garganta de Christine era seu plano, tarde demais, ela está morta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013286",
+      "FORMID": "013286",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic171",
+      "FULL": "Christine está viva. Dog... bem..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013285",
+      "FORMID": "013285",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic172",
+      "FULL": "Christine está morta. Dog... bem..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013284",
+      "FORMID": "013284",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic173",
+      "FULL": "Ainda tentando descobrir. Não tenho certeza."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013283",
+      "FORMID": "013283",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic174",
+      "FULL": "Todos ainda estão vivos em cada andar - incluindo você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327F",
+      "FORMID": "01327F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic175",
+      "FULL": "Achei este Holodisco no seu cofre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327E",
+      "FORMID": "01327E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic176",
+      "FULL": "Você estava chantageando Vera Keyes para invadir a Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327D",
+      "FORMID": "01327D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic177",
+      "FULL": "O que você queria que ela fizesse?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327C",
+      "FORMID": "01327C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic178",
+      "FULL": "Com o que você estava chantageando ela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327B",
+      "FORMID": "01327B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic179",
+      "FULL": "Era só isso que eu queria saber. Vou sair, ver o que posso fazer do meu lado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013276",
+      "FORMID": "013276",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic147",
+      "FULL": "Então eu vou até a porta trancada, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013272",
+      "FORMID": "013272",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic141",
+      "FULL": "Sim, mas se eu correr, e os Hologramas de Segurança?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013271",
+      "FORMID": "013271",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic146",
+      "FULL": "Tudo bem, faz sentido. Onde está a música?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013262",
+      "FORMID": "013262",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic132",
+      "FULL": "Espere, que Hologramas? Do que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013261",
+      "FORMID": "013261",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic133",
+      "FULL": "Eu não vi nenhuma segurança entrando - só os alto-falantes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013260",
+      "FORMID": "013260",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic134",
+      "FULL": "Então, como eu te tiro daí?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325F",
+      "FORMID": "01325F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic135",
+      "FULL": "Certo, vou em direção à porta à esquerda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325E",
+      "FORMID": "01325E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic136",
+      "FULL": "Uh... mais alguma coisa que você possa me contar que ajude? Alguma coisa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325D",
+      "FORMID": "01325D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic137",
+      "FULL": "O sistema de segurança desse cassino está me irritando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325C",
+      "FORMID": "01325C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic138",
+      "FULL": "E os alto-falantes aqui dentro?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325B",
+      "FORMID": "01325B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic139",
+      "FULL": "Acalme-se, pense. Você sabe especificamente onde?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01325A",
+      "FORMID": "01325A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic140",
+      "FULL": "Um problema de cada vez. Respire fundo, tente se lembrar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013258",
+      "FORMID": "013258",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic142",
+      "FULL": "Ainda bem que você mencionou isso antes de eu correr para lá, \"parceiro\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013257",
+      "FORMID": "013257",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic143",
+      "FULL": "E quanto aos rádios e alto-falantes - e quanto a um sistema de som central?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013256",
+      "FORMID": "013256",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic144",
+      "FULL": "Continue. O que mais?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013255",
+      "FORMID": "013255",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic145",
+      "FULL": "Existe um console que os executa ou vários?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012FA0",
+      "FORMID": "012FA0",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic131",
+      "FULL": "Não estou te seguindo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B8A",
+      "FORMID": "012B8A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic003",
+      "FULL": "Sabe algo sobre esse Evento de Gala que devemos ativar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B89",
+      "FORMID": "012B89",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic008",
+      "FULL": "Holograma \"Vera\"? Você conhece a mulher holográfica?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B88",
+      "FORMID": "012B88",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic074",
+      "FULL": "De acordo com o marcador, você está destinado a um lugar em Puesta del Sol."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B87",
+      "FORMID": "012B87",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic083",
+      "FULL": "Alguma ideia do porquê ele quer você lá?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B86",
+      "FORMID": "012B86",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic112",
+      "FULL": "E quanto a Christine?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B85",
+      "FORMID": "012B85",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic113",
+      "FULL": "E a mulher? A vítima do Auto-Doc - o que aconteceu com ela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B84",
+      "FORMID": "012B84",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic114",
+      "FULL": "Interessante? Interessante como?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B83",
+      "FORMID": "012B83",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic115",
+      "FULL": "O que acontece durante o Evento de Gala?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B82",
+      "FORMID": "012B82",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic116",
+      "FULL": "Antes, você mencionou o Holograma na Fonte - Vera? Você a conhece?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B81",
+      "FORMID": "012B81",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic117",
+      "FULL": "Você pode me falar sobre ela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B80",
+      "FORMID": "012B80",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic118",
+      "FULL": "Apresentações? Já a conhecia antes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7F",
+      "FORMID": "012B7F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic119",
+      "FULL": "Então você a conheceu antes de ela conhecer Sinclair?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7E",
+      "FORMID": "012B7E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic120",
+      "FULL": "Encontrei alguns registros médicos na Clínica da Villa. Você a trouxe para tratamento, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7D",
+      "FORMID": "012B7D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic121",
+      "FULL": "Então os visitantes se mataram?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7C",
+      "FORMID": "012B7C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic122",
+      "FULL": "O que aconteceu com as pessoas que vieram para a Villa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7B",
+      "FORMID": "012B7B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic123",
+      "FULL": "Algum conselho para passar por isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B7A",
+      "FORMID": "012B7A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic124",
+      "FULL": "O Evento de Gala está ligado aos geradores do cassino?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B79",
+      "FORMID": "012B79",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic125",
+      "FULL": "Como a Gala está ligada ao cassino? Isso não faz sentido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B78",
+      "FORMID": "012B78",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic126",
+      "FULL": "Por que a segurança seria desligada para a Gala?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B77",
+      "FORMID": "012B77",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic127",
+      "FULL": "O que você quer dizer sobre a transmissão da Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B76",
+      "FORMID": "012B76",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic128",
+      "FULL": "Então... não é um convite, é um pedido de ajuda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B75",
+      "FORMID": "012B75",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic129",
+      "FULL": "As bombas caíram, e o sinal de emergência foi enviado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B74",
+      "FORMID": "012B74",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic130",
+      "FULL": "Ela esteve transmitindo todo esse tempo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B6D",
+      "FORMID": "012B6D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic149",
+      "FULL": "Acha que ele pode estar perto, então. Alguma ideia de onde?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B6C",
+      "FORMID": "012B6C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic150",
+      "FULL": "Ele teria que estar transmitindo de algum lugar por perto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B6B",
+      "FORMID": "012B6B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic151",
+      "FULL": "Você faz um transmissor bem vagabundo, sabe?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B5E",
+      "FORMID": "012B5E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic000",
+      "FULL": "Esse é o nosso captor. Ele gosta de dar ordens."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B5D",
+      "FORMID": "012B5D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic004",
+      "FULL": "O quê? O que foi?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B5C",
+      "FORMID": "012B5C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic065",
+      "FULL": "Esse é o projetor de holograma na Fonte. O que tem ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B5B",
+      "FORMID": "012B5B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic133",
+      "FULL": "Precisamos acionar o evento como ele diz."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B5A",
+      "FORMID": "012B5A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic134",
+      "FULL": "Ele deixa registros de áudio também."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B59",
+      "FORMID": "012B59",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic135",
+      "FULL": "Mostre a ela o Pip-Boy."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B58",
+      "FORMID": "012B58",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic136",
+      "FULL": "De jeito nenhum vou te dar isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B57",
+      "FORMID": "012B57",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic137",
+      "FULL": "O quê? O que você quer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B56",
+      "FORMID": "012B56",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic138",
+      "FULL": "Eu não quero que você mexa com isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B54",
+      "FORMID": "012B54",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic140",
+      "FULL": "Tive que levar um tiro na cara por isso. Arranje o seu próprio!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B53",
+      "FORMID": "012B53",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic141",
+      "FULL": "Cuidado, esse é o meu braço, tudo bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B52",
+      "FORMID": "012B52",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic142",
+      "FULL": "Sem problemas, vou ficar aqui como um móvel até você terminar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B50",
+      "FORMID": "012B50",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic144",
+      "FULL": "Você parece bem ansioso para ir."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B4F",
+      "FORMID": "012B4F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic145",
+      "FULL": "Por que você acha que ele quer que você vá para a Estação de Comutação Puesta del Sol?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B4E",
+      "FORMID": "012B4E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic146",
+      "FULL": "Eu... só consigo digitar com dois dedos?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B4D",
+      "FORMID": "012B4D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic147",
+      "FULL": "Eu não sei do que você está falando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B45",
+      "FORMID": "012B45",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic114",
+      "FULL": "Alguma razão para você estar designado para este ponto no mapa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B44",
+      "FORMID": "012B44",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic115",
+      "FULL": "{Global}Ouvi dizer que eletricidade e rádios podem causar, uh, vozes na cabeça das pessoas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B34",
+      "FORMID": "012B34",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic010",
+      "FULL": "O que você sabe sobre o Evento de Gala?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B33",
+      "FORMID": "012B33",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic039",
+      "FULL": "Você sabe de mais alguma coisa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B32",
+      "FORMID": "012B32",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic102",
+      "FULL": "Dog disse que ele já ativou o Evento de Gala uma vez."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B31",
+      "FORMID": "012B31",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic103",
+      "FULL": "Algo sobre luzes e cores, não muito mais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B30",
+      "FORMID": "012B30",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic104",
+      "FULL": "Ele disse que o cassino abriu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2F",
+      "FORMID": "012B2F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic105",
+      "FULL": "Se o cassino foi aberto, então por que estamos aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2E",
+      "FORMID": "012B2E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic106",
+      "FULL": "Se ele ficou preso, por que não ativou os colares?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2D",
+      "FORMID": "012B2D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic107",
+      "FULL": "Ele não poderia ter ordenado que você o resgatasse?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2C",
+      "FORMID": "012B2C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic108",
+      "FULL": "O cassino bloqueia o sinal?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2B",
+      "FORMID": "012B2B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic109",
+      "FULL": "Então, o que aconteceu depois?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B2A",
+      "FORMID": "012B2A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic110",
+      "FULL": "Sobre o que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B29",
+      "FORMID": "012B29",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic111",
+      "FULL": "Então, como as coleiras estão ativas de novo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B28",
+      "FORMID": "012B28",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic112",
+      "FULL": "Ele não pode ter configurado um interruptor de homem morto assim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B18",
+      "FORMID": "012B18",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic040",
+      "FULL": "Como você alterna entre as vozes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B17",
+      "FORMID": "012B17",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic041",
+      "FULL": "{Deus}Precisamos discutir táticas... e posicionamento."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B16",
+      "FORMID": "012B16",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic089",
+      "FULL": "Por que isso o faz ir embora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B15",
+      "FORMID": "012B15",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic090",
+      "FULL": "Bem... bem verdade. Realmente usa muito a palavra \"Mestre\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B14",
+      "FORMID": "012B14",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic091",
+      "FULL": "Parece que isso te deixa puto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B13",
+      "FORMID": "012B13",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic092",
+      "FULL": "O que Elijah faz com Dog que te irrita tanto?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B12",
+      "FORMID": "012B12",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic093",
+      "FULL": "Você não pode fazer nada?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B11",
+      "FORMID": "012B11",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic094",
+      "FULL": "Não estar no controle te incomoda tanto assim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B10",
+      "FORMID": "012B10",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic095",
+      "FULL": "Você se importa com ele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0F",
+      "FORMID": "012B0F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic096",
+      "FULL": "Por que você não pode controlá-lo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0E",
+      "FORMID": "012B0E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic097",
+      "FULL": "{Global}Levar uma pancada na cabeça fez você começar a agir assim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0D",
+      "FORMID": "012B0D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic098",
+      "FULL": "{Global}Onde está sua coleira?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0C",
+      "FORMID": "012B0C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic099",
+      "FULL": "Quero saber mais sobre o homem que nos trouxe aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0B",
+      "FORMID": "012B0B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic100",
+      "FULL": "O que Elijah está fazendo aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012B0A",
+      "FORMID": "012B0A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic101",
+      "FULL": "O que Dog sabe?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFF",
+      "FORMID": "012AFF",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic029",
+      "FULL": "Dog, você sabe por que tem que ir para a posição no mapa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFE",
+      "FORMID": "012AFE",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic031",
+      "FULL": "Então o Mestre desapareceu por volta dessa época."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFD",
+      "FORMID": "012AFD",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic033",
+      "FULL": "Se o cassino já abriu, o que estamos fazendo aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFC",
+      "FORMID": "012AFC",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic036",
+      "FULL": "Você sabe há quanto tempo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFB",
+      "FORMID": "012AFB",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic040",
+      "FULL": "Você pode me contar mais sobre o Evento de Gala acontecendo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AFA",
+      "FORMID": "012AFA",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic041",
+      "FULL": "Você pode me falar sobre a outra voz dentro de você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AF9",
+      "FORMID": "012AF9",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic042",
+      "FULL": "Você me trouxe aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AF8",
+      "FORMID": "012AF8",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic043",
+      "FULL": "Você sabe o caminho de volta?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AF7",
+      "FORMID": "012AF7",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic064",
+      "FULL": "Eu poderia encontrar o caminho de volta?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AF6",
+      "FORMID": "012AF6",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic065",
+      "FULL": "O Mestre parece que te trata bem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AF1",
+      "FORMID": "012AF1",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic006",
+      "FULL": "Tenho ordens para você - para ir, ficar, tudo isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD9",
+      "FORMID": "012AD9",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic035",
+      "FULL": "Sim, bem, vou fazer o Dog me ajudar. Não deve ser difícil entender toda essa coisa de fios."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD8",
+      "FORMID": "012AD8",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic036",
+      "FULL": "Se eu trouxer comida, isso vai acalmar o Dog?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD7",
+      "FORMID": "012AD7",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic037",
+      "FULL": "<Mentir> Só... fique aqui no pátio, eu vou buscar comida."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD6",
+      "FORMID": "012AD6",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic086",
+      "FULL": "É por isso que você tem uma armadilha de urso presa no seu braço?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD5",
+      "FORMID": "012AD5",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic091",
+      "FULL": "Seu nome está gravado no seu peito. Isso faz parte disso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD4",
+      "FORMID": "012AD4",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic092",
+      "FULL": "Você pode me falar sobre a voz?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD3",
+      "FORMID": "012AD3",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic093",
+      "FULL": "{Cão}Eu tinha outras perguntas para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD2",
+      "FORMID": "012AD2",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic094",
+      "FULL": "Me ouvir voz, também? Então cheguei aqui, lugar ruim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD1",
+      "FORMID": "012AD1",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic095",
+      "FULL": "Também não gosto daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AD0",
+      "FORMID": "012AD0",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic096",
+      "FULL": "Voz no ar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACF",
+      "FORMID": "012ACF",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic097",
+      "FULL": "O que você come?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACE",
+      "FORMID": "012ACE",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic038",
+      "FULL": "{Deus}Eu tinha outras perguntas para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACD",
+      "FORMID": "012ACD",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic098",
+      "FULL": "Não!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACC",
+      "FORMID": "012ACC",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic099",
+      "FULL": "Por que você quer parecer com o chão?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACB",
+      "FORMID": "012ACB",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic100",
+      "FULL": "Deve ter sido difícil te ver."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ACA",
+      "FORMID": "012ACA",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic101",
+      "FULL": "Talvez você volte algum dia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC9",
+      "FORMID": "012AC9",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic102",
+      "FULL": "Onde a Igreja agora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC8",
+      "FORMID": "012AC8",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic103",
+      "FULL": "Parece bom. Ainda está lá?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC7",
+      "FORMID": "012AC7",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic104",
+      "FULL": "De onde vem a voz?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC6",
+      "FORMID": "012AC6",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic105",
+      "FULL": "Parece uma boa troca."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC5",
+      "FORMID": "012AC5",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic106",
+      "FULL": "Quero ouvir mais sobre o Mestre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC4",
+      "FORMID": "012AC4",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic107",
+      "FULL": "Onde está sua coleira?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC3",
+      "FORMID": "012AC3",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic108",
+      "FULL": "O que é a outra voz?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AC2",
+      "FORMID": "012AC2",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic109",
+      "FULL": "Você sabe como acordá-lo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ABC",
+      "FORMID": "012ABC",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic087",
+      "FULL": "Você pode me dizer como você chegou à Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ABB",
+      "FORMID": "012ABB",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic088",
+      "FULL": "Essas cicatrizes no seu corpo - onde você as conseguiu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012ABA",
+      "FORMID": "012ABA",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic089",
+      "FULL": "Preciso que você fique aqui e acione os interruptores."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AB9",
+      "FORMID": "012AB9",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic090",
+      "FULL": "{Cão}Já chega por agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA7",
+      "FORMID": "012AA7",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic071",
+      "FULL": "Se eu não puder provar isso para você, então esqueça, vou trazer o Dog."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA6",
+      "FORMID": "012AA6",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic072",
+      "FULL": "<Tocar Fita de Áudio de Elijah.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA5",
+      "FORMID": "012AA5",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic082",
+      "FULL": "Eu acho... o alarme lá fora é um barulho e tanto, no entanto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA4",
+      "FORMID": "012AA4",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic003",
+      "FULL": "Precisamos te levar ao Evento de Gala. Te levar ao seu lugar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA3",
+      "FORMID": "012AA3",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic059",
+      "FULL": "Cachorro, você sabe por que tem que ir para a posição neste mapa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA2",
+      "FORMID": "012AA2",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic060",
+      "FULL": "Isso é importante - você se lembra exatamente do que aconteceu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA1",
+      "FORMID": "012AA1",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic062",
+      "FULL": "Hum... você quer falar sobre isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012AA0",
+      "FORMID": "012AA0",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic084",
+      "FULL": "Então o Evento de Gala foi acionado pelo menos uma vez?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A9F",
+      "FORMID": "012A9F",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic063",
+      "FULL": "Espera, o cassino já abriu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A92",
+      "FORMID": "012A92",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic059",
+      "FULL": "Então Dog poderia simplesmente abrir a porta a qualquer momento?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A91",
+      "FORMID": "012A91",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic065",
+      "FULL": "Algo me diz que eu poderia guiar Dog para destrancar uma porta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A8E",
+      "FORMID": "012A8E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic005",
+      "FULL": "Parece que Dog pode estar mais disposto a sair da jaula do que você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A8D",
+      "FORMID": "012A8D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic054",
+      "FULL": "Não posso partir até resolvermos isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A53",
+      "FORMID": "012A53",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic042",
+      "FULL": "Eu estava procurando por alguém com um colar como o meu. Onde está o seu colar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A52",
+      "FORMID": "012A52",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic043",
+      "FULL": "Por que você se trancou na jaula?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A51",
+      "FORMID": "012A51",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic044",
+      "FULL": "Preciso tirar você de lá."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A50",
+      "FORMID": "012A50",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic045",
+      "FULL": "Se você não estava me esperando, por quem estava esperando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4F",
+      "FORMID": "012A4F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic046",
+      "FULL": "Se aquele colar dentro de você estiver ativo, eu não o liguei."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4E",
+      "FORMID": "012A4E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic047",
+      "FULL": "Como diabos você... ou seja lá quem for... comeu uma dessas coleiras?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4D",
+      "FORMID": "012A4D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic048",
+      "FULL": "Talvez você não devesse sair por aí enfiando tecnologia do Velho Mundo no seu estômago."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4C",
+      "FORMID": "012A4C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic049",
+      "FULL": "Esqueça. Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4B",
+      "FORMID": "012A4B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic050",
+      "FULL": "Você sabe como eu cheguei aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A4A",
+      "FORMID": "012A4A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic051",
+      "FULL": "Por que você diz que sou igual ao Velho?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A49",
+      "FORMID": "012A49",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic052",
+      "FULL": "Este Velho, o que você sabe sobre ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A48",
+      "FORMID": "012A48",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic053",
+      "FULL": "Você me trouxe aqui para a Villa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A46",
+      "FORMID": "012A46",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic055",
+      "FULL": "Então você sabe o caminho de volta?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A45",
+      "FORMID": "012A45",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic056",
+      "FULL": "Por que você diz isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A44",
+      "FORMID": "012A44",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic057",
+      "FULL": "Não me lembro, só acordei quando meu Pip-Boy ativou."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A43",
+      "FORMID": "012A43",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic058",
+      "FULL": "Não faço ideia, estive inconsciente o tempo todo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A41",
+      "FORMID": "012A41",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic060",
+      "FULL": "Queimado pelo sol?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A40",
+      "FORMID": "012A40",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic061",
+      "FULL": "O que ele está fazendo aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A3F",
+      "FORMID": "012A3F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic062",
+      "FULL": "Então, por que você me trouxe aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A3E",
+      "FORMID": "012A3E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic063",
+      "FULL": "Se você o trancou... você... lá dentro, e se não conseguisse sair?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A3D",
+      "FORMID": "012A3D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic064",
+      "FULL": "Espere. Então você... ou Dog... não sabe que a chave está com ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A3B",
+      "FORMID": "012A3B",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic000",
+      "FULL": "Então... você está trancado aí? Onde está a chave?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A3A",
+      "FORMID": "012A3A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic066",
+      "FULL": "Por que você se cercou de todos esses rádios?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A39",
+      "FORMID": "012A39",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic067",
+      "FULL": "Se você não vier comigo, ele vai detonar nossos colares - o seu e o meu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A38",
+      "FORMID": "012A38",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic068",
+      "FULL": "Eu poderia ordenar que o Dog viesse comigo. Aposto que ele obedeceria."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A37",
+      "FORMID": "012A37",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic069",
+      "FULL": "A chave está aí com você - e Dog."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A36",
+      "FORMID": "012A36",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic070",
+      "FULL": "Eu poderia simplesmente dizer ao Dog que ele tem a chave."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A33",
+      "FORMID": "012A33",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic073",
+      "FULL": "Você quer morrer? Cooperem, ou vocês dois estão mortos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A32",
+      "FORMID": "012A32",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic074",
+      "FULL": "Se ele ouvir a voz do Velho, ele fará o que o Velho disser."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A31",
+      "FORMID": "012A31",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic075",
+      "FULL": "Posso reproduzir a voz dele, sim. Tenho um registro de áudio dele no meu Pip-Boy."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A30",
+      "FORMID": "012A30",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic076",
+      "FULL": "A voz do Velho está no meu Pip-Boy, assim como a sua."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A2F",
+      "FORMID": "012A2F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic077",
+      "FULL": "Eu também quero minha liberdade. Você acha que eu gosto de ter esse colar em mim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A2E",
+      "FORMID": "012A2E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic078",
+      "FULL": "E se formos atrás do Velho juntos?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A2D",
+      "FORMID": "012A2D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic079",
+      "FULL": "Adeus, seja lá quem você for... Vou soltar o Dog da sua jaula."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A2C",
+      "FORMID": "012A2C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic080",
+      "FULL": "Calma. Siga-me, de boa vontade, eu não farei isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A2B",
+      "FORMID": "012A2B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic081",
+      "FULL": "Eu tenho o poder de soltar o Dog da sua jaula. Vou provar isso não fazendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A29",
+      "FORMID": "012A29",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic083",
+      "FULL": "Não posso convencê-lo de que não estou aqui pela Sierra Madre ou pelo Velho, então vou provar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A27",
+      "FORMID": "012A27",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic085",
+      "FULL": "Mesmo que Dog seja mais útil, podemos lidar com isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A26",
+      "FORMID": "012A26",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic086",
+      "FULL": "Nesse caso, eu vou trazê-lo comigo, não preciso de você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A25",
+      "FORMID": "012A25",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic087",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A24",
+      "FORMID": "012A24",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic088",
+      "FULL": "Surpreso que conseguiram te ouvir por cima do alarme lá fora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A22",
+      "FORMID": "012A22",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic011",
+      "FULL": "Dog, a chave está escondida em você. Encontre-a e jogue-a para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A21",
+      "FORMID": "012A21",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic012",
+      "FULL": "Preciso da sua obediência. Primeiro, vou te mostrar um truque."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A20",
+      "FORMID": "012A20",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic013",
+      "FULL": "Agora que você está acordado, Mestre quer que você escute, Dog."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A1F",
+      "FORMID": "012A1F",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic014",
+      "FULL": "Apenas me dê a chave - você quer sair da jaula, não quer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A1E",
+      "FORMID": "012A1E",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic016",
+      "FULL": "Cale a boca, rejeitado, e me dê a chave. Agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A1D",
+      "FORMID": "012A1D",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic019",
+      "FULL": "Certo. Vamos, me siga."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A1C",
+      "FORMID": "012A1C",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic020",
+      "FULL": "Vá para a Fonte e espere por mim lá."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012A1B",
+      "FORMID": "012A1B",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic058",
+      "FULL": "Alcance a corrente no seu pescoço, veja se consegue encontrar uma chave."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01265D",
+      "FORMID": "01265D",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic001",
+      "FULL": "Você bateu a cabeça ou algo assim? Você está agindo de forma estranha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01265C",
+      "FORMID": "01265C",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic002",
+      "FULL": "Ouvi dizer que eletricidade e rádios podem causar, uh, vozes na cabeça das pessoas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01265B",
+      "FORMID": "01265B",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic004",
+      "FULL": "<Nó de Armazenamento. Abrindo Tópicos. Não Traduzir.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01265A",
+      "FORMID": "01265A",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic005",
+      "FULL": "O que você é, exatamente? Você está agindo de forma diferente de antes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CF",
+      "FORMID": "0124CF",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic051",
+      "FULL": "Você não está me dando escolha, eu tenho que te parar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CE",
+      "FORMID": "0124CE",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic071",
+      "FULL": "Tudo bem, rejeite. Você quer morrer? Eu vou te acomodar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CD",
+      "FORMID": "0124CD",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic072",
+      "FULL": "Dog, essa voz não te controla, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CC",
+      "FORMID": "0124CC",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic034",
+      "FULL": "Dog... não faça isso, ouça-me, minha voz."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CB",
+      "FORMID": "0124CB",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic074",
+      "FULL": "Morda, mastigue até ficar em silêncio, depois engula."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124CA",
+      "FORMID": "0124CA",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic075",
+      "FULL": "Esqueça. Estou cansado de te arrastar por aí de qualquer forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124C9",
+      "FORMID": "0124C9",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic076",
+      "FULL": "Não quero te fazer mal... você só precisa se acalmar, focar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124C8",
+      "FORMID": "0124C8",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic079",
+      "FULL": "Olha, ouça minha voz, talvez... talvez eu possa ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0124C7",
+      "FORMID": "0124C7",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic080",
+      "FULL": "Talvez você só... uh... precise ouvir outra voz, como a minha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012234",
+      "FORMID": "012234",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic010",
+      "FULL": "Não, segure firmemente pelo pescoço - agora afunde seus dentes nele, rasgue-o."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012233",
+      "FORMID": "012233",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic015",
+      "FULL": "Você não está com fome? Vá em frente - coma, pedaço por pedaço."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012232",
+      "FORMID": "012232",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic017",
+      "FULL": "Sim, bem, isso precisava ser feito. Agora, preciso que você permaneça aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012231",
+      "FORMID": "012231",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic018",
+      "FULL": "Tenho alguns assuntos inacabados. Você vai ficar bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012230",
+      "FORMID": "012230",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic048",
+      "FULL": "Bom... bem feito, Dog. Estou satisfeito. Agora fique."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222F",
+      "FORMID": "01222F",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic057",
+      "FULL": "Feche os olhos e só os abra se a voz mandar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222E",
+      "FORMID": "01222E",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic061",
+      "FULL": "Boa noite, Dog. Você não vai acordar, nunca mais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222D",
+      "FORMID": "01222D",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic066",
+      "FULL": "É isso, durma, rejeite. Durma como os mortos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222C",
+      "FORMID": "01222C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic016",
+      "FULL": "Você vai ficar bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222B",
+      "FORMID": "01222B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic017",
+      "FULL": "Agora, se você o tem sob controle, preciso terminar as coisas aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01222A",
+      "FORMID": "01222A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic018",
+      "FULL": "Contanto que você não esteja planejando explodir o cassino agora, ótimo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012229",
+      "FORMID": "012229",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic067",
+      "FULL": "Tente imaginar a voz, por dentro, e, uh, vire-se e olhe para ela."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012228",
+      "FORMID": "012228",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic068",
+      "FULL": "Então... entre na água, entre em si mesmo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012227",
+      "FORMID": "012227",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic069",
+      "FULL": "Você sabe o que acontece se você entrar na água, Dog?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012226",
+      "FORMID": "012226",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic070",
+      "FULL": "Agora que você vê, quero que você dê um passo para trás, ouça a voz novamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012225",
+      "FORMID": "012225",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic019",
+      "FULL": "Não ter sua ajuda não importa se isso te curar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012224",
+      "FORMID": "012224",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic020",
+      "FULL": "Eu não quero que você esteja sob o controle de ninguém, nem mesmo o meu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012223",
+      "FORMID": "012223",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic021",
+      "FULL": "Então eu não quero que você se unir, eu preciso de você aqui... Dog, ouça minha voz. Dog?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012222",
+      "FORMID": "012222",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic022",
+      "FULL": "Chegamos até aqui, eu vou me virar. Vá em frente, solte."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012221",
+      "FORMID": "012221",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic023",
+      "FULL": "Prometo que tentarei não ser morto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012220",
+      "FORMID": "012220",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic024",
+      "FULL": "Apenas vá antes que eu mude de ideia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221F",
+      "FORMID": "01221F",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic025",
+      "FULL": "Cachorro?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221E",
+      "FORMID": "01221E",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic026",
+      "FULL": "Você está bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221D",
+      "FORMID": "01221D",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic027",
+      "FULL": "Sua voz... está diferente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221C",
+      "FORMID": "01221C",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic028",
+      "FULL": "Levaria muito tempo para explicar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221B",
+      "FORMID": "01221B",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic029",
+      "FULL": "Uma jaula... mas pelo menos você não está em duas delas agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01221A",
+      "FORMID": "01221A",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic030",
+      "FULL": "Estamos presos dentro de um cassino em uma cidade venenosa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012219",
+      "FORMID": "012219",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic031",
+      "FULL": "Vá em frente e descanse. Eu preciso cuidar de algo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012218",
+      "FORMID": "012218",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic032",
+      "FULL": "Se você conseguir reunir forças para partir, faça isso - rapidamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012217",
+      "FORMID": "012217",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic033",
+      "FULL": "Tudo bem, não demore muito, ou será uma recuperação curta, confie em mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F58",
+      "FORMID": "011F58",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic000",
+      "FULL": "Agora, agora... Eu vou deixar você sair quando o evento acabar. Talvez."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F57",
+      "FORMID": "011F57",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic001",
+      "FULL": "Guarde sua energia, ainda temos que fazer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F56",
+      "FORMID": "011F56",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic002",
+      "FULL": "Deve ser você, Christine. Fique parada, não é como se você tivesse escolha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F55",
+      "FORMID": "011F55",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic003",
+      "FULL": "Christine? Estamos quase prontos aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F54",
+      "FORMID": "011F54",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic004",
+      "FULL": "Só mais um pouco, e abriremos o cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F53",
+      "FORMID": "011F53",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01ChristineTopic005",
+      "FULL": "<Dê duas batidas de volta.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F52",
+      "FORMID": "011F52",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01DeanTopic000",
+      "FULL": "Vamos fazer isso. Na contagem de três... dois... um."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F51",
+      "FORMID": "011F51",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01DeanTopic001",
+      "FULL": "Estou pronto. Todos - acionem o evento."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F50",
+      "FORMID": "011F50",
+      "EDID": "NVDLC01GalaEventQuestNVDLC01DeanTopic002",
+      "FULL": "O show está prestes a começar. Pessoal, tomem seus lugares."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D8A",
+      "FORMID": "011D8A",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic007",
+      "FULL": "Vamos lá, então. Não vou facilitar para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D89",
+      "FORMID": "011D89",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic008",
+      "FULL": "Não pretendo fugir, é hora de matar vocês dois."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D88",
+      "FORMID": "011D88",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic009",
+      "FULL": "Dog... ouça-me... não faça isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D87",
+      "FORMID": "011D87",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic021",
+      "FULL": "O Mestre precisa que você puxe a corrente no seu pescoço o mais forte que puder."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D86",
+      "FORMID": "011D86",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic035",
+      "FULL": "Eu não consigo fazer isso - lutar é mais misericordioso do que isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D85",
+      "FORMID": "011D85",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic044",
+      "FULL": "Esqueça isso. Vamos, vamos lutar, seu grande rejeitado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D84",
+      "FORMID": "011D84",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic045",
+      "FULL": "Pronto para mais? Vamos, vamos terminar isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D83",
+      "FORMID": "011D83",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic046",
+      "FULL": "Dog... fique para trás, me escute."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D82",
+      "FORMID": "011D82",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic047",
+      "FULL": "Não, veja, eu não fui quem te prendeu aqui, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D81",
+      "FORMID": "011D81",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic049",
+      "FULL": "Cachorro, ouça a outra voz dentro de você agora. Vá dormir, deixe-o sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D80",
+      "FORMID": "011D80",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic050",
+      "FULL": "A outra voz? Veja-a em sua cabeça - não como uma voz, mas como uma bola, do tamanho da sua mão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D7E",
+      "FORMID": "011D7E",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic052",
+      "FULL": "Pegue essa corrente em volta do seu pescoço, segure as pontas e puxe devagar e com força até ouvir um estalo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D7D",
+      "FORMID": "011D7D",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic053",
+      "FULL": "<Nó de Armazenamento para Batalha Final, Gosta de Tópicos do Jogador. Não Traduzir.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D7C",
+      "FORMID": "011D7C",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic054",
+      "FULL": "Dog, se você fizer isso, vai se matar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D7B",
+      "FORMID": "011D7B",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic055",
+      "FULL": "Se você tentar queimar a voz dentro de você, este cassino será destruído, e nós junto com ele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D7A",
+      "FORMID": "011D7A",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic056",
+      "FULL": "Não há necessidade disso, vamos sair daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C62",
+      "FORMID": "011C62",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic097",
+      "FULL": "A menos que você desça aqui, vou destruir o cofre, tudo que está nele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C61",
+      "FORMID": "011C61",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic098",
+      "FULL": "Não estou interessado no cofre, só quero ir embora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C60",
+      "FORMID": "011C60",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic099",
+      "FULL": "Então encontrarei uma maneira de desvendar os segredos deste cofre, tomá-los para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5F",
+      "FORMID": "011C5F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic100",
+      "FULL": "Eu... Eu tenho quase certeza de que posso causar algum dano aqui embaixo. De alguma forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5E",
+      "FORMID": "011C5E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic101",
+      "FULL": "Parece que estou morto de qualquer forma, do jeito que você está falando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5D",
+      "FORMID": "011C5D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic103",
+      "FULL": "Negar a você o cofre da Sierra Madre valeria a pena."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5C",
+      "FORMID": "011C5C",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic104",
+      "FULL": "Ah, então você está disposto a arriscar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5B",
+      "FORMID": "011C5B",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic105",
+      "FULL": "Você... você não tem como transmitir aqui embaixo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C5A",
+      "FORMID": "011C5A",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic108",
+      "FULL": "Vou destruir a eletrônica, a fiação do cofre, talvez."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C59",
+      "FORMID": "011C59",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic109",
+      "FULL": "Espere até eu colocar as mãos nos computadores, nós vamos ver."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C58",
+      "FORMID": "011C58",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic111",
+      "FULL": "Talvez proteções demais, como você já descobriu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C57",
+      "FORMID": "011C57",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic112",
+      "FULL": "Destruir até mesmo um único fragmento de dados é mais do que você poderia suportar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C56",
+      "FORMID": "011C56",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic113",
+      "FULL": "Precauções? Se virou um apostador, fique no cassino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C55",
+      "FORMID": "011C55",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic115",
+      "FULL": "Hum... você tem certeza da frequência?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C54",
+      "FORMID": "011C54",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic116",
+      "FULL": "Bem... então você precisaria de alguma forma de transmitir isso, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C53",
+      "FORMID": "011C53",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic118",
+      "FULL": "Se é isso que é necessário para consertar isso, por mim tudo bem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C52",
+      "FORMID": "011C52",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic119",
+      "FULL": "O que eu faço de melhor é jogar uma chave inglesa nos planos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C51",
+      "FORMID": "011C51",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic120",
+      "FULL": "Deixar você esperando lá em cima para sempre sem um jeito de descer soa cada vez mais atraente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C50",
+      "FORMID": "011C50",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic121",
+      "FULL": "O que posso dizer para te convencer de que só quero ir?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4F",
+      "FORMID": "011C4F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic122",
+      "FULL": "Olha, me deixe sair, você entra no cofre, nós dois ficamos felizes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4E",
+      "FORMID": "011C4E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic123",
+      "FULL": "Você está certo, será diferente - tem sido diferente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4D",
+      "FORMID": "011C4D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic124",
+      "FULL": "Trabalharmos juntos nos permitiu chegar até aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4C",
+      "FORMID": "011C4C",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic125",
+      "FULL": "Cooperei até agora. Você garantiu isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4B",
+      "FORMID": "011C4B",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic126",
+      "FULL": "Mas... olha, eu quero cooperar, certo? Desça."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C4A",
+      "FORMID": "011C4A",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic127",
+      "FULL": "Sem armadilhas, apenas uma troca, você e o cofre, eu e a saída."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C49",
+      "FORMID": "011C49",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic128",
+      "FULL": "Você está certo, você tem tudo - exceto o cofre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C48",
+      "FORMID": "011C48",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic129",
+      "FULL": "Mas tudo isso - tudo isso não foi um obstáculo, foi o que te trouxe aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C47",
+      "FORMID": "011C47",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic130",
+      "FULL": "O tempo é uma mercadoria que você não tem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C46",
+      "FORMID": "011C46",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic132",
+      "FULL": "Se tiver uma fechadura... e deveria ter... eu posso arrombá-la. De alguma forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C45",
+      "FORMID": "011C45",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic133",
+      "FULL": "Contanto que você consiga me encontrar, quer dizer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C44",
+      "FORMID": "011C44",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic134",
+      "FULL": "Tudo bem, fique aí em cima e espere. Vou me manter ocupado aqui embaixo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C43",
+      "FORMID": "011C43",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic135",
+      "FULL": "O tamanho da fechadura não importa, apenas o conteúdo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C42",
+      "FORMID": "011C42",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic136",
+      "FULL": "Então há uma fechadura? Bom. Não tinha certeza até você dizer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C41",
+      "FORMID": "011C41",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic137",
+      "FULL": "Sim... bem... vou arrombar essa fechadura, não importa o quão difícil seja."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C40",
+      "FORMID": "011C40",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic138",
+      "FULL": "Previsão, seja lá o que for, não vai te ajudar a me encontrar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C3F",
+      "FORMID": "011C3F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic139",
+      "FULL": "Se você quer que eu espere, vou cooperar. A Sierra Madre não importa para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C3E",
+      "FORMID": "011C3E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic141",
+      "FULL": "Antes que isso vá mais longe, eu tinha perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C3D",
+      "FORMID": "011C3D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic142",
+      "FULL": "O que aconteceu depois?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C3C",
+      "FORMID": "011C3C",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic143",
+      "FULL": "Há outra coisa que eu queria saber."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C1E",
+      "FORMID": "011C1E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic078",
+      "FULL": "É um alto-falante deteriorado. Se ficarmos muito tempo perto de um, ele vai disparar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C1D",
+      "FORMID": "011C1D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic081",
+      "FULL": "O quê? O que agora?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C1C",
+      "FORMID": "011C1C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic093",
+      "FULL": "Vamos, precisamos continuar nos movendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C1B",
+      "FORMID": "011C1B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic100",
+      "FULL": "Não entendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C1A",
+      "FORMID": "011C1A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic125",
+      "FULL": "O quê? Você pode fazer os alto-falantes pararem ou algo assim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C19",
+      "FORMID": "011C19",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic126",
+      "FULL": "Você... uh... alto-falantes fazem um ritmo... ou...?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C18",
+      "FORMID": "011C18",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic127",
+      "FULL": "Isso funciona com qualquer outra coleira?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C17",
+      "FORMID": "011C17",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic128",
+      "FULL": "Entendido, vamos em frente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C16",
+      "FORMID": "011C16",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic129",
+      "FULL": "É só a sua frequência."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C15",
+      "FORMID": "011C15",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic130",
+      "FULL": "...mas só entre nós."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C14",
+      "FORMID": "011C14",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic131",
+      "FULL": "Sim, a estática dos alto-falantes faz nossas cabeças explodirem, certo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C13",
+      "FORMID": "011C13",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic132",
+      "FULL": "Ótimo. Que romântico."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BF4",
+      "FORMID": "011BF4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic001",
+      "FULL": "Eu lidei com os outros e tenho a frase-chave."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BF3",
+      "FORMID": "011BF3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic002",
+      "FULL": "Preciso de você aqui, então fique firme."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BF2",
+      "FORMID": "011BF2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic003",
+      "FULL": "Este lugar... Não tenho certeza, não parece um cassino. Não completamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BF1",
+      "FORMID": "011BF1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic069",
+      "FULL": "Talvez fosse uma questão de confiança? Ele construiu este lugar para ela, parece."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BF0",
+      "FORMID": "011BF0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic072",
+      "FULL": "Não faço ideia, vamos destrancá-lo. A frase está contida na letra de uma música."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BEF",
+      "FORMID": "011BEF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic074",
+      "FULL": "Eu fiz você descer atrás de mim, ele responderá à sua voz."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BEE",
+      "FORMID": "011BEE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic076",
+      "FULL": "O que isso significa?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BED",
+      "FORMID": "011BED",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic077",
+      "FULL": "Se ficarmos aqui, a Nuvem e os Hologramas responderão a isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BEC",
+      "FORMID": "011BEC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic079",
+      "FULL": "Acredito que ele a amava, queria protegê-la. Demais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BEB",
+      "FORMID": "011BEB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic080",
+      "FULL": "Acho que é o objeto da obsessão - ou afeição - de alguém."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BEA",
+      "FORMID": "011BEA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic082",
+      "FULL": "O alvo é o cofre, não o cassino, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE9",
+      "FORMID": "011BE9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic110",
+      "FULL": "Você está pronto? A sequência é: \"Começar.\" \"De novo.\" \"Deixar.\" \"Ir.\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE8",
+      "FORMID": "011BE8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic111",
+      "FULL": "Veremos. Eu cuidarei dele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE7",
+      "FORMID": "011BE7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic112",
+      "FULL": "É nisso que estou contando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE6",
+      "FORMID": "011BE6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic113",
+      "FULL": "{Sabe sobre a missão}Ele virá aqui, para as Suítes - quando ele vier, deixe-o passar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE5",
+      "FORMID": "011BE5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic114",
+      "FULL": "{Sabe sobre a missão}Você... você está bem? Algo parece estranho."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE4",
+      "FORMID": "011BE4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic115",
+      "FULL": "Você confia em mim? Se confia, deixe isso de lado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE3",
+      "FORMID": "011BE3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic116",
+      "FULL": "Se ele te matar, eu não vou conseguir sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE2",
+      "FORMID": "011BE2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic117",
+      "FULL": "Deixe-o passar pelas suítes, siga-me. Se ele escapar, você ainda estará aqui, esperando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE1",
+      "FORMID": "011BE1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic118",
+      "FULL": "Se você tentar matá-lo, eu não posso deixar você fazer isso. Se você morrer, vai nos matar ambos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BE0",
+      "FORMID": "011BE0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic119",
+      "FULL": "Então eu preciso impedir você de fazer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BDF",
+      "FORMID": "011BDF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic120",
+      "FULL": "Christine, por favor, deixe isso de lado. Deixe-me lidar com ele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BDE",
+      "FORMID": "011BDE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic121",
+      "FULL": "Ele não vai escapar, eu juro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BDD",
+      "FORMID": "011BDD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic122",
+      "FULL": "Tudo bem. Se você não pode deixá-lo ir, não me resta muita escolha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BDC",
+      "FORMID": "011BDC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic123",
+      "FULL": "Não me diga para onde você está indo - eu vou te encontrar depois disso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BDB",
+      "FORMID": "011BDB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic124",
+      "FULL": "Por enquanto, apenas diga as palavras, e vamos resolver isso para que possamos ir para casa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BA2",
+      "FORMID": "011BA2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic096",
+      "FULL": "Você vai ficar bem aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BA1",
+      "FORMID": "011BA1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic097",
+      "FULL": "<Pegue a mão dela.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011BA0",
+      "FORMID": "011BA0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic098",
+      "FULL": "Não estou com humor para segurar a mão agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9F",
+      "FORMID": "011B9F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic099",
+      "FULL": "Tudo bem, esteja pronto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9E",
+      "FORMID": "011B9E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic101",
+      "FULL": "Vamos superar isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9D",
+      "FORMID": "011B9D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic102",
+      "FULL": "Sim, \"joinha\" - é melhor você dar valor a isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9C",
+      "FORMID": "011B9C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic103",
+      "FULL": "Eu voltarei para você, certo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9B",
+      "FORMID": "011B9B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic104",
+      "FULL": "Estou falando sério. Fique vivo até eu voltar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B9A",
+      "FORMID": "011B9A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic105",
+      "FULL": "{Presença Aterrorizante}Entre naquele elevador ou farei com que aquelas cicatrizes no seu rosto sejam uma lembrança agradável."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B99",
+      "FORMID": "011B99",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic106",
+      "FULL": "O que foi?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B98",
+      "FORMID": "011B98",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic107",
+      "FULL": "[Percepção] Isso te lembra de estar preso no Auto-Doc."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B97",
+      "FORMID": "011B97",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic108",
+      "FULL": "Eu não faço ideia de qual é o seu problema."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B96",
+      "FORMID": "011B96",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic109",
+      "FULL": "Sobre o que diabos você está gesticulando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B76",
+      "FORMID": "011B76",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic075",
+      "FULL": "Você é o mentor da Veronica. O Ancião que perdeu a HELIOS One."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B75",
+      "FORMID": "011B75",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic078",
+      "FULL": "Você quer atacar a NCR? Toda a NCR?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B74",
+      "FORMID": "011B74",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic079",
+      "FULL": "[NCR] Se você quer matar a NCR, por mim tudo bem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B73",
+      "FORMID": "011B73",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic080",
+      "FULL": "Eu não me importo com a República, eles são seus para matar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B72",
+      "FORMID": "011B72",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic081",
+      "FULL": "Então é melhor começarmos a matá-los."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B71",
+      "FORMID": "011B71",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic082",
+      "FULL": "Como você descobriu sobre o Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B70",
+      "FORMID": "011B70",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic083",
+      "FULL": "Você não é nada mais do que um assassino que aspira a cometer assassinato em massa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6F",
+      "FORMID": "011B6F",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic084",
+      "FULL": "Sobre o que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6E",
+      "FORMID": "011B6E",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic085",
+      "FULL": "Então você respondeu à loucura com loucura?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6D",
+      "FORMID": "011B6D",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic086",
+      "FULL": "O que aconteceu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6C",
+      "FORMID": "011B6C",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic087",
+      "FULL": "Estou farto de falar com uma imagem numa tela. Se vai descer, desça logo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6B",
+      "FORMID": "011B6B",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic088",
+      "FULL": "Agora que estou aqui, você vai descer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B6A",
+      "FORMID": "011B6A",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic089",
+      "FULL": "Como você me trouxe aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B69",
+      "FORMID": "011B69",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic090",
+      "FULL": "Então, outra pessoa com um colar colocou um em mim? Quem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B68",
+      "FORMID": "011B68",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic091",
+      "FULL": "Se Dog colocou um colar em mim, por que ele não disse isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B67",
+      "FORMID": "011B67",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic092",
+      "FULL": "O que aconteceu com meu equipamento?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B66",
+      "FORMID": "011B66",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic093",
+      "FULL": "Você sabe como sair daqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B65",
+      "FORMID": "011B65",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic094",
+      "FULL": "Então o cassino me desarmou?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B64",
+      "FORMID": "011B64",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic095",
+      "FULL": "Eu não acredito em você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011907",
+      "FORMID": "011907",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic095",
+      "FULL": "Você vai ter que esperar só mais um pouco."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011905",
+      "FORMID": "011905",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic090",
+      "FULL": "Encontrei a frase para o bloqueio de áudio do elevador."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117C7",
+      "FORMID": "0117C7",
+      "EDID": "NVDLC01ElijahMainCasinoFloorBackIntro",
+      "FULL": "{jogador entrou no cassino}"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117AC",
+      "FORMID": "0117AC",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic066",
+      "FULL": "Onde você conseguiu as coleiras?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117AB",
+      "FORMID": "0117AB",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic067",
+      "FULL": "Se são tecnologia Pré-Guerra, onde você os conseguiu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117AA",
+      "FORMID": "0117AA",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic068",
+      "FULL": "Nunca ouvi falar do lugar que você está mencionando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A9",
+      "FORMID": "0117A9",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic069",
+      "FULL": "O que você quer da Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A7",
+      "FORMID": "0117A7",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic071",
+      "FULL": "Eu não entendo como um cassino do Mundo Antigo ajuda você a fazer qualquer uma dessas coisas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A6",
+      "FORMID": "0117A6",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic072",
+      "FULL": "Corretamente? Você está de brincadeira?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A5",
+      "FORMID": "0117A5",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic073",
+      "FULL": "Funcionando como armadilhas mortais assassinas, com certeza."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A4",
+      "FORMID": "0117A4",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic074",
+      "FULL": "Se você garantir isso, é tudo o que você quer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A2",
+      "FORMID": "0117A2",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic076",
+      "FULL": "Eu não posso argumentar contra isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0117A1",
+      "FORMID": "0117A1",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic077",
+      "FULL": "Para que você os usaria?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01172B",
+      "FORMID": "01172B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic018",
+      "FULL": "Eu lidei com os outros dois da nossa equipe, agora preciso que você abra algo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011208",
+      "FORMID": "011208",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic007",
+      "FULL": "Sua voz... é a voz da Estrela?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011206",
+      "FORMID": "011206",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic016",
+      "FULL": "Agora que sua voz voltou, o que você queria dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011205",
+      "FORMID": "011205",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic017",
+      "FULL": "O elevador para o cofre também está aqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011204",
+      "FORMID": "011204",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic019",
+      "FULL": "Há quanto tempo você está caçando ele?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011203",
+      "FORMID": "011203",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic021",
+      "FULL": "Parece pessoal."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011202",
+      "FORMID": "011202",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic026",
+      "FULL": "\"Resolver isso?\" Você está aqui para matá-lo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011201",
+      "FORMID": "011201",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic089",
+      "FULL": "Ele disse que te conhecia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011200",
+      "FORMID": "011200",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic091",
+      "FULL": "Ele conhecia Elijah? Como?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FF",
+      "FORMID": "0111FF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic092",
+      "FULL": "Simpatizou? Por quê?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FE",
+      "FORMID": "0111FE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic094",
+      "FULL": "Há uma chance de ele ver a razão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FD",
+      "FORMID": "0111FD",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic059",
+      "FULL": "Você tem muito a responder."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FC",
+      "FORMID": "0111FC",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic060",
+      "FULL": "Ainda se escondendo atrás de imagens e telas, eu vejo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FB",
+      "FORMID": "0111FB",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic061",
+      "FULL": "Como você acessou meu Pip-Boy?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111FA",
+      "FORMID": "0111FA",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic062",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111F9",
+      "FORMID": "0111F9",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic063",
+      "FULL": "Você com certeza precisou disso para escapar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0111F8",
+      "FORMID": "0111F8",
+      "EDID": "NVDLC01ElijahDialogueNVDLC01ElijahTopic064",
+      "FULL": "Eu não fui o único que ficou se escondendo esse tempo todo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01106E",
+      "FORMID": "01106E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic023",
+      "FULL": "Você soa como a mulher na transmissão da Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EEA",
+      "FORMID": "010EEA",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic103",
+      "FULL": "Menos doloroso seria eu te jogar do telhado. Entendeu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EE7",
+      "FORMID": "010EE7",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic107",
+      "FULL": "Eu não vou deixar que nada de mal aconteça com você, tudo bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010EE3",
+      "FORMID": "010EE3",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic111",
+      "FULL": "<Mentir> Dean, eu não te deixaria aqui, eu juro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010D94",
+      "FORMID": "010D94",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01SuitesIntercomTopic000",
+      "FULL": "{o jogador entrou na suíte de Christine}"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010D70",
+      "FORMID": "010D70",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic104",
+      "FULL": "Esse treco no meu pescoço não é de enfeite. Aquela bomba explode, e eu também - e você, também."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C9B",
+      "FORMID": "010C9B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic097",
+      "FULL": "Estou dentro. Se é só isso, vamos sair."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C9A",
+      "FORMID": "010C9A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic102",
+      "FULL": "Certo. Encontra na Fonte?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C31",
+      "FORMID": "010C31",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic071",
+      "FULL": "Eu te tirei do Auto-Doc. Posso te colocar de volta lá tão rápido quanto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C30",
+      "FORMID": "010C30",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic073",
+      "FULL": "Fico feliz que nos entendemos. Vamos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2F",
+      "FORMID": "010C2F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic075",
+      "FULL": "Tudo bem. Não gostaria de ter te cortado mais do que já está."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2E",
+      "FORMID": "010C2E",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic083",
+      "FULL": "Vá em frente. Eu te encontro na Fonte no centro da Villa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2D",
+      "FORMID": "010C2D",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic084",
+      "FULL": "Olha, não estou tentando te dar ordens. Mas sua vida está ligada à minha."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2C",
+      "FORMID": "010C2C",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic085",
+      "FULL": "O que exatamente está errado? Você não quer sair daqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2B",
+      "FORMID": "010C2B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic086",
+      "FULL": "Você está procurando outra coisa. Tudo bem, posso ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010C2A",
+      "FORMID": "010C2A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic087",
+      "FULL": "Por que você não vem comigo, seja lá o que mais você esteja aqui para fazer, não é da minha conta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE8",
+      "FORMID": "010BE8",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic084",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE7",
+      "FORMID": "010BE7",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic085",
+      "FULL": "Conte-me. A versão curta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE6",
+      "FORMID": "010BE6",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic086",
+      "FULL": "Voz?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE5",
+      "FORMID": "010BE5",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic087",
+      "FULL": "Então você não conhece a frase?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE4",
+      "FORMID": "010BE4",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic088",
+      "FULL": "{Gosta do PC}Tudo bem, vou sair e ver o que posso fazer do meu lado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE2",
+      "FORMID": "010BE2",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic090",
+      "FULL": "Como assim?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE1",
+      "FORMID": "010BE1",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic091",
+      "FULL": "Esqueça a aula de história, vá direto ao ponto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BE0",
+      "FORMID": "010BE0",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic092",
+      "FULL": "Continue."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDF",
+      "FORMID": "010BDF",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic093",
+      "FULL": "E então, o que aconteceu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDE",
+      "FORMID": "010BDE",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic094",
+      "FULL": "Qual era o seu problema com Sinclair?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDD",
+      "FORMID": "010BDD",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic095",
+      "FULL": "Mas o que ele fez com você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDC",
+      "FORMID": "010BDC",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic096",
+      "FULL": "Esqueça Sinclair. Se Vera era a chave, ela está morta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDB",
+      "FORMID": "010BDB",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic098",
+      "FULL": "Então você vai provar isso agora? Como?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BDA",
+      "FORMID": "010BDA",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic099",
+      "FULL": "E se ela estiver viva?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BD9",
+      "FORMID": "010BD9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic100",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BD8",
+      "FORMID": "010BD8",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic101",
+      "FULL": "Estou ouvindo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B9B",
+      "FORMID": "010B9B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic082",
+      "FULL": "{TEATRO: 1ª vez, odeia o jogador}Então, me apunhalando pelas costas por causa de Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B91",
+      "FORMID": "010B91",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic071",
+      "FULL": "{TEATRO: 1ª Vez, Odeia o jogador}Não se faça de idiota. Vamos sair daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8F",
+      "FORMID": "010B8F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic075",
+      "FULL": "{THEATER: 1ª vez, odeia o jogador}Se acha que pode me vencer, desça e tente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8E",
+      "FORMID": "010B8E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic076",
+      "FULL": "{THEATER: 1ª vez, gosta do jogador}Sabe o que aconteceu com os outros?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8D",
+      "FORMID": "010B8D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic077",
+      "FULL": "{TEATRO: 1ª Vez, Gosta do jogador}A segurança do cassino te pegou como me pegou quando você chegou ao saguão?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8C",
+      "FORMID": "010B8C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic078",
+      "FULL": "{TEATRO: Jogador resgatou Dean}É, que sorte a nossa. Adoro levar tiros de fantasmas pré-guerra."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8B",
+      "FORMID": "010B8B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic079",
+      "FULL": "{TEATRO: Jogador resgatou Dean}Não tenho tempo para a cantoria, Dean."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B8A",
+      "FORMID": "010B8A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic080",
+      "FULL": "{TEATRO: Luta de Dean}O mundo todo é um palco. Em breve, seus miolos estarão por todo ele."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B89",
+      "FORMID": "010B89",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic081",
+      "FULL": "{TEATRO: Luta de Dean}Então, o que, você vai arriscar explodir sua própria cabeça para me matar?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B7D",
+      "FORMID": "010B7D",
+      "EDID": "NVDLC01ChristineDialogueGenericIdleAct3DUPLICATE000",
+      "FULL": "{playername}, eu... eu não sei o que dizer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010B71",
+      "FORMID": "010B71",
+      "EDID": "NVDLC01ChristineDialogueGenericIdleAct3",
+      "FULL": "{jogador foi detectado}"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010AE6",
+      "FORMID": "010AE6",
+      "EDID": "NVDLC01IntroSlide01",
+      "FULL": "{playername}, você acordou."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109C6",
+      "FORMID": "0109C6",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic012",
+      "FULL": "{Deus}Eu tinha perguntas para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109C5",
+      "FORMID": "0109C5",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic034",
+      "FULL": "{Cão}Eu tinha perguntas para você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109B6",
+      "FORMID": "0109B6",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic006",
+      "FULL": "Quem é esse Velho que nos trouxe aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109B5",
+      "FORMID": "0109B5",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic007",
+      "FULL": "{Deus}Já chega por agora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109B1",
+      "FORMID": "0109B1",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic011",
+      "FULL": "Preciso que você vá para sua posição no Evento de Gala."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01099E",
+      "FORMID": "01099E",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic032",
+      "FULL": "Quero saber mais sobre o Mestre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01062A",
+      "FORMID": "01062A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic073",
+      "FULL": "{TEATRO: 1ª Vez, Gosta do jogador}Como você chegou aí em cima?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010629",
+      "FORMID": "010629",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic072",
+      "FULL": "{TEATRO: Luta de Dean}É aqui que termina, Dean, desista."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D8",
+      "FORMID": "0103D8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic042",
+      "FULL": "Aquele Auto-Doc realmente te cortou."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D7",
+      "FORMID": "0103D7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic051",
+      "FULL": "Eu tinha perguntas que queria fazer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D6",
+      "FORMID": "0103D6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic052",
+      "FULL": "{Após fazer 1 pergunta}Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D5",
+      "FORMID": "0103D5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic053",
+      "FULL": "Parece que alguém configurou as serras ósseas para funcionar aleatoriamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D4",
+      "FORMID": "0103D4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic054",
+      "FULL": "Eu não entendo por que te rasparam a cabeça."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D3",
+      "FORMID": "0103D3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic055",
+      "FULL": "Espere, o Auto-Doc não te deixou careca?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D2",
+      "FORMID": "0103D2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic056",
+      "FULL": "Não, espere, eu quero ouvir isso. Você era careca antes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D1",
+      "FORMID": "0103D1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic057",
+      "FULL": "[CdA] Você era um Escriba da Irmandade do Aço?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103D0",
+      "FORMID": "0103D0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic058",
+      "FULL": "Como diabos você chegou aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CF",
+      "FORMID": "0103CF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic059",
+      "FULL": "Você estava procurando por algo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CE",
+      "FORMID": "0103CE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic060",
+      "FULL": "Você estava pesquisando algo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CD",
+      "FORMID": "0103CD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic061",
+      "FULL": "O Auto-Doc não fez isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CC",
+      "FORMID": "0103CC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic062",
+      "FULL": "Então o Auto-Doc cortou sua caixa de voz, não seu couro cabeludo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CB",
+      "FORMID": "0103CB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic063",
+      "FULL": "Não posso restaurar sua voz, precisaríamos de um Auto-Doc de verdade para fazer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103CA",
+      "FORMID": "0103CA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic064",
+      "FULL": "Então você cortou seu próprio cabelo?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103C9",
+      "FORMID": "0103C9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic066",
+      "FULL": "Eu... não entendo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103C7",
+      "FORMID": "0103C7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic068",
+      "FULL": "Onde você estava antes?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103C6",
+      "FORMID": "0103C6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic070",
+      "FULL": "Como você acabou no Auto-Doc?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103BE",
+      "FORMID": "0103BE",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic023",
+      "FULL": "O que aconteceu com sua voz?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103BD",
+      "FORMID": "0103BD",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic024",
+      "FULL": "Esse nome entalhado no seu peito... você é o Dog?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103BC",
+      "FORMID": "0103BC",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic027",
+      "FULL": "Quem trancou você naquela jaula?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103BB",
+      "FORMID": "0103BB",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic028",
+      "FULL": "<Nó de Armazenamento. Não Traduzir.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE25",
+      "FORMID": "00FE25",
+      "EDID": "NVDLC01CasinoCompsNVDLC01CrHologramCasinoFriendTopic000",
+      "FULL": "Coletar Comps"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE24",
+      "FORMID": "00FE24",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic007",
+      "FULL": "100 Fichas por 100 notas pré-guerra."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE23",
+      "FORMID": "00FE23",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic008",
+      "FULL": "Que tal 500 Fichas por 500 Notas Pré-Guerra?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FD82",
+      "FORMID": "00FD82",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic003",
+      "FULL": "Encontre-me na Fonte, planejaremos nosso próximo passo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FD81",
+      "FORMID": "00FD81",
+      "EDID": "NVDLC01DogDialogueNVDLC01GodTopic002",
+      "FULL": "Certo, vamos sair daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F400",
+      "FORMID": "00F400",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic025",
+      "FULL": "Sim, isso deve ser suficiente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3FF",
+      "FORMID": "00F3FF",
+      "EDID": "NVDLC01DogDialogueNVDLC01DogTopic026",
+      "FULL": "Ainda não encontrei o suficiente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EED0",
+      "FORMID": "00EED0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic029",
+      "FULL": "Você está bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECF",
+      "FORMID": "00EECF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic030",
+      "FULL": "Quem é você?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECE",
+      "FORMID": "00EECE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic031",
+      "FULL": "Parece que alguém esculpiu um mapa no seu rosto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECD",
+      "FORMID": "00EECD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic032",
+      "FULL": "Alguém cortou suas cordas vocais?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECC",
+      "FORMID": "00EECC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic033",
+      "FULL": "Olha, estou aqui para ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECB",
+      "FORMID": "00EECB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic034",
+      "FULL": "O que aconteceu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EECA",
+      "FORMID": "00EECA",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic035",
+      "FULL": "Isso não é o que parece."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC9",
+      "FORMID": "00EEC9",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic036",
+      "FULL": "Qual foi?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC8",
+      "FORMID": "00EEC8",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic037",
+      "FULL": "Se você me atacar, vai se arrepender."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC7",
+      "FORMID": "00EEC7",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic038",
+      "FULL": "Não faça isso!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC6",
+      "FORMID": "00EEC6",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic039",
+      "FULL": "É um colar-bomba - mexa com ele, e ele vai explodir."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC5",
+      "FORMID": "00EEC5",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic040",
+      "FULL": "A menos que você queira perder a cabeça, pare."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC4",
+      "FORMID": "00EEC4",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic041",
+      "FULL": "Vamos apenas dizer que estamos juntos nessa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC2",
+      "FORMID": "00EEC2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic043",
+      "FULL": "Chega dessa merda, precisamos nos mover."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC1",
+      "FORMID": "00EEC1",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic044",
+      "FULL": "Olha, podemos ter essa não-conversa depois, vamos lá."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEC0",
+      "FORMID": "00EEC0",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic045",
+      "FULL": "O que você quer dizer com isso?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEBF",
+      "FORMID": "00EEBF",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic046",
+      "FULL": "Precisamos cooperar se quisermos sair daqui."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEBE",
+      "FORMID": "00EEBE",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic047",
+      "FULL": "Se o seu colar disparar, o meu também dispara, é melhor se protegermos um ao outro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEBD",
+      "FORMID": "00EEBD",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic048",
+      "FULL": "Olha, juntos podemos sair dessa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEBC",
+      "FORMID": "00EEBC",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic049",
+      "FULL": "Isso não vai funcionar para mim."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EEBB",
+      "FORMID": "00EEBB",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic050",
+      "FULL": "Você vem comigo, ou então."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC5",
+      "FORMID": "00EDC5",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic029",
+      "FULL": "Outras pessoas apareceram em busca do Sierra Madre?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC4",
+      "FORMID": "00EDC4",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic031",
+      "FULL": "Mais alguém está vivo por aqui?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC3",
+      "FORMID": "00EDC3",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic038",
+      "FULL": "Você tentou lidar com eles?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC2",
+      "FORMID": "00EDC2",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic049",
+      "FULL": "Quão durões eles são?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC1",
+      "FORMID": "00EDC1",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic050",
+      "FULL": "Eu não sou um mau atirador. Eu provavelmente poderia matar um."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDC0",
+      "FORMID": "00EDC0",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic052",
+      "FULL": "De onde eles vieram?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBF",
+      "FORMID": "00EDBF",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic055",
+      "FULL": "Foco?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBE",
+      "FORMID": "00EDBE",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic060",
+      "FULL": "{Abertura}Eu tinha perguntas que queria fazer."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBD",
+      "FORMID": "00EDBD",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic061",
+      "FULL": "{Após fazer 1 pergunta}Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBC",
+      "FORMID": "00EDBC",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic062",
+      "FULL": "Há mais alguma coisa sobre eles que eu deva saber?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBB",
+      "FORMID": "00EDBB",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic063",
+      "FULL": "O que são as Máquinas de Venda por toda a cidade?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDBA",
+      "FORMID": "00EDBA",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic064",
+      "FULL": "Nunca vi máquinas como aquelas antes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB9",
+      "FORMID": "00EDB9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic065",
+      "FULL": "Trapaceiros?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB8",
+      "FORMID": "00EDB8",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic066",
+      "FULL": "Como ele descreveu?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB7",
+      "FORMID": "00EDB7",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic067",
+      "FULL": "Quais outros itens você pode obter das máquinas?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB6",
+      "FORMID": "00EDB6",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic068",
+      "FULL": "Onde posso encontrar essas cartas?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB5",
+      "FORMID": "00EDB5",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic069",
+      "FULL": "Me diga sobre a Nuvem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EDB4",
+      "FORMID": "00EDB4",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic070",
+      "FULL": "O que você pode me dizer sobre a Villa e a cidade?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED8C",
+      "FORMID": "00ED8C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic011",
+      "FULL": "Sobre o que você está falando?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED8B",
+      "FORMID": "00ED8B",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic012",
+      "FULL": "Não sou de ficar parado quando o tempo está passando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED8A",
+      "FORMID": "00ED8A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic013",
+      "FULL": "A cadeira é... explosiva? Mas..."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED89",
+      "FORMID": "00ED89",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic014",
+      "FULL": "Hã?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED88",
+      "FORMID": "00ED88",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic015",
+      "FULL": "<Nó Azul de Armazenamento. Não traduza.>"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED87",
+      "FORMID": "00ED87",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic016",
+      "FULL": "Uh... você... provavelmente quer ouvir o meu lado da história."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED86",
+      "FORMID": "00ED86",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic017",
+      "FULL": "Olha - eu preciso da sua ajuda para entrar no Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED85",
+      "FORMID": "00ED85",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic018",
+      "FULL": "Você tem minha atenção. Por enquanto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED84",
+      "FORMID": "00ED84",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic019",
+      "FULL": "Estou ouvindo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED83",
+      "FORMID": "00ED83",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic020",
+      "FULL": "Misund...? Hummm."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED82",
+      "FORMID": "00ED82",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic021",
+      "FULL": "Vou cooperar. O que você quer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED74",
+      "FORMID": "00ED74",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic037",
+      "FULL": "Não vou te ajudar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED73",
+      "FORMID": "00ED73",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic039",
+      "FULL": "Nossos colares... essas \"gravatas\" estão ligadas. Eu morro, você morre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED72",
+      "FORMID": "00ED72",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic040",
+      "FULL": "Uh... olha, talvez possamos fazer algum tipo de... acordo, você e eu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED71",
+      "FORMID": "00ED71",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic041",
+      "FULL": "Acho que você está blefando. Estou me levantando agora mesmo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED70",
+      "FORMID": "00ED70",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic042",
+      "FULL": "Ou lide comigo como um igual, ou eu vou embora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED6F",
+      "FORMID": "00ED6F",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic043",
+      "FULL": "Esqueça isso, estou indo embora."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED6E",
+      "FORMID": "00ED6E",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic044",
+      "FULL": "Concorde em vir comigo agora, ou eu me levanto desta cadeira e mato nós dois, com carga moldada ou não."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED6D",
+      "FORMID": "00ED6D",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic045",
+      "FULL": "Só preciso que você esteja respirando. Me provoque, e eu te levarei ao ponto da morte, depois te deixarei."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED6C",
+      "FORMID": "00ED6C",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic046",
+      "FULL": "Está começando a fazer sentido, agora que eu conheci você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED6A",
+      "FORMID": "00ED6A",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic048",
+      "FULL": "Encontre-se na Fonte, e ouviremos qual é o próximo passo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED68",
+      "FORMID": "00ED68",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic053",
+      "FULL": "Acho que você consegue ir até lá sem mim. Agora vá."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED67",
+      "FORMID": "00ED67",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic054",
+      "FULL": "Certo. Levante-se e me siga."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED66",
+      "FORMID": "00ED66",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic056",
+      "FULL": "Vamos descobrir mais sobre nosso \"contrato\" de volta na Fonte."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED65",
+      "FORMID": "00ED65",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic057",
+      "FULL": "Alguma razão para você não conseguir encontrar o caminho até lá?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED64",
+      "FORMID": "00ED64",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic058",
+      "FULL": "Certo. Levante-se e me siga."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED63",
+      "FORMID": "00ED63",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic059",
+      "FULL": "Bem, se eu conseguir chegar aqui, outros também conseguirão, em breve. A fonte é o lugar mais seguro."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC8B",
+      "FORMID": "00EC8B",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic027",
+      "FULL": "Encontrei uma maneira de fazer o desvio daqui. Você deve conseguir usar o terminal ali."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC8A",
+      "FORMID": "00EC8A",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic028",
+      "FULL": "Não tenho tempo para isso. Entre no maldito elevador."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF6",
+      "FORMID": "00CEF6",
+      "EDID": "VDialogueVeronicaVeronicaTopic147",
+      "FULL": "Eu tive que matá-lo antes que ele machucasse outros."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF5",
+      "FORMID": "00CEF5",
+      "EDID": "VDialogueVeronicaVeronicaTopic148",
+      "FULL": "Ele está preso, sem chance de escapar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF4",
+      "FORMID": "00CEF4",
+      "EDID": "VDialogueVeronicaVeronicaTopic149",
+      "FULL": "Ele está morto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF3",
+      "FORMID": "00CEF3",
+      "EDID": "VDialogueVeronicaVeronicaTopic150",
+      "FULL": "Há algo que eu queria transmitir."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF2",
+      "FORMID": "00CEF2",
+      "EDID": "VDialogueVeronicaVeronicaTopic151",
+      "FULL": "É uma mensagem. A notícia depende de você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF1",
+      "FORMID": "00CEF1",
+      "EDID": "VDialogueVeronicaVeronicaTopic153",
+      "FULL": "Fez algum sentido?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEF0",
+      "FORMID": "00CEF0",
+      "EDID": "VDialogueVeronicaVeronicaTopic154",
+      "FULL": "Aqui está."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEEF",
+      "FORMID": "00CEEF",
+      "EDID": "VDialogueVeronicaVeronicaTopic155",
+      "FULL": "Sim. Foi confiado a mim, não a você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00CEEE",
+      "FORMID": "00CEEE",
+      "EDID": "VDialogueVeronicaVeronicaTopic156",
+      "FULL": "Destrave, devolva e depois cale a boca."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4D9",
+      "FORMID": "00C4D9",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic010",
+      "FULL": "{TEATRO: Jogador resgatou Dean}Você está bem?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4C4",
+      "FORMID": "00C4C4",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic000",
+      "FULL": "Quero trocar dinheiro Pré-Guerra por algumas Fichas Sierra Madre."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4C3",
+      "FORMID": "00C4C3",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic001",
+      "FULL": "Posso trocar minhas Fichas Sierra Madre por Dinheiro Pré-Guerra?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4C2",
+      "FORMID": "00C4C2",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic002",
+      "FULL": "Isso é tudo por agora. Obrigado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4C1",
+      "FORMID": "00C4C1",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic003",
+      "FULL": "Uh... 1 Ficha por 1 Nota Pré-Guerra."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4C0",
+      "FORMID": "00C4C0",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic004",
+      "FULL": "Deixe-me pegar 5 Fichas por 5 Notas Pré-Guerra."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4BF",
+      "FORMID": "00C4BF",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic005",
+      "FULL": "20 Fichas por 20 Notas Pré-Guerra."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C4BE",
+      "FORMID": "00C4BE",
+      "EDID": "NVDLC01CasinoCompsNVDLC01HologramCashierCasinoTopic006",
+      "FULL": "Gostaria de ajuda com outra coisa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00B034",
+      "FORMID": "00B034",
+      "EDID": "NVDLC01DeanDialogueNVDLC01DeanTopic007",
+      "FULL": "Preciso que você fique aqui e dispare o Evento de Gala."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00B031",
+      "FORMID": "00B031",
+      "EDID": "GettingChristinedownintoGalaEventposition",
+      "FULL": "Preciso que você vá até a sala de desvio manual para regular a energia."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00B030",
+      "FORMID": "00B030",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic024",
+      "FULL": "Certo, deixe-me ver se consigo encontrar outra forma de fazer isso sem mandar você para lá."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00B02F",
+      "FORMID": "00B02F",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic025",
+      "FULL": "<Mentir> Vamos pegar o elevador, ver se há outra maneira de fazer isso. Depois de você."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A804",
+      "FORMID": "00A804",
+      "EDID": "PlayerhasagreaterunderstandingofthekindofmanElijahis",
+      "FULL": "Eu sei que Elijah precisa ser resolvido, deixe isso comigo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A803",
+      "FORMID": "00A803",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic020",
+      "FULL": "Você podia ter dito algo antes."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A801",
+      "FORMID": "00A801",
+      "EDID": "Playersaysgoahead",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A800",
+      "FORMID": "00A800",
+      "EDID": "PlayersaystheywerehappytodoitandChristineshouldtakeoffTheyllhandletherest",
+      "FULL": "Apenas feliz que você está seguro. Fique aqui, eu cuidarei de Elijah."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A7F6",
+      "FORMID": "00A7F6",
+      "EDID": "PlayerinsultsChristine",
+      "FULL": "Apenas morra, cansado de ouvir você de qualquer forma."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0074C3",
+      "FORMID": "0074C3",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic005",
+      "FULL": "Tudo bem, venha comigo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0074C2",
+      "FORMID": "0074C2",
+      "EDID": "NVDLC01ChristineDialogueNVDLC01ChristineTopic006",
+      "FULL": "Encontre-me na Fonte, então partiremos de lá."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDC0",
+      "FORMID": "15EDC0",
+      "EDID": "VDialogueVeronicaAccelerator",
+      "FULL": "Encontrei Elijah."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDBF",
+      "FORMID": "15EDBF",
+      "EDID": "VDialogueVeronicaAcceleratorKill",
+      "FULL": "Eu tive que matá-lo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDBE",
+      "FORMID": "15EDBE",
+      "EDID": "VDialogueVeronicaAcceleratorTrap",
+      "FULL": "Eu tive que prendê-lo dentro de uma... prisão Pré-Guerra."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDBA",
+      "FORMID": "15EDBA",
+      "EDID": "VDialogueVeronicaAcceleratorStg22",
+      "FULL": "Ele deixou esta holo-mensagem. Aqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB9",
+      "FORMID": "15EDB9",
+      "EDID": "VDialogueVeronicaAcceleratorStg31",
+      "FULL": "Você deveria ouvir isso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB8",
+      "FORMID": "15EDB8",
+      "EDID": "VDialogueVeronicaAcceleratorStg32",
+      "FULL": "Você deveria assistir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB6",
+      "FORMID": "15EDB6",
+      "EDID": "VDialogueVeronicaAcceleratorStg34",
+      "FULL": "O que ele disse para você?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB4",
+      "FORMID": "15EDB4",
+      "EDID": "VDialogueVeronicaAbeSim1",
+      "FULL": "Umas últimas palavras... uma mensagem. Nada de importante."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB3",
+      "FORMID": "15EDB3",
+      "EDID": "VDialogueVeronicaAbeSim2",
+      "FULL": "Você pode destrancá-lo para mim primeiro? Ele foi... vago nesse ponto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB2",
+      "FORMID": "15EDB2",
+      "EDID": "VDialogueVeronicaAbeExp1",
+      "FULL": "Ele explicou que a busca pela Sierra Madre... o curou."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDB1",
+      "FORMID": "15EDB1",
+      "EDID": "VDialogueVeronicaAbeBye1",
+      "FULL": "Apenas divagações loucas. Ele não fazia muito sentido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDAC",
+      "FORMID": "15EDAC",
+      "EDID": "VDialogueVeronicaAbeMsgRefuse",
+      "FULL": "É melhor você não fazer isso. Deixe-me segurá-lo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCBC",
+      "FORMID": "15BCBC",
+      "EDID": "Poisoned",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCBB",
+      "FORMID": "15BCBB",
+      "EDID": "Frenzy",
+      "FULL": "Frenesi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCBA",
+      "FORMID": "15BCBA",
+      "EDID": "OnFire",
+      "FULL": "Em Chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB9",
+      "FORMID": "15BCB9",
+      "EDID": "Regenerating",
+      "FULL": "Regenerando"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB8",
+      "FORMID": "15BCB8",
+      "EDID": "KnockedBack",
+      "FULL": "Recuado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB7",
+      "FORMID": "15BCB7",
+      "EDID": "KOed",
+      "FULL": "Nocauteado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB6",
+      "FORMID": "15BCB6",
+      "EDID": "Crippled",
+      "FULL": "Aleijado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB5",
+      "FORMID": "15BCB5",
+      "EDID": "UsedDoctorBag",
+      "FULL": "Maleta de Médico Usada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB4",
+      "FORMID": "15BCB4",
+      "EDID": "NoAmmo",
+      "FULL": "Sem Munição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB0",
+      "FORMID": "15BCB0",
+      "EDID": "Wake",
+      "FULL": "Acordar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BA2E",
+      "FORMID": "15BA2E",
+      "EDID": "VDialogueVeronicaVeronicaTopic126",
+      "FULL": "Onde ele está agora?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ABE9",
+      "FORMID": "15ABE9",
+      "EDID": "VDialogueVeronicaVeronicaTopic120",
+      "FULL": "Quem era esse Father Elijah para você?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCD",
+      "FORMID": "11EBCD",
+      "EDID": "FollowersTacticsCombatAggressive",
+      "FULL": "Quero que você ataque os inimigos no momento em que os vir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCC",
+      "FORMID": "11EBCC",
+      "EDID": "FollowersTacticsCombatPassive",
+      "FULL": "Quero que você não ataque inimigos a menos que eu já os tenha enfrentado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03F",
+      "FORMID": "0BD03F",
+      "EDID": "FollowersFiredYes",
+      "FULL": "Sim, tenho certeza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03E",
+      "FORMID": "0BD03E",
+      "EDID": "FollowersFiredNo",
+      "FULL": "Pensando bem, fique comigo por mais um tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037084",
+      "FORMID": "037084",
+      "EDID": "FollowersHired",
+      "FULL": "Acho que deveríamos viajar juntos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037083",
+      "FORMID": "037083",
+      "EDID": "FollowersFired",
+      "FULL": "É hora de nos separarmos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037082",
+      "FORMID": "037082",
+      "EDID": "FollowersLetsGo",
+      "FULL": "Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707F",
+      "FORMID": "03707F",
+      "EDID": "FollowersTactics",
+      "FULL": "Vamos falar sobre suas táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707E",
+      "FORMID": "03707E",
+      "EDID": "FollowersTacticsCombat",
+      "FULL": "Quero que você mude seu estilo de combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707D",
+      "FORMID": "03707D",
+      "EDID": "FollowersTacticsCombatGOODBYE",
+      "FULL": "É tudo. Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707C",
+      "FORMID": "03707C",
+      "EDID": "FollowersTacticsCombatEND",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707B",
+      "FORMID": "03707B",
+      "EDID": "FollowersTacticsCombatMelee",
+      "FULL": "Mude para uma arma corpo a corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707A",
+      "FORMID": "03707A",
+      "EDID": "FollowersTacticsCombatRanged",
+      "FULL": "Quero que você use armas de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037079",
+      "FORMID": "037079",
+      "EDID": "FollowersTacticsDistance",
+      "FULL": "Vamos falar sobre o quão de perto você está me seguindo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037078",
+      "FORMID": "037078",
+      "EDID": "FollowersTacticsDistanceClose",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037077",
+      "FORMID": "037077",
+      "EDID": "FollowersTacticsDistanceDefault",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037076",
+      "FORMID": "037076",
+      "EDID": "FollowersTacticsDistanceEND",
+      "FULL": "Sua distância está boa. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037075",
+      "FORMID": "037075",
+      "EDID": "FollowersTacticsDistanceGOODBYE",
+      "FULL": "Tudo bem, você está bem. Vamos sair daqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037074",
+      "FORMID": "037074",
+      "EDID": "FollowersTacticsDistanceLong",
+      "FULL": "Mantenha distância. Tente flanqueá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037073",
+      "FORMID": "037073",
+      "EDID": "FollowersTacticsEnd",
+      "FULL": "Chega de táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037072",
+      "FORMID": "037072",
+      "EDID": "FollowersTrade",
+      "FULL": "Vamos trocar equipamentos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037071",
+      "FORMID": "037071",
+      "EDID": "FollowersWait",
+      "FULL": "Espere aqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000F2",
+      "FORMID": "0000F2",
+      "EDID": "GuardTrespass",
+      "FULL": "Intrusão do Guarda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EC",
+      "FORMID": "0000EC",
+      "EDID": "FireExplosive",
+      "FULL": "Explosivo de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E6",
+      "FORMID": "0000E6",
+      "EDID": "PowerAttack",
+      "FULL": "Ataque Poderoso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E5",
+      "FORMID": "0000E5",
+      "EDID": "Murder",
+      "FULL": "Assassinato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Ataque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Acertar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D2",
+      "FORMID": "0000D2",
+      "EDID": "HELLO",
+      "FULL": "Olá"
+    }
+  ]
+}

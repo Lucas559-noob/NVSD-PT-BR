@@ -1,0 +1,858 @@
+{
+  "MESG": [
+    {
+      "FORM": "@DeadMoney.esm:013B24",
+      "FORMID": "013B24",
+      "EDID": "NVDLC01FollowerMessagePerkGodAdd",
+      "DESC": "Deus te deu a vantagem \"Nos Meus Passos\".\n\nEssa vantagem te dá um bônus em Furtividade, além da habilidade de andar levemente por armadilhas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B25",
+      "FORMID": "013B25",
+      "EDID": "NVDLC01FollowerMessagePerkGodRemove",
+      "DESC": "Você perdeu a vantagem \"God's In my Footsteps\"."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B4E",
+      "FORMID": "013B4E",
+      "EDID": "NVDLC01SierraMadreGateMsg",
+      "FULL": "Portão para o Cassino Sierra Madre",
+      "DESC": "Este portão leva diretamente ao Cassino Sierra Madre. Uma vez lá dentro, você talvez não consiga retornar à Villa. Deseja prosseguir?",
+      "ITXT": [
+        "Fique na Villa.",
+        "Siga para o Cassino Sierra Madre."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D5F",
+      "FORMID": "013D5F",
+      "EDID": "NVDLC01NamedActorDog",
+      "FULL": "Cachorro"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013D60",
+      "FORMID": "013D60",
+      "EDID": "NVDLC01NamedActorGod",
+      "FULL": "Deus"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013E49",
+      "FORMID": "013E49",
+      "EDID": "NVDLC01FollowerMessagePerkDogAdd",
+      "DESC": "Dog concedeu a você o benefício de sua Fome Voraz.\n\nÉ difícil matar os Povo Fantasma, a menos que sejam desmembrados ou desintegrados. Se Dog estiver no grupo, no entanto, Dog os devorará, impedindo que se levantem."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013E4A",
+      "FORMID": "013E4A",
+      "EDID": "NVDLC01FollowerMessagePerkDogRemove",
+      "DESC": "Você perdeu o benefício de Fome Voraz do Cão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013544",
+      "FORMID": "013544",
+      "EDID": "NVDLC01SuitesEmergencyDoorMsg",
+      "DESC": "Esta porta está hermeticamente selada devido a um colapso estrutural que contaminou o ar. Ela precisará ser aberta em outro lugar.",
+      "ITXT": [
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:013545",
+      "FORMID": "013545",
+      "EDID": "NVDLC01SuitesKitchenDoorMsg",
+      "DESC": "Esta porta está hermeticamente fechada devido a um vazamento de gás na cozinha que contaminou o ar. O gás precisará ser desligado para que ela abra.",
+      "ITXT": [
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:013769",
+      "FORMID": "013769",
+      "EDID": "NVDLC01DogGalaDiagramMenuMsg",
+      "DESC": "Na primeira olhada, o diagrama parece ter algo a ver com as chaves imediatamente à direita dele.\n(Inteligência 7)",
+      "ITXT": [
+        "Ignore o diagrama.",
+        "Estude o diagrama."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:01385D",
+      "FORMID": "01385D",
+      "EDID": "NVDLC01BrokenIntercomMsg",
+      "FULL": "Intercomunicador Quebrado",
+      "DESC": "Este interfone está quebrado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01389E",
+      "FORMID": "01389E",
+      "EDID": "NVDLC01VaultMainTerminalLockedMsg",
+      "DESC": "O terminal não responde. Algo está impedindo suas funções padrão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138A9",
+      "FORMID": "0138A9",
+      "EDID": "NVDLC01ElijahsChemistrySetMsg",
+      "FULL": "Conjunto de Química",
+      "DESC": "Há resíduos acumulando no Conjunto de Química. Com o conhecimento adequado, você pode ser capaz de coletar uma amostra dele.\n\n[Ciência de 25 ou mais necessária.]",
+      "ITXT": [
+        "Deixe em paz.",
+        "Coletar amostra de resíduo."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138C7",
+      "FORMID": "0138C7",
+      "EDID": "NVDLC01VendingMachineMsg",
+      "FULL": "Máquina de Venda",
+      "DESC": "Esta é uma estação de criação com uma aparência incomum. Ao se aproximar, linhas de pequenos itens holográficos aparecem na bandeja de distribuição - esquemas em wireframe e listas de consumíveis que a máquina pode montar e embalar para o consumidor. Há uma ranhura na lateral com um símbolo da Sierra Madre. A ranhura não parece fazer parte do design original."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013936",
+      "FORMID": "013936",
+      "EDID": "NVDLC01SuitesProximityWarningB",
+      "DESC": "Aviso de Varredura de Proximidade!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013937",
+      "FORMID": "013937",
+      "EDID": "NVDLC01SuitesRangedWarningB",
+      "DESC": "Aviso de Varredura de Banda Larga!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01393C",
+      "FORMID": "01393C",
+      "EDID": "NVDLC01VaultTurretGeneratorMsg",
+      "FULL": "Gerador Elétrico de Defesa da Torreta",
+      "DESC": "Este gerador alimenta as defesas das torretas no cofre.\n\nInscrito em sua lateral, você pode ler:\n\n\"Gerador de Defesa de Torreta B.\"\n\nVocê não consegue destruir o gerador. [Armas Corpo a Corpo, ou Desarmado, 50 ou mais necessário]"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01393E",
+      "FORMID": "01393E",
+      "EDID": "NVDLC01VaultTurretGeneratorMWMsg",
+      "FULL": "Gerador Elétrico de Defesa da Torreta",
+      "DESC": "Este gerador alimenta as defesas das torretas no cofre.\n\nInscrito em sua lateral, você pode ler:\n\n\"Gerador de Defesa de Torreta B.\"\n\nVocê pode ser capaz de destruir o gerador. [Armas Corpo a Corpo 50 ou superior necessário]",
+      "ITXT": [
+        "Deixe o gerador em paz.",
+        "Destrua o gerador."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:01393F",
+      "FORMID": "01393F",
+      "EDID": "NVDLC01VaultTurretGeneratorUMsg",
+      "FULL": "Gerador Elétrico de Defesa da Torreta",
+      "DESC": "Este gerador alimenta as defesas das torretas no cofre.\n\nInscrito em sua lateral, você pode ler:\n\n\"Gerador de Defesa de Torreta B.\"\n\nVocê pode ser capaz de destruir o gerador. [Desarmado 50 ou superior necessário]",
+      "ITXT": [
+        "Deixe o gerador em paz.",
+        "Destrua o gerador."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139BB",
+      "FORMID": "0139BB",
+      "EDID": "NVDLC01CoinOperatorPerkGain",
+      "DESC": "Christine ensinou a você a vantagem Operador de Moedas, permitindo que você faça \"Fichas\" de Sierra Madre (slugs de metal) em Bancadas de Trabalho usando Baterias de Fissão e Sucata."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139BC",
+      "FORMID": "0139BC",
+      "EDID": "NVDLC01GhostHunterPerkGain",
+      "DESC": "Cachorro te ensinou a Vantagem Caçador de Fantasmas, permitindo que você mate Pessoas Fantasma para que elas permaneçam mortas, mortas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0139BD",
+      "FORMID": "0139BD",
+      "EDID": "NVDLC01SierraMadreMartiniPerkGain",
+      "DESC": "Dean ensinou a \"Vantagem\" Sierra Madre Martini, permitindo que você misture Resíduo de Nuvens e Comida Lixo em uma Lata em uma Fogueira ou Chapa Elétrica para uma bebida surpreendentemente forte, restauradora e nojenta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012877",
+      "FORMID": "012877",
+      "EDID": "NVDLC01KitchenBackEntranceMsg",
+      "DESC": "Esta porta está hermeticamente selada devido ao vazamento de gás. Se você ignorar a trava da porta, não poderá abri-la por dentro até desligar as válvulas de gás e lidar com o Cão. (Chave de Manutenção de Emergência Necessária)",
+      "ITXT": [
+        "Não fazer nada.",
+        "Use a Chave de Manutenção de Emergência para entrar na Cozinha."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:012BD7",
+      "FORMID": "012BD7",
+      "EDID": "NVDLC01TravelToSierraMadreMsg",
+      "FULL": "Dinheiro Morto",
+      "DESC": "A DLC \"Dinheiro Morto\" é recomendado para mensageiros experientes (Nível 20+). Se estiver à altura do desafio, continue. A Grande Inauguração da Sierra Madre espera... e espera há 200 anos.",
+      "ITXT": [
+        "Fique nos Ermos de Mojave.",
+        "Procure o sinal de rádio no Bunker."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:012CB9",
+      "FORMID": "012CB9",
+      "EDID": "NVDLC01SuitesBeepWarning",
+      "DESC": "Seu colar está emitindo um bipe agudo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012CBA",
+      "FORMID": "012CBA",
+      "EDID": "NVDLC01SuitesRangedWarning",
+      "DESC": "Christine ativou a frequência de detonação da varredura."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012CBB",
+      "FORMID": "012CBB",
+      "EDID": "NVDLC01SuitesProximityWarning",
+      "DESC": "Christine ativou a frequência de detonação por proximidade."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012CBC",
+      "FORMID": "012CBC",
+      "EDID": "NVDLC01SuitesBeepHalfwayWarning",
+      "DESC": "Seu colar está apitando mais rápido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012EA1",
+      "FORMID": "012EA1",
+      "EDID": "NVDLC01KitchenFrontEntranceWarningMsg",
+      "DESC": "Esta porta está hermeticamente selada devido ao vazamento de gás e à anulação de Elijah. Ela não abrirá até que as válvulas sejam desligadas e Dog seja tratado.",
+      "ITXT": [
+        "Não fazer nada.",
+        "<Use a chave de acesso de manutenção para abrir a porta>"
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:012EA2",
+      "FORMID": "012EA2",
+      "EDID": "NVDLC01KitchenValveWarningMsg",
+      "DESC": "Esta porta não abrirá até que as válvulas de gás tenham sido reparadas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012EA3",
+      "FORMID": "012EA3",
+      "EDID": "NVDLC01KitchenFrontEntranceMsg",
+      "DESC": "Esta porta está hermeticamente selada devido ao vazamento de gás na cozinha da Casa Madrid. Embora uma chave de manutenção possa anular a fechadura, ela não abrirá por dentro a menos que as válvulas de gás sejam desligadas. (Chave de Acesso de Manutenção Necessária)",
+      "ITXT": [
+        "Não fazer nada.",
+        "<Use a Chave de Acesso de Manutenção para abrir a porta.>"
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:01327A",
+      "FORMID": "01327A",
+      "EDID": "NVDLC01DogEatsGhostMsg",
+      "DESC": "O Cão devorou um inimigo caído."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01331D",
+      "FORMID": "01331D",
+      "EDID": "NVDLC01SuitesElevatorMsg",
+      "DESC": "O elevador parece ter sido bloqueado pela segurança. Talvez Christine esteja envolvida.",
+      "ITXT": [
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:013374",
+      "FORMID": "013374",
+      "EDID": "NVDLC01Gala02VentSystemOnMsg",
+      "DESC": "Você ouve um barulho alto vindo da sala a oeste. Parece que os sistemas de ventilação estão sendo ativados, limpando a Névoa do porão da Estação de Mudanças e de partes das ruas de Puesta del Sol."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013404",
+      "FORMID": "013404",
+      "EDID": "NVDLC01TravelToMojaveMsg",
+      "FULL": "Portão para o Ermos de Mojave",
+      "DESC": "Este caminho leva de Sierra Madre de volta ao Ermos de Mojave. Você tem certeza de que nunca mais poderá voltar aqui. Você tem certeza de que quer sair?",
+      "ITXT": [
+        "Fique na Sierra Madre.",
+        "Retornar ao Ermos de Mojave."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:01340F",
+      "FORMID": "01340F",
+      "EDID": "NVDLC01SuitesAutoDocMsg",
+      "FULL": "Auto-Doc",
+      "DESC": "Este Auto-Doc com aparência incomum ainda tem uma série de diodos e botões que parecem funcionar.",
+      "ITXT": [
+        "Deixe o Auto-Doc em paz.",
+        "Cura todos os membros aleijados.",
+        "Injetar adrenalina para curar exaustão.",
+        "[Baixar Histórico Médico]"
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:012506",
+      "FORMID": "012506",
+      "EDID": "NVDLC01BombCollarChristineMsg",
+      "DESC": "A contrafrequência da Christine está bloqueando temporariamente o Alto-falante."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012505",
+      "FORMID": "012505",
+      "EDID": "NVDLC01CraftingNoSkillMsg",
+      "FULL": "Reparar Falha na Máquina de Vendas",
+      "DESC": "Você não tem a perícia Reparos necessária para consertar a Máquina de Vendas. (Reparos 50 ou superior necessário)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012504",
+      "FORMID": "012504",
+      "EDID": "NVDLC01CraftingFixedMsg",
+      "FULL": "Máquina de Venda",
+      "DESC": "Você consertou a Máquina de Venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:012502",
+      "FORMID": "012502",
+      "EDID": "NVDLC01CraftingRepairMsg",
+      "FULL": "Consertar Máquina de Venda",
+      "DESC": "Esta máquina de vendas está quebrada. Com sua habilidade de reparar objetos, você pode conseguir consertá-la.",
+      "ITXT": [
+        "Deixe em paz.",
+        "Consertar a Máquina de Venda."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:01229D",
+      "FORMID": "01229D",
+      "EDID": "NVDLC01DogGalaDiagram02Msg",
+      "DESC": "Este diagrama mostra a ordem em que as chaves devem ser acionadas para redirecionar a energia para várias áreas da cidade, incluindo a Torre do Sino."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01226F",
+      "FORMID": "01226F",
+      "EDID": "NVDLC01DogGalaSwitchMsg",
+      "DESC": "As chaves enferrujaram e vão exigir muita força para serem movidas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01225D",
+      "FORMID": "01225D",
+      "EDID": "NVDLC01HoloDisableMsg",
+      "DESC": "Você desativou o emissor."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011C37",
+      "FORMID": "011C37",
+      "EDID": "NVDLC01ElevatorFumbledMsg",
+      "FULL": "Elevador da Vault Trancado",
+      "DESC": "O elevador do Vault permanece lacrado.\n\nVocê não inseriu a senha por voz corretamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B28",
+      "FORMID": "011B28",
+      "EDID": "NVDLC01ChallengeDeanSecretStash",
+      "FULL": "Achei um esconderijo secreto!",
+      "DESC": "Você encontrou o esconderijo secreto do Dean!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01190B",
+      "FORMID": "01190B",
+      "EDID": "NVDLC01ElevatorUnlockedPasswordMsg",
+      "FULL": "Elevador do Cofre Desbloqueado!",
+      "DESC": "Você toca os Holodiscos de Vera, que canta \"Começar de novo... Deixar ir.\"\n\nO Elevador do Vault destrava seus selos.\n\nO caminho para o Vault de Sierra Madre agora está aberto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0113FB",
+      "FORMID": "0113FB",
+      "EDID": "NVDLC01ElevatorCodeInfoMsg",
+      "FULL": "Objeto Inspecionado",
+      "DESC": "Este dispositivo é um sistema de segurança de reconhecimento de voz que protege o acesso ao Cofre da Sierra Madre.\n\nDestravá-lo requer falar no microfone com a voz correta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0113FA",
+      "FORMID": "0113FA",
+      "EDID": "NVDLC01ElevatorLockedMsg",
+      "FULL": "Elevador da Vault Trancado",
+      "DESC": "O elevador do Vault está trancado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011218",
+      "FORMID": "011218",
+      "EDID": "NVDLC01ToxicCloudDeanMsg",
+      "DESC": "Dean está protegendo você de uma nuvem tóxica."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010F67",
+      "FORMID": "010F67",
+      "EDID": "NVDLC01KitchenBackDoorMsg",
+      "DESC": "Esta porta está selada hermeticamente devido ao vazamento de gás. Você não vai conseguir abri-la por dentro até desligar as válvulas de gás e lidar com o Cão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DD2",
+      "FORMID": "010DD2",
+      "EDID": "NVDLC01KitchenDeadDogMsg",
+      "DESC": "As válvulas restantes devem ser reparadas antes que a coleira do Cão exploda, incendiando o gás."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DA9",
+      "FORMID": "010DA9",
+      "EDID": "NVDLC01KitchenValveMsg",
+      "DESC": "Esta válvula precisa de reparo.",
+      "ITXT": [
+        "Deixe a válvula em paz.",
+        "Consertar a válvula."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DA8",
+      "FORMID": "010DA8",
+      "EDID": "NVDLC01KitchenValveReinforcedMsg",
+      "DESC": "Reparo e reforço bem-sucedidos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010DA7",
+      "FORMID": "010DA7",
+      "EDID": "NVDLC01KitchenValveRepairedMsg",
+      "DESC": "Você conseguiu consertar a válvula, mas não tem habilidade para reforçá-la contra danos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BAB",
+      "FORMID": "010BAB",
+      "EDID": "NVDLC01TheaterStageTerminal02Msg",
+      "FULL": "Terminal do Gerente de Palco",
+      "DESC": "Este terminal está quebrado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010BAA",
+      "FORMID": "010BAA",
+      "EDID": "NVDLC01TheaterStageTerminalMsg",
+      "FULL": "Terminal do Gerente de Palco",
+      "DESC": "Este terminal está quebrado."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010443",
+      "FORMID": "010443",
+      "EDID": "NVDLC01HologramEmitterNoSkillMsg",
+      "FULL": "Emissor de Holograma",
+      "DESC": "Você não tem a perícia para fazer isso."
+    },
+    {
+      "FORM": "@DeadMoney.esm:010442",
+      "FORMID": "010442",
+      "EDID": "NVDLC01HologramEmitterVeryHardMsg",
+      "FULL": "Emissor de Holograma",
+      "DESC": "Este emissor controla um Holograma de Segurança nesta área. Você pode ser capaz de desativar o emissor. [Reparo 100 necessário]",
+      "ITXT": [
+        "Deixe o emissor em paz.",
+        "Desativar emissor."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:010441",
+      "FORMID": "010441",
+      "EDID": "NVDLC01HologramEmitterHardMsg",
+      "FULL": "Emissor de Holograma",
+      "DESC": "Este emissor controla um Holograma de Segurança nesta área. Você pode ser capaz de desativar o emissor. [Reparo 75 ou superior necessário]",
+      "ITXT": [
+        "Deixe o emissor em paz.",
+        "Desativar emissor."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:010440",
+      "FORMID": "010440",
+      "EDID": "NVDLC01HologramEmitterAverageMsg",
+      "FULL": "Emissor de Holograma",
+      "DESC": "Este emissor controla um Holograma de Segurança nesta área. Você pode ser capaz de desativar o emissor. [Reparo 50 ou superior necessário]",
+      "ITXT": [
+        "Deixe o emissor em paz.",
+        "Desativar emissor."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:0102AC",
+      "FORMID": "0102AC",
+      "EDID": "NVDLC01DogGalaDiagramNoSkillMsg",
+      "DESC": "Você vê um diagrama complicado, mas não entende o que significa.\n(Inteligência 7 ou superior necessária)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01025A",
+      "FORMID": "01025A",
+      "EDID": "NVDLC01CasinoCompsHugeMessage",
+      "FULL": "Presente de Cortesia Aguardando",
+      "DESC": "Por favor, troque seu voucher por um presente de cortesia em qualquer máquina de venda."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FFE6",
+      "FORMID": "00FFE6",
+      "EDID": "NVDLC01TheaterVeraPartiturMsg",
+      "FULL": "Objeto Encontrado",
+      "DESC": "Uma chave desliza das Partituras de Vera."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FFE5",
+      "FORMID": "00FFE5",
+      "EDID": "NVDLC01TheaterProjectorPlayMsg",
+      "FULL": "Projetor do Teatro Sierra Madre",
+      "DESC": "Projetores de Holotape podem reproduzir Holotapes.\n\nO que você gostaria de fazer?",
+      "ITXT": [
+        "Tocar a holofita de \"Eu a Vi Ontem\" de Dean Domino.",
+        "Deixe o Projetor de Holotape em paz."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FE2F",
+      "FORMID": "00FE2F",
+      "EDID": "NVDLC01CasinoCompsMessage",
+      "FULL": "Presente de Cortesia Aguardando",
+      "DESC": "Você tem um presente de cortesia esperando por você no caixa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F41E",
+      "FORMID": "00F41E",
+      "EDID": "NVDLC01LoadedMsg",
+      "FULL": "Dinheiro Morto foi carregado.",
+      "DESC": "A DLC \"Dinheiro Morto\" foi carregada. Seu limite de nível foi aumentado em 5."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3FE",
+      "FORMID": "00F3FE",
+      "EDID": "NVDLC01GenericRepairFailedMsg",
+      "DESC": "Sua perícia em Reparos não é alta o suficiente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F3FD",
+      "FORMID": "00F3FD",
+      "EDID": "NVDLC01GenericRepairSuccessfulMsg",
+      "DESC": "Reparo bem-sucedido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EFB8",
+      "FORMID": "00EFB8",
+      "EDID": "NVDLC01ToxicCloudStopMsg",
+      "DESC": "Você não está mais sendo envenenado por uma nuvem tóxica."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EFB7",
+      "FORMID": "00EFB7",
+      "EDID": "NVDLC01ToxicCloudStartMsg",
+      "DESC": "Você está sendo envenenado por uma nuvem tóxica."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED4C",
+      "FORMID": "00ED4C",
+      "EDID": "NVDLC01TheaterProjectorBlockMsg",
+      "FULL": "Projetor do Teatro Sierra Madre",
+      "DESC": "Você não tem uma Holotape que toque neste projetor."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED4B",
+      "FORMID": "00ED4B",
+      "EDID": "NVDLC01TheaterRecorderMsg",
+      "FULL": "Gravador do Teatro Sierra Madre",
+      "DESC": "Gravadores de Holotape podem editar Holotapes.\n\nO que você gostaria de fazer?",
+      "ITXT": [
+        "Junte os fragmentos de voz \"Let\" e \"Go\" das gravações de Vera.",
+        "Deixe o Gravador de Holotape em paz."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ED4A",
+      "FORMID": "00ED4A",
+      "EDID": "NVDLC01TheaterProjectorBlock02Msg",
+      "FULL": "Projetor do Teatro Sierra Madre",
+      "DESC": "Você não tem uma Holotape que toque neste projetor."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECED",
+      "FORMID": "00ECED",
+      "EDID": "NVDLC01Gala02ElevatorStartMsg",
+      "DESC": "O painel ao lado do elevador tem botões para subir ou descer.",
+      "ITXT": [
+        "Deixe o elevador em paz.",
+        "Aperte o botão para cima.",
+        "Suba com Christine.",
+        "Aperte o botão para baixo.",
+        "Aperte o botão para baixo."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECEC",
+      "FORMID": "00ECEC",
+      "EDID": "NVDLC01Gala02ChristineInPositionMsg",
+      "DESC": "Você decide que é melhor deixar Christine lá embaixo, na câmara de anulação manual."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECEB",
+      "FORMID": "00ECEB",
+      "EDID": "NVDLC01Gala02ElevatorDownMsg",
+      "DESC": "Com esse conhecimento em mãos, você volta com o elevador para a Estação de Chaveamento."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EB95",
+      "FORMID": "00EB95",
+      "EDID": "NVDLC01TableClosedMessage",
+      "FULL": "Sierra Madre Fechada",
+      "DESC": "O Cassino Sierra Madre está atualmente fechado. Uma vez que a energia seja restaurada ao cassino, parece que os jogos serão reabertos também - com negociantes Holográficos monitorando as mesas e máquinas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7CE",
+      "FORMID": "00E7CE",
+      "EDID": "NVDLC01ElevatorUnlockedMsg",
+      "FULL": "Elevador do Cofre Desbloqueado",
+      "DESC": "O Elevador do Cofre destrava suas travas.\n\nO caminho para o Cofre da Sierra Madre está aberto."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E7CD",
+      "FORMID": "00E7CD",
+      "EDID": "NVDLC01ElevatorCodePassMsg",
+      "FULL": "Segurança do Cofre de Sierra Madre",
+      "DESC": "Bem-vinda, Srta. Keyes.\n\nPor favor, fale para acesso por reconhecimento de voz.",
+      "ITXT": [
+        "Toque a voz da estrela do seu Pip-Boy.",
+        "Deixe o Elevador do Cofre em paz."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3DB",
+      "FORMID": "00E3DB",
+      "EDID": "NVDLC01Gala02EboxPartsFixSuccessfulMsg",
+      "DESC": "Usando as peças que você conseguiu, você consegue consertar o disjuntor e fazer a energia voltar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3DA",
+      "FORMID": "00E3DA",
+      "EDID": "NVDLC01Gala02EboxRepairSkillNeededMsg",
+      "DESC": "Sua perícia em Reparos não é alta o suficiente para consertar o disjuntor."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3D9",
+      "FORMID": "00E3D9",
+      "EDID": "NVDLC01Gala02EboxRepairSuccessfulMsg",
+      "DESC": "Depois de alguns ajustes rápidos, a energia volta."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3D8",
+      "FORMID": "00E3D8",
+      "EDID": "NVDLC01Gala02InitialDoorMsg",
+      "DESC": "A porta não vai abrir. Não parece ter energia chegando nela."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3D7",
+      "FORMID": "00E3D7",
+      "EDID": "NVDLC01Gala02EboxNotFixedMsg",
+      "DESC": "O disjuntor parece ter sido improvisado em algum momento no passado, mas atualmente precisa de reparo.",
+      "ITXT": [
+        "[Não traduzido]",
+        "[Reparo 60] Improvisar o disjuntor.",
+        "[Itens Necessários] Conserte o disjuntor usando peças."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3D6",
+      "FORMID": "00E3D6",
+      "EDID": "NVDLC01Gala02EboxFixedMsg",
+      "DESC": "O disjuntor agora está funcionando."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E3D5",
+      "FORMID": "00E3D5",
+      "EDID": "NVDLC01Gala02EboxPartsNeededMsg",
+      "DESC": "Você precisa de três Fusíveis de Caixa Elétrica para consertar o disjuntor."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E208",
+      "FORMID": "00E208",
+      "EDID": "NVDLC01SlotsMsg",
+      "FULL": "Jackpot do Sierra Madre",
+      "DESC": "Você atingiu o limite do jackpot, mas sinta-se à vontade para explorar os outros serviços aqui no Sierra Madre!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4AB",
+      "FORMID": "00D4AB",
+      "EDID": "NVDLC01MessagePerkElijahRamblings",
+      "DESC": "Você recebeu a vantagem Divagações de Elijah."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4AA",
+      "FORMID": "00D4AA",
+      "EDID": "NVDLC01MessagePerkElijahLastWords",
+      "DESC": "Veronica recebeu a vantagem Últimas Palavras de Elijah.\n\nEla aprendeu uma técnica secreta de Arma Corpo a Corpo que aumenta sua velocidade de ataque em 150%% e lhe dá 25%% de chance de derrubar inimigos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BFC0",
+      "FORMID": "00BFC0",
+      "EDID": "NVDLC01ElevatorGoneMsgTwo",
+      "DESC": "O elevador não pode ser chamado de volta do The Vault."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BFBF",
+      "FORMID": "00BFBF",
+      "EDID": "NVDLC01ElevatorGoneMsg",
+      "DESC": "O elevador não pode ser chamado de volta do The Vault."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00AD8E",
+      "FORMID": "00AD8E",
+      "EDID": "NVDLC01SuitesBrokenIntercomMsg",
+      "FULL": "Intercomunicador Quebrado",
+      "DESC": "Este interfone parece ter falhado com o tempo. Ele só permitirá comunicação unidirecional de outro interfone.",
+      "ITXT": [
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A818",
+      "FORMID": "00A818",
+      "EDID": "NVDLC01DoorTrapDetectMsg",
+      "DESC": "Ao começar a abrir a porta, você nota um fio-armadilha do outro lado.",
+      "ITXT": [
+        "Feche a porta.",
+        "Desarmar a Armadilha."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A4F0",
+      "FORMID": "00A4F0",
+      "EDID": "NVDLC01ClinicAutoDocMsg",
+      "FULL": "Auto-Doc",
+      "DESC": "Este Auto-Doc com aparência incomum ainda tem uma série de diodos e botões que parecem funcionar.",
+      "ITXT": [
+        "Deixe o Auto-Doc em paz.",
+        "Cura todos os membros aleijados.",
+        "Injetar adrenalina para curar exaustão."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:0091CB",
+      "FORMID": "0091CB",
+      "EDID": "NVDLC01BeepWarningStop",
+      "DESC": "Seu colar parou de apitar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:0091CA",
+      "FORMID": "0091CA",
+      "EDID": "NVDLC01CollarDeathBeepWarning",
+      "DESC": "Seu colar está emitindo um bipe lento e constante."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A39",
+      "FORMID": "008A39",
+      "EDID": "NVDLC01FollowerMessageDeadChristine",
+      "DESC": "Christine morreu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A38",
+      "FORMID": "008A38",
+      "EDID": "NVDLC01FollowerMessageLeaveChristine",
+      "DESC": "Christine foi para a Fonte da Vila."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A37",
+      "FORMID": "008A37",
+      "EDID": "NVDLC01FollowerMessagePerkDeanRemove",
+      "DESC": "Você perdeu a vantagem Vida Imunda do Dean."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A36",
+      "FORMID": "008A36",
+      "EDID": "NVDLC01FollowerMessagePerkChristineRemove",
+      "DESC": "Você perdeu a vantagem Interferência de Sinal da Christine."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A35",
+      "FORMID": "008A35",
+      "EDID": "NVDLC01FollowerMessageLeaveDog",
+      "DESC": "O Cão foi para a Fonte da Vila."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A34",
+      "FORMID": "008A34",
+      "EDID": "NVDLC01FollowerMessageLeaveDean",
+      "DESC": "Dean foi para a Fonte da Villa."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A33",
+      "FORMID": "008A33",
+      "EDID": "NVDLC01FollowerMessageDeadDog",
+      "DESC": "O cão morreu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A32",
+      "FORMID": "008A32",
+      "EDID": "NVDLC01FollowerMessageDeadDean",
+      "DESC": "Dean morreu."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A31",
+      "FORMID": "008A31",
+      "EDID": "NVDLC01FollowerMessagePerkDeanAdd",
+      "DESC": "Dean concedeu a você a vantagem Vida Imunda.\n\nEssa vantagem concede a você um curto período de tempo antes de sofrer dano dentro de uma nuvem tóxica, além de reduzir a quantidade de dano que você recebe dentro da nuvem tóxica em 25%."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A30",
+      "FORMID": "008A30",
+      "EDID": "NVDLC01FollowerMessagePerkChristineAdd",
+      "DESC": "Christine concedeu a você a vantagem Interferência de Sinal.\n\nEsta vantagem concede a você um curto período de tempo perto de um alto-falante antes que sua coleira-bomba comece a ativar, além de aumentar em 50% o tempo antes que sua coleira-bomba detone."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006EC4",
+      "FORMID": "006EC4",
+      "EDID": "NVDLC01HologramEmitterEasyMsg",
+      "FULL": "Emissor de Holograma",
+      "DESC": "Este emissor controla um Holograma de Segurança nesta área. Você pode ser capaz de desativar o emissor. [Reparo 25 ou superior necessário]",
+      "ITXT": [
+        "Deixe o emissor em paz.",
+        "Desativar emissor."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E97",
+      "FORMID": "006E97",
+      "EDID": "NVDLC01CollarTestDistance",
+      "DESC": "Coleira explosiva configurada para gatilho por distância."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006E96",
+      "FORMID": "006E96",
+      "EDID": "NVDLC01CollarTestTime",
+      "DESC": "Coleira explosiva configurada para detonação por tempo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CAC",
+      "FORMID": "006CAC",
+      "EDID": "NVDLC01CollarBeepHalfwayWarning",
+      "DESC": "Seu colar está apitando mais rápido."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CA9",
+      "FORMID": "006CA9",
+      "EDID": "HVBeepWarningStop",
+      "DESC": "A coleira parou de apitar."
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CA8",
+      "FORMID": "006CA8",
+      "EDID": "NVDLC01CollarBeepWarning",
+      "DESC": "Seu colar está emitindo um bipe agudo."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00684B",
+      "FORMID": "00684B",
+      "EDID": "NVDLC01valveRepairMsg",
+      "DESC": "(Reparo 25 ou superior necessário)",
+      "ITXT": [
+        "Deixe a válvula em paz.",
+        "Altere o fluxo de gás pelo cano."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:0062B2",
+      "FORMID": "0062B2",
+      "EDID": "NVDLC01DownloadMessage",
+      "FULL": "Grande Inauguração da Sierra Madre!",
+      "DESC": "Seu Pip-Boy captou uma transmissão de rádio convidando você para a grande inauguração do Cassino Sierra Madre!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:005236",
+      "FORMID": "005236",
+      "EDID": "NVDLC01ClinicChristinePanelMsg",
+      "FULL": "Auto-Doc",
+      "DESC": "O Auto-Doc próximo emite uma série de ruídos perturbadores enquanto opera.",
+      "ITXT": [
+        "Deixe o painel em paz.",
+        "Desativar operação do Auto-Doc."
+      ]
+    }
+  ]
+}

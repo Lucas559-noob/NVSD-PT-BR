@@ -1,0 +1,1036 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@Anchorage.esm:00C502",
+      "FORMID": "00C502",
+      "EDID": "DLC02McGrawSell",
+      "FULL": "Tem alguma coisa para comerciar?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C49D",
+      "FORMID": "00C49D",
+      "EDID": "DLC02OA3MorganStart04",
+      "FULL": "Esta Equipe de Combate... Eu nunca havia liderado uma tropa assim."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C49C",
+      "FORMID": "00C49C",
+      "EDID": "DLC02OA3MorganStart05",
+      "FULL": "Eu espero que você saiba mais sobre esta Equipe de Combate, porque eu não sei."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C49B",
+      "FORMID": "00C49B",
+      "EDID": "DLC02OA3MorganStart06",
+      "FULL": "Diga ao General Chase que eu não preciso de uma Equipe de Combate... Eu trabalho sozinho."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DE",
+      "FORMID": "00C3DE",
+      "EDID": "DLC02OA1McGrawHowHelp1b",
+      "FULL": "Ande logo, McGraw. Eu não tenho o dia todo."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DD",
+      "FORMID": "00C3DD",
+      "EDID": "DLC02OA1McGrawSimulation",
+      "FULL": "Simulação? Tipo... Uma simulação de computador?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DC",
+      "FORMID": "00C3DC",
+      "EDID": "DLC02OA1McGrawHowHelp1c",
+      "FULL": "Vocês tratam forasteiros como merda, mas ainda assim imploram por ajuda. Típico."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DB",
+      "FORMID": "00C3DB",
+      "EDID": "DLC02OA1McGrawHowHelp1d",
+      "FULL": "Se você tem um trabalho remunerado, eu estou dentro. Qual é a situação?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3DA",
+      "FORMID": "00C3DA",
+      "EDID": "DLC02OA1McGrawSimulationc",
+      "FULL": "Simulação, hein? Difícil de acreditar."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3D9",
+      "FORMID": "00C3D9",
+      "EDID": "DLC02OA1McGrawSimulationb",
+      "FULL": "Basicamente um jogo de computador. Eu entendi. Parece divertido!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3D8",
+      "FORMID": "00C3D8",
+      "EDID": "DLC02OA1McGrawSimulationd",
+      "FULL": "Ah, ótimo. Deixe-me adivinhar, mais menininhas psicóticas..."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39C",
+      "FORMID": "00C39C",
+      "EDID": "DLC02GuardGetBy",
+      "FULL": "Morrill os chamou pelo rádio.  Eu tenho que ver o Protector McGraw."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39B",
+      "FORMID": "00C39B",
+      "EDID": "DLC02GuardDisguised1",
+      "FULL": "É, uma luta do inferno. Posso participar?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C39A",
+      "FORMID": "00C39A",
+      "EDID": "DLC02GuardDisguisedEvilResponse",
+      "FULL": "Sim, é quase tão divertido quanto matar mutantes."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C399",
+      "FORMID": "00C399",
+      "EDID": "DLC02GuardGoodbye",
+      "FULL": "Talvez seja melhor eu ir."
+    },
+    {
+      "FORM": "@Anchorage.esm:00C072",
+      "FORMID": "00C072",
+      "EDID": "DLC02OlinRepair",
+      "FULL": "Eu tenho alguns equipamentos que precisam de reparos."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5C",
+      "FORMID": "00BF5C",
+      "EDID": "DLC02OA1McGrawExplain1",
+      "FULL": "Eu só estava explorando. Eu não queria me intrometer."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5B",
+      "FORMID": "00BF5B",
+      "EDID": "DLC02OA1McGrawExplain2",
+      "FULL": "Ei, eu estou aqui para ajudar. Eu ouvi sua transmissão de rádio."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BF5A",
+      "FORMID": "00BF5A",
+      "EDID": "DLC02OA1McGrawExplain3",
+      "FULL": "Você não pode me matar se já estiver morto."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3C",
+      "FORMID": "00BA3C",
+      "EDID": "DLC02OA3MontgomeryStart04",
+      "FULL": "É, eu acho que eu fiz algo tipo... Salvar o dia."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3B",
+      "FORMID": "00BA3B",
+      "EDID": "DLC02OA3MontgomeryStart05",
+      "FULL": "Apenas mais um dia de trabalho, Benji."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA3A",
+      "FORMID": "00BA3A",
+      "EDID": "DLC02OA3MontgomeryStart06",
+      "FULL": "Você ganha algumas, e perde outras. Se o trabalho estiver feito, qual o problema?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA39",
+      "FORMID": "00BA39",
+      "EDID": "DLC02OA3MontgomeryStart07",
+      "FULL": "Não se preocupe, Benji. Eu serei."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA38",
+      "FORMID": "00BA38",
+      "EDID": "DLC02OA3MontgomeryStart08",
+      "FULL": "Eu nunca pedi para servir de modelo. Eu só quero acabar com isto."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA37",
+      "FORMID": "00BA37",
+      "EDID": "DLC02OA3MontgomeryStart09",
+      "FULL": "Estes soldados nem sequer são reais. Isto é tudo uma farsa."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA35",
+      "FORMID": "00BA35",
+      "EDID": "DLC02OA3MontgomeryStart10",
+      "FULL": "Sim, você está certo. Desculpe Benji!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA34",
+      "FORMID": "00BA34",
+      "EDID": "DLC02OA3MontgomeryStart11",
+      "FULL": "Suponho que sim. Vamos apenas acabar com isso."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA33",
+      "FORMID": "00BA33",
+      "EDID": "DLC02OA3MontgomeryStart12",
+      "FULL": "Vamos apenas esquecer, ok?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA32",
+      "FORMID": "00BA32",
+      "EDID": "DLC02OA3MontgomeryStart09Science",
+      "FULL": "Eu não me atreveria a discutir com as sub-rotinas da A.I. desta simulação."
+    },
+    {
+      "FORM": "@Anchorage.esm:00BA31",
+      "FORMID": "00BA31",
+      "EDID": "DLC02OA3MontgomeryStart01Intelligence",
+      "FULL": "Chega! Tem de haver um meio de parar esta simulação. Uma senha ou algo assim."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9FA",
+      "FORMID": "00B9FA",
+      "EDID": "DLC02OA1SibleyGreet1",
+      "FULL": "Ouça, querido. Estou meio perdida. Posso falar com quem está no comando?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9F9",
+      "FORMID": "00B9F9",
+      "EDID": "DLC02OA1SibleyGreet2",
+      "FULL": "Opa, esse não é o Vault. Erro meu, devo ter feito uma curva errada."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9F8",
+      "FORMID": "00B9F8",
+      "EDID": "DLC02OA1SibleyGreet3",
+      "FULL": "Que lugar magnífico que você tem aqui. Você se importa se eu der uma olhada?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9F7",
+      "FORMID": "00B9F7",
+      "EDID": "DLC02OA1SibleyGreet4",
+      "FULL": "Uau, que lugar é esse?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B9E6",
+      "FORMID": "00B9E6",
+      "EDID": "DLC02OA1OlinGoodbye",
+      "FULL": "Ok, acho que vou ir até ele."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B573",
+      "FORMID": "00B573",
+      "EDID": "DLC02OA1OlinHeal",
+      "FULL": "Ok, me dê uma cadeira."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4DF",
+      "FORMID": "00B4DF",
+      "EDID": "DLC02STTLQuarterWantGauss",
+      "FULL": "O material que você possui é bom, mas eu preciso de algo mais... Violento."
+    },
+    {
+      "FORM": "@Anchorage.esm:007BB5",
+      "FORMID": "007BB5",
+      "EDID": "DLC02SibleyGreet1",
+      "FULL": "Uau, que lugar é este?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00766D",
+      "FORMID": "00766D",
+      "EDID": "DLC02OA4ChaseGreet1",
+      "FULL": "Senhor, Sim, Senhor!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00766C",
+      "FORMID": "00766C",
+      "EDID": "DLC02OA4ChaseGreet2",
+      "FULL": "O que... o que é isso? Justo agora que eu estava começando a me divertir!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00766B",
+      "FORMID": "00766B",
+      "EDID": "DLC02OA4ChaseGreet3",
+      "FULL": "Eu estou pronto? A simulação acabou?"
+    },
+    {
+      "FORM": "@Anchorage.esm:007553",
+      "FORMID": "007553",
+      "EDID": "DLC02STTLAsYouWere",
+      "FULL": "À vontade."
+    },
+    {
+      "FORM": "@Anchorage.esm:007412",
+      "FORMID": "007412",
+      "EDID": "DLC02STTLMontgomeryRallyGoToCamp",
+      "FULL": "Enviar a Equipe ao Novo Ponto de Objetivo: Acampamento de Gelo."
+    },
+    {
+      "FORM": "@Anchorage.esm:007411",
+      "FORMID": "007411",
+      "EDID": "DLC02STTLMontgomeryRallyGoToListen",
+      "FULL": "Terminando com as Minas. Envie a Equipe ao Novo Ponto de Objetivo: Posto de Escuta."
+    },
+    {
+      "FORM": "@Anchorage.esm:007410",
+      "FORMID": "007410",
+      "EDID": "DLC02STTLMontgomeryRallyGoToChimera",
+      "FULL": "Concluindo o Acampamento de Gelo. Envie a Equipe ao Novo Ponto de Objetivo: Quimera."
+    },
+    {
+      "FORM": "@Anchorage.esm:007200",
+      "FORMID": "007200",
+      "EDID": "DLC02STTLMontgomeryRallyGoToMines",
+      "FULL": "Enviar a Equipe ao Novo Ponto de Objetivo: Minas."
+    },
+    {
+      "FORM": "@Anchorage.esm:005482",
+      "FORMID": "005482",
+      "EDID": "DLC02STTLAttackOLDIMPLEMENTATION",
+      "FULL": "Ataque o Campo Inimigo quando estiver pronto, Sargento."
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF3",
+      "FORMID": "004FF3",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish07",
+      "FULL": "Na verdade, cancele essa ordem."
+    },
+    {
+      "FORM": "@Anchorage.esm:004FF2",
+      "FORMID": "004FF2",
+      "EDID": "DLC02STTLDismissed",
+      "FULL": "Você está expulso da Equipe de Combate, soldado."
+    },
+    {
+      "FORM": "@Anchorage.esm:00496A",
+      "FORMID": "00496A",
+      "EDID": "DLC02OA3MontgomeryStartGo01",
+      "FULL": "Então, como vai a Equipe de Combate?"
+    },
+    {
+      "FORM": "@Anchorage.esm:004969",
+      "FORMID": "004969",
+      "EDID": "DLC02OA3MontgomeryStartGo02",
+      "FULL": "Vamos fazer a Equipe de Combate se mexer, Sargento."
+    },
+    {
+      "FORM": "@Anchorage.esm:004968",
+      "FORMID": "004968",
+      "EDID": "DLC02OA3MontgomeryStartGo03",
+      "FULL": "Vamos fazer isto com calma e como Deus manda. Siga meu conselho."
+    },
+    {
+      "FORM": "@Anchorage.esm:004967",
+      "FORMID": "004967",
+      "EDID": "DLC02STTLMontgomeryStatus",
+      "FULL": "Qual é o estado atual dos objetivos?"
+    },
+    {
+      "FORM": "@Anchorage.esm:004966",
+      "FORMID": "004966",
+      "EDID": "DLC02STTLMontgomeryRallyChimeraOLDIMPLEMENTATION",
+      "FULL": "Que a Equipe de Combate dirija-se ao Depósito de Quimeras."
+    },
+    {
+      "FORM": "@Anchorage.esm:004965",
+      "FORMID": "004965",
+      "EDID": "DLC02STTLMontgomeryRallyListenOLDIMPLEMENTATION",
+      "FULL": "Que a Equipe de Combate dirija-se ao Posto de Escuta."
+    },
+    {
+      "FORM": "@Anchorage.esm:004964",
+      "FORMID": "004964",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish",
+      "FULL": "Comunique à base que precisamos de substituições."
+    },
+    {
+      "FORM": "@Anchorage.esm:004963",
+      "FORMID": "004963",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish01",
+      "FULL": "Nos enviem um Soldado de Infantaria."
+    },
+    {
+      "FORM": "@Anchorage.esm:004962",
+      "FORMID": "004962",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish02",
+      "FULL": "Nos enviem um Granadeiro."
+    },
+    {
+      "FORM": "@Anchorage.esm:004961",
+      "FORMID": "004961",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish03",
+      "FULL": "Nos enviem uma Unidade de Mísseis."
+    },
+    {
+      "FORM": "@Anchorage.esm:004960",
+      "FORMID": "004960",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish04",
+      "FULL": "Nos enviem um Franco-Atirador."
+    },
+    {
+      "FORM": "@Anchorage.esm:00495F",
+      "FORMID": "00495F",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish05",
+      "FULL": "Nos enviem um Sr. Corajoso."
+    },
+    {
+      "FORM": "@Anchorage.esm:00495E",
+      "FORMID": "00495E",
+      "EDID": "DLC02STTLMontgomeryOrdersReplenish06",
+      "FULL": "Nos enviem um Robô Sentinela."
+    },
+    {
+      "FORM": "@Anchorage.esm:004374",
+      "FORMID": "004374",
+      "EDID": "DLC02OA1OlinGreet1",
+      "FULL": "Opa, devagar! Podemos conversar um pouco?"
+    },
+    {
+      "FORM": "@Anchorage.esm:004373",
+      "FORMID": "004373",
+      "EDID": "DLC02OA1OlinGreet2",
+      "FULL": "Desculpe, eu não quis me intrometer"
+    },
+    {
+      "FORM": "@Anchorage.esm:004372",
+      "FORMID": "004372",
+      "EDID": "DLC02OA1OlinGreet3",
+      "FULL": "Bela atitude. Você trata assim todos que tentam ajudá-la?"
+    },
+    {
+      "FORM": "@Anchorage.esm:004371",
+      "FORMID": "004371",
+      "EDID": "DLC02OA1OlinGreet4",
+      "FULL": "Ah, entendi. Você está bancando a \"difícil\"."
+    },
+    {
+      "FORM": "@Anchorage.esm:004370",
+      "FORMID": "004370",
+      "EDID": "DLC02OA1OlinGreet5",
+      "FULL": "Ei, olha. Eu estou apenas tentando obter mais algumas informações."
+    },
+    {
+      "FORM": "@Anchorage.esm:00436F",
+      "FORMID": "00436F",
+      "EDID": "DLC02OA1OutcastStory",
+      "FULL": "Qual é a sua história?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00436E",
+      "FORMID": "00436E",
+      "EDID": "DLC02OA1OlinSimInfo",
+      "FULL": "O que você pode me dizer sobre esta simulação?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00436D",
+      "FORMID": "00436D",
+      "EDID": "DLC02OA1OlinOutcastInfo",
+      "FULL": "Você pode me dizer mais sobre o que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00436C",
+      "FORMID": "00436C",
+      "EDID": "DLC02OA1OlinSimWhyMe",
+      "FULL": "Por que exatamente você precisa de mim?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00436B",
+      "FORMID": "00436B",
+      "EDID": "DLC02OA1SibleyWhyHostile",
+      "FULL": "Por que você é tão hostil?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00436A",
+      "FORMID": "00436A",
+      "EDID": "DLC02OA1SibleyGotProblem",
+      "FULL": "Algum problema?"
+    },
+    {
+      "FORM": "@Anchorage.esm:004369",
+      "FORMID": "004369",
+      "EDID": "DLC02OA1SibleySorryForAsking",
+      "FULL": "Desculpe por perguntar, esqueça tudo que eu disse."
+    },
+    {
+      "FORM": "@Anchorage.esm:004368",
+      "FORMID": "004368",
+      "EDID": "DLC02OA1SibleyMoreInfoSPEECH",
+      "FULL": "Ei, desculpe. Eu só estou tentando entender o que está acontecendo aqui."
+    },
+    {
+      "FORM": "@Anchorage.esm:003016",
+      "FORMID": "003016",
+      "EDID": "DLC02STTLMontgomeryOrdersMoveOutOLDIMPLEMENTATION",
+      "FULL": "Já a equipe, está dispensada."
+    },
+    {
+      "FORM": "@Anchorage.esm:003015",
+      "FORMID": "003015",
+      "EDID": "DLC02STTLMontgomeryOrdersHoldUpOLDIMPLEMENTATION",
+      "FULL": "Já a Equipe de Combate, mantenha-se aqui."
+    },
+    {
+      "FORM": "@Anchorage.esm:003014",
+      "FORMID": "003014",
+      "EDID": "DLC02OA3MontgomeryStart01",
+      "FULL": "Isso não é necessário, Benji."
+    },
+    {
+      "FORM": "@Anchorage.esm:003013",
+      "FORMID": "003013",
+      "EDID": "DLC02OA3MontgomeryStart02",
+      "FULL": "Obrigado pelos comprimentos, Sargento."
+    },
+    {
+      "FORM": "@Anchorage.esm:003012",
+      "FORMID": "003012",
+      "EDID": "DLC02OA3MontgomeryStart03",
+      "FULL": "Não há tempo para bate-papo, Sargento."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F43",
+      "FORMID": "002F43",
+      "EDID": "DLC02OA1McGrawHowHelp2",
+      "FULL": "Primeiro vamos falar sobre o que eu ganharei com isto?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002F18",
+      "FORMID": "002F18",
+      "EDID": "DLC02STTLQuarterHaveFTRH",
+      "FULL": "Estou pronto para mudar para o equipamento da Equipe de Fogo."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F17",
+      "FORMID": "002F17",
+      "EDID": "DLC02STTLQuarterHaveCARH",
+      "FULL": "Eu estou pronto para mudar para o equipamento de Combate Corpo a Corpo."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F16",
+      "FORMID": "002F16",
+      "EDID": "DLC02STTLQuarterHaveSNRH",
+      "FULL": "Eu estou pronto para mudar para o equipamento de Franco-Atirador."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F15",
+      "FORMID": "002F15",
+      "EDID": "DLC02STTLQuarterHaveHWRH",
+      "FULL": "Eu estou pronto para mudar para o equipamento de Armas Pesadas."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F14",
+      "FORMID": "002F14",
+      "EDID": "DLC02STTLAmmo",
+      "FULL": "Preciso de mais munição."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F13",
+      "FORMID": "002F13",
+      "EDID": "DLC02STTLNewLoadout",
+      "FULL": "Posso trocar de equipamento?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D82",
+      "FORMID": "002D82",
+      "EDID": "DLC02OA1McGrawHowHelp1",
+      "FULL": "Bem, o que você quer que eu faça?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D81",
+      "FORMID": "002D81",
+      "EDID": "DLC02OA1McGrawBackOut",
+      "FULL": "Talvez eu devesse ir."
+    },
+    {
+      "FORM": "@Anchorage.esm:002975",
+      "FORMID": "002975",
+      "EDID": "DLC02OA4GeneralGreeting1",
+      "FULL": "Você já perdeu, General. Não jogue fora sua dignidade."
+    },
+    {
+      "FORM": "@Anchorage.esm:002974",
+      "FORMID": "002974",
+      "EDID": "DLC02OA4GeneralGreeting2",
+      "FULL": "Acabou, Jingwei. Renda-se e largue suas armas."
+    },
+    {
+      "FORM": "@Anchorage.esm:002973",
+      "FORMID": "002973",
+      "EDID": "DLC02OA4GeneralGreeting3",
+      "FULL": "Eu vou te matar BEM MORTO."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F4",
+      "FORMID": "0026F4",
+      "EDID": "DLC02OA1McGrawGreetINT",
+      "FULL": "Então, meu Pip-Boy me faz ser único, e você precisa da minha ajuda por causa disso..."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F3",
+      "FORMID": "0026F3",
+      "EDID": "DLC02OA1McGrawGreetPER",
+      "FULL": "Eu devo ter algo que você deseje, então vamos direto ao assunto."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F2",
+      "FORMID": "0026F2",
+      "EDID": "DLC02OA1McGrawGreet1",
+      "FULL": "Eu espero que estejamos falando de \"ajudante\" útil, e não \"apetitoso\" útil."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F1",
+      "FORMID": "0026F1",
+      "EDID": "DLC02OA1McGrawGreet2",
+      "FULL": "Claro, quem não gostaria de ajudar os caras grosseiros em armaduras assustadoras?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0026F0",
+      "FORMID": "0026F0",
+      "EDID": "DLC02OA1McGrawGreet3",
+      "FULL": "Eu ficaria feliz em ajudar, desde que eu ganhe algo em troca."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026EF",
+      "FORMID": "0026EF",
+      "EDID": "DLC02OA1McGrawGreet4",
+      "FULL": "Eu já lidei com seu grupo antes. Forte Independência, certo?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0026EE",
+      "FORMID": "0026EE",
+      "EDID": "DLC02OA1McGrawGreet5",
+      "FULL": "Eu matei seus amigos na Forte Independência. Agora é a sua vez."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A6",
+      "FORMID": "0026A6",
+      "EDID": "DLC02MorrillPipBoy1",
+      "FULL": "Isto? É o meu Pip-Boy 3000. Quer ver?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A5",
+      "FORMID": "0026A5",
+      "EDID": "DLC02MorrillPipBoy2",
+      "FULL": "Sim, é meu, e antes que você pergunte, não, não vou te dar."
+    },
+    {
+      "FORM": "@Anchorage.esm:0026A4",
+      "FORMID": "0026A4",
+      "EDID": "DLC02MorrillPipBoy3",
+      "FULL": "Quem se importa com o meu Pip-Boy? Estou aqui para descobrir o que está acontecendo."
+    },
+    {
+      "FORM": "@Anchorage.esm:002487",
+      "FORMID": "002487",
+      "EDID": "DLC02OA3TLTargets01",
+      "FULL": "Sobre o Depósito de Quimeras..."
+    },
+    {
+      "FORM": "@Anchorage.esm:002486",
+      "FORMID": "002486",
+      "EDID": "DLC02OA3TLTargets02",
+      "FULL": "Sobre o Posto de Escuta..."
+    },
+    {
+      "FORM": "@Anchorage.esm:002485",
+      "FORMID": "002485",
+      "EDID": "DLC02OA3TLTargets03",
+      "FULL": "Sobre o Campo de Impulso..."
+    },
+    {
+      "FORM": "@Anchorage.esm:002484",
+      "FORMID": "002484",
+      "EDID": "DLC02OA3TLTargets04",
+      "FULL": "Deixe-me mudar de assunto."
+    },
+    {
+      "FORM": "@Anchorage.esm:002483",
+      "FORMID": "002483",
+      "EDID": "DLC02OA3TLTargets01A",
+      "FULL": "O que exatamente É uma Quimera?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002482",
+      "FORMID": "002482",
+      "EDID": "DLC02OA3TLTargets01B",
+      "FULL": "Como faço para destruir os Tanques de Combustível?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002481",
+      "FORMID": "002481",
+      "EDID": "DLC02OA3TLTargets01C",
+      "FULL": "Por que temos que destruir o Depósito de Quimeras?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002480",
+      "FORMID": "002480",
+      "EDID": "DLC02OA3TLTargets02A",
+      "FULL": "Como exatamente eu \"protejo\" o Posto de Escuta?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247F",
+      "FORMID": "00247F",
+      "EDID": "DLC02OA3TLTargets02B",
+      "FULL": "O que eu posso esperar encontrar dentro do posto?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247E",
+      "FORMID": "00247E",
+      "EDID": "DLC02OA3TLTargets02C",
+      "FULL": "Por que é tão urgente proteger esse complexo?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247D",
+      "FORMID": "00247D",
+      "EDID": "DLC02OA3TLTargets03A",
+      "FULL": "O que o Campo de Impulso faz?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247C",
+      "FORMID": "00247C",
+      "EDID": "DLC02OA3TLTargets03B",
+      "FULL": "Como é que eu destruo o Campo de Impulso?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247B",
+      "FORMID": "00247B",
+      "EDID": "DLC02OA3TLTargets03C",
+      "FULL": "Este é o último objetivo?"
+    },
+    {
+      "FORM": "@Anchorage.esm:00247A",
+      "FORMID": "00247A",
+      "EDID": "DLC02OA3TLTargets01D",
+      "FULL": "Deixe-me perguntar-lhe sobre um outro objetivo."
+    },
+    {
+      "FORM": "@Anchorage.esm:002479",
+      "FORMID": "002479",
+      "EDID": "DLC02OA3TLStrikeTeam01",
+      "FULL": "Como faço para montar minha Equipe de Combate?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002478",
+      "FORMID": "002478",
+      "EDID": "DLC02OA3TLStrikeTeam02",
+      "FULL": "Não posso simplesmente levar um monte de caras comigo?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002477",
+      "FORMID": "002477",
+      "EDID": "DLC02OA3TLStrikeTeam03",
+      "FULL": "E se eu perder algum membro da Equipe de Combate?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002475",
+      "FORMID": "002475",
+      "EDID": "DLC02OA3TLQuartermaster",
+      "FULL": "Eu preciso de equipamento novo. Você pode me ajudar?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002474",
+      "FORMID": "002474",
+      "EDID": "DLC02OA3TLIntel",
+      "FULL": "Estou à procura de seus mais recentes relatórios da Inteligência."
+    },
+    {
+      "FORM": "@Anchorage.esm:002473",
+      "FORMID": "002473",
+      "EDID": "DLC02OA3TLIntel01",
+      "FULL": "Depósito de Quimeras."
+    },
+    {
+      "FORM": "@Anchorage.esm:002472",
+      "FORMID": "002472",
+      "EDID": "DLC02OA3TLIntel02",
+      "FULL": "Posto de Escuta."
+    },
+    {
+      "FORM": "@Anchorage.esm:002471",
+      "FORMID": "002471",
+      "EDID": "DLC02OA3TLIntel03",
+      "FULL": "Campo de Impulso."
+    },
+    {
+      "FORM": "@Anchorage.esm:0023D0",
+      "FORMID": "0023D0",
+      "EDID": "DLC02MorrillHelpedNoArmor1",
+      "FULL": "O que? Esta armadura? Eu a encontrei. Eu juro."
+    },
+    {
+      "FORM": "@Anchorage.esm:0023CF",
+      "FORMID": "0023CF",
+      "EDID": "DLC02MorrillHelpedNoArmor2",
+      "FULL": "Sim, eu precisei matar alguns de seus homens para achar um traje que me servisse."
+    },
+    {
+      "FORM": "@Anchorage.esm:0023CE",
+      "FORMID": "0023CE",
+      "EDID": "DLC02MorrillHelpedNoArmor3",
+      "FULL": "Eu não estou a procura de problemas. Eu só estou aqui por causa do sinal de rádio."
+    },
+    {
+      "FORM": "@Anchorage.esm:0022C8",
+      "FORMID": "0022C8",
+      "EDID": "DLC02OA3MorganStart01",
+      "FULL": "Muito engraçado, Tenente."
+    },
+    {
+      "FORM": "@Anchorage.esm:0022C7",
+      "FORMID": "0022C7",
+      "EDID": "DLC02OA3MorganStart02",
+      "FULL": "Esquadrão Suicida? Por que eles os chamam assim?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0022C6",
+      "FORMID": "0022C6",
+      "EDID": "DLC02OA3MorganStart03",
+      "FULL": "Ei, eu não me alistei para isto."
+    },
+    {
+      "FORM": "@Anchorage.esm:0022C5",
+      "FORMID": "0022C5",
+      "EDID": "DLC02OA3TLStrikeTeam",
+      "FULL": "Eu tenho que analisar a minha Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:0022C1",
+      "FORMID": "0022C1",
+      "EDID": "DLC02OA3TLTargets",
+      "FULL": "Eu preciso de mais algumas informações sobre os meus objetivos."
+    },
+    {
+      "FORM": "@Anchorage.esm:00221C",
+      "FORMID": "00221C",
+      "EDID": "DLC02OA3ChaseStart01",
+      "FULL": "<Deixar que o general continue.>"
+    },
+    {
+      "FORM": "@Anchorage.esm:00221B",
+      "FORMID": "00221B",
+      "EDID": "DLC02OA3ChaseStart02",
+      "FULL": "Obrigado, senhor."
+    },
+    {
+      "FORM": "@Anchorage.esm:00221A",
+      "FORMID": "00221A",
+      "EDID": "DLC02OA3ChaseStart03",
+      "FULL": "Vamos ter certeza de mandar estes Chineses a um passeio!"
+    },
+    {
+      "FORM": "@Anchorage.esm:002219",
+      "FORMID": "002219",
+      "EDID": "DLC02OA3ChaseStart04",
+      "FULL": "Sim, sim... Diga o próximo objetivo para que possamos terminar a simulação."
+    },
+    {
+      "FORM": "@Anchorage.esm:002218",
+      "FORMID": "002218",
+      "EDID": "DLC02OA3ChaseStart05",
+      "FULL": "Quer ajuda em algo, senhor?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002217",
+      "FORMID": "002217",
+      "EDID": "DLC02OA3ChaseStart06",
+      "FULL": "Uma pena, senhor."
+    },
+    {
+      "FORM": "@Anchorage.esm:002216",
+      "FORMID": "002216",
+      "EDID": "DLC02OA3ChaseStart07",
+      "FULL": "Eles já sabiam o que os esperavam quando se alistaram, senhor."
+    },
+    {
+      "FORM": "@Anchorage.esm:002215",
+      "FORMID": "002215",
+      "EDID": "DLC02OA3ChaseApologize01",
+      "FULL": "Sim, senhor, entendido! Senhor!"
+    },
+    {
+      "FORM": "@Anchorage.esm:002214",
+      "FORMID": "002214",
+      "EDID": "DLC02OA3ChaseApologize02",
+      "FULL": "Muito claro. Desculpe, senhor."
+    },
+    {
+      "FORM": "@Anchorage.esm:002213",
+      "FORMID": "002213",
+      "EDID": "DLC02OA3ChaseApologize03",
+      "FULL": "Pfft... mas isto nem se quer é real."
+    },
+    {
+      "FORM": "@Anchorage.esm:002212",
+      "FORMID": "002212",
+      "EDID": "DLC02OA3ChaseStart08",
+      "FULL": "Quais são as minhas ordens, senhor?"
+    },
+    {
+      "FORM": "@Anchorage.esm:002211",
+      "FORMID": "002211",
+      "EDID": "DLC02OA3ChaseStart09",
+      "FULL": "Eu não tenho certeza se estou pronto, senhor."
+    },
+    {
+      "FORM": "@Anchorage.esm:0020CA",
+      "FORMID": "0020CA",
+      "EDID": "DLC02OA2MontgomeryReturns01",
+      "FULL": "Fico feliz em ver que você conseguiu passar por uma parte."
+    },
+    {
+      "FORM": "@Anchorage.esm:0020C9",
+      "FORMID": "0020C9",
+      "EDID": "DLC02OA2MontgomeryReturns02",
+      "FULL": "Vamos diretos ao assunto... Temos algumas armas para destruir."
+    },
+    {
+      "FORM": "@Anchorage.esm:0020C8",
+      "FORMID": "0020C8",
+      "EDID": "DLC02OA2MontgomeryReturns03",
+      "FULL": "Por que você demorou tanto?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0020C7",
+      "FORMID": "0020C7",
+      "EDID": "DLC02OA2MontgomeryReturns04",
+      "FULL": "Yep. Vamos."
+    },
+    {
+      "FORM": "@Anchorage.esm:0020C6",
+      "FORMID": "0020C6",
+      "EDID": "DLC02OA2MontgomeryReturns05",
+      "FULL": "Espere um segundo. Você tem alguma munição sobrando?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0020C5",
+      "FORMID": "0020C5",
+      "EDID": "DLC02OA2MontgomeryReturns06",
+      "FULL": "Merda. Tente manter o ritmo."
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B9",
+      "FORMID": "0018B9",
+      "EDID": "DLC02OA2MontgomeryStart03",
+      "FULL": "Espere... o que? O que está acontecendo?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B8",
+      "FORMID": "0018B8",
+      "EDID": "DLC02OA2MontgomeryStart02",
+      "FULL": "Então, esta é Anchorage, hein?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B7",
+      "FORMID": "0018B7",
+      "EDID": "DLC02OA2MontgomeryStart01",
+      "FULL": "Eu estou bem, não se preocupe com isso. Então, qual é o plano?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B6",
+      "FORMID": "0018B6",
+      "EDID": "DLC02OA2MontgomeryStart05",
+      "FULL": "Tudo bem, tudo bem. Só me dê um segundo para clarear minhas ideias."
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B5",
+      "FORMID": "0018B5",
+      "EDID": "DLC02OA2MontgomeryStart04",
+      "FULL": "Desculpe, a... a queda deve ter me confundido."
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B4",
+      "FORMID": "0018B4",
+      "EDID": "DLC02OA2MontgomeryStart06",
+      "FULL": "Olha, eu não tenho nenhuma ideia de onde estamos ou do que está acontecendo."
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B3",
+      "FORMID": "0018B3",
+      "EDID": "DLC02OA2MontgomeryStart07",
+      "FULL": "Estou pronto, vamos bloquear e carregar."
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B2",
+      "FORMID": "0018B2",
+      "EDID": "DLC02OA2MontgomeryStart09",
+      "FULL": "Arsenal? Do que você está falando?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B1",
+      "FORMID": "0018B1",
+      "EDID": "DLC02OA2MontgomeryStart08",
+      "FULL": "A quem estamos enfrentando exatamente?"
+    },
+    {
+      "FORM": "@Anchorage.esm:0018B0",
+      "FORMID": "0018B0",
+      "EDID": "DLC02OA2MontgomeryStart10",
+      "FULL": "Arsenal? Do que você está falando?"
+    },
+    {
+      "FORM": "@Anchorage.esm:001893",
+      "FORMID": "001893",
+      "EDID": "DLC02MorrillGreetArmor1",
+      "FULL": "Eu não sou um de seus soldados. Eu apenas gosto de usar suas armaduras."
+    },
+    {
+      "FORM": "@Anchorage.esm:001892",
+      "FORMID": "001892",
+      "EDID": "DLC02MorrillGreetArmor2",
+      "FULL": "Uhh, o resto dos caras chegarão a qualquer momento. <Mentir>"
+    },
+    {
+      "FORM": "@Anchorage.esm:001891",
+      "FORMID": "001891",
+      "EDID": "DLC02MorrillGreetArmor3",
+      "FULL": "Pare com isso, soldado! Quem está no comando desta confusão? Eu quero sua cabeça em uma bandeja!"
+    },
+    {
+      "FORM": "@Anchorage.esm:001890",
+      "FORMID": "001890",
+      "EDID": "DLC02OA1McGrawYes",
+      "FULL": "Ok, certo. Eu farei."
+    },
+    {
+      "FORM": "@Anchorage.esm:00188F",
+      "FORMID": "00188F",
+      "EDID": "DLC02OA1McGrawNo",
+      "FULL": "Talvez mais tarde. Acabei de me lembrar que eu tenho outro lugar para ir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Death"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fuja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Hit"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Attack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Eu tenho que ir agora."
+    }
+  ]
+}

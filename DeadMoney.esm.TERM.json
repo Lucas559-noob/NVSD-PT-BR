@@ -1,0 +1,1699 @@
+{
+  "TERM": [
+    {
+      "FORM": "@DeadMoney.esm:003514",
+      "FORMID": "003514",
+      "EDID": "NVDLC01HoloVaultTerminalA",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Patrulha de Rota Alternativa",
+          "Set Behavior: Rota de Patrulha Padrão",
+          "Desativar Campo de Força de Segurança",
+          "Ativar Campo de Força de Segurança",
+          "Desligar Alarmes",
+          "Iniciar Alarmes"
+        ],
+        "RNAM": [
+          "Patrulhando rota padrão no momento.",
+          "Patrulhando rota alternativa no momento.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Desativando campo de força de segurança...",
+          "Ativando campo de força de segurança...",
+          "Desligando alarmes...",
+          "Ativando alarmes..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0049B1",
+      "FORMID": "0049B1",
+      "EDID": "NVDLC01ClinicSecurityTerminal",
+      "FULL": "Terminal de Segurança da Clínica",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Set Behavior: Patrulha do Primeiro Andar",
+          "Set Behavior: Patrulha do Segundo Andar",
+          "Ver Avisos de Segurança",
+          "Ver Avisos de Manutenção"
+        ],
+        "RNAM": [
+          "Status: Patrulhando o primeiro andar.",
+          "Status: Patrulhando o segundo andar.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:004F07",
+      "FORMID": "004F07",
+      "EDID": "NVDLC01SpeakerTheaterTerminal",
+      "FULL": "Controle de Áudio Ambiente",
+      "DESC": "Sierra Madre Theater Network",
+      "MENU": {
+        "ITXT": [
+          "Desligar Sistema de Áudio Ambiente",
+          "Relatório de Status",
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Desligando sistema de áudio ambiente...",
+          "Verificando status...",
+          "Verificando status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0062AF",
+      "FORMID": "0062AF",
+      "EDID": "NVDLC01HoloVaultTerminalC",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Patrulha de Controle do Computador",
+          "Definir Comportamento: Guarda de Acesso ao Módulo Elétrico",
+          "Sr. Sinclair - E.B.E"
+        ],
+        "RNAM": [
+          "Status: Guardando Acesso ao Módulo Elétrico.",
+          "Status: Patrulhando Controle do Computador.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Acessando Dados..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0062B0",
+      "FORMID": "0062B0",
+      "EDID": "NVDLC01HoloVaultTerminalB",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Patrulha de Controle da Válvula d'Água",
+          "Definir Comportamento: Terminal de Controle #2 Patrulha"
+        ],
+        "RNAM": [
+          "Atualmente patrulhando o Controle da Válvula de Água.",
+          "Patrulhando atualmente o Controle do Terminal nº 2.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00636D",
+      "FORMID": "00636D",
+      "EDID": "NVDLC01HoloCasinoTerminalA",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Patrulha do Andar Oeste do Cassino",
+          "Definir Comportamento: Patrulha Escadas do Bar",
+          "Definir Comportamento: Guarda da Escadaria do Bar",
+          "Memorando de Segurança"
+        ],
+        "RNAM": [
+          "Atualmente patrulhando o Andar Oeste do Cassino.",
+          "Atualmente patrulhando as escadas do bar.",
+          "Atualmente guardando as escadas do bar.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00636E",
+      "FORMID": "00636E",
+      "EDID": "NVDLC01HoloCasinoTerminalC",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Guarda da Porta do Bar",
+          "Set Behavior: Patrulha do Escritório de Pessoal",
+          "Definir Comportamento: Patrulha da Sala de Segurança",
+          "Memorando de Segurança"
+        ],
+        "RNAM": [
+          "Atualmente guardando a porta do bar.",
+          "Patrulhando o Escritório de Pessoal.",
+          "Atualmente patrulhando o Escritório de Segurança.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00636F",
+      "FORMID": "00636F",
+      "EDID": "NVDLC01HoloCasinoTerminalB",
+      "FULL": "Terminal de Controle de Gerenciamento de Segurança",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Set Behavior: Patrulha do Balcão do Caixa",
+          "Definir Comportamento: Sala de Troca da Guarda",
+          "Destrancar a porta do depósito de eletricidade",
+          "Registro de Segurança 1",
+          "Registro de Segurança 2"
+        ],
+        "RNAM": [
+          "Patrulhando o balcão do caixa.",
+          "Atualmente guardando a Sala do Interruptor Elétrico.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento...",
+          "Desbloqueando...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00654E",
+      "FORMID": "00654E",
+      "EDID": "NVDLC01PoliceStationTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Visita de Sinclair",
+          "Cela de Detenção",
+          "Comunicações"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00661D",
+      "FORMID": "00661D",
+      "EDID": "NVDLC01SuitesCentralTerminal",
+      "FULL": "Terminal da Rede de Manutenção",
+      "DESC": "Rede de Manutenção de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Desativar os Alto-falantes do Corredor",
+          "Baixar Trecho de Código do Holograma Starlet",
+          "Download da Receita: Faca Superaquecida!",
+          "Relatório de Status",
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Alto-falantes do corredor desativados.",
+          "Código do Holograma Estrelinha Baixado.",
+          "Receita baixada.",
+          "Verificando status...",
+          "Verificando status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0069C8",
+      "FORMID": "0069C8",
+      "EDID": "NVDLC01HoloBaseTerminal",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma de Segurança",
+          "Verificar Status do Holograma de Segurança",
+          "Definir Comportamento: Patrulha da Área #1",
+          "Definir Comportamento: Patrulha da Área #2"
+        ],
+        "RNAM": [
+          "Patrulhando rota padrão no momento.",
+          "Patrulhando rota alternativa no momento.",
+          "Carregando novo padrão de comportamento...",
+          "Carregando novo padrão de comportamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CAE",
+      "FORMID": "006CAE",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL0Unlocked",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CAF",
+      "FORMID": "006CAF",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL0VeryEasy",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB0",
+      "FORMID": "006CB0",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL1Easy",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB1",
+      "FORMID": "006CB1",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL2Average",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB2",
+      "FORMID": "006CB2",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL3Hard",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB3",
+      "FORMID": "006CB3",
+      "EDID": "NVDLC01SpeakerShutdownTermWALL4VeryHard",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB4",
+      "FORMID": "006CB4",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK0Unlocked",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar as Caixas de Som"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB5",
+      "FORMID": "006CB5",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK0VeryEasy",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB6",
+      "FORMID": "006CB6",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK1Easy",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB7",
+      "FORMID": "006CB7",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK2Average",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB8",
+      "FORMID": "006CB8",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK3Hard",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:006CB9",
+      "FORMID": "006CB9",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK4VeryHard",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes"
+        ],
+        "RNAM": [
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:008BB5",
+      "FORMID": "008BB5",
+      "EDID": "NVDLC01VaultMainSecurityTerminal",
+      "FULL": "Terminal de Segurança do Vault",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Desativar Protocolos de Segurança do Vault",
+          "Ativar Protocolos de Segurança do Vault"
+        ],
+        "RNAM": [
+          "Desativando a segurança do vault...",
+          "Ativando a segurança do vault..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:008BB6",
+      "FORMID": "008BB6",
+      "EDID": "NVDLC01VaultAltSecurityTerminal",
+      "FULL": "Terminal de Segurança do Vault",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Protocolos de Segurança do Vault: Informações",
+          "Protocolos do Sistema de Segurança do Vault: Aviso.",
+          "Desativar Protocolos de Segurança do Vault",
+          "Ativar Protocolos de Segurança do Vault"
+        ],
+        "RNAM": [
+          "Exibindo aviso da equipe de manutenção...",
+          "Acessando Log...",
+          "Acessando protocolos de segurança...",
+          "Ativando a segurança do vault..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:008BCC",
+      "FORMID": "008BCC",
+      "EDID": "NVDLC01ClinicBasementTerminal",
+      "FULL": "Terminal de Status de Energia da Clínica",
+      "DESC": "Sierra Madre Clinic Network",
+      "MENU": {
+        "ITXT": [
+          "Status da Energia da Clínica",
+          "Status da Energia da Clínica",
+          "Desativar Energia Principal"
+        ],
+        "RNAM": [
+          "Verificando status...",
+          "Verificando status...",
+          "Desativando energia principal..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:008F98",
+      "FORMID": "008F98",
+      "EDID": "NVDLC01SpeakerVaultTerminalUnlocked",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar Alarmes",
+          "Iniciar Alarmes"
+        ],
+        "RNAM": [
+          "Desligando os alarmes...",
+          "Ativando alarmes..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00923D",
+      "FORMID": "00923D",
+      "EDID": "NVDLC01VillaHologramTerminal02",
+      "FULL": "Terminal de Controle do Holograma 02",
+      "DESC": "Sierra Madre Host Services Protocol",
+      "MENU": {
+        "ITXT": [
+          "Desativar Holograma",
+          "Ativar Holograma"
+        ],
+        "RNAM": [
+          "Desligando...",
+          "Iniciando projetor..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00923F",
+      "FORMID": "00923F",
+      "EDID": "NVDLC01VillaHologramTerminal01",
+      "FULL": "Terminal de Controle do Holograma 01",
+      "DESC": "Sierra Madre Host Services Protocol",
+      "MENU": {
+        "ITXT": [
+          "Desativar Holograma",
+          "Ativar Holograma"
+        ],
+        "RNAM": [
+          "Desligando...",
+          "Iniciando projetor..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00A59F",
+      "FORMID": "00A59F",
+      "EDID": "NVDLC01HoloLobbyTerminalA",
+      "FULL": "Terminal da Recepcionista",
+      "DESC": "Rede de Controle Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Ativar o Cumprimentador Holográfico",
+          "Ativar Segurança Holográfica",
+          "Ativar Segurança Holográfica",
+          "Ativar Segurança Holográfica",
+          "Ativar Segurança Holográfica",
+          "Ativar Segurança Holográfica",
+          "Acessar Controles de Música"
+        ],
+        "RNAM": [
+          "Ativando recepcionista...",
+          "Código de ativação necessário.",
+          "Código incompleto. Energia insuficiente...",
+          "Código incompleto. Não é possível processar a solicitação...",
+          "Código incompleto. Operando com energia limitada.",
+          "Ativando a segurança do saguão...",
+          "Acessando banco de dados de música..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ABE1",
+      "FORMID": "00ABE1",
+      "EDID": "NVDLC01VaultMainInfoTerminal",
+      "FULL": "Terminal de Controle do Vault",
+      "DESC": "Sierra Madre Control Network",
+      "MENU": {
+        "ITXT": [
+          "Vera Keyes.",
+          "Vera.",
+          "Contas Pessoais de Sinclair.",
+          "Segurança Ativada - Terminal Bloqueado."
+        ],
+        "RNAM": [
+          "Holodisco Extraído. Arquivo não encontrado...",
+          "Acessando o registro...",
+          "Acessando os registros...",
+          "Erro. Segurança do Vault ativada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCFD",
+      "FORMID": "00BCFD",
+      "EDID": "NVDLC01PoliceStationTerminal02",
+      "FULL": "Terminal do Chefe de Polícia",
+      "DESC": "Rede de Segurança Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Desativar Trava da Sala de Contrabando",
+          "Itens Proibidos",
+          "Instalação do Sistema de Segurança"
+        ],
+        "RNAM": [
+          "Desbloqueando...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BFBC",
+      "FORMID": "00BFBC",
+      "EDID": "NVDLC01VaultAltSecurityWarnTerminal",
+      "FULL": "Terminal de Segurança do Vault",
+      "DESC": "AVISO\n\nO Elevador Partirá em Breve Após o Desligamento da Segurança\n\nContinuar?",
+      "MENU": {
+        "ITXT": [
+          "Sim",
+          "Não"
+        ],
+        "RNAM": [
+          "Desativando a segurança do vault...",
+          "Segurança do Vault Ativada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C14B",
+      "FORMID": "00C14B",
+      "EDID": "NVDLC01VaultMainDoorWarnTerminal",
+      "FULL": "Terminal da Porta do Refúgio",
+      "DESC": "AVISO\n\nSomente os dignos de confiança podem entrar no meu Refúgio.\n\nF.S.",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Porta do Refúgio"
+        ],
+        "RNAM": [
+          "Destravando os selos do cofre..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C14C",
+      "FORMID": "00C14C",
+      "EDID": "NVDLC01VaultMainDoorTerminal",
+      "FULL": "Terminal da Porta do Refúgio",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Controle da Porta do Vault"
+        ],
+        "RNAM": [
+          "Acessando mecanismo do abrigo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C826",
+      "FORMID": "00C826",
+      "EDID": "NVDLC01SuitesStarletTerminal",
+      "FULL": "Terminal do Computador da Vera",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Porta de Segurança"
+        ],
+        "RNAM": [
+          "Destrancando porta de segurança..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00C841",
+      "FORMID": "00C841",
+      "EDID": "NVDLC01ClinicTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Rede da Clínica Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Códigos do Dispensador",
+          "Código do Dispensador: Med-X"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Baixando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D7E6",
+      "FORMID": "00D7E6",
+      "EDID": "NVDLC01OfficeSafeTerminal",
+      "FULL": "Terminal do Caixa",
+      "DESC": "Rede de Segurança Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Cofre"
+        ],
+        "RNAM": [
+          "Desbloqueando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D8D5",
+      "FORMID": "00D8D5",
+      "EDID": "NVDLC01wtGala01Terminal",
+      "FULL": "Posto de Segurança",
+      "DESC": "Protocolo de Segurança de Sierra Madre:",
+      "MENU": {
+        "ITXT": [
+          "Ativar Holograma"
+        ],
+        "RNAM": [
+          "Aquecendo o projetor..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DAD1",
+      "FORMID": "00DAD1",
+      "EDID": "NVDLC01VaultMaintenanceTerminal",
+      "FULL": "Terminal de Acesso à Manutenção do Vault",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Acessar Manutenção Aberta",
+          "Manutenção de Acesso à Fechadura",
+          "Impossível Acessar Controles de Manutenção",
+          "Elevator Protocols: Aviso."
+        ],
+        "RNAM": [
+          "Abrindo porta de manutenção...",
+          "Trancando porta de manutenção...",
+          "Sistemas de Segurança do Vault Comprometidos...",
+          "Acessando Log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DAD2",
+      "FORMID": "00DAD2",
+      "EDID": "NVDLC01VaultMainInfoDownloadTerminal",
+      "FULL": "Terminal de Controle do Vault",
+      "DESC": "Sierra Madre Control Network",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Dados de Tecnologia Holográfica",
+          "Recuperar Esquemas do Replicador de Venda",
+          "Recuperar Análise dos Sistemas Atmosféricos"
+        ],
+        "RNAM": [
+          "Concedendo acesso ao banco de dados...",
+          "Concedendo acesso ao banco de dados...",
+          "Concedendo acesso ao banco de dados..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DFEA",
+      "FORMID": "00DFEA",
+      "EDID": "NVDLC01SuitesSecurityTerminal",
+      "FULL": "Painel de Controle de Segurança",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Armário de Segurança",
+          "Recalibrar IFF do Holograma"
+        ],
+        "RNAM": [
+          "Destrancando armário de segurança...",
+          "Reprogramando IFF do holograma de segurança..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2CE",
+      "FORMID": "00E2CE",
+      "EDID": "NVDLC01Gala02InitialTerminalON",
+      "FULL": "Terminal",
+      "DESC": "Sistema de Regulação de Energia de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Status",
+          "Vazamento de gás"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2CF",
+      "FORMID": "00E2CF",
+      "EDID": "NVDLC01Gala02ToxicCloudTerminal",
+      "FULL": "Sistema de Controle de Ventilação",
+      "DESC": "-Sistema de Controle de Ventilação-\n======================\n\nAviso: O sistema de ventilação só deve ser desativado para manutenção de rotina.",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Ventilação.",
+          "Desativar Sistema de Ventilação."
+        ],
+        "RNAM": [
+          "Ativando o sistema de ventilação...",
+          "Desativando sistema de ventilação..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E2D0",
+      "FORMID": "00E2D0",
+      "EDID": "NVDLC01Gala02MidRoomTerminal",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Power Regulation System",
+      "MENU": {
+        "ITXT": [
+          "Assunto: Em Caso de Emergência.",
+          "Turnos extras",
+          "Os ternos estão aqui."
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E47A",
+      "FORMID": "00E47A",
+      "EDID": "NVDLC01TurretWALL3Hard",
+      "FULL": "Sistema de Controle de Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta"
+        ],
+        "RNAM": [
+          "Inicializando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E547",
+      "FORMID": "00E547",
+      "EDID": "NVDLC01wtFountainTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Ativar Holograma",
+          "Desativar Holograma",
+          "Mais Explosivos"
+        ],
+        "RNAM": [
+          "Iniciando projetor...",
+          "Desligando...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E548",
+      "FORMID": "00E548",
+      "EDID": "NVDLC01wtHackedTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Ativar Holograma"
+        ],
+        "RNAM": [
+          "Iniciando projetor..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E9DF",
+      "FORMID": "00E9DF",
+      "EDID": "NVDLC01wtPlanterTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Ativar Holograma",
+          "Desativar Holograma",
+          "Bate-papo"
+        ],
+        "RNAM": [
+          "Iniciando projetor...",
+          "Desligando...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E9F8",
+      "FORMID": "00E9F8",
+      "EDID": "NVDLC01ETGateTerminal01",
+      "FULL": "Terminal de Controle do Portão",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Status da Subestação",
+          "Status do Sistema de Ventilação",
+          "Status do Sistema de Ventilação",
+          "Reiniciar Sistema de Ventilação",
+          "Trancar Portão"
+        ],
+        "RNAM": [
+          "Níveis de Energia Mínimos",
+          "System Reset",
+          "Substation Lock Activated"
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC94",
+      "FORMID": "00EC94",
+      "EDID": "NVDLC01Gala02FinalRoomUnlockedTerminal",
+      "FULL": "Terminal",
+      "DESC": "Sistema de Regulação de Energia de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Chave do Armário",
+          "Dano na roupa"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC95",
+      "FORMID": "00EC95",
+      "EDID": "NVDLC01Gala02InitialRoomEnnisTerminal",
+      "FULL": "Terminal do Ennis",
+      "DESC": "E-mails recentes:",
+      "MENU": {
+        "ITXT": [
+          "Para: Diretor Simmons"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EC96",
+      "FORMID": "00EC96",
+      "EDID": "NVDLC01Gala02FinalRoomRemoteTerminal",
+      "FULL": "Terminal de Manutenção Remota",
+      "DESC": "Em caso de emergências, os procedimentos de regulação de energia podem ser realizados a partir desta estação. No entanto, esta prática não é recomendada para uso regular. Consulte seu supervisor para saber se o uso desta estação é justificado.",
+      "MENU": {
+        "ITXT": [
+          "Transferir o controle para esta estação."
+        ],
+        "RNAM": [
+          "Transferindo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2CA",
+      "FORMID": "00F2CA",
+      "EDID": "NVDLC01HoloCasinoTerminalBHost",
+      "FULL": "Terminal de Controle de Gerenciamento de Segurança",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma",
+          "Registro de Segurança 1",
+          "Registro de Segurança 2"
+        ],
+        "RNAM": [
+          "Caixa está atualmente ativa.",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2CB",
+      "FORMID": "00F2CB",
+      "EDID": "NVDLC01HoloCasinoTerminalCHost",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma"
+        ],
+        "RNAM": [
+          "Croupier 1 Atendendo Mesa de Roleta."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2CC",
+      "FORMID": "00F2CC",
+      "EDID": "NVDLC01HoloCasinoTerminalAHost",
+      "FULL": "Controle do Holograma",
+      "DESC": "Sierra Madre Host Services Protocol",
+      "MENU": {
+        "ITXT": [
+          "Verificar Status do Holograma"
+        ],
+        "RNAM": [
+          "Dealer 2 Servindo Mesa de Blackjack A."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F383",
+      "FORMID": "00F383",
+      "EDID": "NVDLC01VaultAltSecurityProtocolTerminal",
+      "FULL": "Terminal de Segurança do Vault",
+      "DESC": "Informações da Equipe de Manutenção:",
+      "MENU": {
+        "ITXT": [
+          "Aviso da Equipe de Manutenção"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:010624",
+      "FORMID": "010624",
+      "EDID": "NVDLC01KitchenOfficeTerminal",
+      "FULL": "Terminal do Café Madrid",
+      "DESC": "Rede de Manutenção de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "<Baixar Trecho de Código do Holograma da Estrelinha>",
+          "Outro carregamento?",
+          "Essas facas!"
+        ],
+        "RNAM": [
+          "Download Completo.",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01092E",
+      "FORMID": "01092E",
+      "EDID": "NVDLC01TheaterStageTerminal",
+      "FULL": "O Terminal do Palco do Tampico",
+      "DESC": "Sierra Madre Control Network",
+      "MENU": {
+        "ITXT": [
+          "Controles do Teatro",
+          "Controles do Palco"
+        ],
+        "RNAM": [
+          "Acessando controles do teatro...",
+          "Erro do sistema..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01092F",
+      "FORMID": "01092F",
+      "EDID": "NVDLC01TheaterDeskTerminal",
+      "FULL": "Terminal da Recepção do Tampico",
+      "DESC": "Sierra Madre Control Network",
+      "MENU": {
+        "ITXT": [
+          "Lista de Shows do Tampico",
+          "Administração de Sierra Madre.",
+          "Código de Segurança do Lobby de Sierra Madre",
+          "Mensagem Urgente para Sra. E. Sainz"
+        ],
+        "RNAM": [
+          "Exibindo os próximos shows...",
+          "Exibindo protocolos de desempenho...",
+          "Recuperando informações do código de segurança...",
+          "Bem-vinda, Evelyn..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109C9",
+      "FORMID": "0109C9",
+      "EDID": "NVDLC01TheaterStageControlsTerminal",
+      "FULL": "O Terminal do Palco do Tampico",
+      "DESC": "Sierra Madre Control Network",
+      "MENU": {
+        "ITXT": [
+          "Abra as Portas do Teatro",
+          "Ativar Protocolos de Segurança Holográficos"
+        ],
+        "RNAM": [
+          "Abrindo as portas do teatro...",
+          "Erro do sistema..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E86",
+      "FORMID": "010E86",
+      "EDID": "NVDLC01BunkerTerminal01",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Destrancar porta"
+        ],
+        "RNAM": [
+          "Desbloqueando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:010E8C",
+      "FORMID": "010E8C",
+      "EDID": "NVDLC01BunkerTerminal02",
+      "FULL": "Terminal",
+      "DESC": "Bem-vindo, Padre Elijah.",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Ciência 112",
+          "Baixar Holomensagem",
+          "Mensagem automatizada da Sierra Madre"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Baixando...",
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D6E",
+      "FORMID": "011D6E",
+      "EDID": "NVDLC01VaultMainInfoDownload03Terminal",
+      "FULL": "Terminal de Controle do Vault",
+      "DESC": "Download Atmospheric Systems Analysis?",
+      "MENU": {
+        "ITXT": [
+          "Sim",
+          "Não"
+        ],
+        "RNAM": [
+          "Baixando análise...",
+          "Cancelando pedido..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D6F",
+      "FORMID": "011D6F",
+      "EDID": "NVDLC01VaultMainInfoDownload02Terminal",
+      "FULL": "Terminal de Controle do Vault",
+      "DESC": "Download Replicator Schematics?",
+      "MENU": {
+        "ITXT": [
+          "Sim",
+          "Não"
+        ],
+        "RNAM": [
+          "Baixando esquemas...",
+          "Cancelando pedido..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D70",
+      "FORMID": "011D70",
+      "EDID": "NVDLC01VaultMainInfoDownload01Terminal",
+      "FULL": "Terminal de Controle do Vault",
+      "DESC": "Download Hologram Technology Module?",
+      "MENU": {
+        "ITXT": [
+          "Sim",
+          "Não"
+        ],
+        "RNAM": [
+          "Baixando módulo...",
+          "Cancelando pedido..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120B6",
+      "FORMID": "0120B6",
+      "EDID": "NVDLC01ClinicTerminal02",
+      "FULL": "Terminal",
+      "DESC": "Rede da Clínica Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Vazamento de gás",
+          "Trajes de segurança"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120BC",
+      "FORMID": "0120BC",
+      "EDID": "NVDLC01ClinicTerminal03",
+      "FULL": "Terminal",
+      "DESC": "Rede da Clínica Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Exaustão"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C0",
+      "FORMID": "0120C0",
+      "EDID": "NVDLC01ClinicTerminal04",
+      "FULL": "Terminal",
+      "DESC": "Rede da Clínica Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Calendário de compromissos"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0120C1",
+      "FORMID": "0120C1",
+      "EDID": "NVDLC01ClinicTerminal05",
+      "FULL": "Terminal",
+      "DESC": "Rede da Clínica Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Calendário de compromissos",
+          "Visita Desagradável"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0121FB",
+      "FORMID": "0121FB",
+      "EDID": "NVDLC01CasinoOfficeTerminal",
+      "FULL": "Terminal do Escritório de Segurança",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Reunião sobre Medidas de Segurança"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0121FC",
+      "FORMID": "0121FC",
+      "EDID": "NVDLC01CasinoOfficeTerminal02",
+      "FULL": "Terminal do Escritório de Segurança",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Notas sobre Protocolos de Emergência",
+          "Holograma: Protocolos de Serviço 2.3"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01220E",
+      "FORMID": "01220E",
+      "EDID": "NVDLC01PoliceStationTerminal03",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Police Network",
+      "MENU": {
+        "ITXT": [
+          "Inventário",
+          "Relatório do Dispensador"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:012277",
+      "FORMID": "012277",
+      "EDID": "NVDLC01wtContractsTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Contratos"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:012278",
+      "FORMID": "012278",
+      "EDID": "NVDLC01wtPromotionTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Promoção"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:012279",
+      "FORMID": "012279",
+      "EDID": "NVDLC01wtSpecialOrdersTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Ordens Especiais"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227A",
+      "FORMID": "01227A",
+      "EDID": "NVDLC01wtDamnRaidTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Porra de Ataque"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227B",
+      "FORMID": "01227B",
+      "EDID": "NVDLC01wtSurveySchedulesTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Cronogramas de Pesquisa"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01227C",
+      "FORMID": "01227C",
+      "EDID": "NVDLC01wtVisitTerminal",
+      "FULL": "Terminal",
+      "DESC": "Protocolo de Segurança de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Visitar"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0122A2",
+      "FORMID": "0122A2",
+      "EDID": "NVDLC01PoliceStationTerminal04",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Police Network",
+      "MENU": {
+        "ITXT": [
+          "Instalação de Máquina de Vendas",
+          "Busca e Apreensão",
+          "Chega de Multas de Estacionamento"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01255A",
+      "FORMID": "01255A",
+      "EDID": "NVDLC01Gala02CornerRoomTerminal",
+      "FULL": "Terminal",
+      "DESC": "Sistema de Regulação de Energia de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Manutenção",
+          "Desligar os Alto-falantes",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Desligando...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126DB",
+      "FORMID": "0126DB",
+      "EDID": "NVDLC01ETPersonalLog01",
+      "FULL": "Terminal",
+      "DESC": "Rede de Serviços de Hospedagem Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Diário Pessoal"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126DC",
+      "FORMID": "0126DC",
+      "EDID": "NVDLC01ETPersonalLog02",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Diário Pessoal"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126DD",
+      "FORMID": "0126DD",
+      "EDID": "NVDLC01ETStatusReport",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0126DE",
+      "FORMID": "0126DE",
+      "EDID": "NVDLC01ETInfrastructure",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Host Services Network",
+      "MENU": {
+        "ITXT": [
+          "Infraestrutura"
+        ],
+        "RNAM": [
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:012E47",
+      "FORMID": "012E47",
+      "EDID": "NVDLC01HoloLobbyTerminalAMusic",
+      "FULL": "Controle de Música",
+      "DESC": "Sistema de Música Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Trilha Ambiente do Teatro",
+          "Recuperar Trilha Ambiente do Teatro",
+          "Recuperar Trilha Ambiente do Restaurante",
+          "Recuperar Trilha Ambiente do Restaurante",
+          "Recuperar Trilha Ambiente das Suítes",
+          "Recuperar Trilha Ambiente das Suítes"
+        ],
+        "RNAM": [
+          "Teatro inacessível.",
+          "Recuperando faixa de música...",
+          "Restaurante inacessível.",
+          "Recuperando faixa de música...",
+          "Suítes de controle inacessíveis.",
+          "Recuperando faixa de música..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0132D4",
+      "FORMID": "0132D4",
+      "EDID": "NVDLC01VaultMainTurretTerminal",
+      "FULL": "Terminal da Torreta do Vault",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Reprogramar Defesas da Torreta.",
+          "Reprogramar Defesas da Torreta.",
+          "Reprogramar Defesas da Torreta."
+        ],
+        "RNAM": [
+          "Acesso Negado. Bloqueio do Sistema de Segurança...",
+          "Torretas de Sentinela Reprogramadas...",
+          "Não foi possível reprogramar as defesas da torreta..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013550",
+      "FORMID": "013550",
+      "EDID": "NVDLC01SuitesEmergencyTerminal",
+      "FULL": "Terminal da Rede de Emergência",
+      "DESC": "Rede de Manutenção de Sierra Madre",
+      "MENU": {
+        "ITXT": [
+          "Anular Selo da Porta de Emergência",
+          "Notas sobre Protocolos de Emergência"
+        ],
+        "RNAM": [
+          "Liberação do selo da porta de emergência.",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:01389C",
+      "FORMID": "01389C",
+      "EDID": "NVDLC01VaultMainInfoVeraTerminal",
+      "FULL": "Vera",
+      "DESC": "Importante! Vera, leia...",
+      "MENU": {
+        "ITXT": [
+          "Para Vera."
+        ],
+        "RNAM": [
+          "Acessando o registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138A7",
+      "FORMID": "0138A7",
+      "EDID": "NVDLC01VaultMainInfoDeanTerminal",
+      "FULL": "Contas Pessoais do Sr. Sinclair",
+      "DESC": "Aviso: Acesso Privado Apenas\n\nAbrir Registros Pessoais?",
+      "MENU": {
+        "ITXT": [
+          "Sim.",
+          "Não."
+        ],
+        "RNAM": [
+          "Acessando o registro...",
+          "Voltando ao Menu Anterior..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138E9",
+      "FORMID": "0138E9",
+      "EDID": "NVDLC01KitchenOfficeTerminalKnives",
+      "FULL": "Terminal do Café Madrid",
+      "DESC": "Essas facas são afiadas demais! Um dos cozinheiros quase perdeu o polegar cortando os legumes, e estamos perdendo tábuas de corte a uma taxa de pelo menos uma por dia. As facas simplesmente cortam direto! Estamos ficando sem panos de prato para limpar o sangue.",
+      "MENU": {
+        "ITXT": [
+          "Voltei."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B31",
+      "FORMID": "013B31",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK2AverageET",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes",
+          "Relatório de Status",
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Desligando...",
+          "Verificando status...",
+          "Verificando status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B32",
+      "FORMID": "013B32",
+      "EDID": "NVDLC01SpeakerShutdownTermDESK1EasyGala02",
+      "FULL": "Terminal",
+      "DESC": "Sierra Madre Audio Subsystem",
+      "MENU": {
+        "ITXT": [
+          "Desligar os Alto-falantes",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status",
+          "Relatório de Status"
+        ],
+        "RNAM": [
+          "Desligando...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status...",
+          "Verificando status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B52",
+      "FORMID": "013B52",
+      "EDID": "NVDLC01ClinicSecurityTerminalSub",
+      "FULL": "Terminal de Segurança da Clínica",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Holograma: Protocolos de Segurança 2.4",
+          "Hologram: Adendo: Aparência 2.4.1",
+          "Holograma: Protocolos de Segurança 2.5",
+          "Holograma: Detecção de Ameaças 2.6",
+          "Holograma: Resposta à Ameaça 2.6.2",
+          "Hologram: Patrulhas de Segurança 2.7",
+          "Holograma: Emissores de Holograma 5.0"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B53",
+      "FORMID": "013B53",
+      "EDID": "NVDLC01ClinicSecurityTerminalSubB",
+      "FULL": "Terminal de Segurança da Clínica",
+      "DESC": "Sierra Madre Security Network",
+      "MENU": {
+        "ITXT": [
+          "Holograma: Instalação e Manutenção 1.1",
+          "Hologram: Manutenção 8.3"
+        ],
+        "RNAM": [
+          "Exibindo o log...",
+          "Exibindo o log..."
+        ]
+      }
+    }
+  ]
+}

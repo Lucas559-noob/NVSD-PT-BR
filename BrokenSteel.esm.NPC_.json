@@ -1,0 +1,1216 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@BrokenSteel.esm:008CE0",
+      "FORMID": "008CE0",
+      "EDID": "DLC03AFBBoSGunPatrolWeapDrawn01",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006958",
+      "FORMID": "006958",
+      "EDID": "DLC03WQ01BanditBodyGuardC",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006957",
+      "FORMID": "006957",
+      "EDID": "DLC03WQ01BanditBodyGuardB",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0088E9",
+      "FORMID": "0088E9",
+      "EDID": "DLC03LvlEnclaveDoctor",
+      "FULL": "Doutor da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C49",
+      "FORMID": "005C49",
+      "EDID": "DLC03AFBFight02EnclaveMissileFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0068C3",
+      "FORMID": "0068C3",
+      "EDID": "DLC03LvlEnclaveSquad01Leader",
+      "FULL": "Líder Sigma da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C77",
+      "FORMID": "004C77",
+      "EDID": "DLC03WQ03MotherCurie",
+      "FULL": "Mãe Curie Terceira"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C1D",
+      "FORMID": "005C1D",
+      "EDID": "DLC03WQ02GhoulB",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4C",
+      "FORMID": "0BFE4C",
+      "EDID": "FFEnclaveCamp24TraineeHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4B",
+      "FORMID": "0BFE4B",
+      "EDID": "FFEnclaveCamp24TraineeCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4A",
+      "FORMID": "0BFE4A",
+      "EDID": "FFEnclaveCamp24TraineeAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C1C",
+      "FORMID": "005C1C",
+      "EDID": "DLC03WQ02GhoulA",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C1B",
+      "FORMID": "005C1B",
+      "EDID": "DLC03WQ02GhoulD",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B3E",
+      "FORMID": "003B3E",
+      "EDID": "DLC03WQ01CaravanDriver",
+      "FULL": "Condutor da Caravana de Água"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B3D",
+      "FORMID": "003B3D",
+      "EDID": "DLC03WQ01BanditA",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B3C",
+      "FORMID": "003B3C",
+      "EDID": "DLC03Lepelletier",
+      "FULL": "Oficial Lepelletier"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B3B",
+      "FORMID": "003B3B",
+      "EDID": "DLC03WQ01Guard1",
+      "FULL": "Oficial Davis"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B39",
+      "FORMID": "003B39",
+      "EDID": "DLC03WQ01BanditBodyGuardA",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003B38",
+      "FORMID": "003B38",
+      "EDID": "DLC03WQ01Guard2",
+      "FULL": "Oficial Lorin"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006722",
+      "FORMID": "006722",
+      "EDID": "DLC03MaleVoice1",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006721",
+      "FORMID": "006721",
+      "EDID": "DLC03MaleVoice2",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B958",
+      "FORMID": "00B958",
+      "EDID": "DLC03AudioVoiceNN",
+      "FULL": "Só o áudio do PNJ"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008893",
+      "FORMID": "008893",
+      "EDID": "DLC03LvlEnclaveArmoryBoss",
+      "FULL": "Mestre do Arsenal"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006720",
+      "FORMID": "006720",
+      "EDID": "DLC03MaleVoice3",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00B823",
+      "FORMID": "00B823",
+      "EDID": "DLC03WQ03BrotherGerardGhoul",
+      "FULL": "Irmão Gerard"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671F",
+      "FORMID": "00671F",
+      "EDID": "DLC03FemaleVoice1",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00836D",
+      "FORMID": "00836D",
+      "EDID": "DLC03EncounterRCSecurity03",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003851",
+      "FORMID": "003851",
+      "EDID": "DLC03WQScribeD",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003850",
+      "FORMID": "003850",
+      "EDID": "DLC03WQScribeC",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00384F",
+      "FORMID": "00384F",
+      "EDID": "DLC03WQScribeB",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00384E",
+      "FORMID": "00384E",
+      "EDID": "DLC03WQScribeATemplate",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00382D",
+      "FORMID": "00382D",
+      "EDID": "DLC03Bigsley",
+      "FULL": "Escrivão Bigsley"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003734",
+      "FORMID": "003734",
+      "EDID": "DLC03EncounterPPCBrotherhood1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003730",
+      "FORMID": "003730",
+      "EDID": "DLC03EncounterPPCSecurity02",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00372F",
+      "FORMID": "00372F",
+      "EDID": "DLC03EncounterPPCSecurity01",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:003728",
+      "FORMID": "003728",
+      "EDID": "DLC03EncounterPPCScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0081DF",
+      "FORMID": "0081DF",
+      "EDID": "DLC03AFBEnclaveScientistCFHolotape",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00341F",
+      "FORMID": "00341F",
+      "EDID": "DLC03EncounterBTScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00341B",
+      "FORMID": "00341B",
+      "EDID": "DLC03EncounterBTSecurity02",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00341A",
+      "FORMID": "00341A",
+      "EDID": "DLC03EncounterBTSecurity01",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0031FF",
+      "FORMID": "0031FF",
+      "EDID": "DLC03EncounterEMTrapCorpse",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671E",
+      "FORMID": "00671E",
+      "EDID": "DLC03FemaleVoice2",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007E35",
+      "FORMID": "007E35",
+      "EDID": "DLC03WQ03Apostle02",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007E34",
+      "FORMID": "007E34",
+      "EDID": "DLC03WQ03Apostle01",
+      "FULL": "Novato"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007D9B",
+      "FORMID": "007D9B",
+      "EDID": "DLC03AFBEnclave1GunCMDEAD",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671D",
+      "FORMID": "00671D",
+      "EDID": "DLC03FemaleVoice3",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E0D",
+      "FORMID": "002E0D",
+      "EDID": "DLC03EncounterFBBrotherhoodA03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E0C",
+      "FORMID": "002E0C",
+      "EDID": "DLC03EncounterFBBrotherhoodA02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E0B",
+      "FORMID": "002E0B",
+      "EDID": "DLC03EncounterFBBrotherhoodA01",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E0A",
+      "FORMID": "002E0A",
+      "EDID": "DLC03EncounterFBBrotherhoodA04",
+      "FULL": "Paladino Jensen"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E09",
+      "FORMID": "002E09",
+      "EDID": "DLC03EncounterFBBrotherhoodB03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E08",
+      "FORMID": "002E08",
+      "EDID": "DLC03EncounterFBBrotherhoodB02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002E07",
+      "FORMID": "002E07",
+      "EDID": "DLC03EncounterFBBrotherhoodB01",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671C",
+      "FORMID": "00671C",
+      "EDID": "DLC03WastelanderAF",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002DC0",
+      "FORMID": "002DC0",
+      "EDID": "DLC03BS1KnightGuard1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671B",
+      "FORMID": "00671B",
+      "EDID": "DLC03WastelanderCF3",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00671A",
+      "FORMID": "00671A",
+      "EDID": "DLC03WastelanderAAF3",
+      "FULL": "Habitante de Wasteland"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002938",
+      "FORMID": "002938",
+      "EDID": "DLC03AFBEnclaveMissileFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002937",
+      "FORMID": "002937",
+      "EDID": "DLC03AFBEnclaveMissileFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002933",
+      "FORMID": "002933",
+      "EDID": "DLC03AFBBoSMinigunFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002932",
+      "FORMID": "002932",
+      "EDID": "DLC03AFBBoSMinigunFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002931",
+      "FORMID": "002931",
+      "EDID": "DLC03AFBEnclaveGatlingFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002930",
+      "FORMID": "002930",
+      "EDID": "DLC03AFBEnclaveGatlingFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00292F",
+      "FORMID": "00292F",
+      "EDID": "DLC03AFBEnclaveGatlingFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00292E",
+      "FORMID": "00292E",
+      "EDID": "DLC03AFBBoSMinigunFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00292D",
+      "FORMID": "00292D",
+      "EDID": "DLC03AFBEnclaveMissileFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C1A",
+      "FORMID": "005C1A",
+      "EDID": "DLC03WQ02GhoulC",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C76",
+      "FORMID": "004C76",
+      "EDID": "DLC03WQ03BrotherGerard",
+      "FULL": "Irmão Gerard"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006517",
+      "FORMID": "006517",
+      "EDID": "DLC03WQ03WaterBeggar01",
+      "FULL": "Pedinte de Água"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0057BE",
+      "FORMID": "0057BE",
+      "EDID": "DLC03LvlEnclaveSquad01",
+      "FULL": "Esquadrão Sigma da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002789",
+      "FORMID": "002789",
+      "EDID": "DLC03Enclave4NapalmHM",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002788",
+      "FORMID": "002788",
+      "EDID": "DLC03Enclave4NapalmHF",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002787",
+      "FORMID": "002787",
+      "EDID": "DLC03Enclave4NapalmCM",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002786",
+      "FORMID": "002786",
+      "EDID": "DLC03Enclave4NapalmCF",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002785",
+      "FORMID": "002785",
+      "EDID": "DLC03Enclave4NapalmAM",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002784",
+      "FORMID": "002784",
+      "EDID": "DLC03Enclave4NapalmAF",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002783",
+      "FORMID": "002783",
+      "EDID": "DLC03Enclave4NapalmAAM",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002782",
+      "FORMID": "002782",
+      "EDID": "DLC03Enclave4NapalmAAFTEMPLATE",
+      "FULL": "Soldado Fogo do Inferno da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002766",
+      "FORMID": "002766",
+      "EDID": "DLC03EncounterTPBrotherhood01",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002764",
+      "FORMID": "002764",
+      "EDID": "DLC03EncounterTPScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002763",
+      "FORMID": "002763",
+      "EDID": "DLC03EncounterTPBrotherhood02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005732",
+      "FORMID": "005732",
+      "EDID": "DLC03RelayStatBoSCommandoCommander",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00267D",
+      "FORMID": "00267D",
+      "EDID": "DLC03EncounterMegSettler03",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005731",
+      "FORMID": "005731",
+      "EDID": "DLC03RelayStatBoSCommandoSoldier",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:002650",
+      "FORMID": "002650",
+      "EDID": "DLC03EncounterMegSettler02",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00264F",
+      "FORMID": "00264F",
+      "EDID": "DLC03EncounterMegSettler01",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00264E",
+      "FORMID": "00264E",
+      "EDID": "DLC03EncounterMegScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00264D",
+      "FORMID": "00264D",
+      "EDID": "DLC03EncounterMegBrotherhood2",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00264C",
+      "FORMID": "00264C",
+      "EDID": "DLC03EncounterMegBrotherhood1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005730",
+      "FORMID": "005730",
+      "EDID": "DLC03RelayStatBoSCommandoFlamer",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0024CD",
+      "FORMID": "0024CD",
+      "EDID": "DLC03AFBBoSMissileFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0024CA",
+      "FORMID": "0024CA",
+      "EDID": "DLC03AFBBoSMissileFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0024C9",
+      "FORMID": "0024C9",
+      "EDID": "DLC03AFBBoSMissileFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A956",
+      "FORMID": "00A956",
+      "EDID": "DLC03SarahLyonsVertibird03",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001D3E",
+      "FORMID": "001D3E",
+      "EDID": "DLC03EncounterPPBrotherhood2",
+      "FULL": "Iniciado da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001D3A",
+      "FORMID": "001D3A",
+      "EDID": "DLC03EncounterPPBrotherhood1",
+      "FULL": "Iniciado da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A955",
+      "FORMID": "00A955",
+      "EDID": "DLC03SarahLyonsVertibird01",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D44E",
+      "FORMID": "01D44E",
+      "EDID": "MQ01Vargas",
+      "FULL": "Paladino Vargas"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D430",
+      "FORMID": "01D430",
+      "EDID": "MQ01SarahLyons",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0013BA",
+      "FORMID": "0013BA",
+      "EDID": "DLC03EncounterRCSecurity02",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0013AF",
+      "FORMID": "0013AF",
+      "EDID": "DLC03EncounterRCSecurity01",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00A954",
+      "FORMID": "00A954",
+      "EDID": "DLC03SarahLyonsVertibird02",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C1A",
+      "FORMID": "004C1A",
+      "EDID": "DLC03EncounterADOutcastA3",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:007313",
+      "FORMID": "007313",
+      "EDID": "DLC03WQScientistATemplate",
+      "FULL": "Cientista do Projeto Pureza"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:004C19",
+      "FORMID": "004C19",
+      "EDID": "DLC03EncounterADOutcastA2",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0072EE",
+      "FORMID": "0072EE",
+      "EDID": "DLC03WQScientistC",
+      "FULL": "Cientista do Projeto Pureza"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0072ED",
+      "FORMID": "0072ED",
+      "EDID": "DLC03WQScientistD",
+      "FULL": "Cientista do Projeto Pureza"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005686",
+      "FORMID": "005686",
+      "EDID": "DLC03Tristan",
+      "FULL": "Paladino Tristan"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0072DD",
+      "FORMID": "0072DD",
+      "EDID": "DLC03WQScientistB",
+      "FULL": "Cientista do Projeto Pureza"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005685",
+      "FORMID": "005685",
+      "EDID": "DLC03ScribeVallincourt",
+      "FULL": "Escrivão Vallincourt"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C59",
+      "FORMID": "005C59",
+      "EDID": "DLC03AFBFight02BoSMissileFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0095C5",
+      "FORMID": "0095C5",
+      "EDID": "DLC03BrotherhoodOfSteel1GunHMDEAD",
+      "FULL": "Iniciado da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C58",
+      "FORMID": "005C58",
+      "EDID": "DLC03AFBFight02BoSMissileFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C57",
+      "FORMID": "005C57",
+      "EDID": "DLC03AFBFight02BoSMinigunFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C56",
+      "FORMID": "005C56",
+      "EDID": "DLC03AFBFight02BoSMinigunFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00103D",
+      "FORMID": "00103D",
+      "EDID": "DLC03Talon4MissileHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00103C",
+      "FORMID": "00103C",
+      "EDID": "DLC03Talon4MissileCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00103B",
+      "FORMID": "00103B",
+      "EDID": "DLC03Talon4MissileAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00103A",
+      "FORMID": "00103A",
+      "EDID": "DLC03Talon4MissileAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001039",
+      "FORMID": "001039",
+      "EDID": "DLC03Talon4SniperHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001038",
+      "FORMID": "001038",
+      "EDID": "DLC03Talon4SniperCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001037",
+      "FORMID": "001037",
+      "EDID": "DLC03Talon4SniperAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001036",
+      "FORMID": "001036",
+      "EDID": "DLC03Talon4SniperAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001035",
+      "FORMID": "001035",
+      "EDID": "DLC03Talon4MeleeHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001034",
+      "FORMID": "001034",
+      "EDID": "DLC03Talon4MeleeCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001033",
+      "FORMID": "001033",
+      "EDID": "DLC03Talon4MeleeAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001032",
+      "FORMID": "001032",
+      "EDID": "DLC03Talon4MeleeAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001031",
+      "FORMID": "001031",
+      "EDID": "DLC03Talon4GunHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001030",
+      "FORMID": "001030",
+      "EDID": "DLC03Talon4GunCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102F",
+      "FORMID": "00102F",
+      "EDID": "DLC03Talon4GunAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102E",
+      "FORMID": "00102E",
+      "EDID": "DLC03Talon4GunAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102D",
+      "FORMID": "00102D",
+      "EDID": "DLC03Enclave4BigGunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102C",
+      "FORMID": "00102C",
+      "EDID": "DLC03Enclave4BigGunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102B",
+      "FORMID": "00102B",
+      "EDID": "DLC03Enclave4BigGunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00102A",
+      "FORMID": "00102A",
+      "EDID": "DLC03Enclave4BigGunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001029",
+      "FORMID": "001029",
+      "EDID": "DLC03Enclave4BigGunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001028",
+      "FORMID": "001028",
+      "EDID": "DLC03Enclave4BigGunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001027",
+      "FORMID": "001027",
+      "EDID": "DLC03Enclave4BigGunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001026",
+      "FORMID": "001026",
+      "EDID": "DLC03Enclave4BigGunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001025",
+      "FORMID": "001025",
+      "EDID": "DLC03Enclave4GunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001024",
+      "FORMID": "001024",
+      "EDID": "DLC03Enclave4GunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001023",
+      "FORMID": "001023",
+      "EDID": "DLC03Enclave4GunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001022",
+      "FORMID": "001022",
+      "EDID": "DLC03Enclave4GunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001021",
+      "FORMID": "001021",
+      "EDID": "DLC03Enclave4GunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:001020",
+      "FORMID": "001020",
+      "EDID": "DLC03Enclave4GunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00101F",
+      "FORMID": "00101F",
+      "EDID": "DLC03Enclave4GunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00101E",
+      "FORMID": "00101E",
+      "EDID": "DLC03Enclave4GunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C54",
+      "FORMID": "005C54",
+      "EDID": "DLC03AFBFight02BoSMissileFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C53",
+      "FORMID": "005C53",
+      "EDID": "DLC03AFBFight02BoSMinigunFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C4E",
+      "FORMID": "005C4E",
+      "EDID": "DLC03AFBFight02EnclaveGatlingFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0009DD",
+      "FORMID": "0009DD",
+      "EDID": "DLC03SarahLyons",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:000909",
+      "FORMID": "000909",
+      "EDID": "DLC03BoSKnightGreeter",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156EA",
+      "FORMID": "0156EA",
+      "EDID": "ScribeRothchild",
+      "FULL": "Escrivão Rothchild"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C4D",
+      "FORMID": "005C4D",
+      "EDID": "DLC03AFBFight02EnclaveGatlingFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B25B5",
+      "FORMID": "0B25B5",
+      "EDID": "fortBannTalonCompanyHead",
+      "FULL": "Comandante Jabsco"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00953E",
+      "FORMID": "00953E",
+      "EDID": "DLC03EnclaveOfficerMBKey",
+      "FULL": "Oficial de Segurança"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F61",
+      "FORMID": "006F61",
+      "EDID": "DLC03WQ02GuardC",
+      "FULL": "Ghoul Guarda"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F60",
+      "FORMID": "006F60",
+      "EDID": "DLC03WQ02GuardB",
+      "FULL": "Ghoul Guarda"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006F5F",
+      "FORMID": "006F5F",
+      "EDID": "DLC03WQ02GuardA",
+      "FULL": "Ghoul Guarda"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00946A",
+      "FORMID": "00946A",
+      "EDID": "DLC03LvlEnclaveScientistDClawNoScript",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00944F",
+      "FORMID": "00944F",
+      "EDID": "DLC03LvlEnclaveScientistDClaw",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D439",
+      "FORMID": "00D439",
+      "EDID": "DLC03AFBEnclaveNapalmFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D438",
+      "FORMID": "00D438",
+      "EDID": "DLC03AFBEnclaveNapalmFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D437",
+      "FORMID": "00D437",
+      "EDID": "DLC03AFBFight02EnclaveNapalmFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D436",
+      "FORMID": "00D436",
+      "EDID": "DLC03AFBFight02EnclaveNapalmFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D435",
+      "FORMID": "00D435",
+      "EDID": "DLC03AFBFight02EnclaveNapalmFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D434",
+      "FORMID": "00D434",
+      "EDID": "DLC03AFBEnclaveNapalmFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D42F",
+      "FORMID": "00D42F",
+      "EDID": "DLC03RelayStatNoRespawnEnclave2FlamerVar",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D41B",
+      "FORMID": "00D41B",
+      "EDID": "DLC03AFBBoSTeslaFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D41A",
+      "FORMID": "00D41A",
+      "EDID": "DLC03AFBBoSTeslaFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D419",
+      "FORMID": "00D419",
+      "EDID": "DLC03AFBBoSTeslaFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D418",
+      "FORMID": "00D418",
+      "EDID": "DLC03AFBFight02BoSTeslaFodder03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D417",
+      "FORMID": "00D417",
+      "EDID": "DLC03AFBFight02BoSTeslaFodder02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00D416",
+      "FORMID": "00D416",
+      "EDID": "DLC03AFBFight02BoSTeslaFodder01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF36",
+      "FORMID": "00CF36",
+      "EDID": "DLC03ZCarTunnelScribeA",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF35",
+      "FORMID": "00CF35",
+      "EDID": "DLC03EnclaveCarTunnelDeadWorkBench",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF34",
+      "FORMID": "00CF34",
+      "EDID": "DLC03EnclaveCarTunnelDeadLooted2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF33",
+      "FORMID": "00CF33",
+      "EDID": "DLC03EnclaveCarTunnelDeadLooted1",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF32",
+      "FORMID": "00CF32",
+      "EDID": "DLC03ZCarTunnelScribeC",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF31",
+      "FORMID": "00CF31",
+      "EDID": "DLC03EnclaveCarTunnelDead2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF30",
+      "FORMID": "00CF30",
+      "EDID": "DLC03EnclaveCarTunnelDead1",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00CF2F",
+      "FORMID": "00CF2F",
+      "EDID": "DLC03ZCarTunnelScribeB",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:0091D5",
+      "FORMID": "0091D5",
+      "EDID": "DLC03EncounterPPCBrotherhood2",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00C915",
+      "FORMID": "00C915",
+      "EDID": "DLC03EnclavePlatformDead",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C4C",
+      "FORMID": "005C4C",
+      "EDID": "DLC03AFBFight02EnclaveGatlingFodder01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C4B",
+      "FORMID": "005C4B",
+      "EDID": "DLC03AFBFight02EnclaveMissileFodder03",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:005C4A",
+      "FORMID": "005C4A",
+      "EDID": "DLC03AFBFight02EnclaveMissileFodder02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCB8",
+      "FORMID": "00BCB8",
+      "EDID": "DLC03WQFEVRivetCityPatientC",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCB5",
+      "FORMID": "00BCB5",
+      "EDID": "DLC03WQFEVRivetCityPatientB",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCB2",
+      "FORMID": "00BCB2",
+      "EDID": "DLC03WQFEVRivetCityPatientA",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCAA",
+      "FORMID": "00BCAA",
+      "EDID": "DLC03FEVMegatonSettlerC",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCA9",
+      "FORMID": "00BCA9",
+      "EDID": "DLC03FEVMegatonSettlerB",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BCA8",
+      "FORMID": "00BCA8",
+      "EDID": "DLC03FEVMegatonSettlerA",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00695A",
+      "FORMID": "00695A",
+      "EDID": "DLC03WQ01BanditC",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBBB",
+      "FORMID": "00BBBB",
+      "EDID": "DLC03FEVUnderworldGhoulD",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBB6",
+      "FORMID": "00BBB6",
+      "EDID": "DLC03FEVUnderworldGhoulC",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBB4",
+      "FORMID": "00BBB4",
+      "EDID": "DLC03FEVUnderworldGhoulB",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BBB2",
+      "FORMID": "00BBB2",
+      "EDID": "DLC03FEVUnderworldGhoulA",
+      "FULL": "Residente do Submundo"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB32",
+      "FORMID": "00BB32",
+      "EDID": "DLC03WQWaterDriverB",
+      "FULL": "Condutor da Caravana de Água"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:00BB31",
+      "FORMID": "00BB31",
+      "EDID": "DLC03WQWaterDriverA",
+      "FULL": "Condutor da Caravana de Água"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:006959",
+      "FORMID": "006959",
+      "EDID": "DLC03WQ01BanditB",
+      "FULL": "Bandido"
+    },
+    {
+      "FORM": "@BrokenSteel.esm:008CE1",
+      "FORMID": "008CE1",
+      "EDID": "DLC03AFBBoSGunPatrolWeapDrawn02",
+      "FULL": "Paladino da Irmandade de Aço"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "TERM": [
+    {
+      "FORM": "@Anchorage.esm:00C161",
+      "FORMID": "00C161",
+      "EDID": "DLC02CapturedHackerTerminal",
+      "FULL": "Terminal Hackeado",
+      "DESC": "H:>  \\.\nH:> Bem-Vindo: USER_ADMIN\nH:> ...|",
+      "MENU": {
+        "ITXT": [
+          "Registro de Acesso de Usuário",
+          "Acessar a Unidade Central",
+          "Ações de Rotina de Alimentação"
+        ],
+        "RNAM": [
+          "Carregando Registro de Acesso de Usuário",
+          "ERRO: Autorização Revocada",
+          "ERRO: Autorização Revocada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0029C9",
+      "FORMID": "0029C9",
+      "EDID": "DLC02OA3PattersonTerminalUnit02",
+      "DESC": "Equipe de Combate Unidade Dois com Custo em Marcadores de Requisição",
+      "MENU": {
+        "ITXT": [
+          "Soldado de Infantaria - 1 Marcador",
+          "Granadeiro - 1 Marcador",
+          "Unidade de Mísseis - 2 Marcadores",
+          "Franco-Atirador - 2 Marcadores",
+          "Sr. Corajoso - 3 Marcadores",
+          "Robô Sentinela - 4 Marcadores",
+          "Descartar Unidade"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0029B3",
+      "FORMID": "0029B3",
+      "EDID": "DLC02OA3PattersonTerminalUnit01",
+      "DESC": "Equipe de Combate Unidade Um com Custo em Marcadores de Requisição",
+      "MENU": {
+        "ITXT": [
+          "Soldado de Infantaria - 1 Marcador",
+          "Granadeiro - 1 Marcador",
+          "Unidade de Mísseis - 2 Marcadores",
+          "Franco-Atirador - 2 Marcadores",
+          "Sr. Corajoso - 3 Marcadores",
+          "Robô Sentinela - 4 Marcadores",
+          "Descartar Unidade"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00C15F",
+      "FORMID": "00C15F",
+      "EDID": "DLC02AmericanIntelTerminal01",
+      "FULL": "Terminal Hackeado",
+      "DESC": "Anchorage Telegraph Co.\nTerminal de Emissão Aberta AF-12e\nContrato Especial US_DoD_Auth\n\nERRO: Arquivo Corrompido Detectado\nERRO: Código de Autorização Inválido",
+      "MENU": {
+        "ITXT": [
+          "Diagnosticar Arquivo?",
+          "Enviar Mensagem?",
+          "Recuperar a Última Transmissão?"
+        ],
+        "RNAM": [
+          "ERRO: Arquivo Corrompido 98xHHa",
+          "ERRO: Linha Fixa Indisponível",
+          "Carregando Registro de Transmissão..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00C15B",
+      "FORMID": "00C15B",
+      "EDID": "DLC02ChineseIntelTerminal04",
+      "FULL": "Terminal Chinês",
+      "DESC": "Autotranscritor USAF\nMODO USUÁRIO: Coloquial Americano\/Centro-Oeste \nIDIOMA FLUENTE: Chinês\/Mandarin Formal\nAVISO: Erros de decodificação encontrados: 15%",
+      "MENU": {
+        "ITXT": [
+          "Decodificado\/Volume Transcrito 99x51x140"
+        ],
+        "RNAM": [
+          "Carregando Transcrição..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00C15A",
+      "FORMID": "00C15A",
+      "EDID": "DLC02ChineseIntelTerminal03",
+      "FULL": "Terminal Chinês",
+      "DESC": "Autotranscritor USAF\nMODO USUÁRIO: Coloquial Americano\/Centro-Oeste \nIDIOMA FLUENTE: Chinês\/Guanhuà Formal\nAVISO: Erros de decodificação encontrados: 16%",
+      "MENU": {
+        "ITXT": [
+          "Decodificado\/Volume Transcrito 99x17x320"
+        ],
+        "RNAM": [
+          "Carregando Transcrição..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00C159",
+      "FORMID": "00C159",
+      "EDID": "DLC02ChineseIntelTerminal02",
+      "FULL": "Terminal Chinês",
+      "DESC": "Autotranscritor USAF\nMODO USUÁRIO: Coloquial Americano\/Centro-Oeste\nIDIOMA FLUENTE: Chinês\/Mandarin Formal\nAVISO: Erros de decodificação encontrados: 27%",
+      "MENU": {
+        "ITXT": [
+          "Decodificado\/Volume Transcrito 99x46x013"
+        ],
+        "RNAM": [
+          "Carregando Transcrição..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00C06B",
+      "FORMID": "00C06B",
+      "EDID": "DLC02ArtilleryProtocolTerminal",
+      "FULL": "Protocolo de Artilharia Americana",
+      "DESC": "Protocolos USAF para Estações de Artilharia\nPosto Chugach AFS - Anchorage, AK\nSeção AFS-12.1\nInstalação de Supervisão: \nElemndorf AFB - Anchorage, AK",
+      "MENU": {
+        "ITXT": [
+          "1.1a: Cooperação c\/NORAD regional",
+          "1.1b: Evacuações Diversionistas",
+          "1.1c: Contra-espionagem Atmosférica"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0029CC",
+      "FORMID": "0029CC",
+      "EDID": "DLC02OA3PattersonTerminalSure",
+      "FULL": "Terminal de Patterson",
+      "DESC": "AVISO: Isto expandirá sua Equipe de Combate selecionada.",
+      "MENU": {
+        "ITXT": [
+          "Expandir Equipe",
+          "Cancelar"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0029CA",
+      "FORMID": "0029CA",
+      "EDID": "DLC02OA3PattersonTerminalUnit03",
+      "FULL": "Terminal de Patterson",
+      "DESC": "Equipe de Combate Unidade Três com Custo em Marcadores de Requisição",
+      "MENU": {
+        "ITXT": [
+          "Soldado de Infantaria - 1 Marcador",
+          "Granadeiro - 1 Marcador",
+          "Unidade de Mísseis - 2 Marcadores",
+          "Franco-Atirador - 2 Marcadores",
+          "Sr. Corajoso - 3 Marcadores",
+          "Robô Sentinela - 4 Marcadores",
+          "Descartar Unidade"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0029BD",
+      "FORMID": "0029BD",
+      "EDID": "DLC02OA3PattersonTerminalDesc",
+      "FULL": "Terminal de Patterson",
+      "DESC": "Descrições da Unidade da Equipe de Combate",
+      "MENU": {
+        "ITXT": [
+          "Soldado de Infantaria",
+          "Granadeiro",
+          "Unidade de Mísseis",
+          "Franco-Atirador",
+          "Sr. Corajoso",
+          "Robô Sentinela"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:004AAF",
+      "FORMID": "004AAF",
+      "EDID": "DLC02VSSTerminal01",
+      "FULL": "Terminal de Investigação VSS",
+      "DESC": "Virtual Strategic Solutions, Inc.\n\nCâmara SIM-U-TEC 003",
+      "MENU": {
+        "ITXT": [
+          "Últimos Relatórios",
+          "Atualizações do Programa"
+        ],
+        "RNAM": [
+          "ACESSO NEGADO"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0024A1",
+      "FORMID": "0024A1",
+      "EDID": "DLC02OA3RequisitionTerminal",
+      "FULL": "Terminal de Requisição",
+      "DESC": "Por favor selecione seu pacote de equipamento solicitado.",
+      "MENU": {
+        "ITXT": [
+          "Trocar Pacote de Equipamento",
+          "Trocar Pacote de Equipamento",
+          "Pacote: Equipe de Fogo",
+          "Pacote: Equipe de Fogo",
+          "Descrição do Pacote Equipe de Fogo",
+          "Pacote: Assalto Corpo a corpo",
+          "Pacote: Assalto Corpo a corpo",
+          "Descrição do Pacote Assalto Corpo a corpo",
+          "Pacote: Franco-Atirador",
+          "Pacote: Franco-Atirador",
+          "Descrição do Pacote Franco-Atirador",
+          "Pacote: Armas Pesadas",
+          "Pacote: Armas Pesadas",
+          "Descrição do Pacote Armas Pesadas"
+        ],
+        "RNAM": [
+          "Loteamento Atingido",
+          "Ver Intendente",
+          "Requisição Concedida",
+          "Você já está usando o pacote.",
+          "Requisição Concedida",
+          "Você já está usando o pacote.",
+          "Requisição Concedida",
+          "Você já está usando o pacote.",
+          "Requisição Concedida",
+          "Você já está usando o pacote."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0024A0",
+      "FORMID": "0024A0",
+      "EDID": "DLC02OA3PattersonTerminal",
+      "FULL": "Terminal de Patterson",
+      "DESC": "Bem-Vindo Tenente Patterson\nPor Favor, Selecione sua Equipe de Combate",
+      "MENU": {
+        "ITXT": [
+          "Marcadores de Recrutamento Necessários",
+          "Unidade Um Vazia",
+          "Unidade Um: Soldado de Infantaria",
+          "Unidade Um: Granadeiro",
+          "Unidade Um: Unidade de Mísseis",
+          "Unidade Um: Franco-Atirador",
+          "Unidade Um: Sr. Corajoso",
+          "Unidade Um: Robô Sentinela",
+          "Unidade Dois Vazia",
+          "Unidade Dois: Soldado de Infantaria",
+          "Unidade Dois: Granadeiro",
+          "Unidade Dois: Unidade de Mísseis",
+          "Unidade Dois: Franco-Atirador",
+          "Unidade Dois: Sr. Corajoso",
+          "Unidade Dois: Robô Sentinela",
+          "Unidade Três Vazia",
+          "Unidade Três: Soldado de Infantaria",
+          "Unidade Três: Granadeiro",
+          "Unidade Três: Unidade de Mísseis",
+          "Unidade Três: Franco-Atirador",
+          "Unidade Três: Sr. Corajoso",
+          "Unidade Três: Robô Sentinela",
+          "Requisição Completa - Comprometa-se com a Equipe",
+          "Descrição das Unidades"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:008CB5",
+      "FORMID": "008CB5",
+      "EDID": "DLC02VSSSecureAccessTerminal",
+      "FULL": "Terminal de Acesso de Segurança",
+      "DESC": "ARMAZENAMENTO DE SEGURANÇA VSS, INC.\nAutorização Adequada Obrigatória",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear Área de Acesso Restrito",
+          "Desbloquear Área de Acesso Restrito"
+        ],
+        "RNAM": [
+          "Acesso Negado.",
+          "Acesso Permitido. Prossiga."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:0013B4",
+      "FORMID": "0013B4",
+      "EDID": "DLC02VSSElevatorTerminal",
+      "FULL": "Controle do Elevador",
+      "DESC": "Bem-vindo à VSS, uma Companhia de Responsabilidade Limitada",
+      "MENU": {
+        "ITXT": [
+          "B - Baixo",
+          "P1 - Porão Um",
+          "P2 - Porão Dois"
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:00B501",
+      "FORMID": "00B501",
+      "EDID": "DLC02ChineseIntelTerminal01",
+      "FULL": "Terminal Chinês",
+      "DESC": "Autotranscritor USAF\nMODO USUÁRIO: Coloquial Americano\/Centro-Oeste\nIDIOMA FLUENTE: Chinês\/Guanhuà Formal\nAVISO: Erros de decodificação encontrados: 13%",
+      "MENU": {
+        "ITXT": [
+          "Decodificado\/Volume Transcrito 99x87x010"
+        ],
+        "RNAM": [
+          "Carregando Transcrição..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Anchorage.esm:004AB0",
+      "FORMID": "004AB0",
+      "EDID": "DLC02VSSTerminal01SubMenu",
+      "FULL": "Terminal de Investigação VSS",
+      "DESC": "Virtual Strategic Solutions, Inc.\n\nCâmara SIM-U-TEC 003",
+      "MENU": {
+        "ITXT": [
+          "9\/06\/77",
+          "8\/15\/77"
+        ]
+      }
+    }
+  ]
+}

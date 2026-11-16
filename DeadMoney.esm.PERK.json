@@ -1,0 +1,115 @@
+{
+  "PERK": [
+    {
+      "FORM": "@DeadMoney.esm:013B26",
+      "FORMID": "013B26",
+      "EDID": "NVDLC01InMyFootsteps",
+      "FULL": "Em Meus Passos",
+      "DESC": "Quando Deus é um companheiro, ele concede a você furtividade aumentada, bem como a habilidade de andar levemente ao redor de armadilhas colocadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAC",
+      "FORMID": "031DAC",
+      "EDID": "HereandNow",
+      "FULL": "Aqui e Agora",
+      "DESC": "A vantagem Aqui e Agora concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011469",
+      "FORMID": "011469",
+      "EDID": "NVDLC01Hobbler",
+      "FULL": "Cambaleante",
+      "DESC": "Com a vantagem \"Cambaleante\", sua chance de acertar as pernas de um oponente no V.A.T.S. aumenta significativamente."
+    },
+    {
+      "FORM": "@DeadMoney.esm:011468",
+      "FORMID": "011468",
+      "EDID": "NVDLC01HeavyWeight",
+      "FULL": "Peso Pesado",
+      "DESC": "Você tem se exercitado? Armas com mais de 10 quilos agora pesam metade para você. (Armas modificadas que caírem abaixo de 10 quilos não terão esse benefício.)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039E",
+      "FORMID": "01039E",
+      "EDID": "NVDLC01SierraMadreMartiniPerk",
+      "FULL": "Martini Sierra Madre",
+      "DESC": "Você aprendeu a fazer uma substância comestível misteriosa em uma Fogueira com materiais de sucata (Resíduo de Nuvens, Latas, Lixo) que fornece +75 de HP, +4 de RES e +2 de FOR... mas cuidado, também é altamente viciante (15% de chance de vício)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039B",
+      "FORMID": "01039B",
+      "EDID": "NVDLC01CoinOperator",
+      "FULL": "Operador de Moedas",
+      "DESC": "Você aprendeu a receita para fazer fichas para as Máquinas de Venda usando Sucata e o ácido das Baterias de Fissão. Crie-as na Bancada de Trabalho e gaste-as como Fichas!"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039A",
+      "FORMID": "01039A",
+      "EDID": "NVDLC01GhostHunter",
+      "FULL": "Caçador de Fantasmas",
+      "DESC": "Você lida com os Pessoas-Fantasma com eficiência implacável. Quando você os derruba, eles ficam no chão."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB6A",
+      "FORMID": "00FB6A",
+      "EDID": "NVDLC01JunkRounds",
+      "FULL": "Sucateiro de Munição",
+      "DESC": "Sobrevivência é a mãe da invenção! Crie munição na Bancada de Recarga usando materiais alternativos (Sucata e Latas)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F96F",
+      "FORMID": "00F96F",
+      "EDID": "NVDLC01OldWorldGourmet",
+      "FULL": "Gourmet do Velho Mundo",
+      "DESC": "Graças a uma vida impura, você aprendeu os segredos dos lagartos de bar! \n+25% de Resistência a Vícios. +50% de bônus de Saúde de Comidas Rápidas. Uísque, Vodka e Vinho agora concedem Saúde, além de seus efeitos normais."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F218",
+      "FORMID": "00F218",
+      "EDID": "NVDLC01AndStayBack",
+      "FULL": "E Fique Para Trás",
+      "DESC": "Você descobriu uma técnica de Espingarda que tem chance de fazer um inimigo cair para trás."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F216",
+      "FORMID": "00F216",
+      "EDID": "NVDLC01InShiningArmor",
+      "FULL": "Armadura Reluzente",
+      "DESC": "Feixes refletem no acabamento espelhado da sua armadura reluzente! Você ganha +5 de Limite de Dano adicional contra armas de energia ao usar qualquer armadura de metal, +2 ao usar óculos reflexivos."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E87B",
+      "FORMID": "00E87B",
+      "EDID": "NVDLC01LightTouch",
+      "FULL": "Toque Leve",
+      "DESC": "Armadura pesada não é a sua praia, então você aprendeu a customizar armaduras leves para o máximo benefício. Ao usar armadura leve, você ganha +5% de chance de acerto crítico e seus inimigos sofrem -25% de chance de acerto crítico."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4A9",
+      "FORMID": "00D4A9",
+      "EDID": "NVDLC01ElijahRamblings",
+      "FULL": "Divagações de Elijah",
+      "DESC": "Você aprendeu a técnica secreta de Arma Corpo a Corpo de Elijah e seus Ataques Críticos agora causam 150% mais dano."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4A8",
+      "FORMID": "00D4A8",
+      "EDID": "NVDLC01ElijahLastWords",
+      "FULL": "Últimas Palavras de Elijah"
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A2F",
+      "FORMID": "008A2F",
+      "EDID": "NVDLC01UncleanLiving",
+      "FULL": "Vida Imunda",
+      "DESC": "Quando Dean é um companheiro, ele concede a você um curto período de tempo antes de sofrer dano dentro de uma nuvem tóxica, além de reduzir a quantidade de dano que você recebe dentro da nuvem tóxica em 25%."
+    },
+    {
+      "FORM": "@DeadMoney.esm:008A2E",
+      "FORMID": "008A2E",
+      "EDID": "NVDLC01SignalInterference",
+      "FULL": "Interferência no Sinal",
+      "DESC": "Quando Christine é sua companheira, ela concede a você um curto período de tempo perto de um alto-falante antes que sua coleira-bomba comece a ativar, além de aumentar o tempo antes que sua coleira-bomba detone em 50%."
+    }
+  ]
+}

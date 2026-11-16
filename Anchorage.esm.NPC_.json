@@ -1,0 +1,1078 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@Anchorage.esm:008436",
+      "FORMID": "008436",
+      "EDID": "DLC02ChineseSoldier4",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008435",
+      "FORMID": "008435",
+      "EDID": "DLC02ChineseSoldier3",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008434",
+      "FORMID": "008434",
+      "EDID": "DLC02ChineseSoldier2",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:004520",
+      "FORMID": "004520",
+      "EDID": "DLC02FF005Soldier",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00450C",
+      "FORMID": "00450C",
+      "EDID": "DLC02FF003MechanicA",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501A",
+      "FORMID": "00501A",
+      "EDID": "DLC02StrikeTeamAR1BTemplate",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:004DE4",
+      "FORMID": "004DE4",
+      "EDID": "DLC02BaseOutcast1",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Anchorage.esm:004DD3",
+      "FORMID": "004DD3",
+      "EDID": "DLC02FF006Sniper",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:004398",
+      "FORMID": "004398",
+      "EDID": "dlc02testchinesedeath",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:004AB4",
+      "FORMID": "004AB4",
+      "EDID": "DLC02PowerArmorFatMan",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:004A52",
+      "FORMID": "004A52",
+      "EDID": "DLC02FF006SoldierWarn",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00BC3D",
+      "FORMID": "00BC3D",
+      "EDID": "DLC02PowerArmorFatManFried",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:004F78",
+      "FORMID": "004F78",
+      "EDID": "DLC02FF002Captor",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:004A4F",
+      "FORMID": "004A4F",
+      "EDID": "DLC02FF006SoldierHeadExplode",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:004D26",
+      "FORMID": "004D26",
+      "EDID": "DLC02DeadParaTrooper01",
+      "FULL": "Paraquedista morto dos E.U."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B5FB",
+      "FORMID": "00B5FB",
+      "EDID": "DLC02PowerArmorFatManREDSHIRT",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B56E",
+      "FORMID": "00B56E",
+      "EDID": "DLC02FF007Doctor",
+      "FULL": "Doutora Adami"
+    },
+    {
+      "FORM": "@Anchorage.esm:004CF5",
+      "FORMID": "004CF5",
+      "EDID": "dlc02ChinesePatrollerDEAD",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:004E11",
+      "FORMID": "004E11",
+      "EDID": "DLC02ParaTrooper01",
+      "FULL": "Paraquedista dos E.U."
+    },
+    {
+      "FORM": "@Anchorage.esm:004DE6",
+      "FORMID": "004DE6",
+      "EDID": "DLC02BaseOutcast3",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4B7",
+      "FORMID": "00B4B7",
+      "EDID": "DLC02FF008Soldier",
+      "FULL": "Unidade Americana T51-B"
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4AA",
+      "FORMID": "00B4AA",
+      "EDID": "DLC02FF008MechanicA",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:004DE5",
+      "FORMID": "004DE5",
+      "EDID": "DLC02BaseOutcast2",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Anchorage.esm:005658",
+      "FORMID": "005658",
+      "EDID": "DLC02FF010Captive",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003ED7",
+      "FORMID": "003ED7",
+      "EDID": "DLC02FF002Captive",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:005025",
+      "FORMID": "005025",
+      "EDID": "DLC02StrikeTeamSN1DTemplate",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00AD38",
+      "FORMID": "00AD38",
+      "EDID": "DLC02FF007PatientSleepingA",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00AD30",
+      "FORMID": "00AD30",
+      "EDID": "DLC02FF007PatientSittingA",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:005024",
+      "FORMID": "005024",
+      "EDID": "DLC02StrikeTeamSN1CTemplate",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CCE",
+      "FORMID": "003CCE",
+      "EDID": "DLC02AmericanMissileLauncher1TEMPLATE",
+      "FULL": "Lança - Mísseis Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CCD",
+      "FORMID": "003CCD",
+      "EDID": "DLC02AmericanFlamer1TEMPLATE",
+      "FULL": "Unidade do Inferno Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CCC",
+      "FORMID": "003CCC",
+      "EDID": "DLC02AmericanSniper1TEMPLATE",
+      "FULL": "Franco-Atirador Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CCB",
+      "FORMID": "003CCB",
+      "EDID": "DLC02AmericanSoldier1TEMPLATE",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CC6",
+      "FORMID": "003CC6",
+      "EDID": "DLC02ChineseTEMPLATEBASE",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CC5",
+      "FORMID": "003CC5",
+      "EDID": "DLC02ChineseMissileLauncher1TEMPLATE",
+      "FULL": "Lança - Mísseis Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CC4",
+      "FORMID": "003CC4",
+      "EDID": "DLC02ChineseFlamer1TEMPLATE",
+      "FULL": "Unidade do Inferno Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CC3",
+      "FORMID": "003CC3",
+      "EDID": "DLC02ChineseSniper1TEMPLATE",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:003CC2",
+      "FORMID": "003CC2",
+      "EDID": "DLC02ChineseSoldier1TEMPLATE",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:005023",
+      "FORMID": "005023",
+      "EDID": "DLC02StrikeTeamSN1BTemplate",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:005022",
+      "FORMID": "005022",
+      "EDID": "DLC02StrikeTeamMU1DTemplate",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:005021",
+      "FORMID": "005021",
+      "EDID": "DLC02StrikeTeamMU1CTemplate",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:005020",
+      "FORMID": "005020",
+      "EDID": "DLC02StrikeTeamMU1BTemplate",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501F",
+      "FORMID": "00501F",
+      "EDID": "DLC02StrikeTeamGR1DTemplate",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501E",
+      "FORMID": "00501E",
+      "EDID": "DLC02StrikeTeamGR1CTemplate",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:003489",
+      "FORMID": "003489",
+      "EDID": "DLC02FF001Soldier",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A088",
+      "FORMID": "00A088",
+      "EDID": "DLC02ArtyBaseCrimsonDragoon03",
+      "FULL": "Dragão Vermelho"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A085",
+      "FORMID": "00A085",
+      "EDID": "DLC02ArtyBaseCrimsonDragoon02",
+      "FULL": "Dragão Vermelho"
+    },
+    {
+      "FORM": "@Anchorage.esm:00A044",
+      "FORMID": "00A044",
+      "EDID": "DLC02TEMPSgtMontgomery",
+      "FULL": "Sargento Benjamin Montgomery"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501D",
+      "FORMID": "00501D",
+      "EDID": "DLC02StrikeTeamGR1BTemplate",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501C",
+      "FORMID": "00501C",
+      "EDID": "DLC02StrikeTeamAR1DTemplate",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:0091B4",
+      "FORMID": "0091B4",
+      "EDID": "DLC02ArtyBaseCrimsonDragoon01",
+      "FULL": "Dragão Vermelho"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D22",
+      "FORMID": "002D22",
+      "EDID": "DLC02FieldHQQuartermaster",
+      "FULL": "Contramestre"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D05",
+      "FORMID": "008D05",
+      "EDID": "DLC02StrikeTeamSN5D",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D07",
+      "FORMID": "002D07",
+      "EDID": "DLC02StrikeTeamSN1ATemplate",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D06",
+      "FORMID": "002D06",
+      "EDID": "DLC02StrikeTeamMU1ATemplate",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D05",
+      "FORMID": "002D05",
+      "EDID": "DLC02StrikeTeamGR1ATemplate",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002D04",
+      "FORMID": "002D04",
+      "EDID": "DLC02StrikeTeamAR1ATemplate",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D04",
+      "FORMID": "008D04",
+      "EDID": "DLC02StrikeTeamSN5C",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D03",
+      "FORMID": "008D03",
+      "EDID": "DLC02StrikeTeamSN5B",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D02",
+      "FORMID": "008D02",
+      "EDID": "DLC02StrikeTeamSN5A",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D01",
+      "FORMID": "008D01",
+      "EDID": "DLC02StrikeTeamSN4D",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008D00",
+      "FORMID": "008D00",
+      "EDID": "DLC02StrikeTeamSN4C",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002985",
+      "FORMID": "002985",
+      "EDID": "DLC02AmericanEndBattle2",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:002984",
+      "FORMID": "002984",
+      "EDID": "DLC02AmericanEndBattle1",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFF",
+      "FORMID": "008CFF",
+      "EDID": "DLC02StrikeTeamSN4B",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFE",
+      "FORMID": "008CFE",
+      "EDID": "DLC02StrikeTeamSN4A",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:002944",
+      "FORMID": "002944",
+      "EDID": "DLC02ListeningPostChineseTechnician",
+      "FULL": "Técnico Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00293B",
+      "FORMID": "00293B",
+      "EDID": "DLC02ListeningPostCrimsonDragoon",
+      "FULL": "Dragão Vermelho"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFD",
+      "FORMID": "008CFD",
+      "EDID": "DLC02StrikeTeamSN3D",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFC",
+      "FORMID": "008CFC",
+      "EDID": "DLC02StrikeTeamSN3C",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFB",
+      "FORMID": "008CFB",
+      "EDID": "DLC02StrikeTeamSN3B",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CFA",
+      "FORMID": "008CFA",
+      "EDID": "DLC02StrikeTeamSN3A",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF9",
+      "FORMID": "008CF9",
+      "EDID": "DLC02StrikeTeamSN2D",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF8",
+      "FORMID": "008CF8",
+      "EDID": "DLC02StrikeTeamSN2C",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF7",
+      "FORMID": "008CF7",
+      "EDID": "DLC02StrikeTeamSN2B",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF6",
+      "FORMID": "008CF6",
+      "EDID": "DLC02StrikeTeamSN2A",
+      "FULL": "Franco-Atirador da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF1",
+      "FORMID": "008CF1",
+      "EDID": "DLC02StrikeTeamMU5D",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CF0",
+      "FORMID": "008CF0",
+      "EDID": "DLC02StrikeTeamMU5C",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CEF",
+      "FORMID": "008CEF",
+      "EDID": "DLC02StrikeTeamMU5B",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CEE",
+      "FORMID": "008CEE",
+      "EDID": "DLC02StrikeTeamMU5A",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CED",
+      "FORMID": "008CED",
+      "EDID": "DLC02StrikeTeamMU4D",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CEC",
+      "FORMID": "008CEC",
+      "EDID": "DLC02StrikeTeamMU4C",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CEB",
+      "FORMID": "008CEB",
+      "EDID": "DLC02StrikeTeamMU4B",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CEA",
+      "FORMID": "008CEA",
+      "EDID": "DLC02StrikeTeamMU4A",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE9",
+      "FORMID": "008CE9",
+      "EDID": "DLC02StrikeTeamMU3D",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE8",
+      "FORMID": "008CE8",
+      "EDID": "DLC02StrikeTeamMU3C",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE7",
+      "FORMID": "008CE7",
+      "EDID": "DLC02StrikeTeamMU3B",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE6",
+      "FORMID": "008CE6",
+      "EDID": "DLC02StrikeTeamMU3A",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE5",
+      "FORMID": "008CE5",
+      "EDID": "DLC02StrikeTeamMU2D",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE4",
+      "FORMID": "008CE4",
+      "EDID": "DLC02StrikeTeamMU2C",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE3",
+      "FORMID": "008CE3",
+      "EDID": "DLC02StrikeTeamMU2B",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CE2",
+      "FORMID": "008CE2",
+      "EDID": "DLC02StrikeTeamMU2A",
+      "FULL": "Unidade de Mísseis da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDD",
+      "FORMID": "008CDD",
+      "EDID": "DLC02StrikeTeamGR5D",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDC",
+      "FORMID": "008CDC",
+      "EDID": "DLC02StrikeTeamGR5C",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E26",
+      "FORMID": "000E26",
+      "EDID": "DLC02DefenderMorrill",
+      "FULL": "Defensor Morrill"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E24",
+      "FORMID": "000E24",
+      "EDID": "DLC02DefenderSibley",
+      "FULL": "Defensor Sibley"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E23",
+      "FORMID": "000E23",
+      "EDID": "DLC02ProtectorMcGraw",
+      "FULL": "Protetor McGraw"
+    },
+    {
+      "FORM": "@Anchorage.esm:000E22",
+      "FORMID": "000E22",
+      "EDID": "DLC02SpecialistOlin",
+      "FULL": "Especialista Olin"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDB",
+      "FORMID": "008CDB",
+      "EDID": "DLC02StrikeTeamGR5B",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:0009C3",
+      "FORMID": "0009C3",
+      "EDID": "DLC02LtMorgan",
+      "FULL": "Tenente Morgan"
+    },
+    {
+      "FORM": "@Anchorage.esm:0009C2",
+      "FORMID": "0009C2",
+      "EDID": "DLC02SgtMontgomery",
+      "FULL": "Sargento Benjamin Montgomery"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CDA",
+      "FORMID": "008CDA",
+      "EDID": "DLC02StrikeTeamGR5A",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD9",
+      "FORMID": "008CD9",
+      "EDID": "DLC02StrikeTeamGR4D",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD8",
+      "FORMID": "008CD8",
+      "EDID": "DLC02StrikeTeamGR4C",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD7",
+      "FORMID": "008CD7",
+      "EDID": "DLC02StrikeTeamGR4B",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD6",
+      "FORMID": "008CD6",
+      "EDID": "DLC02StrikeTeamGR4A",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CCF7",
+      "FORMID": "00CCF7",
+      "EDID": "DLC02ChineseHQAmericanPowerArmorGauss",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CC76",
+      "FORMID": "00CC76",
+      "EDID": "DLC02ChineseHQAmericanPowerArmorMelee",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD5",
+      "FORMID": "008CD5",
+      "EDID": "DLC02StrikeTeamGR3D",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD4",
+      "FORMID": "008CD4",
+      "EDID": "DLC02StrikeTeamGR3C",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD3",
+      "FORMID": "008CD3",
+      "EDID": "DLC02StrikeTeamGR3B",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD2",
+      "FORMID": "008CD2",
+      "EDID": "DLC02StrikeTeamGR3A",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD1",
+      "FORMID": "008CD1",
+      "EDID": "DLC02StrikeTeamGR2D",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CD0",
+      "FORMID": "008CD0",
+      "EDID": "DLC02StrikeTeamGR2B",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CBF8",
+      "FORMID": "00CBF8",
+      "EDID": "DLC02FF002CaptiveExecuted",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CBEA",
+      "FORMID": "00CBEA",
+      "EDID": "DLC02ChineseHQAmericanPowerArmor",
+      "FULL": "Soldado com Power Armor"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCF",
+      "FORMID": "008CCF",
+      "EDID": "DLC02StrikeTeamGR2C",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCE",
+      "FORMID": "008CCE",
+      "EDID": "DLC02StrikeTeamGR2A",
+      "FULL": "Granadeiro da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCD",
+      "FORMID": "008CCD",
+      "EDID": "DLC02StrikeTeamAR5D",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCC",
+      "FORMID": "008CCC",
+      "EDID": "DLC02StrikeTeamAR5C",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCB",
+      "FORMID": "008CCB",
+      "EDID": "DLC02StrikeTeamAR5B",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CCA",
+      "FORMID": "008CCA",
+      "EDID": "DLC02StrikeTeamAR5A",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC9",
+      "FORMID": "008CC9",
+      "EDID": "DLC02StrikeTeamAR4D",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC8",
+      "FORMID": "008CC8",
+      "EDID": "DLC02StrikeTeamAR4C",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC7",
+      "FORMID": "008CC7",
+      "EDID": "DLC02StrikeTeamAR4B",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC6",
+      "FORMID": "008CC6",
+      "EDID": "DLC02StrikeTeamAR4A",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC5",
+      "FORMID": "008CC5",
+      "EDID": "DLC02StrikeTeamAR3D",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC4",
+      "FORMID": "008CC4",
+      "EDID": "DLC02StrikeTeamAR3C",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC3",
+      "FORMID": "008CC3",
+      "EDID": "DLC02StrikeTeamAR3B",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC2",
+      "FORMID": "008CC2",
+      "EDID": "DLC02StrikeTeamAR3A",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C3C8",
+      "FORMID": "00C3C8",
+      "EDID": "DLC02GuardOutcast1",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC1",
+      "FORMID": "008CC1",
+      "EDID": "DLC02StrikeTeamAR2D",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CC0",
+      "FORMID": "008CC0",
+      "EDID": "DLC02StrikeTeamAR2C",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CBF",
+      "FORMID": "008CBF",
+      "EDID": "DLC02StrikeTeamAR2B",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:008CBE",
+      "FORMID": "008CBE",
+      "EDID": "DLC02StrikeTeamAR2A",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00501B",
+      "FORMID": "00501B",
+      "EDID": "DLC02StrikeTeamAR1CTemplate",
+      "FULL": "Soldado de Infantaria da Equipe de Combate"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C339",
+      "FORMID": "00C339",
+      "EDID": "DLC02AudiotapeVoice03Gary",
+      "FULL": "Fita de Voz Gary"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C338",
+      "FORMID": "00C338",
+      "EDID": "DLC02AudiotapeVoice02",
+      "FULL": "Fita de Voz 2"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C337",
+      "FORMID": "00C337",
+      "EDID": "DLC02AudiotapeVoice01",
+      "FULL": "Fita de Voz 1"
+    },
+    {
+      "FORM": "@Anchorage.esm:00845D",
+      "FORMID": "00845D",
+      "EDID": "DLC02ChineseSniper5",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00845C",
+      "FORMID": "00845C",
+      "EDID": "DLC02ChineseSniper4",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00845B",
+      "FORMID": "00845B",
+      "EDID": "DLC02ChineseSniper3",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:00845A",
+      "FORMID": "00845A",
+      "EDID": "DLC02ChineseSniper2",
+      "FULL": "Franco-Atirador Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008459",
+      "FORMID": "008459",
+      "EDID": "DLC02ChineseMissileLauncher5",
+      "FULL": "Lança - Mísseis Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008458",
+      "FORMID": "008458",
+      "EDID": "DLC02ChineseMissileLauncher4",
+      "FULL": "Lança - Mísseis Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008457",
+      "FORMID": "008457",
+      "EDID": "DLC02ChineseMissileLauncher3",
+      "FULL": "Lança - Mísseis Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008456",
+      "FORMID": "008456",
+      "EDID": "DLC02ChineseMissileLauncher2",
+      "FULL": "Lança - Mísseis Chinês"
+    },
+    {
+      "FORM": "@Anchorage.esm:008455",
+      "FORMID": "008455",
+      "EDID": "DLC02ChineseFlamer5",
+      "FULL": "Unidade do Inferno Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:008454",
+      "FORMID": "008454",
+      "EDID": "DLC02ChineseFlamer4",
+      "FULL": "Unidade do Inferno Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:008453",
+      "FORMID": "008453",
+      "EDID": "DLC02ChineseFlamer3",
+      "FULL": "Unidade do Inferno Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:008452",
+      "FORMID": "008452",
+      "EDID": "DLC02ChineseFlamer2",
+      "FULL": "Unidade do Inferno Chinesa"
+    },
+    {
+      "FORM": "@Anchorage.esm:008451",
+      "FORMID": "008451",
+      "EDID": "DLC02AmericanSoldier5",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008450",
+      "FORMID": "008450",
+      "EDID": "DLC02AmericanSoldier4",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C188",
+      "FORMID": "00C188",
+      "EDID": "DLC02FF009Photographer",
+      "FULL": "Correspondente de Guerra Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C166",
+      "FORMID": "00C166",
+      "EDID": "DLC02UseGaryFromBaseGame",
+      "FULL": "Dublador NPC 3 (Gary)"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C164",
+      "FORMID": "00C164",
+      "EDID": "DLC02VoiceActor02",
+      "FULL": "Dublador NPC 2"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C163",
+      "FORMID": "00C163",
+      "EDID": "DLC02VoiceActor01",
+      "FULL": "Dublador NPC 1"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844F",
+      "FORMID": "00844F",
+      "EDID": "DLC02AmericanSoldier3",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844E",
+      "FORMID": "00844E",
+      "EDID": "DLC02AmericanSoldier2",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844D",
+      "FORMID": "00844D",
+      "EDID": "DLC02AmericanSniper5",
+      "FULL": "Franco-Atirador Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844C",
+      "FORMID": "00844C",
+      "EDID": "DLC02AmericanSniper4",
+      "FULL": "Franco-Atirador Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844B",
+      "FORMID": "00844B",
+      "EDID": "DLC02AmericanSniper3",
+      "FULL": "Franco-Atirador Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E6",
+      "FORMID": "00C0E6",
+      "EDID": "DLC02FF008MechanicC",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E5",
+      "FORMID": "00C0E5",
+      "EDID": "DLC02FF008MechanicB",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E4",
+      "FORMID": "00C0E4",
+      "EDID": "DLC02FF007PatientSleepingC",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E3",
+      "FORMID": "00C0E3",
+      "EDID": "DLC02FF007PatientSleepingB",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E2",
+      "FORMID": "00C0E2",
+      "EDID": "DLC02FF007PatientSittingB",
+      "FULL": "Soldado Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E1",
+      "FORMID": "00C0E1",
+      "EDID": "DLC02FF003MechanicC",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C0E0",
+      "FORMID": "00C0E0",
+      "EDID": "DLC02FF003MechanicB",
+      "FULL": "Ajudante de Mecânico Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:00844A",
+      "FORMID": "00844A",
+      "EDID": "DLC02AmericanSniper2",
+      "FULL": "Franco-Atirador Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008449",
+      "FORMID": "008449",
+      "EDID": "DLC02AmericanMissileLauncher5",
+      "FULL": "Lança - Mísseis Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008448",
+      "FORMID": "008448",
+      "EDID": "DLC02AmericanMissileLauncher4",
+      "FULL": "Lança - Mísseis Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008447",
+      "FORMID": "008447",
+      "EDID": "DLC02AmericanMissileLauncher3",
+      "FULL": "Lança - Mísseis Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008446",
+      "FORMID": "008446",
+      "EDID": "DLC02AmericanMissileLauncher2",
+      "FULL": "Lança - Mísseis Americano"
+    },
+    {
+      "FORM": "@Anchorage.esm:008445",
+      "FORMID": "008445",
+      "EDID": "DLC02AmericanFlamer5",
+      "FULL": "Unidade do Inferno Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:008444",
+      "FORMID": "008444",
+      "EDID": "DLC02AmericanFlamer4",
+      "FULL": "Unidade do Inferno Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:008443",
+      "FORMID": "008443",
+      "EDID": "DLC02AmericanFlamer3",
+      "FULL": "Unidade do Inferno Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:008442",
+      "FORMID": "008442",
+      "EDID": "DLC02AmericanFlamer2",
+      "FULL": "Unidade do Inferno Americana"
+    },
+    {
+      "FORM": "@Anchorage.esm:008437",
+      "FORMID": "008437",
+      "EDID": "DLC02ChineseSoldier5",
+      "FULL": "Soldado Chinês"
+    }
+  ]
+}

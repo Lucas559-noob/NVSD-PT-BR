@@ -1,0 +1,111 @@
+{
+  "MESG": [
+    {
+      "FORM": "@Anchorage.esm:00BD91",
+      "FORMID": "00BD91",
+      "EDID": "DLC02StartMessage",
+      "FULL": "Alerta!",
+      "DESC": "Uma nova emissão de rádio foi ouvida em toda a Capital Wasteland. Soa como um pedido de socorro, mas aparenta ser confidencial..."
+    },
+    {
+      "FORM": "@Anchorage.esm:00B4DC",
+      "FORMID": "00B4DC",
+      "EDID": "DLC02FF004IntelMessage",
+      "FULL": "Bem feito, soldado!",
+      "DESC": "Você encontrou %.0f de %.0f dos documentos de inteligência. Continue assim, soldado!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C369",
+      "FORMID": "00C369",
+      "EDID": "DLC02Name",
+      "FULL": "Sargento Benjamin Montgomery"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C4C1",
+      "FORMID": "00C4C1",
+      "EDID": "DLC02VRPodNo",
+      "DESC": "Você deve vestir um Traje de Interface Neural, a fim de usar a cápsula de simulação."
+    },
+    {
+      "FORM": "@Anchorage.esm:0029A7",
+      "FORMID": "0029A7",
+      "EDID": "DLC02OA3TentDoorMessage",
+      "DESC": "Você deve completar a missão ordenada pelo Tenente Morgan antes de continuar a simulação."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F3C",
+      "FORMID": "002F3C",
+      "EDID": "DLC02OA3FuelTankPlantedMessage",
+      "DESC": "A Carga Explosiva foi plantada. Você não pode removê-la e nem parar o temporizador."
+    },
+    {
+      "FORM": "@Anchorage.esm:002F3B",
+      "FORMID": "002F3B",
+      "EDID": "DLC02OA3FuelTankMessage",
+      "DESC": "Este é um dos Tanques de Combustível do Depósito de Quimeras. Uma vez plantada a carga explosiva, você tem 20 segundos para atingir uma distância segura antes de explodir.",
+      "ITXT": [
+        "Plantar a Carga Explosiva.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:0020BF",
+      "FORMID": "0020BF",
+      "EDID": "DLC02OA2ArtilleryGunPlantedMessage",
+      "DESC": "A Carga Explosiva foi plantada. Você não pode removê-la e nem parar o temporizador."
+    },
+    {
+      "FORM": "@Anchorage.esm:0020BE",
+      "FORMID": "0020BE",
+      "EDID": "DLC02OA2ArtilleryGunMessage",
+      "DESC": "Esta é uma das grandes artilharias inimigas. Uma vez plantada a carga explosiva, você tem 20 segundos para atingir uma distância segura antes de explodir.",
+      "ITXT": [
+        "Plantar a carga explosiva.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:00A041",
+      "FORMID": "00A041",
+      "EDID": "DLC02HealthRestore",
+      "DESC": "Saúde Restaurada"
+    },
+    {
+      "FORM": "@Anchorage.esm:008292",
+      "FORMID": "008292",
+      "EDID": "DLC02AmmoRefill",
+      "DESC": "Todas Munições Repostas"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CBB9",
+      "FORMID": "00CBB9",
+      "EDID": "DLC02AmmoFull",
+      "DESC": "Munição Cheia"
+    },
+    {
+      "FORM": "@Anchorage.esm:00CEA1",
+      "FORMID": "00CEA1",
+      "EDID": "DLC02StrikeTeamRobotDismissMessage",
+      "FULL": "Comando de Substituição de Robô de Emergência",
+      "DESC": "Dispensar unidade robótica?",
+      "ITXT": [
+        "Não",
+        "Sim"
+      ]
+    },
+    {
+      "FORM": "@Anchorage.esm:004394",
+      "FORMID": "004394",
+      "EDID": "DLC02BombingRunTestMessage",
+      "FULL": "Cuidado!",
+      "DESC": "BOMBAS LANÇADAS!"
+    },
+    {
+      "FORM": "@Anchorage.esm:00C03E",
+      "FORMID": "00C03E",
+      "EDID": "DLC02RequisitionWarningMessage",
+      "FULL": "Atenção!",
+      "DESC": "Use os terminais para requisitar uma Equipe de Combate e o Pacote de Equipamento pessoal antes de sair."
+    }
+  ]
+}

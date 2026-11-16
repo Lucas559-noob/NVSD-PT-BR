@@ -1,0 +1,460 @@
+{
+  "RCPE": [
+    {
+      "FORM": "@DeadMoney.esm:013B23",
+      "FORMID": "013B23",
+      "EDID": "RecipeNVDLC01VendingModHoloRifle03",
+      "FULL": "[Mod] Calibragem Avançada do Holofuzil"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B1C",
+      "FORMID": "013B1C",
+      "EDID": "RecipeNVDLC01VendingModHoloRifle02",
+      "FULL": "[Mod] Óptica de Foco do Holorifle"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138C8",
+      "FORMID": "0138C8",
+      "EDID": "RecipeNVDLC01Extra01",
+      "FULL": "Comida Surpresa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138C9",
+      "FORMID": "0138C9",
+      "EDID": "RecipeNVDLC01Extra02",
+      "FULL": "Comida Surpresa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CA",
+      "FORMID": "0138CA",
+      "EDID": "RecipeNVDLC01Extra03",
+      "FULL": "Item de Ajuda Surpresa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CB",
+      "FORMID": "0138CB",
+      "EDID": "RecipeNVDLC01Extra04",
+      "FULL": "Item de Ajuda Surpresa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CC",
+      "FORMID": "0138CC",
+      "EDID": "RecipeNVDLC01Extra05",
+      "FULL": "Químico Estranho"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138CD",
+      "FORMID": "0138CD",
+      "EDID": "RecipeNVDLC01Extra06",
+      "FULL": "Químico Estranho"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012807",
+      "FORMID": "012807",
+      "EDID": "RecipeNVDLC01VendingModAutoRifle",
+      "FULL": "[Mod] Interior Aprimorado do Rifle Automático"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012808",
+      "FORMID": "012808",
+      "EDID": "RecipeNVDLC01VendingModHoloRifle",
+      "FULL": "[Mod] Componentes Reforçados do Holofuzil"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012809",
+      "FORMID": "012809",
+      "EDID": "RecipeNVDLC01VendingModBearTrapFist",
+      "FULL": "[Mod] Molas Reforçadas para Punho de Urso"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012C3C",
+      "FORMID": "012C3C",
+      "EDID": "RecipeNVDLC01GhostSight",
+      "FULL": "Visão Fantasma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012F54",
+      "FORMID": "012F54",
+      "EDID": "RecipeNVDLC01VendingMedX",
+      "FULL": "Med-X"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012519",
+      "FORMID": "012519",
+      "EDID": "RecipeNVDLC01ReturnSecurityHelmetAdv",
+      "FULL": "[Retornar] Capacete de Segurança da SA, Reforçado"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012518",
+      "FORMID": "012518",
+      "EDID": "RecipeNVDLC01ReturnSecurityHelmet",
+      "FULL": "[Retornar] Capacete de Segurança da SA"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012517",
+      "FORMID": "012517",
+      "EDID": "RecipeNVDLC01ReturnSecurityArmorAdv",
+      "FULL": "[Retornar] Armadura de Segurança da SA, Reforçada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012516",
+      "FORMID": "012516",
+      "EDID": "RecipeNVDLC01ReturnSecurityArmor",
+      "FULL": "[Retornar] Armadura de Segurança da SA"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012515",
+      "FORMID": "012515",
+      "EDID": "RecipeNVDLC01ReturnHatFedora",
+      "FULL": "[Retornar] Chapéu, Fedora"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012514",
+      "FORMID": "012514",
+      "EDID": "RecipeNVDLC01ReturnSpringDirtyB",
+      "FULL": "[Retornar] Roupa de Passeio (Sujo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012513",
+      "FORMID": "012513",
+      "EDID": "RecipeNVDLC01ReturnSpringDirtyA",
+      "FULL": "[Retornar] Roupa de Primavera (Sujo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012512",
+      "FORMID": "012512",
+      "EDID": "RecipeNVDLC01ReturnSpringwearB",
+      "FULL": "[Retornar] Roupa de Passeio do Parque"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012511",
+      "FORMID": "012511",
+      "EDID": "RecipeNVDLC01ReturnCasualDirtyB",
+      "FULL": "[Retornar] Roupa Relaxada (Sujo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:012510",
+      "FORMID": "012510",
+      "EDID": "RecipeNVDLC01ReturnCasualDirtyA",
+      "FULL": "[Retornar] Roupas Casuais (Sujo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01250F",
+      "FORMID": "01250F",
+      "EDID": "RecipeNVDLC01ReturnCasualwearB",
+      "FULL": "[Retornar] Roupa Relaxada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01250E",
+      "FORMID": "01250E",
+      "EDID": "RecipeNVDLC01ReturnSpringwearA",
+      "FULL": "[Retornar] Roupa de Primavera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01250D",
+      "FORMID": "01250D",
+      "EDID": "RecipeNVDLC01ReturnCasualwearA",
+      "FULL": "[Retornar] Roupas Casuais"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F37",
+      "FORMID": "011F37",
+      "EDID": "RecipeNVDLC01ReturnCigaretteCarton",
+      "FULL": "[Return] Cigarro (Pacote)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F36",
+      "FORMID": "011F36",
+      "EDID": "RecipeNVDLC01ReturnCigarettePack",
+      "FULL": "[Return] Cigarro (Maço)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B44",
+      "FORMID": "011B44",
+      "EDID": "RecipeNVDLC01VendingVodka",
+      "FULL": "Vodka"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B43",
+      "FORMID": "011B43",
+      "EDID": "RecipeNVDLC01VendingScotch",
+      "FULL": "Scotch"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B42",
+      "FORMID": "011B42",
+      "EDID": "RecipeNVDLC01VendingWine",
+      "FULL": "Vinho"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B41",
+      "FORMID": "011B41",
+      "EDID": "RecipeNVDLC01VendingMentats",
+      "FULL": "Mentats"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B40",
+      "FORMID": "011B40",
+      "EDID": "RecipeNVDLC01VendingBuffout",
+      "FULL": "Buffout"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B3F",
+      "FORMID": "011B3F",
+      "EDID": "RecipeNVDLC01VendingRebound",
+      "FULL": "Rebound"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B3E",
+      "FORMID": "011B3E",
+      "EDID": "RecipeNVDLC01VendingSteady",
+      "FULL": "Steady"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B3D",
+      "FORMID": "011B3D",
+      "EDID": "RecipeNVDLC01VendingRadX",
+      "FULL": "Rad-X"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B3B",
+      "FORMID": "011B3B",
+      "EDID": "RecipeNVDLC01VendingDemoCharge",
+      "FULL": "Carga de Demolição"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B3A",
+      "FORMID": "011B3A",
+      "EDID": "RecipeNVDLC01Vending308RifleRounds",
+      "FULL": "Cartuchos .308 para Rifle"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B39",
+      "FORMID": "011B39",
+      "EDID": "RecipeNVDLC01Vending357MagnumRounds",
+      "FULL": "Munição Magnum .357"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011B38",
+      "FORMID": "011B38",
+      "EDID": "RecipeNVDLC01VendingSuperStimpak",
+      "FULL": "Superestimulante"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010975",
+      "FORMID": "010975",
+      "EDID": "RecipeNVDLC01SpaceAgeKnifeHeated",
+      "FULL": "Faca Cósmica (Superaquecido)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010973",
+      "FORMID": "010973",
+      "EDID": "RecipeNVDLC01KnifeSpearSpaceAge",
+      "FULL": "Lança Faca Cósmica"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010972",
+      "FORMID": "010972",
+      "EDID": "RecipeNVDLC01SpaceAgeKnifeClean",
+      "FULL": "Faca Cósmica (Limpo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010971",
+      "FORMID": "010971",
+      "EDID": "RecipeNVDLC01CloudKissLethal",
+      "FULL": "Beijo de Nuvem (Letal)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010970",
+      "FORMID": "010970",
+      "EDID": "RecipeNVDLC01CloudKissStrong",
+      "FULL": "Beijo de Nuvem (Potente)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096F",
+      "FORMID": "01096F",
+      "EDID": "RecipeNVDLC01CloudKissWeak",
+      "FULL": "Beijo de Nuvem (Fraco)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096E",
+      "FORMID": "01096E",
+      "EDID": "RecipeNVDLC01VendingCigarettePack",
+      "FULL": "Maço de Cigarros"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096D",
+      "FORMID": "01096D",
+      "EDID": "RecipeNVDLC01KnifeSpear",
+      "FULL": "Lança Faca"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01096C",
+      "FORMID": "01096C",
+      "EDID": "RecipeNVDLC01GasBomb",
+      "FULL": "Bomba de Gás"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103AE",
+      "FORMID": "0103AE",
+      "EDID": "RecipeNVDLC01VendingDeviledEggs",
+      "FULL": "Ovos Recheados Yum Yum"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103AD",
+      "FORMID": "0103AD",
+      "EDID": "RecipeNVDLC01VendingSugarBombs",
+      "FULL": "Bombas de Açúcar"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103AC",
+      "FORMID": "0103AC",
+      "EDID": "RecipeNVDLC01VendingSalisburySteak",
+      "FULL": "Bife Salisbury"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103AB",
+      "FORMID": "0103AB",
+      "EDID": "RecipeNVDLC01VendingPotatoCrisps",
+      "FULL": "Batatas Crocantes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103AA",
+      "FORMID": "0103AA",
+      "EDID": "RecipeNVDLC01VendingPorkNBeans",
+      "FULL": "Porco e Feijões"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A9",
+      "FORMID": "0103A9",
+      "EDID": "RecipeNVDLC01VendingJunkFood",
+      "FULL": "Comida Industrializada"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A8",
+      "FORMID": "0103A8",
+      "EDID": "RecipeNVDLC01VendingInstaMash",
+      "FULL": "Papa-Instantânea"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A7",
+      "FORMID": "0103A7",
+      "EDID": "RecipeNVDLC01VendingSnackCakes",
+      "FULL": "Bolinhos \"Fancy Lads\""
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A6",
+      "FORMID": "0103A6",
+      "EDID": "RecipeNVDLC01VendingDandyBoyApples",
+      "FULL": "Maçãs Dandy Boy"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A5",
+      "FORMID": "0103A5",
+      "EDID": "RecipeNVDLC01VendingMacAndCheese",
+      "FULL": "Blamco Mac e Queijo"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A4",
+      "FORMID": "0103A4",
+      "EDID": "RecipeNVDLC01VendingWeaponRepairKit",
+      "FULL": "Kit de Reparo de Arma"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A3",
+      "FORMID": "0103A3",
+      "EDID": "RecipeNVDLC01VendingStimpak",
+      "FULL": "Stimpak"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0103A2",
+      "FORMID": "0103A2",
+      "EDID": "RecipeNVDLC01VendingDoctorsBag",
+      "FULL": "Maleta de Médico"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039F",
+      "FORMID": "01039F",
+      "EDID": "RecipeNVDLC01FinalComp",
+      "FULL": "Fichas Grátis"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039D",
+      "FORMID": "01039D",
+      "EDID": "RecipeNVDLC01SierraMadreMartini",
+      "FULL": "Martini Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01039C",
+      "FORMID": "01039C",
+      "EDID": "RecipeNVDLC01CoinOperator",
+      "FULL": "Lesmas da Sierra Madre"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB84",
+      "FORMID": "00FB84",
+      "EDID": "RecipeNVDLC019mmJunkRounds",
+      "FULL": "Cartucho 9mm (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB83",
+      "FORMID": "00FB83",
+      "EDID": "RecipeNVDLC015mmJunkRounds",
+      "FULL": "Projétil 5mm (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB82",
+      "FORMID": "00FB82",
+      "EDID": "RecipeNVDLC01556mmJunkRounds",
+      "FULL": "Projétil 5.56mm (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB81",
+      "FORMID": "00FB81",
+      "EDID": "RecipeNVDLC0150MGJunkRounds",
+      "FULL": "Munição .50 MG (Sucata)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB80",
+      "FORMID": "00FB80",
+      "EDID": "RecipeNVDLC014570GovtJunkRounds",
+      "FULL": "Projétil .45-70 Gov't (Sucata)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7F",
+      "FORMID": "00FB7F",
+      "EDID": "RecipeNVDLC0144MagnumJunkRounds",
+      "FULL": "Munição .44 Magnum (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7E",
+      "FORMID": "00FB7E",
+      "EDID": "RecipeNVDLC01357MagnumJunkRounds",
+      "FULL": "Cartucho Magnum .357 (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7D",
+      "FORMID": "00FB7D",
+      "EDID": "RecipeNVDLC01308JunkRounds",
+      "FULL": "Cartucho .308 (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7C",
+      "FORMID": "00FB7C",
+      "EDID": "RecipeNVDLC0120GaJunkRounds",
+      "FULL": "20 Ga. Buckshot (Sucata)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7B",
+      "FORMID": "00FB7B",
+      "EDID": "RecipeNVDLC0112GaJunkRounds",
+      "FULL": "12 Ga. Buckshot (Lixo)"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB7A",
+      "FORMID": "00FB7A",
+      "EDID": "RecipeNVDLC0110mmJunkRounds",
+      "FULL": "Cartucho 10mm (Lixo)"
+    }
+  ]
+}
