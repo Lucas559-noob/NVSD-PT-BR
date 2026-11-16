@@ -1,0 +1,3064 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@LonesomeRoad.esm:00DAF1",
+      "FORMID": "00DAF1",
+      "EDID": "NVDLC04TempleMarkedMenRavager01Weak",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAEF",
+      "FORMID": "00DAEF",
+      "EDID": "NVDLC04TempleMarkedMenRavager02Weak",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1FE",
+      "FORMID": "00C1FE",
+      "EDID": "NVDLC04NukeLegionLegionaryMelee",
+      "FULL": "Legionário Prime Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C005",
+      "FORMID": "00C005",
+      "EDID": "NVDLC04DeadNCRRangerVeteran",
+      "FULL": "Ranger Veterano da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7DB",
+      "FORMID": "00A7DB",
+      "EDID": "NVDLC04TempleMarkedMenRavager02",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00949B",
+      "FORMID": "00949B",
+      "EDID": "NVDLC04TempleMarkedMenRavager01",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008805",
+      "FORMID": "008805",
+      "EDID": "NVDLC04DivideMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D87",
+      "FORMID": "014D87",
+      "EDID": "NVDLC03Lobotomite01AvgRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAD",
+      "FORMID": "012FAD",
+      "EDID": "NVDLC03Lobotomite04AvgRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAC",
+      "FORMID": "012FAC",
+      "EDID": "NVDLC03Lobotomite03AvgRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAB",
+      "FORMID": "012FAB",
+      "EDID": "NVDLC03Lobotomite02AvgRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F8F",
+      "FORMID": "012F8F",
+      "EDID": "NVDLC03Lobotomite04Avg",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F8E",
+      "FORMID": "012F8E",
+      "EDID": "NVDLC03Lobotomite03Avg",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F4E",
+      "FORMID": "012F4E",
+      "EDID": "NVDLC03Lobotomite02Avg",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A93E",
+      "FORMID": "00A93E",
+      "EDID": "NVDLC03Lobotomite01Avg",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F37A",
+      "FORMID": "00F37A",
+      "EDID": "NVDLC02SorrowJFollower",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F093",
+      "FORMID": "00F093",
+      "EDID": "NVDLC02Sorrow3M",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EEAE",
+      "FORMID": "00EEAE",
+      "EDID": "NVDLC02SorrowMarysFollower",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3DB",
+      "FORMID": "00B3DB",
+      "EDID": "NVDLC02DeadHorseCMF3MFollower",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3DA",
+      "FORMID": "00B3DA",
+      "EDID": "NVDLC02DeadhorseAAMF3MFollower",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D0",
+      "FORMID": "0094D0",
+      "EDID": "NVDLC02FollowsChalk",
+      "FULL": "Follows-Chalk"
+    },
+    {
+      "FORM": "@DeadMoney.esm:013532",
+      "FORMID": "013532",
+      "EDID": "NVDLC01StarletSkeletonBase",
+      "FULL": "Esqueleto da Vera"
+    },
+    {
+      "FORM": "@DeadMoney.esm:006370",
+      "FORMID": "006370",
+      "EDID": "NVDLC01HologramCasinoMale",
+      "FULL": "Hologram"
+    },
+    {
+      "FORM": "@DeadMoney.esm:001300",
+      "FORMID": "001300",
+      "EDID": "NVDLC01Elijah",
+      "FULL": "Pai Elijah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AFDD",
+      "FORMID": "17AFDD",
+      "EDID": "VJackalGangFemaleDEADTier2",
+      "FULL": "Membro dos Chacais"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A2DB",
+      "FORMID": "17A2DB",
+      "EDID": "VHDNCRTrooper7Heavy",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:179AFA",
+      "FORMID": "179AFA",
+      "EDID": "NCRRangerVeteranGhoulM",
+      "FULL": "Ranger Veterano da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174CE4",
+      "FORMID": "174CE4",
+      "EDID": "NVCCLegionaryVeteranGuardCM2",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174CE3",
+      "FORMID": "174CE3",
+      "EDID": "NVCCLegionaryVeteranGuardAAM2",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174CE2",
+      "FORMID": "174CE2",
+      "EDID": "NVCCLegionaryVeteranGuardAM2",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174CE1",
+      "FORMID": "174CE1",
+      "EDID": "NVCCLegionaryVeteranGuardHM2",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174996",
+      "FORMID": "174996",
+      "EDID": "VLegionaryWastelandCenturionT4",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17498D",
+      "FORMID": "17498D",
+      "EDID": "LegionaryPrimeTemplate",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17498C",
+      "FORMID": "17498C",
+      "EDID": "VLegionaryWastelandDecanusT3",
+      "FULL": "Decanus Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17480E",
+      "FORMID": "17480E",
+      "EDID": "VTopsChairman4",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174082",
+      "FORMID": "174082",
+      "EDID": "LegionaryVexillariusTemplate",
+      "FULL": "Vexillarius da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1689C3",
+      "FORMID": "1689C3",
+      "EDID": "VSpawnSpecialGangerGS01",
+      "FULL": "Powder Ganger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DEB",
+      "FORMID": "166DEB",
+      "EDID": "VNCRWastelandFemaleTrooperJ",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DE8",
+      "FORMID": "166DE8",
+      "EDID": "VNCRWastelandFemaleTrooperG",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DE4",
+      "FORMID": "166DE4",
+      "EDID": "VNCRWastelandFemaleTrooperE",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166CD3",
+      "FORMID": "166CD3",
+      "EDID": "VNCRWastelandFemaleTrooperBDUPLICATE000",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166CD2",
+      "FORMID": "166CD2",
+      "EDID": "VNCRWastelandFemaleTrooperA",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16658D",
+      "FORMID": "16658D",
+      "EDID": "VSpawnSpecialLegionWreckedDecanusT2",
+      "FULL": "Primeiro Decanus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16580D",
+      "FORMID": "16580D",
+      "EDID": "VLegionaryWastelandDecanusT2",
+      "FULL": "Primeiro Decanus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1657FA",
+      "FORMID": "1657FA",
+      "EDID": "VLegionaryWastelandVeteranT2",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165166",
+      "FORMID": "165166",
+      "EDID": "VSpawnSpecialMerchantFemaleGroup01NV02",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165165",
+      "FORMID": "165165",
+      "EDID": "VSpawnSpecialMercenaryMaleGroup02NV02",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165155",
+      "FORMID": "165155",
+      "EDID": "VSpawnSpecialMerchantMaleGroup02NV01",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165154",
+      "FORMID": "165154",
+      "EDID": "VSpawnSpecialMercenaryFemaleGroup02NV01",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16507C",
+      "FORMID": "16507C",
+      "EDID": "VSpawnSpecialMercenaryMaleGroup02Novac",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16507B",
+      "FORMID": "16507B",
+      "EDID": "VSpawnSpecialMerchantFemaleGroup01Novac",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16505A",
+      "FORMID": "16505A",
+      "EDID": "VSpawnMerchantMaleGroup01",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165059",
+      "FORMID": "165059",
+      "EDID": "VSpawnMerchantMaleGroup02",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165058",
+      "FORMID": "165058",
+      "EDID": "VSpawnMerchantFemaleGroup01",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165057",
+      "FORMID": "165057",
+      "EDID": "VSpawnMerchantFemaleGroup02",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165056",
+      "FORMID": "165056",
+      "EDID": "VSpawnSpecialMerchantMaleGroup01WB",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165055",
+      "FORMID": "165055",
+      "EDID": "VSpawnSpecialMerchantFemaleGroup02WB",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165054",
+      "FORMID": "165054",
+      "EDID": "VSpawnSpecialMercenaryFemaleGroup01WB",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165053",
+      "FORMID": "165053",
+      "EDID": "VSpawnSpecialMercenaryMaleGroup01WB",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164754",
+      "FORMID": "164754",
+      "EDID": "vNiptonSurvivorCaptive02",
+      "FULL": "Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163EA6",
+      "FORMID": "163EA6",
+      "EDID": "VStreetSS6Trooper02",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163EA5",
+      "FORMID": "163EA5",
+      "EDID": "VStreetSS6Trooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1630CD",
+      "FORMID": "1630CD",
+      "EDID": "VFortBennyCrucified",
+      "FULL": "Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163080",
+      "FORMID": "163080",
+      "EDID": "RSEchoRangerGhoul02",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16307F",
+      "FORMID": "16307F",
+      "EDID": "RSEchoRangerGhoul01",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162BD8",
+      "FORMID": "162BD8",
+      "EDID": "FortLegionarySparringHM",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161888",
+      "FORMID": "161888",
+      "EDID": "HVBrotherhoodScribeHF",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161887",
+      "FORMID": "161887",
+      "EDID": "HVBrotherhoodScribeHM",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1614A0",
+      "FORMID": "1614A0",
+      "EDID": "VForlornHopeNCRTrooperRefugee",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161439",
+      "FORMID": "161439",
+      "EDID": "MojaveOutpostTravelerAAF",
+      "FULL": "Caravaneiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607D7",
+      "FORMID": "1607D7",
+      "EDID": "FortLegionaryDecanusAAMTemplate",
+      "FULL": "Decanus Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607D6",
+      "FORMID": "1607D6",
+      "EDID": "FortLegionaryRecruitHM2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607D5",
+      "FORMID": "1607D5",
+      "EDID": "FortLegionaryRecruitCM2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE22",
+      "FORMID": "15FE22",
+      "EDID": "FortPraetorianTentGuard",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB7B",
+      "FORMID": "15FB7B",
+      "EDID": "VEFR01NCRSupportTrooper01AAM",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB7A",
+      "FORMID": "15FB7A",
+      "EDID": "VEFR01NCRRadioOperator",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB79",
+      "FORMID": "15FB79",
+      "EDID": "VEFR01NCRSupportRanger03AAF",
+      "FULL": "Ranger Veterano da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB78",
+      "FORMID": "15FB78",
+      "EDID": "VEFR01NCRSupportRanger02HM",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB77",
+      "FORMID": "15FB77",
+      "EDID": "VEFR01NCRSupportRanger01CF",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F310",
+      "FORMID": "15F310",
+      "EDID": "GoodspringsPowderGangerAAMTemplate",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F197",
+      "FORMID": "15F197",
+      "EDID": "NVProspectorMerchantPrimmDen",
+      "FULL": "Mercador Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F072",
+      "FORMID": "15F072",
+      "EDID": "VESDoctorRotson",
+      "FULL": "Dr. Rotson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDE2",
+      "FORMID": "15EDE2",
+      "EDID": "VTopsDealer03",
+      "FULL": "Crupiê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDDF",
+      "FORMID": "15EDDF",
+      "EDID": "VTopsDealer04",
+      "FULL": "Crupiê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EDDC",
+      "FORMID": "15EDDC",
+      "EDID": "VTopsDealer02",
+      "FULL": "Crupiê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E9E6",
+      "FORMID": "15E9E6",
+      "EDID": "VVault34Horowitz",
+      "FULL": "Horowitz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E9E5",
+      "FORMID": "15E9E5",
+      "EDID": "VVault34AM",
+      "FULL": "Morador da Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E9E3",
+      "FORMID": "15E9E3",
+      "EDID": "VVault34CF",
+      "FULL": "Morador da Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E9E2",
+      "FORMID": "15E9E2",
+      "EDID": "VVault34AAF",
+      "FULL": "Morador da Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E581",
+      "FORMID": "15E581",
+      "EDID": "HVBrotherhoodOfSteelPaladinTemplate",
+      "FULL": "Paladino da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DF",
+      "FORMID": "15D9DF",
+      "EDID": "HVScout01",
+      "FULL": "Escoteiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DE",
+      "FORMID": "15D9DE",
+      "EDID": "HVScout02",
+      "FULL": "Escoteiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DD",
+      "FORMID": "15D9DD",
+      "EDID": "HVScout03",
+      "FULL": "Escoteiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D78F",
+      "FORMID": "15D78F",
+      "EDID": "BoomerMessCM",
+      "FULL": "Gerente de Munições dos Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D42F",
+      "FORMID": "15D42F",
+      "EDID": "vLegionaryFactionRewardNPC",
+      "FULL": "Frumentarius Disfarçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCA8",
+      "FORMID": "15BCA8",
+      "EDID": "TecLegionaryRaiderGuard",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B7AB",
+      "FORMID": "15B7AB",
+      "EDID": "VStripSS3TrooperDancerGomorrah01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B7AA",
+      "FORMID": "15B7AA",
+      "EDID": "VStripSS3TrooperDancerGomorrah02",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B7A9",
+      "FORMID": "15B7A9",
+      "EDID": "VStripSS3Watcher02",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B7A8",
+      "FORMID": "15B7A8",
+      "EDID": "VStripSS3Watcher01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15AD15",
+      "FORMID": "15AD15",
+      "EDID": "VES03WastelandAdventurer",
+      "FULL": "Aventureiro do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A821",
+      "FORMID": "15A821",
+      "EDID": "VMS49FollowersDoctor2DEAD",
+      "FULL": "Médico dos Followers Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A820",
+      "FORMID": "15A820",
+      "EDID": "VMS49FollowersDoctor1DEAD",
+      "FULL": "Médico dos Followers Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A81F",
+      "FORMID": "15A81F",
+      "EDID": "VMS49DoctorAlvarezDEAD",
+      "FULL": "Dr. Alvarez"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A81C",
+      "FORMID": "15A81C",
+      "EDID": "VMS49FollowersGuard3",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A81B",
+      "FORMID": "15A81B",
+      "EDID": "VMS49FollowersGuard2",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A81A",
+      "FORMID": "15A81A",
+      "EDID": "VMS49FollowersGuard1",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A819",
+      "FORMID": "15A819",
+      "EDID": "VMS49FollowersGuard3DEAD",
+      "FULL": "Guarda dos Followers Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A818",
+      "FORMID": "15A818",
+      "EDID": "VMS49FollowersGuard2DEAD",
+      "FULL": "Guarda dos Followers Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A817",
+      "FORMID": "15A817",
+      "EDID": "VMS49FollowersGuard1DEAD",
+      "FULL": "Guarda dos Followers Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A245",
+      "FORMID": "15A245",
+      "EDID": "1ESharecropperMorganBlake",
+      "FULL": "Morgan Blake"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A029",
+      "FORMID": "15A029",
+      "EDID": "SafehouseLegionVeteran",
+      "FULL": "Veterano Atticus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159973",
+      "FORMID": "159973",
+      "EDID": "VFSAtomicWranglerGuard",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159972",
+      "FORMID": "159972",
+      "EDID": "VFSAtomicWranglerGuard2",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159971",
+      "FORMID": "159971",
+      "EDID": "VFSAtomicWranglerGuard3",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159970",
+      "FORMID": "159970",
+      "EDID": "VFSAtomicWranglerGuard4",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15996B",
+      "FORMID": "15996B",
+      "EDID": "VFSAtomicWranglerGuard5",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159969",
+      "FORMID": "159969",
+      "EDID": "VFSAtomicWranglerGuard6",
+      "FULL": "Guarda do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15977D",
+      "FORMID": "15977D",
+      "EDID": "VFSSergio",
+      "FULL": "Sergio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15861E",
+      "FORMID": "15861E",
+      "EDID": "VHDDeadCenturion",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15861D",
+      "FORMID": "15861D",
+      "EDID": "VHDDeadNCRRanger",
+      "FULL": "Ranger da NCR Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15861A",
+      "FORMID": "15861A",
+      "EDID": "VHDDeadNCRTrooper",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157370",
+      "FORMID": "157370",
+      "EDID": "FortCaesarTentGuard",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1547BC",
+      "FORMID": "1547BC",
+      "EDID": "NVNiptonLegionaryDecanus",
+      "FULL": "Recrutar Decanus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1547BB",
+      "FORMID": "1547BB",
+      "EDID": "NVLegionaryGabban",
+      "FULL": "Gabban"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1543C6",
+      "FORMID": "1543C6",
+      "EDID": "CrimsonCaravanTraderGuardAAMTemplate",
+      "FULL": "Guarda da Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153A07",
+      "FORMID": "153A07",
+      "EDID": "LegionaryRaiderShotgun3",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152CBB",
+      "FORMID": "152CBB",
+      "EDID": "LegionaryRaiderShotgun2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152C95",
+      "FORMID": "152C95",
+      "EDID": "NCRRangerCivilianAAMTemplate",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151E1C",
+      "FORMID": "151E1C",
+      "EDID": "VStripSS1AdmirerD",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151DAB",
+      "FORMID": "151DAB",
+      "EDID": "VTopsDealer",
+      "FULL": "Crupiê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F48B",
+      "FORMID": "14F48B",
+      "EDID": "VHDOliverRangerTrapper",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3C3",
+      "FORMID": "14F3C3",
+      "EDID": "VHDOliverRangerSniper",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14EB35",
+      "FORMID": "14EB35",
+      "EDID": "VMS49Max",
+      "FULL": "Max"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDF7",
+      "FORMID": "14DDF7",
+      "EDID": "VHDLegionLegateCampNCRTrooper1Dead",
+      "FULL": "Soldado da NCR Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C614",
+      "FORMID": "14C614",
+      "EDID": "VHDLegionOliverNCRHeavyTrooper",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C49A",
+      "FORMID": "14C49A",
+      "EDID": "VRRCGreatKhanMessenger",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14BE0A",
+      "FORMID": "14BE0A",
+      "EDID": "CampSearchlightTrainingDummy",
+      "FULL": "Boneco de Treino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B682",
+      "FORMID": "14B682",
+      "EDID": "VHDOliverRanger",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE02",
+      "FORMID": "14AE02",
+      "EDID": "VHDLegionWestDamRanger04",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148C0D",
+      "FORMID": "148C0D",
+      "EDID": "VHDKimballRangerTemplate",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14851E",
+      "FORMID": "14851E",
+      "EDID": "VMSHDBrotherhoodPaladin",
+      "FULL": "Paladino Todd"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A9",
+      "FORMID": "1465A9",
+      "EDID": "VHDStartingCampDecanus02",
+      "FULL": "Primeiro Decanus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F73",
+      "FORMID": "145F73",
+      "EDID": "VRRCGreatKhanCM3",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F72",
+      "FORMID": "145F72",
+      "EDID": "VRRCGreatKhanAAM3",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F71",
+      "FORMID": "145F71",
+      "EDID": "VRRCGreatKhanAAF3",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F6F",
+      "FORMID": "145F6F",
+      "EDID": "VRRCGreatKhanAAM2",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F6E",
+      "FORMID": "145F6E",
+      "EDID": "VRRCGreatKhanAAF2",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F6C",
+      "FORMID": "145F6C",
+      "EDID": "VRRCGreatKhanCM2",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F6B",
+      "FORMID": "145F6B",
+      "EDID": "VRRCGreatKhanCM",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F6A",
+      "FORMID": "145F6A",
+      "EDID": "VRRCGreatKhanAAM",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F69",
+      "FORMID": "145F69",
+      "EDID": "VRRCGreatKhanAAF",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143E1F",
+      "FORMID": "143E1F",
+      "EDID": "VLegionaryPraetorianLegateCamp05",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143E1E",
+      "FORMID": "143E1E",
+      "EDID": "VLegionaryPraetorianLegateCamp04",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143E1D",
+      "FORMID": "143E1D",
+      "EDID": "VLegionaryPraetorianLegateCamp03",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143E1C",
+      "FORMID": "143E1C",
+      "EDID": "VLegionaryPraetorianLegateCamp02",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:142DD2",
+      "FORMID": "142DD2",
+      "EDID": "VHDKimballMP04",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:142DD1",
+      "FORMID": "142DD1",
+      "EDID": "VHDKimballMP03",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1428ED",
+      "FORMID": "1428ED",
+      "EDID": "GhoulJasonBright",
+      "FULL": "Jason Bright"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1413BD",
+      "FORMID": "1413BD",
+      "EDID": "VRRCJerrythePunk",
+      "FULL": "Jerry, o Punk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14114F",
+      "FORMID": "14114F",
+      "EDID": "NCRHeavyTrooperCMTemplate",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14114E",
+      "FORMID": "14114E",
+      "EDID": "NCRHeavyTrooperFireSupport",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140E70",
+      "FORMID": "140E70",
+      "EDID": "VRRCRegis",
+      "FULL": "Regis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140E6D",
+      "FORMID": "140E6D",
+      "EDID": "VRRCDiane",
+      "FULL": "Diane"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140E6B",
+      "FORMID": "140E6B",
+      "EDID": "VRRCJack",
+      "FULL": "Jack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA5",
+      "FORMID": "140CA5",
+      "EDID": "VHDOliverRanger02",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA4",
+      "FORMID": "140CA4",
+      "EDID": "VHDOliverRanger01",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A79",
+      "FORMID": "140A79",
+      "EDID": "vHDLVLCLCenturionNCRBattleSniper",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3F7",
+      "FORMID": "13F3F7",
+      "EDID": "BattlegearNCRTrooper",
+      "FULL": "Equipamento de Combate Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3F6",
+      "FORMID": "13F3F6",
+      "EDID": "BattlegearRanger",
+      "FULL": "Equipamento de Combate de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3F2",
+      "FORMID": "13F3F2",
+      "EDID": "BattlegearCombatRanger",
+      "FULL": "Ranger de Combate Paramentado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3F0",
+      "FORMID": "13F3F0",
+      "EDID": "BattlegearCenturion",
+      "FULL": "Centurião de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3AB",
+      "FORMID": "13F3AB",
+      "EDID": "BattlegearLegionary",
+      "FULL": "Legionário com Equipamento de Batalha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D831",
+      "FORMID": "13D831",
+      "EDID": "JacobstownCalamity",
+      "FULL": "Calamity"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D6A7",
+      "FORMID": "13D6A7",
+      "EDID": "vMOLacey",
+      "FULL": "Lacey"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D6A4",
+      "FORMID": "13D6A4",
+      "EDID": "vMOMajorKnight",
+      "FULL": "Major Knight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D6A2",
+      "FORMID": "13D6A2",
+      "EDID": "vMORangerGhost",
+      "FULL": "Ranger Fantasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D6A1",
+      "FORMID": "13D6A1",
+      "EDID": "vMORangerJackson",
+      "FULL": "Ranger Jackson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D480",
+      "FORMID": "13D480",
+      "EDID": "VHDKimballTrooperTemplate",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13CA37",
+      "FORMID": "13CA37",
+      "EDID": "VHDIntakeTowerCenturion",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BF5A",
+      "FORMID": "13BF5A",
+      "EDID": "vNiptonSurvivorCrucifix10",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BF59",
+      "FORMID": "13BF59",
+      "EDID": "vNiptonSurvivorCrucifix09",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BF58",
+      "FORMID": "13BF58",
+      "EDID": "vNiptonSurvivorCrucifix08",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BF57",
+      "FORMID": "13BF57",
+      "EDID": "vNiptonSurvivorCrucifix07",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6FF",
+      "FORMID": "13A6FF",
+      "EDID": "VCottonwoodCoveSlaveCrucified04",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6FE",
+      "FORMID": "13A6FE",
+      "EDID": "VCottonwoodCoveSlaveCrucified03",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6FD",
+      "FORMID": "13A6FD",
+      "EDID": "VCottonwoodCoveSlaveDead02",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6FC",
+      "FORMID": "13A6FC",
+      "EDID": "VCottonwoodCoveSlaveDead",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6FB",
+      "FORMID": "13A6FB",
+      "EDID": "VCottonwoodCoveSlaveCrucified02",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A5FE",
+      "FORMID": "13A5FE",
+      "EDID": "vVMQ02AlerioStrip",
+      "FULL": "Alerio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A4AD",
+      "FORMID": "13A4AD",
+      "EDID": "VCottonwoodCoveSlaveCrucified",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139B6F",
+      "FORMID": "139B6F",
+      "EDID": "FortLegionaryEntranceGreeter",
+      "FULL": "Guarda do Portão Principal da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139A84",
+      "FORMID": "139A84",
+      "EDID": "VHDKimballRangerAmbushed01",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139387",
+      "FORMID": "139387",
+      "EDID": "LegionaryPraetorianTemplate",
+      "FULL": "Guarda Pretoriana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139386",
+      "FORMID": "139386",
+      "EDID": "LegionaryVeteranTemplate",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139385",
+      "FORMID": "139385",
+      "EDID": "LegionaryRecruitAAMTemplate",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138A99",
+      "FORMID": "138A99",
+      "EDID": "NVCCLegionaryGuardCM3",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13849B",
+      "FORMID": "13849B",
+      "EDID": "vNiptonSurvivorCrucifix06",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13849A",
+      "FORMID": "13849A",
+      "EDID": "vNiptonSurvivorCrucifix05",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138499",
+      "FORMID": "138499",
+      "EDID": "vNiptonSurvivorCrucifix04",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138498",
+      "FORMID": "138498",
+      "EDID": "vNiptonSurvivorCrucifix03",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138497",
+      "FORMID": "138497",
+      "EDID": "vNiptonSurvivorCrucifix02",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138496",
+      "FORMID": "138496",
+      "EDID": "vNiptonSurvivorCrucifix",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138495",
+      "FORMID": "138495",
+      "EDID": "LegionaryRaiderNiptonCaravan",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137AD8",
+      "FORMID": "137AD8",
+      "EDID": "VHDKimballMPTemplate",
+      "FULL": "PM da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137ACF",
+      "FORMID": "137ACF",
+      "EDID": "VHDKimballK9Ranger01",
+      "FULL": "Ranger Stevens"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1375D1",
+      "FORMID": "1375D1",
+      "EDID": "FortLegionaryVeteranSleeperAAM",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13734B",
+      "FORMID": "13734B",
+      "EDID": "CampGolfRanger6",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13734A",
+      "FORMID": "13734A",
+      "EDID": "CampGolfRanger5",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137288",
+      "FORMID": "137288",
+      "EDID": "vHDLVLCLCenturionPowerStation",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137224",
+      "FORMID": "137224",
+      "EDID": "VHDCrowdTrooperTemplate",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370E7",
+      "FORMID": "1370E7",
+      "EDID": "VBSCLVexillariusAAM",
+      "FULL": "Vexillarius da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370DD",
+      "FORMID": "1370DD",
+      "EDID": "VBSCLLegionary1",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136FD3",
+      "FORMID": "136FD3",
+      "EDID": "vMOSgtKilborn",
+      "FULL": "Sgt. Kilborn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1367E0",
+      "FORMID": "1367E0",
+      "EDID": "TecLegionaryRaiderShotgun",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1364C8",
+      "FORMID": "1364C8",
+      "EDID": "NVCCSammyWeathers",
+      "FULL": "Sammy Weathers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1364C7",
+      "FORMID": "1364C7",
+      "EDID": "NVCCKennyWeathers",
+      "FULL": "Kenny Weathers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F6E",
+      "FORMID": "135F6E",
+      "EDID": "NVCCLegionaryGuardCM",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F6D",
+      "FORMID": "135F6D",
+      "EDID": "NVCCLegionaryGuardCM2",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F6C",
+      "FORMID": "135F6C",
+      "EDID": "NVCCLegionaryGuardHM2",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F6B",
+      "FORMID": "135F6B",
+      "EDID": "NVCCLegionaryGuardHM",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F6A",
+      "FORMID": "135F6A",
+      "EDID": "NVCCLegionaryGuardAM",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F69",
+      "FORMID": "135F69",
+      "EDID": "NVCCLegionaryGuardAM2",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F67",
+      "FORMID": "135F67",
+      "EDID": "NVCCLegionaryGuardAAM2",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FF9",
+      "FORMID": "134FF9",
+      "EDID": "VHDRangerKimballSharpshooter",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B24",
+      "FORMID": "134B24",
+      "EDID": "VHDLegionAssassinBomber",
+      "FULL": "Engenheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B21",
+      "FORMID": "134B21",
+      "EDID": "VHDKimballRanger01",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1349B8",
+      "FORMID": "1349B8",
+      "EDID": "vNiptonSurvivorCaptive",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134972",
+      "FORMID": "134972",
+      "EDID": "vNiptonBoxcars2",
+      "FULL": "Boxcars"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133EBA",
+      "FORMID": "133EBA",
+      "EDID": "VHDLegionAssassinSniper",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133875",
+      "FORMID": "133875",
+      "EDID": "VFortTrooperCrucified",
+      "FULL": "Soldado Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:131F77",
+      "FORMID": "131F77",
+      "EDID": "VVulpesIncultaStrip",
+      "FULL": "Vulpes Inculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:131DF2",
+      "FORMID": "131DF2",
+      "EDID": "LegionaryRaiderNipton2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:131DF1",
+      "FORMID": "131DF1",
+      "EDID": "LegionaryRaiderNipton",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BE0",
+      "FORMID": "130BE0",
+      "EDID": "VHDCLCenturion9a",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDF",
+      "FORMID": "130BDF",
+      "EDID": "VHDCLCenturion9",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDE",
+      "FORMID": "130BDE",
+      "EDID": "VHDCLCenturion8a",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDD",
+      "FORMID": "130BDD",
+      "EDID": "VHDCLCenturion8",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDC",
+      "FORMID": "130BDC",
+      "EDID": "VHDCLCenturion7a",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDB",
+      "FORMID": "130BDB",
+      "EDID": "VHDCLCenturion7",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BDA",
+      "FORMID": "130BDA",
+      "EDID": "VHDCLCenturion6a",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BD9",
+      "FORMID": "130BD9",
+      "EDID": "VHDCLCenturion6",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BD8",
+      "FORMID": "130BD8",
+      "EDID": "VHDCLCenturion5a",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BD7",
+      "FORMID": "130BD7",
+      "EDID": "VHDCLCenturion5",
+      "FULL": "Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BC9",
+      "FORMID": "130BC9",
+      "EDID": "VHDNCRTrooper7",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BB9",
+      "FORMID": "130BB9",
+      "EDID": "NVCCMrsWeathers",
+      "FULL": "Sra. Weathers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300EE",
+      "FORMID": "1300EE",
+      "EDID": "NVLegionaryAlexus",
+      "FULL": "Alexus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300ED",
+      "FORMID": "1300ED",
+      "EDID": "NVNelsonRangerMilo",
+      "FULL": "Ranger Milo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300E2",
+      "FORMID": "1300E2",
+      "EDID": "VLegionaryVulpesInculta",
+      "FULL": "Vulpes Inculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300A9",
+      "FORMID": "1300A9",
+      "EDID": "VHDGeneralOliver",
+      "FULL": "General Lee Oliver"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300A6",
+      "FORMID": "1300A6",
+      "EDID": "VHDPrivateWatson",
+      "FULL": "Soldado Jeremy Watson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300A5",
+      "FORMID": "1300A5",
+      "EDID": "vHDRangerKimballGuardTEMPLATE",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12D13D",
+      "FORMID": "12D13D",
+      "EDID": "FortSlaveCrucified",
+      "FULL": "Escravo Crucificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12CF76",
+      "FORMID": "12CF76",
+      "EDID": "CrucifiedVictimAAMTemplate",
+      "FULL": "Vítima Crucificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B514",
+      "FORMID": "12B514",
+      "EDID": "NVCCCanyonRunner",
+      "FULL": "Corredor do Cânion"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B512",
+      "FORMID": "12B512",
+      "EDID": "NVCCAurelius",
+      "FULL": "Aurélio de Phoenix"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12ACA0",
+      "FORMID": "12ACA0",
+      "EDID": "VBSOscarVelasco",
+      "FULL": "Oscar Velasco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AC9E",
+      "FORMID": "12AC9E",
+      "EDID": "VBSCaptainGilles",
+      "FULL": "Capitão Gilles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129CFE",
+      "FORMID": "129CFE",
+      "EDID": "VForlornHopeNCRRangerCAssault04",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129CFD",
+      "FORMID": "129CFD",
+      "EDID": "VForlornHopeNCRRangerCAssault03",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129CFA",
+      "FORMID": "129CFA",
+      "EDID": "VForlornHopeNCRRangerPAssault04",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129CF8",
+      "FORMID": "129CF8",
+      "EDID": "VForlornHopeNCRRangerPAssault02",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129CF7",
+      "FORMID": "129CF7",
+      "EDID": "VForlornHopeNCRRangerPAssault01",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1298A4",
+      "FORMID": "1298A4",
+      "EDID": "VForlornHopeNCRRangerCAssaultTEMPLATE",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1298A3",
+      "FORMID": "1298A3",
+      "EDID": "VForlornHopeNCRRangerPAssaultTEMPLATE",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129890",
+      "FORMID": "129890",
+      "EDID": "vForlornHopeNCRRangerCombatTEMPLATE",
+      "FULL": "Ranger Veterano da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129764",
+      "FORMID": "129764",
+      "EDID": "VFSFollowersGuard1",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129762",
+      "FORMID": "129762",
+      "EDID": "VFSFollowersGuard3",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12975D",
+      "FORMID": "12975D",
+      "EDID": "VFSFollowersGuard4",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129660",
+      "FORMID": "129660",
+      "EDID": "VFSLocalTemplate",
+      "FULL": "Morador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12901F",
+      "FORMID": "12901F",
+      "EDID": "VTopsGreeter2",
+      "FULL": "Recepcionista do Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12901B",
+      "FORMID": "12901B",
+      "EDID": "VTopsChairmanElite3",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12901A",
+      "FORMID": "12901A",
+      "EDID": "VTopsChairmanElite2",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129019",
+      "FORMID": "129019",
+      "EDID": "VTopsChairmanElite1",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129018",
+      "FORMID": "129018",
+      "EDID": "VTopsChairman3",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129017",
+      "FORMID": "129017",
+      "EDID": "VTopsChairman2",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F55",
+      "FORMID": "128F55",
+      "EDID": "VMS33OmertaThug03",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F54",
+      "FORMID": "128F54",
+      "EDID": "VMS33OmertaThug02",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F53",
+      "FORMID": "128F53",
+      "EDID": "VMS33OmertaThug01",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1287EA",
+      "FORMID": "1287EA",
+      "EDID": "vForlornHopeNCRRangerPatrolTEMPLATE",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128586",
+      "FORMID": "128586",
+      "EDID": "VTopsGreeter1",
+      "FULL": "Recepcionista do Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127951",
+      "FORMID": "127951",
+      "EDID": "vGOMCashroomGuard",
+      "FULL": "Guarda da Sala do Dinheiro do Gomorra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127935",
+      "FORMID": "127935",
+      "EDID": "VMS30LegionRaiderAmbush03",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127934",
+      "FORMID": "127934",
+      "EDID": "VMS30LegionRaiderAmbush02",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127932",
+      "FORMID": "127932",
+      "EDID": "VMS30LegionRaiderAmbush01",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12771E",
+      "FORMID": "12771E",
+      "EDID": "FortLegionaryBlacksmithHM",
+      "FULL": "Ferreiro Legionário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127476",
+      "FORMID": "127476",
+      "EDID": "VMS21aOmertaThug04",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271DF",
+      "FORMID": "1271DF",
+      "EDID": "CharlieInteriorRanger",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271C9",
+      "FORMID": "1271C9",
+      "EDID": "VForlornHopeMP03",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271C8",
+      "FORMID": "1271C8",
+      "EDID": "VForlornHopeMP04",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271AD",
+      "FORMID": "1271AD",
+      "EDID": "LegionaryRaiderShotgun",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271AB",
+      "FORMID": "1271AB",
+      "EDID": "NelsonNCRTrooper2",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127174",
+      "FORMID": "127174",
+      "EDID": "FortLegionarySparringCM",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127171",
+      "FORMID": "127171",
+      "EDID": "FortLegionarySparringAAMTemplate",
+      "FULL": "Legionário Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12716F",
+      "FORMID": "12716F",
+      "EDID": "FortLegionaryBlacksmithAAM",
+      "FULL": "Ferreiro Legionário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270BD",
+      "FORMID": "1270BD",
+      "EDID": "VMS21aOmertaThug03",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270BC",
+      "FORMID": "1270BC",
+      "EDID": "VMS21aOmertaThug02",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270BB",
+      "FORMID": "1270BB",
+      "EDID": "VMS21aOmertaThug01",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270A1",
+      "FORMID": "1270A1",
+      "EDID": "VFSLegionWarehouseVeteran04",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270A0",
+      "FORMID": "1270A0",
+      "EDID": "VFSLegionWarehouseVeteran01",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12709F",
+      "FORMID": "12709F",
+      "EDID": "VFSLegionWarehouseVeteran02",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12709E",
+      "FORMID": "12709E",
+      "EDID": "VFSLegionWarehouseVeteran03",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127012",
+      "FORMID": "127012",
+      "EDID": "VFSLegionWarehouseDecanus",
+      "FULL": "Primeiro Decanus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12700B",
+      "FORMID": "12700B",
+      "EDID": "VFSLegionWarehouseVeteranCM",
+      "FULL": "Legionário Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252E5",
+      "FORMID": "1252E5",
+      "EDID": "LegionaryRaiderHRifle2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252E4",
+      "FORMID": "1252E4",
+      "EDID": "LegionaryRaiderCM5",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252E3",
+      "FORMID": "1252E3",
+      "EDID": "LegionaryRaiderCM4",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252E2",
+      "FORMID": "1252E2",
+      "EDID": "LegionaryRaiderCM3",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252E1",
+      "FORMID": "1252E1",
+      "EDID": "LegionaryRaiderCM2",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12512F",
+      "FORMID": "12512F",
+      "EDID": "VMS26LesFretwell",
+      "FULL": "MP Fretwell"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12512C",
+      "FORMID": "12512C",
+      "EDID": "VMS26TrooperWillis",
+      "FULL": "Soldado Willis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124B04",
+      "FORMID": "124B04",
+      "EDID": "VFSFollowersGuardGF",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124B02",
+      "FORMID": "124B02",
+      "EDID": "VFSFollowersGuardGM",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124AFA",
+      "FORMID": "124AFA",
+      "EDID": "VFSFollowersGuardGM2",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124AF8",
+      "FORMID": "124AF8",
+      "EDID": "VFSFollowersGuardGF2",
+      "FULL": "Guarda dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124042",
+      "FORMID": "124042",
+      "EDID": "VForlornHopeNCRTrooperJailer01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:123C91",
+      "FORMID": "123C91",
+      "EDID": "VFSKingWaterPumpGreeter",
+      "FULL": "Tapper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:123192",
+      "FORMID": "123192",
+      "EDID": "TecLegionaryRaider",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122BBF",
+      "FORMID": "122BBF",
+      "EDID": "vGOMBartenderRandom",
+      "FULL": "Barman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122BBD",
+      "FORMID": "122BBD",
+      "EDID": "vGOMBartender05",
+      "FULL": "Barman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122BB9",
+      "FORMID": "122BB9",
+      "EDID": "vGOMBartender01",
+      "FULL": "Barman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B99",
+      "FORMID": "122B99",
+      "EDID": "FortVulpesInculta",
+      "FULL": "Vulpes Inculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B95",
+      "FORMID": "122B95",
+      "EDID": "FortOtho",
+      "FULL": "Otho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B6F",
+      "FORMID": "122B6F",
+      "EDID": "VForlornHopeNCRTrooperInjured03",
+      "FULL": "Soldado Ferido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B4C",
+      "FORMID": "122B4C",
+      "EDID": "VFSHighTimesDealerThug1",
+      "FULL": "Vagabundo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B4B",
+      "FORMID": "122B4B",
+      "EDID": "VFSHighTimesDealerThug2",
+      "FULL": "Vagabundo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121FDC",
+      "FORMID": "121FDC",
+      "EDID": "FortLegionaryVexillariusAAMTemplate",
+      "FULL": "Vexillarius da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121488",
+      "FORMID": "121488",
+      "EDID": "VForlornHopeNCRTrooperInjuredCM",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121486",
+      "FORMID": "121486",
+      "EDID": "VForlornHopeNCRTrooperInjuredAAM",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121485",
+      "FORMID": "121485",
+      "EDID": "VForlornHopeNCRTrooperInjuredTEMPLATE",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120BBA",
+      "FORMID": "120BBA",
+      "EDID": "VStreetNCRTrooperCFb",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1206FC",
+      "FORMID": "1206FC",
+      "EDID": "VHDColonelMoore",
+      "FULL": "Coronel Cassandra Moore"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120183",
+      "FORMID": "120183",
+      "EDID": "RSFoxtrotKudlow",
+      "FULL": "Ranger Kudlow"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120172",
+      "FORMID": "120172",
+      "EDID": "FortAntony",
+      "FULL": "Antony"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11FBC3",
+      "FORMID": "11FBC3",
+      "EDID": "FortDaleBarton",
+      "FULL": "Dale Barton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11FB7C",
+      "FORMID": "11FB7C",
+      "EDID": "RSEchoErasmus",
+      "FULL": "Ranger Erasmus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F9D0",
+      "FORMID": "11F9D0",
+      "EDID": "FortSiri",
+      "FULL": "Siri"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F9B9",
+      "FORMID": "11F9B9",
+      "EDID": "VMSTopsHadrian",
+      "FULL": "Hadrian"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F910",
+      "FORMID": "11F910",
+      "EDID": "LegionaryExplorer",
+      "FULL": "Explorador da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F90F",
+      "FORMID": "11F90F",
+      "EDID": "LegionaryDeadSea",
+      "FULL": "Mar Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F862",
+      "FORMID": "11F862",
+      "EDID": "CarlitosWayne",
+      "FULL": "Carlitos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F3E7",
+      "FORMID": "11F3E7",
+      "EDID": "LegionaryRaiderHRifle",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11ECE5",
+      "FORMID": "11ECE5",
+      "EDID": "LegionaryRaider",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBDD",
+      "FORMID": "11EBDD",
+      "EDID": "RSDeltaPason",
+      "FULL": "Ranger Pason"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E752",
+      "FORMID": "11E752",
+      "EDID": "VMS21HitMan",
+      "FULL": "Cobrador de Dívidas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E6B6",
+      "FORMID": "11E6B6",
+      "EDID": "WalterPhebus",
+      "FULL": "Walter Phebus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E509",
+      "FORMID": "11E509",
+      "EDID": "FortLegionaryRecruitHM",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E508",
+      "FORMID": "11E508",
+      "EDID": "FortLegionaryInstructor",
+      "FULL": "Instrutor Legionário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E4FC",
+      "FORMID": "11E4FC",
+      "EDID": "RSBravoEricsen",
+      "FULL": "Ranger Ericsen"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D99F",
+      "FORMID": "11D99F",
+      "EDID": "FortLegionaryRecruitCM",
+      "FULL": "Legionário Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C251",
+      "FORMID": "11C251",
+      "EDID": "VMS18WhiteGloveCMWaiter",
+      "FULL": "Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BAEE",
+      "FORMID": "11BAEE",
+      "EDID": "RSAlphaLineholm",
+      "FULL": "Ranger Lineholm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11ADFD",
+      "FORMID": "11ADFD",
+      "EDID": "VMS18WhiteGlovePitBoss",
+      "FULL": "Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A8D8",
+      "FORMID": "11A8D8",
+      "EDID": "BCPrivateKowalski",
+      "FULL": "Soldado Kowalski"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A10B",
+      "FORMID": "11A10B",
+      "EDID": "VMS18WhiteGloveBartender",
+      "FULL": "Barman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1197EB",
+      "FORMID": "1197EB",
+      "EDID": "VTopsChairman1",
+      "FULL": "Presidente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11904E",
+      "FORMID": "11904E",
+      "EDID": "Lucky38FollowerEmily",
+      "FULL": "Emily Ortal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118353",
+      "FORMID": "118353",
+      "EDID": "VMS18HeadWaiter",
+      "FULL": "Chefe de Garçons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118347",
+      "FORMID": "118347",
+      "EDID": "VMS18WhiteGloveCF",
+      "FULL": "Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:117E11",
+      "FORMID": "117E11",
+      "EDID": "VFSHighTimesDealer",
+      "FULL": "Dixon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116C65",
+      "FORMID": "116C65",
+      "EDID": "VFSOffDutyNCRTrooper04",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116C64",
+      "FORMID": "116C64",
+      "EDID": "VFSOffDutyNCRTrooper03",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116C63",
+      "FORMID": "116C63",
+      "EDID": "VFSOffDutyNCRTrooper02",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116C61",
+      "FORMID": "116C61",
+      "EDID": "VFSOffDutyNCRTrooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11681C",
+      "FORMID": "11681C",
+      "EDID": "VStreetNCRGamblerCMa",
+      "FULL": "Jogador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116597",
+      "FORMID": "116597",
+      "EDID": "SarahWeintraub",
+      "FULL": "Sarah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164B5",
+      "FORMID": "1164B5",
+      "EDID": "vGOMBouncer01",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112642",
+      "FORMID": "112642",
+      "EDID": "VStreetJakeErwin",
+      "FULL": "Soldado Jake Erwin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112641",
+      "FORMID": "112641",
+      "EDID": "VStreetMariePappas",
+      "FULL": "Capitã Marie Pappas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11263F",
+      "FORMID": "11263F",
+      "EDID": "VStreetMPAAMTemplate",
+      "FULL": "Polícia Militar da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10FD31",
+      "FORMID": "10FD31",
+      "EDID": "VFSDebtGrecks",
+      "FULL": "Grecks"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10FA83",
+      "FORMID": "10FA83",
+      "EDID": "BCTrooperHostageCF",
+      "FULL": "Soldado Gilbert"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10F700",
+      "FORMID": "10F700",
+      "EDID": "RSAlphaCastillo",
+      "FULL": "Oficial de Comunicações Castillo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10EB2B",
+      "FORMID": "10EB2B",
+      "EDID": "BCTrooperHostageAAM",
+      "FULL": "Soldado Ackerman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D4E7",
+      "FORMID": "10D4E7",
+      "EDID": "VMS18Marjorie",
+      "FULL": "Marjorie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C722",
+      "FORMID": "10C722",
+      "EDID": "vGOMMuscle00Template",
+      "FULL": "Capanga da Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6F4",
+      "FORMID": "10C6F4",
+      "EDID": "VMS21BigSal",
+      "FULL": "Salzão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6F3",
+      "FORMID": "10C6F3",
+      "EDID": "VMS21Nero",
+      "FULL": "Nero"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6EA",
+      "FORMID": "10C6EA",
+      "EDID": "BCIke",
+      "FULL": "Ike"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6DD",
+      "FORMID": "10C6DD",
+      "EDID": "BCLieutenantMonroe",
+      "FULL": "Tenente Monroe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C681",
+      "FORMID": "10C681",
+      "EDID": "VFSJeanBaptisteCutting",
+      "FULL": "Jean-Baptiste Cutting"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C680",
+      "FORMID": "10C680",
+      "EDID": "VFSFrancineGarret",
+      "FULL": "Francine Garret"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C67E",
+      "FORMID": "10C67E",
+      "EDID": "VFSJamesGarret",
+      "FULL": "James Garret"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C67D",
+      "FORMID": "10C67D",
+      "EDID": "VFSGloriaVanGraff",
+      "FULL": "Gloria Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B315",
+      "FORMID": "10B315",
+      "EDID": "CampGolfRanger12",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B314",
+      "FORMID": "10B314",
+      "EDID": "CampGolfRanger11",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B313",
+      "FORMID": "10B313",
+      "EDID": "CampGolfRanger10",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B30D",
+      "FORMID": "10B30D",
+      "EDID": "CampGolfRanger4",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B30C",
+      "FORMID": "10B30C",
+      "EDID": "CampGolfRanger3",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B30B",
+      "FORMID": "10B30B",
+      "EDID": "CampGolfRanger2",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B30A",
+      "FORMID": "10B30A",
+      "EDID": "CampGolfRanger1",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AF1B",
+      "FORMID": "10AF1B",
+      "EDID": "HVScribeIbsen",
+      "FULL": "Escriba Ibsen"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A6FE",
+      "FORMID": "10A6FE",
+      "EDID": "HVInitiateStanton",
+      "FULL": "Iniciado Stanton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A156",
+      "FORMID": "10A156",
+      "EDID": "DeadPowderGanger1GunCM2",
+      "FULL": "Powder Ganger Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A0D4",
+      "FORMID": "10A0D4",
+      "EDID": "Boomer02Mb29Welder",
+      "FULL": "Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A0D3",
+      "FORMID": "10A0D3",
+      "EDID": "Boomer01Mb29Welder",
+      "FULL": "Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A0D2",
+      "FORMID": "10A0D2",
+      "EDID": "Boomer02Fb29Welder",
+      "FULL": "Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A0D1",
+      "FORMID": "10A0D1",
+      "EDID": "Boomer01Fb29Welder",
+      "FULL": "Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106623",
+      "FORMID": "106623",
+      "EDID": "BoomerCook1M",
+      "FULL": "Cozinheiro Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10596B",
+      "FORMID": "10596B",
+      "EDID": "SSHQMalcolmHolmes",
+      "FULL": "Malcolm Holmes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104F07",
+      "FORMID": "104F07",
+      "EDID": "GSSettlerAM",
+      "FULL": "Colono de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C67",
+      "FORMID": "104C67",
+      "EDID": "GSJoeCobb",
+      "FULL": "Joe Cobb"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104315",
+      "FORMID": "104315",
+      "EDID": "2CMags",
+      "FULL": "Mags"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104314",
+      "FORMID": "104314",
+      "EDID": "2CRazz",
+      "FULL": "Razz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104313",
+      "FORMID": "104313",
+      "EDID": "2CMcCredie",
+      "FULL": "Sgt. McCredie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104311",
+      "FORMID": "104311",
+      "EDID": "2CPoindexter",
+      "FULL": "Poindexter"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104310",
+      "FORMID": "104310",
+      "EDID": "2CHanlon",
+      "FULL": "Chefe Hanlon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101C9B",
+      "FORMID": "101C9B",
+      "EDID": "Benny",
+      "FULL": "Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF264",
+      "FORMID": "0FF264",
+      "EDID": "NellisJack",
+      "FULL": "Jack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE1C9",
+      "FORMID": "0FE1C9",
+      "EDID": "McCarranObstacleCourseRunner2",
+      "FULL": "Recruta da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE1C8",
+      "FORMID": "0FE1C8",
+      "EDID": "McCarranObstacleCourseRunner1",
+      "FULL": "Recruta da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE1C7",
+      "FORMID": "0FE1C7",
+      "EDID": "McCarranDrillSergeant",
+      "FULL": "Sargento de Treinamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FDFD3",
+      "FORMID": "0FDFD3",
+      "EDID": "NCRTrooperMcCarranInterior10",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD1BA",
+      "FORMID": "0FD1BA",
+      "EDID": "McCarranFieldTrooperAAF",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD1B6",
+      "FORMID": "0FD1B6",
+      "EDID": "McCarranFieldTrooperAAMTEMPLATE",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FA877",
+      "FORMID": "0FA877",
+      "EDID": "WestsideEttienne",
+      "FULL": "Etienne"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FA749",
+      "FORMID": "0FA749",
+      "EDID": "CorporalHornsby",
+      "FULL": "Cpl. Walter Hornsby"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F889B",
+      "FORMID": "0F889B",
+      "EDID": "WestsideSaintJames",
+      "FULL": "São James"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F889A",
+      "FORMID": "0F889A",
+      "EDID": "WestsideDermot",
+      "FULL": "Dermot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F839E",
+      "FORMID": "0F839E",
+      "EDID": "KlamathBob",
+      "FULL": "Bob de Klamath"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F839A",
+      "FORMID": "0F839A",
+      "EDID": "1ECaptainParker",
+      "FULL": "Capitão Parker"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8298",
+      "FORMID": "0F8298",
+      "EDID": "PrivateCrenshaw",
+      "FULL": "Sold. Davey Crenshaw"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5700",
+      "FORMID": "0F5700",
+      "EDID": "1ECookCook",
+      "FULL": "Cook-Cook"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56FE",
+      "FORMID": "0F56FE",
+      "EDID": "1ELieutenantGorobets",
+      "FULL": "Tenente Gorobets"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56FB",
+      "FORMID": "0F56FB",
+      "EDID": "1ECorporalBetsy",
+      "FULL": "Cabo Betsy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56FA",
+      "FORMID": "0F56FA",
+      "EDID": "1ESergeantBitterRoot",
+      "FULL": "Sargento Bitter-Root"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56F9",
+      "FORMID": "0F56F9",
+      "EDID": "1ECorporalSterling",
+      "FULL": "Cabo Sterling"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56F8",
+      "FORMID": "0F56F8",
+      "EDID": "1EMajorDhatri",
+      "FULL": "Major Dhatri"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56F7",
+      "FORMID": "0F56F7",
+      "EDID": "1E10ofSpades",
+      "FULL": "10 de Espadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47AC",
+      "FORMID": "0F47AC",
+      "EDID": "Vault3Prisoner02",
+      "FULL": "Rachael"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47AB",
+      "FORMID": "0F47AB",
+      "EDID": "Vault3Prisoner01",
+      "FULL": "Rick Lancer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47A9",
+      "FORMID": "0F47A9",
+      "EDID": "Vault3Prisoner03",
+      "FULL": "Dennis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3DDF",
+      "FORMID": "0F3DDF",
+      "EDID": "GunRunnerGunsmithCM",
+      "FULL": "Armeiro dos Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3BF8",
+      "FORMID": "0F3BF8",
+      "EDID": "1ESharecropperPrivateOrtega",
+      "FULL": "Soldado Ortega"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F271C",
+      "FORMID": "0F271C",
+      "EDID": "NorthVegasMrHostetler",
+      "FULL": "Don Hostetler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1864",
+      "FORMID": "0F1864",
+      "EDID": "NVNCRAgentKeller",
+      "FULL": "Keller"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1863",
+      "FORMID": "0F1863",
+      "EDID": "CrimsonCaravanBlake",
+      "FULL": "Blake"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F1095",
+      "FORMID": "0F1095",
+      "EDID": "WestsideAnderson",
+      "FULL": "Anderson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0B31",
+      "FORMID": "0F0B31",
+      "EDID": "GnGFitz",
+      "FULL": "Fitz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F05E2",
+      "FORMID": "0F05E2",
+      "EDID": "1ERomanowski",
+      "FULL": "Tenente Romanowski"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F04AD",
+      "FORMID": "0F04AD",
+      "EDID": "1ETrentBascom",
+      "FULL": "Trent Bascom"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFB24",
+      "FORMID": "0EFB24",
+      "EDID": "V03FiendShooter",
+      "FULL": "Demônio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF468",
+      "FORMID": "0EF468",
+      "EDID": "GnGLupe",
+      "FULL": "Lupe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE716",
+      "FORMID": "0EE716",
+      "EDID": "1ESharecropperAAMTemplate",
+      "FULL": "Meeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE68B",
+      "FORMID": "0EE68B",
+      "EDID": "SergeantJacobs",
+      "FULL": "Sgt. Warren Jacobs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED4E9",
+      "FORMID": "0ED4E9",
+      "EDID": "ScorpionsGangYvette",
+      "FULL": "Yvette"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED4E2",
+      "FORMID": "0ED4E2",
+      "EDID": "GunRunnerIsaac",
+      "FULL": "Isaac"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED4D7",
+      "FORMID": "0ED4D7",
+      "EDID": "CrimsonCaravaneerAAMTemplate",
+      "FULL": "Caravaneiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED4D1",
+      "FORMID": "0ED4D1",
+      "EDID": "CrimsonCaravanGuardAAMTemplate",
+      "FULL": "Guarda da Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ECE21",
+      "FORMID": "0ECE21",
+      "EDID": "ScorpionsGangRoller",
+      "FULL": "Roller"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAC7F",
+      "FORMID": "0EAC7F",
+      "EDID": "BMNCRTrooper3Dead",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9C25",
+      "FORMID": "0E9C25",
+      "EDID": "BMNCRTrooper1Dead",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9C24",
+      "FORMID": "0E9C24",
+      "EDID": "BMNCRTrooperCrushed",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9082",
+      "FORMID": "0E9082",
+      "EDID": "QJGreatKhanHM",
+      "FULL": "Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8F96",
+      "FORMID": "0E8F96",
+      "EDID": "WestsideMiguel",
+      "FULL": "Miguel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8F6D",
+      "FORMID": "0E8F6D",
+      "EDID": "PrivateMorales",
+      "FULL": "Soldado Christina Morales"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8994",
+      "FORMID": "0E8994",
+      "EDID": "CaptainCurtis",
+      "FULL": "Cap. Ronald Curtis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8993",
+      "FORMID": "0E8993",
+      "EDID": "LieutenantBoyd",
+      "FULL": "Tenente Carrie Boyd"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8992",
+      "FORMID": "0E8992",
+      "EDID": "ColonelHsu",
+      "FULL": "Cel. James Hsu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7E24",
+      "FORMID": "0E7E24",
+      "EDID": "eldoradoNCRSergeant",
+      "FULL": "Sargento da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7E21",
+      "FORMID": "0E7E21",
+      "EDID": "eldoradoNCRTrooper1",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7C1B",
+      "FORMID": "0E7C1B",
+      "EDID": "PrimmTyrone",
+      "FULL": "Tyrone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E604F",
+      "FORMID": "0E604F",
+      "EDID": "188Alexander",
+      "FULL": "Alexander"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5518",
+      "FORMID": "0E5518",
+      "EDID": "SupplyOfficerContreras",
+      "FULL": "Sgt. Daniel Contreras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E529B",
+      "FORMID": "0E529B",
+      "EDID": "PrimmTrooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5299",
+      "FORMID": "0E5299",
+      "EDID": "PrimmSergeantLee",
+      "FULL": "Sargento Lee"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3486",
+      "FORMID": "0E3486",
+      "EDID": "HVBrotherhoodScribeMatrixAF",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3485",
+      "FORMID": "0E3485",
+      "EDID": "HVBrotherhoodScribeMatrixAAM",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3484",
+      "FORMID": "0E3484",
+      "EDID": "HVBrotherhoodScribeMatrixCM",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32AA",
+      "FORMID": "0E32AA",
+      "EDID": "Veronica",
+      "FULL": "Veronica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F83",
+      "FORMID": "0E2F83",
+      "EDID": "LarsTaggart",
+      "FULL": "Escrivão-Chefe Taggart"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F82",
+      "FORMID": "0E2F82",
+      "EDID": "MelissaWatkins",
+      "FULL": "Aprendiz Watkins"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F81",
+      "FORMID": "0E2F81",
+      "EDID": "HVBrotherhoodScribeTeacher",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C94",
+      "FORMID": "0E2C94",
+      "EDID": "PrimmCorporalHayes",
+      "FULL": "Tenente Hayes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C93",
+      "FORMID": "0E2C93",
+      "EDID": "PrimmLanceCorporalMcGee",
+      "FULL": "Sargento McGee"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2961",
+      "FORMID": "0E2961",
+      "EDID": "HVBrotherhoodOfSteelPaladinDayTemplate",
+      "FULL": "Paladino da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295F",
+      "FORMID": "0E295F",
+      "EDID": "HVBrotherhoodScribeCM",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295E",
+      "FORMID": "0E295E",
+      "EDID": "HVBrotherhoodScribeAAM",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295D",
+      "FORMID": "0E295D",
+      "EDID": "HVBrotherhoodScribeCF",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295C",
+      "FORMID": "0E295C",
+      "EDID": "HVBrotherhoodScribeAAF",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295B",
+      "FORMID": "0E295B",
+      "EDID": "HVBrotherhoodScribeCM2",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E295A",
+      "FORMID": "0E295A",
+      "EDID": "HVBrotherhoodScribeCF2",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27EB",
+      "FORMID": "0E27EB",
+      "EDID": "HVBrotherhoodInitiateHF",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27EA",
+      "FORMID": "0E27EA",
+      "EDID": "HVBrotherhoodInitiateAAF",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E9",
+      "FORMID": "0E27E9",
+      "EDID": "HVBrotherhoodInitiateCF",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E8",
+      "FORMID": "0E27E8",
+      "EDID": "HVBrotherhoodInitiateAM",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E7",
+      "FORMID": "0E27E7",
+      "EDID": "HVBrotherhoodInitiateAAM",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E5",
+      "FORMID": "0E27E5",
+      "EDID": "HVTorres",
+      "FULL": "Cavaleiro Torres"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E4",
+      "FORMID": "0E27E4",
+      "EDID": "Ramos",
+      "FULL": "Paladino Ramos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E3",
+      "FORMID": "0E27E3",
+      "EDID": "HVBrotherhoodInitiateCM",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E07D5",
+      "FORMID": "0E07D5",
+      "EDID": "LtHaggerty",
+      "FULL": "Tenente Haggerty"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F3C",
+      "FORMID": "0D7F3C",
+      "EDID": "LvlPowderGangerGunNVBisonSteve01",
+      "FULL": "Condenado Fugitivo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F2C",
+      "FORMID": "0D7F2C",
+      "EDID": "VMS02Trooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F28",
+      "FORMID": "0D7F28",
+      "EDID": "VMS02WaterMerchant",
+      "FULL": "Mercador Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D769F",
+      "FORMID": "0D769F",
+      "EDID": "HVBrotherhoodInitiateTemplate",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEF3B",
+      "FORMID": "0CEF3B",
+      "EDID": "NCRCFCarter",
+      "FULL": "Carter"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCFC8",
+      "FORMID": "0CCFC8",
+      "EDID": "AliceMcBride",
+      "FULL": "Alice McBride"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A46E8",
+      "FORMID": "0A46E8",
+      "EDID": "NCRTrooperAAMMelee",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41AB",
+      "FORMID": "0A41AB",
+      "EDID": "HVBrotherhoodOfSteelKnightAAM",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41AA",
+      "FORMID": "0A41AA",
+      "EDID": "HVBrotherhoodOfSteelKnightTemplate",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41A5",
+      "FORMID": "0A41A5",
+      "EDID": "HVBrotherhoodOfSteelKnightCM",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41A4",
+      "FORMID": "0A41A4",
+      "EDID": "HVBrotherhoodOfSteelKnightCF",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41A3",
+      "FORMID": "0A41A3",
+      "EDID": "HVKnightEDE",
+      "FULL": "Cavaleiro Sênior Lorenzo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41A2",
+      "FORMID": "0A41A2",
+      "EDID": "HVBrotherhoodOfSteelKnightAF",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F0BA",
+      "FORMID": "08F0BA",
+      "EDID": "RangerAndy",
+      "FULL": "Ranger Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D423",
+      "FORMID": "08D423",
+      "EDID": "NCRTrooperAAMTEMPLATE",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:084206",
+      "FORMID": "084206",
+      "EDID": "OldLadyGibson",
+      "FULL": "Velha Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:081599",
+      "FORMID": "081599",
+      "EDID": "REPCONGhoul3F",
+      "FULL": "Seguidor da Luz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0810E9",
+      "FORMID": "0810E9",
+      "EDID": "ChrisHaversam",
+      "FULL": "Chris Haversam"
+    },
+    {
+      "FORM": "@FalloutNV.esm:080771",
+      "FORMID": "080771",
+      "EDID": "Harland",
+      "FULL": "Harland"
+    }
+  ]
+}

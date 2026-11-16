@@ -1,0 +1,562 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@Zeta.esm:005EDF",
+      "FORMID": "005EDF",
+      "EDID": "DLC05BridgeShieldControl",
+      "FULL": "Controlador de Escudo"
+    },
+    {
+      "FORM": "@Zeta.esm:004230",
+      "FORMID": "004230",
+      "EDID": "DLC05CryoLab02MasTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:004212",
+      "FORMID": "004212",
+      "EDID": "DLC05SpaceWalk02MasTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:0041E0",
+      "FORMID": "0041E0",
+      "EDID": "DLC05HangarTeleSwitch",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:0041AF",
+      "FORMID": "0041AF",
+      "EDID": "DLC05Control02",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:0041A8",
+      "FORMID": "0041A8",
+      "EDID": "DLC05Control01",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:003F3F",
+      "FORMID": "003F3F",
+      "EDID": "DLC05BumperSwitch",
+      "FULL": "Controle da torre de alta tensão"
+    },
+    {
+      "FORM": "@Zeta.esm:005C13",
+      "FORMID": "005C13",
+      "EDID": "DLC05ShockVolumeSwitch",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:003CC4",
+      "FORMID": "003CC4",
+      "EDID": "DLC05CryoFreezeRoomTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:003CB9",
+      "FORMID": "003CB9",
+      "EDID": "DLC05CryoLab01MasTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:003CAD",
+      "FORMID": "003CAD",
+      "EDID": "DLC05MZ3DeathRaySwitch",
+      "FULL": "Interruptor do Raio da Morte"
+    },
+    {
+      "FORM": "@Zeta.esm:005AF4",
+      "FORMID": "005AF4",
+      "EDID": "DLC05BridgeControl",
+      "FULL": "Controle de Disparo"
+    },
+    {
+      "FORM": "@Zeta.esm:0039C6",
+      "FORMID": "0039C6",
+      "EDID": "DLC05AssemblySwitch",
+      "FULL": "Painel de Acesso aos Componentes Eletrônicos"
+    },
+    {
+      "FORM": "@Zeta.esm:0039BA",
+      "FORMID": "0039BA",
+      "EDID": "DLC05ConveyorMachine",
+      "FULL": "Máquina Transportadora"
+    },
+    {
+      "FORM": "@Zeta.esm:00370A",
+      "FORMID": "00370A",
+      "EDID": "DLC05GeneratorSwitch01",
+      "FULL": "Interruptor dos Para-choques"
+    },
+    {
+      "FORM": "@Zeta.esm:0033ED",
+      "FORMID": "0033ED",
+      "EDID": "DLC05StasisControls",
+      "FULL": "Controles de Êxtases"
+    },
+    {
+      "FORM": "@Zeta.esm:00330E",
+      "FORMID": "00330E",
+      "EDID": "DLC05HoldingCellActivator",
+      "FULL": "Mecanismo de liberação"
+    },
+    {
+      "FORM": "@Zeta.esm:002EDA",
+      "FORMID": "002EDA",
+      "EDID": "DLC05CryoLabDeathclawTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:005AAE",
+      "FORMID": "005AAE",
+      "EDID": "DLC05SpaceDecompressionSwitch02",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:002945",
+      "FORMID": "002945",
+      "EDID": "DLC05AlienSwitchEnable",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:001F52",
+      "FORMID": "001F52",
+      "EDID": "DLC05AlienController",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:0059BA",
+      "FORMID": "0059BA",
+      "EDID": "DLC05SpaceDecompressionSwitch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:004710",
+      "FORMID": "004710",
+      "EDID": "DLC05SpaceDecompressionEndTrig",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:001F47",
+      "FORMID": "001F47",
+      "EDID": "DLC05CryoTrap",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00160D",
+      "FORMID": "00160D",
+      "EDID": "DLC05WeapRechargeStation",
+      "FULL": "Estação de Recarga de Arma Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0046A8",
+      "FORMID": "0046A8",
+      "EDID": "DLC05SpaceWalkRepairNode",
+      "FULL": "Ponto de Reparação"
+    },
+    {
+      "FORM": "@Zeta.esm:00563C",
+      "FORMID": "00563C",
+      "EDID": "DLC05CryoElliotTaunt01Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:005634",
+      "FORMID": "005634",
+      "EDID": "DLC05CryoElliotFreezeTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00DB3C",
+      "FORMID": "00DB3C",
+      "EDID": "DLC05RobotFriendMoveTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00C357",
+      "FORMID": "00C357",
+      "EDID": "DLC05UpdateCoreStageTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00AAA8",
+      "FORMID": "00AAA8",
+      "EDID": "DLC05CryoPodSwitchOFF",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:00AAA6",
+      "FORMID": "00AAA6",
+      "EDID": "DLC05CryoPodSwitch",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9F2",
+      "FORMID": "00A9F2",
+      "EDID": "DLC05TelepadActivatorDummy",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9DE",
+      "FORMID": "00A9DE",
+      "EDID": "DLC05WorkBench",
+      "FULL": "Bancada de Trabalho"
+    },
+    {
+      "FORM": "@Zeta.esm:00A92C",
+      "FORMID": "00A92C",
+      "EDID": "DLC05BridgeGeneratorControl",
+      "FULL": "Controle do gerador"
+    },
+    {
+      "FORM": "@Zeta.esm:005620",
+      "FORMID": "005620",
+      "EDID": "DLC05CryoElliotSayGenTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:004E69",
+      "FORMID": "004E69",
+      "EDID": "DLC05MZ3CoreTeleporterControl",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:004E3D",
+      "FORMID": "004E3D",
+      "EDID": "DLC05AlienBed",
+      "FULL": "Câmara de Êxtase"
+    },
+    {
+      "FORM": "@Zeta.esm:004C09",
+      "FORMID": "004C09",
+      "EDID": "DLC05EXLabTeleControl",
+      "FULL": "Controle de Teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:0049FF",
+      "FORMID": "0049FF",
+      "EDID": "DLC05DeathRayDialogue20Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:0049FB",
+      "FORMID": "0049FB",
+      "EDID": "DLC05DeathRayDialogue10Trig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:004940",
+      "FORMID": "004940",
+      "EDID": "DLC05DeathRayPos02Button",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00493E",
+      "FORMID": "00493E",
+      "EDID": "DLC05DeathRayFireButton",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00493D",
+      "FORMID": "00493D",
+      "EDID": "DLC05DeathRayChargeButton",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00493C",
+      "FORMID": "00493C",
+      "EDID": "DLC05DeathRayPos01Button",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:004721",
+      "FORMID": "004721",
+      "EDID": "DLC05SpaceWalk03MasTrig",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00A88A",
+      "FORMID": "00A88A",
+      "EDID": "DLC05HoloControl",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A841",
+      "FORMID": "00A841",
+      "EDID": "DLC05BridgePowerControl",
+      "FULL": "Distribuição de Energia"
+    },
+    {
+      "FORM": "@Zeta.esm:00A840",
+      "FORMID": "00A840",
+      "EDID": "DLC05PowerControl",
+      "FULL": "Distribuição de Energia"
+    },
+    {
+      "FORM": "@Zeta.esm:00A772",
+      "FORMID": "00A772",
+      "EDID": "DLC05AlienControllerAsm",
+      "FULL": "Controlador Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A765",
+      "FORMID": "00A765",
+      "EDID": "DLC05ExtraButton9",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A763",
+      "FORMID": "00A763",
+      "EDID": "DLC05ExtraButton8",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A761",
+      "FORMID": "00A761",
+      "EDID": "DLC05ExtraButton7",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A75F",
+      "FORMID": "00A75F",
+      "EDID": "DLC05ExtraButton6",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A75D",
+      "FORMID": "00A75D",
+      "EDID": "DLC05ExtraButton5",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A75B",
+      "FORMID": "00A75B",
+      "EDID": "DLC05ExtraButton4",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A759",
+      "FORMID": "00A759",
+      "EDID": "DLC05ExtraButton3",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A757",
+      "FORMID": "00A757",
+      "EDID": "DLC05ExtraButton2",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A755",
+      "FORMID": "00A755",
+      "EDID": "DLC05ExtraButton1",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A753",
+      "FORMID": "00A753",
+      "EDID": "DLC05ExtraButton0",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:00A5FF",
+      "FORMID": "00A5FF",
+      "EDID": "DLC05RobotPodOpen",
+      "FULL": "Cápsula de robô"
+    },
+    {
+      "FORM": "@Zeta.esm:00997A",
+      "FORMID": "00997A",
+      "EDID": "DLC05RobotPod",
+      "FULL": "Cápsula de robô"
+    },
+    {
+      "FORM": "@Zeta.esm:009952",
+      "FORMID": "009952",
+      "EDID": "DLC05MZ1SomahDoorTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:0085FB",
+      "FORMID": "0085FB",
+      "EDID": "DLC05StasisControlPanel",
+      "FULL": "Controles de Êxtase"
+    },
+    {
+      "FORM": "@Zeta.esm:008507",
+      "FORMID": "008507",
+      "EDID": "DLC05TelepadActivator",
+      "FULL": "Matriz de teletransporte"
+    },
+    {
+      "FORM": "@Zeta.esm:0082D1",
+      "FORMID": "0082D1",
+      "EDID": "DLC05AlienDoorControlVERYHARD",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CF",
+      "FORMID": "0082CF",
+      "EDID": "DLC05AlienDoorControlAVERAGE",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CD",
+      "FORMID": "0082CD",
+      "EDID": "DLC05AlienDoorControlHARD",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:0082CA",
+      "FORMID": "0082CA",
+      "EDID": "DLC05AlienDoorControlEASY",
+      "FULL": "Controles das portas"
+    },
+    {
+      "FORM": "@Zeta.esm:007E63",
+      "FORMID": "007E63",
+      "EDID": "DLC05MZ3BridgeTeleporterControl",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:007E2D",
+      "FORMID": "007E2D",
+      "EDID": "DLC05MZ3TeleporterUpdateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:007E2A",
+      "FORMID": "007E2A",
+      "EDID": "DLC05MZ3LabTeleporterControl",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:007C1D",
+      "FORMID": "007C1D",
+      "EDID": "DLC05DeathRayGenCoolantSwitch",
+      "FULL": "Interruptor da Refrigeração do Núcleo"
+    },
+    {
+      "FORM": "@Zeta.esm:007B81",
+      "FORMID": "007B81",
+      "EDID": "DLC05SpaceWalkEnableDeathTriggerTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:007A03",
+      "FORMID": "007A03",
+      "EDID": "DLC05ERoomGasTrapControl",
+      "FULL": "Controle de Liberação"
+    },
+    {
+      "FORM": "@Zeta.esm:007444",
+      "FORMID": "007444",
+      "EDID": "DLC05SpaceFloatToDeathTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00743F",
+      "FORMID": "00743F",
+      "EDID": "DLC05SpaceWalkLevitateTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00471C",
+      "FORMID": "00471C",
+      "EDID": "DLC05SpaceWalkUpdateObjective01TRIG",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:00471A",
+      "FORMID": "00471A",
+      "EDID": "DLC05SpaceWalk01DecompressionTrig",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:007408",
+      "FORMID": "007408",
+      "EDID": "DLC05FF01cartTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:007392",
+      "FORMID": "007392",
+      "EDID": "DLC05MZExtPanelActivator02",
+      "FULL": "Painel Aberto"
+    },
+    {
+      "FORM": "@Zeta.esm:00738A",
+      "FORMID": "00738A",
+      "EDID": "DLC05MZExtPanelActivator01",
+      "FULL": "Painel Aberto"
+    },
+    {
+      "FORM": "@Zeta.esm:006DB1",
+      "FORMID": "006DB1",
+      "EDID": "DLC05GeneratorMainSwitch",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:006D13",
+      "FORMID": "006D13",
+      "EDID": "DLC05HangarBossDoorControl",
+      "FULL": "Controle"
+    },
+    {
+      "FORM": "@Zeta.esm:006C75",
+      "FORMID": "006C75",
+      "EDID": "DLC05CryoSquadSwitch",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:006C58",
+      "FORMID": "006C58",
+      "EDID": "DLC05CryoSoldierRoomTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:006BF4",
+      "FORMID": "006BF4",
+      "EDID": "DLC05GeneratorCoolantSwitch",
+      "FULL": "Interruptor da Refrigeração do Núcleo"
+    },
+    {
+      "FORM": "@Zeta.esm:004716",
+      "FORMID": "004716",
+      "EDID": "DLC05SpaceWalk01TalkTrig01",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:004713",
+      "FORMID": "004713",
+      "EDID": "DLC05SpaceBridge01MasTrig",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Zeta.esm:0060A3",
+      "FORMID": "0060A3",
+      "EDID": "DLC05HealArch01",
+      "FULL": "Arco Regenerador"
+    },
+    {
+      "FORM": "@Zeta.esm:006036",
+      "FORMID": "006036",
+      "EDID": "DLC05CryoTrapMAIN",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Zeta.esm:005EE9",
+      "FORMID": "005EE9",
+      "EDID": "DLC05CryoSwitchFreezeScene",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Zeta.esm:005EE0",
+      "FORMID": "005EE0",
+      "EDID": "DLC05BridgeJammerControl",
+      "FULL": "Controle do Inibidor"
+    }
+  ]
+}

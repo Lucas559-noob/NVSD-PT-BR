@@ -1,0 +1,676 @@
+{
+  "CONT": [
+    {
+      "FORM": "@YUPTTW.esm:006533",
+      "FORMID": "006533",
+      "EDID": "NVDLC01LootSafeGen02",
+      "FULL": "Safe"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D213",
+      "FORMID": "00D213",
+      "EDID": "NVDLC04MarkedMenCorpse03Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D212",
+      "FORMID": "00D212",
+      "EDID": "NVDLC04MarkedMenCorpse01Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D211",
+      "FORMID": "00D211",
+      "EDID": "NVDLC04MarkedMenCorpse02Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C930",
+      "FORMID": "00C930",
+      "EDID": "NVDLC04LootDufflebag01",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92C",
+      "FORMID": "00C92C",
+      "EDID": "NVDLC04LootDufflebagEmpty",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AD",
+      "FORMID": "00C8AD",
+      "EDID": "NVDLC04LootCraftingStationLockerEmpty",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C131",
+      "FORMID": "00C131",
+      "EDID": "NVDLC04DivideDuffle03",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C130",
+      "FORMID": "00C130",
+      "EDID": "NVDLC04DivideDuffle04",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BFA2",
+      "FORMID": "00BFA2",
+      "EDID": "NVDLC04LootDufflebagNCRAudioLog",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A60E",
+      "FORMID": "00A60E",
+      "EDID": "NVDLC04LootCraftingStationLocker",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009108",
+      "FORMID": "009108",
+      "EDID": "NVDLC04DivideDuffle02",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896E",
+      "FORMID": "00896E",
+      "EDID": "NVDLC04DivideDuffle01",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896D",
+      "FORMID": "00896D",
+      "EDID": "NVDLC04LootDufflebagHIGH",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896C",
+      "FORMID": "00896C",
+      "EDID": "NVDLC04LootDufflebagLOW",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896B",
+      "FORMID": "00896B",
+      "EDID": "NVDLC04LootDufflebagMED",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E38",
+      "FORMID": "003E38",
+      "EDID": "NVDLC04DeskSilo01BaseCommander",
+      "FULL": "Mesa do Comandante da Base"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B0B",
+      "FORMID": "015B0B",
+      "EDID": "NVDLC03X13VentStashLockpickSkill",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014ABF",
+      "FORMID": "014ABF",
+      "EDID": "NVDLC03FoodFreshContainer",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014960",
+      "FORMID": "014960",
+      "EDID": "NVDLC03BattleBrewBarrel",
+      "FULL": "Barril Estranho"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA7",
+      "FORMID": "012BA7",
+      "EDID": "NVDLC03X13VentStashEmpty",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA6",
+      "FORMID": "012BA6",
+      "EDID": "NVDLC03X13VentStash",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091A",
+      "FORMID": "01091A",
+      "EDID": "NVDLC03WoodenCrateLOW",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004527",
+      "FORMID": "004527",
+      "EDID": "NVDLC03SinkRefrigerator",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011192",
+      "FORMID": "011192",
+      "EDID": "NVDLC02CratezGen01",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010295",
+      "FORMID": "010295",
+      "EDID": "NVDLC02CrateHIGHDeadHorseWeapon",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AA",
+      "FORMID": "00F8AA",
+      "EDID": "NVDLC02CrateOldWorldLOW",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F674",
+      "FORMID": "00F674",
+      "EDID": "NVDLC02CrateMedVault22",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F673",
+      "FORMID": "00F673",
+      "EDID": "NVDLC02CrateEmpty",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F57E",
+      "FORMID": "00F57E",
+      "EDID": "NVDLC02LootGunsSack01DeadHorse",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F57D",
+      "FORMID": "00F57D",
+      "EDID": "NVDLC02LootExplosivesCrateXXXTier4Hi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4A0",
+      "FORMID": "00F4A0",
+      "EDID": "NVDLC02CrateOldWorldMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B1CC",
+      "FORMID": "00B1CC",
+      "EDID": "NVDLC02ExplosivesCrateHIGHLocked",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB93",
+      "FORMID": "00AB93",
+      "EDID": "NVDLC02HollowLogHIGH",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB92",
+      "FORMID": "00AB92",
+      "EDID": "NVDLC02HollowLogMED",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB91",
+      "FORMID": "00AB91",
+      "EDID": "NVDLC02HollowLogLOW",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB75",
+      "FORMID": "00AB75",
+      "EDID": "NVDLC02HollowRockContainerHIGH",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB74",
+      "FORMID": "00AB74",
+      "EDID": "NVDLC02HollowRockContainerMED",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB73",
+      "FORMID": "00AB73",
+      "EDID": "NVDLC02HollowRockContainerLOW",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6B",
+      "FORMID": "00AB6B",
+      "EDID": "NVDLC02ExplosivesCrateLOCKED",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB63",
+      "FORMID": "00AB63",
+      "EDID": "NVDLC02CrateHIGH",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A930",
+      "FORMID": "00A930",
+      "EDID": "NVDLC02CrateMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A928",
+      "FORMID": "00A928",
+      "EDID": "NVDLC02ExplosivesCrateLOW",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A927",
+      "FORMID": "00A927",
+      "EDID": "NVDLC02ExplosivesCrateMED",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EBE",
+      "FORMID": "009EBE",
+      "EDID": "NVDLC02ShippingCrate",
+      "FULL": "Caixa de Remessa da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138ED",
+      "FORMID": "0138ED",
+      "EDID": "NVDLC01DeskArtDecoExtra02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138EC",
+      "FORMID": "0138EC",
+      "EDID": "NVDLC01DeskArtDecoExtra01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0138C2",
+      "FORMID": "0138C2",
+      "EDID": "NVDLC01KitchenCabinetCrafting",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01340B",
+      "FORMID": "01340B",
+      "EDID": "NVDLC01ElijahsMailbox",
+      "FULL": "Caixa Postal"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011F82",
+      "FORMID": "011F82",
+      "EDID": "NVDLC01DeskArtDecoHigh",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2E",
+      "FORMID": "011D2E",
+      "EDID": "NVDLC01DeskArtDecoLow",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2D",
+      "FORMID": "011D2D",
+      "EDID": "NVDLC01DeskArtDecoMed",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2C",
+      "FORMID": "011D2C",
+      "EDID": "NVDLC01DresserHigh",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D2B",
+      "FORMID": "011D2B",
+      "EDID": "NVDLC01DresserLow",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:011D29",
+      "FORMID": "011D29",
+      "EDID": "NVDLC01DresserMed",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0116DB",
+      "FORMID": "0116DB",
+      "EDID": "NVDLC01KitchenCabinet",
+      "FULL": "Armário da Cozinha"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00EFCB",
+      "FORMID": "00EFCB",
+      "EDID": "NVDLC01PlayerEquipmentContainer",
+      "FULL": "Armazenamento de Equipamentos"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00DDDD",
+      "FORMID": "00DDDD",
+      "EDID": "NVDLC01RefrigeratorWithFoodNEWMed",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@DeadMoney.esm:00BCD7",
+      "FORMID": "00BCD7",
+      "EDID": "NVDLC01LockerPoliceStationC4",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:179B2C",
+      "FORMID": "179B2C",
+      "EDID": "NVGSCrateContainerEmpty",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167C63",
+      "FORMID": "167C63",
+      "EDID": "VLootWoodenCrateGen01",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167BCC",
+      "FORMID": "167BCC",
+      "EDID": "VLootSafeGen02",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679C3",
+      "FORMID": "1679C3",
+      "EDID": "VLootExplosivesNVCrateXXXGen15",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679C2",
+      "FORMID": "1679C2",
+      "EDID": "VLootExplosivesNVCrateXXXGen14",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679C1",
+      "FORMID": "1679C1",
+      "EDID": "VLootExplosivesNVCrateXXXGen13",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679C0",
+      "FORMID": "1679C0",
+      "EDID": "VLootExplosivesNVCrateXXXGen12",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BF",
+      "FORMID": "1679BF",
+      "EDID": "VLootExplosivesNVCrateXXXTier4Workshop",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BE",
+      "FORMID": "1679BE",
+      "EDID": "VLootExplosivesNVCrateXXXTier4WorkshopHi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BD",
+      "FORMID": "1679BD",
+      "EDID": "VLootExplosivesNVCrateXXXTier3WorkshopHi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BC",
+      "FORMID": "1679BC",
+      "EDID": "VLootExplosivesNVCrateXXXTier3Workshop",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BB",
+      "FORMID": "1679BB",
+      "EDID": "VLootExplosivesNVCrateXXXTier3Powder",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679BA",
+      "FORMID": "1679BA",
+      "EDID": "VLootExplosivesNVCrateXXXTier2WorkshopHi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679B9",
+      "FORMID": "1679B9",
+      "EDID": "VLootExplosivesNVCrateXXXTier2Workshop",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679B8",
+      "FORMID": "1679B8",
+      "EDID": "VLootExplosivesNVCrateXXXTier2Powder",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679B7",
+      "FORMID": "1679B7",
+      "EDID": "VLootExplosivesNVCrateXXXTier1WorkshopHi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679B6",
+      "FORMID": "1679B6",
+      "EDID": "VLootExplosivesNVCrateXXXTier1Workshop",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1679B5",
+      "FORMID": "1679B5",
+      "EDID": "VLootExplosivesNVCrateXXXTier1Powder",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167863",
+      "FORMID": "167863",
+      "EDID": "VLootBurialMound03Tier2WastelandHi",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167821",
+      "FORMID": "167821",
+      "EDID": "VLootBriefcase01Lucky38",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B57",
+      "FORMID": "166B57",
+      "EDID": "VHDChineseStealthSuitCrate",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16568F",
+      "FORMID": "16568F",
+      "EDID": "VUltraLuxeWeaponsLocker",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF59",
+      "FORMID": "15EF59",
+      "EDID": "L38RefrigeratorWithLiquorNEW",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF58",
+      "FORMID": "15EF58",
+      "EDID": "L38RefrigeratorWithFoodNEW",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158890",
+      "FORMID": "158890",
+      "EDID": "SafehouseRefrigerator",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1538C0",
+      "FORMID": "1538C0",
+      "EDID": "VLootArmorTier3CombatArmor",
+      "FULL": "Maleta de Armadura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1538BC",
+      "FORMID": "1538BC",
+      "EDID": "VLootArmorTier1LeatherArmor",
+      "FULL": "Maleta de Armadura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1538B8",
+      "FORMID": "1538B8",
+      "EDID": "VLootArmorTier3RadiationSuitAdv",
+      "FULL": "Maleta de Traje Antirradiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C105",
+      "FORMID": "14C105",
+      "EDID": "NVCGFragGrenadeCrate",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C104",
+      "FORMID": "14C104",
+      "EDID": "NVCGC4Crate",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146F19",
+      "FORMID": "146F19",
+      "EDID": "VendorContainerJackDrugs",
+      "FULL": "Farmácia do Jack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1449C6",
+      "FORMID": "1449C6",
+      "EDID": "LakelurkEggClutchCont03a",
+      "FULL": "Ninhada de Ovos de Lakelurk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E651",
+      "FORMID": "13E651",
+      "EDID": "VRRCPapasDresser",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A6EA",
+      "FORMID": "13A6EA",
+      "EDID": "VBSMetalBoxFoodRespawning",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A27",
+      "FORMID": "136A27",
+      "EDID": "FortPlayerEquipmentContainer",
+      "FULL": "Armazenamento de Equipamentos da Arena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FEE6",
+      "FORMID": "12FEE6",
+      "EDID": "VMetalBoxFood",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B4D",
+      "FORMID": "122B4D",
+      "EDID": "VFSDealerVendorBox",
+      "FULL": "O Esconderijo de Dixon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A29F",
+      "FORMID": "11A29F",
+      "EDID": "VendorContainerVanGraffs",
+      "FULL": "Inventário dos Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:113213",
+      "FORMID": "113213",
+      "EDID": "VFreesideMickMerchantBox",
+      "FULL": "Container do Mercador Mick"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1093C0",
+      "FORMID": "1093C0",
+      "EDID": "NVGSCrateContainer",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1083E6",
+      "FORMID": "1083E6",
+      "EDID": "Footlocker01Boomer",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1083E4",
+      "FORMID": "1083E4",
+      "EDID": "NellisPearlBathroomLocker02",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1A",
+      "FORMID": "103B1A",
+      "EDID": "SSCrateContainerCaps",
+      "FULL": "Caixote de Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE2F8",
+      "FORMID": "0FE2F8",
+      "EDID": "V22EntranceDuffleBag",
+      "FULL": "Mochila de lona"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE2F7",
+      "FORMID": "0FE2F7",
+      "EDID": "V22KeelyGrenadeBag",
+      "FULL": "Mochila de lona"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F45F7",
+      "FORMID": "0F45F7",
+      "EDID": "VendorContainerFarber",
+      "FULL": "Loja do Farber"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F247F",
+      "FORMID": "0F247F",
+      "EDID": "VendorContainerDanielConterasSTASH",
+      "FULL": "Esconderijo do Daniel Contreras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5519",
+      "FORMID": "0E5519",
+      "EDID": "VendorContainerDanielConteras",
+      "FULL": "Suprimentos do Daniel Contreras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3412",
+      "FORMID": "0E3412",
+      "EDID": "VendorContainerTorres",
+      "FULL": "Baú do Torres"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD3CC",
+      "FORMID": "0CD3CC",
+      "EDID": "LootAmmoBoxEmpty",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CA015",
+      "FORMID": "0CA015",
+      "EDID": "BurialMound03Cont",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CA014",
+      "FORMID": "0CA014",
+      "EDID": "BurialMound02Cont",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D21E",
+      "FORMID": "08D21E",
+      "EDID": "VendorContainerCliffBriscoe",
+      "FULL": "Baú do Cliff Briscoe"
+    }
+  ]
+}

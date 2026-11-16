@@ -1,0 +1,116 @@
+{
+  "QUST": [
+    {
+      "FORM": "@Zeta.esm:0049FA",
+      "FORMID": "0049FA",
+      "EDID": "DLC05DeathRayQ",
+      "FULL": "Raio da Morte"
+    },
+    {
+      "FORM": "@Zeta.esm:003CB8",
+      "FORMID": "003CB8",
+      "EDID": "DLC05CryoQ",
+      "FULL": "Laboratório de Criogenia"
+    },
+    {
+      "FORM": "@Fallout3.esm:014E8A",
+      "FORMID": "014E8A",
+      "EDID": "MQ04",
+      "FULL": "Tranquility Lane",
+      "NNAM": {
+        "10": "Find and speak to Betty.",
+        "15": "Make Timmy Neusbaum cry.",
+        "20": "Report back to Betty.",
+        "25": "Break up the Rockwells' marriage, without killing either of them.",
+        "30": "Report back to Betty.",
+        "35": "Arrange a creative death for Mabel Henderson.",
+        "40": "Report back to Betty.",
+        "45": "Retrieve the mask and knife from behind the Abandoned House.",
+        "50": "Kill all the residents of Tranquility Lane.",
+        "60": "Report back to Betty.",
+        "70": "Exit Tranquility Lane.",
+        "32": "(Optional) Find and activate Tranquility Lane's Failsafe computer.",
+        "5": "Find Dad.",
+        "75": "Talk to Dad."
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:014E89",
+      "FORMID": "014E89",
+      "EDID": "MQ03",
+      "FULL": "Scientific Pursuits",
+      "NNAM": {
+        "10": "Gain entrance to Rivet City.",
+        "20": "Talk to Doctor Li about Dad and Project Purity.",
+        "30": "Look for Dad in Project Purity's Control Room.",
+        "40": "Search Dad's holotapes for clues to his location.",
+        "50": "Listen to Dad's personal journal entry 10.",
+        "60": "Gain access to Vault 112.",
+        "70": "Sit in the unoccupied \"Tranquility Lounger.\"",
+        "65": "Put on a Vault 112 suit."
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:004E1A",
+      "FORMID": "004E1A",
+      "EDID": "DLC05Conversations",
+      "FULL": "DLC05 NPC Conversações"
+    },
+    {
+      "FORM": "@Zeta.esm:00422E",
+      "FORMID": "00422E",
+      "EDID": "DLC05SpaceWalkQ",
+      "FULL": "Passeio Espacial"
+    },
+    {
+      "FORM": "@Zeta.esm:000804",
+      "FORMID": "000804",
+      "EDID": "DLC05MZ3",
+      "FULL": "A GALÁXIA É PEQUENA...",
+      "NNAM": {
+        "10": "Chegue à ponte da nave alienígena.",
+        "20": "Desative o Raio da Morte.",
+        "30": "Assegure a ponte.",
+        "40": "Derrote a nave alienígena hostil.",
+        "50": "Volte para a Capital Wasteland.",
+        "60": "(Opcional) Configure a nave alienígena para se autodestruir.",
+        "5": "Ative o teletransportador do motor central.",
+        "25": "Derrote o capitão Alienígena."
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:000803",
+      "FORMID": "000803",
+      "EDID": "DLC05MZ2",
+      "FULL": "Entre as Estrelas",
+      "NNAM": {
+        "10": "Solte os humanos em êxtase.",
+        "30": "Destrua o gerador do Laboratório de Criogenia.",
+        "40": "Destrua o gerador do Hangar.",
+        "50": "Destrua o gerador da Linha de Montagens Robóticas.",
+        "70": "Tenha acesso ao nível superior da nave alienígena.",
+        "20": "Fale com Sally.",
+        "60": "Fale com Sally.",
+        "80": "Encontre uma maneira de ativar o Teletransportador de Acesso.",
+        "35": "(Opcional) Solicite ajuda às pessoas que você reviveu."
+      }
+    },
+    {
+      "FORM": "@Zeta.esm:000802",
+      "FORMID": "000802",
+      "EDID": "DLC05MZ1",
+      "FULL": "Nada Deste Mundo",
+      "NNAM": {
+        "10": "Investigue o estranho sinal de rádio vindo de Wasteland.",
+        "20": "Encontre uma maneira de sair da cela.",
+        "30": "Recupere seu equipamento.",
+        "40": "Solte Sally de sua cela.",
+        "50": "Alcance a sala de engenharia da nave.",
+        "60": "(Opcional) Libere os outros prisioneiros de suas celas.",
+        "25": "Encene uma luta com Somah para chamar a atenção dos guardas.",
+        "27": "Derrote os guardas alienígenas.",
+        "35": "Continue a procurar uma maneira de sair das celas."
+      }
+    }
+  ]
+}

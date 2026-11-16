@@ -1,0 +1,166 @@
+{
+  "AVIF": [
+    {
+      "FORM": "@FalloutNV.esm:0005FA",
+      "FORMID": "0005FA",
+      "EDID": "AVDamageThreshold",
+      "FULL": "Limiar de Dano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F7",
+      "FORMID": "0005F7",
+      "EDID": "AVDehydration",
+      "FULL": "Desidratação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005EA",
+      "FORMID": "0005EA",
+      "EDID": "AVEnergyResist",
+      "FULL": "Resistência à Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E7",
+      "FORMID": "0005E7",
+      "EDID": "AVAssistance",
+      "FULL": "Assistência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E6",
+      "FORMID": "0005E6",
+      "EDID": "AVUnarmedDamage",
+      "FULL": "Dano Desarmado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E5",
+      "FORMID": "0005E5",
+      "EDID": "AVBloodyMess",
+      "FULL": "Bloody Mess"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E3",
+      "FORMID": "0005E3",
+      "EDID": "AVWaterBreathing",
+      "FULL": "Respiração Subaquática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E2",
+      "FORMID": "0005E2",
+      "EDID": "AVFireResist",
+      "FULL": "Resistência ao Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E0",
+      "FORMID": "0005E0",
+      "EDID": "AVNightEye",
+      "FULL": "Visão Noturna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005DF",
+      "FORMID": "0005DF",
+      "EDID": "AVChameleon",
+      "FULL": "Campo de Furtividade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005DE",
+      "FORMID": "0005DE",
+      "EDID": "AVInvisibility",
+      "FULL": "Invisibilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005DD",
+      "FORMID": "0005DD",
+      "EDID": "AVParalysis",
+      "FULL": "Paralisia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000518",
+      "FORMID": "000518",
+      "EDID": "AVMood",
+      "FULL": "Humor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000517",
+      "FORMID": "000517",
+      "EDID": "AVResponsibility",
+      "FULL": "Responsabilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000516",
+      "FORMID": "000516",
+      "EDID": "AVEnergy",
+      "FULL": "Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000515",
+      "FORMID": "000515",
+      "EDID": "AVConfidence",
+      "FULL": "Confiança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000514",
+      "FORMID": "000514",
+      "EDID": "AVAggression",
+      "FULL": "Agressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045F",
+      "FORMID": "00045F",
+      "EDID": "AVBrainCondition",
+      "FULL": "Condição do Cérebro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045E",
+      "FORMID": "00045E",
+      "EDID": "AVRightMobilityCondition",
+      "FULL": "Condição da Perna Direita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045D",
+      "FORMID": "00045D",
+      "EDID": "AVLeftMobilityCondition",
+      "FULL": "Condição da Perna Esquerda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045C",
+      "FORMID": "00045C",
+      "EDID": "AVRightAttackCondition",
+      "FULL": "Condição do Braço Direito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045B",
+      "FORMID": "00045B",
+      "EDID": "AVLeftAttackCondition",
+      "FULL": "Condição do Braço Esquerdo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045A",
+      "FORMID": "00045A",
+      "EDID": "AVEnduranceCondition",
+      "FULL": "Condição do Tórax"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000459",
+      "FORMID": "000459",
+      "EDID": "AVPerceptionCondition",
+      "FULL": "Condição da Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000454",
+      "FORMID": "000454",
+      "EDID": "AVRadResist",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000453",
+      "FORMID": "000453",
+      "EDID": "AVPoisonResist",
+      "FULL": "Poison Resistance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000452",
+      "FORMID": "000452",
+      "EDID": "AVDamageResist",
+      "FULL": "Resistência a Dano"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "PROJ": [
+    {
+      "FORM": "@GunRunnersArsenal.esm:00094B",
+      "FORMID": "00094B",
+      "EDID": "NVDLC0512GaFlechetteProjectile",
+      "FULL": "Flechette Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC965",
+      "FORMID": "0FC965",
+      "EDID": "VMS08GrenadeFragProjectile",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05DEEB",
+      "FORMID": "05DEEB",
+      "EDID": "SatcomNukeProjectile",
+      "FULL": "Nuke do Satcom"
+    }
+  ]
+}

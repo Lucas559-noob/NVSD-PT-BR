@@ -1,0 +1,311 @@
+{
+  "PERK": [
+    {
+      "FORM": "@LonesomeRoad.esm:00C61F",
+      "FORMID": "00C61F",
+      "EDID": "NVDLC04CamaraderECompanionPerk",
+      "FULL": "Camarada-E",
+      "DESC": "Versão de companheiro do Camarader-E."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C24F",
+      "FORMID": "00C24F",
+      "EDID": "NVDLC04JustLuckyImAlivePerk",
+      "FULL": "Ainda Bem que Estou Vivo",
+      "DESC": "Você já passou por poucas e boas. Sempre que terminar uma luta com menos de 25% de Saúde, sua Sorte aumenta em +4 por 3 minutos. Você também fica imune a acertos críticos, e seus próprios acertos críticos infligem +50% de dano. (Requer Karma Neutro.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DE",
+      "FORMID": "00A6DE",
+      "EDID": "NVDLC04CertifiedTechPerk",
+      "FULL": "Técnico Certificado",
+      "DESC": "Seu conhecimento de componentes robóticos permite que você os quebre mais facilmente e salve seus cadáveres mecânicos. Você tem +25% de chance de acertar golpes críticos em robôs e também encontrará componentes mais úteis nos robôs que destruir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DD",
+      "FORMID": "00A6DD",
+      "EDID": "NVDLC04MarkedPerk",
+      "FULL": "Marcado",
+      "DESC": "Você enfrentou tortura nas mãos dos Homens Marcados... agora é hora da vingança. (+10% de Limiar de Dano e +10% de Dano contra os Homens Marcados)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBC",
+      "FORMID": "015BBC",
+      "EDID": "NVDLC03ReinforcedSpinePerk",
+      "FULL": "Coluna Reforçada",
+      "DESC": "Sua coluna voltou para o seu corpo, mas algumas tecnologias avançadas permanecem: seu torso agora pode ser aleijado de novo, mas seus bônus de Força (FOR) e Limiar de Dano (DT) dobraram! (+2)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBB",
+      "FORMID": "015BBB",
+      "EDID": "NVDLC03CardiacArrestPerk",
+      "FULL": "Parada Cardíaca",
+      "DESC": "Your heart is back in your body, but some advanced technologies remain: You are less resistant to poison (50%) and robots are only somewhat confused by you (25% less likely to score a critical hit) now. But on the bright side, healing items (chems) are even more effective!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276E",
+      "FORMID": "01276E",
+      "EDID": "NVDLC03TraitLogansLoophole",
+      "FULL": "Brecha de Logan",
+      "DESC": "Ninguém vai te mandar para o pasto, porque você vai continuar jovem (e no nível 30) para sempre! Você nunca mais vai ficar viciado em drogas, e elas vão durar o dobro do tempo... mas, depois dos 30, pode dar adeus à experiência, aos perks e aos pontos de habilidade!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276D",
+      "FORMID": "01276D",
+      "EDID": "NVDLC03TraitHoarder",
+      "FULL": "Acumulador",
+      "DESC": "Você ganha +25 kg na sua capacidade de carga, mas sofre -1 em todos os atributos sempre que o peso que estiver carregando cair abaixo de 160 kg"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276B",
+      "FORMID": "01276B",
+      "EDID": "NVDLC03TraitHotBlooded",
+      "FULL": "Sangue Quente",
+      "DESC": "Quando sua saúde cair abaixo de 50%, você ganha +15% de dano, mas também sofre -2 de Agilidade e Percepção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E845",
+      "FORMID": "00E845",
+      "EDID": "NVDLC03AuralStealthSuitPerk",
+      "FULL": "Traje Furtivo Mk II",
+      "DESC": "The latest software patch for the Stealth Suit Mk II.\nV1.1: Damping Sensors (+10 Sneak)\nV1.2: Aural Subnet (+1 PER)\nV1.3: Synced Fitment (+1 AGL)\nV1.4: Impulse Accelerator (Increased sneak speed)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C88F",
+      "FORMID": "00C88F",
+      "EDID": "NVDLC03X13RobotCompliance",
+      "FULL": "Conformidade Robótica",
+      "DESC": "Com a vantagem \"Conformidade Robótica\", aproximar-se sorrateiramente de um robô hostil sem ser detectado e ativá-lo fará com que o robô entre em estado de desligamento permanente."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C9",
+      "FORMID": "0098C9",
+      "EDID": "NVDLC03ThemsGoodEatingPerk",
+      "FULL": "Bons Tempos Gastronômicos",
+      "DESC": "Qualquer criatura viva que você matar tem 50% de chance de ter os itens de cura potentes Pasta Vermelha Rala ou Salsicha de Sangue ao ser saqueada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C2",
+      "FORMID": "0098C2",
+      "EDID": "NVDLC03HeartlessPerk",
+      "FULL": "Sem Coração",
+      "DESC": "Seu coração foi substituído por tecnologias avançadas: você não pode ser envenenado, e filtros no seu coração também regularão sangramento e cura, permitindo que todos os itens de cura (químicos) funcionem em um nível mais alto. Robôs agora ficam confusos com você e têm 50% menos chances de acertar um ataque crítico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009617",
+      "FORMID": "009617",
+      "EDID": "NVDLC03DNAgentPerk",
+      "FULL": "DNAgent",
+      "DESC": "Estudar esquemas sobre as abominações criadas no Big MT concedeu a você um bônus de dano (+10%) contra os Perseguidor Noturnos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008011",
+      "FORMID": "008011",
+      "EDID": "NVDLC03AtomicPerk",
+      "FULL": "Atômico!",
+      "DESC": "Com a vantagem \"Atômico!\", você fica 25% mais rápido e forte sempre que estiver aproveitando o brilho quente da radiação. Fora das áreas irradiadas, seus Pontos de Ação (PA) se regeneram cada vez mais rápido quanto maior for o seu nível de doença por radiação."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F677",
+      "FORMID": "00F677",
+      "EDID": "NVDLC02Grunt",
+      "FULL": "Soldado Raso",
+      "DESC": "Só trabalho bom e honesto de infantaria! Você causa 25% a mais de dano com pistolas 9mm e .45 Auto e SMGs, Fuzis de Serviço, Carabinas de Assalto e de Atirador, Metralhadoras Leves, Granadas de Fragmentação, Lança-granadas e Fuzis de Combate, e Facas de Combate."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F5",
+      "FORMID": "00B2F5",
+      "EDID": "NVDLC02WayOfTheCanaanite",
+      "FULL": "Caminho do Cananeu",
+      "DESC": "Você aprendeu as técnicas avançadas de manuseio de armas dos Neocanaanitas. Para você, todos os disparos com pistolas .45 Auto têm menos dispersão e são duas vezes mais propensos a causar um acerto crítico."
+    },
+    {
+      "FORM": "@DeadMoney.esm:013B26",
+      "FORMID": "013B26",
+      "EDID": "NVDLC01InMyFootsteps",
+      "FULL": "Em Meus Passos",
+      "DESC": "Quando Deus é um companheiro, ele concede a você furtividade aumentada, bem como a habilidade de andar levemente ao redor de armadilhas colocadas."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00FB6A",
+      "FORMID": "00FB6A",
+      "EDID": "NVDLC01JunkRounds",
+      "FULL": "Sucateiro de Munição",
+      "DESC": "Sobrevivência é a mãe da invenção! Crie munição na Bancada de Recarga usando materiais alternativos (Sucata e Latas)."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F96F",
+      "FORMID": "00F96F",
+      "EDID": "NVDLC01OldWorldGourmet",
+      "FULL": "Gourmet do Velho Mundo",
+      "DESC": "Thanks to unclean living you've learned the secrets of the lounge lizards! \n+25% Addiction Resistance. +50% Health bonus from Snack Foods. Scotch, Vodka and Wine now give you Health in addition to their normal effects."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00E87B",
+      "FORMID": "00E87B",
+      "EDID": "NVDLC01LightTouch",
+      "FULL": "Toque Leve",
+      "DESC": "Armadura pesada não é a sua praia, então você aprendeu a customizar armaduras leves para o máximo benefício. Ao usar armadura leve, você ganha +5% de chance de acerto crítico e seus inimigos sofrem -25% de chance de acerto crítico."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4A9",
+      "FORMID": "00D4A9",
+      "EDID": "NVDLC01ElijahRamblings",
+      "FULL": "Divagações de Elijah",
+      "DESC": "Elijah obviously intended this to go to Veronica, but you earned it, right?\n\nYou've learned Elijah's secret Melee Weapon technique and your Critical Hits now do 50% more damage."
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4A8",
+      "FORMID": "00D4A8",
+      "EDID": "NVDLC01ElijahLastWords",
+      "FULL": "Últimas Palavras de Elijah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AEC",
+      "FORMID": "165AEC",
+      "EDID": "TheProfessional",
+      "FULL": "O Profissional",
+      "DESC": "De perto e pessoal, é assim que você gosta. Seus Ataques Furtivos Críticos com pistolas, revólveres e submetralhadoras, sejam Armas ou Armas de Energia, causam 20% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16578B",
+      "FORMID": "16578B",
+      "EDID": "ShotgunSurgeon",
+      "FULL": "Cirurgião de Escopeta",
+      "DESC": "Sua precisão com uma escopeta é algo de se admirar. Ao usar escopetas, independente da munição usada, você ignora 10 pontos adicionais da Resistência a Dano do alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165449",
+      "FORMID": "165449",
+      "EDID": "Stonewall",
+      "FULL": "Paredão",
+      "DESC": "Você ganha +5 de Limite de Dano contra todas as Armas Brancas e ataques Desarmados e não pode ser derrubado em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165447",
+      "FORMID": "165447",
+      "EDID": "UnstoppableForce",
+      "FULL": "Força Incontrolável",
+      "DESC": "Sua força marcial é verdadeiramente lendária. Você causa uma grande quantidade de dano adicional através dos bloqueios inimigos com todas as Armas de Combate Corpo a Corpo e ataques Desarmados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1651B6",
+      "FORMID": "1651B6",
+      "EDID": "HitTheDeck",
+      "FULL": "Abaixar",
+      "DESC": "Seu extenso conhecimento de Explosivos permite que você ignore uma parte do dano deles. Sua Tolerância a Dano aumenta em 25 contra todos os Explosivos, até mesmo os seus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165181",
+      "FORMID": "165181",
+      "EDID": "SprayAndPray",
+      "FULL": "Atirar e Rezar!",
+      "DESC": "Seus ataques causam muito menos dano a companheiros, permitindo que você espalhe balas em uma área com abandono imprudente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:164ED1",
+      "FORMID": "164ED1",
+      "EDID": "LooseCannon",
+      "FULL": "Canhão Solto",
+      "DESC": "De granadas de fragmentação a lanças de arremesso, você pode arremessar armas 30% mais rápido, mas com 25% menos alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613BE",
+      "FORMID": "1613BE",
+      "EDID": "SpicyCasserole",
+      "FULL": "Caçarola Apimentada",
+      "DESC": "Esta receita permite que você faça a caçarola apimentada da Ruby."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE1",
+      "FORMID": "15EAE1",
+      "EDID": "CannibalChallengePerk",
+      "FULL": "Coma e Vaze",
+      "DESC": "Com a vantagem \"Larica e Fuga\", quando você estiver em modo Furtivo, você ganha a opção de pegar partes de cadáveres para comer mais tarde."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADA",
+      "FORMID": "15EADA",
+      "EDID": "RadAwayChallengePerk",
+      "FULL": "Radical Livre",
+      "DESC": "Você obtém efeitos aprimorados do RadAway."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAD7",
+      "FORMID": "15EAD7",
+      "EDID": "InsectChallengePerk",
+      "FULL": "Esmaga-Insetos",
+      "DESC": "Arrancar as pernas das formigas te cai bem. Você ganha um bônus de dano contra insetos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60F",
+      "FORMID": "15C60F",
+      "EDID": "StealthGirl",
+      "FULL": "Garota Furtiva",
+      "DESC": "Enquanto Lily for uma companheira, a duração dos Stealth Boys é aumentada em 100% e todos os Acertos Críticos de Ataque Furtivo causam 10% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609E",
+      "FORMID": "14609E",
+      "EDID": "SuperSlam",
+      "FULL": "Super Pancada",
+      "DESC": "Todos os ataques Corpo a Corpo (exceto arremessáveis) e Desarmado têm uma chance de derrubar seu alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:146097",
+      "FORMID": "146097",
+      "EDID": "WeaponHandling",
+      "FULL": "Manejo de Armas",
+      "DESC": "Os requisitos de Força para armas agora são 2 pontos menores do que o normal para você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:136E14",
+      "FORMID": "136E14",
+      "EDID": "DeathclawOmelet",
+      "FULL": "Omelete de Destroçador",
+      "DESC": "Esta receita permite que você faça o famoso omelete de Deathclaw da Rose!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1361B4",
+      "FORMID": "1361B4",
+      "EDID": "ConfirmedBachelor",
+      "FULL": "Solteirão Convencido",
+      "DESC": "Em combate, você causa +10% de dano contra oponentes do sexo masculino. Fora de combate, você terá acesso a opções de diálogo únicos ao lidar com pessoas do mesmo sexo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC6",
+      "FORMID": "135EC6",
+      "EDID": "SmallFrame",
+      "FULL": "Estatura Delicada",
+      "DESC": "Devido ao seu tamanho pequeno, você tem +1 AGL, mas seus membros são mais facilmente aleijados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBC",
+      "FORMID": "094EBC",
+      "EDID": "Cannibal",
+      "FULL": "Canibal",
+      "DESC": "Com a vantagem \"Canibal\", quando você está no modo Furtivo, você ganha a opção de comer um cadáver para recuperar Saúde. Mas toda vez que você se alimenta, você perde Karma, e se o ato for testemunhado, é considerado um crime contra a natureza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE3",
+      "FORMID": "031DE3",
+      "EDID": "FortuneFinder",
+      "FULL": "Caçador de Fortunas",
+      "DESC": "Com o bônus Caçador de Fortunas, você encontrará consideravelmente mais tampinhas em contêineres do que normalmente encontraria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAD",
+      "FORMID": "031DAD",
+      "EDID": "MisterSandman",
+      "FULL": "Sr. Sandman",
+      "DESC": "Com a vantagem \"Sr. Sandman\", quando estiver em modo Furtivo, você ganha a opção de matar silenciosamente qualquer humano ou Necrótico enquanto eles estão dormindo. E, todas as mortes de Sr. Sandman ganham XP bônus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAC",
+      "FORMID": "031DAC",
+      "EDID": "HereandNow",
+      "FULL": "Aqui e Agora",
+      "DESC": "A vantagem \"Aqui e Agora\" concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    }
+  ]
+}

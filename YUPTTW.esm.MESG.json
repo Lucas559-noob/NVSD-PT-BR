@@ -1,0 +1,536 @@
+{
+  "MESG": [
+    {
+      "FORM": "@YUPTTW.esm:0066B0",
+      "FORMID": "0066B0",
+      "EDID": "NamedActorSecuritronMk2",
+      "FULL": "Securitron Mk II"
+    },
+    {
+      "FORM": "@YUPTTW.esm:0065A9",
+      "FORMID": "0065A9",
+      "EDID": "NamedActorSecuritronMk1",
+      "FULL": "Securitron Mk I"
+    },
+    {
+      "FORM": "@YUPTTW.esm:0065A8",
+      "FORMID": "0065A8",
+      "EDID": "NamedActorVictor",
+      "FULL": "Victor"
+    },
+    {
+      "FORM": "@YUPTTW.esm:00641B",
+      "FORMID": "00641B",
+      "EDID": "NamedCellBeagleResidence",
+      "FULL": "Residência do Beagle"
+    },
+    {
+      "FORM": "@YUPTTW.esm:00641A",
+      "FORMID": "00641A",
+      "EDID": "NamedActorBeagle",
+      "FULL": "Beagle"
+    },
+    {
+      "FORM": "@YUPTTW.esm:00500B",
+      "FORMID": "00500B",
+      "EDID": "NVDLC04VoraciousReaderSummaryMSGOnlyOne",
+      "FULL": "Livro convertido",
+      "DESC": "Converteu 1 livro danificado em uma revista em branco."
+    },
+    {
+      "FORM": "@YUPTTW.esm:00441C",
+      "FORMID": "00441C",
+      "EDID": "NVDLC04VoraciousReaderSummaryMSG",
+      "FULL": "Livros convertidos",
+      "DESC": "Converteu %g livros danificados em revistas em branco."
+    },
+    {
+      "FORM": "@YUPTTW.esm:000843",
+      "FORMID": "000843",
+      "EDID": "GenericEquipmentRestoredMSG",
+      "FULL": "Equipment Restored",
+      "DESC": "Você recuperou seu equipamento confiscado."
+    },
+    {
+      "FORM": "@YUPTTW.esm:000841",
+      "FORMID": "000841",
+      "EDID": "NVDLC01ReturnEquipmentMSG",
+      "FULL": "Equipamento Devolvido",
+      "DESC": "Você recupera o equipamento confiscado pelo sistema de segurança da Sierra Madre."
+    },
+    {
+      "FORM": "@YUPTTW.esm:000809",
+      "FORMID": "000809",
+      "EDID": "VMS18MembersOnlyDoorWarning",
+      "FULL": "Aviso",
+      "DESC": "Não membros encontrados na área exclusiva para membros da White Glove Society serão expulsos na hora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FD",
+      "FORMID": "0092FD",
+      "EDID": "NVDLC04Silo01MainframeMSG02",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "O mainframe está bloqueado com uma sequência de criptografia segura de nível militar. Você precisará encontrar os códigos de segurança e carregá-los no ED-E para obter acesso ao mainframe."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9B",
+      "FORMID": "015F9B",
+      "EDID": "NVDLC03HQBrainJarEmptyMSG",
+      "DESC": "Com base nos outros tanques na sala, você pode presumir com segurança que é aqui que seu cérebro estaria flutuando. Ele está atualmente ausente tanto do tanque quanto do lugar apropriado em sua cabeça, mas parece que você está indo muito bem sem ele."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBE",
+      "FORMID": "015BBE",
+      "EDID": "NVDLC03HQSpineJarMSG",
+      "DESC": "Aqui está sua coluna. Sem um tronco encefálico para encaixá-la, ela flutua aqui. Suas costas não parecem diferentes depois da remoção da coluna — na verdade, o que quer que tenha sido colocado ali faz você se sentir mais forte."
+    },
+    {
+      "FORM": "@DeadMoney.esm:01340F",
+      "FORMID": "01340F",
+      "EDID": "NVDLC01SuitesAutoDocMsg",
+      "FULL": "Auto-Doc",
+      "DESC": "Este Auto-Doc com aparência incomum ainda tem uma série de diodos e botões que parecem funcionar.",
+      "ITXT": [
+        "Leave the Auto-Doc alone.",
+        "Heal all crippled limbs.",
+        "Inject adrenaline to cure exhaustion.",
+        "[Download Medical History]"
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:012EA1",
+      "FORMID": "012EA1",
+      "EDID": "NVDLC01KitchenFrontEntranceWarningMsg",
+      "DESC": "Esta porta está hermeticamente selada devido ao vazamento de gás e à anulação de Elijah. Ela não abrirá até que as válvulas sejam desligadas e Dog seja tratado.",
+      "ITXT": [
+        "Do nothing.",
+        "<Use a Chave de Manutenção para abrir a porta>"
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00ECED",
+      "FORMID": "00ECED",
+      "EDID": "NVDLC01Gala02ElevatorStartMsg",
+      "DESC": "O painel ao lado do elevador tem botões para subir ou descer.",
+      "ITXT": [
+        "Leave the elevator alone.",
+        "Push the Up button.",
+        "Go up with Christine.",
+        "Push the Down button.",
+        "Push the Down button."
+      ]
+    },
+    {
+      "FORM": "@DeadMoney.esm:00D4AA",
+      "FORMID": "00D4AA",
+      "EDID": "NVDLC01MessagePerkElijahLastWords",
+      "DESC": "Veronica has received the Elijah's Last Words perk.\n\nShe has learned a secret Unarmed Weapon technique that increases her attack speed by 50%% and gives her a 25%% chance to knock down enemies."
+    },
+    {
+      "FORM": "@FalloutNV.esm:173726",
+      "FORMID": "173726",
+      "EDID": "HelpReputationJosh",
+      "FULL": "Reputação",
+      "DESC": "You have established a reputation with a group of people in the wasteland! Whether that reputation is good or bad, you're finally somebody, and people associated with that group will start to react to what you've done. There are many different factions in the wasteland, and you can develop a distinct reputation with each one.\n\nAs you perform actions that benefit a group, you will gain Fame. If you perform actions that harm a group, you will gain Infamy. Your reputation with any given group is a measure of the combined total of Fame and Infamy that you have earned. The benefits and drawbacks of any given reputation depend on the group itself. You may receive discounts with merchants, provoke attacks from hired thugs, or simply be treated differently.\n\nThough you will initially start out with a Neutral reputation with any given faction, your Fame and Infamy will eventually push your reputation in different directions. You can see all of your current reputations under the General section of your Pip-Boy.\n\nGood Reputations:\n* Smiling Troublemaker - Some good, a little bad.\n* Good Natured Rascal - Good, a little bad.\n* Accepted - Some good.\n* Liked - Definitely good.\n* Idolized - Most good.\n\nMixed Reputations:\n* Soft-Hearted Devil - More bad than good.\n* Dark Hero - More good than bad.\n* Mixed - Some good, some bad.\n* Unpredictable - Good and bad.\n* Wild Child - Most good, most bad.\n\nBad Reputations:\n* Sneering Punk - Some bad, a little good.\n* Merciful Thug - Bad, a little good.\n* Shunned - Some bad.\n* Hated - Definitely bad.\n* Vilified - Most bad."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1717D3",
+      "FORMID": "1717D3",
+      "EDID": "EDERepair04",
+      "FULL": "Eyebot Duraframe Danificado",
+      "DESC": "Parece que os servos e giroscópios danificados poderiam ser substituídos com os componentes corretos (Requer 3 Sucatas de Metal, 2 Módulos de Sensor e algumas Sucatas Eletrônicas)",
+      "ITXT": [
+        "Leave It Alone",
+        "Fix It With The Parts",
+        "Try To Fix It Without Parts (Repair)",
+        "Examine The Electronics (Science)"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B8C",
+      "FORMID": "166B8C",
+      "EDID": "V22KochFixedMsg",
+      "DESC": "Você consegue colocar a maioria dos sistemas do robô em funcionamento, mas os ativadores das pernas estão além de qualquer conserto, deixando-o imóvel."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16663C",
+      "FORMID": "16663C",
+      "EDID": "VEFR01NCREmergencyRadioMSG",
+      "FULL": "Rádio de Emergência da NCR",
+      "DESC": "Pedir Reforços da NCR?",
+      "ITXT": [
+        "Cancel [no support]",
+        "Call for NCR Supply Support",
+        "Call for NCR Trooper Support",
+        "Call for NCR Ranger Support",
+        "NCR Support Exhausted - Resupply at 2400 hours",
+        "Outside NCR Operational Area - Relocate and repeat transmission",
+        "Reputation with NCR too low - Support Withdrawn",
+        "Dismiss NCR Soldier"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F236",
+      "FORMID": "15F236",
+      "EDID": "vMojaveExpressMessageOpen",
+      "FULL": "Envios e Recebimentos da Mojave Express"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F233",
+      "FORMID": "15F233",
+      "EDID": "vMojaveExpressShippingMessage",
+      "FULL": "Envios e Recebimentos da Mojave Express",
+      "DESC": "Bem-vindo à Expresso Mojave!",
+      "ITXT": [
+        "Close Box",
+        "Pick Up Items",
+        "Ship To New Vegas Strip",
+        "Ship To Freeside",
+        "Ship To Novac",
+        "Ship To Primm",
+        "Ship To Goodsprings"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:157263",
+      "FORMID": "157263",
+      "EDID": "Lucky38ElevatorMessageVictor",
+      "FULL": "Escolha Um Andar",
+      "DESC": "Aonde vamos, parceiro?",
+      "ITXT": [
+        "Stay Here",
+        "Basement",
+        "Casino",
+        "Presidential Suite",
+        "Cocktail Lounge",
+        "Penthouse"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B3E9",
+      "FORMID": "14B3E9",
+      "EDID": "vHDNCRRadioMessageRacket03",
+      "DESC": "O ataque está vindo dos Omertas. Eles estão usando algum tipo de gás para matar todos nos cassinos da Strip. Como isso é possível?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1356AA",
+      "FORMID": "1356AA",
+      "EDID": "VHDVertibirdSearchLowSkill1Msg",
+      "DESC": "Você examina o vertibird e vê algo estranho. Olha mais de perto, mas não tem certeza de que há algo errado; ainda assim, tem um mau pressentimento sobre isso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B65",
+      "FORMID": "134B65",
+      "EDID": "BoSFactionOutfitWarningOff",
+      "DESC": "Você não está mais vestido como um membro da Irmandade de Aço."
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B64",
+      "FORMID": "134B64",
+      "EDID": "BoSFactionOutfitWarning",
+      "DESC": "Você agora está vestido como um membro da Irmandade de Aço."
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AF2A",
+      "FORMID": "12AF2A",
+      "EDID": "SVMainConsoleMsg",
+      "FULL": "Securitron Operations Console",
+      "DESC": "Este é o console de operações Securitron do cofre Securitron. Atualizações de software podem ser instaladas a partir deste console.",
+      "ITXT": [
+        "Leave the console alone.",
+        "Insert the Platinum Chip and install the Mk. II upgrade software."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:12ADF6",
+      "FORMID": "12ADF6",
+      "EDID": "SVPumpControlMsg",
+      "FULL": "Controle da Bomba",
+      "DESC": "Este console regula as bombas que impedem o Lago Mead de inundar as galerias de armazenamento dos Securitrons.",
+      "ITXT": [
+        "Leave the console alone.",
+        "Plant the explosive charge."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1295C7",
+      "FORMID": "1295C7",
+      "EDID": "VFSPacerJetMainNoMedicineMsg",
+      "DESC": "The box contains a large amount of Jet. If you knew more about pharmaceuticals, you might be able to taint the Jet to make it lethal to use.\n(Medicine 60 or higher required)",
+      "ITXT": [
+        "Deixe o Jet em paz.",
+        "Pegar o Jet.",
+        "Take the Jet and leave Ralph's forged letter.",
+        "Take the Jet and leave Jean-Baptiste's letter."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1295C5",
+      "FORMID": "1295C5",
+      "EDID": "VFSPacerJetTakeMsg",
+      "DESC": "Você considera pegar o Jet, mas percebe que seria melhor se conseguisse culpar outra pessoa pelo roubo. De preferência alguém que Pacer odeie."
+    },
+    {
+      "FORM": "@FalloutNV.esm:129110",
+      "FORMID": "129110",
+      "EDID": "Lucky38ReactorActiveMsg",
+      "FULL": "Subestação El Dorado",
+      "DESC": "Power the Substation.",
+      "ITXT": [
+        "Leave the access point alone.",
+        "Power the Substation."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:125C2D",
+      "FORMID": "125C2D",
+      "EDID": "FortHowitzerMsg",
+      "FULL": "Obus",
+      "DESC": "Sem um mecanismo de disparo de reposição, este obus é inútil.",
+      "ITXT": [
+        "Leave the howitzer alone.",
+        "Replace the firing mechanism."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1258E1",
+      "FORMID": "1258E1",
+      "EDID": "VMS35AutoDocBrokenMsg",
+      "DESC": "Este é um Auto-Doc Mark III, usado principalmente para cirurgias de rotina. No entanto, a unidade de escaneamento de diagnóstico está queimada, tornando este Auto-Doc inútil.",
+      "ITXT": [
+        "Leave it alone.",
+        "Install the replacement diagnostic scanning unit."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:122B78",
+      "FORMID": "122B78",
+      "EDID": "VMS30TrooperInjuredNoOperateYet",
+      "DESC": "Este é um dos pacientes do Dr. Richards. Você deve falar com ele antes de investigá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1205C1",
+      "FORMID": "1205C1",
+      "EDID": "VFSPacerJetMainMsg",
+      "DESC": "A caixa contém uma grande quantidade de Jet. Você poderia misturar o Jet com um pouco de Psycho se tivesse algum.",
+      "ITXT": [
+        "Deixe o Jet em paz.",
+        "Pegar o Jet.",
+        "Take the Jet and leave Ralph's forged letter.",
+        "Take the Jet and leave Jean-Baptiste's letter.",
+        "Spike the Jet with Psycho."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F978",
+      "FORMID": "11F978",
+      "EDID": "VMS21ProstituteMessage1",
+      "DESC": "Esta mulher está morta. Deseja examiná-la para ver se consegue mais informações? (Medicina 35 ou superior necessária)",
+      "ITXT": [
+        "Leave The Body Alone",
+        "Inspect The Body"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E661",
+      "FORMID": "11E661",
+      "EDID": "VCG01CasualHardcoreMessage",
+      "FULL": "Modo Hardcore",
+      "DESC": "Fallout: New Vegas allows you to play in a new Hardcore mode that greatly increases the challenge of the game. In this mode, Stimpaks heal over time and cannot mend broken limbs, RadAway removes radiation over time, ammunition has weight, and dehydration is a constant concern. This mode is only recommended for advanced players.\n\nYou may turn Hardcore mode on or off at any time in the Gameplay menu, but if you activate Hardcore mode now and maintain it through the end of the main storyline, you will receive a special reward. Would you like to activate Hardcore mode?",
+      "ITXT": [
+        "No (Recommended)",
+        "Yes"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1188D1",
+      "FORMID": "1188D1",
+      "EDID": "BoulderCityMsg",
+      "FULL": "Mensagem do Holodisco Ranger",
+      "DESC": "\"We're cut off from the rest of the platoon, and there are legionnaires all over the place. There's no chance we can get out of here before they blow the town, so we're going to hold out against them as long as we can. If anyone ever gets this, I'd like to make sure that Private Jeffery Hui and Corporal Marcus Christensen are commended for their valor and sacrifice. Both have upheld the ideals and honor of the New California Republic with distinction. Ranger Teresa Lutz, out.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:116A54",
+      "FORMID": "116A54",
+      "EDID": "Lucky38ElevatorMessage",
+      "FULL": "Escolha Um Andar",
+      "DESC": "Para qual andar você gostaria de ir?",
+      "ITXT": [
+        "Stay Here",
+        "Penthouse",
+        "Cocktail Lounge",
+        "Presidential Suite",
+        "Casino",
+        "Basement"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:104EB7",
+      "FORMID": "104EB7",
+      "EDID": "InjuredBoomerNoOperateYet",
+      "DESC": "Este é um dos pacientes de Argyll. Você deve falar com ele antes de investigá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:100A00",
+      "FORMID": "100A00",
+      "EDID": "InjuredBoomerLowSkill3Msg",
+      "DESC": "Este homem parece estar gravemente ferido. O inchaço ao redor do rosto e do pescoço está interferindo na respiração. O tratamento inadequado vai matá-lo. Tem certeza de que deseja tratá-lo? (Medicina 60 ou superior necessária)",
+      "ITXT": [
+        "Leave him alone.",
+        "Attempt to treat him."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009FE",
+      "FORMID": "1009FE",
+      "EDID": "InjuredBoomer2Msg",
+      "DESC": "A perna deste homem está gravemente ferida. Pode ser necessária a amputação para salvá-lo. Tem certeza de que deseja tentar a operação? (Medicina 50 ou superior necessária)",
+      "ITXT": [
+        "Never mind. Leave him alone.",
+        "Perform the operation.",
+        "CHOP! CHOP! CHOP! (Low Intelligence)"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009FD",
+      "FORMID": "1009FD",
+      "EDID": "InjuredBoomerLowSkill2Msg",
+      "DESC": "A perna deste homem está seriamente danificada e exigirá amputação. O tratamento inadequado vai matá-lo. Tem certeza de que deseja tentar a operação? (Medicina 50 ou superior necessária)",
+      "ITXT": [
+        "Leave him alone.",
+        "Attempt to treat him.",
+        "CHOP! CHOP! CHOP! (Low Intelligence)"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009D0",
+      "FORMID": "1009D0",
+      "EDID": "InjuredBoomerMsg",
+      "DESC": "Este homem parece ter uma infecção grave. O tratamento inadequado vai matá-lo. Deseja tratá-lo? (Medicina 40 ou superior necessária)",
+      "ITXT": [
+        "Leave him alone.",
+        "Treat the infection."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:1009CB",
+      "FORMID": "1009CB",
+      "EDID": "InjuredBoomerLowSkillMsg",
+      "DESC": "Este homem parece ter uma infecção grave. O tratamento inadequado vai matá-lo. Deseja tratá-lo? (Medicina 40 ou superior necessária)",
+      "ITXT": [
+        "Leave him alone.",
+        "Attempt to treat him."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE9F4",
+      "FORMID": "0FE9F4",
+      "EDID": "ElReyMotelThreatMsg",
+      "FULL": "Bilhete de Ameaça",
+      "DESC": "A nota diz: \"Sua dívida ainda não foi paga. Já o avisamos duas vezes. Não haverá um terceiro aviso, apenas consequências. Você tem um dia.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F575C",
+      "FORMID": "0F575C",
+      "EDID": "McCarranFoodProcessorSuccessRepairMsg",
+      "DESC": "[SUCESSO] Contornando vários coprocessadores redundantes quebrados usando nada mais que clipes de papel, fita adesiva e um canivete suíço de soldado, você consegue fazer a máquina funcionar!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F575B",
+      "FORMID": "0F575B",
+      "EDID": "McCarranFoodProcessorFailRepairMsg",
+      "DESC": "[FALHOU] Você não tem habilidade para improvisar a máquina. Depois de vasculhar todas as peças quebradas, você se sente sobrecarregado e desiste."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACD1",
+      "FORMID": "0EACD1",
+      "EDID": "REPCONHQTourMessage05",
+      "FULL": "\"Preparar, Apontar, Fogo!\"",
+      "DESC": "Force your parents a short drive south, and you'll see the retractable dome of REPCONN's launch facility (not actual size!). You may have heard wild stories about rocket flights and their impact* on nearby towns and communities, but REPCONN feels you can't put a price on space exploration - after all, Rocketeers, you do want to go into space someday... don't you?\n\n* Statement is figurative and inadmissible as evidence in a court of law."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACCA",
+      "FORMID": "0EACCA",
+      "EDID": "REPCONHQTourMessage13",
+      "FULL": "\"Tem Rodas!\"",
+      "DESC": "Some folks have asked - why not a Protectron with wheels? RobCo wasn't afraid to answer that question: The Protect-O-Bot is the answer. While safety standards prevented this free-wheeling dynamo from entering mass market production despite RobCo's best intentions and teams of lawyers, we take consolation in letting you see this extremely well-funded experiment as it was intended - a robot moving so fast it looks like it's standing still!\n\nExhibit Brought to You By Your Friends at RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACC6",
+      "FORMID": "0EACC6",
+      "EDID": "REPCONHQTourMessage03",
+      "FULL": "\"Lixo radioativo?\"",
+      "DESC": "We've all heard \"stories\" that radiation is dangerous - fact or fiction?* A common sight in factories, military installations, and the basements of selected government-funded middle schools, these safety barrels* are just what the name implies - safe. While their attractive coloring can be interpreted as a warning, for REPCONN, it's an invitation to a future filled with nuclear power!\n\n* Rhetorical questions and nomenclature of exhibit items cannot be used as a basis for criminal prosecution."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9555",
+      "FORMID": "0E9555",
+      "EDID": "BMRhondaBrokenNoSkillMsg",
+      "DESC": "The robot lies inert on the table, giving no indication of having worked recently, or ever. A nameplate on part of the surface is scratched and mostly faded, but you can still make out the faint word \"Rhonda\". If you knew more about how robots function, you might be able to get it working again.\n\n(Science 60 or greater required.)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8FA4",
+      "FORMID": "0E8FA4",
+      "EDID": "EastPumpStationTermMsg",
+      "FULL": "Terminal da Estação de Bombeamento",
+      "DESC": "Some sort of data corruption has made the user interface illegible. The damage doesn't seem to go any deeper than that since the pump station is still online.\n\n[Science of 50 or greater required to repair.]",
+      "ITXT": [
+        "Leave the terminal alone.",
+        "Repair the network connection."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3637",
+      "FORMID": "0E3637",
+      "EDID": "VHeliosPythonMessage",
+      "FULL": "PYTHON",
+      "DESC": "This robot has been fitted with a variety of tools specialized for industrial maintenance. There is a slot at the back of the head where it looks like a keycard could be fit. \n\n(Science of 45 or Poseidon Energy ID Card required)",
+      "ITXT": [
+        "Do nothing.",
+        "[Science] Hardwire the robot to run on autopilot in repair mode.",
+        "Insira o Cartão de ID da Poseidon Energy."
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D95F",
+      "FORMID": "09D95F",
+      "EDID": "GenericGasValveSkillMsg",
+      "DESC": "Você examina a válvula de gás quebrada e conclui que é possível consertá-la. Deseja consertá-la?",
+      "ITXT": [
+        "Repair the Gas Valve",
+        "Leave it Alone"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:0506CF",
+      "FORMID": "0506CF",
+      "EDID": "StatesmanHotel02ElevatorSkillMsg",
+      "DESC": "Você examina o painel quebrado do elevador e conclui que é possível consertá-lo. Deseja consertá-lo?",
+      "ITXT": [
+        "Repair the Elevator Panel",
+        "Leave it Alone"
+      ]
+    },
+    {
+      "FORM": "@FalloutNV.esm:00018F",
+      "FORMID": "00018F",
+      "EDID": "HelpReputation",
+      "FULL": "Reputação",
+      "DESC": "You have established a reputation with a group of people in the wasteland! Whether that reputation is good or bad, you're finally somebody, and people associated with that group will start to react to what you've done. There are many different factions in the wasteland, and you can develop a distinct reputation with each one.\n\nAs you perform actions that benefit a group, you will gain Fame. If you perform actions that harm a group, you will gain Infamy. Your reputation with any given group is a measure of the combined total of Fame and Infamy that you have earned. The benefits and drawbacks of any given reputation depend on the group itself. You may receive discounts with merchants, provoke attacks from hired thugs, or simply be treated differently.\n\nThough you will initially start out with a Neutral reputation with any given faction, your Fame and Infamy will eventually push your reputation in different directions. You can see all of your current reputations under the General section of your Pip-Boy.\n\nGood Reputations:\n* Smiling Troublemaker - Some good, a little bad.\n* Good Natured Rascal - Good, a little bad.\n* Accepted - Some good.\n* Liked - Definitely good.\n* Idolized - Most good.\n\nMixed Reputations:\n* Soft-Hearted Devil - More bad than good.\n* Dark Hero - More good than bad.\n* Mixed - Some good, some bad.\n* Unpredictable - Good and bad.\n* Wild Child - Most good, most bad.\n\nBad Reputations:\n* Sneering Punk - Some bad, a little good.\n* Merciful Thug - Bad, a little good.\n* Shunned - Some bad.\n* Hated - Definitely bad.\n* Vilified - Most bad."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00018B",
+      "FORMID": "00018B",
+      "EDID": "HelpApparel",
+      "FULL": "Vestimenta",
+      "DESC": "Apparel can consist of many different types of gear ranging from clothing and armor to sunglasses and hats.\n\n* DT: Some apparel grants Damage Threshold (DT) to the wearer. Your DT is the sum of all DT for currently equipped apparel plus any bonuses from perks or chems. DT is directly subtracted from incoming damage, so a higher DT provides superior protection. Though a small percentage of damage can get through even the thickest armor, a high DT is quite valuable.\n\n* CND: Apparel's Condition (CND) affects how much protection it provides. Apparel above 50% CND provides maximum protection and only needs to be maintained.\n\n* Light/Medium/Heavy: Medium and Heavy apparel will slow characters down when equipped.\n\n* Repair: This option opens the Repair submenu, which allows apparel to be repaired by salvaging parts from similar items."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00018A",
+      "FORMID": "00018A",
+      "EDID": "HelpWeapons",
+      "FULL": "Armas",
+      "DESC": "All weapons fall under a weapon skill category that determines how effective the weapon is: Guns, Energy Weapons, Explosives, Melee Weapons, or Unarmed. Compare the small icon below and to the left of the weapon's icon to the icon shown on the Pip-Boy's skill menu.\n\n* DAM/DPS: These indicate the base Damage and Damage Per Second, respectively. Weapons with a low DAM have difficulty penetrating armor. If you hit a target's Damage Threshold, switch to a weapon with a higher DAM or use ammo that reduces the target's Damage Threshold (e.g. Armor Piercing).\n\n* STR and Skill: Many weapons have a Strength and/or skill requirement. If your character does not meet the Strength or skill requirement for the weapon, its aim will wobble (if a firearm) or it will attack more slowly (if a hand-to-hand weapon).\n\n* CND: A weapon's Condition affects the amount of damage it does. At 75% Condition or higher, a weapon does maximum damage and only needs to be maintained. A weapon with low Condition will do less damage and may jam when reloaded.\n\n* Repair / Mod: These options take you to the Repair and Mod submenus, where you may repair damaged equipment or attach weapon modifications, respectively."
+    }
+  ]
+}

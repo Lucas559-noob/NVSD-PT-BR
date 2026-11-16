@@ -1,0 +1,586 @@
+{
+  "CREA": [
+    {
+      "FORM": "@Zeta.esm:0058E1",
+      "FORMID": "0058E1",
+      "EDID": "DLC05CrRobot1RangedTemplate",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:0068E1",
+      "FORMID": "0068E1",
+      "EDID": "DLC05MZ1AlienHCMelee",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0055D9",
+      "FORMID": "0055D9",
+      "EDID": "DLC05TeleportTestAlien",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A89C",
+      "FORMID": "00A89C",
+      "EDID": "DLC05FF01Brahmin",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F9",
+      "FORMID": "0066F9",
+      "EDID": "DLC05MZ1AnimationAlien3",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7F",
+      "FORMID": "003C7F",
+      "EDID": "DLC05crAlien3MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7D",
+      "FORMID": "003C7D",
+      "EDID": "DLC05crAlien2MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7C",
+      "FORMID": "003C7C",
+      "EDID": "DLC05crAlien2MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C7A",
+      "FORMID": "003C7A",
+      "EDID": "DLC05crAlien1MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C79",
+      "FORMID": "003C79",
+      "EDID": "DLC05crAlien1MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6F",
+      "FORMID": "003C6F",
+      "EDID": "DLC05crAlien3GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6D",
+      "FORMID": "003C6D",
+      "EDID": "DLC05crAlien2GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C6C",
+      "FORMID": "003C6C",
+      "EDID": "DLC05crAlien2GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C66",
+      "FORMID": "003C66",
+      "EDID": "DLC05crAlien1GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003C65",
+      "FORMID": "003C65",
+      "EDID": "DLC05crAlien1GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F8",
+      "FORMID": "0066F8",
+      "EDID": "DLC05MZ1AnimationAlien2",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D3",
+      "FORMID": "00A9D3",
+      "EDID": "DLC05crAbomination5",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D2",
+      "FORMID": "00A9D2",
+      "EDID": "DLC05crAbomination4",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D1",
+      "FORMID": "00A9D1",
+      "EDID": "DLC05crAlien6MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9D0",
+      "FORMID": "00A9D0",
+      "EDID": "DLC05crAlien6GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CF",
+      "FORMID": "00A9CF",
+      "EDID": "DLC05crAlien5MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CE",
+      "FORMID": "00A9CE",
+      "EDID": "DLC05crAlien4MeleeATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CD",
+      "FORMID": "00A9CD",
+      "EDID": "DLC05crAlien5GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0034DB",
+      "FORMID": "0034DB",
+      "EDID": "DLC05TESTcrAlien3",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0034DA",
+      "FORMID": "0034DA",
+      "EDID": "DLC05TESTcrAlien2",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CC",
+      "FORMID": "00A9CC",
+      "EDID": "DLC05crAlien4GunATemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CB",
+      "FORMID": "00A9CB",
+      "EDID": "DLC05crAlien6MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9CA",
+      "FORMID": "00A9CA",
+      "EDID": "DLC05crAlien5MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C9",
+      "FORMID": "00A9C9",
+      "EDID": "DLC05crAlien4MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C8",
+      "FORMID": "00A9C8",
+      "EDID": "DLC05crAlien3MeleeB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C7",
+      "FORMID": "00A9C7",
+      "EDID": "DLC05crAlien3GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C6",
+      "FORMID": "00A9C6",
+      "EDID": "DLC05crAlien6MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C5",
+      "FORMID": "00A9C5",
+      "EDID": "DLC05crAlien5MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C4",
+      "FORMID": "00A9C4",
+      "EDID": "DLC05crAlien4MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C3",
+      "FORMID": "00A9C3",
+      "EDID": "DLC05crAlien3MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C2",
+      "FORMID": "00A9C2",
+      "EDID": "DLC05crAlien2MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C1",
+      "FORMID": "00A9C1",
+      "EDID": "DLC05crAlien1MeleeC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:001FAF",
+      "FORMID": "001FAF",
+      "EDID": "DLC05TESTcrAlien1",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9C0",
+      "FORMID": "00A9C0",
+      "EDID": "DLC05crAlien6GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BF",
+      "FORMID": "00A9BF",
+      "EDID": "DLC05crAlien5GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BE",
+      "FORMID": "00A9BE",
+      "EDID": "DLC05crAlien4GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BD",
+      "FORMID": "00A9BD",
+      "EDID": "DLC05crAlien3GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BC",
+      "FORMID": "00A9BC",
+      "EDID": "DLC05crAlien2GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BB",
+      "FORMID": "00A9BB",
+      "EDID": "DLC05crAlien1GunC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9BA",
+      "FORMID": "00A9BA",
+      "EDID": "DLC05crAlien6GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B9",
+      "FORMID": "00A9B9",
+      "EDID": "DLC05crAlien5GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B8",
+      "FORMID": "00A9B8",
+      "EDID": "DLC05crAlien4GunB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B7",
+      "FORMID": "00A9B7",
+      "EDID": "DLC05CrRobot6Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B6",
+      "FORMID": "00A9B6",
+      "EDID": "DLC05CrRobot5Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B5",
+      "FORMID": "00A9B5",
+      "EDID": "DLC05CrRobot4Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B4",
+      "FORMID": "00A9B4",
+      "EDID": "DLC05CrRobot6Melee",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B3",
+      "FORMID": "00A9B3",
+      "EDID": "DLC05CrRobot5Melee",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B2",
+      "FORMID": "00A9B2",
+      "EDID": "DLC05CrRobot4Melee",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B1",
+      "FORMID": "00A9B1",
+      "EDID": "DLC05crTurret6",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9B0",
+      "FORMID": "00A9B0",
+      "EDID": "DLC05crTurret5",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9AF",
+      "FORMID": "00A9AF",
+      "EDID": "DLC05crTurret4",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9AE",
+      "FORMID": "00A9AE",
+      "EDID": "DLC05crAbomination6",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F7",
+      "FORMID": "0066F7",
+      "EDID": "DLC05MZ1AnimationAlien1",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D6",
+      "FORMID": "0058D6",
+      "EDID": "DLC05crAbomination3",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:0066F0",
+      "FORMID": "0066F0",
+      "EDID": "DLC05TESTcrAlien1HP",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00CA00",
+      "FORMID": "00CA00",
+      "EDID": "DLC05crAlienGuard1HPTemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00C9FF",
+      "FORMID": "00C9FF",
+      "EDID": "DLC05crAlienGuard2HRTemplate",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D5",
+      "FORMID": "0058D5",
+      "EDID": "DLC05crAbomination2",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D4",
+      "FORMID": "0058D4",
+      "EDID": "DLC05crAbomination1Template",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:00C4E4",
+      "FORMID": "00C4E4",
+      "EDID": "DLC05crAlien1Captain",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00C4CB",
+      "FORMID": "00C4CB",
+      "EDID": "DLC05crAlienCaptain",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D1",
+      "FORMID": "0058D1",
+      "EDID": "DLC05crTurret1",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:0058D0",
+      "FORMID": "0058D0",
+      "EDID": "DLC05crTurret3",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:008865",
+      "FORMID": "008865",
+      "EDID": "testAlienMaintenanceRobotInPod",
+      "FULL": "Protectron del Metro"
+    },
+    {
+      "FORM": "@Zeta.esm:0058CF",
+      "FORMID": "0058CF",
+      "EDID": "DLC05crTurret2",
+      "FULL": "Torreta"
+    },
+    {
+      "FORM": "@Zeta.esm:00C2F9",
+      "FORMID": "00C2F9",
+      "EDID": "DLC05AbominationDEAD",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:00C0C8",
+      "FORMID": "00C0C8",
+      "EDID": "DLC05ExLabAlienResearcher",
+      "FULL": "Trabalhador alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00511F",
+      "FORMID": "00511F",
+      "EDID": "DLC05TESTcrAlien1HMelee",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E22",
+      "FORMID": "006E22",
+      "EDID": "DLC05CoreSceneAlien",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A94C",
+      "FORMID": "00A94C",
+      "EDID": "DLC05CrAlienNONHOSTILE",
+      "FULL": "Trabalhador alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E21",
+      "FORMID": "006E21",
+      "EDID": "DLC05crAlienDeadC",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00AD56",
+      "FORMID": "00AD56",
+      "EDID": "DLC05LvlRobotRangedPodExLab",
+      "FULL": "Robô Armado Experimental"
+    },
+    {
+      "FORM": "@Zeta.esm:006E20",
+      "FORMID": "006E20",
+      "EDID": "DLC05crAlienDeadB",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:006E1F",
+      "FORMID": "006E1F",
+      "EDID": "DLC05crAlienDeadA",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:005C86",
+      "FORMID": "005C86",
+      "EDID": "DLC05CryoFreezeRoomAlien01",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058CB",
+      "FORMID": "0058CB",
+      "EDID": "DLC05CrRobot3Melee",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:0081BD",
+      "FORMID": "0081BD",
+      "EDID": "DLC05TESTAbomination",
+      "FULL": "Abominação"
+    },
+    {
+      "FORM": "@Zeta.esm:0058CA",
+      "FORMID": "0058CA",
+      "EDID": "DLC05CrRobot2Melee",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:0058C9",
+      "FORMID": "0058C9",
+      "EDID": "DLC05CrRobot1MeleeTemplate",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:00511E",
+      "FORMID": "00511E",
+      "EDID": "DLC05TESTcrAlien2HR",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00585D",
+      "FORMID": "00585D",
+      "EDID": "DLC05AlienMaintenanceRobot",
+      "FULL": "Robô de Suporte"
+    },
+    {
+      "FORM": "@Zeta.esm:005668",
+      "FORMID": "005668",
+      "EDID": "DLC05TESTcrAlien2HRALWAYSOUT",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:004BFE",
+      "FORMID": "004BFE",
+      "EDID": "DLC05BrahminExperiment03",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:004BFC",
+      "FORMID": "004BFC",
+      "EDID": "DLC05BrahminExperiment02",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:004BED",
+      "FORMID": "004BED",
+      "EDID": "DLC05BrahminExperiment01",
+      "FULL": "Brahmán"
+    },
+    {
+      "FORM": "@Zeta.esm:00AA22",
+      "FORMID": "00AA22",
+      "EDID": "DLC05Captain",
+      "FULL": "Capitão Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058E3",
+      "FORMID": "0058E3",
+      "EDID": "DLC05CrRobot3Ranged",
+      "FULL": "Robô Guardião"
+    },
+    {
+      "FORM": "@Zeta.esm:00A2A8",
+      "FORMID": "00A2A8",
+      "EDID": "DLC05TESTcrAlien1Captain",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0040A2",
+      "FORMID": "0040A2",
+      "EDID": "DLC05MZ1AlienGuard",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:003FC8",
+      "FORMID": "003FC8",
+      "EDID": "DLC05TESTcrAlienTalk",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:00A2A6",
+      "FORMID": "00A2A6",
+      "EDID": "DLC05TESTcrAlien1red",
+      "FULL": "Alienígena"
+    },
+    {
+      "FORM": "@Zeta.esm:0058E2",
+      "FORMID": "0058E2",
+      "EDID": "DLC05CrRobot2Ranged",
+      "FULL": "Robô Guardião"
+    }
+  ]
+}

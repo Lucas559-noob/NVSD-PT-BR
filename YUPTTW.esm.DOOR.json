@@ -1,0 +1,88 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@YUPTTW.esm:00651C",
+      "FORMID": "00651C",
+      "EDID": "SewerEntranceDoor01MinUse",
+      "FULL": "Sewer Grate"
+    },
+    {
+      "FORM": "@YUPTTW.esm:005608",
+      "FORMID": "005608",
+      "EDID": "WoodShackDoorALTSafehouse",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@YUPTTW.esm:005607",
+      "FORMID": "005607",
+      "EDID": "OffDoorHotelSmL01Safehouse",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@YUPTTW.esm:005606",
+      "FORMID": "005606",
+      "EDID": "CaveDoor01Safehouse",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@YUPTTW.esm:005605",
+      "FORMID": "005605",
+      "EDID": "OffDoorMetalDoor01EXTERIORSafehouse",
+      "FULL": "Door"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167163",
+      "FORMID": "167163",
+      "EDID": "FreesideToNorthSmlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14391F",
+      "FORMID": "14391F",
+      "EDID": "JacobstownMarcusDoor",
+      "FULL": "Porta do Quarto de Marcus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13005D",
+      "FORMID": "13005D",
+      "EDID": "NVRanchHouseExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B5",
+      "FORMID": "1227B5",
+      "EDID": "OffDoorMetalFrameStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC6FB",
+      "FORMID": "0FC6FB",
+      "EDID": "vgeardoorr03b",
+      "FULL": "Porta do Vault 3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0463CD",
+      "FORMID": "0463CD",
+      "EDID": "IndDoorBg01",
+      "FULL": "Portão da Garagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E6E4",
+      "FORMID": "02E6E4",
+      "EDID": "HotelDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019CF5",
+      "FORMID": "019CF5",
+      "EDID": "OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E19",
+      "FORMID": "014E19",
+      "EDID": "RamshackleScrapDoor01",
+      "FULL": "Porta"
+    }
+  ]
+}

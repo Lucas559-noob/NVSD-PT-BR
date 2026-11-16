@@ -1,0 +1,1292 @@
+{
+  "QUST": [
+    {
+      "FORM": "@YUPTTW.esm:006483",
+      "FORMID": "006483",
+      "EDID": "HereAndNowQuest",
+      "FULL": "Aqui e Agora"
+    },
+    {
+      "FORM": "@YUPTTW.esm:003E10",
+      "FORMID": "003E10",
+      "EDID": "GameSetting",
+      "FULL": "Missão de Rastreamento de Configurações de Jogo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013653",
+      "FORMID": "013653",
+      "EDID": "NVDLC03RadioBroadcast",
+      "FULL": "NVDLC03 Missão de Rádio"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006D8D",
+      "FORMID": "006D8D",
+      "EDID": "NVDLC03X13Setup",
+      "FULL": "Projeto X-13",
+      "NNAM": {
+        "5": "Retorne ao Terminal de Experimentos.",
+        "20": "Conclua o Teste Básico de Infiltração.",
+        "50": "Conclua o Teste de Conformidade Robótica.",
+        "30": "Conclua o Teste de Infiltração Avançada.",
+        "10": "Monte o Traje Furtivo Experimental.",
+        "100": "(Opcional) Complete todos os testes do X-13.",
+        "40": "Complete o Teste de Infiltração de Perito.",
+        "25": "Conclua a Repetição do Teste Básico de Infiltração.",
+        "35": "Conclua a Reexibição do Teste de Infiltração Avançada.",
+        "45": "Complete a Reexibição do Teste de Infiltração de Especialista.",
+        "55": "Conclua a Repetição do Teste de Conformidade Robótica."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCC",
+      "FORMID": "002FCC",
+      "EDID": "NVDLC03MQ05",
+      "FULL": "Melancolia do Velho Mundo",
+      "NNAM": {
+        "10": "Volte ao Think Tank e diga ao Dr. Klein que você concluiu suas tarefas.",
+        "20": "Vá para o Domo da Zona Proibida.",
+        "30": "Confronte o Dr. Mobius no Domo da Zona Proibida.",
+        "40": "Recupere seu cérebro da Zona Proibida.",
+        "50": "Confronte o Dr. Klein no Think Tank e termine seu aprisionamento em Big MT.",
+        "60": "Mate o Dr. Klein e os outros membros do Think Tank.",
+        "35": "Satisfaça a curiosidade do Dr. Mobius sobre como é ser morto.",
+        "25": "Desative ou destrua o Robo-Escorpião Gigante.",
+        "70": "Deixar o Think Tank.",
+        "52": "(Opcional) Use o Auto-Doc do Sink para recuperar seu coração original.",
+        "53": "(Opcional) Use o Auto-Doc do Sink para recuperar sua coluna original.",
+        "51": "(Opcional) Recupere a holofita de personalidade do Auto-Doc do Sink de Y-17 para restaurar a funcionalidade do Auto-Doc."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3B9",
+      "FORMID": "00A3B9",
+      "EDID": "NVDLC02MS02",
+      "FULL": "Carneiro-Selvagems da Virgem Oriental",
+      "NNAM": {
+        "10": "Encontre o filhote de carneiro selvagem perdido.",
+        "20": "Leve o bezerro de volta para a mãe dele.",
+        "11": "(Opcional) Não mate nenhum dos Carneiros Selvagens da Montanha.",
+        "25": "Leve o bezerro de volta ao rebanho.",
+        "30": "Fale com Follows-Chalk.",
+        "5": "Encontre um jeito de subir nos Penhascos.",
+        "27": "Mate todos os Carneiros Selvagens da Montanha.",
+        "26": "Leve o bezerro para Follows-Chalk."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094C3",
+      "FORMID": "0094C3",
+      "EDID": "NVDLC02MS01",
+      "FULL": "Rito de Passagem",
+      "NNAM": {
+        "10": "Pegue as raízes de 3 plantas de Datura Sagrada.",
+        "20": "Devolva as raízes ao Xamã.",
+        "30": "Volte ao Xamã para começar o ritual.",
+        "40": "Pegue a pata do Fantasma de She.",
+        "50": "Volte para o Xamã.",
+        "5": "Fale com White Bird, o xamã.",
+        "25": "Pegue as raízes de 3 plantas de Datura Sagrada."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A37",
+      "FORMID": "008A37",
+      "EDID": "NVDLC02MQ05",
+      "FULL": "Fuga de Zion",
+      "NNAM": {
+        "20": "Abra caminho até o Túnel de Pine Creek.",
+        "30": "Resolva a situação com Salt-Upon-Wounds.",
+        "40": "Fale com Daniel.",
+        "50": "Use o detonador para desabar o túnel de Pine Creek."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A44",
+      "FORMID": "013A44",
+      "EDID": "NVDLC01MQ03c",
+      "FULL": "Últimos Luxos",
+      "NNAM": {
+        "10": "Encontre Christine nas Suítes Executivas.",
+        "20": "Mate Christine.",
+        "30": "Fuja das Suítes Executivas antes que a coleira da Christine detone a sua."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:013A04",
+      "FORMID": "013A04",
+      "EDID": "NVDLC01MQ02c",
+      "FULL": "Sinais Mistos",
+      "NNAM": {
+        "10": "Viaje para a Estação de Troca Puesta del Sol com Christine.",
+        "20": "Repare a caixa elétrica para ter acesso ao resto da Estação de Manobras.",
+        "30": "Leve Christine ao elevador para a Câmara de Anulação Manual.",
+        "40": "Peça para Christine descer de elevador para a Câmara de Anulação Manual.",
+        "50": "Obtenha acesso ao Terminal de Manutenção Remota para Christine.",
+        "60": "Use os controles do elevador para enviar Christine para a Câmara de Anulação Manual.",
+        "70": "Leve Christine ao Terminal de Manutenção Remota e diga a ela que pode ser usado."
+      }
+    },
+    {
+      "FORM": "@DeadMoney.esm:00F2BB",
+      "FORMID": "00F2BB",
+      "EDID": "NVDLC01RadioElijah",
+      "FULL": "Rádio do Colar de Elijah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F0E",
+      "FORMID": "167F0E",
+      "EDID": "VMQNCRFail",
+      "FULL": "Não Pise no Urso!",
+      "NNAM": {
+        "5": "Pouca coisa escapa dos olhos dos Rangers da NCR. Se continuar a trabalhar com a Legião de Caesar, a NCR vai tachá-lo de terrorista.",
+        "10": "A NCR declarou você um terrorista. Onde quer que a NCR tenha jurisdição, você será baleado à vista.",
+        "15": "A NCR tem uma rede robusta de informantes. Se você continuar a trabalhar com o Sr. House, a NCR não aceitará mais sua ajuda.",
+        "20": "A NCR tem uma rede robusta de informantes. Se você continuar a trabalhar com o Yes Man, a NCR não aceitará mais sua ajuda.",
+        "25": "A NCR tem uma rede robusta de informantes. Se você continuar a trabalhar com o Sr. House ou Yes Man, a NCR não aceitará mais sua ajuda.",
+        "30": "A NCR sabe que você está trabalhando contra os interesses dela e não aceitará mais sua ajuda."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:163E9F",
+      "FORMID": "163E9F",
+      "EDID": "VStreetSS6",
+      "FULL": "Cena Roteirizada do Lucky 38 da Rua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1638F0",
+      "FORMID": "1638F0",
+      "EDID": "VMS55b",
+      "FULL": "Visão para os Cegos",
+      "NNAM": {
+        "10": "Vá para a Montanha Negra e instale o transmissor de sinal remoto em um dos consoles lá.",
+        "20": "Informe McNamara que o dispositivo foi instalado."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:163429",
+      "FORMID": "163429",
+      "EDID": "VEFR00LegionMix2CaesarsHire",
+      "FULL": "Contratado de Caesar",
+      "NNAM": {
+        "10": "Ache a Caixa Postal da Legião."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1633F2",
+      "FORMID": "1633F2",
+      "EDID": "VMS55a",
+      "FULL": "Cuide dos Seus Negócios",
+      "NNAM": {
+        "10": "Mate os Van Graff e seus homens.",
+        "19": "Volte ao Ancião Hardin com a notícia de que os Van Graffs foram eliminados."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FB7C",
+      "FORMID": "15FB7C",
+      "EDID": "VEFR01NCRGood2EmergencyRadio",
+      "FULL": "Rádio de Emergência",
+      "NNAM": {
+        "10": "Encontre o Esconderijo de Suprimentos da NCR."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECC9",
+      "FORMID": "15ECC9",
+      "EDID": "NellisSunshineBoogie",
+      "FULL": "Boogie do Sol",
+      "NNAM": {
+        "50": "Conserte os painéis solares quebrados.",
+        "25": "Encontre peças sobressalentes da matriz.",
+        "75": "(Opcional) Melhore a eficiência da matriz solar.",
+        "100": "Diga a Loyal que a matriz foi reparada."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC5B",
+      "FORMID": "15EC5B",
+      "EDID": "VMS16b",
+      "FULL": "Corra, Goodsprings, Corra",
+      "NNAM": {
+        "10": "Mate Ringo.",
+        "30": "(Opcional) Extorquir suprimentos de Chet.",
+        "40": "(Opcional) Obtenha os suprimentos médicos extras do Dr. Mitchell para os Gangsters da Pólvora.",
+        "70": "Derrote a milícia de Goodsprings.",
+        "60": "Avise Joe Cobb quando estiver pronto para dominar Goodsprings.",
+        "15": "Diga a Joe Cobb que Ringo está morto.",
+        "20": "Planeje seu ataque a Goodsprings com Joe Cobb.",
+        "45": "Entregue os suprimentos médicos extras para Joe Cobb."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:159FA0",
+      "FORMID": "159FA0",
+      "EDID": "VES34Vault",
+      "FULL": "Blues do Azar",
+      "NNAM": {
+        "10": "Investigue a Estação de Bombeamento Leste.",
+        "20": "Encontre a fonte da radiação.",
+        "30": "Desligue o Reator do Vault 34 para ajudar as Fazendas de Meação.",
+        "40": "(Opcional) Salve os moradores presos da Vault 34 deixando seu reator intacto, condenando as Fazendas de Meação."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:157E60",
+      "FORMID": "157E60",
+      "EDID": "VMS54",
+      "FULL": "Por Um Bom Começo",
+      "NNAM": {
+        "10": "Com Arcade, convença os Remanescentes a se reunirem para uma última batalha.",
+        "11": "Peça para o Dr. Henry ir ao reencontro dos Remanescentes.",
+        "12": "Pedir para Daisy Whitman ir à reunião dos Remanescentes.",
+        "13": "Pedir para Cannibal Johnson ir ao reencontro dos Remanescentes.",
+        "14": "Peça para Orion Moreno vir à reunião dos Remanescentes.",
+        "15": "Peça para Judah Kreger ir ao reencontro dos Remanescentes.",
+        "20": "Acesse o Bunker dos Remanescentes.",
+        "30": "Pedir aos Remanescentes para apoiarem a luta contra a Legião ou a NCR.",
+        "35": "Tente convencer Orion Moreno a ficar.",
+        "38": "Adquira o treinamento de Armadura Potente de Daisy Whitman.",
+        "45": "Adquira o treinamento em Armadura Potente de Orion Moreno.",
+        "36": "Mate Orion Moreno para recuperar o cartão-chave de acesso à porta.",
+        "37": "Conte a Judah Kreger o que aconteceu com Orion Moreno.",
+        "50": "Saia da sala de comando dos Remanescentes para que eles possam planejar a batalha que se aproxima."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:157322",
+      "FORMID": "157322",
+      "EDID": "VMQYesMan02",
+      "FULL": "Wild Card: Apostas Secundárias",
+      "NNAM": {
+        "20": "Fazer contato com os Boomers na Base Aérea de Nellis.",
+        "40": "Vá ao Cânion Red Rock e entre em contato com os Grandes Khans.",
+        "60": "Observe os Omertas no cassino deles, Gomorra.",
+        "80": "Visite a Sociedade dos White Gloves no cassino Ultra-Luxe.",
+        "100": "Entre em contato com a Irmandade do Aço.",
+        "22": "Diga ao Yes Man que os Boomers prometeram te apoiar.",
+        "26": "Diga ao Yes Man que você matou os líderes dos Boomers.",
+        "24": "(Opcional) Mate o outro líder dos Boomers para neutralizar a ameaça da tribo.",
+        "28": "(Opcional) Volte para o Yes Man e diga a ele que os Boomers podem ser ignorados.",
+        "62": "(Opcional) Diga ao Yes Man que você visitou Gomorra e deseja ignorar os Omertas.",
+        "70": "Informe ao Yes Man que os Omertas não são mais uma ameaça.",
+        "75": "Informe Yes Man que você aprova os planos dos Omertas de atacar a Strip.",
+        "68": "Informe ao Yes Man que os Omertas estão hostis a você.",
+        "42": "(Opcional) Volte para o Yes Man e diga que você planeja ignorar os Grandes Khans.",
+        "44": "Informe Yes Man que você convenceu os Grandes Khans a apoiarem a NCR.",
+        "46": "Informe Yes Man que os Grandes Khans foram aniquilados.",
+        "48": "Informe Yes Man que você convenceu os Grandes Khans a deixarem Mojave.",
+        "50": "Informe ao Yes Man que os Grandes Khans farão um ataque suicida na Represa Hoover.",
+        "84": "(Opcional) Diga ao Yes Man que você decidiu ignorar a Sociedade Luva Branca.",
+        "86": "Informe ao Yes Man que você matou os líderes da Sociedade Luva Branca.",
+        "88": "Informe ao Yes Man que você resolveu o problema de canibalismo da Sociedade Luva Branca.",
+        "90": "Informe ao Yes Man que está tudo bem com a Sociedade White Glove.",
+        "92": "Diga ao Yes Man que você convenceu a Sociedade Luva Branca a apoiar a Legião de Caesar.",
+        "102": "(Opcional) Diga ao Yes Man que você conhece a Irmandade do Aço e deseja ignorá-los.",
+        "104": "Informe ao Yes Man que você convenceu a Irmandade do Aço a ajudar a NCR.",
+        "106": "Informe Yes Man que você destruiu o bunker da Irmandade do Aço.",
+        "101": "(Opcional) Retorne ao bunker da Irmandade do Aço em Vale Oculto.",
+        "81": "Aprenda sobre a Sociedade dos White Gloves conversando com um de seus líderes.",
+        "82": "(Opcional) Descubra mais sobre a Sociedade dos White Gloves conversando com Marjorie.",
+        "83": "(Opcional) Descubra mais sobre a Sociedade da Luva Branca conversando com Mortimer.",
+        "103": "(Opcional) Destrua o bunker da Irmandade do Aço."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:157321",
+      "FORMID": "157321",
+      "EDID": "VMQYesMan01",
+      "FULL": "Wild Card: Mudança na Administração",
+      "NNAM": {
+        "50": "Matar ou Desativar o Sr. House.",
+        "70": "Instale a I.A. do Yes Man no mainframe do Lucky 38.",
+        "60": "Encontre Yes Man no Lucky 38.",
+        "15": "Recupere o Platinum Chip de Benny no Forte.",
+        "10": "Recupere o Chip de Platina de Benny.",
+        "25": "Entregue o Platinum Chip ao Sr. House para que ele possa melhorar seus sistemas de defesa.",
+        "30": "Vá ao porão do Lucky 38.",
+        "34": "Observar aprimoramento dos Securitrons.",
+        "36": "Volte para o Yes Man.",
+        "55": "Obtenha um Cartão VIP do Lucky 38."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1564E0",
+      "FORMID": "1564E0",
+      "EDID": "VERSewers01",
+      "FULL": "Encontros Aleatórios e Diálogo para Esgotos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155DBF",
+      "FORMID": "155DBF",
+      "EDID": "vCrucifiedFaction",
+      "FULL": "Facção Crucificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154234",
+      "FORMID": "154234",
+      "EDID": "VHDHouseBattle",
+      "FULL": "Tudo ou Nada",
+      "NNAM": {
+        "10": "Vá para a Sala de Controle na Represa Hoover e instale o chip de substituição.",
+        "20": "Ative a usina de energia leste para energizar o Exército de Securitrons.",
+        "30": "Saia para o lado leste da Represa.",
+        "40": "Vá para o acampamento do Legado e lide com o Legado e a Legião de Caesar.",
+        "50": "Lidar com o General Oliver e a NCR.",
+        "90": "Volte para Sr. House com notícias da sua vitória."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3B1",
+      "FORMID": "14F3B1",
+      "EDID": "VMS52",
+      "FULL": "Remetente Desconhecido",
+      "NNAM": {
+        "10": "Entregue os códigos de melhoria de segurança de rádio a cada uma das Estações de Rangers.",
+        "20": "Volte à Sargento Reyes e diga a ela que a melhoria de segurança do rádio está completa.",
+        "11": "Melhore a Estação de Guarda Florestal Alfa.",
+        "12": "Melhorar a Estação de Rangers Bravo.",
+        "13": "Melhore a Estação de Guarda Florestal Charlie.",
+        "30": "Descubra o que mais a Sargento Reyes precisa que você faça.",
+        "40": "Confirmar as suspeitas da Sargento Reyes sobre os relatórios do Camp Golf.",
+        "41": "Pergunte ao Ranger Lineholm sobre as perdas na batalha na Estação de Ranger Alpha.",
+        "42": "Descubra sobre o ataque de Legionários Supermutantes na Estação de Rangers Delta.",
+        "50": "Diga à Sargento Reyes que suas suspeitas sobre desinformação sendo passada à NCR estavam corretas.",
+        "60": "Informe o Chefe Hanlon sobre o que você e a Sargento Reyes descobriram.",
+        "43": "Investigar os ataques de Destroçadores na Estação de Ranger Foxtrot.",
+        "14": "Melhore a Estação de Ranger Delta.",
+        "15": "Melhorar a Estação de Ranger Eco.",
+        "16": "Melhorar a Estação de Rangers Foxtrot.",
+        "70": "Fale com o Chefe Hanlon no escritório dele.",
+        "80": "Encontre um ranger para prender o Chefe Hanlon.",
+        "90": "Mate o Chefe Hanlon."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:148A34",
+      "FORMID": "148A34",
+      "EDID": "VMS50",
+      "FULL": "Persuasão Hostil",
+      "NNAM": {
+        "10": "Fale com o líder dos mercenários que estão importunando Jacobstown.",
+        "20": "Chegue a um acordo pacífico com os mercenários.",
+        "25": "(Opcional) Acabe com os mercenários.",
+        "40": "Volte para Marcus.",
+        "30": "(Opcional) Peça dinheiro a Marcus para pagar os mercenários.",
+        "26": "Acabe com os mercenários."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147885",
+      "FORMID": "147885",
+      "EDID": "VMQHouse1",
+      "FULL": "A Casa Sempre Ganha, I",
+      "NNAM": {
+        "5": "Fale com o Sr. House no Lucky 38.",
+        "10": "Leve o Platinum Chip para o Sr. House.",
+        "12": "Recupere o Ficha de Platina no Forte.",
+        "20": "Entregue o Platinum Chip ao Sr. House.",
+        "25": "Vá para o porão do Lucky 38.",
+        "26": "Observe as melhorias de Securitrons do Sr. House.",
+        "27": "Volte para o Sr. House.",
+        "7": "(Optional) Talk to Mr. House again if you want to work for him."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145F85",
+      "FORMID": "145F85",
+      "EDID": "VMS49",
+      "FULL": "Eu Poderia Fazer Você Se Importar",
+      "NNAM": {
+        "10": "Vá com Veronica para falar com o ancião da Irmandade do Aço em Vale Oculto.",
+        "20": "Volte com Veronica ao ancião da Irmandade do Aço com evidências das prioridades equivocadas da Irmandade do Aço.",
+        "30": "Visite a Casa de Penhores em Westside e a loja de presentes do Vault 21 com Veronica.",
+        "40": "Procure o homem que comprou o telêmetro em Freeside, perto do Mick e Ralph's.",
+        "50": "Pergunte por aí para saber o que aconteceu com o telêmetro.",
+        "60": "Recupere o telêmetro.",
+        "80": "Leve o telêmetro ao ancião em Vale Oculto.",
+        "70": "Descubra um jeito de ativar o telêmetro em HELIOS One.",
+        "90": "Fale com o diretor da OSI sobre seu projeto de pesquisa.",
+        "100": "Recupere os dados experimentais do Vault 22.",
+        "110": "Leve os dados de volta ao ancião em Vale Oculto.",
+        "25": "Acesse as anotações do Padre Elijah no terminal de comunicação com Veronica.",
+        "120": "Procure informações sobre a arma de pulso na Base Aérea de Nellis.",
+        "130": "Recupere a arma de pulso do Vault 34, se é que ainda existe.",
+        "140": "Leve a arma de pulso de volta ao ancião no Vale Oculto.",
+        "200": "Discuta suas opções restantes com Veronica.",
+        "150": "Leve Veronica para se registrar no posto avançado dos Seguidores do Apocalipse.",
+        "160": "Volte ao posto avançado dos Seguidores do Apocalipse quando o Dr. Schiller estiver lá.",
+        "170": "Fale com Veronica."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:144122",
+      "FORMID": "144122",
+      "EDID": "vMojave",
+      "FULL": "Você Consegue Encontrar Isso no Seu Coração?",
+      "NNAM": {
+        "25": "Limpe as criaturas na estrada para o Lago Ivanpah.",
+        "35": "Volte ao Ranger Jackson no Posto Avançado Mojave."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429F2",
+      "FORMID": "1429F2",
+      "EDID": "VMQHouse",
+      "FULL": "A Casa Sempre Vence",
+      "NNAM": {
+        "5": "Fale com o Sr. House no Lucky 38.",
+        "20": "Entregue o Platinum Chip ao Sr. House.",
+        "30": "Use o Platinum Chip para abrir o bunker secreto em Fortification Hill.",
+        "32": "Aprimorar o exército secreto de Securitrons do Sr. House.",
+        "36": "Volte para o Sr. House para mais instruções.",
+        "40": "Convencer os Boomers a apoiarem o Sr. House.",
+        "42": "(Opcional) Neutralize os Boomers matando os líderes da tribo.",
+        "45": "Informe ao Sr. House que os Boomers apoiarão a causa dele.",
+        "47": "Informe ao Sr. House que os Boomers foram neutralizados.",
+        "50": "Investigue os Omertas e impeça-os caso seus planos se oponham aos interesses do Sr. House.",
+        "52": "Informe ao Sr. House que a ameaça dos Omertas foi neutralizada.",
+        "60": "Encontre a Irmandade do Aço e destrua-os.",
+        "62": "(Opcional) Informe a Sr. House que você negociou uma solução pacífica com a Irmandade do Aço.",
+        "64": "Informe ao Sr. House que o bunker da Irmandade do Aço foi destruído.",
+        "70": "Vá para a Represa Hoover e proteja o Presidente Kimball durante a visita dele.",
+        "72": "Informe ao Sr. House que o Presidente Kimball sobreviveu à tentativa de assassinato.",
+        "74": "Informe ao Sr. House que o Presidente Kimball está morto.",
+        "80": "Vá até a Represa Hoover e derrote a Legião de Caesar.",
+        "10": "Leve o Platinum Chip para o Sr. House.",
+        "12": "Recupere o Platinum Chip de Benny no Forte.",
+        "25": "Vá ao Porão do Lucky 38.",
+        "26": "Observar a Melhoria dos Securitrons.",
+        "27": "Volte para o Sr. House.",
+        "31": "Entre no bunker secreto."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C3B",
+      "FORMID": "140C3B",
+      "EDID": "VMS46",
+      "FULL": "Lua de Mel Aba Daba",
+      "NNAM": {
+        "10": "Encontre o traficante desaparecido de Jack e Diane.",
+        "20": "Entregue drogas ao Motor-Runner.",
+        "30": "Entregue drogas para Don Hostetler no Crimson Caravan.",
+        "15": "Volte para Diane e conte a ela sobre Anders.",
+        "35": "Volte para Diane para receber seu pagamento.",
+        "40": "Volte para Diane para receber seu pagamento.",
+        "50": "Fale com Jack sobre abastecer a operação de drogas dos Grandes Khans.",
+        "60": "Ensine novas receitas de estimulantes para Jack."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C3A",
+      "FORMID": "140C3A",
+      "EDID": "VMS45",
+      "FULL": "Oh, Meu Papa",
+      "NNAM": {
+        "10": "Fale com Papa Khan sobre a aliança com Caesar.",
+        "20": "Fale com Regis sobre convencer Papa Khan.",
+        "30": "Convencer Jack e Diane a se manifestarem contra Caesar.",
+        "40": "Convencer Melissa a se manifestar contra Caesar.",
+        "50": "Convencer Regis a se manifestar contra Caesar.",
+        "55": "Fale com Papa Khan sobre quebrar a aliança.",
+        "60": "(Opcional) Encontre uma maneira de desonrar Karl diante de Papa Khan.",
+        "70": "Assassine Papa Khan sem ser detectado.",
+        "90": "Fale com Regis sobre a lealdade dos Khans.",
+        "65": "Leve evidências do plano de Karl para Papa Khan.",
+        "35": "Encontre provas com Regis de que Caesar vai aniquilar os Grandes Khans.",
+        "38": "Devolva o livro-razão de escravos da Legião para Regis.",
+        "32": "Encontre provas para Diane de que a Legião persegue traficantes de drogas.",
+        "57": "Fale com os Seguidores do Apocalipse sobre os Grandes Khans.",
+        "75": "Fale com Regis sobre a NCR.",
+        "80": "Fale com a Coronel Moore sobre uma aliança entre os Grandes Khans e a NCR.",
+        "95": "Elimine os Grandes Khans no Cânion Red Rock.",
+        "58": "Fale com Ezekiel sobre a história dos Grandes Khans.",
+        "59": "Devolva o livro de história para o Papa Khan.",
+        "85": "Volte ao Cânion Red Rock e fale com Papa Khan."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14050D",
+      "FORMID": "14050D",
+      "EDID": "VMS44",
+      "FULL": "Roda da Fortuna",
+      "NNAM": {
+        "10": "Fale com alguém em Nipton sobre os Trajes Antirradiação desaparecidos.",
+        "20": "Volte com os trajes para Logan.",
+        "30": "Acompanhe Logan para procurar na Delegacia de Polícia.",
+        "40": "Acompanhe Logan para procurar o Corpo de Bombeiros.",
+        "15": "Encontre naipes em uma caverna próxima."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14050C",
+      "FORMID": "14050C",
+      "EDID": "VMS43",
+      "FULL": "Todos Nós Iremos Juntos",
+      "NNAM": {
+        "10": "Colete as placas de identificação dos soldados Ghoul da NCR no Acampamento Searchlight e leve-as ao Primeiro-Sargento Astor.",
+        "20": "Todas as placas de identificação dos Ghouls encontradas; volte ao Primeiro-Sargento Astor."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FB76",
+      "FORMID": "13FB76",
+      "EDID": "vDialogueSuperMutant",
+      "FULL": "Diálogos de Supermutantes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F405",
+      "FORMID": "13F405",
+      "EDID": "VMS41",
+      "FULL": "Adivinha Quem Eu Vi Hoje",
+      "NNAM": {
+        "30": "Fale com Lily sobre participar do experimento do Dr. Henry.",
+        "15": "(Opcional) Peça para Lily ajudar você a investigar as mutações dos Perseguidor Noturnos.",
+        "40": "Diga ao Dr. Henry para prosseguir com a experiência assim que Lily estiver presente.",
+        "65": "Mate os Nightkin hostis.",
+        "70": "Fale com o Dr. Henry.",
+        "10": "Procure a fonte da mutação furtiva dos Perseguidor Noturnos.",
+        "20": "Diga ao Dr. Henry que você descobriu uma possível causa para as mutações dos Abutres Noturnos.",
+        "60": "Fale com Keene e tente acalmar a situação.",
+        "50": "Espere o Dr. Henry completar o experimento.",
+        "80": "Decida se Lily deve continuar a usar o protótipo Mark II e informe o Dr. Henry.",
+        "16": "Mantenha Lily viva.",
+        "41": "(Opcional) Otimize o protótipo Mark II."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5AF",
+      "FORMID": "13E5AF",
+      "EDID": "VMS42",
+      "FULL": "Por Que Não Podemos Ser Amigos?",
+      "NNAM": {
+        "20": "Dê um jeito de cortar o acesso ao enxofre.",
+        "30": "Volte para Samuel Cooke.",
+        "50": "Fale com Papa Khan no Cânion Red Rock.",
+        "40": "Volte para Philip Lem.",
+        "10": "Elimine os geckos-de-fogo nas cavernas sob o Vault.",
+        "60": "Volte para Samuel Cooke.",
+        "70": "Volte para Philip Lem."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AACA",
+      "FORMID": "13AACA",
+      "EDID": "VOuterVegasLighting",
+      "FULL": "Iluminação da Outer Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139B8D",
+      "FORMID": "139B8D",
+      "EDID": "VMS40",
+      "FULL": "Blues da Enfermaria de Bitter Springs",
+      "NNAM": {
+        "10": "Fale com o Tenente Markland sobre como ajudar na situação médica em Bitter Springs.",
+        "20": "Encontre um livro sobre tratamento psicológico para o Tenente Markland.",
+        "30": "Devolva o livro de psicologia ao Tenente Markland.",
+        "40": "Encontre um livro sobre medicina pediátrica para o Tenente Markland.",
+        "50": "Leve o livro de medicina pediátrica de volta ao Tenente Markland.",
+        "60": "Leve três Maletas de Médico para o Tenente Markland."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:136166",
+      "FORMID": "136166",
+      "EDID": "VMQ05",
+      "FULL": "Pela República, Parte 2",
+      "NNAM": {
+        "10": "Encontre a Coronel Moore na Represa Hoover para mais missões.",
+        "20": "Visite os Grandes Khans no Cânion Red Rock e aliste a ajuda deles ou os destrua.",
+        "25": "Volte ao Coronel Moore com a notícia de que os Grandes Khans ajudarão a lutar contra a Legião.",
+        "26": "Volte à Coronel Moore com a notícia de que os Grandes Khans foram destruídos.",
+        "30": "Investigue os Omertas e impeça-os caso seus planos se oponham à NCR.",
+        "35": "Volte ao Coronel Moore e relate que os planos dos Omertas foram frustrados.",
+        "36": "Volte ao Coronel Moore e minta sobre os planos dos Omertas.",
+        "40": "Remova Sr. House como uma ameaça à NCR.",
+        "45": "Volte ao Coronel Moore e relate que o Sr. House não é mais uma ameaça.",
+        "50": "Encontre o capítulo da Irmandade do Aço nesta área e lide com eles.",
+        "55": "Volte à Coronel Moore e relate que o capítulo da Irmandade do Aço nesta área foi destruído.",
+        "56": "Volte ao Coronel Moore e relate que a Irmandade do Aço apoiará a NCR contra a Legião de Caesar.",
+        "60": "Fale com o Ranger Grant sobre proteger o Presidente Kimball durante a visita dele.",
+        "65": "Volte ao Coronel Moore e relate que o Presidente Kimball partiu em segurança.",
+        "66": "Volte ao Coronel Moore e relate que o Presidente Kimball está morto.",
+        "70": "Fale com a Coronel Moore.",
+        "27": "Fale com Liza O'Malley na Embaixada da NCR na Strip para conseguir uma pista sobre os Omertas.",
+        "42": "Obtenha um Cartão VIP do Lucky 38."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F63",
+      "FORMID": "135F63",
+      "EDID": "vCCLeftMyHeart",
+      "FULL": "Deixei Meu Coração",
+      "NNAM": {
+        "10": "Encontre a família de Frank Weathers.",
+        "50": "Liberte os Weathers da escravidão.",
+        "100": "Volte para Frank Weathers.",
+        "55": "(Opcional) \"Liberte\" os Weathers da escravidão."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1349B5",
+      "FORMID": "1349B5",
+      "EDID": "vNiptonVulpes",
+      "FULL": "Coração Frio e Cruel",
+      "NNAM": {
+        "10": "Espalhe a notícia das atrocidades da Legião.",
+        "100": "Você contou à NCR sobre o ataque de Vulpes em Nipton."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1349A7",
+      "FORMID": "1349A7",
+      "EDID": "VMS39",
+      "FULL": "Eu Esqueci de Lembrar de Esquecer",
+      "NNAM": {
+        "10": "Vá para Bitter Springs com Boone.",
+        "20": "Vá com Boone até a Crista da Cauda do Coiote.",
+        "30": "Fale com Boone sobre passar a noite no Cume da Cauda do Coiote.",
+        "40": "Fale com Boone.",
+        "50": "Vá ao campo de refugiados de Bitter Springs e repila o ataque da Legião.",
+        "60": "Fale com Boone."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1348DB",
+      "FORMID": "1348DB",
+      "EDID": "VMS38",
+      "FULL": "Sangre Até Secar",
+      "NNAM": {
+        "10": "Lucy Vermelha precisa de ovos de Louva-a-Deus Gigante. É mais rápido coletá-los em um local de reprodução, como o Vault 22.",
+        "20": "Volte para Red Lucy com os Ovos de Louva-a-Deus Gigante.",
+        "30": "Lucy Vermelha quer ovos de Escorpião Radioativo. Ela sugeriu procurá-los nas montanhas ao norte de Goodsprings.",
+        "40": "Volte para Red Lucy com os Ovos de Escorpião Radioativo.",
+        "50": "Lucy Escarlate quer ovos de Gecko Flamejante. Ela sugeriu procurar perto dos Picos Ireteba.",
+        "60": "Volte para Red Lucy com os Ovos de Gecko de Fogo.",
+        "70": "Os caçadores de elite do Espinho estão procurando ovos de Perseguidor Noturno. Red Lucy sugeriu procurar em uma caverna perto de Bitter Springs.",
+        "80": "Volte para Red Lucy com os Ovos de Perseguidor Noturno.",
+        "90": "Os caçadores de elite de A Espinheira agora estão em busca de ovos de Cazador. Lucy Escarlate sugeriu procurá-los perto de Rochedos Vermelhos.",
+        "100": "Volte para Red Lucy com os Ovos de Cazador.",
+        "110": "Red Lucy deu a tarefa mais perigosa que um caçador pode enfrentar. Ela quer Ovos de Deathclaw para O Espinho.",
+        "120": "Volte para Red Lucy com os Ovos de Deathclaw.",
+        "130": "Você é o maior caçador que The Thorn já viu.",
+        "140": "Lucy Vermelha está morta. Você não pode mais ajudá-la."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1344E8",
+      "FORMID": "1344E8",
+      "EDID": "VMQ04",
+      "FULL": "Brilhante e Reluzente",
+      "NNAM": {
+        "10": "Destrua os três reguladores de energia do cofre dos Securitrons.",
+        "20": "Diga a César que o exército de Securitrons não é mais uma ameaça."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:134498",
+      "FORMID": "134498",
+      "EDID": "vCCEyeforaneye",
+      "FULL": "Olho por Olho",
+      "NNAM": {
+        "10": "Encontre informações gerais sobre a movimentação das tropas da Legião.",
+        "50": "(Opcional) Entregue as informações antigas ao Primeiro-Sargento Astor.",
+        "40": "Volte ao Primeiro-Sargento Astor com as informações.",
+        "30": "Plante o grampo da NCR.",
+        "20": "Encontre informações sobre os ataques da Legião.",
+        "90": "Mate todos os Legionários em Cottonwood Cove.",
+        "95": "(Opcional) Encontre uma maneira de bloquear Cottonwood Cove.",
+        "100": "Volte ao Primeiro-Sargento Astor.",
+        "45": "(Opcional) Conte a Aurelius de Phoenix sobre os planos da NCR.",
+        "75": "Volte ao Primeiro-Sargento Astor se tiver interesse em limpar Cottonwood Cove."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:133045",
+      "FORMID": "133045",
+      "EDID": "VMS36",
+      "FULL": "Não, não muito.",
+      "NNAM": {
+        "10": "Encontre alívio para o Capitão Gilles em Bitter Springs.",
+        "20": "Fale com o Camp Golf sobre realocar soldados para Bitter Springs.",
+        "70": "Encontre suprimentos para o acampamento.",
+        "80": "Fale com o Capitão Gilles para receber sua recompensa.",
+        "22": "Fale com o acampamento McCarran sobre realocar soldados para Bitter Springs.",
+        "24": "Fale com o Acampamento Forlorn Hope sobre realocar soldados para Bitter Springs.",
+        "75": "Leve os suprimentos de volta ao Capitão Gilles.",
+        "30": "Fale com o Tenente Markland sobre encontrar suprimentos médicos para o acampamento."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:131F09",
+      "FORMID": "131F09",
+      "EDID": "VMQ03b",
+      "FULL": "Assassino do Arizona",
+      "NNAM": {
+        "20": "Mate o Presidente Kimball.",
+        "10": "Encontre-se com Cato Hostilius.",
+        "15": "Apresente-se a Cato quando estiver preparado."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:131F08",
+      "FORMID": "131F08",
+      "EDID": "VMQ03a",
+      "FULL": "Você Vai Saber Quando Acontecer",
+      "NNAM": {
+        "10": "Reporte-se ao Ranger Grant.",
+        "20": "Proteger o Presidente Kimball.",
+        "60": "Reporte suas descobertas ao Ranger Grant.",
+        "100": "Kimball salvo, volte para o Ranger Grant.",
+        "110": "Kimball morto, volte para o Ranger Grant.",
+        "15": "Encontre o Ranger Grant no Terraço de Observação.",
+        "16": "(Opcional) Investigue a área em busca de pistas.",
+        "17": "Fique de olho nas posições dos atiradores."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:131E7C",
+      "FORMID": "131E7C",
+      "EDID": "VNipton",
+      "FULL": "Chutado",
+      "NNAM": {
+        "30": "Inicialização Concluída.",
+        "25": "Resgate os cativos."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:129D14",
+      "FORMID": "129D14",
+      "EDID": "VMQ02",
+      "FULL": "Prestar a Caesar",
+      "NNAM": {
+        "20": "Ganhe a confiança dos Boomers e forje uma aliança entre eles e a Legião.",
+        "50": "Ajude Mortimer a fazer a Sociedade dos Luvas Brancas voltar ao canibalismo.",
+        "40": "Leve a oferta de aliança da Legião para Marjorie, da Sociedade Luva Branca.",
+        "70": "Destrua o bunker da Irmandade do Aço.",
+        "22": "(Opcional) Mate a liderança dos Boomers para neutralizá-los como ameaça à Legião.",
+        "25": "Informe Caesar que os Boomers apoiarão a Legião contra a NCR.",
+        "30": "Informe Caesar que os Boomers foram neutralizados como uma ameaça.",
+        "60": "Informe Caesar que a Sociedade Luva Branca não apoiará a Legião.",
+        "55": "Informe Caesar que a Sociedade White Glove agora é aliada da Legião.",
+        "41": "Leve a oferta de aliança da Legião para Mortimer, da Sociedade Luva Branca.",
+        "75": "Diga a Caesar que a ameaça da Irmandade do Aço foi neutralizada.",
+        "80": "Diga a Caesar que você conseguiu a ajuda da Irmandade do Aço contra a NCR.",
+        "1": "Vá para a Enseada Cottonwood e pegue a barca pelo rio até o Forte.",
+        "2": "Fale com Caesar.",
+        "53": "Persuada Marjorie a mudar de ideia e se juntar a Caesar.",
+        "5": "Demolir o bunker do Sr. House sob a estação meteorológica.",
+        "7": "Volte para Caesar.",
+        "10": "Mate Sr. House.",
+        "15": "Volte para Caesar e relate que Sr. House foi neutralizado.",
+        "100": "Volte para Caesar depois que o Presidente Kimball for assassinado.",
+        "110": "Volte para Caesar para ser reconhecido por seus serviços.",
+        "112": "Volte para Caesar para responder pelo seu fracasso.",
+        "120": "Apresente-se ao Legatus Lanius para começar a Batalha pela Represa Hoover.",
+        "101": "Volte para Lucius depois que o Presidente Kimball for assassinado.",
+        "111": "Volte para Lucius para ser reconhecido pelo seu serviço.",
+        "113": "Volte para Lucius para responder pelo seu fracasso.",
+        "3": "Aceitar a primeira tarefa de Caesar.",
+        "8": "Resolva a situação com Benny.",
+        "9": "Fale com Caesar sobre sua próxima tarefa.",
+        "85": "Encontre-se com Caesar para uma conversa particular.",
+        "90": "Fale com Caesar depois que ele for curado para descobrir sua próxima tarefa.",
+        "6": "(Opcional) Engane Caesar detonando uma explosão no Vault sem destruir a tecnologia do Sr. House.",
+        "114": "Volte para Caesar e informe-o de que a visita do Presidente Kimball foi cancelada.",
+        "115": "Volte para Lucius e informe-o de que a visita do Presidente Kimball foi cancelada.",
+        "12": "Obtenha um Cartão VIP do Lucky 38."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:127E9D",
+      "FORMID": "127E9D",
+      "EDID": "VStreetLighting",
+      "FULL": "Script de Iluminação da Rua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1271EA",
+      "FORMID": "1271EA",
+      "EDID": "VMS33",
+      "FULL": "O Dedo da Suspeita",
+      "NNAM": {
+        "10": "Encontre Martina Groesbeck.",
+        "20": "Elimine os bandidos da Omerta enviados para matar Martina.",
+        "30": "Volte para Vulpes e diga que Martina está segura.",
+        "40": "Volte para Vulpes e avise que Martina está morta."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1268BD",
+      "FORMID": "1268BD",
+      "EDID": "VMS32",
+      "FULL": "Ouço Você Batendo",
+      "NNAM": {
+        "10": "Pegue um mecanismo de disparo de reposição para o obuseiro da Legião com os Boomers.",
+        "20": "Instale o mecanismo de disparo de reposição no obuseiro da Legião.",
+        "30": "Informe Lucius que o obuseiro foi consertado.",
+        "15": "Pegue o mecanismo de disparo da oficina dos Boomers."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:125E7E",
+      "FORMID": "125E7E",
+      "EDID": "VDeadSea",
+      "FULL": "Somos a Legião",
+      "NNAM": {
+        "10": "Mate todos os oficiais da NCR no Acampamento Forlorn Hope.",
+        "20": "Volte ao Dead Sea e informe sua vitória."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:124123",
+      "FORMID": "124123",
+      "EDID": "VMS29a",
+      "FULL": "Pássaros da Mesma Pena",
+      "NNAM": {
+        "10": "Saia e fale com Simon.",
+        "15": "Assuma uma posição do outro lado da entrada do Silver Rush.",
+        "20": "Guarde a entrada da Silver Rush.",
+        "25": "Volte para Gloria.",
+        "30": "Entregue o pacote a um homem no local designado.",
+        "35": "Volte para Gloria e diga que o pacote foi entregue.",
+        "36": "Fale com Jean-Baptiste para receber sua próxima tarefa.",
+        "40": "Encontre Rose of Sharon Cassidy e convença-a a segui-lo.",
+        "45": "Leve a garota Cassidy para Jean-Baptiste.",
+        "49": "Apresente-se a Gloria Van Graff para sua próxima tarefa.",
+        "50": "Mate as tropas restantes da Legião.",
+        "41": "(Opcional) Visite Alice McLafferty, que talvez saiba onde Rose of Sharon Cassidy está atualmente.",
+        "55": "Relate a Gloria Van Graff que todas as tropas da Legião estão mortas.",
+        "46": "Volte ao Silver Rush em Freeside e diga a Jean-Baptiste que a garota Cassidy está morta."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1214AB",
+      "FORMID": "1214AB",
+      "EDID": "VMS31",
+      "FULL": "Mistério Médico",
+      "NNAM": {
+        "20": "Procure no Acampamento Forlorn Hope por pistas sobre os suprimentos médicos desaparecidos.",
+        "60": "Report your findings to Dr. Richards.",
+        "100": "I informed Dr. Richards that Private Stone was stealing supplies.",
+        "90": "Return to Dr. Richards.",
+        "25": "Stake out the Camp Forlorn Hope Medical Center at night."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F935",
+      "FORMID": "11F935",
+      "EDID": "VTechatticup",
+      "FULL": "Por Onde Eu Vaguear",
+      "NNAM": {
+        "10": "Resgate os reféns da NCR da mina Techatticup.",
+        "20": "Volte para o Soldado Renolds.",
+        "110": "Os Reféns da NCR estão mortos."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A0C5",
+      "FORMID": "11A0C5",
+      "EDID": "vfreeformlucky38",
+      "FULL": "A Lua Surge Sobre a Torre",
+      "NNAM": {
+        "10": "Invada um ponto de acesso à rede de dados do Lucky 38 para os Seguidores do Apocalipse.",
+        "20": "Volte para Emily Ortal na Strip de New Vegas com a notícia de que a torre foi bugada.",
+        "15": "Disable the Lucky 38's network encryption from three executive consoles."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1176B8",
+      "FORMID": "1176B8",
+      "EDID": "VMS24",
+      "FULL": "Nada Além de um Cão de Caça",
+      "NNAM": {
+        "10": "Leve Rex ao Dr. Henry em Jacobstown para descobrir como ele pode ser consertado.",
+        "20": "Adquira um novo cérebro para Rex de um dos cachorros da Velha Gibson.",
+        "25": "(Opcional) Procure por um cérebro canino excepcional entre a Legião de Caesar.",
+        "30": "(Opcional) Procure por um cérebro canino excepcional entre os Demônios.",
+        "50": "Volte para Jacobstown e faça o transplante de cérebro de Rex.",
+        "1": "Fale com Julie Farkas sobre o que pode ser feito para ajudar Rex.",
+        "2": "Volte ao King com a notícia de que Rex pode ser curado."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11345D",
+      "FORMID": "11345D",
+      "EDID": "VMQTops",
+      "FULL": "Trim-Trim!",
+      "NNAM": {
+        "10": "Confronte Benny no cassino The Tops.",
+        "20": "Vá para a Suíte Presidencial.",
+        "30": "Sobreviva à Emboscada.",
+        "40": "Procure a suíte do Benny.",
+        "60": "Procure no quarto de Benny.",
+        "42": "Mate Benny.",
+        "5": "Procure na Strip o homem que atirou em você.",
+        "18": "Assassinar Benny.",
+        "43": "Recupere o Platinum Chip.",
+        "55": "(Opcional) Entregue o Chip ao Yes Man.",
+        "65": "Siga Benny até a suíte dele e fale com ele.",
+        "41": "Procure por Benny e o Chip de Platina no acampamento de Caesar em Fortification Hill.",
+        "44": "Localize Benny em Fortificação."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1132EF",
+      "FORMID": "1132EF",
+      "EDID": "VDialogueLucky38Entrance",
+      "FULL": "Diálogo de Entrada do Lucky 38"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112577",
+      "FORMID": "112577",
+      "EDID": "VMS22",
+      "FULL": "Inspiração Clássica",
+      "NNAM": {
+        "10": "Michael Angelo quer fotos de placas famosas em New Vegas.",
+        "30": "Tire uma foto da placa do Bison Steve.",
+        "20": "Tire uma foto do Termômetro de Dinossauro de Novac.",
+        "60": "Tire uma foto do letreiro da Garrafa na sede da Sunset Sarsaparilla.",
+        "50": "Tire uma foto da placa de HELIOS One.",
+        "40": "Tire uma foto da placa do Aeroporto McCarran.",
+        "70": "Volte a Michael Angelo para receber sua recompensa.",
+        "80": "Michael Angelo morreu. Você não poderá mais ajudá-lo."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:110A63",
+      "FORMID": "110A63",
+      "EDID": "VMS21",
+      "FULL": "O Quão Pouco Sabemos",
+      "NNAM": {
+        "5": "Fale com Cachino em Gomorra por Mick. Alguém no cassino deve saber como contatá-lo.",
+        "10": "Fale com Cachino sobre atividades suspeitas dos Omertas. Talvez outra pessoa na Gomorrah saiba como encontrá-lo.",
+        "20": "Procure no quarto ou na pessoa de Cachino alguma prova do comportamento dele. Talvez alguém tenha uma chave do quarto dele.",
+        "30": "O diário de Cachino deve ter provas suficientes para fazê-lo falar.",
+        "35": "(Opcional) Avise Mick e Ralph por que os Omertas pararam de comprar suas armas.",
+        "40": "(Opcional) Ajude Mick e Ralph a recuperar os negócios dos Omertas.",
+        "45": "Avise Mick e Ralph que os Omertas têm espaço no orçamento para comprar armas deles de novo.",
+        "31": "Venda o diário de Cachino de volta para ele e ajude a derrubar os chefes, ou mostre-o aos chefes para ficar do lado bom deles.",
+        "32": "Fale com Troike sobre os misteriosos carregamentos de armas.",
+        "33": "Descubra que tipo de trabalho Clanden faz para a família.",
+        "50": "Algo na história de Troike não me convence. Fale com Sal Grande ou procure alguma evidência para inocentá-lo.",
+        "51": "Troike gostaria de ajuda para convencer Salãozão a liberá-lo do contrato.",
+        "53": "Mostre a prova de chantagem de Big Sal para Troike.",
+        "55": "Salãozão concordou em liberar Troike do contrato dele. Volte para Troike e conte a boa notícia.",
+        "57": "Use o termite de Troike para destruir as armas na sala de armazenamento.",
+        "60": "Troike já deveria ter tido tempo suficiente para destruir as armas. Volte para Cachino para avisá-lo.",
+        "62": "Volte para Cachino e diga a ele que as armas foram destruídas.",
+        "70": "Clanden foi eliminado e não poderá mais ajudar os Omertas. Cachino deve ser informado.",
+        "64": "Vá até Cachino e os chefes da Omerta para encontrá-los e eliminá-los.",
+        "66": "Cachino concordou em eliminar os chefes Omerta durante nossa reunião com eles. Vá até Cachino quando estiver pronto.",
+        "75": "O guarda da porta sugeriu falar com Big Sal ou Nero sobre o diário de Cachino.",
+        "78": "Compareça à reunião de negócios de Cachino com Big Sal.",
+        "80": "Compareça à reunião de negócios de Cachino com Nero.",
+        "85": "Fale com Troike para ver que tipo de ajuda você pode dar a ele.",
+        "88": "Fale com Clanden para ver que tipo de ajuda ele precisa.",
+        "90": "Leve cloro para Clanden. Procure perto da piscina no Ultra-Luxe ou descubra quem os abastece.",
+        "95": "Recupere um carregamento roubado de peças de armas dos Demônios.",
+        "100": "Avise aos chefes que Clanden e Troike já têm tudo de que precisam.",
+        "67": "Mostre essas fitas do cofre de Clanden para Cachino ou confronte Clanden com elas.",
+        "68": "(Opcional) Mate Clanden.",
+        "69": "(Opcional) Use as fitas para convencer Clanden a trair a família.",
+        "71": "(Opcional) Entregar as fitas de Clanden à NCR para que ele seja acusado de assassinato.",
+        "58": "Troike vai destruir as armas para mim. Devo sair do cassino para dar tempo a ele.",
+        "110": "Os Omertas são inimigos e não aceitarão mais ajuda. Os chefes sobreviventes se esconderam.",
+        "1": "Fale com a recepcionista em Gomorra sobre as atividades dos Omerta.",
+        "81": "Cachino morreu. Fale com o chefe sobre o que fazer agora."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E908",
+      "FORMID": "10E908",
+      "EDID": "VMS20",
+      "FULL": "Confronto em Boulder City",
+      "NNAM": {
+        "10": "Encontre-se com Jessup, líder dos Grandes Khans em Boulder City.",
+        "50": "Ajude a NCR a matar todos os Grandes Khans entrincheirados nas ruínas de Boulder City.",
+        "60": "(Opcional) Suborne os soldados da NCR para deixarem os Grandes Khans escaparem.",
+        "70": "Volte ao Tenente Monroe e informe-o de que você fez um acordo com os Grandes Khans.",
+        "20": "Liberte os soldados da NCR mantidos como reféns pelos Grandes Khans.",
+        "80": "Diga a Jessup que os Grandes Khans estão livres para ir.",
+        "15": "Negocie a libertação dos reféns da NCR.",
+        "40": "Ajude os Grandes Khans a matar todas as tropas da NCR nas ruínas de Boulder City.",
+        "55": "Fale com o Tenente Monroe."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DC",
+      "FORMID": "10E1DC",
+      "EDID": "VFSDebtCollector",
+      "FULL": "Cobrador de Dívidas",
+      "NNAM": {
+        "100": "Entreguei o chapéu de McCaffery à Francine e recebi minha recompensa.",
+        "10": "Colete 138 tampinhas de Grecks em Freeside.",
+        "20": "Colete 212 tampinhas de Santiago em Freeside.",
+        "60": "Mate Caleb McCaffery.",
+        "30": "Encontre e colete 250 tampinhas de Lady Jane.",
+        "40": "Find Lady Jane's caravan and collect caps from the remains.",
+        "50": "Return to Francine with 600 caps.",
+        "55": "Return to Francine with 388 caps.",
+        "80": "Return to Francine with McCaffery's hat."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DA",
+      "FORMID": "10E1DA",
+      "EDID": "VFSHighTimes",
+      "FULL": "Chapados",
+      "NNAM": {
+        "15": "Encontre Jacob Hoff.",
+        "10": "Ajudar Bill Ronte com seu alcoolismo.",
+        "5": "Encontre Bill Ronte.",
+        "80": "Colete dez doses de Fixer para Jacob.",
+        "20": "Ajudar Jacob Hoff a se livrar do vício em estimulantes.",
+        "60": "Dê um jeito no traficante.",
+        "70": "Colete duas doses de Fixer, RadAway e uma garrafa de Uísque para Bill.",
+        "90": "Volte para Julie Farkas.",
+        "85": "(Opcional) Colete uma dose de Fixer, Psycho e Buffout para Jacob.",
+        "75": "(Opcional) Colete duas doses de Fixer e uma garrafa de Uísque para Bill."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D2C6",
+      "FORMID": "10D2C6",
+      "EDID": "VMS18",
+      "FULL": "Além da Carne",
+      "NNAM": {
+        "10": "Procure informações sobre o desaparecimento de Ted Gunderson no Ultra-Luxe.",
+        "20": "Pergunte a Mortimer no Ultra-Luxe sobre o investigador.",
+        "30": "Entre na sala do investigador no Ultra-Luxe.",
+        "40": "Encontre o contato do investigador na sala de vapor do Ultra-Luxe às 16h.",
+        "50": "Descubra um jeito de acessar a área \"Só para Membros\" do Gourmand.",
+        "60": "(Opcional) Encontre um patrocinador para ajudá-lo a entrar na Sociedade da Luva Branca.",
+        "70": "(Opcional) Avise Heck Gunderson sobre a situação do filho dele.",
+        "80": "Leve Ted de volta para o pai dele, se ele ainda estiver vivo.",
+        "90": "Fale com Heck Gunderson.",
+        "100": "Fale com Ted Gunderson, que está preso em uma sala abaixo do Refeições Finas.",
+        "120": "Fale com Carlyle St. Clair na residência dele ao norte da Strip.",
+        "110": "Garantir um substituto aceitável para Ted Gunderson como prato principal da Sociedade White Glove.",
+        "75": "(Opcional) Livre-se de Philippe e cozinhe para o banquete usando a receita de carne humana dele.",
+        "76": "(Opcional) Drogar o vinho no banquete da Sociedade da Luva Branca.",
+        "78": "(Opcional) Use o interfone para chamar o maître.",
+        "79": "(Opcional) Leve Ted à seção Só para Membros para expor Mortimer no final do discurso do banquete.",
+        "200": "Volte para Mortimer no Ultra-Luxe.",
+        "160": "Colete amostras do cadáver de Ted para incriminar o pai dele.",
+        "170": "Distribua suas amostras ao redor da cama e da pia de Heck Gunderson na suíte dele no Ultra-Luxe.",
+        "180": "Envie um Securitron da Strip para investigar a suíte de Heck Gunderson.",
+        "150": "Mate Ted Gunderson.",
+        "130": "Arraste o corpo de Drag Carlyle para a lixeira ao lado da casa dele.",
+        "105": "Leve Ted de volta para o pai dele no bar Top Shelf do Ultra-Luxe.",
+        "125": "(Opcional) Tranque um de seus companheiros humanos no congelador da cozinha do Ultra-Luxe como substituto de Ted.",
+        "35": "Procure pistas no Investigador."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF5DF",
+      "FORMID": "0FF5DF",
+      "EDID": "VMS15",
+      "FULL": "Volare!",
+      "NNAM": {
+        "25": "Ajude os Boomers em Nellis.",
+        "30": "Volte para Pearl.",
+        "35": "Fale com Loyal sobre o plano dos Boomers de erguer o bombardeiro do fundo do Lago Mead.",
+        "40": "Prenda o lastro de Loyal ao B-29 no fundo do Lago Mead.",
+        "42": "(Opcional) Fale com Jack sobre conseguir um reanimador para nadar até o fundo do Lago Mead.",
+        "43": "(Opcional) Jack precisa de algumas peças de uma panela de pressão para terminar seu reanimador.",
+        "45": "Volte para a margem perto do guincho de reboque e use o detonador de Loyal para trazer o B-29 à superfície.",
+        "50": "Volte para Loyal para avisá-lo de que o B-29 foi retirado do fundo do lago.",
+        "55": "Avise Pearl que seu trabalho está feito."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8892",
+      "FORMID": "0F8892",
+      "EDID": "VMS13",
+      "FULL": "Os Coiotes",
+      "NNAM": {
+        "10": "Vá para Westside e fale com Saint James sobre os refugiados da NCR desaparecidos.",
+        "20": "Procure por evidências no quarto de Dermot nos Apartamentos Casa Madrid.",
+        "30": "Procure por evidências no quarto de Saint James nos Apartamentos Casa Madrid.",
+        "40": "(Opcional) Confrontar Dermot ou Saint James com as evidências que você coletou.",
+        "50": "(Opcional) Mate Saint James e Dermot.",
+        "60": "Conte ao Capitão Parker o que aconteceu com os refugiados desaparecidos."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81BD",
+      "FORMID": "0F81BD",
+      "EDID": "VMS12",
+      "FULL": "Três Cartas Premiadas",
+      "NNAM": {
+        "10": "Mate Violet e pegue a cabeça dela... de preferência intacta.",
+        "20": "Mate Cook-Cook e pegue a cabeça dele, de preferência intacta.",
+        "30": "Mate o Motorista Nephi e pegue a cabeça dele... de preferência intacta.",
+        "40": "Volte ao Major Dhatri com a cabeça de Violet e colete a recompensa.",
+        "31": "(Opcional) Recrute o Tenente Gorobets e seus atiradores da Primeira Recon para derrubar o Motorista Nephi.",
+        "50": "Volte ao Major Dhatri com a cabeça do Cook-Cook e receba a recompensa.",
+        "60": "Volte ao Major Dhatri com a cabeça do Motorista Nephi e colete a recompensa.",
+        "5": "O Major Dhatri tem recompensas disponíveis. Fale com ele para receber uma missão ou entregar uma recompensa.",
+        "21": "(Opcional) Mate Queenie, a Brahmin favorita de Cook-Cook, para que ele enlouqueça e ataque amigos e inimigos.",
+        "22": "(Opcional) Fale com Little Buster sobre Cook-Cook."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F2429",
+      "FORMID": "0F2429",
+      "EDID": "VDialogueVegasNorth",
+      "FULL": "Alguém Para Cuidar de Mim",
+      "NNAM": {
+        "10": "Dê um jeito nos recém-chegados.",
+        "20": "Lide com o bando de encrenqueiros.",
+        "30": "Fale com a Sra. Hostetler.",
+        "40": "Descubra informações sobre os novos amigos de Alice Hostetler.",
+        "50": "Nenhum sinal de Alice ou Andy. Inspecione O Cinzento em busca de pistas sobre o paradeiro deles.",
+        "25": "Fale com Crandon sobre os engraxadores nos esgotos.",
+        "15": "Fale com Crandon sobre os recém-chegados.",
+        "45": "Procure por Alice Hostetler e seu amigo, Andy, no prédio chamado The Gray.",
+        "60": "Conte para a Sra. Hostetler sobre o plano de Andy de roubar o dinheiro da Caravana Carmesim.",
+        "63": "(Opcional) Ajudar Andy com seu plano de roubar o dinheiro do Crimson Caravan dos Hostetlers.",
+        "70": "Alice quase atacou a mãe dela. Ela decidiu deixar pra lá e ficar com os pais.",
+        "72": "Alice atacou a casa dela. Ela decidiu fugir de New Vegas.",
+        "74": "Alice atacou a casa dela. Ela morreu depois de atacar a mãe dela.",
+        "76": "Alice atacou a casa dela. Depois de atacar a mãe, as duas morreram.",
+        "78": "Alice quase atacou a mãe, mas em vez disso deixou New Vegas para encontrar seu próprio caminho.",
+        "80": "Pegue o dinheiro da Crimson Caravan.",
+        "85": "Embora entristecida pela fuga de Alice, a Sra. Hostetler queria cumprir sua parte do acordo.",
+        "87": "A Sra. Hostetler queria cumprir sua parte do acordo e ficou aliviada por Alice ter decidido ficar com eles.",
+        "90": "Não tinha dinheiro da Caravana Carmesim.",
+        "82": "Fale com a Sra. Hostetler.",
+        "88": "A Sra. Hostetler ficou arrasada após a morte de Alice. Ela não será mais de ajuda.",
+        "89": "A Sra. Hostetler ficou arrasada depois da fuga de Alice. Ela não será mais de ajuda.",
+        "29": "Crandon morreu. Não pode mais ajudá-lo."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0629",
+      "FORMID": "0F0629",
+      "EDID": "VMS11",
+      "FULL": "A Lavagem Branca",
+      "NNAM": {
+        "10": "Fale com Dazzle sobre o Cabo White desaparecido.",
+        "20": "Descubra o que Trent Bascom sabe sobre o Cabo White.",
+        "30": "Fale com o Tenente Romanowski sobre o Cabo White.",
+        "40": "Pergunte a Tom Anderson sobre o paradeiro do Cabo White.",
+        "50": "Encontre outra pessoa em Westside que possa ter visto o Cabo White.",
+        "60": "Siga Hector durante o dia e descubra onde ele está pegando água.",
+        "70": "Confronte Anderson sobre o desaparecimento do Cabo White.",
+        "80": "Fale com Etienne para concluir seu acordo de \"negócios\" com Anderson.",
+        "90": "Conte ao Tenente Boyd o que aconteceu com o Cabo White.",
+        "75": "Mate Anderson.",
+        "5": "(Opcional) Examine os pertences do Cabo White no armário dele na área do saguão de McCarran."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E790F",
+      "FORMID": "0E790F",
+      "EDID": "VMS08",
+      "FULL": "Eu Joguei um Feitiço em Você",
+      "NNAM": {
+        "10": "Fale com o Capitão Curtis.",
+        "20": "Pergunte sobre atividades suspeitas no Campo McCarran.",
+        "30": "Investigue as invasões noturnas na torre de controle do Campo McCarran.",
+        "40": "Encontre e desative a bomba no monotrilho de McCarran antes que ele deixe o terminal.",
+        "50": "Apresente-se ao Coronel Hsu.",
+        "60": "Pegue os explosivos e os ingredientes da bomba na lata de lixo perto do balcão de emissão de bilhetes no terminal do Campo McCarran.",
+        "70": "Plante uma carga explosiva em uma ventoinha na parede traseira do vagão do monotrilho de McCarran.",
+        "80": "Desça do trem e veja-o partir.",
+        "90": "Plante uma bateria de fissão, um condutor, Supercola, uma caixa de Detergente Abraxo e os planos dentro do armário do Soldado Crenshaw.",
+        "100": "Reporte-se ao Coronel Hsu e incrimine o Soldado Crenshaw.",
+        "110": "Volte ao Capitão Curtis.",
+        "95": "Mate o Soldado Crenshaw.",
+        "55": "Oferecer ajuda ao Coronel Hsu para encontrar o espião.",
+        "65": "Pegue os explosivos na lata de lixo ao lado do balcão de bilhetes no edifício do terminal do Acampamento McCarran.",
+        "57": "Reporte a recusa do Coronel Hsu ao Capitão Curtis.",
+        "35": "Espionar a transmissão de rádio.",
+        "53": "Veja se consegue ajudar o Capitão Curtis na operação dele no Campo McCarran."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E282D",
+      "FORMID": "0E282D",
+      "EDID": "VMS03",
+      "FULL": "Aquele Velho Sol Sortudo",
+      "NNAM": {
+        "20": "Conecte-se ao mainframe da HELIOS One pelo terminal de controle do refletor oeste.",
+        "30": "Conecte-se ao mainframe de HELIOS One pelo terminal de controle do refletor leste.",
+        "50": "Restaurar a energia para o mainframe da HELIOS One através de um gerador auxiliar.",
+        "60": "Use o mainframe de HELIOS One para enviar energia para um destino de sua escolha.",
+        "70": "Inicie o redirecionamento do refletor do console no mirante da torre.",
+        "5": "Fale com o idiota de óculos escuros no fundo do prédio da HELIOS One.",
+        "80": "Fale com o Fantastic.",
+        "90": "Fale com Ignacio.",
+        "65": "(Optional) Arm ARCHIMEDES security system to wipe out all nearby NCR soldiers."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D0E3",
+      "FORMID": "08D0E3",
+      "EDID": "VMS02",
+      "FULL": "Eu Lutei Contra a Lei",
+      "NNAM": {
+        "10": "Lide com Chavez.",
+        "20": "Rastreie o mercador suspeito e livre-se dele.",
+        "30": "Fale com os moradores de Primm e descubra o que a NCR está planejando para a penitenciária (se é que estão planejando algo).",
+        "15": "Diga a Eddie que você lidou com Chavez.",
+        "25": "Volte para Eddie.",
+        "35": "Volte para Eddie com informações sobre o ataque planejado da NCR.",
+        "40": "Encontre-se com o Sargento Lee.",
+        "50": "Mate Eddie.",
+        "55": "Volte para Eddie.",
+        "36": "(Opcional) Traia Eddie oferecendo ajuda ao Tenente Hayes para retomar a prisão."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0842DD",
+      "FORMID": "0842DD",
+      "EDID": "VMQ01",
+      "FULL": "Eles Foram Por Ali!",
+      "NNAM": {
+        "20": "(Opcional) Pergunte no saloon em Goodsprings sobre seus atacantes.",
+        "10": "Encontre os homens que tentaram te matar.",
+        "30": "Pergunte sobre sua tarefa de entrega ao administrador do Mojave Express em Primm.",
+        "40": "Vá para Novac passando por Nipton. Pergunte em Novac sobre seus atacantes.",
+        "50": "Intercepte os Grandes Khans em Boulder City.",
+        "60": "Descubra a localização atual do Platinum Chip.",
+        "25": "(Opcional) Fale com Victor em Goodsprings sobre seu resgate.",
+        "45": "Descubra com Manny Vargas para onde os Khans estavam indo.",
+        "34": "Encontre o xerife de Primm para obter informações sobre o paradeiro dos seus atacantes.",
+        "36": "Pegue o diário de Beagle do corpo dele para obter informações sobre seus atacantes.",
+        "46": "Procure no corpo de Manny por pistas sobre o paradeiro dos seus atacantes.",
+        "38": "Ouça o diário de Beagle para obter informações sobre para onde seus atacantes foram."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:080664",
+      "FORMID": "080664",
+      "EDID": "VMS01",
+      "FULL": "Venha Voar Comigo",
+      "NNAM": {
+        "10": "Entre na instalação e descubra a origem dos Ghouls.",
+        "20": "Fale com Jason Bright, o líder dos Ghouls da REPCONN.",
+        "100": "Suba até a plataforma de observação e complete a sequência de lançamento.",
+        "30": "Fale com Chris Haversam sobre consertar os foguetes.",
+        "90": "(Opcional) Sabote os foguetes para que caiam no lançamento.",
+        "40": "Encontre combustível atômico para os foguetes.",
+        "50": "Encontre peças para consertar os controladores de propulsão dos foguetes.",
+        "60": "Livre-se dos Nightkin no porão.",
+        "61": "(Opcional) Procure na sala próxima a remessa de Stealth Boys que os Nightkin estão procurando.",
+        "41": "Volte à Instalação de Foguetes e entregue o combustível a Chris Haversam.",
+        "51": "Volte à Instalação de Foguetes e entregue as peças para Chris Haversam.",
+        "62": "Informe Jason Bright que os Nightkin se foram.",
+        "80": "Leve 3 Bombas de Açúcar para Chris Haversam.",
+        "63": "(Opcional) Encontre o amigo de Harland, que foi aprisionado pelos Nightkin.",
+        "70": "Fale com Chris Haversam para começar os preparativos para o lançamento do foguete.",
+        "64": "(Opcional) Volte para Harland e conte as más notícias.",
+        "15": "Suba as escadas para se encontrar com o dono da voz do interfone.",
+        "5": "Vá até a instalação da REPCONN a oeste de Novac para investigar rumores de atividade de Ghouls no local.",
+        "65": "(Opcional) Encontre o líder dos \"demônios\" e fale com ele.",
+        "21": "Vá para o porão da REPCONN e fale com Jason Bright sobre o que vem a seguir.",
+        "69": "(Opcional) Volte para Davison com a notícia de que os Stealth Boys não estão na instalação da REPCONN."
+      }
+    }
+  ]
+}

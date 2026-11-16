@@ -1,0 +1,1108 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@Zeta.esm:00ACF7",
+      "FORMID": "00ACF7",
+      "EDID": "DLC05MZ2TLSallyDoorUnlock",
+      "FULL": "Porque você não se espreme num tubo de ventilação e abre a câmara de descompressão?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AC13",
+      "FORMID": "00AC13",
+      "EDID": "her",
+      "FULL": "ella"
+    },
+    {
+      "FORM": "@Zeta.esm:00ABF1",
+      "FORMID": "00ABF1",
+      "EDID": "DLC05TLBridgeDoor",
+      "FULL": "Por que eu não posso sair da ponte pela porta?"
+    },
+    {
+      "FORM": "@Zeta.esm:00ABF0",
+      "FORMID": "00ABF0",
+      "EDID": "DLC05PQTLWherePaulson",
+      "FULL": "Onde está Paulson?"
+    },
+    {
+      "FORM": "@Zeta.esm:00ABE9",
+      "FORMID": "00ABE9",
+      "EDID": "DLC05MZ2SomahBackgroundLK",
+      "FULL": "Ei, está tudo bem. Você pode me contar o que quiser. Não vou te julgar."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABE8",
+      "FORMID": "00ABE8",
+      "EDID": "DLC05MZ2SomahBackgroundNM",
+      "FULL": "Esqueça o que eu disse."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABE7",
+      "FORMID": "00ABE7",
+      "EDID": "DLC05MZ2SomahBackgroundSpeech1",
+      "FULL": "Deve haver uma razão para você não querer falar sobre si mesmo. Do que se trata?"
+    },
+    {
+      "FORM": "@Zeta.esm:00ABE6",
+      "FORMID": "00ABE6",
+      "EDID": "DLC05MZ2SomahBackgroundSpeech2",
+      "FULL": "Eu encontrei esta gravação ... Parece que você se arrepende de algo que fez."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB8",
+      "FORMID": "00ABB8",
+      "EDID": "DLC05MZ1SomahFightB5",
+      "FULL": "Se tivermos sorte, um amigo meu pode aparecer para ajudar."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB6",
+      "FORMID": "00ABB6",
+      "EDID": "DLC05MZ2PaulsonBackgroundBW",
+      "FULL": "Ah, qual é. Você pode me dizer qualquer coisa. Eu vou entender."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB5",
+      "FORMID": "00ABB5",
+      "EDID": "DLC05MZ2PaulsonBackgroundSpeech1",
+      "FULL": "Você pode me dizer o que aconteceu. Está tudo bem."
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB4",
+      "FORMID": "00ABB4",
+      "EDID": "DLC05MZ2PaulsonBackgroundSpeech2",
+      "FULL": "Eu encontrei uma gravação sua. Você quer falar sobre sua família?"
+    },
+    {
+      "FORM": "@Zeta.esm:00ABB3",
+      "FORMID": "00ABB3",
+      "EDID": "DLC05MZ2PaulsonBackgroundNM",
+      "FULL": "Desculpe. Esqueça o que eu disse."
+    },
+    {
+      "FORM": "@Zeta.esm:00AB91",
+      "FORMID": "00AB91",
+      "EDID": "DLC05MZ2TLAlienIntentions",
+      "FULL": "O que você acha que eles querem de nós?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AB90",
+      "FORMID": "00AB90",
+      "EDID": "DLC05MZ2TLSallyCAHStash",
+      "FULL": "Ei, você já esteve em todos os lugares... você tem alguma coisa escondida por aqui?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AB8F",
+      "FORMID": "00AB8F",
+      "EDID": "DLC05MZ2SamuraiSwordFound01",
+      "FULL": "Eu encontrei esta espada ... É sua?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AB8E",
+      "FORMID": "00AB8E",
+      "EDID": "DLC05MZ2SamuraiSwordFound02",
+      "FULL": "Eu sei que você não me entende, mas achei que te cairia bem esta espada."
+    },
+    {
+      "FORM": "@Zeta.esm:00AB8D",
+      "FORMID": "00AB8D",
+      "EDID": "DLC05MZ2SamuraiSwordFound03",
+      "FULL": "Opa, desculpe. É igual."
+    },
+    {
+      "FORM": "@Zeta.esm:00AB47",
+      "FORMID": "00AB47",
+      "EDID": "DLC05PQTLReport",
+      "FULL": "Alguma novidade?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AB46",
+      "FORMID": "00AB46",
+      "EDID": "DLC05PQTLWeapon",
+      "FULL": "Não me viriam mau mais destas armas alienígenas. Você tem alguma?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AB45",
+      "FORMID": "00AB45",
+      "EDID": "DLC05PQTLSallyWhatsUp",
+      "FULL": "Como é a vida no espaço?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AAC3",
+      "FORMID": "00AAC3",
+      "EDID": "DLC05FF01yLost",
+      "FULL": "Estamos perdidos, não estamos?"
+    },
+    {
+      "FORM": "@Zeta.esm:00AAC2",
+      "FORMID": "00AAC2",
+      "EDID": "DLC05FF01ySmellsHere",
+      "FULL": "Que cheiro incrível que você descobriu..."
+    },
+    {
+      "FORM": "@Zeta.esm:00AAC1",
+      "FORMID": "00AAC1",
+      "EDID": "DLC05FF01yGetOuttaHere",
+      "FULL": "Vamos apenas sair daqui."
+    },
+    {
+      "FORM": "@Zeta.esm:00A74B",
+      "FORMID": "00A74B",
+      "EDID": "DLC05PostGreet1",
+      "FULL": "Obrigado pela sua ajuda. Nós não teríamos conseguido sem você."
+    },
+    {
+      "FORM": "@Zeta.esm:00A74A",
+      "FORMID": "00A74A",
+      "EDID": "DLC05PostGreet2",
+      "FULL": "O que você vai fazer agora?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A749",
+      "FORMID": "00A749",
+      "EDID": "DLC05PostGreet3",
+      "FULL": "Uma viagenzinha de merda, não é?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A73B",
+      "FORMID": "00A73B",
+      "EDID": "DLC05MZ3SallyLabTeleporter1",
+      "FULL": "Estamos aqui. E agora?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A73A",
+      "FORMID": "00A73A",
+      "EDID": "DLC05MZ3SallyLabTeleporter2",
+      "FULL": "Há um teletransportador que leva à ponte, mas não funciona."
+    },
+    {
+      "FORM": "@Zeta.esm:00A739",
+      "FORMID": "00A739",
+      "EDID": "DLC05MZ3SallyLabTeleporter3",
+      "FULL": "Como esta indo?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A715",
+      "FORMID": "00A715",
+      "EDID": "DLC05MZ1SallyCryoTubes1",
+      "FULL": "O que são essas coisas?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A714",
+      "FORMID": "00A714",
+      "EDID": "DLC05MZ1SallyCryoTubes2",
+      "FULL": "Quem são estas pessoas?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A713",
+      "FORMID": "00A713",
+      "EDID": "DLC05MZ1SallyCryoTubes3",
+      "FULL": "Por que precisamos da ajuda de um 'astronauta'?"
+    },
+    {
+      "FORM": "@Zeta.esm:00A712",
+      "FORMID": "00A712",
+      "EDID": "DLC05MZ1SallyCryoTubesGoodbye",
+      "FULL": "Ok, vamos falar com o astronauta."
+    },
+    {
+      "FORM": "@Zeta.esm:00A6EF",
+      "FORMID": "00A6EF",
+      "EDID": "DLC05ConvTLSallyGenerator",
+      "FULL": "Para que servem esses geradores? Como eles funcionam?"
+    },
+    {
+      "FORM": "@Zeta.esm:008AB7",
+      "FORMID": "008AB7",
+      "EDID": "DLC05MZ2TLLevelHelp",
+      "FULL": "Você acha que algumas destas coisas poderiam ser úteis para nós?"
+    },
+    {
+      "FORM": "@Zeta.esm:007EAC",
+      "FORMID": "007EAC",
+      "EDID": "DLC05FF01whatNow",
+      "FULL": "Bem, isso foi ... Divertido. E agora?"
+    },
+    {
+      "FORM": "@Zeta.esm:007EAB",
+      "FORMID": "007EAB",
+      "EDID": "DLC05FF01retrospective",
+      "FULL": "Obrigado por nada, Sally."
+    },
+    {
+      "FORM": "@Zeta.esm:007EAA",
+      "FORMID": "007EAA",
+      "EDID": "DLC05FF01GOODBYE",
+      "FULL": "Vamos voltar ao motor central."
+    },
+    {
+      "FORM": "@Zeta.esm:007EA9",
+      "FORMID": "007EA9",
+      "EDID": "DLC05FF01xIamFine",
+      "FULL": "Eu estou bem. Não graças a você."
+    },
+    {
+      "FORM": "@Zeta.esm:007EA7",
+      "FORMID": "007EA7",
+      "EDID": "DLC05FF01xIamFineNice",
+      "FULL": "Eu estou bem. E você?"
+    },
+    {
+      "FORM": "@Zeta.esm:007EA6",
+      "FORMID": "007EA6",
+      "EDID": "DLC05FF01xBackUp",
+      "FULL": "Vamos voltar pelo caminho que viemos."
+    },
+    {
+      "FORM": "@Zeta.esm:007EA5",
+      "FORMID": "007EA5",
+      "EDID": "DLC05FF01xwhereWeLanded",
+      "FULL": "Onde você esta nos levando desta vez?"
+    },
+    {
+      "FORM": "@Zeta.esm:007E1C",
+      "FORMID": "007E1C",
+      "EDID": "DLC05MZ3SallyTeleporter1",
+      "FULL": "Ok, espere aqui. Vou ver se consigo encontrar os controles."
+    },
+    {
+      "FORM": "@Zeta.esm:007E1B",
+      "FORMID": "007E1B",
+      "EDID": "DLC05MZ3SallyTeleporter2",
+      "FULL": "Esqueça o teletransportador. Vamos."
+    },
+    {
+      "FORM": "@Zeta.esm:007E1A",
+      "FORMID": "007E1A",
+      "EDID": "DLC05MZ3SallyTeleporter3",
+      "FULL": "Tem certeza que isto é uma boa ideia?"
+    },
+    {
+      "FORM": "@Zeta.esm:007B8F",
+      "FORMID": "007B8F",
+      "EDID": "DLC05SteamSallyTopicGrenadeFrag",
+      "FULL": "Tome esta granada de fragmentação."
+    },
+    {
+      "FORM": "@Zeta.esm:007B8E",
+      "FORMID": "007B8E",
+      "EDID": "DLC05SteamSallyTopicGrenadePlasma",
+      "FULL": "Tome esta granada de plasma."
+    },
+    {
+      "FORM": "@Zeta.esm:007B8D",
+      "FORMID": "007B8D",
+      "EDID": "DLC05SteamSallyTopicGrenadeIdea",
+      "FULL": "Que tal se eu distraí-los e você ir por trás deles e lhes atirar uma granada?"
+    },
+    {
+      "FORM": "@Zeta.esm:007B8C",
+      "FORMID": "007B8C",
+      "EDID": "DLC05SteamSallyTopicGoodbye",
+      "FULL": "Não se preocupe com isso."
+    },
+    {
+      "FORM": "@Zeta.esm:007B8B",
+      "FORMID": "007B8B",
+      "EDID": "DLC05SteamSallyTopicPlayerHandle",
+      "FULL": "Deixa comigo."
+    },
+    {
+      "FORM": "@Zeta.esm:007A64",
+      "FORMID": "007A64",
+      "EDID": "DLC05MZ2TLSamurai",
+      "FULL": "O que você sabe sobre o tal de Toshiro Kago?"
+    },
+    {
+      "FORM": "@Zeta.esm:00797B",
+      "FORMID": "00797B",
+      "EDID": "DLC05MZ2SamuraiGreet01",
+      "FULL": "Ei, você está bem?"
+    },
+    {
+      "FORM": "@Zeta.esm:00797A",
+      "FORMID": "00797A",
+      "EDID": "DLC05MZ2SamuraiGreet02",
+      "FULL": "Como? O que você disse?"
+    },
+    {
+      "FORM": "@Zeta.esm:007979",
+      "FORMID": "007979",
+      "EDID": "DLC05MZ2SamuraiGreet03",
+      "FULL": "Acalme-se. Nós tentamos escapar. Pode nos ajudar?"
+    },
+    {
+      "FORM": "@Zeta.esm:007978",
+      "FORMID": "007978",
+      "EDID": "DLC05MZ2SamuraiGreet04",
+      "FULL": "Ah, caralho. Não fala inglês? Isto vai ser um grande desperdício de tempo."
+    },
+    {
+      "FORM": "@Zeta.esm:007977",
+      "FORMID": "007977",
+      "EDID": "DLC05MZ2SamuraiGreet05",
+      "FULL": "Desculpe, mas eu não entendo."
+    },
+    {
+      "FORM": "@Zeta.esm:007976",
+      "FORMID": "007976",
+      "EDID": "DLC05MZ2SamuraiGreet06",
+      "FULL": "Eu não entendo nenhuma maldita palavra."
+    },
+    {
+      "FORM": "@Zeta.esm:007975",
+      "FORMID": "007975",
+      "EDID": "DLC05MZ2SamuraiGreet07",
+      "FULL": "Eu encontrei esta espada ... Não é sua?"
+    },
+    {
+      "FORM": "@Zeta.esm:0076B0",
+      "FORMID": "0076B0",
+      "EDID": "DLC05MZ1SallyTLHowKnowSoMuch",
+      "FULL": "Como é que você sabe tanto sobre este lugar?"
+    },
+    {
+      "FORM": "@Zeta.esm:0076AF",
+      "FORMID": "0076AF",
+      "EDID": "DLC05MZ1SallyTLWhyAlone",
+      "FULL": "Você está sozinha? Onde está a sua família?"
+    },
+    {
+      "FORM": "@Zeta.esm:0076AE",
+      "FORMID": "0076AE",
+      "EDID": "DLC05MZ3GreetDeathRay1",
+      "FULL": "Que diabos foi isso?"
+    },
+    {
+      "FORM": "@Zeta.esm:0076AD",
+      "FORMID": "0076AD",
+      "EDID": "DLC05MZ3GreetDeathRay2",
+      "FULL": "Não tenho nem ideia do que ele disse, mas parecia bastante irritado."
+    },
+    {
+      "FORM": "@Zeta.esm:0076AC",
+      "FORMID": "0076AC",
+      "EDID": "DLC05MZ3GreetDeathRay3",
+      "FULL": "Temos que descobrir o que era aquilo e detê-lo"
+    },
+    {
+      "FORM": "@Zeta.esm:007565",
+      "FORMID": "007565",
+      "EDID": "DLC05ConvTLTercorienCryoWeapons",
+      "FULL": "Você acha que poderia fazer uso das coisas que você pegou no Laboratório de Criogenia?"
+    },
+    {
+      "FORM": "@Zeta.esm:006FBB",
+      "FORMID": "006FBB",
+      "EDID": "DLC05MZ1TLSallyWhereNow",
+      "FULL": "Você sabe para onde estamos indo?"
+    },
+    {
+      "FORM": "@Zeta.esm:006E4F",
+      "FORMID": "006E4F",
+      "EDID": "DLC05CryoElliotChoice03",
+      "FULL": "Deveríamos deixá-los aqui. É tarde demais para eles."
+    },
+    {
+      "FORM": "@Zeta.esm:006E4E",
+      "FORMID": "006E4E",
+      "EDID": "DLC05CryoElliotChoice04",
+      "FULL": "Já sei o que vamos fazer."
+    },
+    {
+      "FORM": "@Zeta.esm:006E4C",
+      "FORMID": "006E4C",
+      "EDID": "DLC05CryoElliotTLLabSealed",
+      "FULL": "Por que estamos presos dentro do laboratório?"
+    },
+    {
+      "FORM": "@Zeta.esm:006DDC",
+      "FORMID": "006DDC",
+      "EDID": "DLC05MZ1SomahGreetFree1",
+      "FULL": "Esse era o seu plano?"
+    },
+    {
+      "FORM": "@Zeta.esm:006DDB",
+      "FORMID": "006DDB",
+      "EDID": "DLC05MZ1SomahGreetFree2",
+      "FULL": "Você tem alguma ideia de onde estamos e como podemos ir para casa?"
+    },
+    {
+      "FORM": "@Zeta.esm:006DDA",
+      "FORMID": "006DDA",
+      "EDID": "DLC05MZ1SomahGreetFree3",
+      "FULL": "A partir de agora, eu me encarrego."
+    },
+    {
+      "FORM": "@Zeta.esm:006DD9",
+      "FORMID": "006DD9",
+      "EDID": "DLC05MZ1SallyGreetC1",
+      "FULL": "Obrigado, garota. Vamos sair daqui... Você quer vir com a gente?"
+    },
+    {
+      "FORM": "@Zeta.esm:006DD8",
+      "FORMID": "006DD8",
+      "EDID": "DLC05MZ1SallyGreetC2",
+      "FULL": "Como você fez isso?"
+    },
+    {
+      "FORM": "@Zeta.esm:006DD7",
+      "FORMID": "006DD7",
+      "EDID": "DLC05MZ1SallyGreetC3",
+      "FULL": "Ouça, corremos perigo se ficarmos aqui.."
+    },
+    {
+      "FORM": "@Zeta.esm:006DAA",
+      "FORMID": "006DAA",
+      "EDID": "DLC05CryoElliotChoice1b2b",
+      "FULL": "Sim, talvez você tenha razão."
+    },
+    {
+      "FORM": "@Zeta.esm:006C80",
+      "FORMID": "006C80",
+      "EDID": "DLC05BridgeTopicPaulsonERoom",
+      "FULL": "Você acha que você poderia cuidar do pequeno problema do motor central?"
+    },
+    {
+      "FORM": "@Zeta.esm:006BFE",
+      "FORMID": "006BFE",
+      "EDID": "DLC05CryoElliotChoice01",
+      "FULL": "Quanto tempo eles durarão se nós reanimá-los?"
+    },
+    {
+      "FORM": "@Zeta.esm:006BFD",
+      "FORMID": "006BFD",
+      "EDID": "DLC05CryoElliotChoice02",
+      "FULL": "Deveríamos apenas acabar com seu sofrimento."
+    },
+    {
+      "FORM": "@Zeta.esm:006BFC",
+      "FORMID": "006BFC",
+      "EDID": "DLC05CryoElliotChoiceRevive",
+      "FULL": "Reanime-os e deixe-os lutar conosco."
+    },
+    {
+      "FORM": "@Zeta.esm:006BFB",
+      "FORMID": "006BFB",
+      "EDID": "DLC05CryoElliotChoiceMisery",
+      "FULL": "Acabe logo com isto... Acabe com o seu sofrimento."
+    },
+    {
+      "FORM": "@Zeta.esm:006BFA",
+      "FORMID": "006BFA",
+      "EDID": "DLC05CryoElliotChoice1e",
+      "FULL": "Deixe-os! Nosso objetivo é destruir o gerador."
+    },
+    {
+      "FORM": "@Zeta.esm:006BF9",
+      "FORMID": "006BF9",
+      "EDID": "DLC05CryoElliotChoiceThink",
+      "FULL": "Deixe que eu te perguntar algo antes de tomar uma decisão."
+    },
+    {
+      "FORM": "@Zeta.esm:006BF8",
+      "FORMID": "006BF8",
+      "EDID": "DLC05CryoElliotChoiceLeave",
+      "FULL": "Nós temos um objetivo, soldado: Sairmos imediatamente."
+    },
+    {
+      "FORM": "@Zeta.esm:006839",
+      "FORMID": "006839",
+      "EDID": "DLC05MZ1SomahTalk4",
+      "FULL": "Que diabos foi isso? Onde é que esse cara vai?"
+    },
+    {
+      "FORM": "@Zeta.esm:005AE4",
+      "FORMID": "005AE4",
+      "EDID": "DLC05AsmSomahChoice02Negative",
+      "FULL": "É, eu estou vendo. Verei como podemos passar."
+    },
+    {
+      "FORM": "@Zeta.esm:0058C3",
+      "FORMID": "0058C3",
+      "EDID": "DLC05BridgeTopicElliotInitial",
+      "FULL": "O que você tem ai?"
+    },
+    {
+      "FORM": "@Zeta.esm:0058C2",
+      "FORMID": "0058C2",
+      "EDID": "DLC05BridgeTopicElliotShields",
+      "FULL": "Como está a exploração pelos Inibidores?"
+    },
+    {
+      "FORM": "@Zeta.esm:00573A",
+      "FORMID": "00573A",
+      "EDID": "DLC05MZ3SomahGreet1",
+      "FULL": "Agora assumimos o controle da nave."
+    },
+    {
+      "FORM": "@Zeta.esm:005739",
+      "FORMID": "005739",
+      "EDID": "DLC05MZ3SomahGreet2",
+      "FULL": "Estou improvisando."
+    },
+    {
+      "FORM": "@Zeta.esm:005738",
+      "FORMID": "005738",
+      "EDID": "DLC05MZ3SomahGreet3",
+      "FULL": "Eu esperava que você soubesse o que fazer agora."
+    },
+    {
+      "FORM": "@Zeta.esm:0055F1",
+      "FORMID": "0055F1",
+      "EDID": "DLC05ConvTLSomahRepair",
+      "FULL": "Já que você parece tão familiarizado com meu equipamento, você poderia repara-lo?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055F0",
+      "FORMID": "0055F0",
+      "EDID": "DLC05ConvTLSomahRepair01",
+      "FULL": "Bem, dadas as circunstâncias, você não acha isso uma idiotice?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055EF",
+      "FORMID": "0055EF",
+      "EDID": "DLC05ConvTLSomahRepair02",
+      "FULL": "Ok, certo, como quiseres. Apenas dê uma olhada."
+    },
+    {
+      "FORM": "@Zeta.esm:0055EE",
+      "FORMID": "0055EE",
+      "EDID": "DLC05ConvTLSomahRepair03",
+      "FULL": "Você só pode estar de brincadeira comigo."
+    },
+    {
+      "FORM": "@Zeta.esm:0055ED",
+      "FORMID": "0055ED",
+      "EDID": "DLC05ConvTLSomahRepair04",
+      "FULL": "Bem, neste ponto de vista concordamos."
+    },
+    {
+      "FORM": "@Zeta.esm:0055EC",
+      "FORMID": "0055EC",
+      "EDID": "DLC05ConvTLSomahRepair05",
+      "FULL": "De jeito nenhum, Somah. isto é ridículo."
+    },
+    {
+      "FORM": "@Zeta.esm:0055EB",
+      "FORMID": "0055EB",
+      "EDID": "DLC05ConvTLSomahRepairYes",
+      "FULL": "Tudo bem, eu desisto. Eu te pagarei."
+    },
+    {
+      "FORM": "@Zeta.esm:0055EA",
+      "FORMID": "0055EA",
+      "EDID": "DLC05ConvTLSomahRepairNo",
+      "FULL": "Sem chance."
+    },
+    {
+      "FORM": "@Zeta.esm:0055E9",
+      "FORMID": "0055E9",
+      "EDID": "DLC05ConvTLTercorienMed",
+      "FULL": "Você acha que poderá nos proporcionar assistência médica quando precisarmos?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C8",
+      "FORMID": "0055C8",
+      "EDID": "DLC05BrigeTopicSallyDeathRayPrep",
+      "FULL": "Como esta indo, Sargento?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C7",
+      "FORMID": "0055C7",
+      "EDID": "DLC05BridgeTopicSallyInitial",
+      "FULL": "Podemos acertar essa coisa com o nosso raio da morte?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C6",
+      "FORMID": "0055C6",
+      "EDID": "DLC05BridgeTopicSomaInitial",
+      "FULL": "O que esta coisa faz?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C5",
+      "FORMID": "0055C5",
+      "EDID": "DLC05BridgeTopicSomahHelm",
+      "FULL": "Como está a situação?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C4",
+      "FORMID": "0055C4",
+      "EDID": "DLC05BridgeTopicPaulsonInitial",
+      "FULL": "Você se importaria de nos cobrir?"
+    },
+    {
+      "FORM": "@Zeta.esm:0055C3",
+      "FORMID": "0055C3",
+      "EDID": "DLC05BridgeTopicPaulsonHeal",
+      "FULL": "Como você está indo?"
+    },
+    {
+      "FORM": "@Zeta.esm:005144",
+      "FORMID": "005144",
+      "EDID": "DLC05AsmSomahChoice01Yes",
+      "FULL": "Está bem, toda ajuda será bem-vinda."
+    },
+    {
+      "FORM": "@Zeta.esm:005143",
+      "FORMID": "005143",
+      "EDID": "DLC05AsmSomahChoice01No",
+      "FULL": "Deixe que eu vou para os controles; você, fique perto."
+    },
+    {
+      "FORM": "@Zeta.esm:004E71",
+      "FORMID": "004E71",
+      "EDID": "DLC05BridgeInterSallyResponse",
+      "FULL": "Chame Sally"
+    },
+    {
+      "FORM": "@Zeta.esm:004E70",
+      "FORMID": "004E70",
+      "EDID": "DLC05BridgeInterSomahResponse",
+      "FULL": "Chame Somah"
+    },
+    {
+      "FORM": "@Zeta.esm:004E6F",
+      "FORMID": "004E6F",
+      "EDID": "DLC05BridgeInterPaulsonResponse",
+      "FULL": "Chame Paulson"
+    },
+    {
+      "FORM": "@Zeta.esm:004E53",
+      "FORMID": "004E53",
+      "EDID": "DLC05MZ1SallyGreet2",
+      "FULL": "Você deveria esperar aqui. É muito perigoso para uma garotinha."
+    },
+    {
+      "FORM": "@Zeta.esm:004E52",
+      "FORMID": "004E52",
+      "EDID": "DLC05MZ1SallyGreet3",
+      "FULL": "Eu acho que tenho tudo sob controle."
+    },
+    {
+      "FORM": "@Zeta.esm:004E51",
+      "FORMID": "004E51",
+      "EDID": "DLC05MZ1SallyGreetB1",
+      "FULL": "Como exatamente você pretende ajudar?"
+    },
+    {
+      "FORM": "@Zeta.esm:004E50",
+      "FORMID": "004E50",
+      "EDID": "DLC05MZ1SallyGreetB2",
+      "FULL": "Desculpe por duvidar de você. Poderia ajudar agora?"
+    },
+    {
+      "FORM": "@Zeta.esm:004E4D",
+      "FORMID": "004E4D",
+      "EDID": "DLC05BridgeInterDoNothing",
+      "FULL": "Vamos!"
+    },
+    {
+      "FORM": "@Zeta.esm:004E4B",
+      "FORMID": "004E4B",
+      "EDID": "DLC05BridgeInterElliotResponse",
+      "FULL": "Chame Elliot"
+    },
+    {
+      "FORM": "@Zeta.esm:004E1C",
+      "FORMID": "004E1C",
+      "EDID": "DLC05BridgeInterElliot",
+      "FULL": "Tente chamar Elliot"
+    },
+    {
+      "FORM": "@Zeta.esm:00409E",
+      "FORMID": "00409E",
+      "EDID": "DLC05MZ1SomahGreet5",
+      "FULL": "Para trás! Fique longe de mim!"
+    },
+    {
+      "FORM": "@Zeta.esm:0039B1",
+      "FORMID": "0039B1",
+      "EDID": "DLC05AsmSomahChoice02Positive",
+      "FULL": "Estou aberto a sugestões."
+    },
+    {
+      "FORM": "@Zeta.esm:003960",
+      "FORMID": "003960",
+      "EDID": "DLC05MZ2PaulsonGreet01",
+      "FULL": "Os alienígenas? Estão por todas as partes. Por isso eu te acordei."
+    },
+    {
+      "FORM": "@Zeta.esm:00395F",
+      "FORMID": "00395F",
+      "EDID": "DLC05MZ2PaulsonGreet02",
+      "FULL": "Se está se referindo aos alienígenas, logo você vai conhecê-los."
+    },
+    {
+      "FORM": "@Zeta.esm:00395E",
+      "FORMID": "00395E",
+      "EDID": "DLC05MZ2PaulsonGreet03",
+      "FULL": "Eles são chamados de alienígenas, caipira."
+    },
+    {
+      "FORM": "@Zeta.esm:00395D",
+      "FORMID": "00395D",
+      "EDID": "DLC05MZ2PaulsonGreet04",
+      "FULL": "Me prenderam nesta nave, assim como você."
+    },
+    {
+      "FORM": "@Zeta.esm:00395C",
+      "FORMID": "00395C",
+      "EDID": "DLC05MZ2PaulsonGreet05",
+      "FULL": "Sou um ser humano, como você."
+    },
+    {
+      "FORM": "@Zeta.esm:00395B",
+      "FORMID": "00395B",
+      "EDID": "DLC05MZ2PaulsonGreet06",
+      "FULL": "Eu não sou uma merda de um cowboy, isso está claro."
+    },
+    {
+      "FORM": "@Zeta.esm:00395A",
+      "FORMID": "00395A",
+      "EDID": "DLC05MZ2PaulsonGreet07",
+      "FULL": "Tudo o que quero é que trabalhemos juntos, para sair daqui."
+    },
+    {
+      "FORM": "@Zeta.esm:003959",
+      "FORMID": "003959",
+      "EDID": "DLC05MZ2PaulsonGreet08",
+      "FULL": "Se eu trabalhasse para os alienígenas, porque eu iria te soltar?"
+    },
+    {
+      "FORM": "@Zeta.esm:003958",
+      "FORMID": "003958",
+      "EDID": "DLC05MZ2PaulsonGreet09",
+      "FULL": "Eu não dou garantias. Se você quiser sair daqui, fique comigo. Ponto."
+    },
+    {
+      "FORM": "@Zeta.esm:003957",
+      "FORMID": "003957",
+      "EDID": "DLC05MZ2PaulsonGreet10",
+      "FULL": "Calma, Paulson, vou ajudar você a encontrar sua família.Tenha paciência."
+    },
+    {
+      "FORM": "@Zeta.esm:003956",
+      "FORMID": "003956",
+      "EDID": "DLC05MZ2PaulsonGreet11",
+      "FULL": "Espere aqui, vou ver o que eu descubro."
+    },
+    {
+      "FORM": "@Zeta.esm:003955",
+      "FORMID": "003955",
+      "EDID": "DLC05MZ2PaulsonGreet12",
+      "FULL": "Você quer que morram, assim como eu. Verei o que posso fazer."
+    },
+    {
+      "FORM": "@Zeta.esm:003954",
+      "FORMID": "003954",
+      "EDID": "DLC05MZ2TercorienGreet01",
+      "FULL": "Calma, não vamos te machucar... Nós somos amigos."
+    },
+    {
+      "FORM": "@Zeta.esm:003953",
+      "FORMID": "003953",
+      "EDID": "DLC05MZ2TercorienGreet02",
+      "FULL": "Seu uniforme ... Parece-me familiar, mas não se enquadra."
+    },
+    {
+      "FORM": "@Zeta.esm:003952",
+      "FORMID": "003952",
+      "EDID": "DLC05MZ2TercorienGreet03",
+      "FULL": "Eles te mantiveram prisioneiro, assim como nós."
+    },
+    {
+      "FORM": "@Zeta.esm:003951",
+      "FORMID": "003951",
+      "EDID": "DLC05MZ2TercorienGreet04",
+      "FULL": "Eu te prometo que não sou nenhum alienígena. Eles me abduziram também, assim como você."
+    },
+    {
+      "FORM": "@Zeta.esm:003950",
+      "FORMID": "003950",
+      "EDID": "DLC05MZ2TercorienGreet05",
+      "FULL": "Você é um médico e não sabe dizer se eu sou um alienígena ou não?"
+    },
+    {
+      "FORM": "@Zeta.esm:00394F",
+      "FORMID": "00394F",
+      "EDID": "DLC05MZ2TercorienGreet06",
+      "FULL": "Por acaso eu me pareço com um alienígena?"
+    },
+    {
+      "FORM": "@Zeta.esm:00394E",
+      "FORMID": "00394E",
+      "EDID": "DLC05MZ2TercorienGreet07",
+      "FULL": "Se eu estivesse com os alienígenas, a última coisa que eu faria seria libertá-lo."
+    },
+    {
+      "FORM": "@Zeta.esm:00394D",
+      "FORMID": "00394D",
+      "EDID": "DLC05MZ2TercorienGreet08",
+      "FULL": "Eu lhe asseguro, eu só quero sair desta nave e ir para casa."
+    },
+    {
+      "FORM": "@Zeta.esm:00394C",
+      "FORMID": "00394C",
+      "EDID": "DLC05MZ2TercorienGreet09",
+      "FULL": "Certo... Vou te colocar de volta onde você estava!"
+    },
+    {
+      "FORM": "@Zeta.esm:00394B",
+      "FORMID": "00394B",
+      "EDID": "DLC05MZ2TercorienGreet10",
+      "FULL": "Receio que não. Os únicos que eu encontrei foram estas pessoas."
+    },
+    {
+      "FORM": "@Zeta.esm:00394A",
+      "FORMID": "00394A",
+      "EDID": "DLC05MZ2TercorienGreet11",
+      "FULL": "Não."
+    },
+    {
+      "FORM": "@Zeta.esm:003949",
+      "FORMID": "003949",
+      "EDID": "DLC05MZ2TercorienGreet12",
+      "FULL": "Para mim os alienígenas os devoraram... Ou algo pior."
+    },
+    {
+      "FORM": "@Zeta.esm:003948",
+      "FORMID": "003948",
+      "EDID": "DLC05MZ2TercorienGreet13",
+      "FULL": "Não se preocupe, ESTAMOS nesta juntos, nós vamos ajudá-lo."
+    },
+    {
+      "FORM": "@Zeta.esm:003947",
+      "FORMID": "003947",
+      "EDID": "DLC05MZ2TercorienGreet14",
+      "FULL": "Relaxe. Vou ver o que posso fazer."
+    },
+    {
+      "FORM": "@Zeta.esm:003946",
+      "FORMID": "003946",
+      "EDID": "DLC05MZ2TercorienGreet15",
+      "FULL": "Eu juro que se você não se acalmar, te coloco de volta no congelador!"
+    },
+    {
+      "FORM": "@Zeta.esm:003945",
+      "FORMID": "003945",
+      "EDID": "DLC05MZ2TLBackground",
+      "FULL": "Você pode me contar mais a seu respeito?"
+    },
+    {
+      "FORM": "@Zeta.esm:003944",
+      "FORMID": "003944",
+      "EDID": "DLC05MZ2TLAbducted",
+      "FULL": "Conte-me como os alienígenas te pegaram."
+    },
+    {
+      "FORM": "@Zeta.esm:003943",
+      "FORMID": "003943",
+      "EDID": "DLC05MZ2TLHelpCryo",
+      "FULL": "Tenho que passar pelos Laboratórios de Criogenia. Você poderia me ajudar?"
+    },
+    {
+      "FORM": "@Zeta.esm:003942",
+      "FORMID": "003942",
+      "EDID": "DLC05MZ2TLHelpAssembly",
+      "FULL": "Preciso de ajuda na Linha de Montagens Rôbóticas. Você está dentro?"
+    },
+    {
+      "FORM": "@Zeta.esm:003941",
+      "FORMID": "003941",
+      "EDID": "DLC05MZ2TLHelpHangar",
+      "FULL": "Eu posso precisar uma arma extra no hangar. Você pode dar uma mão?"
+    },
+    {
+      "FORM": "@Zeta.esm:003940",
+      "FORMID": "003940",
+      "EDID": "DLC05MZ2TLNeverMind",
+      "FULL": "Eu acho que você deveria permanecer na Sala de Engenharia por enquanto."
+    },
+    {
+      "FORM": "@Zeta.esm:00393F",
+      "FORMID": "00393F",
+      "EDID": "DLC05MZ2TLLevelKnow",
+      "FULL": "Você sabe de algo mais que tenha nas outras partes da nave e que sejam úteis para nós?"
+    },
+    {
+      "FORM": "@Zeta.esm:0036DD",
+      "FORMID": "0036DD",
+      "EDID": "DLC05MZ1SallyGreet1",
+      "FULL": "Ok, lindinha. Você primeiro."
+    },
+    {
+      "FORM": "@Zeta.esm:002925",
+      "FORMID": "002925",
+      "EDID": "DLC05MZ1SomahGreet1",
+      "FULL": "Isto só pode ser um pesadelo..."
+    },
+    {
+      "FORM": "@Zeta.esm:002924",
+      "FORMID": "002924",
+      "EDID": "DLC05MZ1SomahGreet2",
+      "FULL": "Quem é você? O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@Zeta.esm:002923",
+      "FORMID": "002923",
+      "EDID": "DLC05MZ1SomahGreet3",
+      "FULL": "Isto não pode estar acontecendo... Alienígenas?"
+    },
+    {
+      "FORM": "@Zeta.esm:002922",
+      "FORMID": "002922",
+      "EDID": "DLC05MZ1SomahGreet4",
+      "FULL": "Tenho que sair daqui."
+    },
+    {
+      "FORM": "@Zeta.esm:002921",
+      "FORMID": "002921",
+      "EDID": "DLC05MZ1SomahTalk1",
+      "FULL": "Então, como sairemos daqui?"
+    },
+    {
+      "FORM": "@Zeta.esm:002920",
+      "FORMID": "002920",
+      "EDID": "DLC05MZ1SomahTalk2",
+      "FULL": "Quem é você? Por que você está aqui comigo?"
+    },
+    {
+      "FORM": "@Zeta.esm:00291F",
+      "FORMID": "00291F",
+      "EDID": "DLC05MZ1SomahTalk3",
+      "FULL": "Eles querem fazer experiências conosco?"
+    },
+    {
+      "FORM": "@Zeta.esm:00291E",
+      "FORMID": "00291E",
+      "EDID": "DLC05MZ1SomahAdvantage1",
+      "FULL": "Eu não estou à procura de um companheiro, ok? Eu só quero sair daqui."
+    },
+    {
+      "FORM": "@Zeta.esm:00291D",
+      "FORMID": "00291D",
+      "EDID": "DLC05MZ1SomahAdvantage2",
+      "FULL": "Que tipo de favor?"
+    },
+    {
+      "FORM": "@Zeta.esm:00291C",
+      "FORMID": "00291C",
+      "EDID": "DLC05MZ1SomahAdvantage3",
+      "FULL": "Você tem algum plano ou esta apenas improvisando?"
+    },
+    {
+      "FORM": "@Zeta.esm:00291B",
+      "FORMID": "00291B",
+      "EDID": "DLC05MZ1SomahPlan1",
+      "FULL": "Ok, ok. Qual é o plano?"
+    },
+    {
+      "FORM": "@Zeta.esm:00291A",
+      "FORMID": "00291A",
+      "EDID": "DLC05MZ1SomahPlan2",
+      "FULL": "Porque não me diz o que você tem em mente? Então pensarei a respeito."
+    },
+    {
+      "FORM": "@Zeta.esm:002919",
+      "FORMID": "002919",
+      "EDID": "DLC05MZ1SomahFight1",
+      "FULL": "Você só pode estar brincando. Isso é o melhor que você tem?"
+    },
+    {
+      "FORM": "@Zeta.esm:002918",
+      "FORMID": "002918",
+      "EDID": "DLC05MZ1SomahFight2",
+      "FULL": "Certo, então vamos sair dessa cela, e depois?"
+    },
+    {
+      "FORM": "@Zeta.esm:002917",
+      "FORMID": "002917",
+      "EDID": "DLC05MZ1SomahFight3",
+      "FULL": "Você realmente acha que isso vai funcionar?"
+    },
+    {
+      "FORM": "@Zeta.esm:002916",
+      "FORMID": "002916",
+      "EDID": "DLC05MZ1SomahFightB1",
+      "FULL": "Isto é uma estupidez. Deve haver outra forma de sair."
+    },
+    {
+      "FORM": "@Zeta.esm:002915",
+      "FORMID": "002915",
+      "EDID": "DLC05MZ1SomahFightB2",
+      "FULL": "Como saberei se posso confiar em você? E se você tentar me matar?"
+    },
+    {
+      "FORM": "@Zeta.esm:002914",
+      "FORMID": "002914",
+      "EDID": "DLC05MZ1SomahFightB3",
+      "FULL": "Então, se eu matar você, os guardas virão?"
+    },
+    {
+      "FORM": "@Zeta.esm:002913",
+      "FORMID": "002913",
+      "EDID": "DLC05MZ1SomahFightB4",
+      "FULL": "Certo, vamos tentar."
+    },
+    {
+      "FORM": "@Zeta.esm:002912",
+      "FORMID": "002912",
+      "EDID": "DLC05MZ1SomahFightC1",
+      "FULL": "Certo, vá em frente e me bata."
+    },
+    {
+      "FORM": "@Zeta.esm:002911",
+      "FORMID": "002911",
+      "EDID": "DLC05MZ1SomahFightC2",
+      "FULL": "Não, eu não vou brigar com você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Death"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E5",
+      "FORMID": "0000E5",
+      "EDID": "Murder",
+      "FULL": "Asesinato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Pickpocket"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Flee"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Hit"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Attack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Eu tenho que ir agora."
+    }
+  ]
+}

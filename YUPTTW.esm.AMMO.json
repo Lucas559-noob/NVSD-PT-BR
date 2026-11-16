@@ -1,0 +1,95 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@LonesomeRoad.esm:00D278",
+      "FORMID": "00D278",
+      "EDID": "NVDLC04AmmoMissileRobot",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012033",
+      "FORMID": "012033",
+      "EDID": "AmmoNVDLC03SmallEnergyCellHologram",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@DeadMoney.esm:0109C4",
+      "FORMID": "0109C4",
+      "EDID": "AmmoNVDLC01SmallEnergyCellHologram",
+      "FULL": "Célula de Energia",
+      "ONAM": "E Célula"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E5C",
+      "FORMID": "176E5C",
+      "EDID": "Ammo9mmRobot",
+      "FULL": "Munição 9mm",
+      "ONAM": "9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AEF9",
+      "FORMID": "16AEF9",
+      "EDID": "AmmoNVArchimedesII",
+      "FULL": "Carga do ARCHIMEDES II",
+      "ONAM": "Carga ARCHII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B5A",
+      "FORMID": "166B5A",
+      "EDID": "AmmoSmallEnergyCellTurret",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC5",
+      "FORMID": "078CC5",
+      "EDID": "AmmoMissileRobot",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC4",
+      "FORMID": "078CC4",
+      "EDID": "Ammo556mmRobot",
+      "FULL": "Munição 5,56mm",
+      "ONAM": "5,56 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC3",
+      "FORMID": "078CC3",
+      "EDID": "AmmoMicroFusionCellRobot",
+      "FULL": "Célula de Microfusão",
+      "ONAM": "Célula MF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC2",
+      "FORMID": "078CC2",
+      "EDID": "AmmoSmallEnergyCellRobot",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC1",
+      "FORMID": "078CC1",
+      "EDID": "AmmoFlamerFuelRobot",
+      "FULL": "Combustível de Lança-chamas",
+      "ONAM": "Combustível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0615AF",
+      "FORMID": "0615AF",
+      "EDID": "AmmoElectronChargePackRobot",
+      "FULL": "Pacote de Carga de Elétrons",
+      "ONAM": "Pacote EC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0615A8",
+      "FORMID": "0615A8",
+      "EDID": "Ammo5mmRobot",
+      "FULL": "Projétil de 5mm",
+      "ONAM": "5mm"
+    }
+  ]
+}

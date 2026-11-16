@@ -1,0 +1,479 @@
+{
+  "TERM": [
+    {
+      "FORM": "@ThePitt.esm:00736C",
+      "FORMID": "00736C",
+      "EDID": "DLC01MillAmmo44magnumSubSubTerminal",
+      "DESC": "Cartucho de Munição de magnum .44 selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de Magnum .44"
+        ],
+        "RNAM": [
+          "Esse material produzirá 3 ou menos cartuchos de munição.",
+          "Esse material produzirá 4 à 10 cartuchos de munição.",
+          "Esse material produzirá 11 à 25 cartuchos de munição.",
+          "Esse material produzirá 26 à 50 cartuchos de munição.",
+          "Esse material produzirá 51 à 100 cartuchos de munição.",
+          "Esse material produzirá 100 à 200 cartuchos de munição.",
+          "Esse material produzirá mais de 200 cartuchos de munição.",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007369",
+      "FORMID": "007369",
+      "EDID": "DLC01MillAmmo32caliberSubSubTerminal",
+      "DESC": "Cartucho de Munição de calibre .32 selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de calibre .32"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos de munição.",
+          "O material produzirá 4 à 10 cartuchos de munição.",
+          "O material produzirá 11 à 25 cartuchos de munição.",
+          "O material produzirá 26 à 50 cartuchos de munição.",
+          "O material produzirá 51 à 100 cartuchos de munição.",
+          "O material produzirá 100 à 200 cartuchos de munição.",
+          "O material produzirá mais de 200 cartuchos de munição",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00736E",
+      "FORMID": "00736E",
+      "EDID": "DLC01MillAmmo308caliberSubSubTerminal",
+      "DESC": "Cartucho de Munição de calibre .308 selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de Calibre .308"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos de munição.",
+          "O material produzirá 4 à 10 cartuchos de munição.",
+          "O material produzirá 11 à 25 cartuchos de munição.",
+          "O material produzirá 26 à 50 cartuchos de munição.",
+          "O material produzirá 51 à 100 cartuchos de munição.",
+          "O material produzirá 100 à 200 cartuchos de munição.",
+          "O material produzirá mais de 200 cartuchos de munição.",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00735A",
+      "FORMID": "00735A",
+      "EDID": "DLC01MillAmmo10mmSubSubTerminal",
+      "DESC": "Cartucho de Munição de 10mm selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de 10mm"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos.",
+          "O material produzirá 4 à 10 cartuchos.",
+          "O material produzirá 11 à 25 cartuchos.",
+          "O material produzirá 26 à 50 cartuchos.",
+          "O material produzirá 51 à 100 cartuchos.",
+          "O material produzirá 100 à 200 cartuchos.",
+          "O material produzirá mais à 200 cartuchos",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00A84B",
+      "FORMID": "00A84B",
+      "EDID": "DLC01genericProtectronTerminal01",
+      "FULL": "Manutenção Automatizada",
+      "DESC": "Terminal de Serviço RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara Ver Mais Produtos\nRobco Tops de Linha\nVisite seu Salão de Exposição mais próximo.",
+      "MENU": {
+        "ITXT": [
+          "Executar Manutenção de Rotina",
+          "Executar Manutenção de Rotina"
+        ],
+        "RNAM": [
+          "...Carregando Sequência",
+          "<ERRO> Manutenção em Andamento"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007D70",
+      "FORMID": "007D70",
+      "EDID": "DLC01DowntownTerminal02",
+      "FULL": "Terminal de Correio do DOP",
+      "DESC": "Relatório do Trabalho do Dr. Borman \nJournalSoft v2.3\n\n-->Conectado como: Nurse Hicks",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Paciente 148",
+          "Relatório do Paciente 147",
+          "Relatório do Paciente 48"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007D69",
+      "FORMID": "007D69",
+      "EDID": "DLC01DowntownTerminal01",
+      "FULL": "Terminal de Correio do DOP",
+      "DESC": "-->Departamento de Obras Públicas de Pittsburgh\n-->Terminal de Correio Interno\n\n-->Conectado como: Diretor Hadley James",
+      "MENU": {
+        "ITXT": [
+          "Assunto: Nova Ponte da Rua Smithfield",
+          "Assunto: Novas Atribuições de Assentos",
+          "Assunto: Você ouviu isso?",
+          "Assunto: Recados"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00AA8A",
+      "FORMID": "00AA8A",
+      "EDID": "DLC01AshurTerminal",
+      "FULL": "Sistema de Controle de Torretas",
+      "DESC": "-RobCo Trespasser Manag---?#i!a(*bos&@!\n======INICIAR SISTEMA DE REPROGRAMAÇÃO======\nUSUÁRIO BASE \"I.ASHUR\"",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Cofre",
+          "Reconfigurar Parâmetros de Mira",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torretas",
+          "Desativar Sistema de Torretas"
+        ],
+        "RNAM": [
+          "Destrancando...",
+          "Dados do Alvo apagados.  Tenha Cuidado.",
+          "<!>Por Favor, Tenha Cuidado<!>",
+          "Iniciando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:006BE9",
+      "FORMID": "006BE9",
+      "EDID": "DLC01TerminalPowerShutOff",
+      "FULL": "Controles dos Holofotes da Cidade Alta",
+      "DESC": "Subestação de Fornecimento de Energia da Cidade Alta:",
+      "MENU": {
+        "ITXT": [
+          "Desligar Energia dos Holofotes",
+          "Religar Energia dos Holofotes",
+          "Verificar Níveis de Energia",
+          "Verificar Níveis de Energia"
+        ],
+        "RNAM": [
+          "Energia da Cidade Alta Desligada",
+          "Impossível Religar: ERRO BHA-00",
+          "Turbinas Atômicas em 10.8%",
+          "Turbinas Atômicas Redirecionadas para a Siderúrgica"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00A93A",
+      "FORMID": "00A93A",
+      "EDID": "DLC01SupplyPlantTerminal02",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Sobre os Novos Protectrons",
+          "Sobre os Incidentes Recentes",
+          "Sobre a Nova Remessa",
+          "Entrada Privada #1",
+          "Entrada Privada #2",
+          "Entrada Privada #3",
+          "Entrada Privada #4",
+          "Entrada Privada #5",
+          "Entrada Privada #6"
+        ],
+        "RNAM": [
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados...",
+          "Recuperando dados..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00A7CA",
+      "FORMID": "00A7CA",
+      "EDID": "DLC01SupplyPlantTerminal01",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Sobre os Novos Protectrons",
+          "Sobre os Recentes Empregados",
+          "Sobre a Nova Remessa"
+        ],
+        "RNAM": [
+          "Recuperando Dados...",
+          "Recuperando Dados...",
+          "Recuperando Dados..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00A939",
+      "FORMID": "00A939",
+      "EDID": "DLC01SteelyardProtectronTerminal01",
+      "FULL": "Manutenção Automatizada",
+      "DESC": "Terminal de Serviço RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara Ver Mais Produtos\nRobco Tops de Linha\nVisite seu Salão de Exposição mais próximo.",
+      "MENU": {
+        "ITXT": [
+          "Ativar Robô de Segurança #1",
+          "Ativar Robô de Segurança #1",
+          "Ativar Robô de Segurança #2",
+          "Ativar Robô de Segurança #2",
+          "Ativar Robô de Segurança #3",
+          "Ativar Robô de Segurança #3",
+          "Ativar Robô de Segurança #4",
+          "Ativar Robô de Segurança #4"
+        ],
+        "RNAM": [
+          "...Carregando Sequência",
+          "<ERRO> Robô de Segurança Ativado",
+          "...Carregando Sequência",
+          "<ERRO> Robô de Segurança Ativado",
+          "...Carregando Sequência",
+          "<ERRO> Robô de Segurança Ativado",
+          "...Carregando Sequência",
+          "<ERRO> Robô de Segurança Ativado"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:004054",
+      "FORMID": "004054",
+      "EDID": "DLC01SteelMillTerminal01",
+      "FULL": "Terminal da Prensa Rotatória",
+      "DESC": "----Tela de Status da Prensa de Metal----\n---------------------------------\n\n-Status da Prensa Rotatória 01: Ativa\n\n-Status da Prensa Rotatória 02 : Ativa",
+      "MENU": {
+        "ITXT": [
+          "Parada de Emergência"
+        ],
+        "RNAM": [
+          "Comando Ignorado - Anulação Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007F3C",
+      "FORMID": "007F3C",
+      "EDID": "DLC01SandraTerminalx",
+      "FULL": "Computador de Pesquisa",
+      "DESC": "***********************************************\n* ESTAÇÃO DE BIOPESQUISA PRESDY *\n* PROTOCOLOS DE KRAG-JENSEN CARREGADOS *\n***********************************************",
+      "MENU": {
+        "ITXT": [
+          "Estudo Sobre os Trogs",
+          "Pesquisa sobre A Cura"
+        ],
+        "RNAM": [
+          "Exibindo...",
+          "Exibindo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:0080A3",
+      "FORMID": "0080A3",
+      "EDID": "DLC01SandraTerminal",
+      "FULL": "Computador de Pesquisa",
+      "DESC": "**********************************\n*    ESTAÇÃO DE BIOPESQUISA PITT    *\n*  PROTOCOLOS KRAG-JENSEN CARREGADOS  *\n**********************************",
+      "MENU": {
+        "ITXT": [
+          "Monitor do Bebê",
+          "Monitor do Bebê",
+          "Monitor do Bebê",
+          "Monitor do Bebê",
+          "Monitor do Bebê",
+          "Estudo sobre os Trogloditas",
+          "Pesquisa sobre A Cura"
+        ],
+        "RNAM": [
+          "Estado do Bebê: Bem e Saudável",
+          "Estado do Bebê: Bem e Saudável",
+          "Bebê não encontrado. Coloque o Bebê e tente novamente.",
+          "Bebê não encontrado. Coloque o Bebê e tente novamente.",
+          "Bebê não encontrado. Coloque o Bebê e tente novamente.",
+          "Exibindo...",
+          "Exibindo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00691E",
+      "FORMID": "00691E",
+      "EDID": "DLC01PPTerminalScare01",
+      "FULL": "Terminal quebrado",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de Rede não encontrada\"\n\"Terminal Desativado\""
+    },
+    {
+      "FORM": "@ThePitt.esm:0040CC",
+      "FORMID": "0040CC",
+      "EDID": "DLC01MillAmmoTerminal",
+      "FULL": "Terminal da Prensa de Munição",
+      "DESC": "----Tela de Status da Prensa de Munição----\n---------------------------------\n-Status da Prensa de Munição 01: Ativa\n-Status da Prensa de Munição 02: Ativa",
+      "MENU": {
+        "ITXT": [
+          "Instruções de Operação",
+          "Instruções de Operação",
+          "Produção de Munição",
+          "Produção de Munição",
+          "Produção de Munição"
+        ],
+        "RNAM": [
+          "Apenas Usuários Autorizados",
+          "Exibindo...",
+          "Acesso Negado",
+          "Erro - Nenhum Material Utilizável na Caixa de Materiais",
+          "Acesso Permitido"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007358",
+      "FORMID": "007358",
+      "EDID": "DLC01MillAmmoSubTerminal",
+      "DESC": "Selecione um novo tipo de munição para reprocessar.",
+      "MENU": {
+        "ITXT": [
+          "5 mm",
+          "5.56 mm",
+          "10 mm",
+          "Calibre .308",
+          "Calibre .32",
+          "Magnum .44",
+          "Cartuchos de Escopeta"
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00736F",
+      "FORMID": "00736F",
+      "EDID": "DLC01MillAmmoshotgunShellSubSubTerminal",
+      "DESC": "Cartucho de Munição de Escopeta selecionada.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Cartuchos de Escopeta"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos.",
+          "O material produzirá 4 à 10 cartuchos.",
+          "O material produzirá 11 à 25 cartuchos.",
+          "O material produzirá 26 à 50 cartuchos.",
+          "O material produzirá 51 à 100 cartuchos.",
+          "O material produzirá 100 à 200 cartuchos.",
+          "O material produzirá 201 à 400 cartuchos.",
+          "O material produzirá mais de 400 cartuchos.",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:007368",
+      "FORMID": "007368",
+      "EDID": "DLC01MillAmmo5mmSubSubTerminal",
+      "DESC": "Cartucho de Munição de 5mm selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de 5mm"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos.",
+          "O material produzirá 4 à 10 cartuchos.",
+          "O material produzirá 11 à 25 cartuchos.",
+          "O material produzirá 26 à 50 cartuchos.",
+          "O material produzirá 51 à 100 cartuchos.",
+          "O material produzirá 100 à 200 cartuchos.",
+          "O material produzirá 201 à 400 cartuchos.",
+          "O material produzirá mais 400 cartuchos.",
+          "Prensando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@ThePitt.esm:00736D",
+      "FORMID": "00736D",
+      "EDID": "DLC01MillAmmo556mmSubSubTerminal",
+      "DESC": "Cartucho de Munição de 5.56mm selecionado.\n\nPronto para converter o material em um novo tipo de munição.",
+      "MENU": {
+        "ITXT": [
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Calcular Produção",
+          "Prensar Munição de 5.56mm"
+        ],
+        "RNAM": [
+          "O material produzirá 3 ou menos cartuchos de munição.",
+          "O material produzirá 4 à 10 cartuchos de munição.",
+          "O material produzirá 11 à 25 cartuchos de munição.",
+          "O material produzirá 26 à 50 cartuchos de munição.",
+          "O material produzirá 51 à 100 cartuchos de munição.",
+          "O material produzirá 100 à 200 cartuchos de munição.",
+          "O material produzirá 201 à 400 cartuchos de munição.",
+          "O material produzirá mais de 400 cartuchos de munição.",
+          "Prensando..."
+        ]
+      }
+    }
+  ]
+}

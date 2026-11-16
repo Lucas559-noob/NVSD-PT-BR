@@ -1,0 +1,375 @@
+{
+  "REFR": [
+    {
+      "FORM": "@LonesomeRoad.esm:00C480",
+      "FORMID": "00C480",
+      "RXATO": "Viaje para a Estrada Solitária"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003300",
+      "FORMID": "003300",
+      "RXATO": "Saída para o Ermos de Mojave"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0083FA",
+      "FORMID": "0083FA",
+      "RXATO": "Entrar no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C47F",
+      "FORMID": "00C47F",
+      "EDID": "NVDLC04CouriersMileDoorREF",
+      "RXATO": "Viajar para a Milha do Mensageiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EE",
+      "FORMID": "0039EE",
+      "RXATO": "Entrar no Túnel do Viaduto Desmoronado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B4C",
+      "FORMID": "014B4C",
+      "RXATO": "Entre no Posto de Ulysses"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009A27",
+      "FORMID": "009A27",
+      "RXATO": "Entre no Ninho do Cuco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009470",
+      "FORMID": "009470",
+      "RXATO": "Entre na Caverna Ossos de Pedra"
+    },
+    {
+      "FORM": "@DeadMoney.esm:008E76",
+      "FORMID": "008E76",
+      "RXATO": "Porta para a Casa Salida del Sol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BB0D",
+      "FORMID": "13BB0D",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133965",
+      "FORMID": "133965",
+      "RXATO": "Abrir Porta para Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133966",
+      "FORMID": "133966",
+      "RXATO": "Abrir Porta para o Antigo Forte Mormon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116424",
+      "FORMID": "116424",
+      "EDID": "VFSNorthGateREF",
+      "RXATO": "Saída para a Orla de Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116423",
+      "FORMID": "116423",
+      "EDID": "VFSEastGateREF",
+      "RXATO": "Saída para a Orla de Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116425",
+      "FORMID": "116425",
+      "EDID": "FreesideGateToStripREF",
+      "RXATO": "Entre na Strip"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EB",
+      "FORMID": "0039EB",
+      "RXATO": "Viajar para A Divisão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169532",
+      "FORMID": "169532",
+      "EDID": "HooverDamFallLadderREF",
+      "RXATO": "Subir Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C5B",
+      "FORMID": "164C5B",
+      "RXATO": "Subir Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8AA",
+      "FORMID": "15E8AA",
+      "EDID": "FollowersOutpostMapMarker",
+      "XMRK": "Followers' Outpost"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8A8",
+      "FORMID": "15E8A8",
+      "XMRK": "Acampamento Improvisado dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A883",
+      "FORMID": "15A883",
+      "RXATO": "Abrir Porta do Posto Avançado dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156853",
+      "FORMID": "156853",
+      "RXATO": "Entre na Tenda do Tenente Hayes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558AE",
+      "FORMID": "1558AE",
+      "RXATO": "Entrar na Mina de Ouro Norte de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1520D9",
+      "FORMID": "1520D9",
+      "RXATO": "Entrar na Toca do Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C0D3",
+      "FORMID": "14C0D3",
+      "RXATO": "Entre nas Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465E7",
+      "FORMID": "1465E7",
+      "EDID": "VHDLegateCampExtGateREF",
+      "RXATO": "Abrir Portão para o Acampamento do Legado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EE3",
+      "FORMID": "144EE3",
+      "EDID": "VHDLegateCampGateREF",
+      "RXATO": "Abrir Portão para a Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141147",
+      "FORMID": "141147",
+      "EDID": "FortMainCampGateInterior",
+      "RXATO": "Abrir Ponte Levadiça do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141145",
+      "FORMID": "141145",
+      "EDID": "FortMainCampGateExterior",
+      "RXATO": "Abrir Ponte Levadiça do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F68D",
+      "FORMID": "13F68D",
+      "RXATO": "Entrar na Caverna do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F68C",
+      "FORMID": "13F68C",
+      "RXATO": "Entre nas Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136FB5",
+      "FORMID": "136FB5",
+      "EDID": "vCCFortGateREF",
+      "RXATO": "Viajar para Cottonwood Cove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116420",
+      "FORMID": "116420",
+      "EDID": "ExteriorGateToFreesideREF",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11641F",
+      "FORMID": "11641F",
+      "EDID": "FreesideEastGateREF",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA83",
+      "FORMID": "0EEA83",
+      "XMRK": "Estação de Bombeamento Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15315F",
+      "FORMID": "15315F",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F322",
+      "FORMID": "13F322",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31E",
+      "FORMID": "13F31E",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31D",
+      "FORMID": "13F31D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15487A",
+      "FORMID": "15487A",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154852",
+      "FORMID": "154852",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B56D",
+      "FORMID": "12B56D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AC2",
+      "FORMID": "014AC2",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155756",
+      "FORMID": "155756",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F320",
+      "FORMID": "13F320",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31F",
+      "FORMID": "13F31F",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E41D",
+      "FORMID": "13E41D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138CF5",
+      "FORMID": "138CF5",
+      "RXATO": "Abrir Porta do Arsenal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155061",
+      "FORMID": "155061",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B580",
+      "FORMID": "12B580",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF8",
+      "FORMID": "12FFF8",
+      "EDID": "OVSewerCE01ToFarmGolf",
+      "RXATO": "Subir na Escada para os Meeiros da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF7",
+      "FORMID": "12FFF7",
+      "EDID": "OVSewerCSE01ToRefugeeCamp",
+      "RXATO": "Subir Escada para o Parque de Escritórios Aerotech"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF6",
+      "FORMID": "12FFF6",
+      "EDID": "OVSewerCS01ToMcCarran",
+      "RXATO": "Subir na Escada para o Acampamento McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B75D",
+      "FORMID": "15B75D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154BC5",
+      "FORMID": "154BC5",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094D1",
+      "FORMID": "0094D1",
+      "RXATO": "Abrir Portão para Big MT"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F71F",
+      "FORMID": "00F71F",
+      "RXATO": "Sair da Passagem Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCD0",
+      "FORMID": "11BCD0",
+      "RXATO": "Chamar o Chefe de Salão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118355",
+      "FORMID": "118355",
+      "RXATO": "Chamar o Chefe de Salão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE55C",
+      "FORMID": "0CE55C",
+      "EDID": "REPCONBasementShortcutLadderREF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466B",
+      "FORMID": "00466B",
+      "EDID": "NVDLC04RoadTunnelDoor02REF",
+      "RXATO": "Pegue a Estrada Alta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466A",
+      "FORMID": "00466A",
+      "EDID": "NVDLC04RoadTunnelDoor01REF",
+      "RXATO": "Sair do Túnel do Viaduto Desabado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153330",
+      "FORMID": "153330",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C66D",
+      "FORMID": "10C66D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01070E",
+      "FORMID": "01070E",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCFB",
+      "FORMID": "13DCFB",
+      "EDID": "v19SmallExplosionDoorREF",
+      "RXATO": "Entrar no Túnel para o Vault 19"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCFA",
+      "FORMID": "13DCFA",
+      "RXATO": "Ativar Elevador para o Vault 19 - Escritório do Supervisor"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00975A",
+      "FORMID": "00975A",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E29",
+      "FORMID": "167E29",
+      "EDID": "VDeadWindExitREF",
+      "RXATO": "Saída para o Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154D8D",
+      "FORMID": "154D8D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    }
+  ]
+}

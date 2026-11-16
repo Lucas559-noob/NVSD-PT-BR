@@ -1,0 +1,352 @@
+{
+  "MESG": [
+    {
+      "FORM": "@Zeta.esm:00A9EE",
+      "FORMID": "00A9EE",
+      "EDID": "DLC05HealingArchOverloadedHealsRemainingMessage",
+      "DESC": "Uma análise do dispositivo mostra que ele será queimado após ser usado mais %.0f vezes."
+    },
+    {
+      "FORM": "@Zeta.esm:00A9F1",
+      "FORMID": "00A9F1",
+      "EDID": "DLC05HealingArchOverloadedHealsOneRemainingMessage",
+      "DESC": "Uma análise do dispositivo mostra que ele será queimado após ser usado mais 1 vez."
+    },
+    {
+      "FORM": "@Zeta.esm:009951",
+      "FORMID": "009951",
+      "EDID": "DLC05HealingArchlowskillMessage",
+      "DESC": "Falta-lhe a habilidade necessária em Ciência para interagir com este objeto. (%. 0f de Ciência necessário ou superior)"
+    },
+    {
+      "FORM": "@Zeta.esm:00A9F0",
+      "FORMID": "00A9F0",
+      "EDID": "DLC05HealingArchBurnedOutMessageBox",
+      "DESC": "O arco está queimado e não é mais útil."
+    },
+    {
+      "FORM": "@Zeta.esm:009C5E",
+      "FORMID": "009C5E",
+      "EDID": "DLC05HealingArchBurnedOutMessage",
+      "DESC": "O arco está queimado e não é mais útil."
+    },
+    {
+      "FORM": "@Zeta.esm:0082D3",
+      "FORMID": "0082D3",
+      "EDID": "DLC05DoorSealedMessage",
+      "DESC": "Esta porta está selada, aparentemente não há forma de abri-la."
+    },
+    {
+      "FORM": "@Zeta.esm:008ADE",
+      "FORMID": "008ADE",
+      "EDID": "DLC05DeadTercorienMessage",
+      "DESC": "Elliott Tercorien está morto."
+    },
+    {
+      "FORM": "@Zeta.esm:008ADF",
+      "FORMID": "008ADF",
+      "EDID": "DLC05DeadSomahMessage",
+      "DESC": "Somah está morta."
+    },
+    {
+      "FORM": "@Zeta.esm:008AE0",
+      "FORMID": "008AE0",
+      "EDID": "DLC05DeadPaulsonMessage",
+      "DESC": "Paulson está morto."
+    },
+    {
+      "FORM": "@Zeta.esm:00A9A0",
+      "FORMID": "00A9A0",
+      "EDID": "DLC05BridgeJammerOnlineMSG",
+      "DESC": "O inibidor está atualmente conectado."
+    },
+    {
+      "FORM": "@Zeta.esm:00A92F",
+      "FORMID": "00A92F",
+      "EDID": "DLC05BridgeGeneratorOnlineMSG",
+      "DESC": "O gerador está atualmente conectado."
+    },
+    {
+      "FORM": "@Zeta.esm:005AF6",
+      "FORMID": "005AF6",
+      "EDID": "DLC05BridgeDeathRayOfflineMSG",
+      "DESC": "O raio da morte não está pronto para ser disparado."
+    },
+    {
+      "FORM": "@Zeta.esm:009C2F",
+      "FORMID": "009C2F",
+      "EDID": "DLC05AsmRobotPodWithDevice",
+      "DESC": "Você pode conectar a cápsula ao seu dispositivo de controle de robôs.",
+      "ITXT": [
+        "Não mexer na cápsula.",
+        "Ativar a cápsula."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:009C2E",
+      "FORMID": "009C2E",
+      "EDID": "DLC05AsmRobotPodNoDevice",
+      "DESC": "Para ativar a cápsula é requerido um dispositivo de controle de robôs."
+    },
+    {
+      "FORM": "@Zeta.esm:009C30",
+      "FORMID": "009C30",
+      "EDID": "DLC05AsmRobotPodAlreadyActive",
+      "DESC": "Você não pode ativar outra cápsula enquanto o dispositivo de controle robôs esta ativado."
+    },
+    {
+      "FORM": "@Zeta.esm:009C52",
+      "FORMID": "009C52",
+      "EDID": "DLC05AsmAssemblyLowRepair",
+      "DESC": "A Linha de Montagem pode ser configurada para se sobrecarregar. No entanto, uma habilidade de reparo superior é necessária para configurá-la com um ligeiro atraso (habilidade de reparação de 75%% exigida). Uma sobrecarga deve causar uma detonação e fornecer um caminho.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Sobrecarregar Linha de Montagem."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:009C51",
+      "FORMID": "009C51",
+      "EDID": "DLC05AsmAssemblyHighRepair",
+      "DESC": "A Linha de Montagem pode ser configurada para se sobrecarregar depois de alguns segundos. A sobrecarga provocara uma detonação e fornecera um caminho.",
+      "ITXT": [
+        "Não fazer nada.",
+        "Sobrecarregar Linha de Montagem."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:0082D2",
+      "FORMID": "0082D2",
+      "EDID": "DLC05AlienDoorControlMSG",
+      "DESC": "Gostaria de fraudar o controlador para fazê-lo explodir?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Ativar Porta",
+        "Religar controlador para causar uma explosão de proximidade"
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:00A76E",
+      "FORMID": "00A76E",
+      "EDID": "DLC05DeathRayCharged",
+      "FULL": "O Raio da Morte está totalmente carregado",
+      "DESC": "O Raio da Morte já está com a carga completa."
+    },
+    {
+      "FORM": "@Zeta.esm:00A76D",
+      "FORMID": "00A76D",
+      "EDID": "DLC05DeathRayInPosition",
+      "FULL": "O Raio da Morte está na posição",
+      "DESC": "O Raio da Morte já está em posição."
+    },
+    {
+      "FORM": "@Zeta.esm:00C8DF",
+      "FORMID": "00C8DF",
+      "EDID": "DLC05PerkMessage",
+      "FULL": "Especialista Xenotech Adicionado",
+      "DESC": "Sua experiência de treinamento com armas alienígenas lhe tornou um especialista Xenotech."
+    },
+    {
+      "FORM": "@Zeta.esm:00A76C",
+      "FORMID": "00A76C",
+      "EDID": "DLC05DeathRayFiring",
+      "FULL": "O Raio da Morte está a disparar",
+      "DESC": "Você não pode usar isto enquanto dispara o Raio da Morte."
+    },
+    {
+      "FORM": "@Zeta.esm:00A76B",
+      "FORMID": "00A76B",
+      "EDID": "DLC05DeathRayMoving",
+      "FULL": "O Raio da Morte está em movimento",
+      "DESC": "Você não pode usar isto enquanto move o Raio da Morte."
+    },
+    {
+      "FORM": "@Zeta.esm:00824A",
+      "FORMID": "00824A",
+      "EDID": "DLC05SpaceDoorMessage",
+      "FULL": "Morte no Espaço",
+      "DESC": "Os alienígenas selaram a porta da câmara."
+    },
+    {
+      "FORM": "@Zeta.esm:005CC3",
+      "FORMID": "005CC3",
+      "EDID": "DLC05WeapAlienWarningMessage",
+      "FULL": "Notificação da Arma alienígena",
+      "DESC": "Sua arma alienígena está altamente danificada."
+    },
+    {
+      "FORM": "@Zeta.esm:00A8D9",
+      "FORMID": "00A8D9",
+      "EDID": "DLC05AlienBioGelMessage",
+      "FULL": "Anomalia bioquímica",
+      "DESC": "O Biogel Alienígena parece ter efeitos colaterais."
+    },
+    {
+      "FORM": "@Zeta.esm:004E65",
+      "FORMID": "004E65",
+      "EDID": "DLC05MZ3CoreTeleporterMessage",
+      "FULL": "Teleporte inativo!",
+      "DESC": "O teletransportador está desligado."
+    },
+    {
+      "FORM": "@Zeta.esm:0059C3",
+      "FORMID": "0059C3",
+      "EDID": "DLC05DecompressionDoor01aMessage",
+      "FULL": "A câmara deve estar pressurizada",
+      "DESC": "Esta porta não pode ser aberta até que a sequência de descompressão seja concluída."
+    },
+    {
+      "FORM": "@Zeta.esm:0059BC",
+      "FORMID": "0059BC",
+      "EDID": "DLC05DeathInSpaceMessage",
+      "FULL": "Morte no Espaço",
+      "DESC": "O Traje Espacial é necessário para ficar na Zero Atmosfera."
+    },
+    {
+      "FORM": "@Zeta.esm:006315",
+      "FORMID": "006315",
+      "EDID": "DLC05WeapRechargeStationCooldownMessage",
+      "FULL": "Estação de Recarga",
+      "DESC": "A Estação de Reciclagem está recarregando e não está pronta para uso."
+    },
+    {
+      "FORM": "@Zeta.esm:006815",
+      "FORMID": "006815",
+      "EDID": "DLC05HealingArchCoolDownMessage",
+      "FULL": "Dispositivo de Recarregamento",
+      "DESC": "O arco está recarregando e não está pronto para uso."
+    },
+    {
+      "FORM": "@Zeta.esm:00A9EF",
+      "FORMID": "00A9EF",
+      "EDID": "DLC05HealingArchHealPlayerPartialMessage",
+      "FULL": "Restaurado",
+      "DESC": "O arco restaurou parte de sua saúde."
+    },
+    {
+      "FORM": "@Zeta.esm:006814",
+      "FORMID": "006814",
+      "EDID": "DLC05HealingArchHealWeaponMessage",
+      "FULL": "Restaurado",
+      "DESC": "O arco restaurou o estado da sua arma."
+    },
+    {
+      "FORM": "@Zeta.esm:006813",
+      "FORMID": "006813",
+      "EDID": "DLC05HealingArchHealPlayerMessage",
+      "FULL": "Restaurado",
+      "DESC": "O arco restaurou completamente a sua saúde."
+    },
+    {
+      "FORM": "@Zeta.esm:0059C6",
+      "FORMID": "0059C6",
+      "EDID": "DLC05DecompressionDoor01bMessage",
+      "FULL": "A câmara esta pressurizada",
+      "DESC": "Esta porta não pode ser aberta, enquanto a câmara estiver pressurizada."
+    },
+    {
+      "FORM": "@Zeta.esm:001F56",
+      "FORMID": "001F56",
+      "EDID": "DLC05trapAlienCommTurretMSG",
+      "DESC": "Você quer manipular o comunicador para se explodir?",
+      "ITXT": [
+        "Não fazer nada.",
+        "Religar Controlador para Explosão de Proximidade.",
+        "Provocar Remotamente uma Sobrecarga dos Circuitos da Torreta"
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:001F54",
+      "FORMID": "001F54",
+      "EDID": "DLC05trapAlienCommMSG",
+      "DESC": "Você quer manipular o comunicador para se explodir?",
+      "ITXT": [
+        "Não fazer nada.",
+        "Religar Controlador para Explosão de Proximidade."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:001602",
+      "FORMID": "001602",
+      "EDID": "DLC05TeleporterChargingMSG",
+      "DESC": "Carregando.  Por favor, aguarde."
+    },
+    {
+      "FORM": "@Zeta.esm:00499B",
+      "FORMID": "00499B",
+      "EDID": "DLC05SteamSallyGrenadeMSG",
+      "ITXT": [
+        "Não tem granadas.",
+        "Granada de Fragmentação.",
+        "Granada de Plasma."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:00399C",
+      "FORMID": "00399C",
+      "EDID": "DLC05StasisControlsMessageDone",
+      "DESC": "As Câmaras de Estase não são mais funcionais."
+    },
+    {
+      "FORM": "@Zeta.esm:00399B",
+      "FORMID": "00399B",
+      "EDID": "DLC05StasisControlsMessage",
+      "DESC": "As Câmaras de estase estão funcionando normalmente.",
+      "ITXT": [
+        "Desativar Estase.",
+        "Não fazer nada."
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:00096E",
+      "FORMID": "00096E",
+      "EDID": "DLC05StartMessage",
+      "FULL": "Nave-Mãe Zeta",
+      "DESC": "Uma emissão nova de rádio foi ouvida em toda a Capital Wasteland. Apesar de ser completamente ininteligível, soa ameaçador..."
+    },
+    {
+      "FORM": "@Zeta.esm:006BEE",
+      "FORMID": "006BEE",
+      "EDID": "DLC05ShieldControlRunningMSG",
+      "DESC": "Os escudos estão ativados e em bom estado."
+    },
+    {
+      "FORM": "@Zeta.esm:005D3D",
+      "FORMID": "005D3D",
+      "EDID": "DLC05MZ3TEMPLabMessage2",
+      "DESC": "O Raio da Morte dispara na superfície da Terra."
+    },
+    {
+      "FORM": "@Zeta.esm:006BEF",
+      "FORMID": "006BEF",
+      "EDID": "DLC05JammerControlRunningMSG",
+      "DESC": "O Inibidor do Teletransportador está em funcionamento."
+    },
+    {
+      "FORM": "@Zeta.esm:00585F",
+      "FORMID": "00585F",
+      "EDID": "DLC05InteractLQWorkerRobotMsg",
+      "ITXT": [
+        "Ativar Robô",
+        "Realinhar Sensores do Robô",
+        "Sair"
+      ]
+    },
+    {
+      "FORM": "@Zeta.esm:002C64",
+      "FORMID": "002C64",
+      "EDID": "DLC05InteractLowSkillScienceMsg",
+      "DESC": "Falta-lhe a habilidade necessária em Ciência para interagir com este objeto. (%. 0f de Ciência necessário ou superior)"
+    },
+    {
+      "FORM": "@Zeta.esm:009950",
+      "FORMID": "009950",
+      "EDID": "DLC05HealingArchOverloadMessage",
+      "DESC": "Uma análise do dispositivo mostra que a sua potência pode ser aumentada, aumentando a sua eficácia. Este melhoramento fará o dispositivo queimar após vários usos. Você deseja modificá-lo?",
+      "ITXT": [
+        "Modificar o Dispositivo.",
+        "Deixar assim."
+      ]
+    }
+  ]
+}

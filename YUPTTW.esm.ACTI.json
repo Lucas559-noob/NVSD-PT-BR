@@ -1,0 +1,74 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@YUPTTW.esm:006691",
+      "FORMID": "006691",
+      "EDID": "RaulAndyFailsafeTrigger",
+      "FULL": "Failsafe do Raul Andy"
+    },
+    {
+      "FORM": "@YUPTTW.esm:000801",
+      "FORMID": "000801",
+      "EDID": "NCRCFAlarmOffTrigger",
+      "FULL": "Gas Valve"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008694",
+      "FORMID": "008694",
+      "EDID": "NVDLC04DivideBldgWarhead",
+      "FULL": "Ogiva",
+      "XATO": "Examinar Ogiva"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5A",
+      "FORMID": "013A5A",
+      "EDID": "NVDLC03BombCollar",
+      "FULL": "Explosão de Cabeça"
+    },
+    {
+      "FORM": "@DeadMoney.esm:01394B",
+      "FORMID": "01394B",
+      "EDID": "NVDLC01RadioAMLDean",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@DeadMoney.esm:010ABF",
+      "FORMID": "010ABF",
+      "EDID": "DrinkSinkMetal01Avg",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5C8",
+      "FORMID": "13E5C8",
+      "EDID": "VHDWatsonsHelmet",
+      "FULL": "Capacete de Watson",
+      "XATO": "Examinar Capacete do Watson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127DC8",
+      "FORMID": "127DC8",
+      "EDID": "VMS18Dumpster",
+      "FULL": "Lixeira",
+      "XATO": "Esconder Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101CB2",
+      "FORMID": "101CB2",
+      "EDID": "PowderGangRanchNote",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD125",
+      "FORMID": "0CD125",
+      "EDID": "RepconMusicSpeaker",
+      "FULL": "Alto-falante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A6FFA",
+      "FORMID": "0A6FFA",
+      "EDID": "JukeBoxCleanVault101",
+      "FULL": "Jukebox"
+    }
+  ]
+}
