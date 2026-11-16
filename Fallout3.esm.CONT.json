@@ -1,0 +1,790 @@
+{
+  "CONT": [
+    {
+      "FORM": "@Fallout3.esm:0284F7",
+      "FORMID": "0284F7",
+      "EDID": "LootGunCabinetWoodPistolsAll",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A2832",
+      "FORMID": "0A2832",
+      "EDID": "Footlocker01Household",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A282F",
+      "FORMID": "0A282F",
+      "EDID": "Footlocker01HouseholdAlcoholic",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A282E",
+      "FORMID": "0A282E",
+      "EDID": "Footlocker01School",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A282A",
+      "FORMID": "0A282A",
+      "EDID": "LockerVaultR01Factory",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A2827",
+      "FORMID": "0A2827",
+      "EDID": "Footlocker01Library",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A2825",
+      "FORMID": "0A2825",
+      "EDID": "RefrigeratorWithLiquor",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A2821",
+      "FORMID": "0A2821",
+      "EDID": "Footlocker01Military",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A2820",
+      "FORMID": "0A2820",
+      "EDID": "Footlocker01Hospital",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A281F",
+      "FORMID": "0A281F",
+      "EDID": "Footlocker01Factory",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F1D4",
+      "FORMID": "01F1D4",
+      "EDID": "RCSecurityFoodContainer",
+      "FULL": "Inventário de Suprimentos"
+    },
+    {
+      "FORM": "@Fallout3.esm:047F01",
+      "FORMID": "047F01",
+      "EDID": "LootSafeDrugDealer",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:026607",
+      "FORMID": "026607",
+      "EDID": "Dumpster02",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00000E",
+      "FORMID": "00000E",
+      "EDID": "LootBag",
+      "FULL": "Barril"
+    },
+    {
+      "FORM": "@Fallout3.esm:0435BD",
+      "FORMID": "0435BD",
+      "EDID": "lootUrbanGarbageCan",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@Fallout3.esm:020525",
+      "FORMID": "020525",
+      "EDID": "NukaVendingMachine",
+      "FULL": "Máquina de Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:014BD3",
+      "FORMID": "014BD3",
+      "EDID": "FilingCabinet",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB5E8",
+      "FORMID": "0CB5E8",
+      "EDID": "LootFootlockerFactoryLock",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:05E516",
+      "FORMID": "05E516",
+      "EDID": "DeskWoodTop01Container",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ACE",
+      "FORMID": "094ACE",
+      "EDID": "LootAmmoBox32CalliberLock",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB5E6",
+      "FORMID": "0CB5E6",
+      "EDID": "LootFootlockerMilitaryLock",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB5E4",
+      "FORMID": "0CB5E4",
+      "EDID": "LootFootlockerOfficeLock",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB5E2",
+      "FORMID": "0CB5E2",
+      "EDID": "LootFootlockerHouseholdLock",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB5E1",
+      "FORMID": "0CB5E1",
+      "EDID": "LootFootlocker01HouseholdLock",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D90D",
+      "FORMID": "01D90D",
+      "EDID": "RefrigeratorWithFood",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FE87",
+      "FORMID": "02FE87",
+      "EDID": "LootGunCabinetWoodRiflesAll",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FE7E",
+      "FORMID": "02FE7E",
+      "EDID": "LootAmmoBox32Calliber",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FDDF",
+      "FORMID": "02FDDF",
+      "EDID": "DeskWoodTopR01Container",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FD92",
+      "FORMID": "02FD92",
+      "EDID": "MetalBin01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FCCE",
+      "FORMID": "02FCCE",
+      "EDID": "LootSafeFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FCC4",
+      "FORMID": "02FCC4",
+      "EDID": "LiquorCabinet",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FCC3",
+      "FORMID": "02FCC3",
+      "EDID": "DresserAbandoned",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FC63",
+      "FORMID": "02FC63",
+      "EDID": "CurioCabinet",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFE4",
+      "FORMID": "01CFE4",
+      "EDID": "GarbageCanUrban03",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF65",
+      "FORMID": "01CF65",
+      "EDID": "GarbageCanUrban02",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BD137",
+      "FORMID": "0BD137",
+      "EDID": "EnclaveCratePersonals",
+      "FULL": "Maleta da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CCCD",
+      "FORMID": "01CCCD",
+      "EDID": "GarbageCanUrban01",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:061547",
+      "FORMID": "061547",
+      "EDID": "LootGunCaseRiflesGunpowder",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CA90",
+      "FORMID": "01CA90",
+      "EDID": "DeskOfficeMetal",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBCE",
+      "FORMID": "07CBCE",
+      "EDID": "FireHoseBox",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFBF",
+      "FORMID": "0CAFBF",
+      "EDID": "HollowRockContainer",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B41EB",
+      "FORMID": "0B41EB",
+      "EDID": "VendorContainerMoiraBrown",
+      "FULL": "Suprimentos de Craterside"
+    },
+    {
+      "FORM": "@Fallout3.esm:002FCA",
+      "FORMID": "002FCA",
+      "EDID": "OvenRangeDirty01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@Fallout3.esm:002FC9",
+      "FORMID": "002FC9",
+      "EDID": "OvenRangeClean01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE54",
+      "FORMID": "09BE54",
+      "EDID": "LootSafeFloorOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE53",
+      "FORMID": "09BE53",
+      "EDID": "LootSafeWallOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE52",
+      "FORMID": "09BE52",
+      "EDID": "LootSafeFloorMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE51",
+      "FORMID": "09BE51",
+      "EDID": "LootSafeWallMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE50",
+      "FORMID": "09BE50",
+      "EDID": "LootSafeFloorHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE4F",
+      "FORMID": "09BE4F",
+      "EDID": "LootSafeWallHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE4E",
+      "FORMID": "09BE4E",
+      "EDID": "LootSafeFloorHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE4D",
+      "FORMID": "09BE4D",
+      "EDID": "LootSafeWallHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE4C",
+      "FORMID": "09BE4C",
+      "EDID": "LootSafeFloorFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE4B",
+      "FORMID": "09BE4B",
+      "EDID": "LootSafeWallFactory",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:05BB13",
+      "FORMID": "05BB13",
+      "EDID": "OasisSack01",
+      "FULL": "Saco"
+    },
+    {
+      "FORM": "@Fallout3.esm:0533CE",
+      "FORMID": "0533CE",
+      "EDID": "GenericSafe01",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:0533CD",
+      "FORMID": "0533CD",
+      "EDID": "GenericSafeWall01",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:0533CA",
+      "FORMID": "0533CA",
+      "EDID": "GenericSafeFloor01",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:02700D",
+      "FORMID": "02700D",
+      "EDID": "LootFirstAidKit",
+      "FULL": "Kit de Primeiros Socorros"
+    },
+    {
+      "FORM": "@Fallout3.esm:062033",
+      "FORMID": "062033",
+      "EDID": "FilingCabinetBunch02",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:062032",
+      "FORMID": "062032",
+      "EDID": "FilingCabinetBunch03",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:062031",
+      "FORMID": "062031",
+      "EDID": "FilingCabinetBunch04",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:062030",
+      "FORMID": "062030",
+      "EDID": "FilingCabinetBunch01",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:03AEFB",
+      "FORMID": "03AEFB",
+      "EDID": "DeskOfficeCornerMetal",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:03AEF9",
+      "FORMID": "03AEF9",
+      "EDID": "DeskFuturistic",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:09ADE9",
+      "FORMID": "09ADE9",
+      "EDID": "LootArmorRaider",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A331",
+      "FORMID": "01A331",
+      "EDID": "AndaleStove",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A330",
+      "FORMID": "01A330",
+      "EDID": "AndaleFridge",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9E66",
+      "FORMID": "0A9E66",
+      "EDID": "SteamerTrunk01",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9E65",
+      "FORMID": "0A9E65",
+      "EDID": "SuitCase02",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@Fallout3.esm:019F3C",
+      "FORMID": "019F3C",
+      "EDID": "MailDropbox01New",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA6",
+      "FORMID": "0B2DA6",
+      "EDID": "LootGunCabinetMetalBRiflesGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA5",
+      "FORMID": "0B2DA5",
+      "EDID": "LootGunCabinetMetalARiflesGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA4",
+      "FORMID": "0B2DA4",
+      "EDID": "LootGunCabinetMetalBRiflesAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA3",
+      "FORMID": "0B2DA3",
+      "EDID": "LootGunCabinetMetalARiflesAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA2",
+      "FORMID": "0B2DA2",
+      "EDID": "LootGunCabinetMetalBPistolsGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2DA1",
+      "FORMID": "0B2DA1",
+      "EDID": "LootGunCabinetMetalAPistolsGunpowder",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2D9E",
+      "FORMID": "0B2D9E",
+      "EDID": "LootGunCabinetMetalBPistolsAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2D9D",
+      "FORMID": "0B2D9D",
+      "EDID": "LootGunCabinetMetalAPistolsAll",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D1AB",
+      "FORMID": "02D1AB",
+      "EDID": "NukaVendingMachineClean",
+      "FULL": "Máquina de Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:0389A3",
+      "FORMID": "0389A3",
+      "EDID": "LockerVault01School",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0389A2",
+      "FORMID": "0389A2",
+      "EDID": "LockerVault01Office",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0389A1",
+      "FORMID": "0389A1",
+      "EDID": "LockerVault01Military",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0389A0",
+      "FORMID": "0389A0",
+      "EDID": "LockerVault01Library",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:03899F",
+      "FORMID": "03899F",
+      "EDID": "LockerVault01Kitchen",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:03899E",
+      "FORMID": "03899E",
+      "EDID": "LockerVault01Hospital",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D06C",
+      "FORMID": "02D06C",
+      "EDID": "MS05NukaFridge",
+      "FULL": "Geladeira Antiga de Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C502F",
+      "FORMID": "0C502F",
+      "EDID": "HD02NukaVendingMachineClean",
+      "FULL": "Máquina de Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:029268",
+      "FORMID": "029268",
+      "EDID": "DeskOfficeMetalMetro",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C502B",
+      "FORMID": "0C502B",
+      "EDID": "HD01NukaVendingMachineClean",
+      "FULL": "Máquina de Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:0587B1",
+      "FORMID": "0587B1",
+      "EDID": "DeskOfficeWooden",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:058716",
+      "FORMID": "058716",
+      "EDID": "LockerVaultR01School",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:058715",
+      "FORMID": "058715",
+      "EDID": "LockerVaultR01Office",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:058714",
+      "FORMID": "058714",
+      "EDID": "LockerVaultR01Military",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:058713",
+      "FORMID": "058713",
+      "EDID": "LockerVaultR01Library",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:058712",
+      "FORMID": "058712",
+      "EDID": "LockerVaultR01Kitchen",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:058711",
+      "FORMID": "058711",
+      "EDID": "LockerVaultR01Hospital",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:04BDA9",
+      "FORMID": "04BDA9",
+      "EDID": "MetalBox01Commercial",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:04BDA8",
+      "FORMID": "04BDA8",
+      "EDID": "MS03FoodRefrigerator",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F2E",
+      "FORMID": "017F2E",
+      "EDID": "MailboxDestroyed",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@Fallout3.esm:017F2D",
+      "FORMID": "017F2D",
+      "EDID": "MailboxClean",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@Fallout3.esm:03789F",
+      "FORMID": "03789F",
+      "EDID": "LootSafeOffice",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:03789E",
+      "FORMID": "03789E",
+      "EDID": "LootSafeMilitary",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:03789D",
+      "FORMID": "03789D",
+      "EDID": "LootSafeHousehold",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:03789C",
+      "FORMID": "03789C",
+      "EDID": "LootSafeHospital",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@Fallout3.esm:037897",
+      "FORMID": "037897",
+      "EDID": "CrateShippingOffice",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:037896",
+      "FORMID": "037896",
+      "EDID": "CrateShippingMilitary",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:03788C",
+      "FORMID": "03788C",
+      "EDID": "MetalBox01Office",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:03788B",
+      "FORMID": "03788B",
+      "EDID": "MetalBox01Military",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:03788A",
+      "FORMID": "03788A",
+      "EDID": "MetalBox01Metro",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:037888",
+      "FORMID": "037888",
+      "EDID": "MetalBox01Household",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:037883",
+      "FORMID": "037883",
+      "EDID": "Locker01Office",
+      "FULL": "Armários"
+    },
+    {
+      "FORM": "@Fallout3.esm:037882",
+      "FORMID": "037882",
+      "EDID": "Locker01Military",
+      "FULL": "Armários"
+    },
+    {
+      "FORM": "@Fallout3.esm:037881",
+      "FORMID": "037881",
+      "EDID": "Locker01Metro",
+      "FULL": "Armários"
+    },
+    {
+      "FORM": "@Fallout3.esm:037826",
+      "FORMID": "037826",
+      "EDID": "LootGunCaseShotgunCombat",
+      "FULL": "Maleta"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B846",
+      "FORMID": "06B846",
+      "EDID": "AntRefusePile05aCONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B845",
+      "FORMID": "06B845",
+      "EDID": "AntRefusePile05CONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B843",
+      "FORMID": "06B843",
+      "EDID": "AntRefusePile04aCONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B842",
+      "FORMID": "06B842",
+      "EDID": "AntRefusePile04CONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B756",
+      "FORMID": "06B756",
+      "EDID": "AntRefusePile02aCONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B6DC",
+      "FORMID": "06B6DC",
+      "EDID": "AntRefusePile02CONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B6D2",
+      "FORMID": "06B6D2",
+      "EDID": "AntRefusePile01aCONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B6CE",
+      "FORMID": "06B6CE",
+      "EDID": "AntRefusePile01CONT",
+      "FULL": "Monte de Resíduos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:08B5D8",
+      "FORMID": "08B5D8",
+      "EDID": "HotelDesk01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:08B5D6",
+      "FORMID": "08B5D6",
+      "EDID": "HotelWardrobe01",
+      "FULL": "Guarda-Roupa"
+    },
+    {
+      "FORM": "@Fallout3.esm:076F34",
+      "FORMID": "076F34",
+      "EDID": "RefrigeratorMirelurk",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@Fallout3.esm:031C58",
+      "FORMID": "031C58",
+      "EDID": "LootGun32CaliberPistol",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@Fallout3.esm:031C50",
+      "FORMID": "031C50",
+      "EDID": "LootGunCabinetWoodRiflesGunpowder",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:031C4E",
+      "FORMID": "031C4E",
+      "EDID": "LootGunCabinetWoodPistolsGunpowder",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@Fallout3.esm:031C2F",
+      "FORMID": "031C2F",
+      "EDID": "RHSGarbageCan",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5BC7",
+      "FORMID": "0B5BC7",
+      "EDID": "LootFirstAidKitEnclave",
+      "FULL": "Kit de Primeiros Socorros"
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "RCPE": [
+    {
+      "FORM": "@FalloutNV.esm:13B2C2",
+      "FORMID": "13B2C2",
+      "EDID": "RecipeHealingPowder",
+      "FULL": "Pó Curativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2C4",
+      "FORMID": "13B2C4",
+      "EDID": "RecipeHydra",
+      "FULL": "Hidra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BFBB",
+      "FORMID": "13BFBB",
+      "EDID": "RecipeGrilledMantisLeg",
+      "FULL": "Perna de Louva-a-Deus Grelhada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C2",
+      "FORMID": "13D3C2",
+      "EDID": "RecipeGeckoHideTanned",
+      "FULL": "Couro de Gecko Bronzeado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C3",
+      "FORMID": "13D3C3",
+      "EDID": "RecipeTimeBomb",
+      "FULL": "Bomba Relógio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C4",
+      "FORMID": "13D3C4",
+      "EDID": "RecipeTrailMix",
+      "FULL": "Mistura de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C5",
+      "FORMID": "13D3C5",
+      "EDID": "RecipeMassPurifiedWater",
+      "FULL": "Água Purificada em Grande Quantidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C6",
+      "FORMID": "13D3C6",
+      "EDID": "RecipeCactusWater",
+      "FULL": "Água de Cacto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C7",
+      "FORMID": "13D3C7",
+      "EDID": "RecipeBleakVenom",
+      "FULL": "Veneno Sombrio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C8",
+      "FORMID": "13D3C8",
+      "EDID": "RecipeCaravanLunch",
+      "FULL": "Almoço de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D3C9",
+      "FORMID": "13D3C9",
+      "EDID": "RecipeRosesWastelandOmelet",
+      "FULL": "Omelete do Deserto da Rose"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D530",
+      "FORMID": "13D530",
+      "EDID": "RecipeGeckoFireHideTanned",
+      "FULL": "Couro de Gecko Flamejante Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E44D",
+      "FORMID": "13E44D",
+      "EDID": "Recipe44MagnumHandLoad",
+      "FULL": ".44 Magnum, Carga Manual SWC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A65",
+      "FORMID": "140A65",
+      "EDID": "RecipeBottlecapMine",
+      "FULL": "Mina de Tampinhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A66",
+      "FORMID": "140A66",
+      "EDID": "RecipePowderCharge",
+      "FULL": "Carga de Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A67",
+      "FORMID": "140A67",
+      "EDID": "RecipeWeaponRepairKit",
+      "FULL": "Kit de Reparos de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A6A",
+      "FORMID": "140A6A",
+      "EDID": "RecipeSuperStimpak",
+      "FULL": "Superestimulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A9A",
+      "FORMID": "140A9A",
+      "EDID": "RecipeGeckoGoldenHideTanned",
+      "FULL": "Couro de Gecko Dourado Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A9B",
+      "FORMID": "140A9B",
+      "EDID": "RecipeAtomicCocktail",
+      "FULL": "Coquetel Atômico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAD",
+      "FORMID": "140AAD",
+      "EDID": "Recipe10mmHandLoad",
+      "FULL": "10mm, Carga Manual JHP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAE",
+      "FORMID": "140AAE",
+      "EDID": "Recipe308HandLoad",
+      "FULL": ".308, Recarga Manual JSP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAF",
+      "FORMID": "140AAF",
+      "EDID": "Recipe357MagnumHandLoad",
+      "FULL": ".357 Magnum, Carga Manual JFP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB0",
+      "FORMID": "140AB0",
+      "EDID": "Recipe4570GovtHandLoad",
+      "FULL": ".45-70 Gov't, Carga Manual SWC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB1",
+      "FORMID": "140AB1",
+      "EDID": "Recipe50MGHandLoad",
+      "FULL": ".50 MG, Carga Manual de Competição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB4",
+      "FORMID": "140AB4",
+      "EDID": "RecipeBreakdown10mm",
+      "FULL": "Desmontar 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB6",
+      "FORMID": "140AB6",
+      "EDID": "RecipeBreakdown22LR",
+      "FULL": "Desmontar .22 LR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB7",
+      "FORMID": "140AB7",
+      "EDID": "RecipeBreakdown9mm",
+      "FULL": "Desmontar 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB8",
+      "FORMID": "140AB8",
+      "EDID": "RecipeBreakdown357Magnum",
+      "FULL": "Desmonte de .357 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB9",
+      "FORMID": "140AB9",
+      "EDID": "RecipeBreakdown44Magnum",
+      "FULL": ".44 Magnum Desmontada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABA",
+      "FORMID": "140ABA",
+      "EDID": "RecipeBreakdown4570Govt",
+      "FULL": "Desmanchar .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABB",
+      "FORMID": "140ABB",
+      "EDID": "RecipeBreakdown556mm",
+      "FULL": "Desmontar 5.56mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABC",
+      "FORMID": "140ABC",
+      "EDID": "RecipeBreakdown308",
+      "FULL": "Desgaste .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABD",
+      "FORMID": "140ABD",
+      "EDID": "RecipeBreakdown5mm",
+      "FULL": "Desmanchar 5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ABE",
+      "FORMID": "140ABE",
+      "EDID": "RecipeBreakdown50MG",
+      "FULL": "Desmonte .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE1",
+      "FORMID": "140AE1",
+      "EDID": "Recipe10mm",
+      "FULL": "Munição de 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE2",
+      "FORMID": "140AE2",
+      "EDID": "Recipe9mm",
+      "FULL": "Munição 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE3",
+      "FORMID": "140AE3",
+      "EDID": "Recipe308",
+      "FULL": "Munição .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE4",
+      "FORMID": "140AE4",
+      "EDID": "Recipe357Magnum",
+      "FULL": "Munição .357 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE5",
+      "FORMID": "140AE5",
+      "EDID": "Recipe44Magnum",
+      "FULL": "Munição .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE6",
+      "FORMID": "140AE6",
+      "EDID": "Recipe4570Govt",
+      "FULL": "Munição .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE7",
+      "FORMID": "140AE7",
+      "EDID": "Recipe50MG",
+      "FULL": "Munição .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE8",
+      "FORMID": "140AE8",
+      "EDID": "Recipe5mm",
+      "FULL": "Projétil de 5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE9",
+      "FORMID": "140AE9",
+      "EDID": "Recipe556mm",
+      "FULL": "Munição 5,56mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AED",
+      "FORMID": "140AED",
+      "EDID": "Recipe20Ga",
+      "FULL": "Chumbo 20 Ga."
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEE",
+      "FORMID": "140AEE",
+      "EDID": "Recipe12Ga",
+      "FULL": "Chumbo 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEF",
+      "FORMID": "140AEF",
+      "EDID": "RecipeBreakdown20Ga",
+      "FULL": "Desmontar Cal. 20"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AF0",
+      "FORMID": "140AF0",
+      "EDID": "RecipeBreakdown12Ga",
+      "FULL": "Desmonte Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C30",
+      "FORMID": "140C30",
+      "EDID": "RecipeBreakdownScrapMetalLead",
+      "FULL": "Transformar Sucata de Metal em Chumbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C7B",
+      "FORMID": "146C7B",
+      "EDID": "RecipeDogTagFist",
+      "FULL": "Punho de Plaqueta de Identificação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146CCC",
+      "FORMID": "146CCC",
+      "EDID": "RecipeRocket",
+      "FULL": "Foguete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146CCE",
+      "FORMID": "146CCE",
+      "EDID": "RecipePartyTimeMentats",
+      "FULL": "Mentats Balada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146CCF",
+      "FORMID": "146CCF",
+      "EDID": "RecipeSlasher",
+      "FULL": "Slasher"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146D18",
+      "FORMID": "146D18",
+      "EDID": "RecipeTurbo",
+      "FULL": "Turbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C626",
+      "FORMID": "15C626",
+      "EDID": "RecipeSmallEnergyCell",
+      "FULL": "Reciclagem, Célula de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C627",
+      "FORMID": "15C627",
+      "EDID": "RecipeSmallEnergyCellOverCharge",
+      "FULL": "Célula de Energia, Sobrecarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C628",
+      "FORMID": "15C628",
+      "EDID": "RecipeSmallEnergyCellMaxCharge",
+      "FULL": "Célula de Energia, Carga Máx."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62B",
+      "FORMID": "15C62B",
+      "EDID": "RecipeMicroFusionCell",
+      "FULL": "Reciclagem, Célula de Microfusão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62C",
+      "FORMID": "15C62C",
+      "EDID": "RecipeMicroFusionCellOverCharge",
+      "FULL": "Célula de Microfusão, Sobrecarga Máxima"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62D",
+      "FORMID": "15C62D",
+      "EDID": "RecipeMicroFusionCellMaxCharge",
+      "FULL": "Célula de Microfusão, Carga Máxima"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62E",
+      "FORMID": "15C62E",
+      "EDID": "RecipeElectronChargePack",
+      "FULL": "Reciclagem, Pacote de Carga de Elétrons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62F",
+      "FORMID": "15C62F",
+      "EDID": "RecipeElectronChargePackOverCharge",
+      "FULL": "Pacote de Carga de Elétrons, Sobrecarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C630",
+      "FORMID": "15C630",
+      "EDID": "RecipeElectronChargePackMaxCharge",
+      "FULL": "Pacote de Carga de Elétrons, Carga Máx."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C632",
+      "FORMID": "15C632",
+      "EDID": "RecipeFlamerFuel",
+      "FULL": "Reciclagem, Combustível de Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C633",
+      "FORMID": "15C633",
+      "EDID": "RecipeConversionSECtoMFC",
+      "FULL": "Conversão, SEC para MFC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C634",
+      "FORMID": "15C634",
+      "EDID": "RecipeConversionMFCtoSEC",
+      "FULL": "Conversão, MFC para SEC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C635",
+      "FORMID": "15C635",
+      "EDID": "RecipeConversionSECtoECP",
+      "FULL": "Conversão, SEC para ECP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C636",
+      "FORMID": "15C636",
+      "EDID": "RecipeConversionMFCtoECP",
+      "FULL": "Conversão, MFC para ECP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C637",
+      "FORMID": "15C637",
+      "EDID": "RecipeRubysSpicyCasserole",
+      "FULL": "Casserole Apimentado da Ruby"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C638",
+      "FORMID": "15C638",
+      "EDID": "RecipeConversionECPtoSEC",
+      "FULL": "Conversão, ECP para CES"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C639",
+      "FORMID": "15C639",
+      "EDID": "RecipeConversionECPtoMFC",
+      "FULL": "Conversão, ECP para MFC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3A6",
+      "FORMID": "15E3A6",
+      "EDID": "RecipeMushroomCloud",
+      "FULL": "Cogumelo Atômico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3A7",
+      "FORMID": "15E3A7",
+      "EDID": "RecipeDesertSalad",
+      "FULL": "Salada do Deserto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C6",
+      "FORMID": "1613C6",
+      "EDID": "RecipeBloatflySlider",
+      "FULL": "Slider de Mosca-Bota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C7",
+      "FORMID": "1613C7",
+      "EDID": "RecipeBrahminSteak",
+      "FULL": "Bife de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C8",
+      "FORMID": "1613C8",
+      "EDID": "RecipeCoyoteSteak",
+      "FULL": "Bife de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613C9",
+      "FORMID": "1613C9",
+      "EDID": "RecipeDogSteak",
+      "FULL": "Bife de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CA",
+      "FORMID": "1613CA",
+      "EDID": "RecipeGeckoKebab",
+      "FULL": "Kebab de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CB",
+      "FORMID": "1613CB",
+      "EDID": "RecipeMoleRatStew",
+      "FULL": "Ensopado de Rato-toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CC",
+      "FORMID": "1613CC",
+      "EDID": "RecipeFireAntFricassee",
+      "FULL": "Fricassé de Formiga de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CD",
+      "FORMID": "1613CD",
+      "EDID": "RecipeGeckoSteak",
+      "FULL": "Bife de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16163F",
+      "FORMID": "16163F",
+      "EDID": "RecipeCassMoonshine",
+      "FULL": "Moonshine da Cass"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161990",
+      "FORMID": "161990",
+      "EDID": "RecipeAntivenom",
+      "FULL": "Antídoto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165817",
+      "FORMID": "165817",
+      "EDID": "RecipeEfficientSmallEnergyCell",
+      "FULL": "Reciclagem Eficiente, Célula de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165818",
+      "FORMID": "165818",
+      "EDID": "RecipeEfficientMicroFusionCell",
+      "FULL": "Reciclagem Eficiente, Célula de Microfusão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165819",
+      "FORMID": "165819",
+      "EDID": "RecipeEfficientFlamerFuel",
+      "FULL": "Reciclagem Eficiente, Combustível de Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16581A",
+      "FORMID": "16581A",
+      "EDID": "RecipeEfficientElectronChargePack",
+      "FULL": "Reciclagem Eficiente, Pacote de Carga Eletrônica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AE7",
+      "FORMID": "165AE7",
+      "EDID": "RecipeNukaColaQuartz",
+      "FULL": "Nuka-Cola Quartz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AE8",
+      "FORMID": "165AE8",
+      "EDID": "RecipeNukaColaVictory",
+      "FULL": "Nuka-Cola Victory"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AE9",
+      "FORMID": "165AE9",
+      "EDID": "RecipeNukaColaIceCold",
+      "FULL": "Nuka-Cola Gelaaada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AEA",
+      "FORMID": "165AEA",
+      "EDID": "RecipeStimpak",
+      "FULL": "Stimpak"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7B",
+      "FORMID": "165E7B",
+      "EDID": "Recipe20GaMagnum",
+      "FULL": "Chumbo 20, Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7C",
+      "FORMID": "165E7C",
+      "EDID": "Recipe12GaMagnum",
+      "FULL": "Chumbo 12, Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7D",
+      "FORMID": "165E7D",
+      "EDID": "Recipe12GaCoinShot",
+      "FULL": "Cartucho de Moedas Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7E",
+      "FORMID": "165E7E",
+      "EDID": "Recipe20GaSlug",
+      "FULL": "Chumbo 20 Ga."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7F",
+      "FORMID": "165E7F",
+      "EDID": "Recipe12GaSlug",
+      "FULL": "Chumbo 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166F64",
+      "FORMID": "166F64",
+      "EDID": "RecipeFlamerFuelHomemade",
+      "FULL": "Combustível de Lança-chamas, Caseiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167478",
+      "FORMID": "167478",
+      "EDID": "RecipeMotherDarkness",
+      "FULL": "Mãe Escuridão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167479",
+      "FORMID": "167479",
+      "EDID": "RecipeSilverSting",
+      "FULL": "Ferrão de Prata"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16747A",
+      "FORMID": "16747A",
+      "EDID": "RecipeTremble",
+      "FULL": "Tremer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17356C",
+      "FORMID": "17356C",
+      "EDID": "RecipeDoctorsBag",
+      "FULL": "Maleta de Médico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AA9",
+      "FORMID": "175AA9",
+      "EDID": "RecipeBighornerSteak",
+      "FULL": "Bife de Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AAA",
+      "FORMID": "175AAA",
+      "EDID": "RecipeBrahminWellington",
+      "FULL": "Wellington de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AAF",
+      "FORMID": "175AAF",
+      "EDID": "RecipeCookCooksFiendStew",
+      "FULL": "Ensopado de Demônio do Cook-Cook"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17BA3D",
+      "FORMID": "17BA3D",
+      "EDID": "RecipeBreakdown127mm",
+      "FULL": "Desmonte 12.7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17BA3E",
+      "FORMID": "17BA3E",
+      "EDID": "Recipe127mm",
+      "FULL": "Munição 12,7 mm"
+    }
+  ]
+}

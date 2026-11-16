@@ -1,0 +1,4660 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@Fallout3.esm:018237",
+      "FORMID": "018237",
+      "EDID": "BrotherhoodOfSteel3BigGunsAAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018236",
+      "FORMID": "018236",
+      "EDID": "BrotherhoodOfSteel3BigGunsAAFTEMPLATE",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018235",
+      "FORMID": "018235",
+      "EDID": "BrotherhoodOfSteel2MeleeHF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018234",
+      "FORMID": "018234",
+      "EDID": "BrotherhoodOfSteel2MeleeHM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018233",
+      "FORMID": "018233",
+      "EDID": "BrotherhoodOfSteel2MeleeCF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018232",
+      "FORMID": "018232",
+      "EDID": "BrotherhoodOfSteel2MeleeCM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018231",
+      "FORMID": "018231",
+      "EDID": "BrotherhoodOfSteel2MeleeAF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FF12",
+      "FORMID": "01FF12",
+      "EDID": "MegatonSettlerMercCraterside",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:018230",
+      "FORMID": "018230",
+      "EDID": "BrotherhoodOfSteel2MeleeAM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822F",
+      "FORMID": "01822F",
+      "EDID": "BrotherhoodOfSteel2MeleeAAM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822E",
+      "FORMID": "01822E",
+      "EDID": "BrotherhoodOfSteel2MeleeAAFTEMPLATE",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822D",
+      "FORMID": "01822D",
+      "EDID": "BrotherhoodOfSteel2GunHF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822C",
+      "FORMID": "01822C",
+      "EDID": "BrotherhoodOfSteel2GunHM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822B",
+      "FORMID": "01822B",
+      "EDID": "BrotherhoodOfSteel2GunCF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01822A",
+      "FORMID": "01822A",
+      "EDID": "BrotherhoodOfSteel2GunCM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018229",
+      "FORMID": "018229",
+      "EDID": "BrotherhoodOfSteel2GunAF",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018228",
+      "FORMID": "018228",
+      "EDID": "BrotherhoodOfSteel2GunAM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018227",
+      "FORMID": "018227",
+      "EDID": "BrotherhoodOfSteel2GunAAM",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4C",
+      "FORMID": "0BFE4C",
+      "EDID": "FFEnclaveCamp24TraineeHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4B",
+      "FORMID": "0BFE4B",
+      "EDID": "FFEnclaveCamp24TraineeCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFE4A",
+      "FORMID": "0BFE4A",
+      "EDID": "FFEnclaveCamp24TraineeAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:018226",
+      "FORMID": "018226",
+      "EDID": "BrotherhoodOfSteel2GunAAFTEMPLATE",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018225",
+      "FORMID": "018225",
+      "EDID": "BrotherhoodOfSteel1FlamerHF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018224",
+      "FORMID": "018224",
+      "EDID": "BrotherhoodOfSteel1FlamerHM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01821A",
+      "FORMID": "01821A",
+      "EDID": "BrotherhoodOfSteel1FlamerCM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018218",
+      "FORMID": "018218",
+      "EDID": "BrotherhoodOfSteel1FlamerAF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018217",
+      "FORMID": "018217",
+      "EDID": "BrotherhoodOfSteel1FlamerAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018216",
+      "FORMID": "018216",
+      "EDID": "BrotherhoodOfSteel1FlamerAAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018213",
+      "FORMID": "018213",
+      "EDID": "BrotherhoodOfSteel1FlamerAAFTEMPLATE",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018212",
+      "FORMID": "018212",
+      "EDID": "BrotherhoodOfSteel1MeleeHF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018211",
+      "FORMID": "018211",
+      "EDID": "BrotherhoodOfSteel1MeleeHM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018210",
+      "FORMID": "018210",
+      "EDID": "BrotherhoodOfSteel1MeleeCF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01820F",
+      "FORMID": "01820F",
+      "EDID": "BrotherhoodOfSteel1MeleeCM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018209",
+      "FORMID": "018209",
+      "EDID": "BrotherhoodOfSteel1MeleeAF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018208",
+      "FORMID": "018208",
+      "EDID": "BrotherhoodOfSteel1MeleeAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018202",
+      "FORMID": "018202",
+      "EDID": "BrotherhoodOfSteel1MeleeAAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181FC",
+      "FORMID": "0181FC",
+      "EDID": "BrotherhoodOfSteel1MeleeAAFTEMPLATE",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181FB",
+      "FORMID": "0181FB",
+      "EDID": "BrotherhoodOfSteel1GunHF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181EF",
+      "FORMID": "0181EF",
+      "EDID": "BrotherhoodOfSteel1GunHM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181EE",
+      "FORMID": "0181EE",
+      "EDID": "BrotherhoodOfSteel1GunCF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181E3",
+      "FORMID": "0181E3",
+      "EDID": "BrotherhoodOfSteel1GunCM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181DC",
+      "FORMID": "0181DC",
+      "EDID": "BrotherhoodOfSteel1GunAF",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181DB",
+      "FORMID": "0181DB",
+      "EDID": "BrotherhoodOfSteel1GunAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181DA",
+      "FORMID": "0181DA",
+      "EDID": "BrotherhoodOfSteel1GunAAM",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0181D2",
+      "FORMID": "0181D2",
+      "EDID": "BrotherhoodOfSteel1GunAAFTEMPLATE",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:029695",
+      "FORMID": "029695",
+      "EDID": "Outcast1GunHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:05213F",
+      "FORMID": "05213F",
+      "EDID": "FFDCAdamsMorganPreacher",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:05213B",
+      "FORMID": "05213B",
+      "EDID": "FFDCAdamsMorganCrazedWastelander",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C9",
+      "FORMID": "0B22C9",
+      "EDID": "EnclaveScientistHF",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C8",
+      "FORMID": "0B22C8",
+      "EDID": "EnclaveScientistCF",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C7",
+      "FORMID": "0B22C7",
+      "EDID": "EnclaveScientistAF",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C6",
+      "FORMID": "0B22C6",
+      "EDID": "EnclaveScientistHM",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4FF",
+      "FORMID": "07F4FF",
+      "EDID": "Talon3SniperHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4FD",
+      "FORMID": "07F4FD",
+      "EDID": "Talon3SniperCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F355",
+      "FORMID": "01F355",
+      "EDID": "MQ01JenningsDead",
+      "FULL": "Iniciante Jennings"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4FB",
+      "FORMID": "07F4FB",
+      "EDID": "Talon3SniperAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4F8",
+      "FORMID": "07F4F8",
+      "EDID": "Talon3SniperAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4F7",
+      "FORMID": "07F4F7",
+      "EDID": "Talon2SniperHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4F5",
+      "FORMID": "07F4F5",
+      "EDID": "Talon2SniperCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4F3",
+      "FORMID": "07F4F3",
+      "EDID": "Talon2SniperAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4F0",
+      "FORMID": "07F4F0",
+      "EDID": "Talon2SniperAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4EF",
+      "FORMID": "07F4EF",
+      "EDID": "Talon1SniperHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4ED",
+      "FORMID": "07F4ED",
+      "EDID": "Talon1SniperCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4EB",
+      "FORMID": "07F4EB",
+      "EDID": "Talon1SniperAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F4E6",
+      "FORMID": "07F4E6",
+      "EDID": "Talon1SniperAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C5",
+      "FORMID": "0B22C5",
+      "EDID": "EnclaveScientistCM",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C4",
+      "FORMID": "0B22C4",
+      "EDID": "EnclaveScientistAM",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:017C2F",
+      "FORMID": "017C2F",
+      "EDID": "WestFather",
+      "FULL": "Pai de Lucy West"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B22C3",
+      "FORMID": "0B22C3",
+      "EDID": "EnclaveScientistAAM",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029694",
+      "FORMID": "029694",
+      "EDID": "Outcast1GunCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F1CB",
+      "FORMID": "01F1CB",
+      "EDID": "RCSecurityPatrolNight",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:017A02",
+      "FORMID": "017A02",
+      "EDID": "TenpennyGuardSleep1",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0179EE",
+      "FORMID": "0179EE",
+      "EDID": "CitadelBrotherhoodKnightLabPatrol",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CC26C",
+      "FORMID": "0CC26C",
+      "EDID": "DEADScientistLD01",
+      "FULL": "Cientista"
+    },
+    {
+      "FORM": "@Fallout3.esm:029693",
+      "FORMID": "029693",
+      "EDID": "Outcast1GunAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CC228",
+      "FORMID": "0CC228",
+      "EDID": "RegulatorDeadPlunkett",
+      "FULL": "Regulador Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:029692",
+      "FORMID": "029692",
+      "EDID": "Outcast1GunAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029691",
+      "FORMID": "029691",
+      "EDID": "Outcast1GunHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029690",
+      "FORMID": "029690",
+      "EDID": "Outcast1GunCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:04BF63",
+      "FORMID": "04BF63",
+      "EDID": "Talon1GunHMDEAD",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:02968F",
+      "FORMID": "02968F",
+      "EDID": "Outcast1GunAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:031EC9",
+      "FORMID": "031EC9",
+      "EDID": "UncleRoe",
+      "FULL": "Tio Roe"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EF46",
+      "FORMID": "01EF46",
+      "EDID": "CitadelJourneymanScribeLibertyPrime04",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EF45",
+      "FORMID": "01EF45",
+      "EDID": "CitadelJourneymanScribeLibertyPrime03",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EF44",
+      "FORMID": "01EF44",
+      "EDID": "CitadelJourneymanScribeLibertyPrime02",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EF43",
+      "FORMID": "01EF43",
+      "EDID": "CitadelJourneymanScribeLibertyPrime01",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:02968B",
+      "FORMID": "02968B",
+      "EDID": "Outcast1GunAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:03ED60",
+      "FORMID": "03ED60",
+      "EDID": "LootToxicDump01NPC",
+      "FULL": "Solitário da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02968A",
+      "FORMID": "02968A",
+      "EDID": "Outcast3MeleeHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029689",
+      "FORMID": "029689",
+      "EDID": "Outcast3MeleeCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029688",
+      "FORMID": "029688",
+      "EDID": "Outcast3MeleeAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029687",
+      "FORMID": "029687",
+      "EDID": "Outcast3MeleeAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029686",
+      "FORMID": "029686",
+      "EDID": "Outcast3MeleeHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABED4",
+      "FORMID": "0ABED4",
+      "EDID": "Enclave0RipperHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABED3",
+      "FORMID": "0ABED3",
+      "EDID": "Enclave0RipperHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABED2",
+      "FORMID": "0ABED2",
+      "EDID": "Enclave0RipperCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABED1",
+      "FORMID": "0ABED1",
+      "EDID": "Enclave0RipperCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABED0",
+      "FORMID": "0ABED0",
+      "EDID": "Enclave0RipperAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABECF",
+      "FORMID": "0ABECF",
+      "EDID": "Enclave0RipperAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABECE",
+      "FORMID": "0ABECE",
+      "EDID": "Enclave0RipperAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA70",
+      "FORMID": "0BEA70",
+      "EDID": "FFEC20DeadEnclaveRipperHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA6F",
+      "FORMID": "0BEA6F",
+      "EDID": "FFEC20DeadEnclaveBigGunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA6E",
+      "FORMID": "0BEA6E",
+      "EDID": "FFEC20DeadEnclaveOfficerAM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E952",
+      "FORMID": "07E952",
+      "EDID": "Regulator3GunHM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E951",
+      "FORMID": "07E951",
+      "EDID": "Regulator3GunCM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E950",
+      "FORMID": "07E950",
+      "EDID": "Regulator3GunAM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABECD",
+      "FORMID": "0ABECD",
+      "EDID": "Enclave0RipperAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94F",
+      "FORMID": "07E94F",
+      "EDID": "Regulator3GunAAMTEMPLATE",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94E",
+      "FORMID": "07E94E",
+      "EDID": "Regulator2GunHM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94D",
+      "FORMID": "07E94D",
+      "EDID": "Regulator2GunCM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94C",
+      "FORMID": "07E94C",
+      "EDID": "Regulator2GunAM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94B",
+      "FORMID": "07E94B",
+      "EDID": "Regulator2GunAAMTEMPLATE",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E94A",
+      "FORMID": "07E94A",
+      "EDID": "Regulator1GunHM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E949",
+      "FORMID": "07E949",
+      "EDID": "Regulator1GunCM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E948",
+      "FORMID": "07E948",
+      "EDID": "Regulator1GunAM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E947",
+      "FORMID": "07E947",
+      "EDID": "Regulator1GunAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEC4",
+      "FORMID": "0ABEC4",
+      "EDID": "Enclave0GunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEC3",
+      "FORMID": "0ABEC3",
+      "EDID": "Enclave0GunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEC2",
+      "FORMID": "0ABEC2",
+      "EDID": "Enclave0GunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEC1",
+      "FORMID": "0ABEC1",
+      "EDID": "Enclave0GunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEC0",
+      "FORMID": "0ABEC0",
+      "EDID": "Enclave0GunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA25",
+      "FORMID": "0BEA25",
+      "EDID": "TenpennyResidentMaleD1",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BEA21",
+      "FORMID": "0BEA21",
+      "EDID": "TenpennyResidentFemaleD1TEMPLATE",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEBF",
+      "FORMID": "0ABEBF",
+      "EDID": "Enclave0GunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E759",
+      "FORMID": "01E759",
+      "EDID": "MisterLopez",
+      "FULL": "Senhor Lopez"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E71A",
+      "FORMID": "01E71A",
+      "EDID": "KnightSergeantDurga",
+      "FULL": "cavaleiro Capitão Durga"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEBE",
+      "FORMID": "0ABEBE",
+      "EDID": "Enclave0GunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABEBD",
+      "FORMID": "0ABEBD",
+      "EDID": "Enclave0GunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:037804",
+      "FORMID": "037804",
+      "EDID": "FFER06NPC1",
+      "FULL": "Médico da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:029685",
+      "FORMID": "029685",
+      "EDID": "Outcast3MeleeCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E644",
+      "FORMID": "03E644",
+      "EDID": "ShalebridgeFFNoteGuy",
+      "FULL": "Pesquisador de Formigas"
+    },
+    {
+      "FORM": "@Fallout3.esm:029684",
+      "FORMID": "029684",
+      "EDID": "Outcast3MeleeAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029683",
+      "FORMID": "029683",
+      "EDID": "Outcast3MeleeAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06BC15",
+      "FORMID": "06BC15",
+      "EDID": "Vault101Security09",
+      "FULL": "Oficial Wilkins"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CBCFB",
+      "FORMID": "0CBCFB",
+      "EDID": "Vault106Overseer",
+      "FULL": "Supervisor"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E55F",
+      "FORMID": "01E55F",
+      "EDID": "CitadelBrotherhoodInitiate01",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E55E",
+      "FORMID": "01E55E",
+      "EDID": "CitadelBrotherhoodInitiate02",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:029682",
+      "FORMID": "029682",
+      "EDID": "Outcast2MeleeHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029681",
+      "FORMID": "029681",
+      "EDID": "Outcast2MeleeCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B8EC",
+      "FORMID": "02B8EC",
+      "EDID": "MQ04ChineseSoldier",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@Fallout3.esm:029680",
+      "FORMID": "029680",
+      "EDID": "Outcast2MeleeAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02967F",
+      "FORMID": "02967F",
+      "EDID": "Outcast2MeleeAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE79B",
+      "FORMID": "0BE79B",
+      "EDID": "TenpennyResidentFemaleC1TEMPLATE",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE79A",
+      "FORMID": "0BE79A",
+      "EDID": "TenpennyResidentFemaleB1TEMPLATE",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE799",
+      "FORMID": "0BE799",
+      "EDID": "TenpennyResidentFemaleA2",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE798",
+      "FORMID": "0BE798",
+      "EDID": "TenpennyResidentFemaleA1TEMPLATE",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE797",
+      "FORMID": "0BE797",
+      "EDID": "TenpennyResidentMaleC1",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE796",
+      "FORMID": "0BE796",
+      "EDID": "TenpennyResidentMaleB1",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE795",
+      "FORMID": "0BE795",
+      "EDID": "TenpennyResidentMaleA2",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE794",
+      "FORMID": "0BE794",
+      "EDID": "TenpennyResidentMaleA1",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E554",
+      "FORMID": "03E554",
+      "EDID": "LvlRegulatorGun",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E553",
+      "FORMID": "03E553",
+      "EDID": "FFHitSquadDCReg01",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E552",
+      "FORMID": "03E552",
+      "EDID": "FFHitSquadDCReg02",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E551",
+      "FORMID": "03E551",
+      "EDID": "FFHitSquadDCRegLeader",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B7620",
+      "FORMID": "0B7620",
+      "EDID": "FFEChemVendor",
+      "FULL": "Traficante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02967E",
+      "FORMID": "02967E",
+      "EDID": "Outcast2MeleeCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02967D",
+      "FORMID": "02967D",
+      "EDID": "Outcast2MeleeHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02967C",
+      "FORMID": "02967C",
+      "EDID": "Outcast2MeleeAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02967B",
+      "FORMID": "02967B",
+      "EDID": "Outcast2MeleeAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E379",
+      "FORMID": "01E379",
+      "EDID": "ChiefGustavo",
+      "FULL": "Chefe Gustavo"
+    },
+    {
+      "FORM": "@Fallout3.esm:029676",
+      "FORMID": "029676",
+      "EDID": "Outcast1MeleeHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029675",
+      "FORMID": "029675",
+      "EDID": "Outcast1MeleeCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E40D",
+      "FORMID": "07E40D",
+      "EDID": "LvlHunterMale",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E40A",
+      "FORMID": "07E40A",
+      "EDID": "LvlSlaveMale",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:029674",
+      "FORMID": "029674",
+      "EDID": "Outcast1MeleeAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029673",
+      "FORMID": "029673",
+      "EDID": "Outcast1MeleeAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029672",
+      "FORMID": "029672",
+      "EDID": "Outcast1MeleeHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029671",
+      "FORMID": "029671",
+      "EDID": "Outcast1MeleeCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029670",
+      "FORMID": "029670",
+      "EDID": "Outcast1MeleeAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02966F",
+      "FORMID": "02966F",
+      "EDID": "Outcast1MeleeAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:037142",
+      "FORMID": "037142",
+      "EDID": "ParadiseFallsSlaverGuard04",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:037141",
+      "FORMID": "037141",
+      "EDID": "ParadiseFallsSlaverGuard03",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:037140",
+      "FORMID": "037140",
+      "EDID": "ParadiseFallsSlaverGuard01",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03713F",
+      "FORMID": "03713F",
+      "EDID": "ParadiseFallsSlaverGuard02",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:02966B",
+      "FORMID": "02966B",
+      "EDID": "Enclave3MissileHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02966A",
+      "FORMID": "02966A",
+      "EDID": "Enclave3MissileCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B509",
+      "FORMID": "02B509",
+      "EDID": "IntroMovieBrotherhood",
+      "FULL": "Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:029669",
+      "FORMID": "029669",
+      "EDID": "Enclave3MissileAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029668",
+      "FORMID": "029668",
+      "EDID": "Enclave3MissileAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029667",
+      "FORMID": "029667",
+      "EDID": "Enclave2FlamerHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029666",
+      "FORMID": "029666",
+      "EDID": "Enclave2FlamerCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029665",
+      "FORMID": "029665",
+      "EDID": "Enclave2FlamerAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029664",
+      "FORMID": "029664",
+      "EDID": "Enclave2FlamerAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029663",
+      "FORMID": "029663",
+      "EDID": "Enclave1RipperCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029662",
+      "FORMID": "029662",
+      "EDID": "Enclave1RipperAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029661",
+      "FORMID": "029661",
+      "EDID": "Enclave1RipperAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02965F",
+      "FORMID": "02965F",
+      "EDID": "Enclave1RipperHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02965A",
+      "FORMID": "02965A",
+      "EDID": "Enclave3BigGunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029659",
+      "FORMID": "029659",
+      "EDID": "Enclave3BigGunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:036C1B",
+      "FORMID": "036C1B",
+      "EDID": "Mechanist",
+      "FULL": "Mecânico"
+    },
+    {
+      "FORM": "@Fallout3.esm:029658",
+      "FORMID": "029658",
+      "EDID": "Enclave3BigGunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029657",
+      "FORMID": "029657",
+      "EDID": "Enclave3BigGunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029656",
+      "FORMID": "029656",
+      "EDID": "Enclave3BigGunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029655",
+      "FORMID": "029655",
+      "EDID": "Enclave3BigGunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029654",
+      "FORMID": "029654",
+      "EDID": "Enclave3BigGunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029653",
+      "FORMID": "029653",
+      "EDID": "Enclave3BigGunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029652",
+      "FORMID": "029652",
+      "EDID": "Enclave2GunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B69BE",
+      "FORMID": "0B69BE",
+      "EDID": "MQ11EnclaveTeslaGoon",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029651",
+      "FORMID": "029651",
+      "EDID": "Enclave2GunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029650",
+      "FORMID": "029650",
+      "EDID": "Enclave2GunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02964F",
+      "FORMID": "02964F",
+      "EDID": "Enclave2GunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:096350",
+      "FORMID": "096350",
+      "EDID": "FFEnclaveEncampment03EnclaveCorpse",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:09634E",
+      "FORMID": "09634E",
+      "EDID": "FFEnclaveEncampment03OfficerCorpse",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02964E",
+      "FORMID": "02964E",
+      "EDID": "Enclave2GunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02964D",
+      "FORMID": "02964D",
+      "EDID": "Enclave2GunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02964C",
+      "FORMID": "02964C",
+      "EDID": "Enclave2GunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029636",
+      "FORMID": "029636",
+      "EDID": "Enclave2GunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029635",
+      "FORMID": "029635",
+      "EDID": "Enclave1GunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:035DA9",
+      "FORMID": "035DA9",
+      "EDID": "CG04Vault101Security08",
+      "FULL": "Oficial Wolfe"
+    },
+    {
+      "FORM": "@Fallout3.esm:035DA8",
+      "FORMID": "035DA8",
+      "EDID": "CG04Vault101Security07",
+      "FULL": "Oficial Park"
+    },
+    {
+      "FORM": "@Fallout3.esm:029634",
+      "FORMID": "029634",
+      "EDID": "Enclave1GunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029633",
+      "FORMID": "029633",
+      "EDID": "Enclave1GunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029632",
+      "FORMID": "029632",
+      "EDID": "Enclave1GunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029631",
+      "FORMID": "029631",
+      "EDID": "Enclave1GunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:029630",
+      "FORMID": "029630",
+      "EDID": "Enclave1GunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02962F",
+      "FORMID": "02962F",
+      "EDID": "Enclave1GunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D782",
+      "FORMID": "07D782",
+      "EDID": "BrotherhoodOfSteel1GunMorphineArmorDEAD",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:02962B",
+      "FORMID": "02962B",
+      "EDID": "Enclave1GunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:06490F",
+      "FORMID": "06490F",
+      "EDID": "CG04Vault101Security02",
+      "FULL": "Oficial Kendall"
+    },
+    {
+      "FORM": "@Fallout3.esm:06490D",
+      "FORMID": "06490D",
+      "EDID": "CG04Vault101Security01",
+      "FULL": "Chefe de Segurança Hannon"
+    },
+    {
+      "FORM": "@Fallout3.esm:03142E",
+      "FORMID": "03142E",
+      "EDID": "UnderworldGhoul06",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03142D",
+      "FORMID": "03142D",
+      "EDID": "UnderworldGhoul09",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03142C",
+      "FORMID": "03142C",
+      "EDID": "UnderworldGhoul08",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D44E",
+      "FORMID": "01D44E",
+      "EDID": "MQ01Vargas",
+      "FULL": "Paladino Vargas"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D432",
+      "FORMID": "01D432",
+      "EDID": "MQ01Colvin",
+      "FULL": "Cavaleiro Capitão Colvin"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D430",
+      "FORMID": "01D430",
+      "EDID": "MQ01SarahLyons",
+      "FULL": "Sentinela Lyons"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D42F",
+      "FORMID": "01D42F",
+      "EDID": "MQ01Reddin",
+      "FULL": "Aprendiz Reddin"
+    },
+    {
+      "FORM": "@Fallout3.esm:035B13",
+      "FORMID": "035B13",
+      "EDID": "OasisCorpse",
+      "FULL": "Bartender Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:03142B",
+      "FORMID": "03142B",
+      "EDID": "UnderworldGhoul13",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03142A",
+      "FORMID": "03142A",
+      "EDID": "UnderworldGhoul12",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:031429",
+      "FORMID": "031429",
+      "EDID": "UnderworldGhoul11",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:031428",
+      "FORMID": "031428",
+      "EDID": "UnderworldGhoul10",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D347",
+      "FORMID": "03D347",
+      "EDID": "MrBrotch",
+      "FULL": "Sr. Brotch"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D346",
+      "FORMID": "03D346",
+      "EDID": "AllenMack",
+      "FULL": "Supervisor Mack"
+    },
+    {
+      "FORM": "@Fallout3.esm:031427",
+      "FORMID": "031427",
+      "EDID": "UnderworldGhoul07",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:064906",
+      "FORMID": "064906",
+      "EDID": "FFER69Slave",
+      "FULL": "Escravo Foragido"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C09D5",
+      "FORMID": "0C09D5",
+      "EDID": "Vault101Security07",
+      "FULL": "Oficial Armstrong"
+    },
+    {
+      "FORM": "@Fallout3.esm:043DEC",
+      "FORMID": "043DEC",
+      "EDID": "DefenderRockfowl",
+      "FULL": "Defensor Rockfowl"
+    },
+    {
+      "FORM": "@Fallout3.esm:043DEB",
+      "FORMID": "043DEB",
+      "EDID": "DefenderMorgan",
+      "FULL": "Defensora Morgan"
+    },
+    {
+      "FORM": "@Fallout3.esm:021E9F",
+      "FORMID": "021E9F",
+      "EDID": "MQ01BoSGNNBattlePatrol1",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:062DE9",
+      "FORMID": "062DE9",
+      "EDID": "EnclaveWastelandPatrolD3",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C47D4",
+      "FORMID": "0C47D4",
+      "EDID": "FFER15NPC1",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:023BDC",
+      "FORMID": "023BDC",
+      "EDID": "RavenRockEnclaveDEAD",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C47CA",
+      "FORMID": "0C47CA",
+      "EDID": "FFEU55NPC",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02044F",
+      "FORMID": "02044F",
+      "EDID": "RCSecurityGatePostNight",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:062DA8",
+      "FORMID": "062DA8",
+      "EDID": "EnclaveWastelandPatrolD2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:062DA7",
+      "FORMID": "062DA7",
+      "EDID": "EnclaveWastelandPatrolC3",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:062DA6",
+      "FORMID": "062DA6",
+      "EDID": "EnclaveWastelandPatrolC2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0892C7",
+      "FORMID": "0892C7",
+      "EDID": "V106FatherSandbox",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:0244A2",
+      "FORMID": "0244A2",
+      "EDID": "OldLadyDithers",
+      "FULL": "Senhora Dithers"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9390",
+      "FORMID": "0C9390",
+      "EDID": "TownRuins02Scavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D428",
+      "FORMID": "07D428",
+      "EDID": "Enclave4OfficerHF",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D427",
+      "FORMID": "07D427",
+      "EDID": "Enclave4OfficerHM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D426",
+      "FORMID": "07D426",
+      "EDID": "Enclave4OfficerCF",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D425",
+      "FORMID": "07D425",
+      "EDID": "Enclave4OfficerCM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D424",
+      "FORMID": "07D424",
+      "EDID": "Enclave4OfficerAF",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D423",
+      "FORMID": "07D423",
+      "EDID": "Enclave4OfficerAM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D422",
+      "FORMID": "07D422",
+      "EDID": "Enclave4OfficerAAM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D41F",
+      "FORMID": "07D41F",
+      "EDID": "Enclave4OfficerAAFTEMPLATE",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0290A6",
+      "FORMID": "0290A6",
+      "EDID": "CG00Dad",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:0290A3",
+      "FORMID": "0290A3",
+      "EDID": "CG00DoctorLi",
+      "FULL": "Doutora Li"
+    },
+    {
+      "FORM": "@Fallout3.esm:0406A9",
+      "FORMID": "0406A9",
+      "EDID": "FFER10NPC1",
+      "FULL": "Limpador"
+    },
+    {
+      "FORM": "@Fallout3.esm:040C39",
+      "FORMID": "040C39",
+      "EDID": "ProtectorCasdin",
+      "FULL": "Protetor Casdin"
+    },
+    {
+      "FORM": "@Fallout3.esm:0043CA",
+      "FORMID": "0043CA",
+      "EDID": "MegatonSettler04",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0043C8",
+      "FORMID": "0043C8",
+      "EDID": "MegatonSettler03",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BD46F",
+      "FORMID": "0BD46F",
+      "EDID": "LLKidGrand2",
+      "FULL": "Habitante de Little Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BD46E",
+      "FORMID": "0BD46E",
+      "EDID": "LLKidGrand1",
+      "FULL": "Habitante de Little Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:030DE1",
+      "FORMID": "030DE1",
+      "EDID": "RoachKing",
+      "FULL": "Barata Rainha"
+    },
+    {
+      "FORM": "@Fallout3.esm:0043C6",
+      "FORMID": "0043C6",
+      "EDID": "MegatonSettler02",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156F5",
+      "FORMID": "0156F5",
+      "EDID": "MisterCrowley",
+      "FULL": "Senhor Crowley"
+    },
+    {
+      "FORM": "@Fallout3.esm:07D313",
+      "FORMID": "07D313",
+      "EDID": "CG04Vault101Security06",
+      "FULL": "Oficial O'Brian"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D0D8",
+      "FORMID": "03D0D8",
+      "EDID": "CitadelBrotherhoodInitiate08",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D09C",
+      "FORMID": "03D09C",
+      "EDID": "CitadelJourneymanScribeLibertyPrime06",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D07C",
+      "FORMID": "03D07C",
+      "EDID": "CitadelJourneymanScribeLibertyPrime05",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D07B",
+      "FORMID": "03D07B",
+      "EDID": "CitadelBrotherhoodInitiate07",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156ED",
+      "FORMID": "0156ED",
+      "EDID": "ScribePeabody",
+      "FULL": "Escrivão Peabody"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156EC",
+      "FORMID": "0156EC",
+      "EDID": "ScribeBowditch",
+      "FULL": "Escrivão Bowditch"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFB7",
+      "FORMID": "01CFB7",
+      "EDID": "CG03MrBrotch",
+      "FULL": "Sr. Brotch"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156EB",
+      "FORMID": "0156EB",
+      "EDID": "ScribeYearling",
+      "FULL": "Escriva Yearling"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156EA",
+      "FORMID": "0156EA",
+      "EDID": "ScribeRothchild",
+      "FULL": "Escrivão Rothchild"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E9",
+      "FORMID": "0156E9",
+      "EDID": "PaladinGlade",
+      "FULL": "Paladino Glade"
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF92",
+      "FORMID": "03CF92",
+      "EDID": "CitadelBrotherhoodInitiate06",
+      "FULL": "Aprendiz da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF90",
+      "FORMID": "03CF90",
+      "EDID": "CitadelJourneymanScribeLibertyPrime08",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF89",
+      "FORMID": "03CF89",
+      "EDID": "CitadelJourneymanScribeLibertyPrime07",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:05CFE8",
+      "FORMID": "05CFE8",
+      "EDID": "MQ05EnclaveGoon",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E8",
+      "FORMID": "0156E8",
+      "EDID": "KnightCaptainGallows",
+      "FULL": "Capitão Cavaleiro Gallows"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CE38",
+      "FORMID": "01CE38",
+      "EDID": "CG03Dad",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E7",
+      "FORMID": "0156E7",
+      "EDID": "KnightCaptainDusk",
+      "FULL": "Capita Cavaleira Dusk"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E6",
+      "FORMID": "0156E6",
+      "EDID": "PaladinKodiak",
+      "FULL": "Paladino Kodiak"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E5",
+      "FORMID": "0156E5",
+      "EDID": "StarPaladinCross",
+      "FULL": "Paladina Estrela Cross"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E4",
+      "FORMID": "0156E4",
+      "EDID": "ElderLyons",
+      "FULL": "Ancião Lyons"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156E2",
+      "FORMID": "0156E2",
+      "EDID": "SquireMaxson",
+      "FULL": "Escudeiro Maxson"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156DF",
+      "FORMID": "0156DF",
+      "EDID": "HerbertDashwood",
+      "FULL": "Herbert \"Coragem\" Dashwood"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D9",
+      "FORMID": "0156D9",
+      "EDID": "DoctorBanfield",
+      "FULL": "Doutor Banfield"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D5",
+      "FORMID": "0156D5",
+      "EDID": "TenpennyGuardPatrolLobbyUpper",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D3",
+      "FORMID": "0156D3",
+      "EDID": "TenpennyGuardPatrolLobby",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D2",
+      "FORMID": "0156D2",
+      "EDID": "TenpennyGuardTargetPractice1",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D1",
+      "FORMID": "0156D1",
+      "EDID": "TenpennyGuardTEMPLATE",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156D0",
+      "FORMID": "0156D0",
+      "EDID": "DoctorPreston",
+      "FULL": "Doutor Preston"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156CD",
+      "FORMID": "0156CD",
+      "EDID": "FatherClifford",
+      "FULL": "Padre Clifford"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156CC",
+      "FORMID": "0156CC",
+      "EDID": "DoctorLi",
+      "FULL": "Doutora Li"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156B9",
+      "FORMID": "0156B9",
+      "EDID": "Zimmer",
+      "FULL": "Doutor Zimmer"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156B2",
+      "FORMID": "0156B2",
+      "EDID": "RCSecurityPatrolDay",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156B1",
+      "FORMID": "0156B1",
+      "EDID": "RCSecurityBridgePostNight",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156B0",
+      "FORMID": "0156B0",
+      "EDID": "RCSecurityBridgePostDayTEMPLATE",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156AF",
+      "FORMID": "0156AF",
+      "EDID": "RCSecurityHangarPostNight",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156AE",
+      "FORMID": "0156AE",
+      "EDID": "RCSecurityHangarPostDay",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156AD",
+      "FORMID": "0156AD",
+      "EDID": "Danvers",
+      "FULL": "Comandante Danvers"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156AC",
+      "FORMID": "0156AC",
+      "EDID": "MayorMacCready",
+      "FULL": "Prefeito MacCready"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156A9",
+      "FORMID": "0156A9",
+      "EDID": "ParadiseFallsSlaver5",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156A8",
+      "FORMID": "0156A8",
+      "EDID": "ParadiseFallsSlaver4",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156A7",
+      "FORMID": "0156A7",
+      "EDID": "ParadiseFallsSlaver3",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156A6",
+      "FORMID": "0156A6",
+      "EDID": "ParadiseFallsSlaver2",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0156A5",
+      "FORMID": "0156A5",
+      "EDID": "ParadiseFallsSlaver1",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:01569C",
+      "FORMID": "01569C",
+      "EDID": "MissJeanette",
+      "FULL": "Senhorita Jeanette"
+    },
+    {
+      "FORM": "@Fallout3.esm:015697",
+      "FORMID": "015697",
+      "EDID": "Richter",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:015685",
+      "FORMID": "015685",
+      "EDID": "Princess",
+      "FULL": "Princesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0043C4",
+      "FORMID": "0043C4",
+      "EDID": "MegatonSettler01",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:088FF7",
+      "FORMID": "088FF7",
+      "EDID": "V106Father",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:062AB2",
+      "FORMID": "062AB2",
+      "EDID": "LLSlaver",
+      "FULL": "Escravista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444AB",
+      "FORMID": "0444AB",
+      "EDID": "Talon3MissileHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444A9",
+      "FORMID": "0444A9",
+      "EDID": "Talon3MissileCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444A7",
+      "FORMID": "0444A7",
+      "EDID": "Talon3MissileAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444A4",
+      "FORMID": "0444A4",
+      "EDID": "Talon3MissileAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444A3",
+      "FORMID": "0444A3",
+      "EDID": "Talon2SpecialHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:026362",
+      "FORMID": "026362",
+      "EDID": "MQ08EnclaveGuard02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:026361",
+      "FORMID": "026361",
+      "EDID": "MQ08EnclaveGuard01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0444A1",
+      "FORMID": "0444A1",
+      "EDID": "Talon2SpecialCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:01558E",
+      "FORMID": "01558E",
+      "EDID": "FFDCFallsChurchBoSLeader02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:015502",
+      "FORMID": "015502",
+      "EDID": "FFDCFallsChurchBoSLeader01",
+      "FULL": "Paladino Hoss"
+    },
+    {
+      "FORM": "@Fallout3.esm:04449E",
+      "FORMID": "04449E",
+      "EDID": "Talon2SpecialAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04449C",
+      "FORMID": "04449C",
+      "EDID": "Talon2SpecialAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0554C7",
+      "FORMID": "0554C7",
+      "EDID": "LvlScavengerMale",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0309AE",
+      "FORMID": "0309AE",
+      "EDID": "CG02Vault101Security04",
+      "FULL": "Oficial Gomez"
+    },
+    {
+      "FORM": "@Fallout3.esm:0309A7",
+      "FORMID": "0309A7",
+      "EDID": "CG02OldLadyPalmer",
+      "FULL": "Senhora Palmer"
+    },
+    {
+      "FORM": "@Fallout3.esm:0309A6",
+      "FORMID": "0309A6",
+      "EDID": "OldLadyPalmer",
+      "FULL": "Senhora Palmer"
+    },
+    {
+      "FORM": "@Fallout3.esm:044491",
+      "FORMID": "044491",
+      "EDID": "Talon3MeleeHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:090A23",
+      "FORMID": "090A23",
+      "EDID": "FFEU16NPC1",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0307C8",
+      "FORMID": "0307C8",
+      "EDID": "DoctorLesko",
+      "FULL": "Doutor Lesko"
+    },
+    {
+      "FORM": "@Fallout3.esm:0289C1",
+      "FORMID": "0289C1",
+      "EDID": "MQ02PlanetariumVoice",
+      "FULL": "Cara do Planetário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0307BA",
+      "FORMID": "0307BA",
+      "EDID": "FFER59Scavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:04448F",
+      "FORMID": "04448F",
+      "EDID": "Talon3MeleeCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04448D",
+      "FORMID": "04448D",
+      "EDID": "Talon3MeleeAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04448A",
+      "FORMID": "04448A",
+      "EDID": "Talon3MeleeAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:044489",
+      "FORMID": "044489",
+      "EDID": "Talon2MeleeHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:044487",
+      "FORMID": "044487",
+      "EDID": "Talon2MeleeCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:03072C",
+      "FORMID": "03072C",
+      "EDID": "UnderworldGhoul05",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03072B",
+      "FORMID": "03072B",
+      "EDID": "UnderworldGhoul04",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03072A",
+      "FORMID": "03072A",
+      "EDID": "UnderworldGhoul03",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:030729",
+      "FORMID": "030729",
+      "EDID": "UnderworldGhoul02",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:030728",
+      "FORMID": "030728",
+      "EDID": "UnderworldGhoul01",
+      "FULL": "Habitante do Submundo"
+    },
+    {
+      "FORM": "@Fallout3.esm:044485",
+      "FORMID": "044485",
+      "EDID": "Talon2MeleeAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0606CD",
+      "FORMID": "0606CD",
+      "EDID": "LDCapitolBuildingDead1",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C341",
+      "FORMID": "05C341",
+      "EDID": "ChiefGustavoDEAD",
+      "FULL": "Chefe Gustavo"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C336",
+      "FORMID": "05C336",
+      "EDID": "TenpennyResidentMaleA2DEAD",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C335",
+      "FORMID": "05C335",
+      "EDID": "TenpennyResidentMaleA1DEAD",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C334",
+      "FORMID": "05C334",
+      "EDID": "TenpennyResidentFemaleA2DEAD",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C32C",
+      "FORMID": "05C32C",
+      "EDID": "TenpennyResidentFemaleA1DEAD",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C32A",
+      "FORMID": "05C32A",
+      "EDID": "HerbertDashwoodDEAD",
+      "FULL": "Herbert \"Coragem\" Dashwood"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C323",
+      "FORMID": "05C323",
+      "EDID": "DoctorBanfieldDEAD",
+      "FULL": "Doutor Banfield"
+    },
+    {
+      "FORM": "@Fallout3.esm:025FD0",
+      "FORMID": "025FD0",
+      "EDID": "ScribeJameson",
+      "FULL": "Escrivão Jameson"
+    },
+    {
+      "FORM": "@Fallout3.esm:03C182",
+      "FORMID": "03C182",
+      "EDID": "MQ09EnclaveScriptedGuard",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:044481",
+      "FORMID": "044481",
+      "EDID": "Talon2MeleeAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:044480",
+      "FORMID": "044480",
+      "EDID": "Talon1MeleeHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A60E8",
+      "FORMID": "0A60E8",
+      "EDID": "RHSSettler01",
+      "FULL": "Colono Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A60E7",
+      "FORMID": "0A60E7",
+      "EDID": "DeadSettler02",
+      "FULL": "Colono Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:04447E",
+      "FORMID": "04447E",
+      "EDID": "Talon1MeleeCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04447C",
+      "FORMID": "04447C",
+      "EDID": "Talon1MeleeAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E9",
+      "FORMID": "0A86E9",
+      "EDID": "WastelanderHM2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E8",
+      "FORMID": "0A86E8",
+      "EDID": "WastelanderHF2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E7",
+      "FORMID": "0A86E7",
+      "EDID": "WastelanderCM2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E6",
+      "FORMID": "0A86E6",
+      "EDID": "WastelanderCF2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E5",
+      "FORMID": "0A86E5",
+      "EDID": "WastelanderAM2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E4",
+      "FORMID": "0A86E4",
+      "EDID": "WastelanderAF2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:014F14",
+      "FORMID": "014F14",
+      "EDID": "MegatonSettler05",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E3",
+      "FORMID": "0A86E3",
+      "EDID": "WastelanderAAM2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A86E2",
+      "FORMID": "0A86E2",
+      "EDID": "WastelanderAAF2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:04B359",
+      "FORMID": "04B359",
+      "EDID": "Vault106LunaticTEMPLATE",
+      "FULL": "Sobrevivente Insano"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB587",
+      "FORMID": "0CB587",
+      "EDID": "SheltonAUDIO",
+      "FULL": "Shelton - Somente Áudio"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B0611",
+      "FORMID": "0B0611",
+      "EDID": "DeadEnclaveCamp13Ripper01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B0610",
+      "FORMID": "0B0610",
+      "EDID": "DeadEnclaveCamp13Gun02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B060F",
+      "FORMID": "0B060F",
+      "EDID": "DeadEnclaveCamp13Gun01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E7",
+      "FORMID": "0B05E7",
+      "EDID": "LvlWastelanderDISMEMBER",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:042861",
+      "FORMID": "042861",
+      "EDID": "MegatonClinicPatient01",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@Fallout3.esm:088588",
+      "FORMID": "088588",
+      "EDID": "SatCom01MadScientist",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0302CC",
+      "FORMID": "0302CC",
+      "EDID": "FFER58NPC1",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0302CB",
+      "FORMID": "0302CB",
+      "EDID": "FFER05NPC1",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0302CA",
+      "FORMID": "0302CA",
+      "EDID": "LvlScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:04837F",
+      "FORMID": "04837F",
+      "EDID": "EvergreenMillsSlave02",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:04837D",
+      "FORMID": "04837D",
+      "EDID": "EvergreenMillsSlave01",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:09BE84",
+      "FORMID": "09BE84",
+      "EDID": "ChevyChaseBoSGNNBattle",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:042860",
+      "FORMID": "042860",
+      "EDID": "MegatonClinicPatient03",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@Fallout3.esm:04285F",
+      "FORMID": "04285F",
+      "EDID": "MegatonClinicPatient02",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@Fallout3.esm:063BFA",
+      "FORMID": "063BFA",
+      "EDID": "CrazyWolfgang",
+      "FULL": "Wolfgang o Louco"
+    },
+    {
+      "FORM": "@Fallout3.esm:030104",
+      "FORMID": "030104",
+      "EDID": "HubrisComicsJohnnyWes",
+      "FULL": "O maluco Johnny Wes"
+    },
+    {
+      "FORM": "@Fallout3.esm:063BF7",
+      "FORMID": "063BF7",
+      "EDID": "DocHoff",
+      "FULL": "Dr. Hoff"
+    },
+    {
+      "FORM": "@Fallout3.esm:0300F0",
+      "FORMID": "0300F0",
+      "EDID": "CG02Overseer",
+      "FULL": "Supervisor"
+    },
+    {
+      "FORM": "@Fallout3.esm:02044E",
+      "FORMID": "02044E",
+      "EDID": "RCSecurityGatePostDay",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:083C54",
+      "FORMID": "083C54",
+      "EDID": "DEADGhoulWastelanderHM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:083C52",
+      "FORMID": "083C52",
+      "EDID": "DEADGhoulWastelanderCF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A0A4C",
+      "FORMID": "0A0A4C",
+      "EDID": "FFEU07Corpse",
+      "FULL": "Comandante Chinês Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0614EF",
+      "FORMID": "0614EF",
+      "EDID": "BrotherhoodOfSteel1GunHMDEAD",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0614EE",
+      "FORMID": "0614EE",
+      "EDID": "BrotherhoodOfSteel1GunCMDEAD",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0614ED",
+      "FORMID": "0614ED",
+      "EDID": "BrotherhoodOfSteel1GunAFDEAD",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0617E7",
+      "FORMID": "0617E7",
+      "EDID": "YaoGuaiDenDeadSettler01",
+      "FULL": "Colono Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:023968",
+      "FORMID": "023968",
+      "EDID": "CitadelBrotherhoodInitiate05",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B02E0",
+      "FORMID": "0B02E0",
+      "EDID": "EnclaveScientistAAFTEMPLATE",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84ED",
+      "FORMID": "0A84ED",
+      "EDID": "Enclave3GunHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84EC",
+      "FORMID": "0A84EC",
+      "EDID": "Enclave3GunHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84EB",
+      "FORMID": "0A84EB",
+      "EDID": "Enclave3GunCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84EA",
+      "FORMID": "0A84EA",
+      "EDID": "Enclave3GunCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84E9",
+      "FORMID": "0A84E9",
+      "EDID": "Enclave3GunAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84E8",
+      "FORMID": "0A84E8",
+      "EDID": "Enclave3GunAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84E7",
+      "FORMID": "0A84E7",
+      "EDID": "Enclave3GunAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A84E5",
+      "FORMID": "0A84E5",
+      "EDID": "Enclave3GunAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:023967",
+      "FORMID": "023967",
+      "EDID": "CitadelBrotherhoodInitiate04",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C5D07",
+      "FORMID": "0C5D07",
+      "EDID": "FFEU21EnclaveOfficer",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B12B",
+      "FORMID": "06B12B",
+      "EDID": "FFEU12Scavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FDCF",
+      "FORMID": "02FDCF",
+      "EDID": "CG02Dad",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:045AB7",
+      "FORMID": "045AB7",
+      "EDID": "BarnScavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02AE21",
+      "FORMID": "02AE21",
+      "EDID": "Cherry",
+      "FULL": "Cereja"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C825B",
+      "FORMID": "0C825B",
+      "EDID": "wastelandWanderer",
+      "FULL": "Nômade"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A9C",
+      "FORMID": "000A9C",
+      "EDID": "Outcast3GunHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:054397",
+      "FORMID": "054397",
+      "EDID": "CG04DeadOldLady",
+      "FULL": "Vovó Taylor"
+    },
+    {
+      "FORM": "@Fallout3.esm:025955",
+      "FORMID": "025955",
+      "EDID": "GNRKnightDillon",
+      "FULL": "Cavaleiro Dillan"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFBC",
+      "FORMID": "0CAFBC",
+      "EDID": "TenpennyResidentGhoul11",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FB18",
+      "FORMID": "02FB18",
+      "EDID": "FFER57Slave",
+      "FULL": "Escravo fugitivo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFBB",
+      "FORMID": "0CAFBB",
+      "EDID": "TenpennyResidentGhoul10",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFBA",
+      "FORMID": "0CAFBA",
+      "EDID": "TenpennyResidentGhoul9",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB9",
+      "FORMID": "0CAFB9",
+      "EDID": "TenpennyResidentGhoul8",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB8",
+      "FORMID": "0CAFB8",
+      "EDID": "TenpennyResidentGhoul7",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB6",
+      "FORMID": "0CAFB6",
+      "EDID": "TenpennyResidentGhoul5",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B5A0",
+      "FORMID": "05B5A0",
+      "EDID": "EnclaveWastelandPatrolB3",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB5",
+      "FORMID": "0CAFB5",
+      "EDID": "TenpennyResidentGhoul4",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B599",
+      "FORMID": "05B599",
+      "EDID": "EnclaveWastelandPatrolB2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B58B",
+      "FORMID": "05B58B",
+      "EDID": "EnclaveWastelandPatrolB1",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B58A",
+      "FORMID": "05B58A",
+      "EDID": "EnclaveWastelandPatrolA3",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B536",
+      "FORMID": "05B536",
+      "EDID": "EnclaveWastelandPatrolA2",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB4",
+      "FORMID": "0CAFB4",
+      "EDID": "TenpennyResidentGhoul3",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B4F6",
+      "FORMID": "05B4F6",
+      "EDID": "EnclaveWastelandPatrolA1",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B4F5",
+      "FORMID": "05B4F5",
+      "EDID": "LvlEnclaveWastelandPatrol",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02FA28",
+      "FORMID": "02FA28",
+      "EDID": "FFER56Slave",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB3",
+      "FORMID": "0CAFB3",
+      "EDID": "TenpennyResidentGhoul2",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A8",
+      "FORMID": "08F9A8",
+      "EDID": "MS08FemaleVoice3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A7",
+      "FORMID": "08F9A7",
+      "EDID": "MS08MaleVoice3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A6",
+      "FORMID": "08F9A6",
+      "EDID": "MS08FemaleVoice2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0942C8",
+      "FORMID": "0942C8",
+      "EDID": "WastelanderGhoulM3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A5",
+      "FORMID": "08F9A5",
+      "EDID": "MS08FemaleVoice1",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0942C7",
+      "FORMID": "0942C7",
+      "EDID": "WastelanderGhoulM2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A4",
+      "FORMID": "08F9A4",
+      "EDID": "MS08MaleVoice2",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0942C6",
+      "FORMID": "0942C6",
+      "EDID": "WastelanderGhoulM1TEMPLATE",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F9A3",
+      "FORMID": "08F9A3",
+      "EDID": "MS08MaleVoice1",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFB2",
+      "FORMID": "0CAFB2",
+      "EDID": "TenpennyResidentGhoul1",
+      "FULL": "Habitante da Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:025954",
+      "FORMID": "025954",
+      "EDID": "GNRKnightFinley",
+      "FULL": "Cavaleiro Finley"
+    },
+    {
+      "FORM": "@Fallout3.esm:0942C3",
+      "FORMID": "0942C3",
+      "EDID": "WastelanderGhoulF1TEMPLATE",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:025953",
+      "FORMID": "025953",
+      "EDID": "GNRKnightSergeantWilks",
+      "FULL": "Sargento Cavaleiro Wilks"
+    },
+    {
+      "FORM": "@Fallout3.esm:03B280",
+      "FORMID": "03B280",
+      "EDID": "DeadSettler",
+      "FULL": "Colono Morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A9B",
+      "FORMID": "000A9B",
+      "EDID": "Outcast3GunHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:04445A",
+      "FORMID": "04445A",
+      "EDID": "Talon3GunHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04171E",
+      "FORMID": "04171E",
+      "EDID": "MegatonChildOfAtom04",
+      "FULL": "Filho do Átomo"
+    },
+    {
+      "FORM": "@Fallout3.esm:044458",
+      "FORMID": "044458",
+      "EDID": "Talon3GunCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F8B3",
+      "FORMID": "06F8B3",
+      "EDID": "Talon1GunAMDEAD",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C7D39",
+      "FORMID": "0C7D39",
+      "EDID": "DeadEnclaveCamp33Ripper01",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F832",
+      "FORMID": "06F832",
+      "EDID": "FFEU15Hitman",
+      "FULL": "Refugiado de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C7D38",
+      "FORMID": "0C7D38",
+      "EDID": "DeadEnclaveCamp33Gun01",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C7D36",
+      "FORMID": "0C7D36",
+      "EDID": "DeadEnclaveCamp33Gun02",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F703",
+      "FORMID": "06F703",
+      "EDID": "FFEU20Scavenger",
+      "FULL": "Sucateiro de Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:04171D",
+      "FORMID": "04171D",
+      "EDID": "MegatonChildOfAtom03",
+      "FULL": "Filho do Átomo"
+    },
+    {
+      "FORM": "@Fallout3.esm:04171C",
+      "FORMID": "04171C",
+      "EDID": "MegatonChildOfAtom02",
+      "FULL": "Filho do Átomo"
+    },
+    {
+      "FORM": "@Fallout3.esm:044456",
+      "FORMID": "044456",
+      "EDID": "Talon3GunAM",
+      "FULL": "Mercenário da companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04171B",
+      "FORMID": "04171B",
+      "EDID": "MegatonChildOfAtom01",
+      "FULL": "Filho do Átomo"
+    },
+    {
+      "FORM": "@Fallout3.esm:044453",
+      "FORMID": "044453",
+      "EDID": "Talon3GunAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F566",
+      "FORMID": "02F566",
+      "EDID": "FFER55Slave",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:09B171",
+      "FORMID": "09B171",
+      "EDID": "CG02Vault101Security02",
+      "FULL": "Oficial Kendall"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BB1E2",
+      "FORMID": "0BB1E2",
+      "EDID": "PAAveExplosivesCorpse",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F565",
+      "FORMID": "02F565",
+      "EDID": "LvlSlave",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0655E7",
+      "FORMID": "0655E7",
+      "EDID": "ExtraNote10Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CADC2",
+      "FORMID": "0CADC2",
+      "EDID": "SDOLedoux",
+      "FULL": "Zelador Ledoux"
+    },
+    {
+      "FORM": "@Fallout3.esm:0655B9",
+      "FORMID": "0655B9",
+      "EDID": "ExtraNote04Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A9FF",
+      "FORMID": "02A9FF",
+      "EDID": "NurseGraves",
+      "FULL": "Enfermeira Graves"
+    },
+    {
+      "FORM": "@Fallout3.esm:06558A",
+      "FORMID": "06558A",
+      "EDID": "ExtraNote01Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:065586",
+      "FORMID": "065586",
+      "EDID": "ExtraNote09Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:06555C",
+      "FORMID": "06555C",
+      "EDID": "ExtraNote08Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7F4",
+      "FORMID": "02A7F4",
+      "EDID": "Outcast3SpecialHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7F3",
+      "FORMID": "02A7F3",
+      "EDID": "Outcast3SpecialCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7F2",
+      "FORMID": "02A7F2",
+      "EDID": "Outcast3SpecialAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7F1",
+      "FORMID": "02A7F1",
+      "EDID": "Outcast3SpecialAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7F0",
+      "FORMID": "02A7F0",
+      "EDID": "Outcast1SpecialHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7EF",
+      "FORMID": "02A7EF",
+      "EDID": "Outcast1SpecialCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7EE",
+      "FORMID": "02A7EE",
+      "EDID": "Outcast1SpecialAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7ED",
+      "FORMID": "02A7ED",
+      "EDID": "Outcast1SpecialAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7EC",
+      "FORMID": "02A7EC",
+      "EDID": "Enclave3MissileHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7EB",
+      "FORMID": "02A7EB",
+      "EDID": "Enclave3MissileCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7EA",
+      "FORMID": "02A7EA",
+      "EDID": "Enclave3MissileAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E9",
+      "FORMID": "02A7E9",
+      "EDID": "Enclave3MissileAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E8",
+      "FORMID": "02A7E8",
+      "EDID": "Enclave1RipperHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E7",
+      "FORMID": "02A7E7",
+      "EDID": "Enclave1RipperCF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E6",
+      "FORMID": "02A7E6",
+      "EDID": "Enclave1RipperAF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E5",
+      "FORMID": "02A7E5",
+      "EDID": "Enclave1RipperAAFTEMPLATE",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E4",
+      "FORMID": "02A7E4",
+      "EDID": "Enclave2FlamerHM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E3",
+      "FORMID": "02A7E3",
+      "EDID": "Enclave2FlamerCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E2",
+      "FORMID": "02A7E2",
+      "EDID": "Enclave2FlamerAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A7E1",
+      "FORMID": "02A7E1",
+      "EDID": "Enclave2FlamerAAM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:065552",
+      "FORMID": "065552",
+      "EDID": "ExtraNote06Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:06554F",
+      "FORMID": "06554F",
+      "EDID": "ExtraNote05Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F58A",
+      "FORMID": "06F58A",
+      "EDID": "FFEU13Child",
+      "FULL": "Criança"
+    },
+    {
+      "FORM": "@Fallout3.esm:04F47F",
+      "FORMID": "04F47F",
+      "EDID": "FFER12NPCNormal",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:04F47E",
+      "FORMID": "04F47E",
+      "EDID": "FFER12NPCFatman",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:06553E",
+      "FORMID": "06553E",
+      "EDID": "ExtraNote03Corpse",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA994",
+      "FORMID": "0CA994",
+      "EDID": "WastelanderHF3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA993",
+      "FORMID": "0CA993",
+      "EDID": "WastelanderCM5",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA992",
+      "FORMID": "0CA992",
+      "EDID": "WastelanderCM4",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA991",
+      "FORMID": "0CA991",
+      "EDID": "WastelanderCM3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA990",
+      "FORMID": "0CA990",
+      "EDID": "WastelanderCF3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA98F",
+      "FORMID": "0CA98F",
+      "EDID": "WastelanderAM3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F22B",
+      "FORMID": "06F22B",
+      "EDID": "PerkLawbringerRegulator03",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F22A",
+      "FORMID": "06F22A",
+      "EDID": "PerkLawbringerRegulator02",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F228",
+      "FORMID": "06F228",
+      "EDID": "PerkLawbringerRegulator01",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA98E",
+      "FORMID": "0CA98E",
+      "EDID": "WastelanderAF3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA98D",
+      "FORMID": "0CA98D",
+      "EDID": "WastelanderAAM3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A587",
+      "FORMID": "03A587",
+      "EDID": "FFER08Hunter",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A586",
+      "FORMID": "03A586",
+      "EDID": "LvlHunter",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F203",
+      "FORMID": "06F203",
+      "EDID": "PerkContractKillerSecretary04",
+      "FULL": "Secretaria"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BA740",
+      "FORMID": "0BA740",
+      "EDID": "CitadelBrotherhoodKnightSleepFemale",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BA73F",
+      "FORMID": "0BA73F",
+      "EDID": "CitadelBrotherhoodKnightSleepMale",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F202",
+      "FORMID": "06F202",
+      "EDID": "PerkContractKillerSecretary03",
+      "FULL": "Secretaria"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F201",
+      "FORMID": "06F201",
+      "EDID": "PerkContractKillerSecretary02",
+      "FULL": "Secretaria"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F200",
+      "FORMID": "06F200",
+      "EDID": "PerkContractKillerSecretary01",
+      "FULL": "Secretaria"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA98C",
+      "FORMID": "0CA98C",
+      "EDID": "WastelanderAAF3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA98B",
+      "FORMID": "0CA98B",
+      "EDID": "WastelanderHM3",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:06A776",
+      "FORMID": "06A776",
+      "EDID": "FFEU255NPC1",
+      "FULL": "Faxineiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA849",
+      "FORMID": "0AA849",
+      "EDID": "AWMLoot1ArmorMale",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA846",
+      "FORMID": "0AA846",
+      "EDID": "Loot1FightingMaleWastelander",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:044452",
+      "FORMID": "044452",
+      "EDID": "Talon2GunHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A389",
+      "FORMID": "03A389",
+      "EDID": "MQ09EnclaveControlRoomGuard",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A9A",
+      "FORMID": "000A9A",
+      "EDID": "Outcast3GunCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A99",
+      "FORMID": "000A99",
+      "EDID": "Outcast3GunCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:044450",
+      "FORMID": "044450",
+      "EDID": "Talon2GunCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:041712",
+      "FORMID": "041712",
+      "EDID": "MegatonBrassLanternCustomer03",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:041711",
+      "FORMID": "041711",
+      "EDID": "MegatonBrassLanternCustomer02",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:04444E",
+      "FORMID": "04444E",
+      "EDID": "Talon2GunAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A43A",
+      "FORMID": "02A43A",
+      "EDID": "RCPatient",
+      "FULL": "Paciente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BA400",
+      "FORMID": "0BA400",
+      "EDID": "CitadelBrotherhoodKnightGeneric",
+      "FULL": "Cavaleiro da Irmandade de aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:02EA46",
+      "FORMID": "02EA46",
+      "EDID": "CG01Dad",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:041710",
+      "FORMID": "041710",
+      "EDID": "MegatonBrassLanternCustomer01",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A98",
+      "FORMID": "000A98",
+      "EDID": "Outcast3GunAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:041708",
+      "FORMID": "041708",
+      "EDID": "MegatonMoriartysCustomer03",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:065375",
+      "FORMID": "065375",
+      "EDID": "CaravanGuard1TEMPLATE",
+      "FULL": "Guarda da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:04444B",
+      "FORMID": "04444B",
+      "EDID": "Talon2GunAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A97",
+      "FORMID": "000A97",
+      "EDID": "Outcast3GunAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:044449",
+      "FORMID": "044449",
+      "EDID": "Talon1GunHM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:041706",
+      "FORMID": "041706",
+      "EDID": "MegatonMoriartysCustomer02",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:022242",
+      "FORMID": "022242",
+      "EDID": "FFDCFallsChurchBoS02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:044447",
+      "FORMID": "044447",
+      "EDID": "Talon1GunCM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:044446",
+      "FORMID": "044446",
+      "EDID": "Talon1GunAM",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A94",
+      "FORMID": "000A94",
+      "EDID": "Outcast3GunAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:041704",
+      "FORMID": "041704",
+      "EDID": "MegatonMoriartysCustomer01",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:044443",
+      "FORMID": "044443",
+      "EDID": "Talon1MeleeAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:02222C",
+      "FORMID": "02222C",
+      "EDID": "FFDCFallsChurchBoS01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:019CEF",
+      "FORMID": "019CEF",
+      "EDID": "MQDad",
+      "FULL": "Pai"
+    },
+    {
+      "FORM": "@Fallout3.esm:044442",
+      "FORMID": "044442",
+      "EDID": "Talon1GunAAMTEMPLATE",
+      "FULL": "Mercenário da Companhia Talon"
+    },
+    {
+      "FORM": "@Fallout3.esm:04E5B8",
+      "FORMID": "04E5B8",
+      "EDID": "PotomacFisherman",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0221DA",
+      "FORMID": "0221DA",
+      "EDID": "MQ01BoSGNNBattleWander1",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AE66D",
+      "FORMID": "0AE66D",
+      "EDID": "DeadSlaveMale",
+      "FULL": "Escravo morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AE66C",
+      "FORMID": "0AE66C",
+      "EDID": "DeadSlaveFemale",
+      "FULL": "Escravo morto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C191A",
+      "FORMID": "0C191A",
+      "EDID": "FFEnclaveCamp29TraineeCM",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C1919",
+      "FORMID": "0C1919",
+      "EDID": "FFEnclaveCamp29TraineeHF",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:019A1F",
+      "FORMID": "019A1F",
+      "EDID": "ColonelAutumn",
+      "FULL": "Coronel Autumn"
+    },
+    {
+      "FORM": "@Fallout3.esm:019A1C",
+      "FORMID": "019A1C",
+      "EDID": "PresidentEden",
+      "FULL": "Presidente Eden"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A33D1",
+      "FORMID": "0A33D1",
+      "EDID": "Loot1ArmorFemaleGhoul",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:023176",
+      "FORMID": "023176",
+      "EDID": "CitadelBrotherhoodInitiate03",
+      "FULL": "Iniciante da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:019938",
+      "FORMID": "019938",
+      "EDID": "FFDCFallsChurchBoSLostInititate",
+      "FULL": "Iniciante Pek"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A93",
+      "FORMID": "000A93",
+      "EDID": "Outcast3GunAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0230DA",
+      "FORMID": "0230DA",
+      "EDID": "CG04Overseer",
+      "FULL": "Supervisor"
+    },
+    {
+      "FORM": "@Fallout3.esm:02029B",
+      "FORMID": "02029B",
+      "EDID": "MQ01BoSGNNBattleCommander",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0210ED",
+      "FORMID": "0210ED",
+      "EDID": "CitadelJourneymanScribeLibrary02",
+      "FULL": "Escrivão da Irmandade do Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B82",
+      "FORMID": "0B9B82",
+      "EDID": "ArlingtonLibraryBoS06",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B7F",
+      "FORMID": "0B9B7F",
+      "EDID": "ArlingtonLibraryBoS05",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B51",
+      "FORMID": "0B9B51",
+      "EDID": "ArlingtonLibraryBoS07",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0599A3",
+      "FORMID": "0599A3",
+      "EDID": "FFEU10NPC1",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2A2",
+      "FORMID": "02E2A2",
+      "EDID": "WastelanderHF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2A1",
+      "FORMID": "02E2A1",
+      "EDID": "WastelanderHM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2A0",
+      "FORMID": "02E2A0",
+      "EDID": "WastelanderCF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E29F",
+      "FORMID": "02E29F",
+      "EDID": "WastelanderCM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E29E",
+      "FORMID": "02E29E",
+      "EDID": "WastelanderAF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E29D",
+      "FORMID": "02E29D",
+      "EDID": "WastelanderAM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9AFA",
+      "FORMID": "0B9AFA",
+      "EDID": "ArlingtonLibraryBoS04",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9AF5",
+      "FORMID": "0B9AF5",
+      "EDID": "ArlingtonLibraryBoS03",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9AC1",
+      "FORMID": "0B9AC1",
+      "EDID": "ArlingtonLibraryBoS02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9ABF",
+      "FORMID": "0B9ABF",
+      "EDID": "ArlingtonLibraryBoS01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E29C",
+      "FORMID": "02E29C",
+      "EDID": "WastelanderAAM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E29B",
+      "FORMID": "02E29B",
+      "EDID": "WastelanderAAFTEMPLATE",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E032",
+      "FORMID": "02E032",
+      "EDID": "FFDCChesterbrookBoS02",
+      "FULL": "Paladino Northup"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5395",
+      "FORMID": "0A5395",
+      "EDID": "FFER73NPC1",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:039634",
+      "FORMID": "039634",
+      "EDID": "MQ09EnclaveOfficer",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:027057",
+      "FORMID": "027057",
+      "EDID": "Vault101Security04",
+      "FULL": "Oficial Gomez"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AE072",
+      "FORMID": "0AE072",
+      "EDID": "MQ05EnclaveOfficer",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:027056",
+      "FORMID": "027056",
+      "EDID": "Vault101Security03",
+      "FULL": "Oficial Mack"
+    },
+    {
+      "FORM": "@Fallout3.esm:027055",
+      "FORMID": "027055",
+      "EDID": "Vault101Security02",
+      "FULL": "Oficial Kendall"
+    },
+    {
+      "FORM": "@Fallout3.esm:027054",
+      "FORMID": "027054",
+      "EDID": "Vault101Security01",
+      "FULL": "Chefe de Segurança Hannon"
+    },
+    {
+      "FORM": "@Fallout3.esm:0210DE",
+      "FORMID": "0210DE",
+      "EDID": "CitadelJourneymanScribeLibrary01",
+      "FULL": "Escrivão da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0210D9",
+      "FORMID": "0210D9",
+      "EDID": "CitadelBrotherhoodKnightExterior3",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C72D1",
+      "FORMID": "0C72D1",
+      "EDID": "TakomaArtilleryCorpse",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0210D8",
+      "FORMID": "0210D8",
+      "EDID": "CitadelBrotherhoodKnightExterior2",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A0BD4",
+      "FORMID": "0A0BD4",
+      "EDID": "MQ11EnclaveTeslaArmor",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B3973",
+      "FORMID": "0B3973",
+      "EDID": "SydneysFatherAUDIO",
+      "FULL": "Pai de Sydney"
+    },
+    {
+      "FORM": "@Fallout3.esm:0208F6",
+      "FORMID": "0208F6",
+      "EDID": "MegatonSettler10",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A70",
+      "FORMID": "000A70",
+      "EDID": "MotherMaya",
+      "FULL": "Mãe Maya"
+    },
+    {
+      "FORM": "@Fallout3.esm:01937E",
+      "FORMID": "01937E",
+      "EDID": "CitadelBrotherhoodKnightExterior4",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01937D",
+      "FORMID": "01937D",
+      "EDID": "KnightArtemis",
+      "FULL": "Cavaleiro Artemis"
+    },
+    {
+      "FORM": "@Fallout3.esm:01937A",
+      "FORMID": "01937A",
+      "EDID": "CitadelBrotherhoodKnightBarracksPost2",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:019379",
+      "FORMID": "019379",
+      "EDID": "CitadelBrotherhoodKnightBarracksPost1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:059412",
+      "FORMID": "059412",
+      "EDID": "CCTrader2",
+      "FULL": "Comerciante da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:059411",
+      "FORMID": "059411",
+      "EDID": "CCTrader1",
+      "FULL": "Comerciante da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:0208F5",
+      "FORMID": "0208F5",
+      "EDID": "MegatonSettler09",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:08DE15",
+      "FORMID": "08DE15",
+      "EDID": "CitadelBrotherhoodKnightExteriorGuard1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F5",
+      "FORMID": "0A11F5",
+      "EDID": "DEADWastelanderHM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:03923F",
+      "FORMID": "03923F",
+      "EDID": "DEADChineseGhoulSpy",
+      "FULL": "Espião Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC08",
+      "FORMID": "02DC08",
+      "EDID": "AndaleVictim03",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC07",
+      "FORMID": "02DC07",
+      "EDID": "AndaleVictim02",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DC06",
+      "FORMID": "02DC06",
+      "EDID": "AndaleVictim01",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:064E1F",
+      "FORMID": "064E1F",
+      "EDID": "FFEU11Scavenger",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F4",
+      "FORMID": "0A11F4",
+      "EDID": "DEADWastelanderHF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A6E",
+      "FORMID": "000A6E",
+      "EDID": "DocChurch",
+      "FULL": "Dr. Church"
+    },
+    {
+      "FORM": "@Fallout3.esm:019020",
+      "FORMID": "019020",
+      "EDID": "TenpennyGuardPenthouseGuard",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:01901E",
+      "FORMID": "01901E",
+      "EDID": "TenpennyGuardPatrol2ndFloor",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:01901D",
+      "FORMID": "01901D",
+      "EDID": "TenpennyGuardPatrolShops",
+      "FULL": "Segurança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F3",
+      "FORMID": "0A11F3",
+      "EDID": "DEADWastelanderCM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:018FAF",
+      "FORMID": "018FAF",
+      "EDID": "MQ01BoSGNNBattle",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F2",
+      "FORMID": "0A11F2",
+      "EDID": "DEADWastelanderCF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0208F4",
+      "FORMID": "0208F4",
+      "EDID": "MegatonSettler08",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB1A",
+      "FORMID": "02DB1A",
+      "EDID": "MQ01BoSGNNBattleDialogue1",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F1",
+      "FORMID": "0A11F1",
+      "EDID": "DEADWastelanderAM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11F0",
+      "FORMID": "0A11F0",
+      "EDID": "DEADWastelanderAF",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:000A6A",
+      "FORMID": "000A6A",
+      "EDID": "MisterBurke",
+      "FULL": "Senhor Burke"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A11EF",
+      "FORMID": "0A11EF",
+      "EDID": "DEADWastelanderAAM",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0208F3",
+      "FORMID": "0208F3",
+      "EDID": "MegatonSettler07",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0CAE",
+      "FORMID": "0C0CAE",
+      "EDID": "RCSecurityPatrolUpper",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0CAD",
+      "FORMID": "0C0CAD",
+      "EDID": "RCSecurityPatrolMid",
+      "FULL": "Segurança de Rivet City"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3297",
+      "FORMID": "0C3297",
+      "EDID": "Loot1Enclave3GunAAM",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:069C49",
+      "FORMID": "069C49",
+      "EDID": "HoffCaravanGuard1",
+      "FULL": "Guarda da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:069C47",
+      "FORMID": "069C47",
+      "EDID": "HarithCaravanGuard1",
+      "FULL": "Guarda da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:032F74",
+      "FORMID": "032F74",
+      "EDID": "FFER51NPC02",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:032F73",
+      "FORMID": "032F73",
+      "EDID": "FFER51NPC01",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:032F72",
+      "FORMID": "032F72",
+      "EDID": "FFER51NPC03",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:069C45",
+      "FORMID": "069C45",
+      "EDID": "WolfgangCaravanGuard1",
+      "FULL": "Guarda da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:069C43",
+      "FORMID": "069C43",
+      "EDID": "CrowCaravanGuard1",
+      "FULL": "Guarda da Caravana"
+    },
+    {
+      "FORM": "@Fallout3.esm:069BC8",
+      "FORMID": "069BC8",
+      "EDID": "FFER79Regulator02",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3294",
+      "FORMID": "0C3294",
+      "EDID": "Loot1Enclave4OfficerAF",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:069BC4",
+      "FORMID": "069BC4",
+      "EDID": "FFER79Regulator01",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:029AA9",
+      "FORMID": "029AA9",
+      "EDID": "OldManHarris",
+      "FULL": "Velho Harris"
+    },
+    {
+      "FORM": "@Fallout3.esm:069BAC",
+      "FORMID": "069BAC",
+      "EDID": "FFER79RegulatorLeader",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:069B9B",
+      "FORMID": "069B9B",
+      "EDID": "FFER27RegulatorLeader",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:069B90",
+      "FORMID": "069B90",
+      "EDID": "FFER27Regulator01",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:069B88",
+      "FORMID": "069B88",
+      "EDID": "FFER27Regulator02",
+      "FULL": "Regulador"
+    },
+    {
+      "FORM": "@Fallout3.esm:040EF8",
+      "FORMID": "040EF8",
+      "EDID": "FFEU51Hunter3",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:040EF7",
+      "FORMID": "040EF7",
+      "EDID": "FFEU51Hunter2",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2289",
+      "FORMID": "0C2289",
+      "EDID": "DeathclawLoot1VendorMale",
+      "FULL": "Comerciante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2286",
+      "FORMID": "0C2286",
+      "EDID": "DeathclawLoot1MinesMale",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A6EFE",
+      "FORMID": "0A6EFE",
+      "EDID": "MQ05EnclaveGoonB",
+      "FULL": "Soldado da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:026C57",
+      "FORMID": "026C57",
+      "EDID": "PaladinGunny",
+      "FULL": "Paladino Gunny"
+    },
+    {
+      "FORM": "@Fallout3.esm:040EF6",
+      "FORMID": "040EF6",
+      "EDID": "FFER63Hunter",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C6E5C",
+      "FORMID": "0C6E5C",
+      "EDID": "UniqueEnclave4OfficerJackTheRipper",
+      "FULL": "Oficial da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:040EF5",
+      "FORMID": "040EF5",
+      "EDID": "FFEU51Hunter1",
+      "FULL": "Caçador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C1121",
+      "FORMID": "0C1121",
+      "EDID": "Vault106CBoss",
+      "FULL": "Sobrevivente"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D043",
+      "FORMID": "02D043",
+      "EDID": "Overseer",
+      "FULL": "Supervisor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0208F2",
+      "FORMID": "0208F2",
+      "EDID": "MegatonSettler06",
+      "FULL": "Colono de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:08D0F5",
+      "FORMID": "08D0F5",
+      "EDID": "LDGaryTemplate",
+      "FULL": "Modelo de Gary"
+    },
+    {
+      "FORM": "@Fallout3.esm:020D85",
+      "FORMID": "020D85",
+      "EDID": "MQ01CorpseWithFatman",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C09D6",
+      "FORMID": "0C09D6",
+      "EDID": "Vault101Security08",
+      "FULL": "Oficial Taylor"
+    },
+    {
+      "FORM": "@Fallout3.esm:064915",
+      "FORMID": "064915",
+      "EDID": "CG04Vault101Security05",
+      "FULL": "Oficial Richards"
+    },
+    {
+      "FORM": "@Fallout3.esm:064911",
+      "FORMID": "064911",
+      "EDID": "CG04Vault101Security04",
+      "FULL": "Oficial Gomez"
+    },
+    {
+      "FORM": "@Fallout3.esm:064910",
+      "FORMID": "064910",
+      "EDID": "CG04Vault101Security03",
+      "FULL": "Oficial Mack"
+    },
+    {
+      "FORM": "@Fallout3.esm:02C9F7",
+      "FORMID": "02C9F7",
+      "EDID": "Vault101Security05",
+      "FULL": "Oficial Richards"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296AD",
+      "FORMID": "0296AD",
+      "EDID": "Outcast3SpecialHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296AC",
+      "FORMID": "0296AC",
+      "EDID": "Outcast3SpecialCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296AB",
+      "FORMID": "0296AB",
+      "EDID": "Outcast3SpecialAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296AA",
+      "FORMID": "0296AA",
+      "EDID": "Outcast3SpecialAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A9",
+      "FORMID": "0296A9",
+      "EDID": "Outcast1SpecialHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A8",
+      "FORMID": "0296A8",
+      "EDID": "Outcast1SpecialCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:038837",
+      "FORMID": "038837",
+      "EDID": "LLKid2",
+      "FULL": "Habitante de Little Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:038836",
+      "FORMID": "038836",
+      "EDID": "LLKid1",
+      "FULL": "Habitante de Little Lamplight"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A7",
+      "FORMID": "0296A7",
+      "EDID": "Outcast1SpecialAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A6",
+      "FORMID": "0296A6",
+      "EDID": "Outcast1SpecialAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A5",
+      "FORMID": "0296A5",
+      "EDID": "Outcast3BigGunsHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C69B",
+      "FORMID": "06C69B",
+      "EDID": "DEADVault87ExtScientist01",
+      "FULL": "Cientista"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A4",
+      "FORMID": "0296A4",
+      "EDID": "Outcast3BigGunsCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2D96",
+      "FORMID": "0B2D96",
+      "EDID": "MQ11EnclaveScientistDEAD",
+      "FULL": "Cientista da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A3",
+      "FORMID": "0296A3",
+      "EDID": "Outcast3BigGunsAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C9",
+      "FORMID": "06C5C9",
+      "EDID": "OutcastWastelandPatrolB3",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C8",
+      "FORMID": "06C5C8",
+      "EDID": "OutcastWastelandPatrolB2",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C7",
+      "FORMID": "06C5C7",
+      "EDID": "OutcastWastelandPatrolA3",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:018734",
+      "FORMID": "018734",
+      "EDID": "CitadelBrotherhoodKnightLabPost02",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018732",
+      "FORMID": "018732",
+      "EDID": "CitadelBrotherhoodKnightLabPost01",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:058827",
+      "FORMID": "058827",
+      "EDID": "FFDCArlingtonBoS01",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:058826",
+      "FORMID": "058826",
+      "EDID": "FFDCArlingtonBoS02",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C6",
+      "FORMID": "06C5C6",
+      "EDID": "OutcastWastelandPatrolA2",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C5",
+      "FORMID": "06C5C5",
+      "EDID": "LvlOutcastWastelandPatrolSpecial",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C4",
+      "FORMID": "06C5C4",
+      "EDID": "LvlOutcastWastelandPatrolMelee",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C5C3",
+      "FORMID": "06C5C3",
+      "EDID": "LvlOutcastWastelandPatrolGun",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A2",
+      "FORMID": "0296A2",
+      "EDID": "Outcast3BigGunsAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CC766",
+      "FORMID": "0CC766",
+      "EDID": "LvlScavengerGuardEditorLoc",
+      "FULL": "Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A1",
+      "FORMID": "0296A1",
+      "EDID": "Outcast3BigGunsHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0296A0",
+      "FORMID": "0296A0",
+      "EDID": "Outcast3BigGunsCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:06C48D",
+      "FORMID": "06C48D",
+      "EDID": "RedRacerDoctor",
+      "FULL": "O Cirurgião"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969F",
+      "FORMID": "02969F",
+      "EDID": "Outcast3BigGunsAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969E",
+      "FORMID": "02969E",
+      "EDID": "Outcast3BigGunsAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D8",
+      "FORMID": "0AC3D8",
+      "EDID": "ChineseGhoulCaptain",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D7",
+      "FORMID": "0AC3D7",
+      "EDID": "ChineseGhoul03D",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D6",
+      "FORMID": "0AC3D6",
+      "EDID": "ChineseGhoul03C",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D5",
+      "FORMID": "0AC3D5",
+      "EDID": "ChineseGhoul03B",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D4",
+      "FORMID": "0AC3D4",
+      "EDID": "ChineseGhoul03ATEMPLATE",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D3",
+      "FORMID": "0AC3D3",
+      "EDID": "ChineseGhoul02D",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D2",
+      "FORMID": "0AC3D2",
+      "EDID": "ChineseGhoul02C",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D1",
+      "FORMID": "0AC3D1",
+      "EDID": "ChineseGhoul02B",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3D0",
+      "FORMID": "0AC3D0",
+      "EDID": "ChineseGhoul02ATEMPLATE",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3CF",
+      "FORMID": "0AC3CF",
+      "EDID": "ChineseGhoul01D",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B25B5",
+      "FORMID": "0B25B5",
+      "EDID": "fortBannTalonCompanyHead",
+      "FULL": "Comandante Jabsco"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3CE",
+      "FORMID": "0AC3CE",
+      "EDID": "ChineseGhoul01C",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3CD",
+      "FORMID": "0AC3CD",
+      "EDID": "ChineseGhoul01B",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969D",
+      "FORMID": "02969D",
+      "EDID": "Outcast2GunHF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:03210B",
+      "FORMID": "03210B",
+      "EDID": "FFEU04NPC1",
+      "FULL": "Colono da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:03210A",
+      "FORMID": "03210A",
+      "EDID": "FFEU03NPC4",
+      "FULL": "Colono da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B87B4",
+      "FORMID": "0B87B4",
+      "EDID": "FFER21NPC1",
+      "FULL": "Traficante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:032109",
+      "FORMID": "032109",
+      "EDID": "FFEU03NPC3",
+      "FULL": "Colono da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:032108",
+      "FORMID": "032108",
+      "EDID": "FFEU03NPC2",
+      "FULL": "Escravo Foragido"
+    },
+    {
+      "FORM": "@Fallout3.esm:032107",
+      "FORMID": "032107",
+      "EDID": "FFEU03NPC1",
+      "FULL": "Escravo Foragido"
+    },
+    {
+      "FORM": "@Fallout3.esm:0184AE",
+      "FORMID": "0184AE",
+      "EDID": "CitadelBrotherhoodKnightExterior1",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AC3C7",
+      "FORMID": "0AC3C7",
+      "EDID": "ChineseGhoul01ATEMPLATE",
+      "FULL": "Soldado Chinês Remanescente"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969C",
+      "FORMID": "02969C",
+      "EDID": "Outcast2GunCF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969B",
+      "FORMID": "02969B",
+      "EDID": "Outcast2GunAF",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:052163",
+      "FORMID": "052163",
+      "EDID": "FFDCRockCreekHunter07",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:052162",
+      "FORMID": "052162",
+      "EDID": "FFDCRockCreekHunter06",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:052161",
+      "FORMID": "052161",
+      "EDID": "FFDCRockCreekHunter05",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B875B",
+      "FORMID": "0B875B",
+      "EDID": "PaladinBael",
+      "FULL": "Paladino Bael"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B8758",
+      "FORMID": "0B8758",
+      "EDID": "CitadelBrotherhoodKnightGateGuard",
+      "FULL": "Cavaleiro da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:052160",
+      "FORMID": "052160",
+      "EDID": "FFDCRockCreekHunter04",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215F",
+      "FORMID": "05215F",
+      "EDID": "GrandmaSparkle",
+      "FULL": "Vovó Sparkle"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215E",
+      "FORMID": "05215E",
+      "EDID": "FFDCRockCreekHunter02",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215D",
+      "FORMID": "05215D",
+      "EDID": "FFDCRockCreekHunter01",
+      "FULL": "Caçador de Rock Crick"
+    },
+    {
+      "FORM": "@Fallout3.esm:02969A",
+      "FORMID": "02969A",
+      "EDID": "Outcast2GunAAFTEMPLATE",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029699",
+      "FORMID": "029699",
+      "EDID": "Outcast2GunHM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029698",
+      "FORMID": "029698",
+      "EDID": "Outcast2GunCM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029697",
+      "FORMID": "029697",
+      "EDID": "Outcast2GunAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:029696",
+      "FORMID": "029696",
+      "EDID": "Outcast2GunAAM",
+      "FULL": "Desertor da Irmandade"
+    },
+    {
+      "FORM": "@Fallout3.esm:07843C",
+      "FORMID": "07843C",
+      "EDID": "Loot1CapsMale",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:07843B",
+      "FORMID": "07843B",
+      "EDID": "Loot1CapsFemale",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:07843A",
+      "FORMID": "07843A",
+      "EDID": "Loot1ChemsMale",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:018292",
+      "FORMID": "018292",
+      "EDID": "BrotherhoodOfSteel3MissileHF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:078439",
+      "FORMID": "078439",
+      "EDID": "Loot1ChemsFemale",
+      "FULL": "Habitante da Wasteland"
+    },
+    {
+      "FORM": "@Fallout3.esm:018291",
+      "FORMID": "018291",
+      "EDID": "BrotherhoodOfSteel3MissileHM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:078437",
+      "FORMID": "078437",
+      "EDID": "Loot1EnergyWeaponsMale",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:078436",
+      "FORMID": "078436",
+      "EDID": "Loot1EnergyWeaponsFemale",
+      "FULL": "Mercenária"
+    },
+    {
+      "FORM": "@Fallout3.esm:01828E",
+      "FORMID": "01828E",
+      "EDID": "BrotherhoodOfSteel3MissileCF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:078434",
+      "FORMID": "078434",
+      "EDID": "Loot1ArmorMale",
+      "FULL": "Mercenário"
+    },
+    {
+      "FORM": "@Fallout3.esm:01828C",
+      "FORMID": "01828C",
+      "EDID": "BrotherhoodOfSteel3MissileCM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:078433",
+      "FORMID": "078433",
+      "EDID": "Loot1ArmorFemale",
+      "FULL": "Mercenária"
+    },
+    {
+      "FORM": "@Fallout3.esm:018275",
+      "FORMID": "018275",
+      "EDID": "BrotherhoodOfSteel3MissileAF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018258",
+      "FORMID": "018258",
+      "EDID": "BrotherhoodOfSteel3MissileAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018255",
+      "FORMID": "018255",
+      "EDID": "BrotherhoodOfSteel3MissileAAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018251",
+      "FORMID": "018251",
+      "EDID": "BrotherhoodOfSteel3MeleeHF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01824D",
+      "FORMID": "01824D",
+      "EDID": "BrotherhoodOfSteel3MeleeHM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01824C",
+      "FORMID": "01824C",
+      "EDID": "BrotherhoodOfSteel3MeleeCF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01824B",
+      "FORMID": "01824B",
+      "EDID": "BrotherhoodOfSteel3MeleeCM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01824A",
+      "FORMID": "01824A",
+      "EDID": "BrotherhoodOfSteel3MeleeAF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018249",
+      "FORMID": "018249",
+      "EDID": "BrotherhoodOfSteel3MeleeAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018248",
+      "FORMID": "018248",
+      "EDID": "BrotherhoodOfSteel3MeleeAAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018247",
+      "FORMID": "018247",
+      "EDID": "BrotherhoodOfSteel3MissileAAFTEMPLATE",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018246",
+      "FORMID": "018246",
+      "EDID": "BrotherhoodOfSteel3MeleeAAFTEMPLATE",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01823E",
+      "FORMID": "01823E",
+      "EDID": "BrotherhoodOfSteel3GunAAFTEMPLATE",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01823D",
+      "FORMID": "01823D",
+      "EDID": "BrotherhoodOfSteel3BigGunsHF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01823C",
+      "FORMID": "01823C",
+      "EDID": "BrotherhoodOfSteel3BigGunsHM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01823B",
+      "FORMID": "01823B",
+      "EDID": "BrotherhoodOfSteel3BigGunsCF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:01823A",
+      "FORMID": "01823A",
+      "EDID": "BrotherhoodOfSteel3BigGunsCM",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018239",
+      "FORMID": "018239",
+      "EDID": "BrotherhoodOfSteel3BigGunsAF",
+      "FULL": "Paladino da Irmandade de Aço"
+    },
+    {
+      "FORM": "@Fallout3.esm:018238",
+      "FORMID": "018238",
+      "EDID": "BrotherhoodOfSteel3BigGunsAM",
+      "FULL": "Paladino da Irmandade de Aço"
+    }
+  ]
+}

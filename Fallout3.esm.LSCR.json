@@ -1,0 +1,904 @@
+{
+  "LSCR": [
+    {
+      "FORM": "@Fallout3.esm:061237",
+      "FORMID": "061237",
+      "EDID": "RivetCityLoadScreen05",
+      "DESC": "O chefe de segurança Harkness e seus oficiais estão autorizados ao uso da força letal para enfrentar qualquer transgressor."
+    },
+    {
+      "FORM": "@Fallout3.esm:061236",
+      "FORMID": "061236",
+      "EDID": "RepairLoadScreen10",
+      "DESC": "Quanto mais alta sua habilidade Reparo, melhor será a condição de início de qualquer arma fabricada por você."
+    },
+    {
+      "FORM": "@Fallout3.esm:06120F",
+      "FORMID": "06120F",
+      "EDID": "PerkLoadScreen01a",
+      "DESC": "Com o segundo nível do Bônus Amigo dos Animais, os animais te ajudam em combate (porém não contra outros animais)."
+    },
+    {
+      "FORM": "@Fallout3.esm:06120E",
+      "FORMID": "06120E",
+      "EDID": "PerceptionLoadScreen10",
+      "DESC": "A Percepção determina quando marcas vermelhas (que indicam ameaças) aparecem em sua bússola."
+    },
+    {
+      "FORM": "@Fallout3.esm:061205",
+      "FORMID": "061205",
+      "EDID": "MegatonLoadScreen07",
+      "DESC": "A Igreja das Crianças do Átomo acredita que a guerra de 2077 foi realmente um grande evento santo perpetuado por seu Deus, Átomo."
+    },
+    {
+      "FORM": "@Fallout3.esm:061204",
+      "FORMID": "061204",
+      "EDID": "MedicineLoadScreen10",
+      "DESC": "A habilidade Medicina determina a eficácia das drogas que ajudam a controlar a radiação, como Rad-X e RadAway."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611F9",
+      "FORMID": "0611F9",
+      "EDID": "IntelligenceLoadScreen10",
+      "DESC": "Inteligência determina sua eficácia com as habilidades de Ciência, Reparar e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611F8",
+      "FORMID": "0611F8",
+      "EDID": "GeneralLoadScreen05",
+      "DESC": "Dormir em uma cama de sua propriedade ou alugada te dará um bônus de\"Descansado\" que aumenta o XP ganho por várias horas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0611AF",
+      "FORMID": "0611AF",
+      "EDID": "CrimeLoadScreen02",
+      "DESC": "A Capital Wasteland carece de um sistema institucional de crime e punição. Se fizer algo ruim a alguém, prepare-se para pagar com sua vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FE",
+      "FORMID": "0610FE",
+      "EDID": "CreatureLoadScreen19",
+      "DESC": "Senhor Corajoso é uma variante de combate do popular Senhor Útil, e está equipado com arma de Plasma e Lança-Chamas."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FD",
+      "FORMID": "0610FD",
+      "EDID": "CreatureLoadScreen18",
+      "DESC": "O Irradiante usa sua habilidade especial para enviar radiação a seus inimigos, e curar quaisquer Ghouls Selvagens por perto."
+    },
+    {
+      "FORM": "@Fallout3.esm:0610FC",
+      "FORMID": "0610FC",
+      "EDID": "AgilityLoadScreen10",
+      "DESC": "Se estiver escondido adequadamente, seu primeiro ataque contra um inimigo sempre resultará num acerto crítico."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D80",
+      "FORMID": "080D80",
+      "EDID": "CreatureLoadScreen13",
+      "DESC": "O Robobrain, construído pela General Atomics International antes da grande guerra nuclear, é único que usa um autêntico cérebro orgânico como seu processador central."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7F",
+      "FORMID": "080D7F",
+      "EDID": "CreatureLoadScreen12",
+      "DESC": "O robusto modelo de robô Protectron foi criado antes da grande guerra, e funcionou como um autômato de segurança em ambos os setores privado e empresarial."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7E",
+      "FORMID": "080D7E",
+      "EDID": "CreatureLoadScreen11",
+      "DESC": "O modelo de robô Senhor Corajoso foi encomendado pelo exército norte americano pouco antes do apocalipse atômico de 2077."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7D",
+      "FORMID": "080D7D",
+      "EDID": "CreatureLoadScreen10",
+      "DESC": "Mirelurks Rei usam um ataque sônico devastador para debilitar seus inimigos à longa distância."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7C",
+      "FORMID": "080D7C",
+      "EDID": "CreatureLoadScreen09",
+      "DESC": "O Irradiante é um Ghoul Selvagem único que foi convertido em um condutor vivo de radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7B",
+      "FORMID": "080D7B",
+      "EDID": "CreatureLoadScreen08",
+      "DESC": "Ghouls, tanto os \"normais\" quanto os Selvagens, não são somente imunes a radiação... como são curados por ela."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D7A",
+      "FORMID": "080D7A",
+      "EDID": "CreatureLoadScreen07",
+      "DESC": "Os Ghouls selvagens perderam a capacidade de raciocinar, e atacam qualquer humano que avistarem."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D79",
+      "FORMID": "080D79",
+      "EDID": "CreatureLoadScreen06",
+      "DESC": "Os Eyebots divulgam mensagens da Enclave pré-gravadas pelo presidente Eden por toda Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D78",
+      "FORMID": "080D78",
+      "EDID": "CreatureLoadScreen05",
+      "DESC": "Os Deathclaws são algumas das criaturas mais assustadoras encontradas pelos colonos na Capital Wasteland. Sua velocidade e ferocidade são comparadas apenas com o tamanho de suas garras..."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D77",
+      "FORMID": "080D77",
+      "EDID": "CreatureLoadScreen04",
+      "DESC": "Ao passar dos anos desde que as primeiras bombas caíram, os cachorros continuaram largamente inalterados pela radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:07F5B3",
+      "FORMID": "07F5B3",
+      "EDID": "CreatureLoadScreen02",
+      "DESC": "Incapacitando a antena dos insetos, como as formigas gigantes, os deixará loucos e então eles atacarão tudo ao seu redor."
+    },
+    {
+      "FORM": "@Fallout3.esm:07F5B2",
+      "FORMID": "07F5B2",
+      "EDID": "CreatureLoadScreen01",
+      "DESC": "Os Yao Guai são predadores rápidos e fortes, e são descendentes da área dos ursos negros."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC9",
+      "FORMID": "07CBC9",
+      "EDID": "PerkLoadScreen48",
+      "DESC": "Com o bônus Resistência, você ganhará +10% em Resistência a Danos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC8",
+      "FORMID": "07CBC8",
+      "EDID": "PerkLoadScreen47",
+      "DESC": "A cada nível do bônus Ladrão, você ganha imediatamente 5 pontos nas habilidades Furtivo e Arrombamento."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC7",
+      "FORMID": "07CBC7",
+      "EDID": "PerkLoadScreen46",
+      "DESC": "O bônus Especialização! lhe permite selecionar uma quarta Habilidade para se especializar, o que imediatamente a aumentará em 15 pontos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC6",
+      "FORMID": "07CBC6",
+      "EDID": "PerkLoadScreen45",
+      "DESC": "A cada nível do bônus Aprendiz Ligeiro, você ganha mais 10% nos pontos de experiência obtidos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC5",
+      "FORMID": "07CBC5",
+      "EDID": "PerkLoadScreen44",
+      "DESC": "Com o bônus Costas Fortes, você poderá carregar mais 22 kilos de equipamentos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC4",
+      "FORMID": "07CBC4",
+      "EDID": "PerkLoadScreen43",
+      "DESC": "Com o bônus Movido a Sol, você ganha 2 pontos adicionais em Força quando estiver sob a luz do sol, e regenera lentamente a Saúde perdida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC3",
+      "FORMID": "07CBC3",
+      "EDID": "PerkLoadScreen42",
+      "DESC": "Com o bônus Franco Atirador, sua chance de acertar a cabeça de um oponente no modo V.A.T.S. será muito maior."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC2",
+      "FORMID": "07CBC2",
+      "EDID": "PerkLoadScreen41",
+      "DESC": "Com o bônus Corrida Silenciosa, você ganhará 10 pontos em sua habilidade Furtivo, e o fato de correr já não influenciará nas tentativas de ficar oculto."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC1",
+      "FORMID": "07CBC1",
+      "EDID": "PerkLoadScreen40",
+      "DESC": "Com o bônus Vasculhador, você encontrará consideravelmente mais munição em recipientes do que regularmente encontraria."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBC0",
+      "FORMID": "07CBC0",
+      "EDID": "PerkLoadScreen39",
+      "DESC": "Cada nível do bônus Canalha, aumenta suas perícias de Diálogo e Negociar em 5 pontos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBF",
+      "FORMID": "07CBBF",
+      "EDID": "PerkLoadScreen38",
+      "DESC": "Com o bônus Especialista em Robótica, você causará 25% a mais de dano aos robôs em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBE",
+      "FORMID": "07CBBE",
+      "EDID": "PerkLoadScreen37",
+      "DESC": "A Resistência à Radiação lhe permite (o quê será?) resistir à radiação. Este bônus lhe concede 25% a mais de Resistência à Radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBC",
+      "FORMID": "07CBBC",
+      "EDID": "PerkLoadScreen35",
+      "DESC": "Com o bônus Piromaníaco, você causará +50% de danos com armas baseadas no fogo, como o Lança-Chamas e a Shishkebab."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBB",
+      "FORMID": "07CBBB",
+      "EDID": "PerkLoadScreen34",
+      "DESC": "Com a Palma Paralisante, ocasionalmente você executará um golpe especial com a mão no modo V.A.T.S. que paralisará o oponente por 30 segundos. Note que para executar a Palma Paralisante você deve estar completamente desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBBA",
+      "FORMID": "07CBBA",
+      "EDID": "PerkLoadScreen33",
+      "DESC": "O bônus Ninja lhe concede o poder dos guerreiros lendários das sombras, e aumenta sua chance de efetuar golpes críticos bem como o dano que eles produzem."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB9",
+      "FORMID": "07CBB9",
+      "EDID": "PerkLoadScreen32",
+      "DESC": "Você já foi sacaneado demais! Com o bônus Fúria Nerd, sua força aumentará para 10 e você ganhará 50% a mais de Resistência à Danos sempre que sua Saúde cair para 20% ou menos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB8",
+      "FORMID": "07CBB8",
+      "EDID": "PerkLoadScreen31",
+      "DESC": "Com o bônus Estranho Misterioso, seu anjo da guarda pessoal aparecerá de vez em quando no modo V.A.T.S. para te dar uma mão... Com eficácia letal."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB7",
+      "FORMID": "07CBB7",
+      "EDID": "PerkLoadScreen30",
+      "DESC": "Com o bônus Requinte, você ganhará 5% a mais de chance de acertar um golpe crítico em um oponente em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB6",
+      "FORMID": "07CBB6",
+      "EDID": "PerkLoadScreen29",
+      "DESC": "Com o bônus Senhor Sandman, você poderá realizar um movimento especial que matará instantaneamente qualquer pessoa que esteja dormindo, e ganhará XP por fazê-lo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB5",
+      "FORMID": "07CBB5",
+      "EDID": "PerkLoadScreen28",
+      "DESC": "Quando adquirir o bônus Grande Comerciante, o preço de todos os itens que comprar de um vendedor é reduzido em 25%."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB4",
+      "FORMID": "07CBB4",
+      "EDID": "PerkLoadScreen27",
+      "DESC": "O bônus Pequeno Lançador melhora sua perícia em armas brancas e explosivos, o tornando muito mais eficiente com armas brancas e granadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB3",
+      "FORMID": "07CBB3",
+      "EDID": "PerkLoadScreen26",
+      "DESC": "Com o bônus Menina do Papai, um personagem feminino ganha 5 pontos adicionais nas perícias Ciência e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:07CBB2",
+      "FORMID": "07CBB2",
+      "EDID": "PerkLoadScreen25",
+      "DESC": "Com o bônus Menino do Papai, um personagem masculino ganha 5 pontos adicionais nas perícias Ciência e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C346",
+      "FORMID": "07C346",
+      "EDID": "PerkLoadScreen24",
+      "DESC": "Com o bônus Passo Leve, você nunca mais ativará minas de um inimigo, ou armadilhas colocadas no chão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C345",
+      "FORMID": "07C345",
+      "EDID": "PerkLoadScreen23",
+      "DESC": "Com o bônus Doador de Vida, você ganhará um bônus de 30 Pontos de Vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C344",
+      "FORMID": "07C344",
+      "EDID": "PerkLoadScreen22",
+      "DESC": "Com o bônus Barriga de Chumbo, você receberá 50% a menos de radiação toda vez que beber de uma fonte de água radioativa."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C343",
+      "FORMID": "07C343",
+      "EDID": "PerkLoadScreen21",
+      "DESC": "Quando possuir o bônus Justiceiro, qualquer pessoa má, humano ou Ghoul, que você matar terá um dedo em seu cadáver o qual poderá ser vendido ou trocado com algum personagem bom..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C342",
+      "FORMID": "07C342",
+      "EDID": "PerkLoadScreen20",
+      "DESC": "Computador bloqueado ao falhar em uma tentativa de hackear? Não se você for um Gênio dos Computadores! Com este bônus, você pode tentar re-hackear qualquer computador que foi bloqueado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C341",
+      "FORMID": "07C341",
+      "EDID": "PerkLoadScreen19",
+      "DESC": "A cada nível do bônus Punho de Ferro, você dará 5 pontos a mais de dano no combate Desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C340",
+      "FORMID": "07C340",
+      "EDID": "PerkLoadScreen18",
+      "DESC": "Com o bônus Treinamento Intensivo, você pode adicionar um ponto em qualquer um dos atributos S.P.E.C.I.A.L."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33F",
+      "FORMID": "07C33F",
+      "EDID": "PerkLoadScreen17",
+      "DESC": "Com o bônus Infiltração, você ganha mais uma chance para arrombar qualquer fechadura quebrada ao tentar \"Forçar a Fechadura\" sem êxito."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33E",
+      "FORMID": "07C33E",
+      "EDID": "PerkLoadScreen16",
+      "DESC": "Com o bônus Meditação Imparcial, você ganha 30 pontos em Diálogo... Enquanto manter um nível de Karma Neutro."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33D",
+      "FORMID": "07C33D",
+      "EDID": "PerkLoadScreen15",
+      "DESC": "O bônus Aqui e Agora lhe concede imediatamente um nível de experiência com todas as vantagens que ele traz."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33C",
+      "FORMID": "07C33C",
+      "EDID": "PerkLoadScreen14",
+      "DESC": "Com o bônus Descobridor de Fortunas, você encontrará consideravelmente mais tampinhas de Nuka-Cola em recipientes do que você normalmente encontraria."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33B",
+      "FORMID": "07C33B",
+      "EDID": "PerkLoadScreen13",
+      "DESC": "Com cada nível do bônus Louco por Armas, você ganha 5 pontos adicionais em Armas Pequenas e Reparo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C33A",
+      "FORMID": "07C33A",
+      "EDID": "PerkLoadScreen12",
+      "DESC": "Quando adquirir o bônus Explorador, todos os lugares do mundo serão revelados em seu mapa. Então vá explorar!"
+    },
+    {
+      "FORM": "@Fallout3.esm:07C339",
+      "FORMID": "07C339",
+      "EDID": "PerkLoadScreen11",
+      "DESC": "Com o bônus Entomólogo, você dará 50% a mais de dano a cada vez que atacar um inseto mutante."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C338",
+      "FORMID": "07C338",
+      "EDID": "PerkLoadScreen10",
+      "DESC": "Com o bônus Educado, você ganha mais três pontos de habilidade a cada vez que passar de nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C337",
+      "FORMID": "07C337",
+      "EDID": "PerkLoadScreen09",
+      "DESC": "Com cada nível do bônus Especialista em Demolição, todas as suas armas explosivas darão 20% a mais de dano."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C336",
+      "FORMID": "07C336",
+      "EDID": "PerkLoadScreen08",
+      "DESC": "O bônus Ciborgue adiciona 10 pontos as resistências de: Dano, Veneno e Radiação, e 10 pontos em sua habilidade com Armas de Energia."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C335",
+      "FORMID": "07C335",
+      "EDID": "PerkLoadScreen07",
+      "DESC": "Com o bônus Matador de Aluguel, todo personagem bom que você matar terá uma orelha em seu corpo. Essa orelha poderá ser vendida para certa pessoa (cuja identidade é revelada ao adquirir o bônus) em troca de tampas e Karma negativo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C334",
+      "FORMID": "07C334",
+      "EDID": "PerkLoadScreen06",
+      "DESC": "Com o bônus Fogo Concentrado, sua precisão em acertar um membro do corpo no modo V.A.T.S. aumentará levemente quando se mirar sucessivamente no mesmo membro."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C333",
+      "FORMID": "07C333",
+      "EDID": "PerkLoadScreen05",
+      "DESC": "Com o bônus Compreensão, você ganha um ponto adicional a cada vez que ler um livro de habilidade."
+    },
+    {
+      "FORM": "@Fallout3.esm:07C206",
+      "FORMID": "07C206",
+      "EDID": "GeneralLoadScreen08",
+      "DESC": "A única forma de chegar até as ruínas do D.C. dominadas pelos Super Mutantes é viajando pelo subterrâneo, através dos túneis abandonados do Metrô."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9D",
+      "FORMID": "07AE9D",
+      "EDID": "PerkLoadScreen04",
+      "DESC": "O bônus Coração de Criança aprimora sua interação com crianças com opções únicas de diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9C",
+      "FORMID": "07AE9C",
+      "EDID": "PerkLoadScreen03",
+      "DESC": "Com o bônus Melhores Críticos, você causará +50% de danos a cada golpe crítico causado em seu oponente."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9B",
+      "FORMID": "07AE9B",
+      "EDID": "PerkLoadScreen02",
+      "DESC": "Com o bônus Garoto Ação, você ganha 20 Pontos de Ação adicionais para usar no V.A.T.S."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE9A",
+      "FORMID": "07AE9A",
+      "EDID": "PerkLoadScreen01",
+      "DESC": "Com o bônus Amigo dos Animais, você nunca mais será vítima de um ataque provocado por qualquer animal."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE99",
+      "FORMID": "07AE99",
+      "EDID": "StealthLoadScreen02",
+      "DESC": "A invisibilidade é afetada por muitos fatores, incluindo o nível de luz, o som gerado, peso e massa do vestuário e a linha de visão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE98",
+      "FORMID": "07AE98",
+      "EDID": "CrimeLoadScreen01",
+      "DESC": "A Capital Wasteland precisa de um governo unificado e de um sistema institucional de luta contra o crime. Se fizer mal a alguém, se prepare para pagar com sua vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AE97",
+      "FORMID": "07AE97",
+      "EDID": "CombatLoadScreen10",
+      "DESC": "Se você roubar a bolsa de alguém e colocar uma mina ou uma granada em seu inventário, o explosivo se ativará... Causando uma enorme explosão."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC70",
+      "FORMID": "07AC70",
+      "EDID": "UnderworldLoadScreen03",
+      "DESC": "Os Ghouls do Submundo geralmente não são incomodados pelos Super Mutantes, mas reprovam as ações da Irmandade de Aço por transformar seu território em uma zona de guerra."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6F",
+      "FORMID": "07AC6F",
+      "EDID": "UnderworldLoadScreen02",
+      "DESC": "O Submundo surgiu nas ruínas da exposição especial do Museu de História, que apresentava o ponto de vista de diferentes civilizações sobre a outra vida."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6E",
+      "FORMID": "07AC6E",
+      "EDID": "UnderworldLoadScreen01",
+      "DESC": "O Submundo se tornou um refúgio para os Ghouls, mal recebidos em toda a Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6D",
+      "FORMID": "07AC6D",
+      "EDID": "RivetCityLoadScreen04",
+      "DESC": "Rivet City não possui lugares de detenção para criminosos, e tem tolerância zero para crimes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6C",
+      "FORMID": "07AC6C",
+      "EDID": "RivetCityLoadScreen03",
+      "DESC": "A Doutora Madison Li, membro do conselho de governo de Rivet City, é uma das maiores mentes científicas de sua geração."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6B",
+      "FORMID": "07AC6B",
+      "EDID": "RivetCityLoadScreen02",
+      "DESC": "O que era uma pequena comunidade científica, gradualmente se converteu em Rivet City, o maior assentamento da Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC6A",
+      "FORMID": "07AC6A",
+      "EDID": "RivetCityLoadScreen01",
+      "DESC": "A parte dianteira de Rivet City está separada do resto do navio, e ocupada por Mirelurks hostis."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC69",
+      "FORMID": "07AC69",
+      "EDID": "MegatonLoadScreen06",
+      "DESC": "Os moradores de Megaton se sentem seguros atrás de suas muralhas de metal. Irônico, considerando a proximidade de uma bomba atômica."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC68",
+      "FORMID": "07AC68",
+      "EDID": "MegatonLoadScreen05",
+      "DESC": "A rumores de que Moira Brown, a excêntrica proprietária do armazém Craterside, está à procura de ajuda para um novo projeto."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC67",
+      "FORMID": "07AC67",
+      "EDID": "MegatonLoadScreen04",
+      "DESC": "Os membros da Igreja do Átomo veneram a bomba atômica."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC66",
+      "FORMID": "07AC66",
+      "EDID": "MegatonLoadScreen03",
+      "DESC": "Alguns moradores de Megaton se perguntam quem está realmente no comando: O Sheriff Simms ou o dono do bar Colin Moriarty..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC65",
+      "FORMID": "07AC65",
+      "EDID": "MegatonLoadScreen02",
+      "DESC": "Alguns dos primeiros colonos de Megaton foram atraídos pela falsa esperança de entrar no Vault 101."
+    },
+    {
+      "FORM": "@Fallout3.esm:07AC64",
+      "FORMID": "07AC64",
+      "EDID": "MegatonLoadScreen01",
+      "DESC": "No centro de Megaton repousa uma bomba atômica não detonada, um resíduo do grande conflito que destruiu o mundo."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A501",
+      "FORMID": "07A501",
+      "EDID": "CantCommonsLoadingScreen03",
+      "DESC": "A Comunidade de Canterbury se tornou um permanente campo de batalha para os dois \"super humanos\" -- a sinistra AntAgonizer e o desencaminhado Mecânico."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A500",
+      "FORMID": "07A500",
+      "EDID": "CantCommonsLoadingScreen02",
+      "DESC": "Os restos de um grande centro de reparação de robôs armazena o assentamento da Comunidade de Canterbury."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FF",
+      "FORMID": "07A4FF",
+      "EDID": "CantCommonsLoadingScreen01",
+      "DESC": "A Comunidade de Canterbury é o fim da rota comercial das caravanas estabelecidas na Capital Wasteland."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FD",
+      "FORMID": "07A4FD",
+      "EDID": "BigtownLoadingScreen03",
+      "DESC": "Os moradores de Big Town são todos os refugiados de outros assentamento, do qual eles foram expulsos a força..."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FC",
+      "FORMID": "07A4FC",
+      "EDID": "BigtownLoadingScreen02",
+      "DESC": "A população de Big Town tem diminuído significativamente nos últimos anos. A maioria dos moradores foi morta ou capturada por Escravistas ou Super Mutantes."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FB",
+      "FORMID": "07A4FB",
+      "EDID": "BigtownLoadingScreen",
+      "DESC": "Embora tenha algumas fortificações rudes, Big Town é alvo de constantes ataques de Escravistas e Super Mutantes, que à veem como um alvo fácil."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4FA",
+      "FORMID": "07A4FA",
+      "EDID": "TenpennyLoadScreen02",
+      "DESC": "Allistair Tenpenny raramente deixa o conforto e a segurança de sua suíte na cobertura. A sua é reservada para os grosseiramente ricos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07A4F9",
+      "FORMID": "07A4F9",
+      "EDID": "TenpennyLoadScreen01",
+      "DESC": "Torre Tenpenny é a criação de Allistair Tenpenny, um britânico refugiado que veio para a Capital Wasteland, em busca de fortuna."
+    },
+    {
+      "FORM": "@Fallout3.esm:075D20",
+      "FORMID": "075D20",
+      "EDID": "CombatLoadScreen09",
+      "DESC": "Quer evitar a fuga de algum inimigo? Mutile as pernas dele."
+    },
+    {
+      "FORM": "@Fallout3.esm:075BE4",
+      "FORMID": "075BE4",
+      "EDID": "GeneralLoadScreen07",
+      "DESC": "Alterando a dificuldade, afetará o nível de combate. Mas você também pode obter mais ou menos experiência ao matar inimigos."
+    },
+    {
+      "FORM": "@Fallout3.esm:07385B",
+      "FORMID": "07385B",
+      "EDID": "StealthLoadScreen01",
+      "DESC": "Correr é mais barulhento do que caminhar e é mais fácil de ser descoberto, até mesmo se você estiver se movendo furtivamente."
+    },
+    {
+      "FORM": "@Fallout3.esm:07385A",
+      "FORMID": "07385A",
+      "EDID": "GeneralLoadScreen03",
+      "DESC": "Bebendo de uma fonte de água sempre é uma escolha tática -- você normalmente restabelece a Saúde perdida, mas eleva seu nível de radiação."
+    },
+    {
+      "FORM": "@Fallout3.esm:073859",
+      "FORMID": "073859",
+      "EDID": "GeneralLoadScreen02",
+      "DESC": "Dormir em qualquer cama restaurará sua Saúde completamente e curará qualquer parte de corpo aleijada."
+    },
+    {
+      "FORM": "@Fallout3.esm:073858",
+      "FORMID": "073858",
+      "EDID": "CombatLoadScreen08",
+      "DESC": "Ao se abaixar a sua precisão irá melhorar, e o modo furtivo será ativado."
+    },
+    {
+      "FORM": "@Fallout3.esm:073857",
+      "FORMID": "073857",
+      "EDID": "GeneralLoadScreen01",
+      "DESC": "Você pode restaurar a Saúde usando um Stimpak, comendo comida, bebendo de uma fonte de água, ou dormindo em uma cama."
+    },
+    {
+      "FORM": "@Fallout3.esm:073856",
+      "FORMID": "073856",
+      "EDID": "CombatLoadScreen06",
+      "DESC": "Ampliando a mira com uma arma de alcance reduz sua velocidade, mas melhora sua precisão."
+    },
+    {
+      "FORM": "@Fallout3.esm:073855",
+      "FORMID": "073855",
+      "EDID": "CombatLoadScreen05",
+      "DESC": "Armas mais pesadas e vestuário reduzirão sua velocidade quando eles estão equipados."
+    },
+    {
+      "FORM": "@Fallout3.esm:073854",
+      "FORMID": "073854",
+      "EDID": "CombatLoadScreen04",
+      "DESC": "Dano nos membros podem ser reparados diretamente aplicando Stimpaks nas áreas afetadas, usando o Pip-Boy."
+    },
+    {
+      "FORM": "@Fallout3.esm:073853",
+      "FORMID": "073853",
+      "EDID": "CombatLoadScreen03",
+      "DESC": "Quanto mais baixa a condição de suas armas ou roupas, menos dano ela resiste em combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:073852",
+      "FORMID": "073852",
+      "EDID": "CombatLoadScreen02",
+      "DESC": "Repare suas armas regularmente – quanto menor a condição, menor a efetividade da arma."
+    },
+    {
+      "FORM": "@Fallout3.esm:073851",
+      "FORMID": "073851",
+      "EDID": "CombatLoadScreen01",
+      "DESC": "Você pode correr mais rápido com sua arma no coldre."
+    },
+    {
+      "FORM": "@Fallout3.esm:051DF1",
+      "FORMID": "051DF1",
+      "EDID": "GeneralLoadScreen06",
+      "DESC": "Coisas estão um pouco difíceis demais, ou muito fáceis? Você pode pausar o jogo e modificar a dificuldade a qualquer hora."
+    },
+    {
+      "FORM": "@Fallout3.esm:070602",
+      "FORMID": "070602",
+      "EDID": "CombatLoadScreen12",
+      "DESC": "Se você começar uma briga que não pode terminar, tente guardar a sua arma. Seu oponente pode até perdoá-lo..."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3CA",
+      "FORMID": "02B3CA",
+      "EDID": "StrengthLoadScreen09",
+      "DESC": "Força afeta o quanto de peso você pode carregar, e determina a efetividade de todos os ataques com armas brancas."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3C6",
+      "FORMID": "02B3C6",
+      "EDID": "SpeechLoadScreen09",
+      "DESC": "A habilidade Diálogo marca o quanto você pode influenciar alguém por diálogo, e ganhar acesso a informação que eles poderiam não querer compartilhar caso contrário."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3C2",
+      "FORMID": "02B3C2",
+      "EDID": "SneakLoadScreen09",
+      "DESC": "A habilidade Arrombamento é usada para abrir portas e recipientes trancados."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3BE",
+      "FORMID": "02B3BE",
+      "EDID": "SmallGunsLoadScreen09",
+      "DESC": "Armas Pequenas determina sua eficiência com armas de projéteis convencionais, incluindo a Pistola de 10mm, o Rifle de Chumbinho, o Rifle de Assalto e a Escopeta de Combate."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3BA",
+      "FORMID": "02B3BA",
+      "EDID": "ScienceLoadScreen09",
+      "DESC": "A habilidade Ciência representa seu conhecimento científico, e é primariamente usada para hackear terminais de computadores restritos."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3B6",
+      "FORMID": "02B3B6",
+      "EDID": "RepairLoadScreen09",
+      "DESC": "A habilidade Reparo te permite consertar qualquer arma e vestimenta."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3AE",
+      "FORMID": "02B3AE",
+      "EDID": "PerceptionLoadScreen09",
+      "DESC": "Uma grande Percepção garante um bônus para as habilidades Explosivos, Arrombamento e Armas de Energia."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3AA",
+      "FORMID": "02B3AA",
+      "EDID": "MeleeWeaponsLoadScreen09",
+      "DESC": "A habilidade Armas Brancas determina sua eficiência com qualquer arma de combate corpo-a-corpo, de um simples Cano de Chumbo a uma Super Marreta de alta tecnologia."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3A6",
+      "FORMID": "02B3A6",
+      "EDID": "MedicineLoadScreen09",
+      "DESC": "A habilidade Medicina determina a eficiência de um Stimpak usado para recuperar saúde ou membros feridos."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3A1",
+      "FORMID": "02B3A1",
+      "EDID": "UnarmedLoadScreen09",
+      "DESC": "A habilidade Desarmado é usada para lutar sem armas, ou com armas desenhadas para o combate corpo-a-corpo, como a Soqueira."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B39D",
+      "FORMID": "02B39D",
+      "EDID": "LuckLoadScreen09",
+      "DESC": "Aumentando sua Sorte, aumentam todos os valores de suas habilidades, e melhora a sua chance de críticos com todas as armas."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B399",
+      "FORMID": "02B399",
+      "EDID": "LockpickLoadScreen09",
+      "DESC": "A habilidade Arrombamento é usada para abrir portas e compartimentos trancados."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B395",
+      "FORMID": "02B395",
+      "EDID": "IntelligenceLoadScreen09",
+      "DESC": "Quanto maior a sua Inteligência, mais pontos de habilidade poderá distribuir ao passar de nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:02B389",
+      "FORMID": "02B389",
+      "EDID": "EnduranceLoadScreen09",
+      "DESC": "Uma grande Resistência concede bônus para Vida, resistências ao meio ambiente, e nas habilidades Armas Grandes e Desarmado."
+    },
+    {
+      "FORM": "@Fallout3.esm:02AE47",
+      "FORMID": "02AE47",
+      "EDID": "CharismaLoadScreen09",
+      "DESC": "Possuir um Carisma alto proporciona um bônus para as habilidades de Negociar e de Diálogo."
+    },
+    {
+      "FORM": "@Fallout3.esm:02AE38",
+      "FORMID": "02AE38",
+      "EDID": "AgilityLoadScreen09",
+      "DESC": "Quanto maior a habilidade Furtivo, mais fácil será permanecer indetectável , roubar um item, ou mexer na carteira de alguém."
+    },
+    {
+      "FORM": "@Fallout3.esm:080D76",
+      "FORMID": "080D76",
+      "EDID": "CreatureLoadScreen03",
+      "DESC": "Super Mutantes muitas vezes vem acompanhados de Centauros, que lhes servem como \"cães de guarda\" e alertam seus donos sobre o perigo."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF6",
+      "FORMID": "0A9CF6",
+      "EDID": "CreatureLoadScreen16",
+      "DESC": "Os Raiders levam tudo o que quiserem, e quando quiserem, e o passatempo preferido deles são tortura e assassinato."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF5",
+      "FORMID": "0A9CF5",
+      "EDID": "CreatureLoadScreen15",
+      "DESC": "Nenhum trabalho é sujo o bastante para os mercenários da Companhia Talon. Se encontrar esses oportunistas sem coração, se prepare para uma luta até a morte."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9CF4",
+      "FORMID": "0A9CF4",
+      "EDID": "CreatureLoadScreen14",
+      "DESC": "Os Mirelurks possuem uma blindagem natural por todo o corpo... Com a exceção do rosto. Tente usar o V.A.T.S. para mirar nesta área e matá-los antes que cheguem perto para atacar."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADD",
+      "FORMID": "0C9ADD",
+      "EDID": "TranqLaneLoadScreen4",
+      "DESC": "Aceite sua realidade visível."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADC",
+      "FORMID": "0C9ADC",
+      "EDID": "TranqLaneLoadScreen3",
+      "DESC": "Protótipo de simulação Vault-Tec iniciado. Programa ativo: Alameda da Tranquilidade."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADB",
+      "FORMID": "0C9ADB",
+      "EDID": "TranqLaneLoadScreen2",
+      "DESC": "Carregando simulação da Alameda da Tranquilidade. Por favor, aguarde."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C9ADA",
+      "FORMID": "0C9ADA",
+      "EDID": "TranqLaneLoadScreen1",
+      "DESC": "Algoritmos históricos introduzidos. Processando artigos do Capital Post. Extrapolando referências culturais Americanas."
+    },
+    {
+      "FORM": "@Fallout3.esm:088498",
+      "FORMID": "088498",
+      "EDID": "CombatLoadScreen11",
+      "DESC": "O DAÑ de uma arma indica seu dano aproximado, e é modificado por fatores como a condição da arma, e sua habilidade associada."
+    },
+    {
+      "FORM": "@Fallout3.esm:0C73CC",
+      "FORMID": "0C73CC",
+      "EDID": "CreatureLoadScreen17",
+      "DESC": "Desative o inibidor de combate de um robô, e a máquina, confusa, entrará em um ataque de loucura, atacando tanto amigos como inimigos."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A3424",
+      "FORMID": "0A3424",
+      "EDID": "StealthLoadScreen03",
+      "DESC": "A luz gerada pela luz do seu Pip-Boy te faz menos furtivo. Se quer suceder com furtividade, apague-a."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A3423",
+      "FORMID": "0A3423",
+      "EDID": "GeneralLoadScreen04",
+      "DESC": "Mantenha pressionado o botão de seu Pip-Boy para acender e apagar a luz."
+    },
+    {
+      "FORM": "@Fallout3.esm:021876",
+      "FORMID": "021876",
+      "EDID": "ExplosivesLoadScreen02",
+      "DESC": "A habilidade Explosivos determina a potência de suas minas plantadas, a complexidade para desativar minas hostis e a efetividade das granadas lançadas."
+    },
+    {
+      "FORM": "@Fallout3.esm:021872",
+      "FORMID": "021872",
+      "EDID": "EnergyWeaponsLoadScreen02",
+      "DESC": "A habilidade com Armas de Energia determina sua efetividade com armas como a Pistola Laser, Rifle Laser, Rifle de Plasma e a Pistola de Plasma."
+    },
+    {
+      "FORM": "@Fallout3.esm:02186E",
+      "FORMID": "02186E",
+      "EDID": "BigGunsLoadScreen02",
+      "DESC": "A habilidade Armas Grandes determina a sua efetividade em combate com as armas: Fat Man, Lança-Tudo, Lança-Mísseis, Lança-Chamas, Minigun e a Laser Gatling."
+    },
+    {
+      "FORM": "@Fallout3.esm:02186A",
+      "FORMID": "02186A",
+      "EDID": "BarterLoadScreen02",
+      "DESC": "Em geral, quanto mais alta a sua habilidade Negociar, mais baixo o preço de itens comprados."
+    },
+    {
+      "FORM": "@Fallout3.esm:08198B",
+      "FORMID": "08198B",
+      "EDID": "Vault101LoadScreen05",
+      "DESC": "Residentes do Vault 101 permanecem protegidos do mundo exterior, com a exceção de ataques ocasionais de RadBaratas."
+    },
+    {
+      "FORM": "@Fallout3.esm:08198A",
+      "FORMID": "08198A",
+      "EDID": "Vault101LoadScreen04",
+      "DESC": "Os agentes de segurança do Vault 101 são selecionados a dedo pelo próprio Supervisor por sua discrição e lealdade."
+    },
+    {
+      "FORM": "@Fallout3.esm:081989",
+      "FORMID": "081989",
+      "EDID": "Vault101LoadScreen03",
+      "DESC": "Aos 16 anos, todo o residente do Vault 101 realiza o Teste Generalizado de Aptidão Ocupacional, ou G.O.A.T., que ajuda a determinar seu posto de trabalho."
+    },
+    {
+      "FORM": "@Fallout3.esm:081988",
+      "FORMID": "081988",
+      "EDID": "Vault101LoadScreen02",
+      "DESC": "Aos 10 anos, todo residente do Vault 101 recebe um processador de informações pessoal Pip-Boy 3000."
+    },
+    {
+      "FORM": "@Fallout3.esm:081987",
+      "FORMID": "081987",
+      "EDID": "Vault101LoadScreen01",
+      "DESC": "O Supervisor é o líder incontestável do Vault 101, e sua palavra é a lei."
+    },
+    {
+      "FORM": "@Fallout3.esm:06123B",
+      "FORMID": "06123B",
+      "EDID": "PerkLoadScreen49",
+      "DESC": "Se tiver o bônus Especialista em Robótica e se esgueirar até perto de um robô hostil sem ser detectado, você pode desativar permanentemente o robô."
+    },
+    {
+      "FORM": "@Fallout3.esm:06123A",
+      "FORMID": "06123A",
+      "EDID": "StealthLoadScreen04",
+      "DESC": "Se quer permanecer oculto, fique nas sombras, mova-se lentamente, tente manter-se atrás do inimigo... e apague a luz do seu Pip-Boy!"
+    }
+  ]
+}

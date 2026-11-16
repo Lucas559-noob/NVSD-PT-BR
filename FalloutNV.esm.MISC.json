@@ -1,0 +1,3004 @@
+{
+  "MISC": [
+    {
+      "FORM": "@FalloutNV.esm:00000F",
+      "FORMID": "00000F",
+      "EDID": "Caps001",
+      "FULL": "Tampinha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00000A",
+      "FORMID": "00000A",
+      "EDID": "Lockpick",
+      "FULL": "Grampo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014F81",
+      "FORMID": "014F81",
+      "EDID": "FusionPulseCharge",
+      "FULL": "Carga de Pulso de Fusão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0151DB",
+      "FORMID": "0151DB",
+      "EDID": "BrassLanternPasswordAdder",
+      "FULL": "Bilhete Amassado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01890A",
+      "FORMID": "01890A",
+      "EDID": "MS09SealedEnvelope",
+      "FULL": "Envelope Lacrado de Lucy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A168",
+      "FORMID": "01A168",
+      "EDID": "MQ05Fuse",
+      "FULL": "Fusível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CFAF",
+      "FORMID": "01CFAF",
+      "EDID": "MS09VancesProposal",
+      "FULL": "Proposta de Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F21F",
+      "FORMID": "01F21F",
+      "EDID": "TeddyBear01",
+      "FULL": "Ursinho de pelúcia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A7F",
+      "FORMID": "003A7F",
+      "EDID": "MS15DeclarationRolled",
+      "FULL": "Declaração da Independência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A80",
+      "FORMID": "003A80",
+      "EDID": "MS15MagnaCartaRolled",
+      "FULL": "Magna Carta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003A82",
+      "FORMID": "003A82",
+      "EDID": "MS15BillofRightsRolled",
+      "FULL": "Declaração de Direitos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003AA2",
+      "FORMID": "003AA2",
+      "EDID": "MS15Ink",
+      "FULL": "Recipiente de Tinta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0220FB",
+      "FORMID": "0220FB",
+      "EDID": "MotorcycleGasTank",
+      "FULL": "Tanque de Gasolina de Motocicleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0220FC",
+      "FORMID": "0220FC",
+      "EDID": "PilotLight",
+      "FULL": "Lâmpada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0220FE",
+      "FORMID": "0220FE",
+      "EDID": "MotorcycleHandbrake",
+      "FULL": "Manete de Freio da Moto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0220FF",
+      "FORMID": "0220FF",
+      "EDID": "VacuumCleaner",
+      "FULL": "Aspirador de pó"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022100",
+      "FORMID": "022100",
+      "EDID": "LeafBlower",
+      "FULL": "Soprador de Folhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022101",
+      "FORMID": "022101",
+      "EDID": "FirehoseNozzle",
+      "FULL": "Bocal de Mangueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022102",
+      "FORMID": "022102",
+      "EDID": "Conductor",
+      "FULL": "Condulete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022103",
+      "FORMID": "022103",
+      "EDID": "NukaColaBottle",
+      "FULL": "Garrafa Vazia de Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022104",
+      "FORMID": "022104",
+      "EDID": "TinCan01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022105",
+      "FORMID": "022105",
+      "EDID": "Turpentine",
+      "FULL": "Terebintina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022106",
+      "FORMID": "022106",
+      "EDID": "AbraxoCleaner",
+      "FULL": "Detergente Abraxo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022107",
+      "FORMID": "022107",
+      "EDID": "Lunchbox",
+      "FULL": "Lancheira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022108",
+      "FORMID": "022108",
+      "EDID": "CherryBomb",
+      "FULL": "Bomba Cereja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022109",
+      "FORMID": "022109",
+      "EDID": "SensorModule",
+      "FULL": "Módulo de Sensor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210A",
+      "FORMID": "02210A",
+      "EDID": "WonderGlue",
+      "FULL": "Supercola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210B",
+      "FORMID": "02210B",
+      "EDID": "DeathclawHand",
+      "FULL": "Mão de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210C",
+      "FORMID": "02210C",
+      "EDID": "LeatherBelt",
+      "FULL": "Cinto de Couro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210D",
+      "FORMID": "02210D",
+      "EDID": "MedicalBrace",
+      "FULL": "Tala Médica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210E",
+      "FORMID": "02210E",
+      "EDID": "PaintGun",
+      "FULL": "Pistola de Tinta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02210F",
+      "FORMID": "02210F",
+      "EDID": "RadscorpionPoisonGland",
+      "FULL": "Glândula de Veneno de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022110",
+      "FORMID": "022110",
+      "EDID": "ToyCar",
+      "FULL": "Carrinho de Brinquedo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022111",
+      "FORMID": "022111",
+      "EDID": "SurgicalTubing",
+      "FULL": "Tubo Cirúrgico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022112",
+      "FORMID": "022112",
+      "EDID": "SteamGaugeAssembly",
+      "FULL": "Conjunto do Medidor de Vapor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022113",
+      "FORMID": "022113",
+      "EDID": "PressureCooker",
+      "FULL": "Panela de Pressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022419",
+      "FORMID": "022419",
+      "EDID": "MS15MuseumToken",
+      "FULL": "Ficha do Museu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EDC5",
+      "FORMID": "01EDC5",
+      "EDID": "FFDCBrotherhoodDogtag",
+      "FULL": "Holotag da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02393C",
+      "FORMID": "02393C",
+      "EDID": "MQ02VirgoIIDish",
+      "FULL": "Prato de Virgem II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A3",
+      "FORMID": "0250A3",
+      "EDID": "SurgicalBonesaw01",
+      "FULL": "Serra Cirúrgica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A4",
+      "FORMID": "0250A4",
+      "EDID": "SurgicalScissors01",
+      "FULL": "Tesoura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A5",
+      "FORMID": "0250A5",
+      "EDID": "SurgicalScalpel01",
+      "FULL": "Bisturi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A6",
+      "FORMID": "0250A6",
+      "EDID": "SurgicalTweasers01",
+      "FULL": "Pinça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A7",
+      "FORMID": "0250A7",
+      "EDID": "SurgicalForceps01",
+      "FULL": "Fórceps"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0250A8",
+      "FORMID": "0250A8",
+      "EDID": "SurgicalSyringe01",
+      "FULL": "Seringa Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025235",
+      "FORMID": "025235",
+      "EDID": "Clipboard01",
+      "FULL": "Prancheta Médica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025236",
+      "FORMID": "025236",
+      "EDID": "Clipboard04",
+      "FULL": "Prancheta de Finanças"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025237",
+      "FORMID": "025237",
+      "EDID": "Clipboard03",
+      "FULL": "Prancheta de Ganhos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025238",
+      "FORMID": "025238",
+      "EDID": "Clipboard02",
+      "FULL": "Prancheta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0270F0",
+      "FORMID": "0270F0",
+      "EDID": "MQ04Undies",
+      "FULL": "Lingerie de Renda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0285F8",
+      "FORMID": "0285F8",
+      "EDID": "MQ04RollerSkate",
+      "FULL": "Patim de Rodas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028704",
+      "FORMID": "028704",
+      "EDID": "PassCardRed",
+      "FULL": "Cartão de Acesso Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028706",
+      "FORMID": "028706",
+      "EDID": "PassCardBlue",
+      "FULL": "Cartão de Acesso Azul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028EE6",
+      "FORMID": "028EE6",
+      "EDID": "MS06Recording",
+      "FULL": "A Voz de Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028EE9",
+      "FORMID": "028EE9",
+      "EDID": "MS06Poster",
+      "FULL": "Cartaz do Memorial Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0291D7",
+      "FORMID": "0291D7",
+      "EDID": "MQ04Chandelier",
+      "FULL": "Lustre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0296C0",
+      "FORMID": "0296C0",
+      "EDID": "MQ04Brochure",
+      "FULL": "Brochura da Escola Militar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029171",
+      "FORMID": "029171",
+      "EDID": "NukaTruck",
+      "FULL": "Caminhão da Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B40B",
+      "FORMID": "02B40B",
+      "EDID": "Baseball01",
+      "FULL": "Bola de Beisebol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B40E",
+      "FORMID": "02B40E",
+      "EDID": "Basketball",
+      "FULL": "Basquete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B410",
+      "FORMID": "02B410",
+      "EDID": "BaseballGlove",
+      "FULL": "Luva de Beisebol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B412",
+      "FORMID": "02B412",
+      "EDID": "PoolBall",
+      "FULL": "Bola de Bilhar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B415",
+      "FORMID": "02B415",
+      "EDID": "pool2ball",
+      "FULL": "Duas Bolas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B417",
+      "FORMID": "02B417",
+      "EDID": "pool5ball",
+      "FULL": "5 Bola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B419",
+      "FORMID": "02B419",
+      "EDID": "pool8ball",
+      "FULL": "Bola 8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B41B",
+      "FORMID": "02B41B",
+      "EDID": "pool10ball",
+      "FULL": "Bola 10"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B41D",
+      "FORMID": "02B41D",
+      "EDID": "pool13ball",
+      "FULL": "Bola 13"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B41F",
+      "FORMID": "02B41F",
+      "EDID": "poolcueball",
+      "FULL": "Bola 8"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02C5F6",
+      "FORMID": "02C5F6",
+      "EDID": "poolTriangle",
+      "FULL": "Triângulo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A5",
+      "FORMID": "02D3A5",
+      "EDID": "MS03Sanitizer",
+      "FULL": "Sanitizador de Comida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3B3",
+      "FORMID": "02D3B3",
+      "EDID": "MS03HistoryHolotape",
+      "FULL": "Registro Histórico de Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3B4",
+      "FORMID": "02D3B4",
+      "EDID": "MS03TelemetryUnit",
+      "FULL": "Widget de Processador RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02EDFB",
+      "FORMID": "02EDFB",
+      "EDID": "MS01Lucky8ball",
+      "FULL": "Bola 8 da Sorte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030663",
+      "FORMID": "030663",
+      "EDID": "MS03Observer",
+      "FULL": "Observador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031944",
+      "FORMID": "031944",
+      "EDID": "SpareParts",
+      "FULL": "Sucata de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033BC6",
+      "FORMID": "033BC6",
+      "EDID": "FissionBattery",
+      "FULL": "Bateria de Fissão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034057",
+      "FORMID": "034057",
+      "EDID": "Ashtray",
+      "FULL": "Cinzeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03405E",
+      "FORMID": "03405E",
+      "EDID": "SkullBrahmin",
+      "FULL": "Crânio de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034062",
+      "FORMID": "034062",
+      "EDID": "Camera",
+      "FULL": "Câmera"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034067",
+      "FORMID": "034067",
+      "EDID": "PrewarMoney",
+      "FULL": "Dinheiro pré-guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034068",
+      "FORMID": "034068",
+      "EDID": "CigaretteCarton",
+      "FULL": "Caixa de Cigarros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034069",
+      "FORMID": "034069",
+      "EDID": "CigarettePack",
+      "FULL": "Maço de Cigarros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03406C",
+      "FORMID": "03406C",
+      "EDID": "CoffeeMug01",
+      "FULL": "Caneca de Café"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03406E",
+      "FORMID": "03406E",
+      "EDID": "BoardCutting",
+      "FULL": "Tábua de Corte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03406F",
+      "FORMID": "03406F",
+      "EDID": "BoxDetergent",
+      "FULL": "Caixa de Detergente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034070",
+      "FORMID": "034070",
+      "EDID": "BowlDog",
+      "FULL": "Tigela de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034078",
+      "FORMID": "034078",
+      "EDID": "Fork01",
+      "FULL": "Garfo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03407A",
+      "FORMID": "03407A",
+      "EDID": "GnomeGarden",
+      "FULL": "Gnomo de Jardim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03407B",
+      "FORMID": "03407B",
+      "EDID": "DrinkingGlass01",
+      "FULL": "Copo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034088",
+      "FORMID": "034088",
+      "EDID": "Iron",
+      "FULL": "Ferro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03409C",
+      "FORMID": "03409C",
+      "EDID": "PanCookingMetal",
+      "FULL": "Panela de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03409D",
+      "FORMID": "03409D",
+      "EDID": "Paperweight",
+      "FULL": "Peso de papel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340A0",
+      "FORMID": "0340A0",
+      "EDID": "PlateDinnerCeramic",
+      "FULL": "Prato de Jantar de Cerâmica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340A4",
+      "FORMID": "0340A4",
+      "EDID": "Plunger",
+      "FULL": "Desentupidor de Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340A7",
+      "FORMID": "0340A7",
+      "EDID": "PotCookingMetal",
+      "FULL": "Panela de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340AD",
+      "FORMID": "0340AD",
+      "EDID": "Rake",
+      "FULL": "Rastelo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340B5",
+      "FORMID": "0340B5",
+      "EDID": "ShotGlass01",
+      "FULL": "Copo de dose"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340BB",
+      "FORMID": "0340BB",
+      "EDID": "Spatula01",
+      "FULL": "Espátula"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340BC",
+      "FORMID": "0340BC",
+      "EDID": "Spoon01",
+      "FULL": "Colher de metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A73A",
+      "FORMID": "03A73A",
+      "EDID": "MedicalBraceNew",
+      "FULL": "Tala Médica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BD33",
+      "FORMID": "03BD33",
+      "EDID": "MQ09FEVVial",
+      "FULL": "Vírus FEV Modificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D34D",
+      "FORMID": "03D34D",
+      "EDID": "MQ08GECK",
+      "FULL": "G.E.C.K."
+    },
+    {
+      "FORM": "@FalloutNV.esm:022FF0",
+      "FORMID": "022FF0",
+      "EDID": "MS13CollarMiscObj",
+      "FULL": "Coleira de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025E03",
+      "FORMID": "025E03",
+      "EDID": "LawnmowerBlade",
+      "FULL": "Lâmina de Cortador de Grama"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038832",
+      "FORMID": "038832",
+      "EDID": "BobbleheadSTR",
+      "FULL": "Boneco Cabeçudo - Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038833",
+      "FORMID": "038833",
+      "EDID": "BobbleheadPER",
+      "FULL": "Boneco Cabeçudo - Percepção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038834",
+      "FORMID": "038834",
+      "EDID": "BobbleheadEND",
+      "FULL": "Boneco Cabeçudo - Resistência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038850",
+      "FORMID": "038850",
+      "EDID": "BobbleheadCHA",
+      "FULL": "Boneco Saltitante - Carisma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03885C",
+      "FORMID": "03885C",
+      "EDID": "BobbleheadINT",
+      "FULL": "Boneco Cabeçudo - Inteligência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0388E5",
+      "FORMID": "0388E5",
+      "EDID": "BobbleheadAGL",
+      "FULL": "Boneco Cabeçudo - Agilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0388E6",
+      "FORMID": "0388E6",
+      "EDID": "BobbleheadLUK",
+      "FULL": "Boneco Cabeçudo - Sorte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0388F3",
+      "FORMID": "0388F3",
+      "EDID": "BobbleheadBART",
+      "FULL": "Boneco Cabeçudo - Troca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038906",
+      "FORMID": "038906",
+      "EDID": "BobbleheadBGUN",
+      "FULL": "Boneco Cabeçudo - Armas Pesadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03892F",
+      "FORMID": "03892F",
+      "EDID": "BobbleheadERGW",
+      "FULL": "Boneco Cabeçudo - Armas de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038930",
+      "FORMID": "038930",
+      "EDID": "BobbleheadEXPL",
+      "FULL": "Boneco de Cabeça Trêmula - Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038931",
+      "FORMID": "038931",
+      "EDID": "BobbleheadLOCK",
+      "FULL": "Bobblehead - Gazua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038950",
+      "FORMID": "038950",
+      "EDID": "BobbleheadMEDI",
+      "FULL": "Boneco Cabeçudo - Medicina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038951",
+      "FORMID": "038951",
+      "EDID": "BobbleheadMELE",
+      "FULL": "Boneco Colecionável - Armas Corpo a Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038952",
+      "FORMID": "038952",
+      "EDID": "BobbleheadREPR",
+      "FULL": "Boneco de Cabeça Trêmula - Reparo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038953",
+      "FORMID": "038953",
+      "EDID": "BobbleheadSCNC",
+      "FULL": "Boneco Cabeçudo - Ciência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038954",
+      "FORMID": "038954",
+      "EDID": "BobbleheadSGUN",
+      "FULL": "Boneco Cabeçudo - Armas Leves"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038955",
+      "FORMID": "038955",
+      "EDID": "BobbleheadSNEK",
+      "FULL": "Boneco Saltitante - Furtividade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038956",
+      "FORMID": "038956",
+      "EDID": "BobbleheadSPCH",
+      "FULL": "Boneco Cabeçudo - Oratória"
+    },
+    {
+      "FORM": "@FalloutNV.esm:038958",
+      "FORMID": "038958",
+      "EDID": "BobbleheadUARM",
+      "FULL": "Boneco Cabeçudo - Desarmado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:040D4D",
+      "FORMID": "040D4D",
+      "EDID": "MS18FinGeomapper",
+      "FULL": "Módulo de Geomapeamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045252",
+      "FORMID": "045252",
+      "EDID": "MS06Pennies",
+      "FULL": "Coleção de Moedas Lincoln Antigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045254",
+      "FORMID": "045254",
+      "EDID": "MS06LincolnDiary",
+      "FULL": "Diário de Lincoln"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045256",
+      "FORMID": "045256",
+      "EDID": "MS06AssassinationPoster",
+      "FULL": "Cartaz de Procurado de John Wilkes Booth"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045258",
+      "FORMID": "045258",
+      "EDID": "MS06ActionAbe",
+      "FULL": "Boneco de Ação do Abe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04525A",
+      "FORMID": "04525A",
+      "EDID": "MS06DraftPoster",
+      "FULL": "Cartaz de Alistamento da Guerra Civil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F183",
+      "FORMID": "05F183",
+      "EDID": "Opthalmoscope",
+      "FULL": "Oftalmoscópio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05FAE6",
+      "FORMID": "05FAE6",
+      "EDID": "MS08Note",
+      "FULL": "Holodisco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0604DD",
+      "FORMID": "0604DD",
+      "EDID": "Ear",
+      "FULL": "Orelha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0604DE",
+      "FORMID": "0604DE",
+      "EDID": "Finger",
+      "FULL": "Dedo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06AA59",
+      "FORMID": "06AA59",
+      "EDID": "MS02AntResin",
+      "FULL": "Resina de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B192",
+      "FORMID": "06B192",
+      "EDID": "MS15DeclarationRolledForged",
+      "FULL": "Declaração Forjada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06C55A",
+      "FORMID": "06C55A",
+      "EDID": "RRControlCollar",
+      "FULL": "Coleira de Controle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06CA2F",
+      "FORMID": "06CA2F",
+      "EDID": "MS03LibraryCatalogueHolotape",
+      "FULL": "Fita Holo do Catálogo de Fichários"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06CA30",
+      "FORMID": "06CA30",
+      "EDID": "MS03LibraryArchivesHolotape",
+      "FULL": "Holotape de Arquivos de Mídia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C11D",
+      "FORMID": "07C11D",
+      "EDID": "HD00Workbench",
+      "FULL": "House: Bancada de Trabalho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C120",
+      "FORMID": "07C120",
+      "EDID": "HD00ScienceTheme",
+      "FULL": "House: Tema de Cientista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C121",
+      "FORMID": "07C121",
+      "EDID": "HD00ExplorerTheme",
+      "FULL": "House: Tema do Explorador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C122",
+      "FORMID": "07C122",
+      "EDID": "HD00BoSTheme",
+      "FULL": "House: Tema do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C123",
+      "FORMID": "07C123",
+      "EDID": "HD00PreWarTheme",
+      "FULL": "House: Tema Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C124",
+      "FORMID": "07C124",
+      "EDID": "HD00RaiderTheme",
+      "FULL": "House: Tema de Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C125",
+      "FORMID": "07C125",
+      "EDID": "HD00Jukebox",
+      "FULL": "Casa: Jukebox"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C126",
+      "FORMID": "07C126",
+      "EDID": "HD00NukaCola",
+      "FULL": "House: Máquina de Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C127",
+      "FORMID": "07C127",
+      "EDID": "HD00Lab",
+      "FULL": "House: Meu Primeiro Laboratório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C128",
+      "FORMID": "07C128",
+      "EDID": "HD00Infirmary",
+      "FULL": "House: Minha Primeira Enfermaria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CBCC",
+      "FORMID": "07CBCC",
+      "EDID": "WoodChipper",
+      "FULL": "Picador de Madeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C214",
+      "FORMID": "08C214",
+      "EDID": "CapPresConstitutionRolled",
+      "FULL": "Constituição dos Estados Unidos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C215",
+      "FORMID": "08C215",
+      "EDID": "CapPresEmancRolled",
+      "FULL": "Proclamação de Emancipação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C216",
+      "FORMID": "08C216",
+      "EDID": "CapPresGettysburgRolled",
+      "FULL": "Discurso de Gettysburg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C217",
+      "FORMID": "08C217",
+      "EDID": "CapPresMonroeRolled",
+      "FULL": "Doutrina Monroe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C218",
+      "FORMID": "08C218",
+      "EDID": "CapPresDecWarGermanyRolled",
+      "FULL": "Declaração de Guerra dos E.U.A. contra a Alemanha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C219",
+      "FORMID": "08C219",
+      "EDID": "CapPresDecWarChinaRolled",
+      "FULL": "Declaração de Guerra dos E.U.A. contra a China"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0943F2",
+      "FORMID": "0943F2",
+      "EDID": "PreWarBook",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A807",
+      "FORMID": "09A807",
+      "EDID": "ToasterPostwar",
+      "FULL": "Torradeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A808",
+      "FORMID": "09A808",
+      "EDID": "ToasterPrewar",
+      "FULL": "Torradeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09A809",
+      "FORMID": "09A809",
+      "EDID": "Chessboard",
+      "FULL": "Tabuleiro de xadrez"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09AA4E",
+      "FORMID": "09AA4E",
+      "EDID": "SodaBottleEmpty01",
+      "FULL": "Garrafa de Refrigerante Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B52C",
+      "FORMID": "05B52C",
+      "EDID": "Cigarette01",
+      "FULL": "Cigarro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B59F",
+      "FORMID": "05B59F",
+      "EDID": "DinnerPlate01",
+      "FULL": "Prato de Jantar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B5A9",
+      "FORMID": "05B5A9",
+      "EDID": "MS15SecurityModule",
+      "FULL": "Módulo de Senha de Computador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B633",
+      "FORMID": "05B633",
+      "EDID": "DrinkingGlass02",
+      "FULL": "Copo de Vidro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B634",
+      "FORMID": "05B634",
+      "EDID": "GardenGnome01",
+      "FULL": "Gnomo de Jardim Intacto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B635",
+      "FORMID": "05B635",
+      "EDID": "GardenGnomeDestroyed01",
+      "FULL": "Gnomo de Jardim Danificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B636",
+      "FORMID": "05B636",
+      "EDID": "GlassPitcher01",
+      "FULL": "Jarro de Vidro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B637",
+      "FORMID": "05B637",
+      "EDID": "Hammer01",
+      "FULL": "Martelo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B638",
+      "FORMID": "05B638",
+      "EDID": "Harmonica01",
+      "FULL": "Gaita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B639",
+      "FORMID": "05B639",
+      "EDID": "Knife01",
+      "FULL": "Faca de Manteiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63A",
+      "FORMID": "05B63A",
+      "EDID": "Knife02",
+      "FULL": "Faca de Manteiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63B",
+      "FORMID": "05B63B",
+      "EDID": "Milkbottle01",
+      "FULL": "Garrafa de Leite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63C",
+      "FORMID": "05B63C",
+      "EDID": "Pencil01",
+      "FULL": "Lápis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63D",
+      "FORMID": "05B63D",
+      "EDID": "Plate01",
+      "FULL": "Placa Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63E",
+      "FORMID": "05B63E",
+      "EDID": "Plate02",
+      "FULL": "Prato Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B63F",
+      "FORMID": "05B63F",
+      "EDID": "Plate03",
+      "FULL": "Prato Esverdeado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B640",
+      "FORMID": "05B640",
+      "EDID": "SpoonBig01",
+      "FULL": "Conchinha Maior"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B641",
+      "FORMID": "05B641",
+      "EDID": "Spork01",
+      "FULL": "Garfolher"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CA",
+      "FORMID": "05B6CA",
+      "EDID": "TinCan02",
+      "FULL": "Lata de Metal Amassada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CB",
+      "FORMID": "05B6CB",
+      "EDID": "WhetStone01",
+      "FULL": "Pedra de Amolar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CD",
+      "FORMID": "05B6CD",
+      "EDID": "ScotchBottle01Empty01",
+      "FULL": "Garrafa Grande de Uísque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6CE",
+      "FORMID": "05B6CE",
+      "EDID": "WhiskeyBottle01Empty01",
+      "FULL": "Garrafa de Uísque Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6D0",
+      "FORMID": "05B6D0",
+      "EDID": "Wrench01",
+      "FULL": "Chave de boca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A8745",
+      "FORMID": "0A8745",
+      "EDID": "AWMFFDoorComponent",
+      "FULL": "Componente da Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E69",
+      "FORMID": "0A9E69",
+      "EDID": "BurnedBook02",
+      "FULL": "Livrinho Arruinado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6A",
+      "FORMID": "0A9E6A",
+      "EDID": "BurnedBook03",
+      "FULL": "Livro Pequeno e Queimado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6B",
+      "FORMID": "0A9E6B",
+      "EDID": "BurnedBook04",
+      "FULL": "Livro Pequeno Destruído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6C",
+      "FORMID": "0A9E6C",
+      "EDID": "BurnedBook05",
+      "FULL": "Livro Grande Queimado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6D",
+      "FORMID": "0A9E6D",
+      "EDID": "BurnedBook06",
+      "FULL": "Livro Grande Arruinado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6E",
+      "FORMID": "0A9E6E",
+      "EDID": "BurnedBook07",
+      "FULL": "Livro Chamuscado Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E6F",
+      "FORMID": "0A9E6F",
+      "EDID": "BurnedBook08",
+      "FULL": "Livro Grande Destruído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9E70",
+      "FORMID": "0A9E70",
+      "EDID": "BurnedBook01",
+      "FULL": "Livrinho Queimado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFBC",
+      "FORMID": "0BAFBC",
+      "EDID": "FactoryID",
+      "FULL": "ID de Funcionário da Fábrica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFA",
+      "FORMID": "0BAFFA",
+      "EDID": "SchematicsDartGunItem",
+      "FULL": "Esquemas - Arma de Dardos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFB",
+      "FORMID": "0BAFFB",
+      "EDID": "SchematicsBottlecapMineItem",
+      "FULL": "Esquemas - Mina de Garrafa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFC",
+      "FORMID": "0BAFFC",
+      "EDID": "SchematicsDeathclawGauntletItem",
+      "FULL": "Esquemas - Manopla de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFD",
+      "FORMID": "0BAFFD",
+      "EDID": "SchematicsNukaCocktailItem",
+      "FULL": "Esquemas - Nuka-Granada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFE",
+      "FORMID": "0BAFFE",
+      "EDID": "SchematicsRailwayRifleItem",
+      "FULL": "Esquemas - Rifle de Trilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAFFF",
+      "FORMID": "0BAFFF",
+      "EDID": "SchematicsRockItLauncherItem",
+      "FULL": "Esquemas - Lançador de Coisas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB000",
+      "FORMID": "0BB000",
+      "EDID": "SchematicsShishkebabItem",
+      "FULL": "Esquemas - Shishkebab"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0033FF",
+      "FORMID": "0033FF",
+      "EDID": "MS17SoilStrad",
+      "FULL": "Stradivarius do Solo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01B01F",
+      "FORMID": "01B01F",
+      "EDID": "Crutch",
+      "FULL": "Muleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02541B",
+      "FORMID": "02541B",
+      "EDID": "BigPot",
+      "FULL": "Caldeirão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02541C",
+      "FORMID": "02541C",
+      "EDID": "Plate04",
+      "FULL": "Chapa de Estanho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025421",
+      "FORMID": "025421",
+      "EDID": "CoffeeKettle",
+      "FULL": "Cafeteira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0347DE",
+      "FORMID": "0347DE",
+      "EDID": "FFEC09OfficerID",
+      "FULL": "ID Rho Experimental"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0391B1",
+      "FORMID": "0391B1",
+      "EDID": "MilitaryID",
+      "FULL": "Identificação Militar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03997E",
+      "FORMID": "03997E",
+      "EDID": "OfficeID",
+      "FULL": "Identificação de Funcionário do Escritório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:039B5F",
+      "FORMID": "039B5F",
+      "EDID": "UtilityID",
+      "FULL": "ID de Funcionário da Utilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E56A",
+      "FORMID": "03E56A",
+      "EDID": "MS10Liniment",
+      "FULL": "Linimento da Laurel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0504D7",
+      "FORMID": "0504D7",
+      "EDID": "MS10TestTubeEmpty",
+      "FULL": "Recipiente de Seiva Vazio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0504DA",
+      "FORMID": "0504DA",
+      "EDID": "MS10TestTubeFull",
+      "FULL": "Seiva de Bétula"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A6CE",
+      "FORMID": "05A6CE",
+      "EDID": "MS10RewardBearCharm",
+      "FULL": "Amuleto de Urso de Yew"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06EEE7",
+      "FORMID": "06EEE7",
+      "EDID": "BodyPart01",
+      "FULL": "Braço Mutilado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F2D8",
+      "FORMID": "06F2D8",
+      "EDID": "BodyPart02",
+      "FULL": "Perna Mutilada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F2D9",
+      "FORMID": "06F2D9",
+      "EDID": "BodyPart03",
+      "FULL": "Órgãos Mutilados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F2DA",
+      "FORMID": "06F2DA",
+      "EDID": "BodyPart04",
+      "FULL": "Torso Mutilado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074170",
+      "FORMID": "074170",
+      "EDID": "BodyPart05",
+      "FULL": "Crânio Mutilado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074EE1",
+      "FORMID": "074EE1",
+      "EDID": "Flour",
+      "FULL": "Farinha de Trigo Integral"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BF20F",
+      "FORMID": "0BF20F",
+      "EDID": "MS15PrizeVoucher",
+      "FULL": "Vale-prêmio dos Arquivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C5D24",
+      "FORMID": "0C5D24",
+      "EDID": "BookGeneric01",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C7AF0",
+      "FORMID": "0C7AF0",
+      "EDID": "HD00LoveTheme",
+      "FULL": "House: Tema da Máquina do Amor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8503",
+      "FORMID": "0C8503",
+      "EDID": "MS08AndroidComponent",
+      "FULL": "Componente Android"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C9403",
+      "FORMID": "0C9403",
+      "EDID": "JournalGeneric",
+      "FULL": "Livro da Danielle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CADE6",
+      "FORMID": "0CADE6",
+      "EDID": "MS05NukaColaDisk",
+      "FULL": "Fórmula da Nuka-Cola Clear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAFA2",
+      "FORMID": "0CAFA2",
+      "EDID": "JundersPlunkettFinger",
+      "FULL": "Dedo de Junders Plunkett"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05516B",
+      "FORMID": "05516B",
+      "EDID": "HotPlate",
+      "FULL": "Chapa Quente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06835F",
+      "FORMID": "06835F",
+      "EDID": "MS17FinSheetMusicBook",
+      "FULL": "Livro de Partituras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:070CD4",
+      "FORMID": "070CD4",
+      "EDID": "MS18DonovansWrench",
+      "FULL": "Chave Inglesa do Donovan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A795",
+      "FORMID": "05A795",
+      "EDID": "xMS03survivalGuideBookItem",
+      "FULL": "Guia de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0842D7",
+      "FORMID": "0842D7",
+      "EDID": "ComputerParts",
+      "FULL": "Módulos de Controle de Impulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:087AEA",
+      "FORMID": "087AEA",
+      "EDID": "VMS01Parts",
+      "FULL": "Módulos de Controle de Impulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D21F",
+      "FORMID": "08D21F",
+      "EDID": "VMS01Fuel",
+      "FULL": "Material Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08E664",
+      "FORMID": "08E664",
+      "EDID": "VMS01DinoSouvenir",
+      "FULL": "Lembrancinha do Dinky, o T-Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08E665",
+      "FORMID": "08E665",
+      "EDID": "VMS01RocketSouvenir",
+      "FULL": "Lembrancinha de Foguete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090B7F",
+      "FORMID": "090B7F",
+      "EDID": "VNovacSouvenirKeyMisc",
+      "FULL": "Chave do Depósito da Mordida do Dino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B1DF4",
+      "FORMID": "0B1DF4",
+      "EDID": "VMS01NuclearJar",
+      "FULL": "Agente de Ignição de Isótopo-239"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD18B",
+      "FORMID": "0CD18B",
+      "EDID": "DinoToy",
+      "FULL": "Brinquedo de Dino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29DE",
+      "FORMID": "0E29DE",
+      "EDID": "DLC03TeslaCoil",
+      "FULL": "Bobina Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E44AA",
+      "FORMID": "0E44AA",
+      "EDID": "HVRangerNoteItem",
+      "FULL": "Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6627",
+      "FORMID": "0E6627",
+      "EDID": "DeathclawEggNV",
+      "FULL": "Ovo de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7C18",
+      "FORMID": "0E7C18",
+      "EDID": "QJChems",
+      "FULL": "Químicos para droga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810E",
+      "FORMID": "0E810E",
+      "EDID": "CuddlesToyCarUnnamed",
+      "FULL": "Carrinho de Brinquedo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810F",
+      "FORMID": "0E810F",
+      "EDID": "CuddlesToyCar",
+      "FULL": "Carrinho de Brinquedo do Cuddles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB40B",
+      "FORMID": "0EB40B",
+      "EDID": "ScottEGnome",
+      "FULL": "Gnomo Maligno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE6CC",
+      "FORMID": "0EE6CC",
+      "EDID": "MantisLeg",
+      "FULL": "Perna Dianteira de Louva-a-Deus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA6D",
+      "FORMID": "0EEA6D",
+      "EDID": "NVTrailCarbineScope",
+      "FULL": "Mira de Carabina de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA6E",
+      "FORMID": "0EEA6E",
+      "EDID": "NVTrailCarbineLam",
+      "FULL": "Coronha Laminada para Carabina de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA6F",
+      "FORMID": "0EEA6F",
+      "EDID": "NVTrailCarbineSteel",
+      "FULL": "Ação Customizada da Carabina de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF40D",
+      "FORMID": "0EF40D",
+      "EDID": "V22MantisEgg",
+      "FULL": "Ovo de Louva-a-Deus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFAE0",
+      "FORMID": "0EFAE0",
+      "EDID": "V22FoodAdditive",
+      "FULL": "Aditivo Alimentar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFB3C",
+      "FORMID": "0EFB3C",
+      "EDID": "SchematicsMantisScytheItem",
+      "FULL": "Esquemas - Foice de Louva-Deus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D50",
+      "FORMID": "0F3D50",
+      "EDID": "V22BaileysKeycard",
+      "FULL": "Cartão-chave da porta da caverna do Vault 22"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4C28",
+      "FORMID": "0F4C28",
+      "EDID": "KeelyResearchNotes",
+      "FULL": "Anotações de Pesquisa de Keely"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81BE",
+      "FORMID": "0F81BE",
+      "EDID": "HeadViolet",
+      "FULL": "Cabeça da Violet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81BF",
+      "FORMID": "0F81BF",
+      "EDID": "HeadCookCook",
+      "FULL": "Cabeça de Cook-Cook"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81C0",
+      "FORMID": "0F81C0",
+      "EDID": "HeadDriverNephi",
+      "FULL": "Cabeça do Motorista Nephi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F827F",
+      "FORMID": "0F827F",
+      "EDID": "VMS08Charge",
+      "FULL": "Carga Explosiva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8891",
+      "FORMID": "0F8891",
+      "EDID": "VMS13TeddyBear",
+      "FULL": "Ursinho de pelúcia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB0E9",
+      "FORMID": "0FB0E9",
+      "EDID": "1ELoadedDice",
+      "FULL": "Cartas Marcadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC963",
+      "FORMID": "0FC963",
+      "EDID": "VMS08PlansItem",
+      "FULL": "Planos de Sabotagem do Monotrilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BA",
+      "FORMID": "0FC9BA",
+      "EDID": "BookGeneric03b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BB",
+      "FORMID": "0FC9BB",
+      "EDID": "BookGeneric04b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BC",
+      "FORMID": "0FC9BC",
+      "EDID": "BookGeneric05b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BD",
+      "FORMID": "0FC9BD",
+      "EDID": "BookGeneric06b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BE",
+      "FORMID": "0FC9BE",
+      "EDID": "BookGeneric07b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9BF",
+      "FORMID": "0FC9BF",
+      "EDID": "BookGeneric08b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9C0",
+      "FORMID": "0FC9C0",
+      "EDID": "BookGeneric02b",
+      "FULL": "Livro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100634",
+      "FORMID": "100634",
+      "EDID": "VMS15DeployableBallast",
+      "FULL": "Lastro Implantável"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1017C6",
+      "FORMID": "1017C6",
+      "EDID": "NVSSCap",
+      "FULL": "Tampinha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10291C",
+      "FORMID": "10291C",
+      "EDID": "SSHQDeputyBadge",
+      "FULL": "Distintivo de Delegado Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1B",
+      "FORMID": "103B1B",
+      "EDID": "SSBottleEmpty",
+      "FULL": "Garrafa Vazia de Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1C",
+      "FORMID": "103B1C",
+      "EDID": "NVStarBottleCap",
+      "FULL": "Tampinha Estelar Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104173",
+      "FORMID": "104173",
+      "EDID": "HeadVioletMangled",
+      "FULL": "Cabeça Destroçada da Violet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104174",
+      "FORMID": "104174",
+      "EDID": "HeadCookCookMangled",
+      "FULL": "Cabeça Mutilada do Cook-Cook"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104175",
+      "FORMID": "104175",
+      "EDID": "HeadDriverNephiMangled",
+      "FULL": "Cabeça Destroçada do Motorista Nephi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10417F",
+      "FORMID": "10417F",
+      "EDID": "NellisSonicEmitter",
+      "FULL": "Emissor Sônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104A2D",
+      "FORMID": "104A2D",
+      "EDID": "NellisTeddyBear",
+      "FULL": "Senhor Cuddles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:107AF3",
+      "FORMID": "107AF3",
+      "EDID": "VMS15BoomerOutfit",
+      "FULL": "Roupa de Boomer para Janet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A1F6",
+      "FORMID": "10A1F6",
+      "EDID": "VCG02Bottle",
+      "FULL": "Garrafa de Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115CD4",
+      "FORMID": "115CD4",
+      "EDID": "VCounterfeitPassport",
+      "FULL": "Passaporte Falsificado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115F04",
+      "FORMID": "115F04",
+      "EDID": "VBennysCigarette",
+      "FULL": "Bituca de Cigarro Diferenciada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115F05",
+      "FORMID": "115F05",
+      "EDID": "VBennysLighter",
+      "FULL": "Isqueiro Gravado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1161E9",
+      "FORMID": "1161E9",
+      "EDID": "VHousePassport",
+      "FULL": "Passaporte de New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164FB",
+      "FORMID": "1164FB",
+      "EDID": "VPlatinumChip",
+      "FULL": "O Chip de Platina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11678E",
+      "FORMID": "11678E",
+      "EDID": "VPlatinumChipDUPLICATE000",
+      "FULL": "Ficha de Platina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116A3B",
+      "FORMID": "116A3B",
+      "EDID": "VTopsTommysCard",
+      "FULL": "Cartão de Visita de Tommy Torini"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1175A2",
+      "FORMID": "1175A2",
+      "EDID": "NVFakeGolfBall",
+      "FULL": "Bola de Golfe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11836D",
+      "FORMID": "11836D",
+      "EDID": "NVFakePingPongBall",
+      "FULL": "Bola de Pingue-pongue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A581",
+      "FORMID": "11A581",
+      "EDID": "SchematicsMichaelAngeloProp",
+      "FULL": "Esquemas - Outdoor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BC7E",
+      "FORMID": "11BC7E",
+      "EDID": "VMS21Thermite",
+      "FULL": "Termita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C0E6",
+      "FORMID": "11C0E6",
+      "EDID": "JetEmpty",
+      "FULL": "Inalador de Jet Vazio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11ED81",
+      "FORMID": "11ED81",
+      "EDID": "VMS21Chlorine",
+      "FULL": "Recipiente de Cloro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F55A",
+      "FORMID": "11F55A",
+      "EDID": "VMS21WeaponsShipment",
+      "FULL": "Remessa de Armas Desmontadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F8C0",
+      "FORMID": "11F8C0",
+      "EDID": "VFSFistoData",
+      "FULL": "Holodisco de Sexobot do Ralph"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210F9",
+      "FORMID": "1210F9",
+      "EDID": "VMSRSAlphaClipboard",
+      "FULL": "Diário de Lineholm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210FA",
+      "FORMID": "1210FA",
+      "EDID": "VMSRSBravoClipboard",
+      "FULL": "Diário de Ericsen"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210FB",
+      "FORMID": "1210FB",
+      "EDID": "VMSRSCharlieClipboard",
+      "FULL": "Manifesto de Suprimentos da Estação Charlie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210FC",
+      "FORMID": "1210FC",
+      "EDID": "VMSRSDeltaClipboard",
+      "FULL": "Chip de Memória GBRM2KX"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210FD",
+      "FORMID": "1210FD",
+      "EDID": "VMSRSEchoClipboard",
+      "FULL": "Diário de Bordo de Erasmus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210FE",
+      "FORMID": "1210FE",
+      "EDID": "VMSRSFoxtrotClipboard",
+      "FULL": "Registro de Relatório de Kudlow"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12115E",
+      "FORMID": "12115E",
+      "EDID": "DrainedSmallEnergyCell",
+      "FULL": "Célula de Energia Pequena Esgotada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122005",
+      "FORMID": "122005",
+      "EDID": "VMS30SupplyShipment",
+      "FULL": "Remessa de Suprimentos do Acampamento Forlorn Hope"
+    },
+    {
+      "FORM": "@FalloutNV.esm:123054",
+      "FORMID": "123054",
+      "EDID": "NCRDogtag",
+      "FULL": "Medalha de Identificação da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251CB",
+      "FORMID": "1251CB",
+      "EDID": "VFSSilverRushPackage",
+      "FULL": "Pacote Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252D1",
+      "FORMID": "1252D1",
+      "EDID": "VMS35AutomaticSurgicalUnit",
+      "FULL": "Unidade Cirúrgica Automática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125AF1",
+      "FORMID": "125AF1",
+      "EDID": "VMS18Sample",
+      "FULL": "Sangue de Ted Gunderson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125C30",
+      "FORMID": "125C30",
+      "EDID": "HowitzerFiringMechanism",
+      "FULL": "Mecanismo de Disparo do Obuseiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125F4C",
+      "FORMID": "125F4C",
+      "EDID": "LegionEar",
+      "FULL": "Orelha da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127225",
+      "FORMID": "127225",
+      "EDID": "VFSDebtCapsSantiago",
+      "FULL": "Saco de Chapas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127226",
+      "FORMID": "127226",
+      "EDID": "VFSDebtCapsLadyJane",
+      "FULL": "Saco de Chapas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127227",
+      "FORMID": "127227",
+      "EDID": "VFSDebtCapsGrecks",
+      "FULL": "Saco de Chapas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127931",
+      "FORMID": "127931",
+      "EDID": "VMS30MedicalReport",
+      "FULL": "Relatório Médico do Dr. Richard"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127C6B",
+      "FORMID": "127C6B",
+      "EDID": "Microphone",
+      "FULL": "Microfone e Suporte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129D1D",
+      "FORMID": "129D1D",
+      "EDID": "InfectedBrahminMeat",
+      "FULL": "Carne de Brahmin Infectada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B039",
+      "FORMID": "12B039",
+      "EDID": "VMS31EmptyHydraSyringe",
+      "FULL": "Seringa Hidra Vazia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130D0B",
+      "FORMID": "130D0B",
+      "EDID": "VBSDirtySupplies",
+      "FULL": "Depósito de Suprimentos Radioativos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130D0C",
+      "FORMID": "130D0C",
+      "EDID": "VBSGreatKhanSupplies",
+      "FULL": "Depósito de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1343E8",
+      "FORMID": "1343E8",
+      "EDID": "NVCCLegionPlans",
+      "FULL": "Planos de Ataque da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1344A4",
+      "FORMID": "1344A4",
+      "EDID": "VFSFistoTerminalCard",
+      "FULL": "Cartão de Acesso ao Terminal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13494E",
+      "FORMID": "13494E",
+      "EDID": "VMS38MantisEggs",
+      "FULL": "Pilha de Ovo de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134995",
+      "FORMID": "134995",
+      "EDID": "VBSPsychologyBook",
+      "FULL": "Estresse e o Refugiado Moderno: Uma Cartilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134996",
+      "FORMID": "134996",
+      "EDID": "VBSPediatricsBook",
+      "FULL": "Bebês Pequenos, Pequenos: Tudo Que Você Precisa Saber Sobre Medicina Pediátrica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1349C2",
+      "FORMID": "1349C2",
+      "EDID": "NVCCLegionNotes",
+      "FULL": "Notas da Patrulha da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135128",
+      "FORMID": "135128",
+      "EDID": "NVCCLegionNotesOld",
+      "FULL": "Anotações da Patrulha da Legião Antiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135129",
+      "FORMID": "135129",
+      "EDID": "NVCCLegionPlansOld",
+      "FULL": "Planos Antigos de Ataque da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135A3B",
+      "FORMID": "135A3B",
+      "EDID": "NVCCNCRbug",
+      "FULL": "Inseto da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1367FB",
+      "FORMID": "1367FB",
+      "EDID": "FortMelodyBear",
+      "FULL": "Sargento Teddy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13722B",
+      "FORMID": "13722B",
+      "EDID": "vNiptonMayorJournal2",
+      "FULL": "Diário do Prefeito Steyn 2\/2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13722C",
+      "FORMID": "13722C",
+      "EDID": "vNiptonMayorJournal",
+      "FULL": "Diário do Prefeito Steyn 1\/2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1374AE",
+      "FORMID": "1374AE",
+      "EDID": "vMarkOfCaesar",
+      "FULL": "Marca de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E6",
+      "FORMID": "1378E6",
+      "EDID": "VMS38FireGeckoEggs",
+      "FULL": "Pilha de Ovos de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E7",
+      "FORMID": "1378E7",
+      "EDID": "VMS38NightStalkerEggs",
+      "FULL": "Pilha de Ovos de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E8",
+      "FORMID": "1378E8",
+      "EDID": "VMS38CazadorEggs",
+      "FULL": "Ninho de Ovos de Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E9",
+      "FORMID": "1378E9",
+      "EDID": "VMS38DeathclawEggs",
+      "FULL": "Pilha de Ovos de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378EA",
+      "FORMID": "1378EA",
+      "EDID": "VMS38ScorpionEggs",
+      "FULL": "Pilha de Ovos de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137AD6",
+      "FORMID": "137AD6",
+      "EDID": "VMQ03aVertibirdBombDetonator",
+      "FULL": "Detonador de Segurança Reserva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137B9D",
+      "FORMID": "137B9D",
+      "EDID": "LegionMoney1",
+      "FULL": "Denário da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A4D6",
+      "FORMID": "13A4D6",
+      "EDID": "NCRMoney5",
+      "FULL": "$5 NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A4D7",
+      "FORMID": "13A4D7",
+      "EDID": "NCRMoney20",
+      "FULL": "20 NCR$"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A4D8",
+      "FORMID": "13A4D8",
+      "EDID": "NCRMoney100",
+      "FULL": "100 NCR$"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A4D9",
+      "FORMID": "13A4D9",
+      "EDID": "LegionMoney25",
+      "FULL": "Áureo da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13ABDC",
+      "FORMID": "13ABDC",
+      "EDID": "VBSBarnabasBear",
+      "FULL": "Barnabas Bear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2AF",
+      "FORMID": "13B2AF",
+      "EDID": "BarkScorpionPoisonGland",
+      "FULL": "Glândula de Veneno de Escorpião Casca-dura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B0",
+      "FORMID": "13B2B0",
+      "EDID": "CazadorPoisonGland",
+      "FULL": "Glândula de Veneno de Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B1",
+      "FORMID": "13B2B1",
+      "EDID": "ScrapElectronics",
+      "FULL": "Componentes Eletrônicos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B2",
+      "FORMID": "13B2B2",
+      "EDID": "DuctTape",
+      "FULL": "Fita Isolante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B3",
+      "FORMID": "13B2B3",
+      "EDID": "EggTimer",
+      "FULL": "Temporizador de Ovos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B5",
+      "FORMID": "13B2B5",
+      "EDID": "GeckoHide",
+      "FULL": "Couro de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B6",
+      "FORMID": "13B2B6",
+      "EDID": "GeckoGoldenHide",
+      "FULL": "Couro de Gecko-Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B7",
+      "FORMID": "13B2B7",
+      "EDID": "GeckoFireHide",
+      "FULL": "Couro de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2B8",
+      "FORMID": "13B2B8",
+      "EDID": "NightStalkerBlood",
+      "FULL": "Sangue de Cães-Noturnos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13C6F9",
+      "FORMID": "13C6F9",
+      "EDID": "VMQ03bBomb",
+      "FULL": "Bomba de Vertibird"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52D",
+      "FORMID": "13D52D",
+      "EDID": "GeckoFireHideTanned",
+      "FULL": "Couro de Gecko Flamejante Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52E",
+      "FORMID": "13D52E",
+      "EDID": "GeckoGoldenHideTanned",
+      "FULL": "Couro de Gecko Dourado Curtido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D52F",
+      "FORMID": "13D52F",
+      "EDID": "GeckoHideTanned",
+      "FULL": "Couro de Gecko Bronzeado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D851",
+      "FORMID": "13D851",
+      "EDID": "VMS24BrainLupa",
+      "FULL": "Cérebro do Lupa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D852",
+      "FORMID": "13D852",
+      "EDID": "VMS24BrainRey",
+      "FULL": "Cérebro do Rey"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5BA",
+      "FORMID": "13E5BA",
+      "EDID": "VMS24BrainVioletta",
+      "FULL": "Cérebro de Violetta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13FE77",
+      "FORMID": "13FE77",
+      "EDID": "IrradiatedNCRDogtag",
+      "FULL": "Dogtag da NCR Irradiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA2",
+      "FORMID": "140AA2",
+      "EDID": "Case357Magnum",
+      "FULL": "Estojo, .357 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA3",
+      "FORMID": "140AA3",
+      "EDID": "Case44Magnum",
+      "FULL": "Estojo, .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA4",
+      "FORMID": "140AA4",
+      "EDID": "Case4570Govt",
+      "FULL": "Estojo, .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA5",
+      "FORMID": "140AA5",
+      "EDID": "Case308",
+      "FULL": "Estojo, .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA6",
+      "FORMID": "140AA6",
+      "EDID": "Case50MG",
+      "FULL": "Estojo, .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA7",
+      "FORMID": "140AA7",
+      "EDID": "Case10mm",
+      "FULL": "Estojo, 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA9",
+      "FORMID": "140AA9",
+      "EDID": "PrimerSmallPistol",
+      "FULL": "Espoleta, Pistola Pequena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAA",
+      "FORMID": "140AAA",
+      "EDID": "PrimerLargePistol",
+      "FULL": "Espoleta, Pistola Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAB",
+      "FORMID": "140AAB",
+      "EDID": "PrimerLargeRifle",
+      "FULL": "Espoleta, Rifle Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AAC",
+      "FORMID": "140AAC",
+      "EDID": "Primer50MG",
+      "FULL": "Espoleta, .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB2",
+      "FORMID": "140AB2",
+      "EDID": "PowderPistol",
+      "FULL": "Pó, Pistola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB3",
+      "FORMID": "140AB3",
+      "EDID": "PowderRifle",
+      "FULL": "Pó, Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ADD",
+      "FORMID": "140ADD",
+      "EDID": "Case9mm",
+      "FULL": "Estojo, 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ADE",
+      "FORMID": "140ADE",
+      "EDID": "Case5mm",
+      "FULL": "Estojo, 5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140ADF",
+      "FORMID": "140ADF",
+      "EDID": "Case556mm",
+      "FULL": "Estojo, 5.56mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AE0",
+      "FORMID": "140AE0",
+      "EDID": "PrimerSmallRifle",
+      "FULL": "Espoleta, Rifle Pequeno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEA",
+      "FORMID": "140AEA",
+      "EDID": "Hull20Ga",
+      "FULL": "Projétil, Calibre 20"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEB",
+      "FORMID": "140AEB",
+      "EDID": "Hull12Ga",
+      "FULL": "Projétil, Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AEC",
+      "FORMID": "140AEC",
+      "EDID": "PrimerShotshell",
+      "FULL": "Espoleta, Cartucho de Escopeta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C2F",
+      "FORMID": "140C2F",
+      "EDID": "Lead",
+      "FULL": "Chumbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA1",
+      "FORMID": "140CA1",
+      "EDID": "NVSentryBotToyItemBroken",
+      "FULL": "Brinquedo de Robô Sentinela Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA2",
+      "FORMID": "140CA2",
+      "EDID": "NVSentryBotToyItem",
+      "FULL": "Brinquedo de Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429D3",
+      "FORMID": "1429D3",
+      "EDID": "Case127mm",
+      "FULL": "Estojo, 12,7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144674",
+      "FORMID": "144674",
+      "EDID": "VRRCLegionSlaveLedger",
+      "FULL": "Livro-razão de Escravos da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EB6",
+      "FORMID": "144EB6",
+      "EDID": "VRRCKarlsJournal",
+      "FULL": "Diário de Karl"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146618",
+      "FORMID": "146618",
+      "EDID": "CampSearchlightRadSuit",
+      "FULL": "Pacote de Roupa Antirradiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1466A8",
+      "FORMID": "1466A8",
+      "EDID": "VRRCCrimsonCaravanDrugs",
+      "FULL": "Pacote Ligeiramente Suspeito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1466A9",
+      "FORMID": "1466A9",
+      "EDID": "VRRCVault3Drugs",
+      "FULL": "Pacote Altamente Suspeito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147748",
+      "FORMID": "147748",
+      "EDID": "VMS41ChewedStealthBoy",
+      "FULL": "Stealth Boy mastigado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482D5",
+      "FORMID": "1482D5",
+      "EDID": "VRRCMisfitsDrugs",
+      "FULL": "Pacote Suspeito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F5",
+      "FORMID": "1482F5",
+      "EDID": "CampSearchlightFragGrenade",
+      "FULL": "Granada de Fragmentação da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F6",
+      "FORMID": "1482F6",
+      "EDID": "CampSearchlightRadioParts02",
+      "FULL": "Peças de Rádio da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F7",
+      "FORMID": "1482F7",
+      "EDID": "CampSearchlightComputerParts02",
+      "FULL": "Peças de Computador da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F8",
+      "FORMID": "1482F8",
+      "EDID": "CampSearchlightRadioParts",
+      "FULL": "Peças de Rádio da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F9",
+      "FORMID": "1482F9",
+      "EDID": "CampSearchlightComputerParts",
+      "FULL": "Peças de Computador da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482FA",
+      "FORMID": "1482FA",
+      "EDID": "CampSearchlight10mmPistol",
+      "FULL": "Pistola 10mm da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482FB",
+      "FORMID": "1482FB",
+      "EDID": "CampSearchlight9mmSMG",
+      "FULL": "Submetralhadora 9mm da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482FC",
+      "FORMID": "1482FC",
+      "EDID": "CampSearchlightGrenadeRifle",
+      "FULL": "Fuzil de Granadas da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148430",
+      "FORMID": "148430",
+      "EDID": "DogTagNoteMisc",
+      "FULL": "Nota de Halford"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148C25",
+      "FORMID": "148C25",
+      "EDID": "VRRCMongolsBook",
+      "FULL": "Pretty Pretty Horsies: Uma História do Império Mongol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B29F",
+      "FORMID": "14B29F",
+      "EDID": "NVCGLogPage",
+      "FULL": "Página do Registro do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1554ED",
+      "FORMID": "1554ED",
+      "EDID": "VHDOverrideChip",
+      "FULL": "Chip de Substituição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157249",
+      "FORMID": "157249",
+      "EDID": "VMS35SurgicalTools",
+      "FULL": "Ferramentas Cirúrgicas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157381",
+      "FORMID": "157381",
+      "EDID": "CounterfeitCaps",
+      "FULL": "Tampinha Falsificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C629",
+      "FORMID": "15C629",
+      "EDID": "DrainedMicrofusionCell",
+      "FULL": "Célula de Microfusão Drenada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C62A",
+      "FORMID": "15C62A",
+      "EDID": "DrainedElectronChargePack",
+      "FULL": "Pacote de Carga de Elétrons Descarregado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C631",
+      "FORMID": "15C631",
+      "EDID": "DrainedFlamerFuelTank",
+      "FULL": "Tanque de Combustível de Lança-chamas Esgotado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D914",
+      "FORMID": "15D914",
+      "EDID": "DoggieTreat",
+      "FULL": "Petisco Canino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9AF",
+      "FORMID": "15D9AF",
+      "EDID": "NVCentaurBlood",
+      "FULL": "Sangue de Centauro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9B0",
+      "FORMID": "15D9B0",
+      "EDID": "NVCoyoteHide",
+      "FULL": "Couro de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9B1",
+      "FORMID": "15D9B1",
+      "EDID": "NVDogHide",
+      "FULL": "Couro de Cão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9D7",
+      "FORMID": "15D9D7",
+      "EDID": "HVScoutReport03",
+      "FULL": "Relatório do Batedor da Irmandade do Aço #3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9D8",
+      "FORMID": "15D9D8",
+      "EDID": "HVMissionDisc02",
+      "FULL": "Holotape da Missão da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9D9",
+      "FORMID": "15D9D9",
+      "EDID": "HVMissionDisc03",
+      "FULL": "Holotape da Missão da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DA",
+      "FORMID": "15D9DA",
+      "EDID": "HVScoutReport01",
+      "FULL": "Relatório do Escoteiro da Irmandade do Aço #1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DB",
+      "FORMID": "15D9DB",
+      "EDID": "HVMissionDisc01",
+      "FULL": "Holotape da Missão da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9DC",
+      "FORMID": "15D9DC",
+      "EDID": "HVScoutReport02",
+      "FULL": "Relatório do Batedor da Irmandade nº 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB37",
+      "FORMID": "15DB37",
+      "EDID": "SnowglobeFortmormon",
+      "FULL": "Globo de Neve - Forte Mórmon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB38",
+      "FORMID": "15DB38",
+      "EDID": "SnowglobeMtCharleston",
+      "FULL": "Globo de Neve - Mt. Charleston"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB39",
+      "FORMID": "15DB39",
+      "EDID": "SnowglobeHooverDam",
+      "FULL": "Globo de Neve - Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB3A",
+      "FORMID": "15DB3A",
+      "EDID": "SnowglobeGoodsprings",
+      "FULL": "Globo de Neve - Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB3B",
+      "FORMID": "15DB3B",
+      "EDID": "SnowglobeTestSite",
+      "FULL": "Globo de Neve - Sítio de Testes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB3C",
+      "FORMID": "15DB3C",
+      "EDID": "SnowglobeNellis",
+      "FULL": "Globo de Neve - Base Aérea de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DB3D",
+      "FORMID": "15DB3D",
+      "EDID": "SnowglobeTheStrip",
+      "FULL": "Globo de Neve - The Strip"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E10E",
+      "FORMID": "15E10E",
+      "EDID": "GawdyGnome",
+      "FULL": "Gnomo Maligno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5BD",
+      "FORMID": "15E5BD",
+      "EDID": "GeckoEgg",
+      "FULL": "Ovo de Gecko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5BE",
+      "FORMID": "15E5BE",
+      "EDID": "FireGeckoEgg",
+      "FULL": "Ovo de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5BF",
+      "FORMID": "15E5BF",
+      "EDID": "GoldenGeckoEgg",
+      "FULL": "Ovo de Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5C0",
+      "FORMID": "15E5C0",
+      "EDID": "MantisEgg",
+      "FULL": "Ovo de Louva-a-Deus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5C1",
+      "FORMID": "15E5C1",
+      "EDID": "NightstalkerEgg",
+      "FULL": "Ovo de Cão-Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E5C2",
+      "FORMID": "15E5C2",
+      "EDID": "RadscorpionEgg",
+      "FULL": "Ovo de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECD6",
+      "FORMID": "15ECD6",
+      "EDID": "NellisArrayParts",
+      "FULL": "Peças do Conjunto Solar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF5A",
+      "FORMID": "15EF5A",
+      "EDID": "L38UpgradeRefrigerator",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF9C",
+      "FORMID": "15EF9C",
+      "EDID": "VMS16bMedicalSupplies",
+      "FULL": "Suprimentos Médicos Extras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F011",
+      "FORMID": "15F011",
+      "EDID": "L38UpgradeWardrobe4",
+      "FULL": "Guarda-roupa de Hóspedes 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F012",
+      "FORMID": "15F012",
+      "EDID": "L38UpgradeWardrobe2",
+      "FULL": "Guarda-Roupa Principal 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F013",
+      "FORMID": "15F013",
+      "EDID": "L38UpgradeSuitcase1",
+      "FULL": "Mala 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F014",
+      "FORMID": "15F014",
+      "EDID": "L38UpgradeGunRack1",
+      "FULL": "Suporte de Armas 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F015",
+      "FORMID": "15F015",
+      "EDID": "L38UpgradeGunRack2",
+      "FULL": "Suporte de Armas 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F016",
+      "FORMID": "15F016",
+      "EDID": "L38UpgradeTrunk1",
+      "FULL": "Baú de Armas 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F017",
+      "FORMID": "15F017",
+      "EDID": "L38UpgradeTrunk2",
+      "FULL": "Cofre de Armas 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F018",
+      "FORMID": "15F018",
+      "EDID": "L38UpgradeSuitcase2",
+      "FULL": "Mala 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F019",
+      "FORMID": "15F019",
+      "EDID": "L38UpgradessVendingmachine",
+      "FULL": "Máquina de Vendas SS"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01A",
+      "FORMID": "15F01A",
+      "EDID": "L38UpgradeDisplayCase1",
+      "FULL": "Vitrine 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01B",
+      "FORMID": "15F01B",
+      "EDID": "L38UpgradeLocker1",
+      "FULL": "Armário de Criação 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01C",
+      "FORMID": "15F01C",
+      "EDID": "L38UpgradeLocker2",
+      "FULL": "Armário de Criação 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01D",
+      "FORMID": "15F01D",
+      "EDID": "L38UpgradeDisplayCase2",
+      "FULL": "Vitrine 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01E",
+      "FORMID": "15F01E",
+      "EDID": "L38UpgradeWardrobe1",
+      "FULL": "Guarda-roupa Principal 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F01F",
+      "FORMID": "15F01F",
+      "EDID": "L38UpgradeWardrobe3",
+      "FULL": "Guarda-roupa de Convidado 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F101",
+      "FORMID": "15F101",
+      "EDID": "L38UpgradeWorkBench",
+      "FULL": "Bancada de Trabalho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8C3",
+      "FORMID": "15F8C3",
+      "EDID": "CaravanDeck",
+      "FULL": "Baralho de Caravan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE13",
+      "FORMID": "15FE13",
+      "EDID": "NiptonLotteryTicket",
+      "FULL": "Bilhete de Loteria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE47",
+      "FORMID": "15FE47",
+      "EDID": "NiptonLotteryTicketValuable",
+      "FULL": "Bilhete de Loteria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16007F",
+      "FORMID": "16007F",
+      "EDID": "HVAsterJournal",
+      "FULL": "Diário de Aster"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613D3",
+      "FORMID": "1613D3",
+      "EDID": "RecipesRubysSpicyCasseroleItem",
+      "FULL": "Receitas - Cassarola Picante da Ruby"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16163C",
+      "FORMID": "16163C",
+      "EDID": "Yeast",
+      "FULL": "Fermento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16189B",
+      "FORMID": "16189B",
+      "EDID": "VMQ01NoteObject",
+      "FULL": "Holodisco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632E0",
+      "FORMID": "1632E0",
+      "EDID": "HVFilterPart01",
+      "FULL": "Controlador de Pressão Diferencial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632E1",
+      "FORMID": "1632E1",
+      "EDID": "HVFilterPart02",
+      "FULL": "Limpador de Pulso Reverso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632E2",
+      "FORMID": "1632E2",
+      "EDID": "HVFilterPart03",
+      "FULL": "Filtro de Cartucho HEPA 20"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1638F1",
+      "FORMID": "1638F1",
+      "EDID": "HVRemoteSignalTransmitter",
+      "FULL": "Transmissor de Sinal Remoto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E3",
+      "FORMID": "1645E3",
+      "EDID": "HVSelfDestructKeyCard01",
+      "FULL": "Cartão-chave do Ancião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E4",
+      "FORMID": "1645E4",
+      "EDID": "HVSelfDestructKeyCard02",
+      "FULL": "Cartão de Acesso do Escriba-Chefe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E5",
+      "FORMID": "1645E5",
+      "EDID": "HVSelfDestructKeyCard03",
+      "FULL": "Cartão de Acesso do Paladino-Chefe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166640",
+      "FORMID": "166640",
+      "EDID": "BoxAmmo22LRPlinking",
+      "FULL": "Caixa de Munição, .22LR de Treino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16664E",
+      "FORMID": "16664E",
+      "EDID": "BoxAmmo223",
+      "FULL": "Caixa de Munição, .223"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16664F",
+      "FORMID": "16664F",
+      "EDID": "BoxAmmo38Special",
+      "FULL": "Caixa de Munição, .38 Special"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166650",
+      "FORMID": "166650",
+      "EDID": "BoxAmmo5mmSurplus",
+      "FULL": "Caixa de Munição, 5mm Surplus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166651",
+      "FORMID": "166651",
+      "EDID": "BoxAmmo556mmSurplus",
+      "FULL": "Caixa de Munição, 5.56mm Surplus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166653",
+      "FORMID": "166653",
+      "EDID": "BoxAmmoElectronChargePackBulk",
+      "FULL": "Caixa de Munição, Pacote de Carga de Elétrons, Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166654",
+      "FORMID": "166654",
+      "EDID": "BoxAmmoSmallEnergyCellBulk",
+      "FULL": "Caixa de Munição, Célula de Energia Pequena, Grande Quantidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166655",
+      "FORMID": "166655",
+      "EDID": "BoxAmmoMicrofusionCellBulk",
+      "FULL": "Caixa de Munição, Célula de Microfusão, Pacote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166656",
+      "FORMID": "166656",
+      "EDID": "BoxPrimers50MG",
+      "FULL": "Caixa de espoletas, .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166657",
+      "FORMID": "166657",
+      "EDID": "BoxPrimersLargeRifle",
+      "FULL": "Caixa de Escorvas, Rifle Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166658",
+      "FORMID": "166658",
+      "EDID": "BoxPrimersLargePistol",
+      "FULL": "Caixa de Espoletas, Pistola Grande"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166659",
+      "FORMID": "166659",
+      "EDID": "BoxPrimersSmallRifle",
+      "FULL": "Caixa de Espoletas, Rifle Pequeno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16665B",
+      "FORMID": "16665B",
+      "EDID": "BoxPrimersSmallPistol",
+      "FULL": "Caixa de Espoletas, Pistola Pequena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16665C",
+      "FORMID": "16665C",
+      "EDID": "JarRiflePowder",
+      "FULL": "Pote, Pólvora de Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16665D",
+      "FORMID": "16665D",
+      "EDID": "JarPistolPowder",
+      "FULL": "Pote, Pólvora de Pistola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D4E",
+      "FORMID": "166D4E",
+      "EDID": "BoxCase10mm",
+      "FULL": "Caixa de Estojo, 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D4F",
+      "FORMID": "166D4F",
+      "EDID": "BoxCase127mm",
+      "FULL": "Caixa de Estojos, 12,7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D50",
+      "FORMID": "166D50",
+      "EDID": "BoxCase9mm",
+      "FULL": "Estojo de Munição, 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D51",
+      "FORMID": "166D51",
+      "EDID": "BoxCase5mm",
+      "FULL": "Caixa de Munição, 5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D52",
+      "FORMID": "166D52",
+      "EDID": "BoxCase556mm",
+      "FULL": "Caixa de Estojos, 5.56mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D53",
+      "FORMID": "166D53",
+      "EDID": "BoxCase357Magnum",
+      "FULL": "Caixa de Munição, Magnum .357"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D54",
+      "FORMID": "166D54",
+      "EDID": "BoxCase44Magnum",
+      "FULL": "Caixa de Munição, .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D55",
+      "FORMID": "166D55",
+      "EDID": "BoxCase308",
+      "FULL": "Caixa de Estojos, .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D56",
+      "FORMID": "166D56",
+      "EDID": "BoxCase50MG",
+      "FULL": "Caixa de Munição, .50 MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166D57",
+      "FORMID": "166D57",
+      "EDID": "BoxCase4570Govt",
+      "FULL": "Caixa de Estojo, .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F30",
+      "FORMID": "167F30",
+      "EDID": "VFSNCRPasswordMiscItem",
+      "FULL": "Nota do Acampamento de Invasores de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168A6C",
+      "FORMID": "168A6C",
+      "EDID": "AcousticGuitar",
+      "FULL": "Violão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:170F87",
+      "FORMID": "170F87",
+      "EDID": "SSBottleEmptyNoFloat",
+      "FULL": "Garrafa Vazia de Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173236",
+      "FORMID": "173236",
+      "EDID": "LegionMoney1Mangled",
+      "FULL": "Denário da Legião, Destroçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F7E",
+      "FORMID": "173F7E",
+      "EDID": "BoxPrimersShotshell",
+      "FULL": "Caixa de espoletas, Cartucho de espingarda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F81",
+      "FORMID": "173F81",
+      "EDID": "BoxHull12Ga",
+      "FULL": "Caixa de Casco, Cal. 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F82",
+      "FORMID": "173F82",
+      "EDID": "BoxHull20Ga",
+      "FULL": "Caixa de Casco, Calibre 20."
+    },
+    {
+      "FORM": "@FalloutNV.esm:17509C",
+      "FORMID": "17509C",
+      "EDID": "SchematicsPowderChargeItem",
+      "FULL": "Esquemas - Carga de Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AAC",
+      "FORMID": "175AAC",
+      "EDID": "RecipesBrahminWellingtonItem",
+      "FULL": "Receitas - Wellington de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175AB2",
+      "FORMID": "175AB2",
+      "EDID": "RecipesCookCooksFiendStewItem",
+      "FULL": "Receitas - Ensopado de Demônio do Cozinheiro-Cozinheiro"
+    }
+  ]
+}

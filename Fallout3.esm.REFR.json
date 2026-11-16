@@ -1,0 +1,818 @@
+{
+  "REFR": [
+    {
+      "FORM": "@Fallout3.esm:0278A4",
+      "FORMID": "0278A4",
+      "EDID": "DC03MMEast",
+      "XMRK": "Estação de Dupont, Noroeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:07615F",
+      "FORMID": "07615F",
+      "XMRK": "Dupont Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:07615E",
+      "FORMID": "07615E",
+      "EDID": "DupontStationMapMarker",
+      "XMRK": "Estação Dupont"
+    },
+    {
+      "FORM": "@Fallout3.esm:07615D",
+      "FORMID": "07615D",
+      "EDID": "DC03MMWest",
+      "XMRK": "Estação de Dupont, Oeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:092683",
+      "FORMID": "092683",
+      "EDID": "DC05MMFactory",
+      "XMRK": "Industrias Takoma"
+    },
+    {
+      "FORM": "@Fallout3.esm:092682",
+      "FORMID": "092682",
+      "EDID": "DC05MMEntrance",
+      "XMRK": "Parque Takoma"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EB91",
+      "FORMID": "01EB91",
+      "EDID": "DC06MMEast",
+      "XMRK": "Estação Vernon Square, Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EB90",
+      "FORMID": "01EB90",
+      "EDID": "DC06MMNorth",
+      "XMRK": "Estação Vernon Square, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EB8F",
+      "FORMID": "01EB8F",
+      "EDID": "DC06MMSouth",
+      "XMRK": "Estação Vernon Square"
+    },
+    {
+      "FORM": "@Fallout3.esm:082E1E",
+      "FORMID": "082E1E",
+      "EDID": "VaultTecHQMapMarker",
+      "XMRK": "Quartel-General da Vault-Tec"
+    },
+    {
+      "FORM": "@Fallout3.esm:082E1D",
+      "FORMID": "082E1D",
+      "EDID": "StatesmanHotelMapMarker",
+      "XMRK": "Hotel O Estadista"
+    },
+    {
+      "FORM": "@Fallout3.esm:082E1C",
+      "FORMID": "082E1C",
+      "EDID": "DC06MMHope",
+      "XMRK": "Hospital Nossa Senhora da Esperança"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE87D",
+      "FORMID": "0BE87D",
+      "XMRK": "Estação Av. Pensilvânia, Este"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE877",
+      "FORMID": "0BE877",
+      "XMRK": "Estação Av. Pensilvânia, Noroeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:0279F6",
+      "FORMID": "0279F6",
+      "EDID": "DC08MMNorth",
+      "XMRK": "Estação Av. Pensilvânia, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:027935",
+      "FORMID": "027935",
+      "EDID": "DC08MMtoMall",
+      "XMRK": "Estação Av. Pensilvânia, Sul"
+    },
+    {
+      "FORM": "@Fallout3.esm:076E3F",
+      "FORMID": "076E3F",
+      "XMRK": "Casa Branca"
+    },
+    {
+      "FORM": "@Fallout3.esm:07615B",
+      "FORMID": "07615B",
+      "EDID": "DC08MMEast",
+      "XMRK": "Estação Central do Metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE878",
+      "FORMID": "0BE878",
+      "XMRK": "The Mall"
+    },
+    {
+      "FORM": "@Fallout3.esm:0279F8",
+      "FORMID": "0279F8",
+      "EDID": "DC09MMGeorgetown",
+      "XMRK": "Shopping Noroeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:076159",
+      "FORMID": "076159",
+      "EDID": "DC09MMHazMat",
+      "XMRK": "Estação Mall, Sudoeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:076158",
+      "FORMID": "076158",
+      "EDID": "MustechMapMarker",
+      "XMRK": "Museu da Tecnologia"
+    },
+    {
+      "FORM": "@Fallout3.esm:076157",
+      "FORMID": "076157",
+      "EDID": "NationalArchivesMapMarker",
+      "XMRK": "Arquivo Nacional"
+    },
+    {
+      "FORM": "@Fallout3.esm:076156",
+      "FORMID": "076156",
+      "EDID": "DC09MMCapitolBldg",
+      "XMRK": "Prédio do Capitólio"
+    },
+    {
+      "FORM": "@Fallout3.esm:05CBDF",
+      "FORMID": "05CBDF",
+      "EDID": "MuseumAmericanMarker",
+      "XMRK": "Museu de História"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB9",
+      "FORMID": "027FB9",
+      "EDID": "LincolnMemorialMapMarker",
+      "XMRK": "Memorial Lincoln"
+    },
+    {
+      "FORM": "@Fallout3.esm:01BD30",
+      "FORMID": "01BD30",
+      "EDID": "WashMonMapMarker",
+      "XMRK": "Monumento Washington"
+    },
+    {
+      "FORM": "@Fallout3.esm:092664",
+      "FORMID": "092664",
+      "EDID": "DC10MMWest",
+      "XMRK": "Estação da Praça de L'Enfant"
+    },
+    {
+      "FORM": "@Fallout3.esm:092663",
+      "FORMID": "092663",
+      "EDID": "DC10MMSouth",
+      "XMRK": "Estação L'Enfant, Sul"
+    },
+    {
+      "FORM": "@Fallout3.esm:027A29",
+      "FORMID": "027A29",
+      "EDID": "DC12MMCapRear",
+      "XMRK": "Estação do Seward Square, Noroeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:027A1B",
+      "FORMID": "027A1B",
+      "EDID": "DC12MMWest",
+      "XMRK": "Estação do Seward Square, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:092669",
+      "FORMID": "092669",
+      "EDID": "RangerCompoundMapMarker",
+      "XMRK": "Complexo Ranger"
+    },
+    {
+      "FORM": "@Fallout3.esm:092668",
+      "FORMID": "092668",
+      "EDID": "DC12MMEast",
+      "XMRK": "Estação do Seward Square, Sudeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:06535F",
+      "FORMID": "06535F",
+      "XMRK": "Estação Georgetown, Oeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:092667",
+      "FORMID": "092667",
+      "EDID": "DC11MMEast",
+      "XMRK": "Estação de Georgetown, Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:092666",
+      "FORMID": "092666",
+      "EDID": "DC11MMSouth",
+      "XMRK": "Estação de Georgetown, Sul"
+    },
+    {
+      "FORM": "@Fallout3.esm:092665",
+      "FORMID": "092665",
+      "EDID": "DC11MMNorth",
+      "XMRK": "Estação de Georgetown, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:00344D",
+      "FORMID": "00344D",
+      "EDID": "DC15MMNorth",
+      "XMRK": "Quadrinhos Hubris"
+    },
+    {
+      "FORM": "@Fallout3.esm:09266F",
+      "FORMID": "09266F",
+      "EDID": "DC15MMSouth",
+      "XMRK": "Sul de Mason District"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E001",
+      "FORMID": "01E001",
+      "EDID": "FallsChurchNorthMapMarker",
+      "XMRK": "Estação Falls Church, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:092674",
+      "FORMID": "092674",
+      "EDID": "FallsChurchEastMapMarker",
+      "XMRK": "Estação Falls Church, Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:092673",
+      "FORMID": "092673",
+      "EDID": "FallsChurchMetroMapMarker",
+      "XMRK": "Estação Falls Church"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0778",
+      "FORMID": "0C0778",
+      "XMRK": "Cemitério Arlington, Sul"
+    },
+    {
+      "FORM": "@Fallout3.esm:027A48",
+      "FORMID": "027A48",
+      "EDID": "DC18MMNorth",
+      "XMRK": "Cemitério Arlington, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:027A2A",
+      "FORMID": "027A2A",
+      "EDID": "DC18MMMama",
+      "XMRK": "Mama Dolce"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E002",
+      "FORMID": "01E002",
+      "EDID": "DC01MMEast",
+      "XMRK": "Estação Chevy Chase, Leste"
+    },
+    {
+      "FORM": "@Fallout3.esm:08C13E",
+      "FORMID": "08C13E",
+      "EDID": "GNRMapMarker",
+      "XMRK": "Praça do Edifício da RNG"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F31B",
+      "FORMID": "01F31B",
+      "EDID": "DC01MMNorth",
+      "XMRK": "Estação Chevy Chase, Norte"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E442",
+      "FORMID": "07E442",
+      "EDID": "ForgeMapMarker",
+      "XMRK": "Centro de Reparo de Robôs"
+    },
+    {
+      "FORM": "@Fallout3.esm:04C613",
+      "FORMID": "04C613",
+      "XMRK": "Metrô Inundado"
+    },
+    {
+      "FORM": "@Fallout3.esm:07423F",
+      "FORMID": "07423F",
+      "XMRK": "Estação Eléctrica MDPL-13"
+    },
+    {
+      "FORM": "@Fallout3.esm:05B436",
+      "FORMID": "05B436",
+      "XMRK": "Cais de Wilhelm"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C99FF",
+      "FORMID": "0C99FF",
+      "XMRK": "Reciclagem de Lixo Irmãos Jalbert"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3A1F",
+      "FORMID": "0C3A1F",
+      "XMRK": "Estação de Energia VAPL-84"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3A1D",
+      "FORMID": "0C3A1D",
+      "XMRK": "Estação de Energia VAPL-66"
+    },
+    {
+      "FORM": "@Fallout3.esm:065355",
+      "FORMID": "065355",
+      "XMRK": "Metrô Irradiado"
+    },
+    {
+      "FORM": "@Fallout3.esm:065353",
+      "FORMID": "065353",
+      "XMRK": "Metrô Inundado"
+    },
+    {
+      "FORM": "@Fallout3.esm:03EDA2",
+      "FORMID": "03EDA2",
+      "XMRK": "Depósito de Lixo Radioativo"
+    },
+    {
+      "FORM": "@Fallout3.esm:03EDA0",
+      "FORMID": "03EDA0",
+      "XMRK": "Acampamento Nacional Everglow"
+    },
+    {
+      "FORM": "@Fallout3.esm:04BA53",
+      "FORMID": "04BA53",
+      "EDID": "MS03OutsideLibraryREF",
+      "XMRK": "Biblioteca Arlington"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E5D8",
+      "FORMID": "03E5D8",
+      "EDID": "TepidSewersMapMarker",
+      "XMRK": "Esgoto Tépido"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DBA8",
+      "FORMID": "02DBA8",
+      "XMRK": "Central elétrica VAPL-58"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DBA7",
+      "FORMID": "02DBA7",
+      "EDID": "MoonbeamMapMarker",
+      "XMRK": "Cinema ao Ar Livre"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DBA6",
+      "FORMID": "02DBA6",
+      "XMRK": "Pensão de Kaelyn"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DBA3",
+      "FORMID": "02DBA3",
+      "EDID": "FiveAxlesRestStopMapMarker",
+      "XMRK": "Acampamento Cinco Eixos"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB9F",
+      "FORMID": "02DB9F",
+      "XMRK": "Ponte do Diabo"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB9D",
+      "FORMID": "02DB9D",
+      "XMRK": "Drive-in O Panorâmico"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB42",
+      "FORMID": "02DB42",
+      "XMRK": "Ossuário"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB39",
+      "FORMID": "02DB39",
+      "XMRK": "Torre de Transmissão KX-B8-11"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DA36",
+      "FORMID": "02DA36",
+      "XMRK": "Torre de Telecomunicações KT8"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DA35",
+      "FORMID": "02DA35",
+      "EDID": "RockbreakersLastGasMapMarker",
+      "XMRK": "Posto de Gasolina Rockbreaker"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A4FA",
+      "FORMID": "02A4FA",
+      "XMRK": "Arsenal Wheaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:029F99",
+      "FORMID": "029F99",
+      "XMRK": "Colonia de Férias Destruída"
+    },
+    {
+      "FORM": "@Fallout3.esm:029F71",
+      "FORMID": "029F71",
+      "XMRK": "Reservatório da Cidade Montgomery"
+    },
+    {
+      "FORM": "@Fallout3.esm:029F6C",
+      "FORMID": "029F6C",
+      "XMRK": "Condomínio Destruído"
+    },
+    {
+      "FORM": "@Fallout3.esm:029F6A",
+      "FORMID": "029F6A",
+      "XMRK": "Oficina Mason Dixon"
+    },
+    {
+      "FORM": "@Fallout3.esm:01EB8E",
+      "FORMID": "01EB8E",
+      "XMRK": "Estação Farragut, Oeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:01B187",
+      "FORMID": "01B187",
+      "EDID": "DunwichMap",
+      "XMRK": "Edifício Dunwich"
+    },
+    {
+      "FORM": "@Fallout3.esm:0190EF",
+      "FORMID": "0190EF",
+      "XMRK": "Posto de Gasolina do Jocko"
+    },
+    {
+      "FORM": "@Fallout3.esm:0190EE",
+      "FORMID": "0190EE",
+      "XMRK": "Campo de Baseball Fordham"
+    },
+    {
+      "FORM": "@Fallout3.esm:0190ED",
+      "FORMID": "0190ED",
+      "XMRK": "Estação de Transmissão MDPL"
+    },
+    {
+      "FORM": "@Fallout3.esm:0190AD",
+      "FORMID": "0190AD",
+      "XMRK": "Terra Santificada"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9F1C",
+      "FORMID": "0B9F1C",
+      "EDID": "NukaColaMapMarker",
+      "XMRK": "Fábrica da Nuka-Cola"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B878E",
+      "FORMID": "0B878E",
+      "EDID": "HamiltonMapMarker",
+      "XMRK": "Esconderijo do Hamilton"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2645",
+      "FORMID": "0B2645",
+      "EDID": "EvergreenMillsMap",
+      "XMRK": "Fábrica Evergreen Mills"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B24AF",
+      "FORMID": "0B24AF",
+      "XMRK": "Garagem de Smith Casey"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA6EA",
+      "FORMID": "0AA6EA",
+      "XMRK": "Escola Roosevelt"
+    },
+    {
+      "FORM": "@Fallout3.esm:0438B2",
+      "FORMID": "0438B2",
+      "EDID": "MegatonDestroyedMapMarkerRef",
+      "XMRK": "Ruínas de Megaton"
+    },
+    {
+      "FORM": "@Fallout3.esm:07871C",
+      "FORMID": "07871C",
+      "EDID": "Rcamp01MapMarker",
+      "XMRK": "Restaurante Grisly"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F217",
+      "FORMID": "06F217",
+      "EDID": "RegulatorHQMapMarkerREF",
+      "XMRK": "Quartel-General dos Reguladores"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F1EE",
+      "FORMID": "06F1EE",
+      "EDID": "ScrapyardMapMarkerREF",
+      "XMRK": "Ferro-velho"
+    },
+    {
+      "FORM": "@Fallout3.esm:0674E5",
+      "FORMID": "0674E5",
+      "XMRK": "Subestação de Esgoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0587C3",
+      "FORMID": "0587C3",
+      "EDID": "WarringtonStationMapMarkerREF",
+      "XMRK": "Estação Warrington"
+    },
+    {
+      "FORM": "@Fallout3.esm:042111",
+      "FORMID": "042111",
+      "EDID": "YaoGuaiDenMapMarkerREF",
+      "XMRK": "Túneis dos Yao Guais"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F21A",
+      "FORMID": "02F21A",
+      "EDID": "DukovMapMarker",
+      "XMRK": "Casa de Dukov"
+    },
+    {
+      "FORM": "@Fallout3.esm:002E21",
+      "FORMID": "002E21",
+      "EDID": "PentagonMarker",
+      "XMRK": "A Cidadela"
+    },
+    {
+      "FORM": "@Fallout3.esm:002E2B",
+      "FORMID": "002E2B",
+      "EDID": "AnacostiaCrossingMapMarkerREF",
+      "XMRK": "Estação Anacostia"
+    },
+    {
+      "FORM": "@Fallout3.esm:002EB2",
+      "FORMID": "002EB2",
+      "EDID": "AnchorageMemorialMarker",
+      "XMRK": "Memorial Anchorage"
+    },
+    {
+      "FORM": "@Fallout3.esm:002EB7",
+      "FORMID": "002EB7",
+      "EDID": "FriendshipHeightsMapMarkerREF",
+      "XMRK": "Estação Friendship Heights"
+    },
+    {
+      "FORM": "@Fallout3.esm:002ECC",
+      "FORMID": "002ECC",
+      "EDID": "MarigoldStationMapMarkerREF",
+      "XMRK": "Estação Marigold"
+    },
+    {
+      "FORM": "@Fallout3.esm:002ECD",
+      "FORMID": "002ECD",
+      "EDID": "RedRacerFactoryMapMarkerREF",
+      "XMRK": "Fábrica Red Racer"
+    },
+    {
+      "FORM": "@Fallout3.esm:002EE5",
+      "FORMID": "002EE5",
+      "XMRK": "Hotel Alexandria"
+    },
+    {
+      "FORM": "@Fallout3.esm:0030C3",
+      "FORMID": "0030C3",
+      "EDID": "RockCreekCaveMapMarker",
+      "XMRK": "Cavernas de Rock Creek"
+    },
+    {
+      "FORM": "@Fallout3.esm:0030C4",
+      "FORMID": "0030C4",
+      "EDID": "SuperDuperMartMapMarkerREF",
+      "XMRK": "Mercado Super-Duper"
+    },
+    {
+      "FORM": "@Fallout3.esm:0030C5",
+      "FORMID": "0030C5",
+      "EDID": "BethesdaRuinsMapMarker",
+      "XMRK": "Ruínas da Bethesda"
+    },
+    {
+      "FORM": "@Fallout3.esm:0030E7",
+      "FORMID": "0030E7",
+      "EDID": "CorvegaFactoryMapMarkerREF",
+      "XMRK": "Fábrica Corvega"
+    },
+    {
+      "FORM": "@Fallout3.esm:0030EC",
+      "FORMID": "0030EC",
+      "EDID": "CanterburyCommonsMapMarkerREF",
+      "XMRK": "Comunidade de Canterbury"
+    },
+    {
+      "FORM": "@Fallout3.esm:003179",
+      "FORMID": "003179",
+      "EDID": "NorthwestSenecaMapMarker",
+      "XMRK": "Estação Seneca, Noroeste"
+    },
+    {
+      "FORM": "@Fallout3.esm:003186",
+      "FORMID": "003186",
+      "EDID": "GermantownPoliceHQMapMarkerREF",
+      "XMRK": "Sede Policial de Germantown"
+    },
+    {
+      "FORM": "@Fallout3.esm:00318B",
+      "FORMID": "00318B",
+      "EDID": "FortConstantineMapMarker",
+      "XMRK": "Fortaleza Constantine"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031A0",
+      "FORMID": "0031A0",
+      "EDID": "TempleOfTheUnionMapMarker",
+      "XMRK": "Templo da União"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031A7",
+      "FORMID": "0031A7",
+      "XMRK": "Casa de Agatha"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031C8",
+      "FORMID": "0031C8",
+      "XMRK": "Santuário de Deathclaws"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031CA",
+      "FORMID": "0031CA",
+      "EDID": "MerestiTrainyardMapRef",
+      "XMRK": "Estação Ferroviária de Meresti"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031CB",
+      "FORMID": "0031CB",
+      "EDID": "RepDaveMapMarker",
+      "XMRK": "A República de Dave"
+    },
+    {
+      "FORM": "@Fallout3.esm:00326B",
+      "FORMID": "00326B",
+      "EDID": "PPMapMarker",
+      "XMRK": "Memorial Jefferson"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031D5",
+      "FORMID": "0031D5",
+      "XMRK": "Cavernas Cliffside"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031D7",
+      "FORMID": "0031D7",
+      "EDID": "RobcoMapMarker",
+      "XMRK": "Fábrica RobCo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0031FC",
+      "FORMID": "0031FC",
+      "EDID": "WarringtonTrainyardMapMarker",
+      "XMRK": "Estação Ferroviária Warrington"
+    },
+    {
+      "FORM": "@Fallout3.esm:00320B",
+      "FORMID": "00320B",
+      "EDID": "TenpennyTowerMapMarker",
+      "XMRK": "Torre Tenpenny"
+    },
+    {
+      "FORM": "@Fallout3.esm:00320C",
+      "FORMID": "00320C",
+      "XMRK": "Edifício Chryslus"
+    },
+    {
+      "FORM": "@Fallout3.esm:00321F",
+      "FORMID": "00321F",
+      "EDID": "SpringvaleElementaryMapMarker",
+      "XMRK": "Escola de Springvale"
+    },
+    {
+      "FORM": "@Fallout3.esm:003291",
+      "FORMID": "003291",
+      "EDID": "FairfaxRuinsMapMarker",
+      "XMRK": "Ruínas de Fairfax"
+    },
+    {
+      "FORM": "@Fallout3.esm:0032A1",
+      "FORMID": "0032A1",
+      "EDID": "FortIndependenceMapMarker",
+      "XMRK": "Fortaleza Independence"
+    },
+    {
+      "FORM": "@Fallout3.esm:0032C8",
+      "FORMID": "0032C8",
+      "EDID": "JuryStreetMapMarker",
+      "XMRK": "Estação da Rua Jury"
+    },
+    {
+      "FORM": "@Fallout3.esm:0032DD",
+      "FORMID": "0032DD",
+      "EDID": "FortBannisterMM",
+      "XMRK": "Fortaleza Bannister"
+    },
+    {
+      "FORM": "@Fallout3.esm:003314",
+      "FORMID": "003314",
+      "XMRK": "Covil da AntAgonizer"
+    },
+    {
+      "FORM": "@Fallout3.esm:03DA4E",
+      "FORMID": "03DA4E",
+      "EDID": "OldOlneyMapMarker",
+      "XMRK": "Velha Olney"
+    },
+    {
+      "FORM": "@Fallout3.esm:018D01",
+      "FORMID": "018D01",
+      "XMRK": "Central Elétrica MDPL-16"
+    },
+    {
+      "FORM": "@Fallout3.esm:018CFC",
+      "FORMID": "018CFC",
+      "XMRK": "Fazenda Acres"
+    },
+    {
+      "FORM": "@Fallout3.esm:018C90",
+      "FORMID": "018C90",
+      "XMRK": "Cabanas do Topo da Montanha"
+    },
+    {
+      "FORM": "@Fallout3.esm:018C82",
+      "FORMID": "018C82",
+      "XMRK": "Torre de Telecomunicações LP8"
+    },
+    {
+      "FORM": "@Fallout3.esm:0189A4",
+      "FORMID": "0189A4",
+      "XMRK": "Drive-In O Forro Prateado"
+    },
+    {
+      "FORM": "@Fallout3.esm:018972",
+      "FORMID": "018972",
+      "XMRK": "Central Elétrica MDPL-21"
+    },
+    {
+      "FORM": "@Fallout3.esm:01896F",
+      "FORMID": "01896F",
+      "EDID": "SatCom03MapMarker",
+      "XMRK": "Satélite de Comunicação NN-03d"
+    },
+    {
+      "FORM": "@Fallout3.esm:018963",
+      "FORMID": "018963",
+      "XMRK": "Emissora de Rádio WKML"
+    },
+    {
+      "FORM": "@Fallout3.esm:018880",
+      "FORMID": "018880",
+      "XMRK": "Fortaleza de Carros Abandonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:018857",
+      "FORMID": "018857",
+      "XMRK": "Acampamento Mabel"
+    },
+    {
+      "FORM": "@Fallout3.esm:018788",
+      "FORMID": "018788",
+      "XMRK": "F.Scoot Trilha & Acampamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:018725",
+      "FORMID": "018725",
+      "XMRK": "Torre de Telecomunicações KB5"
+    },
+    {
+      "FORM": "@Fallout3.esm:018688",
+      "FORMID": "018688",
+      "EDID": "SatCom02MapMarker",
+      "XMRK": "Satélite de Comunicação NW-07c"
+    },
+    {
+      "FORM": "@Fallout3.esm:018685",
+      "FORMID": "018685",
+      "XMRK": "Satélite de Comunicação NW-05a"
+    },
+    {
+      "FORM": "@Fallout3.esm:01867C",
+      "FORMID": "01867C",
+      "XMRK": "Central Elétrica MDPL-05"
+    },
+    {
+      "FORM": "@Fallout3.esm:018846",
+      "FORMID": "018846",
+      "EDID": "DickersonTabernacleChapelMM",
+      "XMRK": "Capela de Dickerson"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C825E",
+      "FORMID": "0C825E",
+      "EDID": "NtlGuardDepotMapMarker",
+      "XMRK": "Depósito da Guarda Nacional"
+    }
+  ]
+}

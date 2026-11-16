@@ -1,0 +1,4797 @@
+{
+  "TERM": [
+    {
+      "FORM": "@Fallout3.esm:0C0527",
+      "FORMID": "0C0527",
+      "EDID": "MS15PodAdamsRobotTerminal",
+      "FULL": "JADAM002 John Adams",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de John Adams JADAM002",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C58E3",
+      "FORMID": "0C58E3",
+      "EDID": "MS15MaintenanceTerminal",
+      "FULL": "Terminal de Manutenção",
+      "DESC": "Terminal de manutenção do Arquivo Nacional\nassuntos listados por unidade",
+      "MENU": {
+        "ITXT": [
+          "Protectron guia turístico BGWIN009",
+          "Torre automatizada TRT007",
+          "Sr. Útil unidade médica EMT002",
+          "Protectron guia turístico TJEFF002"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF205",
+      "FORMID": "0BF205",
+      "EDID": "MS15ArchivesGameTerminalQWin",
+      "FULL": "Primeira pergunta",
+      "DESC": "Parabéns! Pressione abaixo para receber seu vale-brinde, então leve-o ao terminal de resgate!",
+      "MENU": {
+        "ITXT": [
+          "Pressionar para obter o vale",
+          "Erro do sistema"
+        ],
+        "RNAM": [
+          "Emitindo",
+          "O emissor está vazio"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF204",
+      "FORMID": "0BF204",
+      "EDID": "MS15ArchivesGameTerminalQ08",
+      "FULL": "Primeira pergunta",
+      "DESC": "Quem foi o autor principal da Declaração da Independência?",
+      "MENU": {
+        "ITXT": [
+          "Abraham Lincoln",
+          "James Monroe",
+          "James Madison",
+          "Thomas Jefferson"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "CORRETO!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF203",
+      "FORMID": "0BF203",
+      "EDID": "MS15ArchivesGameTerminalQ07",
+      "FULL": "Sétima pergunta",
+      "DESC": "Complete esta famosa frase da Declaração: \"Vida, Liberdade e a busca de...\"",
+      "MENU": {
+        "ITXT": [
+          "Liberdade",
+          "Felicidade",
+          "Igualdade",
+          "Direitos inalienáveis"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "CORRETO!",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF202",
+      "FORMID": "0BF202",
+      "EDID": "MS15ArchivesGameTerminalQ06",
+      "FULL": "Sexta pergunta",
+      "DESC": "Quem comandava a Gra-Bretanha quando a declaração foi decretada em 1776?",
+      "MENU": {
+        "ITXT": [
+          "Rainha Victoria",
+          "Rei Arthur",
+          "Rei George III",
+          "Rei William IV"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "CORRETO!",
+          "Incorreto! Tente de novo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF201",
+      "FORMID": "0BF201",
+      "EDID": "MS15ArchivesGameTerminalQ05",
+      "FULL": "Quinta pergunta",
+      "DESC": "Qual destas não é uma sessão escrita da Declaração da Independência?",
+      "MENU": {
+        "ITXT": [
+          "Acusação",
+          "Prefácio",
+          "introdução",
+          "Ratificação"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "CORRETO!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF200",
+      "FORMID": "0BF200",
+      "EDID": "MS15ArchivesGameTerminalQ04",
+      "FULL": "Quarta pergunta",
+      "DESC": "Quantos delegados assinaram a Declaração da Independência?",
+      "MENU": {
+        "ITXT": [
+          "76",
+          "56",
+          "80",
+          "50"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "CORRETO!",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF1FF",
+      "FORMID": "0BF1FF",
+      "EDID": "MS15ArchivesGameTerminalQ03",
+      "FULL": "Terceira pergunta",
+      "DESC": "Quem foi a primeira pessoa a assinar a Declaração da Independência?",
+      "MENU": {
+        "ITXT": [
+          "John Hancock",
+          "George Washington",
+          "Benjamin Franklin",
+          "John Adams"
+        ],
+        "RNAM": [
+          "CORRETO!",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF1FE",
+      "FORMID": "0BF1FE",
+      "EDID": "MS15ArchivesGameTerminalQ02",
+      "FULL": "Segunda pergunta",
+      "DESC": "Quantas colônias Norte-Americanas se rebelaram contra a Gra-Bretanha em 1776?",
+      "MENU": {
+        "ITXT": [
+          "Sete",
+          "Cinquenta",
+          "Treze",
+          "Vinte"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "CORRETO!",
+          "Incorreto! Tente de novo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5C56",
+      "FORMID": "0B5C56",
+      "EDID": "MS15ArchivesGameTerminalQ01",
+      "FULL": "Uma questão",
+      "DESC": "A Declaração de Independência foi um ato de qual órgão?",
+      "MENU": {
+        "ITXT": [
+          "Segundo Congresso Julgador",
+          "Segundo Congresso Orquestral",
+          "Primeiro Congresso Continental",
+          "Segundo Congresso Continental"
+        ],
+        "RNAM": [
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "Incorreto! Tente de novo",
+          "CORRETO!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5C55",
+      "FORMID": "0B5C55",
+      "EDID": "MS15ArchivesGameTerminal",
+      "FULL": "Arquivo Nacional, Acerte e Ganhe!",
+      "DESC": "Responda a todas as 8 perguntas corretamente e seja o vencedor!!!",
+      "MENU": {
+        "ITXT": [
+          "Primeira pergunta",
+          "Primeira pergunta: CORRETO!",
+          "Segunda pergunta",
+          "Segunda pergunta: CORRETO!",
+          "Terceira pergunta",
+          "Terceira pergunta: CORRETO!",
+          "Quarta pergunta",
+          "Quarta pergunta: CORRETO!",
+          "Quinta pergunta",
+          "Quinta pergunta: CORRETO!",
+          "Sexta pergunta",
+          "Sexta pergunta: CORRETO!",
+          "Sétima pergunta",
+          "Sétima pergunta: CORRETO!",
+          "Oitava pergunta",
+          "Oitava pergunta: CORRETO!",
+          "CONGRATULAÇÕES! Recolha seu prêmio!"
+        ],
+        "RNAM": [
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida",
+          "Pergunta já respondida"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF7C4",
+      "FORMID": "0BF7C4",
+      "EDID": "MS15ArchivesGameRedemptionTerminal01",
+      "FULL": "Terminal de troca de prêmios",
+      "DESC": "**Novos prêmios de Mentats de Fruta**\nUm oferecimento dos Laboratórios Med-Tek",
+      "MENU": {
+        "ITXT": [
+          "Encantadores Mentats de uva",
+          "Brilhantes Mentats de frutas vermelhas",
+          "Perspicazes Mentats de laranja",
+          "Desculpe, é necessário um vale prêmio"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BF7C2",
+      "FORMID": "0BF7C2",
+      "EDID": "MS15ArchivesGameRedemptionTerminal",
+      "FULL": "Terminal de troca de prêmios",
+      "DESC": "Sistema de resgate de prêmios do Arquivo Nacional\nParabéns! Você é um autêntico patriota americano!",
+      "MENU": {
+        "ITXT": [
+          "Resgatar vale",
+          "Vale prêmio necessário"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C051F",
+      "FORMID": "0C051F",
+      "EDID": "MS15ArchivesAdminTerminal",
+      "FULL": "Terminal do administrador Berkeley",
+      "DESC": "Bem-vindo de Volta, Administrador Berkeley",
+      "MENU": {
+        "ITXT": [
+          "Aviso u89003",
+          "Aviso u89017",
+          "Aviso u89110",
+          "Desbloquear cofre do escritório"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CADFA",
+      "FORMID": "0CADFA",
+      "EDID": "MS12TenpennyIrvingChengTerminal",
+      "FULL": "Computador Pessoal de Cheng",
+      "DESC": "Bem-vindo, Companheiro!",
+      "MENU": {
+        "ITXT": [
+          "Proposta de reconstrução",
+          "Afirmação do dia",
+          "Afirmação do dia",
+          "Afirmação do dia",
+          "Afirmação do dia",
+          "Afirmação do dia",
+          "Afirmação do dia",
+          "Afirmação do dia"
+        ],
+        "RNAM": [
+          "Na Wasteland, todos podermos ser heróis!",
+          "O presidente Cheng está te vigiando, companheiro!",
+          "Os invasores foram eliminados!",
+          "Trabalho glorioso, vida feliz!",
+          "Ganhar a glória para nossa pátria!",
+          "Mantenha erguida a lanterna vermelha!",
+          "A revolução trás a felicidade!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C81EB",
+      "FORMID": "0C81EB",
+      "EDID": "MS12TenpennyAttackLydiaTerminal",
+      "FULL": "Terminal",
+      "DESC": "Soluções SoftLock, Inc\n\"Sua Segurança é a Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Destrancar porta"
+        ],
+        "RNAM": [
+          "Autorização concedida, destrancando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C81ED",
+      "FORMID": "0C81ED",
+      "EDID": "MS12TenpennyAttackAnthonyTerminal",
+      "FULL": "Terminal",
+      "DESC": "Soluções SoftLock, Inc\n\"Sua Segurança é a Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Destrancar porta"
+        ],
+        "RNAM": [
+          "Autorização concedida, destrancando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:021F25",
+      "FORMID": "021F25",
+      "EDID": "MS12DoorTerminal",
+      "FULL": "Terminal de Acesso de Emergência DCTA",
+      "DESC": "Nova Lei Revisada de Espionagem, 50 U.S.C, 31 e 32 proíbe o uso não autorizado, sujeito a uma multa de $500,00 e risco de prisão.\n\nEM CASO DE EMERGÊNCIA: Ativar as Portas de Contenção para acessar o sistema de túneis. Afaste-se dos trilhos, e tenha um bom dia.",
+      "MENU": {
+        "ITXT": [
+          "Chamada de socorro a DCTA",
+          "Abrir porta de contenção",
+          "Fechar porta de contenção"
+        ],
+        "RNAM": [
+          "ERRO ao se conectar a segurança da DCTA.",
+          "Abrindo... FALHA ao se conectar a segurança da DCTA.",
+          "FALHA... contate a manutenção da DCTA"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:081168",
+      "FORMID": "081168",
+      "EDID": "MS09VancesTerminal",
+      "FULL": "Terminal do Vance",
+      "DESC": "Os Abysmi vel Daath",
+      "MENU": {
+        "ITXT": [
+          "Definição dos vampiros",
+          "O Terror diurno",
+          "Destruição dos vampiros",
+          "Desbloquear cofre da parede",
+          "Sobre o incidente em Arefu"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:020363",
+      "FORMID": "020363",
+      "EDID": "MS09MerestiTerminal",
+      "FULL": "Terminal de Segurança da Estação Meresti Trainyard",
+      "DESC": "Departamento de Transporte Metropolitano de Washington DC\nTerminal de Segurança de Acesso Remoto da Estação Ferroviária de Meresti",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta da área de segurança",
+          "Ativar segurança interna",
+          "Ativar unidades de segurança Protectron"
+        ],
+        "RNAM": [
+          "Porta desbloqueada",
+          "Erro: Sistemas Offline",
+          "Erro: Sistemas Offline"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09A407",
+      "FORMID": "09A407",
+      "EDID": "MS09MerestiInfoTerminal01",
+      "FULL": "Terminal da Família",
+      "DESC": "Lembre-se de nossas leis.",
+      "MENU": {
+        "ITXT": [
+          "A Primeira Lei",
+          "A Primeira Lei",
+          "A Segunda Lei",
+          "A Segunda Lei",
+          "A Terceira Lei",
+          "A Terceira Lei",
+          "A Quarta Lei",
+          "A Quarta Lei",
+          "A Quinta Lei",
+          "A Quinta Lei"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09A408",
+      "FORMID": "09A408",
+      "EDID": "MS09MerestiInfoTerminal",
+      "FULL": "Terminal da Família",
+      "DESC": "Utilize este terminal somente com a autorização de Vance.",
+      "MENU": {
+        "ITXT": [
+          "As cinco leis de A Família",
+          "Terras de alimentação",
+          "Sobre o incidente em Arefu"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0031C7",
+      "FORMID": "0031C7",
+      "EDID": "MS09MerestiEntryTerminal",
+      "FULL": "Terminal de acesso à estação de trem Meresti",
+      "DESC": "Departamento de Transporte de Washington DC\nTerminal de Entrada de Acesso Remoto da Estação Ferroviária de Meresti",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta de acesso à estação"
+        ],
+        "RNAM": [
+          "Porta desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05FAF2",
+      "FORMID": "05FAF2",
+      "EDID": "MS08Terminal",
+      "FULL": "Terminal",
+      "DESC": "--Registros Pessoais--",
+      "MENU": {
+        "ITXT": [
+          "Cirurgia do homem sintético",
+          "Mentiras sobre androides?",
+          "Cirurgia facial",
+          "Agradecimento do androide",
+          "Rumores sobre o androide na Wasteland",
+          "Mentiras sobre androides?",
+          "Projeto secreto do androide",
+          "Agradecimento do androide",
+          "Escravo VIP da Comunidade",
+          "Mensagem do androide interceptada",
+          "Encontre esse androide. Agora!",
+          "Agradecimento do androide",
+          "Novo passageiro VIP. Todos a bordo!",
+          "Mensagem de um passageiro da Railroad",
+          "Railroad em perigo.",
+          "Sucesso! O passageiro da Railroad chega a salvo"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03C214",
+      "FORMID": "03C214",
+      "EDID": "MS05ShippingTerminal",
+      "FULL": "Terminal de remessa de Nuka-Cola",
+      "DESC": "Departamento de remessa de Nuka-Cola",
+      "MENU": {
+        "ITXT": [
+          "Remessas de amostra da Quantum",
+          "Anúncio da empresa",
+          "De: Marketing"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:081160",
+      "FORMID": "081160",
+      "EDID": "MS05RDTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": "Departamento de Pesquisa da Nuka-Cola \nApenas Certificado de Segurança NKC002!",
+      "MENU": {
+        "ITXT": [
+          "Anúncio da empresa",
+          "Relatório de progresso da Quantum 0067",
+          "Relatório de progresso da Quantum 0055",
+          "Relatório de progresso da Quantum 0041",
+          "Novo sabor chegando!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04DDD3",
+      "FORMID": "04DDD3",
+      "EDID": "MS05PackingTerminal",
+      "FULL": "Terminal da linha de embarque",
+      "DESC": "Terminal de Empacotamento Nuka-Cola 3C\nSoftware Versão 2.01.3a",
+      "MENU": {
+        "ITXT": [
+          "Anúncio da empresa",
+          "Instruções da linha de empacotamento",
+          "Aviso da linha de empacotamento",
+          "Carregar Nuka-Cola na unidade seletora",
+          "Carregar Quantum na unidade seletora",
+          "ATENÇÃO: condutores travados",
+          "Ativar linha de empacotamento",
+          "Ativar linha de empacotamento",
+          "Ativar linha de empacotamento"
+        ],
+        "RNAM": [
+          "Erro: estoque esgotado",
+          "Pronto",
+          "Chamar o técnico imediatamente!",
+          "ATENÇÃO: Erro no sistema!",
+          "Erro: estoque esgotado",
+          "Erro: nenhum estoque selecionado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06932C",
+      "FORMID": "06932C",
+      "EDID": "MS05NukaColaDoorOpen",
+      "FULL": "Terminal da Porta",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta"
+        ],
+        "RNAM": [
+          "A porta foi desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:08115D",
+      "FORMID": "08115D",
+      "EDID": "MS05MarketingTerminal",
+      "FULL": "Terminal de Marketing",
+      "DESC": "Departamento de Marketing da Nuka-Cola\nDiretivas da Campanha de Nuka-Cola Quantum",
+      "MENU": {
+        "ITXT": [
+          "Anúncio da empresa",
+          "Primeira fase",
+          "Segunda fase",
+          "Terceira fase"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05F6EB",
+      "FORMID": "05F6EB",
+      "EDID": "MS04LeskosTerminal01",
+      "FULL": "Terminal do doutor Lesko",
+      "DESC": "Doutor Weston Lesko\nPrivado: Favor não acessar sem autorização",
+      "MENU": {
+        "ITXT": [
+          "Onde foi que eu errei?",
+          "Localização das amostras descobertas!",
+          "Perigos"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05F6EA",
+      "FORMID": "05F6EA",
+      "EDID": "MS04LeskosTerminal",
+      "FULL": "Terminal do doutor Lesko",
+      "DESC": "Doutor Weston Lesko\nPrivado: Favor não acessar sem autorização",
+      "MENU": {
+        "ITXT": [
+          "Ativar robô científico",
+          "Entrada de comando do robô científico",
+          "Notas pessoais"
+        ],
+        "RNAM": [
+          "Erro: cápsula vazia",
+          "Erro: robô fora de alcance"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C252F",
+      "FORMID": "0C252F",
+      "EDID": "MS04LeskosMetroTerminal",
+      "FULL": "Terminal do Doutor Lesko",
+      "DESC": "Doutor Weston Lesko\nPrivado – Favor Não Acessar Sem Autorização",
+      "MENU": {
+        "ITXT": [
+          "Notas pessoais",
+          "Desbloquear porta de acesso à chocadeira"
+        ],
+        "RNAM": [
+          "Porta desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03181B",
+      "FORMID": "03181B",
+      "EDID": "MS04LeskoPortacomp",
+      "FULL": "Computador Portátil do Doutor Lesko",
+      "DESC": "Olá, Doutor Lesko.\nO que eu posso fazer por você hoje?",
+      "MENU": {
+        "ITXT": [
+          "Enviar pulso inibidor",
+          "Destruir amostra do agente mutagênico",
+          "Sintetizar nova formula mutagênica"
+        ],
+        "RNAM": [
+          "Enviando pulso",
+          "Agente neutralizador adicionado, agente mutagênico destruído",
+          "Erro: requerida a sequência da cifra principal"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:081150",
+      "FORMID": "081150",
+      "EDID": "MS04BrandiceTerminal",
+      "FULL": "Terminal de W. Brandice",
+      "DESC": "Notas Pessoais de W. Brandice",
+      "MENU": {
+        "ITXT": [
+          "17-6-2277",
+          "02-4-2277",
+          "24-2-2277",
+          "15-11-2276",
+          "30-10-2276",
+          "02-10-2276"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02EF5A",
+      "FORMID": "02EF5A",
+      "EDID": "MS03RobCoTerm",
+      "FULL": "Terminal Unidade Central",
+      "DESC": "Bem Vindo ao terminal de segurança da Instalação de Produção RobCo.",
+      "MENU": {
+        "ITXT": [
+          "Incluir alvos robóticos",
+          "Excluir alvos humanoides",
+          "Incluir alvos robóticos",
+          "Excluir alvos humanoides"
+        ],
+        "RNAM": [
+          "Inimigos robóticos identificados.",
+          "Alvos humanoides excluídos",
+          "ERRO: unidade de telemetria ausente.",
+          "ERRO: unidade de telemetria ausente."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06C110",
+      "FORMID": "06C110",
+      "EDID": "MS03RobCoMasterControlTerminal2",
+      "FULL": "Terminal do Servidor",
+      "DESC": "Parabéns com sua transferência para a posição de OPERADOR DE PROTOCOLOS DE ROBÔS! Seus confiáveis colegas de trabalho serão os modelos Protectron padrão situados por toda a instalação. \n\n\"Operações Básicas\" abrangem a tarefa de fábrica de seus colegas de trabalho, como descrito em seu manual de treinamento.\n\n\"Exterminação De Pestes\"encoraja seus colegas de trabalho a procurar e remover quaisquer baratas, roedores, ou outras pestes não desejáveis nas dependências.\n\n\"Liquidação Total\" remove os protocolos de segurança humanoide de seus colegas de trabalho, e é para uso apenas no improvável evento de invasão de criminosos ou ataque comunista.\n\n\"Teste De Estresse\n\n\" permite a você testar a qualidade de construção de modelos produzidos recentemente colocando os trabalhadores atuais uns contra os outros. \n\nTemos confiança que achará o trabalho simples, recompensador, e extremamente seguro! Divirta-se!",
+      "MENU": {
+        "ITXT": [
+          "Retornar as operações"
+        ],
+        "RNAM": [
+          "Retornando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02D837",
+      "FORMID": "02D837",
+      "EDID": "MS03robcoMasterControlTerminal",
+      "FULL": "Unidade Central de produção de RobCo",
+      "DESC": "Bem-vindo ao Terminal do Robô Mestre das Instalações RobCo!\nComo eu posso o ajudar neste belo dia?",
+      "MENU": {
+        "ITXT": [
+          "Guia de orientações",
+          "Operação básica",
+          "Iniciar Extermínio de pragas",
+          "Interromper Extermínio de pragas",
+          "Iniciar Liquidação total",
+          "Interromper Liquidação total",
+          "Iniciar Teste de Tensão",
+          "Interromper Teste de Tensão"
+        ],
+        "RNAM": [
+          "Bem-Vindo!",
+          "ERRO: Abastecimento elétrico da fábrica insuficiente",
+          "Iniciando sequência Alpha-Two-Roach",
+          "Interrompendo sequência Alpha-Two-Roach",
+          "Iniciando sequência Commie-Attack",
+          "Interrompendo sequência Commie-Attack",
+          "Iniciando sequência Omega-4-Breakdown",
+          "Interrompendo sequência Omega-4-Breakdown"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0300FC",
+      "FORMID": "0300FC",
+      "EDID": "MS03PrintingPressTerminal01b",
+      "FULL": "Terminal de Impressão",
+      "DESC": "Terminal de Prensa da Editora Hubris de Quadrinhos.\n\nLembre-se de ter certeza que ninguém está perto da Prensa enquanto operando.",
+      "MENU": {
+        "ITXT": [
+          "Ligar impressora",
+          "Verificar manuscrito",
+          "Verificar os níveis de tinta",
+          "Verificar o estoque de papel"
+        ],
+        "RNAM": [
+          "Atenção!: Mau-funcionamento da impressora",
+          "Grognak o Bárbaro, #361 - CARREGADO",
+          "Nível de tinta vermelha baixo",
+          "Papel de má qualidade disponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02FF52",
+      "FORMID": "02FF52",
+      "EDID": "MS03PrintingPressTerminal01",
+      "FULL": "Terminal de Impressão dos Quadrinhos Hubris",
+      "DESC": "Terminal de Prensa da Editora Hubris de Quadrinhos.\n\nLembre-se de ter certeza de que ninguém está perto da prensa enquanto estiver operando.",
+      "MENU": {
+        "ITXT": [
+          "Ligar impressora"
+        ],
+        "RNAM": [
+          "Falha! Sem eletricidade!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02FF54",
+      "FORMID": "02FF54",
+      "EDID": "MS03PrintingPress",
+      "FULL": "Impressora do Pré-Guerra",
+      "DESC": "Editora Hubris de Quadrinhos -\nPublicando Impressões de Qualidade a Preços de Qualidade \n\nPor favor mantenha as mãos longe da Prensa enquanto estiver em operação.",
+      "MENU": {
+        "ITXT": [
+          "Acionar a impressora"
+        ],
+        "RNAM": [
+          "Falha! Impressora não acionada."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06C111",
+      "FORMID": "06C111",
+      "EDID": "MS03LibraryTerminalMain",
+      "FULL": "Terminal Público da Biblioteca Pública Arlington",
+      "DESC": "Biblioteca Pública De Arlington - Leituras De Virgínia!\nCatálogo Da Biblioteca Central\n\nBem Vindo, Bibliotecário Chefe Munson!",
+      "MENU": {
+        "ITXT": [
+          "Programas de alfabetização",
+          "Acessar o catálogo de fichas",
+          "Transferir arquivos da biblioteca"
+        ],
+        "RNAM": [
+          "Arlington Leem!",
+          "Informação transferida ao dispositivo local",
+          "Informação transferida ao dispositivo local"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06C112",
+      "FORMID": "06C112",
+      "EDID": "MS03LibraryTerminalFront",
+      "FULL": "Terminal de Check-In",
+      "DESC": "Biblioteca Pública De Arlington - Leituras De Virgínia!\nEstação De Check-In Da Recepção\n\nBem Vindo, Bibliotecário Meier!",
+      "MENU": {
+        "ITXT": [
+          "Novo sócio",
+          "Acessar o catálogo de fichas",
+          "Acessar os arquivos da biblioteca",
+          "Devolver livros"
+        ],
+        "RNAM": [
+          "ERRO: Impressora com problemas",
+          "Informação transferida ao dispositivo local",
+          "Conexão com o computador central interrompida.",
+          "Atenção: 201 anos de atraso!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:038AAB",
+      "FORMID": "038AAB",
+      "EDID": "MS02TerminalMechanist",
+      "FULL": "Porta de Segurança",
+      "DESC": "Esta porta é para sua própria proteção. O sistema de segurança é automatizado e extremamente mortal. NÃO tente entrar sem autorização.\n\nVocê foi avisado.",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta de segurança"
+        ],
+        "RNAM": [
+          "Se afaste. Abrindo a porta."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05EA1A",
+      "FORMID": "05EA1A",
+      "EDID": "MS02TerminalAntagonizer",
+      "FULL": "Porta de Segurança",
+      "DESC": "Esta porta é para sua proteção. Sistemas automatizados e altamente letais no local. NÃO tente entrar sem autorização.\n\nVocê está avisado.",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta de segurança"
+        ],
+        "RNAM": [
+          "Se afaste. Abrindo a porta."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA6A4",
+      "FORMID": "0AA6A4",
+      "EDID": "MQ08Vault87OverseersTerminalVaultTec",
+      "FULL": "Instruções de tecnologia do Vault",
+      "MENU": {
+        "ITXT": [
+          "Carta do doutor Stanislaus Braun",
+          "Anexo A",
+          "Nota cientifica da Vault-Tec: G.E.C.K"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA6A3",
+      "FORMID": "0AA6A3",
+      "EDID": "MQ08Vault87OverseersTerminalScouting",
+      "FULL": "Relatórios de reconhecimento",
+      "MENU": {
+        "ITXT": [
+          "Missão interrompida"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA6A2",
+      "FORMID": "0AA6A2",
+      "EDID": "MQ08Vault87OverseersTerminalDossiers",
+      "FULL": "Dossiês de segurança",
+      "MENU": {
+        "ITXT": [
+          "Dr. Wayne Merrick",
+          "Don Foster",
+          "Daniel Koster",
+          "Peter Stevens",
+          "Richard Wyneski",
+          "Drew Martinelli"
+        ],
+        "RNAM": [
+          "Dados corrompidos",
+          "Dados corrompidos",
+          "Dados corrompidos"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AA6A1",
+      "FORMID": "0AA6A1",
+      "EDID": "MQ08Vault87OverseersTerminal",
+      "FULL": "Terminal do Supervisor",
+      "DESC": "Bem-vindo, Supervisor.",
+      "MENU": {
+        "ITXT": [
+          "Exibir ficha de segurança",
+          "Exibir relatório de exploração",
+          "Instruções da Vault-Tec",
+          "Abrir porta do túnel do Supervisor",
+          "Fechar porta do túnel do Supervisor"
+        ],
+        "RNAM": [
+          "Abrindo porta...",
+          "Fechando porta..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09B8FB",
+      "FORMID": "09B8FB",
+      "EDID": "MQ08Vault87MedicalRecordsTerminal",
+      "FULL": "Registros Médicos",
+      "DESC": "Somente Funcionários da Área de Registros Médicos",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear cofre",
+          "Para todos os funcionários!",
+          "Lista de falecidos",
+          "Definições do código de morte"
+        ],
+        "RNAM": [
+          "Cobre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09B8E6",
+      "FORMID": "09B8E6",
+      "EDID": "MQ08Vault87LabTechnicianTerminal",
+      "FULL": "Terminal do Laboratório Técnico",
+      "DESC": "Somente Técnicos do Laboratório EEP",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta do armazém",
+          "Aviso nº 009",
+          "Aviso nº 012",
+          "Aviso nº 018"
+        ],
+        "RNAM": [
+          "Porta desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09B90B",
+      "FORMID": "09B90B",
+      "EDID": "MQ08Vault87CJournalTerminal",
+      "FULL": "Diário pessoal de Peter Stevens",
+      "DESC": "Peter Stevens, técnico Classe 3",
+      "MENU": {
+        "ITXT": [
+          "Entrada no diário 06A01",
+          "Entrada no diário 06A02",
+          "Entrada no diário 06A03",
+          "Entrada no diário 06A04",
+          "Entrada no diário 06A05",
+          "Entrada no diário 06A06",
+          "Entrada no diário 06A07"
+        ],
+        "RNAM": [
+          "Dados corrompidos",
+          "Dados corrompidos",
+          "Dados corrompidos",
+          "Dados corrompidos"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09B907",
+      "FORMID": "09B907",
+      "EDID": "MQ08Vault87BEngineeringTerminal",
+      "FULL": "Seção de Engenharia",
+      "DESC": "Setor de Engenharia do Vault 87. Somente Funcionários",
+      "MENU": {
+        "ITXT": [
+          "Manutenção de problemas V87-002",
+          "Manutenção de problemas V87-003",
+          "Manutenção de problemas V87-004",
+          "Manutenção de problemas V87-005",
+          "Manutenção de problemas V87-006",
+          "Manutenção de problemas V87-007"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586E7",
+      "FORMID": "0586E7",
+      "EDID": "MQ08Vault87aMedicalTerminal",
+      "FULL": "Terminal do Físico Chefe",
+      "DESC": "Terminal do físico chefe do Vault 87\nDr. Wayne Merrick",
+      "MENU": {
+        "ITXT": [
+          "Entrada 87-34190",
+          "Entrada 87-34224",
+          "Entrada 87-34233",
+          "Entrada 87-34265",
+          "Entrada 87-34335"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586E5",
+      "FORMID": "0586E5",
+      "EDID": "MQ08Vault87aGeckChamberDoor",
+      "FULL": "Terminal da Câmara",
+      "DESC": "[PERIGO] Níveis de Radiação Extrema[PERIGO]",
+      "MENU": {
+        "ITXT": [
+          "Selar câmara de radiação",
+          "Limpeza radioativa de emergência"
+        ],
+        "RNAM": [
+          "Erro: Sistema de bloqueio magnético desativado",
+          "Erro: sistema de ventilação desativado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:057EC6",
+      "FORMID": "057EC6",
+      "EDID": "MQ08Vault87aFEVChamber04",
+      "FULL": "Câmara de Testes 04",
+      "DESC": "Somente pessoal autorizado da câmara de teste FEV 04!",
+      "MENU": {
+        "ITXT": [
+          "Verificar estado da câmara",
+          "Reservas FEV"
+        ],
+        "RNAM": [
+          "Erro: Câmara sem conexão código 0987YU",
+          "Tanques de FEV esgotados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:057E9C",
+      "FORMID": "057E9C",
+      "EDID": "MQ08Vault87aFEVChamber03",
+      "FULL": "Câmara de Testes 03",
+      "DESC": "Somente pessoal autorizado da câmara de teste FEV 03!",
+      "MENU": {
+        "ITXT": [
+          "Verificar estado da câmara",
+          "Reservas FEV"
+        ],
+        "RNAM": [
+          "Erro: Câmara sem conexão código 0987YU",
+          "Tanques de FEV esgotados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:057E9A",
+      "FORMID": "057E9A",
+      "EDID": "MQ08Vault87aFEVChamber02",
+      "FULL": "Câmara de Testes 02",
+      "DESC": "Somente pessoal autorizado da câmara de teste FEV 02!",
+      "MENU": {
+        "ITXT": [
+          "Verificar estado da câmara",
+          "Reservas FEV"
+        ],
+        "RNAM": [
+          "Erro: Câmara sem conexão código 0987YU",
+          "Tanques de FEV esgotados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:057EC4",
+      "FORMID": "057EC4",
+      "EDID": "MQ08Vault87aFEVChamber01",
+      "FULL": "Câmara de Testes 01",
+      "DESC": "Somente pessoal autorizado da câmara de teste FEV 01!",
+      "MENU": {
+        "ITXT": [
+          "Verificar estado da câmara",
+          "Reservas FEV"
+        ],
+        "RNAM": [
+          "Erro: Câmara sem conexão código 0987YU",
+          "Tanques de FEV esgotados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB4C3",
+      "FORMID": "0AB4C3",
+      "EDID": "MQ08Vault87aContainmentCellFawkes",
+      "FULL": "Sala de Isolamento 05",
+      "MENU": {
+        "ITXT": [
+          "Identificar espécime",
+          "Desbloquear porta",
+          "Exterminar espécime"
+        ],
+        "RNAM": [
+          "Sujeito D624",
+          "Erro na trava: chamar a manutenção",
+          "PERIGO: Não entre na sala"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586DD",
+      "FORMID": "0586DD",
+      "EDID": "MQ08Vault87aContainmentCell04",
+      "FULL": "Quarto de Isolação 01",
+      "MENU": {
+        "ITXT": [
+          "Identificar espécime",
+          "Desbloquear porta",
+          "Exterminar espécime"
+        ],
+        "RNAM": [
+          "Sujeito B164",
+          "Porta desbloqueada",
+          "PERIGO: Não entre na sala"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586DF",
+      "FORMID": "0586DF",
+      "EDID": "MQ08Vault87aContainmentCell03",
+      "FULL": "Quarto de Isolação 04",
+      "MENU": {
+        "ITXT": [
+          "Identificar espécime",
+          "Desbloquear porta",
+          "Exterminar espécime"
+        ],
+        "RNAM": [
+          "Sujeito B440",
+          "Porta desbloqueada",
+          "PERIGO: Não entre na sala"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586E1",
+      "FORMID": "0586E1",
+      "EDID": "MQ08Vault87aContainmentCell02",
+      "FULL": "Quarto de Isolação 02",
+      "MENU": {
+        "ITXT": [
+          "Identificar espécime",
+          "Desbloquear porta",
+          "Exterminar espécime"
+        ],
+        "RNAM": [
+          "Sujeito 541",
+          "Porta desbloqueada",
+          "PERIGO: Não entre na sala"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0586E3",
+      "FORMID": "0586E3",
+      "EDID": "MQ08Vault87aContainmentCell01",
+      "FULL": "Quarto de Isolação 03",
+      "MENU": {
+        "ITXT": [
+          "Identificar espécime",
+          "Desbloquear porta",
+          "Exterminar espécime"
+        ],
+        "RNAM": [
+          "Sujeito C376",
+          "Porta desbloqueada",
+          "PERIGO: Não entre na sala"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:030ACF",
+      "FORMID": "030ACF",
+      "EDID": "MQ08Vault87aCellTerminal",
+      "FULL": "Terminal de Manutenção da Ala Médica",
+      "DESC": "Acesso de Manutenção Da Ala Médica Vault 87\nUse Somente em Emergência",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta de emergência da sala 01",
+          "Abrir porta de emergência da sala 02",
+          "Abrir porta de emergência da sala 03",
+          "Abrir porta de emergência da sala 04",
+          "Abrir porta de emergência da sala 05"
+        ],
+        "RNAM": [
+          "Dardos explosivos em posição - Porta aberta",
+          "Dardos explosivos em posição - Porta aberta",
+          "Dardos explosivos em posição - Porta aberta",
+          "Dardos explosivos em posição - Porta aberta",
+          "Dardos explosivos em posição - Porta aberta"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:031E74",
+      "FORMID": "031E74",
+      "EDID": "MQ07EulogyTerminal",
+      "FULL": "Terminal Principal de Paradise Falls",
+      "DESC": "Bem Vindo a Paradise Falls",
+      "MENU": {
+        "ITXT": [
+          "Atualizar conexões de rede",
+          "Atualizar conexões de rede",
+          "Desbloquear cofre",
+          "Sistema de contenção pessoal"
+        ],
+        "RNAM": [
+          "Não foram encontradas novas conexões de rede.",
+          "Novo terminal encontrado. Rede atualizada.",
+          "Cofre desbloqueado...",
+          "Acesso negado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07382C",
+      "FORMID": "07382C",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault92nfo",
+      "FULL": "Terminal de Vault-Tec",
+      "DESC": "Informação do Vault 92",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0209DC",
+      "FORMID": "0209DC",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault87Info",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "Informação sobre o Vault 87",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0209DD",
+      "FORMID": "0209DD",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault87Equip",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "Expedição de Equipamento do Vault 87",
+      "MENU": {
+        "ITXT": [
+          "4 câmaras de congelamento",
+          "3 campos de contenção de plasma",
+          "1 G.E.C.K.",
+          "****ERRO****",
+          "Dados corrompidos detectados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07382A",
+      "FORMID": "07382A",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault76nfo",
+      "FULL": "Terminal de Vault-Tec",
+      "DESC": "Informação do Vault 76",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07383D",
+      "FORMID": "07383D",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault112nfo",
+      "FULL": "Terminal de Vault-Tec",
+      "DESC": "Informação do Vault 112",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:073831",
+      "FORMID": "073831",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault108nfo",
+      "FULL": "Terminal de Vault-Tec",
+      "DESC": "Informação do Vault 108",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07382F",
+      "FORMID": "07382F",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault106nfo",
+      "FULL": "Terminal de Vault-Tec",
+      "DESC": "Informação do Vault 106",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:020ED7",
+      "FORMID": "020ED7",
+      "EDID": "MQ06VaultTecTerminalSubMenuVault101Info",
+      "FULL": "Terminal Vault-Tec",
+      "DESC": "Informação sobre o Vault 101",
+      "MENU": {
+        "ITXT": [
+          "Equipamentos concedidos",
+          "Tarefas dos funcionários",
+          "Objetivos do projeto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0209DB",
+      "FORMID": "0209DB",
+      "EDID": "MQ06VaultTecTerminalSubMenuRestricted",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "ACESSO RESTRITO",
+      "MENU": {
+        "ITXT": [
+          "ACESSO RESTRITO"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0209DA",
+      "FORMID": "0209DA",
+      "EDID": "MQ06VaultTecTerminalSubMenu3",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "****ERRO****\nArquivos Corrompidos.\nPor favor reinstale o software do sistema operacional."
+    },
+    {
+      "FORM": "@Fallout3.esm:0209D9",
+      "FORMID": "0209D9",
+      "EDID": "MQ06VaultTecTerminalSubMenu2",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "****ERRO****",
+      "MENU": {
+        "ITXT": [
+          "****ERRO****"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:020840",
+      "FORMID": "020840",
+      "EDID": "MQ06VaultTecTerminalSubMenu1",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "Lista de Vaults da Área de DC",
+      "MENU": {
+        "ITXT": [
+          "Vault 76",
+          "Vault 87",
+          "Vault 92",
+          "Vault 101",
+          "Vault 106",
+          "Vault 108",
+          "Vault 112"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02083F",
+      "FORMID": "02083F",
+      "EDID": "MQ06VaultTecTerminal",
+      "FULL": "Terminal de Tecnologia Vault",
+      "DESC": "Sistema de Administração da Vault-Tec\nBase de Dados de Registros 923-A\n\n****REDE OFFLINE****\nPor favor cheque sua conexão local",
+      "MENU": {
+        "ITXT": [
+          "Lista de Vaults do D.C.",
+          "Missão do pessoal da Vault-Tec",
+          "Formulários de requisições de pedidos"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0039B4",
+      "FORMID": "0039B4",
+      "EDID": "MQ06LLBridgeTerminal",
+      "FULL": "Terminal Computacional",
+      "DESC": "Terminal de acesso remoto 07b da Vault-Tec",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta",
+          "Bloquear porta"
+        ],
+        "RNAM": [
+          "Porta desbloqueada",
+          "Porta bloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06B93E",
+      "FORMID": "06B93E",
+      "EDID": "MQ05WaveTerminal",
+      "FULL": "Controle da Porta de Transbordamento",
+      "DESC": "** !! ACESSO SELETIVO !! **\nApenas Pessoal Da Autoridade De Trânsito De DC",
+      "MENU": {
+        "ITXT": [
+          "Desativar porta de inundação"
+        ],
+        "RNAM": [
+          "Desativando porta de inundação..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C339F",
+      "FORMID": "0C339F",
+      "EDID": "MQ04FailsafeTerminalVersionControlSubMenu",
+      "FULL": "Terminal de comando auxiliar do Vault 112",
+      "DESC": "Notas Sobre o Controle de Versão\n\nBem-vindo, Dr. Braun",
+      "MENU": {
+        "ITXT": [
+          "Exibir controle de versão atual",
+          "Exibir notas das versões anteriores"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C339B",
+      "FORMID": "0C339B",
+      "EDID": "MQ04FailsafeTerminalInvasionSubMenu",
+      "FULL": "Terminal de comando auxiliar do Vault 112",
+      "DESC": "\"Invasão Chinesa \"Subrotina de Acesso ao Terminal de Segurança\n\nBem-vindo, Dr. Braun",
+      "MENU": {
+        "ITXT": [
+          "Iniciar a \"Invasão Chinesa\"",
+          "Iniciar a \"Invasão Chinesa\"",
+          "Documentação do programa",
+          "Nota do Dr. Braun"
+        ],
+        "RNAM": [
+          "Programa em execução. Proceda com cautela.",
+          "Reveja a documentação antes de continuar"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02B80B",
+      "FORMID": "02B80B",
+      "EDID": "MQ04FailsafeTerminal",
+      "FULL": "Terminal de Comando Auxiliar do Vault 112",
+      "DESC": "Terminal De Comando Auxiliar\nPor Favor, Consulte Um Supervisor Antes De Proceder.",
+      "MENU": {
+        "ITXT": [
+          "Acessar o programa \"Invasão Chinesa\"",
+          "Acessar o controle de versão",
+          "Nota do Dr. Braun: Lagoa Toucan",
+          "Nota do Dr. Braun: Chalé Slalom",
+          "Nota do Dr. Braun: Beco Virtual"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03E883",
+      "FORMID": "03E883",
+      "EDID": "MQ02WashingtonMonumentTerminal",
+      "FULL": "Terminal de segurança do monumento Washington",
+      "DESC": "Terminal de acesso ao monumento Washington\nAcesso exclusivo da Irmandade de Aço e da Rádio de Notícias Galaxy",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta externa de segurança",
+          "Fechar porta externa de segurança"
+        ],
+        "RNAM": [
+          "Abrindo porta",
+          "Fechando porta"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77E3",
+      "FORMID": "0C77E3",
+      "EDID": "MQ02SecurityOfficeTerminal",
+      "FULL": "Segurança do Museu da Tecnologia",
+      "DESC": "Segurança do Museu de Tecnologia",
+      "MENU": {
+        "ITXT": [
+          "Boletim da segurança 001",
+          "Boletim da segurança 002",
+          "Boletim da segurança 003",
+          "#000",
+          "#Abrir cofre"
+        ],
+        "RNAM": [
+          "Procurar terminais de informação",
+          "Cofre aberto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D490",
+      "FORMID": "07D490",
+      "EDID": "MQ02MuseumRocketTerminal01",
+      "FULL": "Foguete Delta IX",
+      "DESC": "Foguete Delta IX",
+      "MENU": {
+        "ITXT": [
+          "Informações do foguete Delta IX",
+          "Exibir seção de instrumentos",
+          "Apagar luz da seção de instrumentos",
+          "Exibir seção da tripulação",
+          "Apagar luz da seção de tripulação",
+          "Exibir seção de propulsão",
+          "Apagar luz da seção de propulsão"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D483",
+      "FORMID": "07D483",
+      "EDID": "MQ02MuseumResearchTerminal01",
+      "FULL": "Terminal Central de Pesquisas",
+      "DESC": "Museu da Tecnologia, terminal do funcionário",
+      "MENU": {
+        "ITXT": [
+          "Registro de entrada 20770103",
+          "Registro de entrada 20761010",
+          "Registro de entrada 20760307",
+          "Registro de entrada 20760211",
+          "Registro de entrada 20760202"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:027962",
+      "FORMID": "027962",
+      "EDID": "MQ02MuseumPlanetariumTerminal02",
+      "FULL": "Terminal do Planetário",
+      "DESC": "Terminal de acesso ao planetário",
+      "MENU": {
+        "ITXT": [
+          "Parar espetáculo em progresso",
+          "Iniciar espetáculo"
+        ],
+        "RNAM": [
+          "Espetáculo interrompido",
+          "Espetáculo iniciado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:027952",
+      "FORMID": "027952",
+      "EDID": "MQ02MuseumPlanetariumTerminal01",
+      "FULL": "Terminal do Planetário",
+      "DESC": "Terminal de acesso ao planetário",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear saída do planetário",
+          "Desbloquear saída do planetário"
+        ],
+        "RNAM": [
+          "Saída do planetário desbloqueada",
+          "ERRO: nenhuma porta para desbloquear"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D478",
+      "FORMID": "07D478",
+      "EDID": "MQ02MuseumMaintenanceTerminal",
+      "FULL": "Manutenção do Museu",
+      "DESC": "Museu da Tecnologia, Departamento de manutenção.",
+      "MENU": {
+        "ITXT": [
+          "Boletim MT20761211",
+          "Boletim MT20761130",
+          "Boletim MT20761117",
+          "Boletim MT20761020"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77DA",
+      "FORMID": "0C77DA",
+      "EDID": "MQ02MuseumInfoTerminalHackedC",
+      "FULL": "Informação do Museu",
+      "DESC": "Bem-vindo ao museu da Tecnologia\n#Atualizações do Sistema por Cortesia de Prime",
+      "MENU": {
+        "ITXT": [
+          "Guia de exposições",
+          "Eventos especiais",
+          "Entradas para o planetário",
+          "Entradas para o GigantoMax",
+          "#000",
+          "#003",
+          "#003 Confirmado",
+          "#Obter senha",
+          "#Erro",
+          "#Senha concedida"
+        ],
+        "RNAM": [
+          "Necessário 3 confirmações",
+          "Sequência bloqueada",
+          "Sequência completa"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77D5",
+      "FORMID": "0C77D5",
+      "EDID": "MQ02MuseumInfoTerminalHackedB",
+      "FULL": "Informação do Museu",
+      "DESC": "Bem-vindo ao museu da Tecnologia\n#Atualizações do Sistema por Cortesia de Prime",
+      "MENU": {
+        "ITXT": [
+          "Guia de exposições",
+          "Eventos especiais",
+          "Entradas para o planetário",
+          "Entradas para o GigantoMax",
+          "#000",
+          "#002",
+          "#002 Confirmado",
+          "#Obter senha",
+          "#Erro",
+          "#Senha concedida"
+        ],
+        "RNAM": [
+          "Necessário 3 confirmações",
+          "Sequência bloqueada",
+          "Sequência completa"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77D2",
+      "FORMID": "0C77D2",
+      "EDID": "MQ02MuseumInfoTerminalHackedA",
+      "FULL": "Informação do Museu",
+      "DESC": "Bem-vindo ao museu da Tecnologia\n#Atualizações do Sistema por Cortesia de Prime",
+      "MENU": {
+        "ITXT": [
+          "Guia de exposições",
+          "Eventos especiais",
+          "Entradas para o planetário",
+          "Entradas para o GigantoMax",
+          "#000",
+          "#001",
+          "#001 Confirmado",
+          "#Obter senha",
+          "#Erro",
+          "#Senha concedida"
+        ],
+        "RNAM": [
+          "Necessário 3 confirmações",
+          "Sequência bloqueada",
+          "Sequência completa"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77DB",
+      "FORMID": "0C77DB",
+      "EDID": "MQ02MuseumInfoTerminalHacked03",
+      "DESC": "#Boa sorte",
+      "MENU": {
+        "ITXT": [
+          "#099",
+          "#105",
+          "#111",
+          "#113"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77D6",
+      "FORMID": "0C77D6",
+      "EDID": "MQ02MuseumInfoTerminalHacked02",
+      "DESC": "#Boa sorte",
+      "MENU": {
+        "ITXT": [
+          "#024",
+          "#038",
+          "#053",
+          "#088"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77D4",
+      "FORMID": "0C77D4",
+      "EDID": "MQ02MuseumInfoTerminalHacked01",
+      "DESC": "#Boa sorte",
+      "MENU": {
+        "ITXT": [
+          "#009",
+          "#019",
+          "#030",
+          "#049"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D008",
+      "FORMID": "07D008",
+      "EDID": "MQ02MuseumInfoTerminalB",
+      "FULL": "Informação do Museu",
+      "DESC": "Bem-vindo ao Museu da Tecnologia",
+      "MENU": {
+        "ITXT": [
+          "Guia de exposições",
+          "Eventos especiais",
+          "Entradas para o planetário",
+          "Entradas para o GigantoMax"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:075894",
+      "FORMID": "075894",
+      "EDID": "MQ02MuseumInfoTerminal02",
+      "FULL": "Museu da Informação",
+      "MENU": {
+        "ITXT": [
+          "Vault-Tec o Vault do futuro",
+          "Demonstração da Power Armor da West Tek",
+          "Palestra: A loucura de Oppenheimer?"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:075893",
+      "FORMID": "075893",
+      "EDID": "MQ02MuseumInfoTerminal01",
+      "FULL": "Museu da Informação",
+      "MENU": {
+        "ITXT": [
+          "Exposições sobre transporte",
+          "Exposições robóticas",
+          "Exposições aéreas",
+          "Exposições de voos espaciais"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:075871",
+      "FORMID": "075871",
+      "EDID": "MQ02MuseumInfoTerminal",
+      "FULL": "Museu da Informação",
+      "DESC": "Bem-vindo ao Museu de Tecnologia",
+      "MENU": {
+        "ITXT": [
+          "Guia de exposições",
+          "Eventos especiais",
+          "Entradas para o planetário",
+          "Entradas para o GigantoMax"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06D85A",
+      "FORMID": "06D85A",
+      "EDID": "MQ02GNRLockTerminal03",
+      "FULL": "Terminal de acesso a Rádio de Notícias Galaxy",
+      "DESC": "Terminal de Acesso da Rádio de Notícias Galaxy",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta exterior"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:027973",
+      "FORMID": "027973",
+      "EDID": "MQ02GNRLockTerminal02",
+      "FULL": "Terminal de acesso da Rádio de Notícias Galaxy",
+      "DESC": "Terminal de Acesso a Rádio de Notícias Galaxy",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear acesso à cabine de transmissão"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D487",
+      "FORMID": "07D487",
+      "EDID": "MQ02FarOutSpaceFactsTerminal",
+      "FULL": "Detalhes do Espaço Sideral!",
+      "DESC": "Detalhes do Espaço Sideral!",
+      "MENU": {
+        "ITXT": [
+          "Fato espacial nº1",
+          "Fato espacial nº2",
+          "Fato espacial nº3",
+          "Fato espacial nº4",
+          "Fato espacial nº5",
+          "Fato espacial nº6",
+          "Fato espacial nº7",
+          "Fato espacial nº8"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06CB42",
+      "FORMID": "06CB42",
+      "EDID": "MQ01MoriartysTerminalVisitors",
+      "FULL": "Terminal de Moriarty",
+      "MENU": {
+        "ITXT": [
+          "Sr. Burke",
+          "James (Vault 101)"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06CB41",
+      "FORMID": "06CB41",
+      "EDID": "MQ01MoriartysTerminalResidents",
+      "FULL": "Terminal de Moriarty",
+      "MENU": {
+        "ITXT": [
+          "Jericho",
+          "Leo Stahl",
+          "Andy Stahl",
+          "Billy Creel",
+          "Dr. Church"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03C203",
+      "FORMID": "03C203",
+      "EDID": "MQ01MoriartysTerminal",
+      "FULL": "Terminal de Moriarty",
+      "DESC": "Propriedade Exclusiva de Moriarty!\n===================\nFrase Motivadora do Mês: \"Quando faltam tampas, significa que o Brahmin está magro.\"",
+      "MENU": {
+        "ITXT": [
+          "Residentes",
+          "Visitantes",
+          "Contas dos Clientes"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BAF2C",
+      "FORMID": "0BAF2C",
+      "EDID": "MoAHInformationTerminalA",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Bem-vindo ao Sistema de Defesa Interno do Museu de História Americana (S.D.I.M.H.A.)",
+      "MENU": {
+        "ITXT": [
+          "<Proteger sala>",
+          "<Abrir porta da sala>"
+        ],
+        "RNAM": [
+          "Por favor, mantenha distância da porta",
+          "Por favor, mantenha distância da porta"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BAF2A",
+      "FORMID": "0BAF2A",
+      "EDID": "MoAH03SecurityTerminal",
+      "FULL": "Controle de sistema da torre",
+      "DESC": "-Gerenciador de Infratores RobCo-\n=================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar parâmetros de objetivos",
+          "<!>ATENÇÃO: Não existem dados de objetivos<!>",
+          "Ativar sistema de torres",
+          "Desativar sistema de torres",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Proteger arquivos",
+          "Abrir portas do arquivo"
+        ],
+        "RNAM": [
+          "Dados dos objetivos apagados. Atuar com cautela.",
+          "<!>Por Favor, atuar com cautela<!>",
+          "Iniciando...",
+          "Desativando...",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Por favor mantenha distância.",
+          "Por favor mantenha distância."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BAF2B",
+      "FORMID": "0BAF2B",
+      "EDID": "MoAH01SecurityTerminal",
+      "FULL": "Controle de sistema da torre",
+      "DESC": "-Gerenciador de Infratores RobCo-\n=================================",
+      "MENU": {
+        "ITXT": [
+          "Re-configurar parâmetros de objetivos",
+          "<!>ATENÇÃO: Não existem dados de objetivos<!>",
+          "Ativar sistema de torres",
+          "Desativar sistema de torres",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Informação do sistema",
+          "Proteger exibição",
+          "Abrir porta da exibição"
+        ],
+        "RNAM": [
+          "Dados dos objetivos apagados. Atuar com cautela.",
+          "<!>Por Favor, atuar com cautela<!>",
+          "Iniciando...",
+          "Desativando...",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Carregando arquivo de LOG..",
+          "Por favor mantenha distância.",
+          "Por favor mantenha distância."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:01F38B",
+      "FORMID": "01F38B",
+      "EDID": "MetroCenter02Computer01",
+      "FULL": "Terminal de segurança do metro",
+      "DESC": "Bem-vindo à Segurança do Metrô",
+      "MENU": {
+        "ITXT": [
+          "Ativar Protectron do metrô",
+          "Desativar Protectron do metrô",
+          "Ativar escadas rolantes",
+          "Acender luzes"
+        ],
+        "RNAM": [
+          "Ativando Protectron...",
+          "Desativando Protectron...",
+          "ERRO: Chamar a manutenção.",
+          "ERRO: Chamar a manutenção."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:058823",
+      "FORMID": "058823",
+      "EDID": "MegCratersideSupplyTerminal",
+      "FULL": "Terminal de Moira",
+      "DESC": "Área de trabalho Doc-u-tron\nmodelo 986\n\nBem-vinda, MOIRA. O que você gostaria de fazer hoje?",
+      "MENU": {
+        "ITXT": [
+          "Armazenar inventário",
+          "Armazenar inventário",
+          "Controlar experimentos atuais",
+          "Controlar experimentos atuais",
+          "Progresso do guia de sobrevivência",
+          "Progresso do guia de sobrevivência",
+          "Progresso do guia de sobrevivência"
+        ],
+        "RNAM": [
+          "Dados corrompidos! Utilize o Backup.",
+          "Os benefícios aumentaram 20%.",
+          "Exibindo...",
+          "Experimentos apagados.",
+          "O arquivo foi apagado.",
+          "Arquivo impresso e distribuído.",
+          "Edição em progresso."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:054E77",
+      "FORMID": "054E77",
+      "EDID": "MegatonChildrenOfAtomTerminal",
+      "FULL": "Terminal do Confessor Cromwell",
+      "DESC": "Bem-vindo, Confessor. Pode caminhar sobre a incandescência...",
+      "MENU": {
+        "ITXT": [
+          "O Núcleo do átomo",
+          "Pesquisa sobre a segunda chegada do átomo",
+          "Provocando a divisão"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0151D7",
+      "FORMID": "0151D7",
+      "EDID": "MegatonBrassLanternTerminal",
+      "FULL": "Terminal do Brass Lantern",
+      "DESC": "Bem-vindo ao sistema do The Brass Lantern, Sr. Stahl. O que você gostaria de fazer hoje?",
+      "MENU": {
+        "ITXT": [
+          "Notas sobre Leo",
+          "Notas sobre Leo",
+          "Bilhetes",
+          "Bilhetes",
+          "Notas do inventário",
+          "Abrir cofre do chão"
+        ],
+        "RNAM": [
+          "Cofre aberto..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A6FF7",
+      "FORMID": "0A6FF7",
+      "EDID": "mariposaExhaustVent",
+      "FULL": "Controle de Exaustão da Ventilação",
+      "DESC": "--Estação Mariposa--\nTerminal de serviços 6c",
+      "MENU": {
+        "ITXT": [
+          "Expelir gases",
+          "Expelir gases"
+        ],
+        "RNAM": [
+          "Mantenha distância, gás inflamável...",
+          "ERRO: Gases expelidos recentemente"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05AD6B",
+      "FORMID": "05AD6B",
+      "EDID": "MamaDolceTerminal02",
+      "FULL": "Terminal",
+      "DESC": "Bem-vindo, agente Huang.\nSaudações a república popular!\n{configurações de vídeo: Português\/BR}",
+      "MENU": {
+        "ITXT": [
+          "Bem-Vindo, agente Huang."
+        ],
+        "RNAM": [
+          "Viva a República Popular!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05AD69",
+      "FORMID": "05AD69",
+      "EDID": "MamaDolceTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Alimentos processados Mama Dolce\nUm negócio americano\n\n== Menu de operações ==",
+      "MENU": {
+        "ITXT": [
+          "1. Nível de recursos",
+          "2. Análise trimestral",
+          "3. Nota do Recursos Humanos",
+          "4. Alerta, diagnóstico urgente",
+          "5. Ikkm00:Mvkz6x1ml:Nqtm",
+          "5. Acessar arquivo codificado"
+        ],
+        "RNAM": [
+          "[ERRO HX40-399: chave decod. inválida]",
+          "[chave de decod. válida]"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B69D3",
+      "FORMID": "0B69D3",
+      "EDID": "HubrisComicsPressTerminal01b",
+      "FULL": "Terminal da Imprensa",
+      "DESC": "Terminal de impressão da Editora de quadrinhos Hubris.\n\nLembre-se, tenha sempre certeza de que ninguém está perto das impressoras em funcionamento.",
+      "MENU": {
+        "ITXT": [
+          "Ligar a impressora",
+          "Desligar a impressora",
+          "Verificar manuscrito",
+          "Verificar os níveis de tinta",
+          "Verificar o estoque de papel"
+        ],
+        "RNAM": [
+          "Atenção: Mau funcionamento da máquina!",
+          "Desligando impressora...",
+          "Grognak o Bárbaro, #361 - CARREGADO",
+          "Nível de tinta vermelha baixo",
+          "Papel de má qualidade disponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02FF3D",
+      "FORMID": "02FF3D",
+      "EDID": "Hubris03Terminal01",
+      "FULL": "Terminal de Publicação dos Quadrinhos Hubris",
+      "DESC": "Editora Hubris de Quadrinhos -\nPublicando Impressões de Qualidade a Preços de Qualidade",
+      "MENU": {
+        "ITXT": [
+          "Controles do Ar condicionado",
+          "Desbloquear porta do capataz",
+          "Calendário de publicações",
+          "Cartas para o editor",
+          "Avisos da impressora"
+        ],
+        "RNAM": [
+          "Sistema inoperante",
+          "Porta desbloqueada",
+          "Exibindo calendário de publicações",
+          "Exibindo caixa de entrada",
+          "Carregando arquivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07680A",
+      "FORMID": "07680A",
+      "EDID": "Hubris01Terminal01",
+      "FULL": "Terminal de Recepção de Hubris Comics",
+      "DESC": "Editora de quadrinhos Hubris -\nPublicações e impressões de qualidade por ótimos preços",
+      "MENU": {
+        "ITXT": [
+          "Controles do Ar condicionado",
+          "Calendário de publicações",
+          "Cartas para o editor",
+          "Aviso do teste beta",
+          "Avisos da impressora"
+        ],
+        "RNAM": [
+          "Sistema inoperante",
+          "Exibindo calendário de publicações",
+          "Exibindo caixa de entrada",
+          "Exibindo aviso",
+          "Carregando arquivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06031F",
+      "FORMID": "06031F",
+      "EDID": "GermPoliceHQImpound",
+      "FULL": "Informação de objetos apreendidos",
+      "MENU": {
+        "ITXT": [
+          "<Dados corrompidos>",
+          "Caso 43027",
+          "Caso 45602",
+          "<Dados corrompidos>"
+        ],
+        "RNAM": [
+          "*K!9Bfh6sK#J44H$f",
+          "Senhorita Danielle Faye",
+          "Senhora Jennifer Wilkins",
+          "$fJfk0h834lk%hHDS"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0603CC",
+      "FORMID": "0603CC",
+      "EDID": "GermPoliceHQContraband",
+      "FULL": "Terminal da Estação Policial",
+      "MENU": {
+        "ITXT": [
+          "<Dados corrompidos>",
+          "<Dados corrompidos>",
+          "Desbloquear armário de contrabando"
+        ],
+        "RNAM": [
+          "*K!9Bfh6sK#J44H$f",
+          "$fJfk0h834lk%hHDS",
+          "Porta desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04F582",
+      "FORMID": "04F582",
+      "EDID": "GermPoliceHQ01JailorTerminal",
+      "FULL": "Terminal das Celas",
+      "MENU": {
+        "ITXT": [
+          "<Dados corrompidos>",
+          "Emergência, desbloquear cela",
+          "<Dados corrompidos>"
+        ],
+        "RNAM": [
+          "*K!9Bfh6sK#J44H$f",
+          "Desbloqueando...",
+          "$fJfk0h834lk%hHDS"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0035E5",
+      "FORMID": "0035E5",
+      "EDID": "genericProtectronTerminalDesk",
+      "FULL": "Manutenção automatizada",
+      "DESC": "Terminal de manutenção RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara conhecer os últimos \nprodutos RobCo, visite\nseu salão de exposição local.",
+      "MENU": {
+        "ITXT": [
+          "Iniciar rotina de verificação de bilhetes",
+          "Iniciar rotina de verificação de bilhetes"
+        ],
+        "RNAM": [
+          "Carregando sequência...",
+          "<ERRO> Manutenção em progresso"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:064B9C",
+      "FORMID": "064B9C",
+      "EDID": "genericMetroProtectronTerminal",
+      "FULL": "Terminal de Metrô",
+      "DESC": "Terminal de manutenção RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara conhecer os últimos \nprodutos RobCo, visite\nseu salão de exposição local.",
+      "MENU": {
+        "ITXT": [
+          "Iniciar rotina de verificação de bilhetes",
+          "Iniciar rotina de verificação de bilhetes",
+          "Mapa do Metrô da DCTA"
+        ],
+        "RNAM": [
+          "Carregando sequência...",
+          "<ERRO> Manutenção em progresso"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06217D",
+      "FORMID": "06217D",
+      "EDID": "FriendshipMetroComputer01",
+      "FULL": "Terminal de Segurança do Metrô",
+      "DESC": "Bem-vindo à Segurança do Metrô",
+      "MENU": {
+        "ITXT": [
+          "Ativar proteção do Metro",
+          "Desativar proteção do Metro",
+          "Ativar escadas rolantes",
+          "Acender luzes"
+        ],
+        "RNAM": [
+          "Proteção ativada...",
+          "Desativando proteção...",
+          "ERRO: Chamar a manutenção",
+          "ERRO: Chamar a manutenção"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:064CFD",
+      "FORMID": "064CFD",
+      "EDID": "FriendshipDoorTerminalA",
+      "FULL": "Computador de Acesso a Gerência do Esgoto",
+      "DESC": "---Bem-vindo ao administrador de Esgoto---\nPor favor insira um comando. \n\nv0.78",
+      "MENU": {
+        "ITXT": [
+          "Por favor, insira um comando.",
+          "v0.78"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C45",
+      "FORMID": "0B2C45",
+      "EDID": "FortIndResearchTerminal06",
+      "FULL": "Terminal de Investigação",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "Registro da investigação - Lança Mísseis"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C4A",
+      "FORMID": "0B2C4A",
+      "EDID": "FortIndResearchTerminal05",
+      "FULL": "Terminal de Investigação",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "Registro da investigação - Armadura Enclave"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C49",
+      "FORMID": "0B2C49",
+      "EDID": "FortIndResearchTerminal04",
+      "FULL": "Terminal de Investigação",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "Registro da investigação - Granada de Impulsos"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C48",
+      "FORMID": "0B2C48",
+      "EDID": "FortIndResearchTerminal03",
+      "FULL": "Terminal de Investigação",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "Registro da investigação - Minigun"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C47",
+      "FORMID": "0B2C47",
+      "EDID": "FortIndResearchTerminal02",
+      "FULL": "Terminal de Investigação",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "Registro da investigação - Rifle de plasma"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2C46",
+      "FORMID": "0B2C46",
+      "EDID": "FortIndResearchTerminal01",
+      "FULL": "Terminal de Investigação",
+      "DESC": "Assunto -> Rifle\/Pistola Laser\nPesquisador -> J. T. Benning",
+      "MENU": {
+        "ITXT": [
+          "Análise",
+          "Componentes críticos",
+          "Funcionamento em campo",
+          "Manutenção"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03D6FD",
+      "FORMID": "03D6FD",
+      "EDID": "FortIndependence02Terminal02",
+      "FULL": "Terminal da Porta",
+      "DESC": "Terminal da porta do acesso inferior da Fortaleza da Independência",
+      "MENU": {
+        "ITXT": [
+          "Verificação de identidade",
+          "Ativar porta",
+          "Iniciar desinfecção"
+        ],
+        "RNAM": [
+          "Scanner ausente: violação de segurança",
+          "Porta ativada",
+          "Spray anti-bactérias esgotado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03D6F6",
+      "FORMID": "03D6F6",
+      "EDID": "FortIndependence02Terminal01",
+      "FULL": "Terminal da Porta",
+      "DESC": "Terminal da porta do acesso inferior da Fortaleza da Independência",
+      "MENU": {
+        "ITXT": [
+          "Verificação de identidade",
+          "Ativar porta",
+          "Iniciar desinfecção"
+        ],
+        "RNAM": [
+          "Scanner ausente: violação de segurança",
+          "Porta ativada",
+          "Spray anti-bactérias esgotado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2E54",
+      "FORMID": "0B2E54",
+      "EDID": "FortInd01Terminal02",
+      "FULL": "Terminal",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "<Registro de dados - Defensor Rockfowl>"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2595",
+      "FORMID": "0C2595",
+      "EDID": "FortInd01Terminal01sub02",
+      "FULL": "Relatórios de Campo",
+      "DESC": "Informação de Campo\nDefensor Rockfowl\nPatrulha de Especial de Reconhecimento 0300",
+      "MENU": {
+        "ITXT": [
+          "<Transferir gravação de áudio>"
+        ],
+        "RNAM": [
+          "Áudio armazenado em dispositivo portátil"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C2594",
+      "FORMID": "0C2594",
+      "EDID": "FortInd01Terminal01sub01",
+      "FULL": "Relatórios de Campo",
+      "DESC": "Informação de Campo\nProtetor Casdin\nPatrulha de Superfície 0700 (Fairfax)",
+      "MENU": {
+        "ITXT": [
+          "<Transferir gravação de áudio>"
+        ],
+        "RNAM": [
+          "Áudio armazenado em dispositivo portátil"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2E51",
+      "FORMID": "0B2E51",
+      "EDID": "FortInd01Terminal01",
+      "FULL": "Informes de campo",
+      "DESC": "\"Sempre se lembre dos fogos dos quais nós fomos forjados. Aqueles que esquecem estão perdidos.\"",
+      "MENU": {
+        "ITXT": [
+          "<Registro de dados: Prot. Casdin>",
+          "<Registro de dados: Def. Rockfowl>",
+          "Fechar sessão"
+        ],
+        "RNAM": [
+          "Fechando."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04CB17",
+      "FORMID": "04CB17",
+      "EDID": "FortCCOHomeTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Fortaleza Constantine , MD\nBem Vindo, Comandante\n                   (Somente Uso Privado)\n(Todo uso monitorado pela Inteligência da FAEU)",
+      "MENU": {
+        "ITXT": [
+          "Ativar porta do abrigo"
+        ],
+        "RNAM": [
+          "Porta do abrigo ativada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04CC78",
+      "FORMID": "04CC78",
+      "EDID": "FortCBunkerTerminal01",
+      "FULL": "Controle de lançamento da Fortaleza Constantine",
+      "DESC": "Fortaleza Constantine, MD\n======================\nSysops Com Comando De Um Toque Da FAEU\nBem Vindo, Comandante.",
+      "MENU": {
+        "ITXT": [
+          "Lançar ICBM",
+          "Lançando ICBM...",
+          "Erro no lançamento do míssil!"
+        ],
+        "RNAM": [
+          "EAM\/Autenticação: AMEAÇA VERIFICADA",
+          "Navegação de seleção de objetivo corrompida"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B3727",
+      "FORMID": "0B3727",
+      "EDID": "FortCArmorTerminal",
+      "FULL": "Terminal da Armadura R&D",
+      "DESC": "Protótipo de Armadura Médica \nP&D de Operações de Campo da FAEU",
+      "MENU": {
+        "ITXT": [
+          "Desativar campo de estase",
+          "Ativar campo de estase"
+        ],
+        "RNAM": [
+          "Desativando campo de estase",
+          "Erro ao ativar campo de estase"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4625",
+      "FORMID": "0A4625",
+      "EDID": "ForgeTerminal04",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Nota de Frank"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A452F",
+      "FORMID": "0A452F",
+      "EDID": "ForgeTerminal03",
+      "FULL": "Terminal do Setor de Manutenção",
+      "DESC": "Terminal do setor de reparo",
+      "MENU": {
+        "ITXT": [
+          "Elevar plataforma!",
+          "Baixar plataforma!"
+        ],
+        "RNAM": [
+          "Incapaz de localizar a plataforma!",
+          "Incapaz de localizar a plataforma!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A452D",
+      "FORMID": "0A452D",
+      "EDID": "ForgeTerminal02",
+      "FULL": "Terminal do Setor de Manutenção",
+      "DESC": "Terminal do setor de reparo",
+      "MENU": {
+        "ITXT": [
+          "Nota do gerenciamento relativo ao setor B",
+          "Ativar elevador"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A452B",
+      "FORMID": "0A452B",
+      "EDID": "ForgeTerminal01",
+      "FULL": "Terminal do Setor de Manutenção",
+      "DESC": "Terminal do setor de reparo",
+      "MENU": {
+        "ITXT": [
+          "Nota do gerenciamento relativo ao setor B"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4942",
+      "FORMID": "0A4942",
+      "EDID": "ForgeSecurityTerminal03",
+      "FULL": "Terminal de Emergência do Setor A",
+      "DESC": "Terminal de emergência do setor A",
+      "MENU": {
+        "ITXT": [
+          "Nota do gerenciamento relativo ao setor B",
+          "Desativar torres do setor A",
+          "Ativar torres do setor A",
+          "Ativar explosão de impulsos de emergência!",
+          "Ativar explosão de impulsos de emergência!",
+          "6.KGGGL7.DDD.2KQP!"
+        ],
+        "RNAM": [
+          "Desativando torres do setor A!",
+          "Ativando torres de segurança, armadas e preparadas!",
+          "Carregando explosão de impulsos de emergência!",
+          "ERRO: Nenhuma fonte de energia disponível!",
+          "Chave de decodificação inválida!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4619",
+      "FORMID": "0A4619",
+      "EDID": "ForgeSecurityTerminal02",
+      "FULL": "Terminal do Setor A",
+      "DESC": "Terminal do setor A",
+      "MENU": {
+        "ITXT": [
+          "Nota do gerenciamento relativo ao setor B",
+          "Desativar torres do setor A",
+          "Ativar torres do setor A"
+        ],
+        "RNAM": [
+          "Desativando torres do setor A!!!",
+          "Ativando torres de segurança, armadas e preparas!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A4523",
+      "FORMID": "0A4523",
+      "EDID": "ForgeSecurityTerminal01",
+      "FULL": "Terminal de Segurança do Setor B",
+      "DESC": "Terminal do Setor B",
+      "MENU": {
+        "ITXT": [
+          "Nota do gerenciamento relativo ao setor B",
+          "Desativar seguranças no setor B!",
+          "Ativar seguranças no setor B!"
+        ],
+        "RNAM": [
+          "Desativando seguranças do setor B!",
+          "Ativando seguranças no setor B, armado e preparado!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02E02E",
+      "FORMID": "02E02E",
+      "EDID": "FFDCzDCint16aTerminal01",
+      "FULL": "Acesso ao Terminal de Serviço MDCTA",
+      "DESC": "Terminal de Serviço MDCTA - \nReservatório de Troca Gás\/Água 456-12 Menu de Acesso:",
+      "MENU": {
+        "ITXT": [
+          "AVISO DO SISTEMA MDCTA",
+          "Iniciar o fluxo de gasolina.",
+          "Interromper o fluxo de gasolina.",
+          "Desbloquear o cofre de segurança",
+          "Bloquear o cofre de segurança"
+        ],
+        "RNAM": [
+          "Vazamento detectado: interrupção automática iniciada.",
+          "Interrupção automática já iniciada.",
+          "Cofre desbloqueado.",
+          "Cofre bloqueado."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:033580",
+      "FORMID": "033580",
+      "EDID": "FFDCworld11TownHouseTerminal",
+      "FULL": "Terminal",
+      "DESC": "General Atomic Internacional \nInterface do Criado Em-casa 3.1\n=========================\nBem-Vindo a Casa, Sra. McClellan!\nPor favor escolha uma tarefa.",
+      "MENU": {
+        "ITXT": [
+          "Desativar unidade",
+          "Passear com Muffy",
+          "Recolher pedido na mercearia",
+          "Ler um poema na cama para as crianças",
+          "Modo de segurança doméstica"
+        ],
+        "RNAM": [
+          "Retornando a estação doméstica...",
+          "Procurando por Muffy...",
+          "Dirigindo-se até a mercearia de McGurty...",
+          "Dirigindo-se até o quarto das crianças...",
+          "Iniciando patrulha de segurança doméstica..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02D6F8",
+      "FORMID": "02D6F8",
+      "EDID": "evergreenSecretTerminal",
+      "MENU": {
+        "ITXT": [
+          "Isto é um segredo para todos."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05A5CD",
+      "FORMID": "05A5CD",
+      "EDID": "EvergreenMillsTerminal3",
+      "FULL": "Computador Ken-Gar Mining Co."
+    },
+    {
+      "FORM": "@Fallout3.esm:05A5B8",
+      "FORMID": "05A5B8",
+      "EDID": "EvergreenMillsTerminal2",
+      "FULL": "Computador Ken-Gar Mining Co."
+    },
+    {
+      "FORM": "@Fallout3.esm:05A5B0",
+      "FORMID": "05A5B0",
+      "EDID": "EvergreenMillsTerminal1",
+      "FULL": "Computador Ken-Gar Mining Co."
+    },
+    {
+      "FORM": "@Fallout3.esm:035C25",
+      "FORMID": "035C25",
+      "EDID": "DunwichTerminal03",
+      "FULL": "Terminal",
+      "DESC": "Dunwich Borers LLC",
+      "MENU": {
+        "ITXT": [
+          "Entrada de dados"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0300AB",
+      "FORMID": "0300AB",
+      "EDID": "DunwichTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Dunwich Borers LLC\n Software de autoditado © 2074 PagSoft\n\nBem-vindo, HERMAN GRANGER\nRegistros disponíveis na memória:",
+      "MENU": {
+        "ITXT": [
+          "Sobre o software de autoditado",
+          "[18\/10\/2077]",
+          "[23\/10\/2077]",
+          "[23\/10\/2077]",
+          "[27\/3\/2134]",
+          "[27\/4\/2134]",
+          "[1\/5\/2134]"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BD69C",
+      "FORMID": "0BD69C",
+      "EDID": "DashwoodTerminal",
+      "FULL": "Base de Dados de Exploração",
+      "DESC": "Olá, Daring! Que o crepúsculo de sua vida seja repleto de beleza e aventura assim como sua juventude.",
+      "MENU": {
+        "ITXT": [
+          "Pessoas",
+          "Lugares",
+          "Pragas"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:058C44",
+      "FORMID": "058C44",
+      "EDID": "ComputerGermantown911C",
+      "FULL": "Terminal 911",
+      "DESC": "Obrigado por ligar para o número de emergência 911 de Germantown, Qual é o tipo de sua emergência?",
+      "MENU": {
+        "ITXT": [
+          "911 Log de Chamadas<Mais Recentes>",
+          "Som de Alarme da Estação"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:058C42",
+      "FORMID": "058C42",
+      "EDID": "ComputerGermantown911B",
+      "FULL": "Terminal 911",
+      "DESC": "Obrigado por ligar para o número de emergência 911 de Germantown, Qual é o tipo de sua emergência?",
+      "MENU": {
+        "ITXT": [
+          "911 Log de Chamadas<Mais Recentes>",
+          "Som de Alarme da Estação"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:058C3C",
+      "FORMID": "058C3C",
+      "EDID": "ComputerGermantown911A",
+      "FULL": "Terminal 911",
+      "DESC": "Obrigado por ligar para o número de emergência 911 de Germantown, Qual é o tipo de sua emergência?",
+      "MENU": {
+        "ITXT": [
+          "911 Log de Chamadas<Mais Recentes>",
+          "Som de Alarme da Estação"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF54",
+      "FORMID": "03CF54",
+      "EDID": "CitadelTerminalSmithy",
+      "FULL": "Terminal",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de rede não encontrada\"\n\"Terminal burro inativo\""
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF50",
+      "FORMID": "03CF50",
+      "EDID": "CitadelTerminalLyonsDen",
+      "FULL": "Terminal",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de rede não encontrada\"\n\"Terminal burro inativo\""
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF4F",
+      "FORMID": "03CF4F",
+      "EDID": "CitadelTerminalArmory",
+      "FULL": "Terminal",
+      "DESC": "Banco de dados de pesquisa de informações de armas\n\nEscolha a arma",
+      "MENU": {
+        "ITXT": [
+          "Pistola N99 de 10 mm",
+          "Rifle de assalto R91 de 5.56 mm",
+          "Pistola laser AEP7",
+          "Rifle laser AER9"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B8F",
+      "FORMID": "0B9B8F",
+      "EDID": "CitadelSquireTerminal",
+      "FULL": "Terminal do Escudeiro Maxson",
+      "DESC": "Olá, Escudeiro Maxson! O que o melhor garoto da Cidadela vai fazer hoje?",
+      "MENU": {
+        "ITXT": [
+          "Anotação do Diário - 1",
+          "Anotação do Diário - 2",
+          "História: Os guardiões de Gillyfrond",
+          "Poema: Música do Homem de Luz",
+          "Armas e Balas"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B95",
+      "FORMID": "0B9B95",
+      "EDID": "CitadelMedicalTerminal",
+      "FULL": "Terminal médico da cidadela",
+      "DESC": "Hei Sawbones, seu burro filho da mãe! Aqui é Glade - invadi seu terminal outra vez. Agora, altere sua senha antes que eu apague todos os seus estúpidos poemas robóticos. ;p",
+      "MENU": {
+        "ITXT": [
+          "Relatório de baixas",
+          "Notas sobre a apendicectomia de Pendleton",
+          "Flutuando contemplativamente, um poema",
+          "Anular o Bloqueio do Armazém Médico"
+        ],
+        "RNAM": [
+          "Armazém Médico Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B75EF",
+      "FORMID": "0B75EF",
+      "EDID": "CitadelMaxsonTerminal",
+      "FULL": "Terminal de Arquivo de Maxson",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Ficha da Família Maxson",
+          "Estado do Maxson",
+          "Diário de Roger Maxson -- Vol. 1",
+          "Diário de Roger Maxson -- Vol. 2"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B75F4",
+      "FORMID": "0B75F4",
+      "EDID": "CitadelMaxsonDossiers",
+      "FULL": "Diário de Roger Maxson",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Roger Maxson",
+          "Maxson II",
+          "John Maxson",
+          "Nova entrada: Escrivão Arthur Maxson"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B7F49",
+      "FORMID": "0B7F49",
+      "EDID": "CitadelMaxsonDiary2",
+      "FULL": "Diário de Roger Maxson",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "22\/10\/2077",
+          "23\/10\/2077",
+          "25\/10\/2077",
+          "26\/10\/2077",
+          "27\/10\/2077"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B75F0",
+      "FORMID": "0B75F0",
+      "EDID": "CitadelMaxsonDiary",
+      "FULL": "Diário de Roger Maxson",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "10\/10\/2077",
+          "12\/10\/2077",
+          "13\/10\/2077",
+          "15\/10\/2077",
+          "18\/10\/2077",
+          "20\/10\/2077"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE2EE",
+      "FORMID": "0BE2EE",
+      "EDID": "CitadelLibertyPrimeTerminalScribeJournal",
+      "FULL": "Operações Liberty Prime",
+      "DESC": "Conexão 39L ao sistema central da Cidadela\n\nBem-vindo, Escrivão Rothchild",
+      "MENU": {
+        "ITXT": [
+          "9 de Maio de 2277",
+          "14 de Julho de 2277",
+          "1 de Agosto de 2277"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE2EC",
+      "FORMID": "0BE2EC",
+      "EDID": "CitadelLibertyPrimeTerminalHistorical",
+      "FULL": "Operações de Liberty Prime",
+      "DESC": "Conexão 39L ao sistema central da Cidadela\n\nBem-vindo, Escrivão Rothchild",
+      "MENU": {
+        "ITXT": [
+          "Resumo do Projeto",
+          "Artigo da Pós Capital -- 3 de Junho de 2072",
+          "Carta: Dr. Bloomfeld ao General Chase"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE2ED",
+      "FORMID": "0BE2ED",
+      "EDID": "CitadelLibertyPrimeTerminalDiagnostic",
+      "FULL": "Operações Liberty Prime",
+      "DESC": "Conexão 39L ao sistema central da Cidadela\n\nBem-vindo, Escrivão Rothchild",
+      "MENU": {
+        "ITXT": [
+          "8 de Maio de 2277",
+          "13 de Julio de 2277",
+          "Atual"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0BE2EB",
+      "FORMID": "0BE2EB",
+      "EDID": "CitadelLibertyPrimeTerminal",
+      "FULL": "Operações Liberty Prime",
+      "DESC": "Conexão 39L ao sistema central da Cidadela\n\nBem-vindo, Escrivão Rothchild",
+      "MENU": {
+        "ITXT": [
+          "Registros históricos",
+          "Relatórios dos diagnósticos",
+          "Diário do escrivão chefe",
+          "Teste do emissor de voz",
+          "Iniciar sequência de ativação"
+        ],
+        "RNAM": [
+          "Teste do emissor de voz iniciado...",
+          "FALHA: *Energia insuficiente*"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B9B8E",
+      "FORMID": "0B9B8E",
+      "EDID": "CitadelElderTerminal",
+      "FULL": "Terminal do Ancião Lyons",
+      "DESC": "Saudações, Elder Lyons.",
+      "MENU": {
+        "ITXT": [
+          "Relatório do progresso do escudeiro Maxson",
+          "Aniversário de Sarah",
+          "Cancelar o bloqueio do cofre"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B7F56",
+      "FORMID": "0B7F56",
+      "EDID": "CitadelComputerBasePersonnel",
+      "FULL": "Terminal Pessoal Cidadela",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Rotação dos soldados da G.N.R.",
+          "Importante!: Acesso do Escudeiro Maxson Bailey",
+          "Recrutamento das tropas de Lyons",
+          "Aviso: Funeral do Reddin cancelado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03CF80",
+      "FORMID": "03CF80",
+      "EDID": "CitadelComputerBaseLabDesk",
+      "FULL": "Terminal do Laboratório da Cidadela",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Problema da AVF",
+          "Atenção: Vazamento hidráulico",
+          "Avaliação tática da Enclave",
+          "Relatório G.N.R. sobre a batalha",
+          "Diagnóstico geral do robô -- Atualizado",
+          "Aviso: Funeral do Reddin cancelado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B7F54",
+      "FORMID": "0B7F54",
+      "EDID": "CitadelComputerBaseLab",
+      "FULL": "Terminal do Laboratório de Cidadela",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Problema AVF",
+          "Atenção: Vazamento hidráulico",
+          "Avaliação tática da Enclave",
+          "Relatório G.N.R. sobre a batalha",
+          "Diagnóstico geral do robô -- Atualizado",
+          "Aviso: Funeral do Reddin cancelado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:018471",
+      "FORMID": "018471",
+      "EDID": "CitadelComputerBase",
+      "FULL": "Terminal de Informação da Cidadela",
+      "DESC": "Bem-vindo, Irmão",
+      "MENU": {
+        "ITXT": [
+          "Avaliação Tática da Enclave",
+          "Relatório de G.N.R. sobre a batalha",
+          "Diagnóstico geral do robô -- Atualizado",
+          "Rotação de soldados da G.N.R.",
+          "Aviso: Funeral do Reddin cancelado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0777AB",
+      "FORMID": "0777AB",
+      "EDID": "CitadelArchiveTerminal1",
+      "FULL": "Terminal da Biblioteca do Pentágono",
+      "DESC": "Bem-vindo à Biblioteca do Pentágono, General.",
+      "MENU": {
+        "ITXT": [
+          "Relatório sobre O.V.N.I. codinome \"Palandine\"",
+          "Relatório sobre o projeto Brainstorm",
+          "Relatório sobre a missão Cloacina"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:029854",
+      "FORMID": "029854",
+      "EDID": "CG04Vault101DoorTerminal",
+      "FULL": "Terminal de Entrada Vault 101",
+      "DESC": "Terminal acesso do Vault 101",
+      "MENU": {
+        "ITXT": [
+          "Abrir cápsula de controle da porta do Vault",
+          "Abrir porta do túnel do supervisor",
+          "Fechar porta do túnel do supervisor"
+        ],
+        "RNAM": [
+          "Cápsula de controle aberta",
+          "Porta aberta",
+          "Porta fechada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05574A",
+      "FORMID": "05574A",
+      "EDID": "CG04OverseersTerminalVaultTec",
+      "FULL": "Instruções Vault-Tec",
+      "MENU": {
+        "ITXT": [
+          "Carta do Doutor Stanislaus Braun",
+          "Anexo A",
+          "Nota cientifica Vault-Tec: O G.E.C.K"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02E38C",
+      "FORMID": "02E38C",
+      "EDID": "CG04OverseersTerminalScouting",
+      "FULL": "Informes de reconhecimento",
+      "MENU": {
+        "ITXT": [
+          "Relatório 2241-02-10",
+          "Prova A do relatório 2241-02-10",
+          "Prova B do relatório 2241-02-10"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04D84D",
+      "FORMID": "04D84D",
+      "EDID": "CG04OverseersTerminalDossiers",
+      "FULL": "Dossiês de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Tunnel Snakes",
+          "Beatrice",
+          "Jonas",
+          "Amata",
+          "Rebeldes",
+          "Amata"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:029853",
+      "FORMID": "029853",
+      "EDID": "CG04OverseersTerminal",
+      "FULL": "Terminal do Supervisor",
+      "DESC": "Bem-vindo, Supervisor.",
+      "MENU": {
+        "ITXT": [
+          "Ver relatório de contatos externos",
+          "Ver ficha de segurança",
+          "Ver relatório de patrulha",
+          "Instruções da Vault-Tec",
+          "Abrir túnel do supervisor",
+          "Fechar túnel do supervisor",
+          "Abrir túnel do supervisor",
+          "Fechar túnel do supervisor"
+        ],
+        "RNAM": [
+          "Abrindo...",
+          "Fechando...",
+          "Abrindo...",
+          "Fechando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A8741",
+      "FORMID": "0A8741",
+      "EDID": "AWMTerminal",
+      "FULL": "Terminal do Memorial Anchorage",
+      "MENU": {
+        "ITXT": [
+          "Iniciar sistemas de gerenciamento de água",
+          "Ligar os geradores de reserva",
+          "Abrir cofre de medicamentos"
+        ],
+        "RNAM": [
+          "Falha - Mau funcionamento do sistema",
+          "Erro - Falha no gerador de reserva - Código 34",
+          "Cofre de medicamentos aberto"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:08116A",
+      "FORMID": "08116A",
+      "EDID": "AbrahamWashingtonTerminal",
+      "FULL": "Terminal do Abraham Washington",
+      "DESC": "Abraham Washington - Notas Privadas\nExpedições Atuais e Situação",
+      "MENU": {
+        "ITXT": [
+          "Expedição da Declaração",
+          "Expedição dos Artefatos de Lincoln",
+          "Expedição de Liberty Bell"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02D702",
+      "FORMID": "02D702",
+      "EDID": "WheatonArmoryDoorTerminal",
+      "FULL": "Terminal de informação",
+      "DESC": "*******Somente Pessoal Autorizado*******\nEssa sala permanecerá fechada todo tempo. Uso deste terminal sem liberação apropriada é estritamente proibido.\n\n**Área sob vigilância**",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta",
+          "Bloquear porta"
+        ],
+        "RNAM": [
+          "Porta desbloqueada...",
+          "Erro: Servidor não encontrado!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:071010",
+      "FORMID": "071010",
+      "EDID": "Vault112StockpileComputer",
+      "FULL": "Acessar Computador",
+      "DESC": "Acesso ao Estoque de Segurança de Vault 112\nNenhum Pessoal Não-autorizado Dentro da Zona de Segurança.",
+      "MENU": {
+        "ITXT": [
+          "Abrir passagem de acesso a Vault-Tec"
+        ],
+        "RNAM": [
+          "Abrindo passagem na área principal da garagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:03118F",
+      "FORMID": "03118F",
+      "EDID": "Vault112PodTermUnoccupied",
+      "FULL": "Monitor da Poltrona -- Desocupada",
+      "DESC": "POLTRONA #11 ESTAÇÃO DE MONITORAMENTO\nID DE RESIDENTE: DESOCUPADO",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0626A0",
+      "FORMID": "0626A0",
+      "EDID": "Vault112PodTermSimpsonM",
+      "FULL": "Monitor Virtual - Sujeito: M. Simpson",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 227 – SIMPSON, M.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06269E",
+      "FORMID": "06269E",
+      "EDID": "Vault112PodTermRockwellR",
+      "FULL": "Monitor Virtual - Sujeito: R. Rockwell",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 226 – ROCKWELL, R.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06269F",
+      "FORMID": "06269F",
+      "EDID": "Vault112PodTermRockwellJ",
+      "FULL": "Monitor Virtual - Sujeito: J. Rockwell",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 115 – ROCKWELL, J.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06269D",
+      "FORMID": "06269D",
+      "EDID": "Vault112PodTermNeusbaumT",
+      "FULL": "Monitor Virtual - Sujeito: T. Neusbaum",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 377 -- NEUSBAUM, T.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06269C",
+      "FORMID": "06269C",
+      "EDID": "Vault112PodTermNeusbaumP",
+      "FULL": "Monitor Virtual - Sujeito: P. Neusbaum",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 375 -- NEUSBAUM, P.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06269B",
+      "FORMID": "06269B",
+      "EDID": "Vault112PodTermNeusbaumG",
+      "FULL": "Monitor Virtual - Sujeito: G. Neusbaum",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 374 -- NEUSBAUM, G.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0626A1",
+      "FORMID": "0626A1",
+      "EDID": "Vault112PodTermHendersonM",
+      "FULL": "Monitor Virtual - Sujeito: M. Henderson",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: HENDERSON, M.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:095B4E",
+      "FORMID": "095B4E",
+      "EDID": "Vault112PodTermFosterW",
+      "FULL": "Monitor -- Assunto: W. Foster",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO - CÁPSULA 37\nRESIDENTE ID: 906 -- FOSTER, W.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0626A2",
+      "FORMID": "0626A2",
+      "EDID": "Vault112PodTermDithersT",
+      "FULL": "Monitor Virtual - Sujeito: T. Dithers",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 642 – DITHERS, T.\nATENÇÃO: LEITURAS INCONSISTENTES. POR FAVOR CHEQUE AS CONEXÕES DA CÁPSULA.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:031190",
+      "FORMID": "031190",
+      "EDID": "Vault112PodTermDad",
+      "FULL": "Monitor da Poltrona -- Assunto: Desconhecido",
+      "DESC": "POLTRONA #23 ESTAÇÃO DE MONITORAMENTO\nID DE RESIDENTE: DESCONHECIDO\n\nALERTA: STATUS DE RESIDENTE NÃO VERIFICADO\nPOR FAVOR CHEQUE LOGS",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:095B51",
+      "FORMID": "095B51",
+      "EDID": "Vault112PodTermBroken",
+      "FULL": "Monitor -- Desocupado",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO - CÁPSULA 37\nRESIDENTE ID: 642 -- DESOCUPADO\n\nAVISO: AVARIA MECÂNICA DETECTADA. FAVOR AGENDAR MANUTENÇÃO",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ],
+        "RNAM": [
+          "A cápsula não está ocupada neste momento",
+          "A cápsula não está ocupada neste momento"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0626A3",
+      "FORMID": "0626A3",
+      "EDID": "Vault112PodTermBraunS",
+      "FULL": "Monitor da Poltrona Virtual",
+      "DESC": "ESTAÇÃO DE MONITORAMENTO POLTRONA #37\nID DE RESIDENTE: 999 – BRAUN, S.",
+      "MENU": {
+        "ITXT": [
+          "EXIBIR ESTADO DO RESIDENTE",
+          "EXIBIR NÍVEL DE ESTRESSE DO RESIDENTE"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:071044",
+      "FORMID": "071044",
+      "EDID": "Vault112OverSeerComputer",
+      "FULL": "Acessar Computador",
+      "DESC": "Acesso do Supervisor do Vault 112\nBem-vindo, Dr. Braun.",
+      "MENU": {
+        "ITXT": [
+          "Abrir passagem de acesso a Vault-Tec"
+        ],
+        "RNAM": [
+          "Abrindo a passagem para você, Dr. Braun..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0536CA",
+      "FORMID": "0536CA",
+      "EDID": "Vault112GarageComputer",
+      "FULL": "Computador de Garagem",
+      "DESC": "Casey Smith Auto Chassi & Reparo\n Conserto e Revendedor Autorizado Corvega",
+      "MENU": {
+        "ITXT": [
+          "Abrir passagem de acesso a Vault-Tec"
+        ],
+        "RNAM": [
+          "Abrindo passagem na área principal da garagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DC15",
+      "FORMID": "07DC15",
+      "EDID": "Vault106OverseersTerminal",
+      "FULL": "Terminal do Supervisor",
+      "DESC": "Bem-vindo, supervisor.",
+      "MENU": {
+        "ITXT": [
+          "Urgente: Relatório de preparativos"
+        ],
+        "RNAM": [
+          "Decodificando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DC60",
+      "FORMID": "07DC60",
+      "EDID": "Vault106BSecurityRoomTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Sistema de Segurança da Vault-Tec\nVersão do software 1.02.f",
+      "MENU": {
+        "ITXT": [
+          "Urgente: Aviso de segurança"
+        ],
+        "RNAM": [
+          "Decodificando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DC65",
+      "FORMID": "07DC65",
+      "EDID": "Vault106BLabTechnicianTerminal",
+      "FULL": "Terminal do Técnico do Laboratório",
+      "DESC": "Somente para técnicos do laboratório EEP",
+      "MENU": {
+        "ITXT": [
+          "Estudo nº 004-C"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DC12",
+      "FORMID": "07DC12",
+      "EDID": "Vault106BHallucinationTerminal",
+      "FULL": "Para: Mim",
+      "DESC": "Your Brain Softworks\nVersão: ME",
+      "MENU": {
+        "ITXT": [
+          "Uma Nota para mim",
+          "Outra nota para mim",
+          "Por favor, leia-me",
+          "Bem, que assim seja."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DBEB",
+      "FORMID": "07DBEB",
+      "EDID": "Vault106ASecurityRoomTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Sistema de segurança da Vault-Tec\nVersão do software 1.02.f",
+      "MENU": {
+        "ITXT": [
+          "Urgente: Aviso de segurança"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07DBE8",
+      "FORMID": "07DBE8",
+      "EDID": "Vault106AHallucinationTerminal",
+      "FULL": "Para: Mim",
+      "DESC": "Your Brain Softworks\nVersão: ME",
+      "MENU": {
+        "ITXT": [
+          "Você sabe o que você quer fazer..."
+        ],
+        "RNAM": [
+          "E você fez"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:067110",
+      "FORMID": "067110",
+      "EDID": "Vault101SecurityTerminal01Unlocked",
+      "FULL": "Mesa",
+      "DESC": "Terminal da cela de segurança do Vault 101",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta da cela",
+          "Fechar porta da cela",
+          "CONFIDENCIAL"
+        ],
+        "RNAM": [
+          "Porta da cela aberta...",
+          "Erro ao fechar porta da cela..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:075326",
+      "FORMID": "075326",
+      "EDID": "Vault101SecurityTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Terminal da sala de Segurança do Vault 101",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta da cela",
+          "Fechar porta da cela",
+          "CONFIDENCIAL"
+        ],
+        "RNAM": [
+          "Porta da cela aberta...",
+          "Erro ao fechar porta da cela..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0224D3",
+      "FORMID": "0224D3",
+      "EDID": "Vault101PepperGomezComputer",
+      "FULL": "Computador de Pepper",
+      "DESC": "Rede Residencial de Computadores Vault-Tec v 10.1\n\nBem-vinda, Sra. Gomez...",
+      "MENU": {
+        "ITXT": [
+          "Caixa postal eletrônica do Vault 101"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0224DD",
+      "FORMID": "0224DD",
+      "EDID": "Vault101BeatriceComputer",
+      "FULL": "Computador de Beatrice",
+      "DESC": "Rede Residencial de Computadores Vault-Tec v 10.1\n\nBem-vinda, Beatrice...",
+      "MENU": {
+        "ITXT": [
+          "Caixa postal eletrônica do Vault 101",
+          "Mensagem do Supervisor",
+          "Mensagem do Supervisor",
+          "Mensagem do Supervisor",
+          "Mensagem do Supervisor",
+          "Mensagem do Supervisor"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05A5A5",
+      "FORMID": "05A5A5",
+      "EDID": "UnderworldWinthropTerminal",
+      "FULL": "Terminal de Winthrop",
+      "DESC": "Bem-vindo, Winthrop.",
+      "MENU": {
+        "ITXT": [
+          "Notas sobre o sistema elétrico.",
+          "Desbloquear cofre"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:05A5A8",
+      "FORMID": "05A5A8",
+      "EDID": "UnderworldAhzrukhalTerminal",
+      "FULL": "Terminal de Ahzrukhal",
+      "DESC": "Banco de dados Docutron 7000x\nBem-vindo, Ahzrukhal",
+      "MENU": {
+        "ITXT": [
+          "Notas sobre Carol",
+          "Notas sobre Patchwork",
+          "Notas sobre Snowflake",
+          "Nota sobre o Dr. Barrow",
+          "Desbloquear cofre"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02848D",
+      "FORMID": "02848D",
+      "EDID": "TLHendersonRobotTerminal",
+      "FULL": "Terminal de Computador",
+      "DESC": "Terminal de acesso remoto do Sr. Útil",
+      "MENU": {
+        "ITXT": [
+          "Iniciar programa de limpeza",
+          "Iniciar programa de segurança",
+          "Finalizar programa de segurança",
+          "Finalizar programa de segurança",
+          "Desativar parâmetros do controle de segurança",
+          "Desativar controle de segurança",
+          "Ativar parâmetros do controle de segurança"
+        ],
+        "RNAM": [
+          "Programa em funcionamento. Espere, por favor...",
+          "Fechando residência. Espere, por favor...",
+          "Abrindo residência. Espere, por favor...",
+          "Por favor, reative o controle de segurança.",
+          "Desativando. Por favor, mantenha distância...",
+          "Por favor, ative o programa de segurança.",
+          "Ativando. Por favor, espere..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07D4F7",
+      "FORMID": "07D4F7",
+      "EDID": "termMOAHSecurityRoom",
+      "FULL": "Sistemas de Segurança",
+      "MENU": {
+        "ITXT": [
+          "<Desbloquear portas>",
+          "<Ativar sistemas de segurança>",
+          "<Desativar sistemas de segurança>"
+        ],
+        "RNAM": [
+          "Acesso permitido",
+          "Ativando torres",
+          "Desativando torres"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A36BF",
+      "FORMID": "0A36BF",
+      "EDID": "TenpennyTowerShakesComputer",
+      "FULL": "Computador",
+      "DESC": "Terminal de manutenção RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara conhecer os últimos \nprodutos RobCo, visite\nseu salão de exposição local.",
+      "MENU": {
+        "ITXT": [
+          "Resetar lista de preços",
+          "10% de desconto do feriado",
+          "Ativar 50% de desconto para VIPs"
+        ],
+        "RNAM": [
+          "Preços resetados",
+          "Tabela de preços do feriado carregada",
+          "Desconto para VIP ativado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB4D7",
+      "FORMID": "0CB4D7",
+      "EDID": "SatcomTowerCommandTerminal",
+      "FULL": "Terminal de controle do satélite",
+      "MENU": {
+        "ITXT": [
+          "Introduza os dados da nova localização",
+          "Decodificar coordenadas: Grupo de satélites de comunicação NW-07c",
+          "Decodificar coordenadas: Grupo de satélites de comunicação NN-03d",
+          "Enviar ativação 'Highwater Trousers'"
+        ],
+        "RNAM": [
+          "ERRO: Motivadores da antena desconectados",
+          "Baixando coordenadas para o dispositivo do usuário",
+          "Baixando coordenadas para o dispositivo do usuário",
+          "Disparando contra USDOD-21TXH...."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02F583",
+      "FORMID": "02F583",
+      "EDID": "RHSLibraryTerminal",
+      "FULL": "Terminal do diretor",
+      "DESC": "Academia Roosevelt\nEDU-OSv6.19.03\nBem-vindo, Diretor Sweeney.",
+      "MENU": {
+        "ITXT": [
+          "Ativar unidade Protectron",
+          "Desativar unidade Protectron"
+        ],
+        "RNAM": [
+          "Enviando pedido\/\/Unidade#nome:Dean_Dewey.rbco",
+          "ERRO DE COMUNICAÇÃO\/\/Unidade#nome:Dean_Dewey.rbco"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAA33",
+      "FORMID": "0CAA33",
+      "EDID": "RedRacer03Terminal01",
+      "FULL": "Terminal de Emissão do Chip",
+      "MENU": {
+        "ITXT": [
+          "Entrada do diário L-2",
+          "Desativar chip"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C6057",
+      "FORMID": "0C6057",
+      "EDID": "RedRacer03SurgeonsTerminal",
+      "FULL": "Terminal do Cirurgião",
+      "MENU": {
+        "ITXT": [
+          "Notas sobre Stefan",
+          "Desativar chip"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:053D44",
+      "FORMID": "053D44",
+      "EDID": "RCWeatherlyTerminal",
+      "FULL": "Terminal Weatherly",
+      "DESC": "Bem vindo ao sistema de computador de Rivet City. O que você gostaria para hoje?",
+      "MENU": {
+        "ITXT": [
+          "Registro do hotel",
+          "Lista de compra"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02A435",
+      "FORMID": "02A435",
+      "EDID": "RCSecurityTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Bem-vindo ao sistema de Rivet City. O que gostaria de fazer hoje?",
+      "MENU": {
+        "ITXT": [
+          "Aberturas da segurança",
+          "Registros da segurança"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02A437",
+      "FORMID": "02A437",
+      "EDID": "RCSeagraveHolmesTerminal",
+      "FULL": "Terminal de Seagrave",
+      "DESC": "Bem-vindo ao sistema de Rivet City. O que gostaria de fazer hoje?",
+      "MENU": {
+        "ITXT": [
+          "Ideia para arma de sobrevivência",
+          "Bannon",
+          "RE: Bannon"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:024D5F",
+      "FORMID": "024D5F",
+      "EDID": "RCDoctorPrestonTerminal",
+      "FULL": "Sistema de Dados dos Pacientes",
+      "DESC": "Sistema da Clinica de Rivet City\nAcesso somente para médicos. O uso indevido resultará em multa, confinamento, ou possível banimento por ordem do Conselho.",
+      "MENU": {
+        "ITXT": [
+          "Risco de saúde regional",
+          "Arquivos de pacientes"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:053D12",
+      "FORMID": "053D12",
+      "EDID": "RCDoctorLiTerminal",
+      "FULL": "Terminal do Doutor Li",
+      "DESC": "Bem vindo ao sistema de Rivet City. O que você gostaria para hoje?",
+      "MENU": {
+        "ITXT": [
+          "Progressos dos sistemas hidropônicos",
+          "Minuta de reunião do conselho",
+          "Minuta de reunião do conselho"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:053D13",
+      "FORMID": "053D13",
+      "EDID": "RCBannonTerminal",
+      "FULL": "Terminal de Bannon",
+      "DESC": "Bem vindo ao sistema de computador de Rivet City. O que você gostaria para hoje?",
+      "MENU": {
+        "ITXT": [
+          "Ver agenda",
+          "Minuta de reunião do conselho",
+          "Minuta de reunião do conselho"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5BC5",
+      "FORMID": "0B5BC5",
+      "EDID": "RavenRock02GateTerminal02",
+      "FULL": "Terminal da Barreira de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Ativar barreira",
+          "Desativar barreira"
+        ],
+        "RNAM": [
+          "Barreira de segurança ativada!!!",
+          "Barreira de segurança desativada!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5BC4",
+      "FORMID": "0B5BC4",
+      "EDID": "RavenRock02GateTerminal01",
+      "FULL": "Terminal da Barreira de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Ativar barreira",
+          "Desativar barreira"
+        ],
+        "RNAM": [
+          "Barreira de segurança ativada!!!",
+          "Barreira de segurança desativada!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5BC3",
+      "FORMID": "0B5BC3",
+      "EDID": "RavenRock01GateTerminal01",
+      "FULL": "Terminal da Barreira de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Ativar barreira",
+          "Desativar barreira"
+        ],
+        "RNAM": [
+          "Barreira de segurança ativada!!!",
+          "Barreira de segurança desativada!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0AF839",
+      "FORMID": "0AF839",
+      "EDID": "RavenRock01DeathclawTerminal01",
+      "FULL": "Terminal de Entrega",
+      "DESC": "Terminal de Entrega",
+      "MENU": {
+        "ITXT": [
+          "Nota sobre uma entrega recente",
+          "Desbloquear jaula nº 364"
+        ],
+        "RNAM": [
+          "Jaula nº 364 desbloqueada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:039264",
+      "FORMID": "039264",
+      "EDID": "RadioCache06Terminal01",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "1. Ikkm00:Mvkz6x1ml:Nqtm",
+          "1. Abrir chocadeira"
+        ],
+        "RNAM": [
+          "[ERRO HX40-399: chave de decodif. inválida]",
+          "[chave de decodif. aceita]: Abrindo chocadeira"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:024D66",
+      "FORMID": "024D66",
+      "EDID": "PinkertonTerminal",
+      "FULL": "Computador Pessoal de Pinkerton",
+      "DESC": "É melhor que tenha permissão para usar este computador.",
+      "MENU": {
+        "ITXT": [
+          "Registro dos fundadores da cidade",
+          "Registro do androide 1",
+          "Registro do androide 2",
+          "Registro do androide 3",
+          "Foto antiga",
+          "Foto nova"
+        ],
+        "RNAM": [
+          "Transferindo... completo.",
+          "Transferindo... completo.",
+          "Transferindo... completo.",
+          "Transferindo... completo.",
+          "Transferência de arquivos para o PipBoy... completo.",
+          "Transferência de arquivos para o PipBoy... completo."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0972A7",
+      "FORMID": "0972A7",
+      "EDID": "NtlGuardDepot06Terminal",
+      "FULL": "Terminal de Acesso ao Abrigo",
+      "DESC": "Depósito da Guarda Nacional \n\nTerminal de acesso ao abrigo",
+      "MENU": {
+        "ITXT": [
+          "Introduza o código de acesso",
+          "Introduza o código de acesso"
+        ],
+        "RNAM": [
+          "*** Acesso Permitido ***",
+          "*** Código incorreto: Acesso Negado ***"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07670E",
+      "FORMID": "07670E",
+      "EDID": "MuseumTechSecurityTerminal02",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Terminal de segurança do coração do Museu",
+      "MENU": {
+        "ITXT": [
+          "Fechar o museu",
+          "Ativar torres do átrio",
+          "Desativar torres do átrio"
+        ],
+        "RNAM": [
+          "ERRO: Incapaz de localizar as portas do museu",
+          "Torres do átrio ativadas!!!",
+          "Desativando torres do átrio!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0761EB",
+      "FORMID": "0761EB",
+      "EDID": "MuseumTechSecurityTerminal01",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Terminal de segurança do corredor de Museu",
+      "MENU": {
+        "ITXT": [
+          "Fechar o museu",
+          "Ativar torres do salão",
+          "Desativar torres do salão"
+        ],
+        "RNAM": [
+          "ERRO: Incapaz de localizar as portas do museu",
+          "Torres do salão ativadas!!!",
+          "Desativando torres do salão!!!"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB589",
+      "FORMID": "0CB589",
+      "EDID": "MS18StatesmanHotelFrontDesk01",
+      "FULL": "Terminal da Recepção",
+      "DESC": "Banco de dados de reclamações - Agosto de 2077\nPor favor, faça o visitante ser o mais descritivo possível.",
+      "MENU": {
+        "ITXT": [
+          "Reclamação 0001",
+          "Reclamação 0002",
+          "Reclamação 0003",
+          "Reclamação 0004"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB588",
+      "FORMID": "0CB588",
+      "EDID": "MS18StatesmanHotelFrontDesk",
+      "FULL": "Terminal da Recepção",
+      "MENU": {
+        "ITXT": [
+          "Registro de entrada",
+          "Registro de Saída",
+          "Verificar disponibilidade",
+          "Desbloquear cofre da recepção",
+          "Arquivos de reclamações de visitantes"
+        ],
+        "RNAM": [
+          "Servidor de reservas indisponível",
+          "Servidor de reservas indisponível",
+          "Servidor de reservas indisponível",
+          "Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02DD2C",
+      "FORMID": "02DD2C",
+      "EDID": "MS18Statesman03Terminal01",
+      "FULL": "Salão ao Ar Livre",
+      "DESC": "Hotel Restaurante Estadista\nSeg - Qui         7 AM - 2 AM\nDom              7 AM - 9 PM\nLembre-se, depois de usar o toalete, não saia simplesmente sem limpar. Olhe em volta e veja se há algum pedaço de papel higiênico solto e apanhe-o. Um cliente sempre aprecia um toalete limpo.",
+      "MENU": {
+        "ITXT": [
+          "Lugares disponíveis"
+        ],
+        "RNAM": [
+          "Atualmente 100% dos lugares estão disponíveis"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0B1127",
+      "FORMID": "0B1127",
+      "EDID": "MS18RangerCompoundReillyTerminal03",
+      "FULL": "Terminal de Reilly",
+      "DESC": "Apenas Para Olhos de Rangers de Reilly\nEspero que tenha pedido para Reilly primeiro, seu retardado!",
+      "MENU": {
+        "ITXT": [
+          "Nota pessoal 176",
+          "Nota pessoal 177",
+          "Nota pessoal 178",
+          "Nota pessoal 179"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04E15D",
+      "FORMID": "04E15D",
+      "EDID": "MS18RangerCompoundReillyTerminal02",
+      "FULL": "Terminal de Reilly",
+      "DESC": "Apenas Para Olhos de Rangers de Reilly\nEspero que tenha pedido para Reilly primeiro, seu retardado!",
+      "MENU": {
+        "ITXT": [
+          "Contrato de mapeamento",
+          "Erradicação dos Super Mutantes"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04E156",
+      "FORMID": "04E156",
+      "EDID": "MS18RangerCompoundReillyTerminal01",
+      "FULL": "Terminal de Reilly",
+      "DESC": "Apenas Para Olhos de Rangers de Reilly\nEspero que tenha pedido para Reilly primeiro, seu retardado!",
+      "MENU": {
+        "ITXT": [
+          "Reilly",
+          "Brick",
+          "Butcher",
+          "Donovan",
+          "Theo"
+        ],
+        "RNAM": [
+          "Arquivo indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:04E152",
+      "FORMID": "04E152",
+      "EDID": "MS18RangerCompoundReillyTerminal",
+      "FULL": "Terminal de Reilly",
+      "DESC": "Apenas Para Olhos de Rangers de Reilly\nEspero que tenha pedido para Reilly primeiro, seu retardado!",
+      "MENU": {
+        "ITXT": [
+          "Lista do pessoal atual",
+          "Contratos atuais",
+          "Notas pessoais de Reilly"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:051FE3",
+      "FORMID": "051FE3",
+      "EDID": "MS18RangerCompoundOuterTerminal",
+      "FULL": "Terminal Exterior do Complexo dos Rangers",
+      "DESC": "Apenas Para Olhos de Rangers de Reilly\nSe você está lendo isso, é melhor se mandar daqui!",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear porta de segurança",
+          "Aviso do grupo de busca Canterbury"
+        ],
+        "RNAM": [
+          "Desbloqueio de porta iniciado",
+          "Carregando entrada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB595",
+      "FORMID": "0CB595",
+      "EDID": "MS18OurLadyofHopeTerminal03",
+      "FULL": "Terminal da Enfermaria 03",
+      "DESC": "Estação das Enfermeiras 03\nSomente para uso do hospital",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear suprimentos médicos",
+          "Relatório de lesões 09087768",
+          "Relatório de lesões 09087790",
+          "Relatório de lesões 09087882"
+        ],
+        "RNAM": [
+          "Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB594",
+      "FORMID": "0CB594",
+      "EDID": "MS18OurLadyofHopeTerminal02",
+      "FULL": "Terminal da Enfermaria 02",
+      "DESC": "Estação das Enfermeiras 02\nSomente para uso do hospital",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear suprimentos médicos",
+          "Relatório de lesões 09087768",
+          "Relatório de lesões 09087790",
+          "Relatório de lesões 09087882"
+        ],
+        "RNAM": [
+          "Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB58E",
+      "FORMID": "0CB58E",
+      "EDID": "MS18OurLadyofHopeTerminal01",
+      "FULL": "Terminal da Enfermaria 01",
+      "DESC": "Estação das Enfermeiras 01\nSomente para uso do hospital",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear suprimentos médicos",
+          "Relatório de lesões 09087768",
+          "Relatório de lesões 09087790",
+          "Relatório de lesões 09087882"
+        ],
+        "RNAM": [
+          "Desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07471C",
+      "FORMID": "07471C",
+      "EDID": "MS17VaultTecSysOpTerminal03",
+      "FULL": "Estação 3 de Operação do Sistema",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nEstação de operações do sistema 3",
+      "MENU": {
+        "ITXT": [
+          "Avisos importantes",
+          "Aprovação de acesso do terminal 3 ao servidor",
+          "Acesso aprovado do terminal 1 ao servidor",
+          "Desativar o Masterbrain",
+          "Desativação aprovada do Masterbrain do terminal 1"
+        ],
+        "RNAM": [
+          "Acesso aprovado",
+          "Comando bloqueado",
+          "Desativação aprovada do Masterbrain do terminal 1",
+          "Comando bloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07471B",
+      "FORMID": "07471B",
+      "EDID": "MS17VaultTecSysOpTerminal02",
+      "FULL": "Estação 2 de Operação do Sistema",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nEstação de operações do sistema 2",
+      "MENU": {
+        "ITXT": [
+          "Avisos importantes",
+          "Aprovação de acesso do terminal 2 ao servidor",
+          "Acesso aprovado do terminal 2 ao servidor",
+          "Desativar o Masterbrain",
+          "Desativação aprovada do Masterbrain do terminal 2"
+        ],
+        "RNAM": [
+          "Acesso aprovado",
+          "Comando bloqueado",
+          "Desativação aprovada do Masterbrain do terminal 2",
+          "Comando bloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:074719",
+      "FORMID": "074719",
+      "EDID": "MS17VaultTecSysOpTerminal01",
+      "FULL": "Estação 1 de Operação do Sistema",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nEstação de operações do sistema 1",
+      "MENU": {
+        "ITXT": [
+          "Avisos importantes",
+          "Aprovação de acesso do terminal 1 ao servidor",
+          "Acesso aprovado do terminal 1 ao servidor",
+          "Desativar o Masterbrain",
+          "Desativação aprovada do Masterbrain do terminal 1"
+        ],
+        "RNAM": [
+          "Acesso aprovado",
+          "Comando bloqueado",
+          "Desativação aprovada do Masterbrain do terminal 1",
+          "Comando bloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:074711",
+      "FORMID": "074711",
+      "EDID": "MS17VaultTecStandardTerminal02",
+      "FULL": "Terminal de Empregados da Vault-Tec",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nNorma de Acesso de funcionário",
+      "MENU": {
+        "ITXT": [
+          "Boné de baseball da Vault-Tec",
+          "Camiseta da Vault-Tec",
+          "Jaqueta da Vault-Tec",
+          "Suporte para jogar golfe da Vault-Tec",
+          "Porta lata térmica da Vault-Tec",
+          "Lancheira da Vault-Tec",
+          "Boneco da Vault-Tec"
+        ],
+        "RNAM": [
+          "Despesa deduzida do salário... Desfrute!",
+          "Despesa deduzida do salário... Desfrute!",
+          "Despesa deduzida do salário... Desfrute!",
+          "Despesa deduzida do salário... Desfrute!",
+          "Despesa deduzida do salário... Desfrute!",
+          "Despesa deduzida do salário... Desfrute!",
+          "Disponível somente para diretores"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:074710",
+      "FORMID": "074710",
+      "EDID": "MS17VaultTecStandardTerminal01",
+      "FULL": "Terminal de Empregados da Vault-Tec",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nNorma de Acesso de funcionário",
+      "MENU": {
+        "ITXT": [
+          "Mensagem 009AC Aviso de segurança",
+          "Mensagem 0099D Máquinas vendedoras",
+          "Mensagem 0101C Pausa para o banheiro",
+          "Mensagem 0102A Vault 112 terminado!",
+          "Mensagem 0114D Mudanças no Vault 92"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07470E",
+      "FORMID": "07470E",
+      "EDID": "MS17VaultTecStandardTerminal",
+      "FULL": "Terminal de Empregados da Vault-Tec",
+      "DESC": "Vault-Tec Sede Corporativa\nWashington D.C.\nNorma de Acesso de funcionário",
+      "MENU": {
+        "ITXT": [
+          "Avisos importantes",
+          "Depósito da empresa",
+          "Chamar um funcionário por megafone"
+        ],
+        "RNAM": [
+          "Sistema de megafone desligado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:07471E",
+      "FORMID": "07471E",
+      "EDID": "MS17VaultTecMainframeTerminal",
+      "FULL": "Terminal de acesso a Unidade Central"
+    },
+    {
+      "FORM": "@Fallout3.esm:074FF3",
+      "FORMID": "074FF3",
+      "EDID": "MS17Vault92WomensDormTerminal",
+      "FULL": "Terminal de Segurança do Dormitório Feminino",
+      "DESC": "Sistema de segurança do dormitório feminino",
+      "MENU": {
+        "ITXT": [
+          "Intercomunicador: operador",
+          "Intercomunicador: serviços gerais",
+          "Intercomunicador: cozinha",
+          "Intercomunicador: controle de temperatura",
+          "Alarme"
+        ],
+        "RNAM": [
+          "MENSAGEM 1J: operador indisponível",
+          "ERRO 862: Por Favor converse com o operador",
+          "ERRO 862: Por Favor converse com o operador",
+          "ERRO 862: Por Favor converse com o operador",
+          "Iniciando sequência de som"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06625A",
+      "FORMID": "06625A",
+      "EDID": "MS17Vault92SecurityTerminal",
+      "FULL": "Terminal de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Permitir acesso",
+          "Negar acesso",
+          "Alarme"
+        ],
+        "RNAM": [
+          "Abrindo portas",
+          "Posicionando contra-medidas",
+          "Iniciando sequência de som"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:06497B",
+      "FORMID": "06497B",
+      "EDID": "MS17Vault92ProducerTerminal",
+      "FULL": "Computador do Estúdio",
+      "MENU": {
+        "ITXT": [
+          "Fechar estúdio de gravação",
+          "Abrir estúdio de gravação",
+          "Correio interno do Vault 000339",
+          "Correio interno do Vault 000344",
+          "Correio interno do Vault 000350"
+        ],
+        "RNAM": [
+          "Estúdio pronto para gravação",
+          "Estúdio em modo de espera"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:074FEC",
+      "FORMID": "074FEC",
+      "EDID": "MS17Vault92MensDormTerminal",
+      "FULL": "Terminal de Segurança do Dormitório Masculino",
+      "DESC": "Sistema de segurança do dormitório masculino",
+      "MENU": {
+        "ITXT": [
+          "Intercomunicador: operador",
+          "Intercomunicador: serviços gerais",
+          "Intercomunicador: cozinha",
+          "Intercomunicador: controle de temperatura",
+          "Alarme"
+        ],
+        "RNAM": [
+          "MENSAGEM 1J: operador indisponível",
+          "ERRO 862: Por Favor converse com o operador",
+          "ERRO 862: Por Favor converse com o operador",
+          "ERRO 862: Por Favor converse com o operador",
+          "Iniciando sequência de som"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0A1223",
+      "FORMID": "0A1223",
+      "EDID": "MS17Vault92dPersonalTerminal",
+      "FULL": "Terminal de Zoe Hammerstein",
+      "DESC": "Diário Pessoal de Zoe Hammerstein",
+      "MENU": {
+        "ITXT": [
+          "Pensamentos de Zoe",
+          "Mais pensamentos de Zoe",
+          "Mais pensamentos de Zoe",
+          "klkhi por fAvorr.HF puu SoCOrrO"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09194E",
+      "FORMID": "09194E",
+      "EDID": "MS17Vault92dEngineersTerminal",
+      "FULL": "Terminal de Registros de Engenharia",
+      "DESC": "Seção de Uso Somente do Engenheiro",
+      "MENU": {
+        "ITXT": [
+          "Registro de incidentes TT007",
+          "Registro de incidentes TT008",
+          "Registro de incidentes TT009",
+          "Registro de incidentes TT010",
+          "Registro de incidentes TT011"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:066258",
+      "FORMID": "066258",
+      "EDID": "MS17Vault92DataStorageDoor",
+      "FULL": "Entrada de Armazenamento de Dados",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear sala de armazenamento de dados"
+        ],
+        "RNAM": [
+          "Porta desbloqueada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:091949",
+      "FORMID": "091949",
+      "EDID": "MS17Vault92bVaultOverseerTerminal",
+      "FULL": "Terminal de Richard Rubin",
+      "DESC": "Somente Acesso do Supervisor!",
+      "MENU": {
+        "ITXT": [
+          "Notas pessoais 00897332",
+          "Notas pessoais 00897357",
+          "Notas pessoais 00897377",
+          "Notas pessoais 00897398"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:09194B",
+      "FORMID": "09194B",
+      "EDID": "MS17Vault92bLaboratoryTerminal",
+      "FULL": "Terminal do Laboratório",
+      "DESC": "Restringido Somente para Liberação de Seção 4",
+      "MENU": {
+        "ITXT": [
+          "Correio interno do Vault 00480",
+          "Correio interno do Vault 00487",
+          "Correio interno do Vault 00502",
+          "Correio interno do Vault 00513"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:091955",
+      "FORMID": "091955",
+      "EDID": "MS17Vault92aShopKeepTerminal",
+      "FULL": "Loja de Suprimentos",
+      "DESC": "Posto Comercial 92 Somente Empregados",
+      "MENU": {
+        "ITXT": [
+          "Correio interno do Vault 000476",
+          "Correio interno do Vault 000482",
+          "Correio interno do Vault 000519",
+          "Desbloquear cofre"
+        ],
+        "RNAM": [
+          "Cofre desbloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:025C68",
+      "FORMID": "025C68",
+      "EDID": "MS16WaterChipTerminalSub1",
+      "FULL": "Terminal de Manutenção do Refujo 101",
+      "MENU": {
+        "ITXT": [
+          "Executar diagnóstico do Purificador de Água",
+          "Executar diagnóstico do Purificador de Água",
+          "Executar diagnóstico do Purificador de Água",
+          "Iniciar manutenção manual",
+          "Finalizar manutenção manual",
+          "Finalizar manutenção manual",
+          "Realizar purificação do sistema",
+          "Realizar purificação do sistema"
+        ],
+        "RNAM": [
+          "Todos os sistemas operacionais.",
+          "Sistemas desconectados para manutenção.",
+          "Nenhum Purificador de Água encontrado. Contate um distribuidor.",
+          "Sistema desconectado. Não execute a purificação!",
+          "Sistema re-conectado. Desfrute de sua água!",
+          "Erro: O sistema não pode ser re-conectado.",
+          "Impurezas purificadas. Limpeza restaurada.",
+          "Erro ao purificar. Materiais adicionais purificados. Realizar purificação do sistema"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:02485C",
+      "FORMID": "02485C",
+      "EDID": "MS16WaterChipTerminal",
+      "FULL": "Terminal de Manutenção do Vault 101",
+      "DESC": "Vault-Tec Inc. -  Vault 101\nAcomode-se e sinta-se em casa!",
+      "MENU": {
+        "ITXT": [
+          "Testar sistemas hidropônicos",
+          "Testar sistemas hidropônicos",
+          "Testar sistemas hidropônicos",
+          "Testar sistemas de filtração de ar",
+          "Testar sistemas de filtração de ar",
+          "Testar sistemas de filtração de ar",
+          "Iniciar manutenção do Purificar de Água",
+          "Iniciar manutenção do Purificar de Água"
+        ],
+        "RNAM": [
+          "Hidropônicos totalmente funcionais",
+          "Sistemas de filtração totalmente funcionais",
+          "Manutenção desativada - Consulte o vendedor"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:025C6E",
+      "FORMID": "025C6E",
+      "EDID": "MS16TerminalSuspended",
+      "FULL": "Terminal de Manutenção do Refúgio 101",
+      "DESC": "Purificador de Água em manutenção. \n\nSistema temporariamente suspenso. Não executar purificação - sistemas vitais podem ser comprometidos."
+    },
+    {
+      "FORM": "@Fallout3.esm:025C6F",
+      "FORMID": "025C6F",
+      "EDID": "MS16TerminalInactive",
+      "FULL": "Terminal de Manutenção do Refúgio 101",
+      "DESC": "Sistema Inativo - Nenhum Purificador de Água Encontrado!\n\nContate seu representante Vault-Tec imediatamente para manutenção. Evacuar para um lugar seguro até que os reparos estejam completos."
+    },
+    {
+      "FORM": "@Fallout3.esm:0B4245",
+      "FORMID": "0B4245",
+      "EDID": "MS15SydneysRemoteTerminal",
+      "FULL": "Terminal Remoto de Sydney",
+      "DESC": "Alerta: Este terminal não está autorizado na Rede de Segurança do Arquivo Nacional. Por favor desconecte imediatamente.",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear elevador de carga",
+          "Acessar arquivos do servidor",
+          "Contratos atuais"
+        ],
+        "RNAM": [
+          "Desbloqueado",
+          "Acesso bloqueado"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0819B5",
+      "FORMID": "0819B5",
+      "EDID": "MS15StrongroomSecurityTerminal",
+      "FULL": "Terminal de Segurança Quarto-cofre",
+      "DESC": "Terminal de Manutenção Robótica dos Arquivos Nacionais\nAssuntos Atuais Listados por Unidade - P. Brantseg - Equipe de Robótica",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear todas as portas blindadas",
+          "Desbloquear todas as portas da ala Este",
+          "Desbloquear todas as portas seladas magneticamente"
+        ],
+        "RNAM": [
+          "Portas desbloqueadas",
+          "Portas desbloqueadas",
+          "Sistema magnético avariado, contate a manutenção"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C052A",
+      "FORMID": "0C052A",
+      "EDID": "MS15PodWilsonRobotTerminal",
+      "FULL": "JWILS002 John Wilson",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de John Wilson JWILS002",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0529",
+      "FORMID": "0C0529",
+      "EDID": "MS15PodRutledgeRobotTerminal",
+      "FULL": "ERUTL001 Edward Rutledge",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de Edward Rutledge ERUTL001",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0526",
+      "FORMID": "0C0526",
+      "EDID": "MS15PodJeffersonRobotTerminal",
+      "FULL": "TJEFF002 Thomas Jefferson",
+      "DESC": "Terminal de Robótica do Arquivo Nacional\nCápsula de Thomas Jefferson TJEFF002",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade",
+          "Aviso de manutenção"
+        ],
+        "RNAM": [
+          "Unidade indisponível para manutenção",
+          "Unidade disponível",
+          "Unidade Offline"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0819BA",
+      "FORMID": "0819BA",
+      "EDID": "MS15PodHancockRobotTerminal",
+      "FULL": "JHANC003 John Hancock",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de John Hancock JHANC003",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0528",
+      "FORMID": "0C0528",
+      "EDID": "MS15PodFranklinRobotTerminal",
+      "FULL": "BFRAN001 Benjamin Franklin",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de Benjamin Franklin BFRAN001",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0819B9",
+      "FORMID": "0819B9",
+      "EDID": "MS15PodButtonRobotTerminal",
+      "FULL": "BGWIN009 Button Gwinnett",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de Button Gwinnett BGWIN009",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Desativar unidade"
+        ],
+        "RNAM": [
+          "Unidade indisponível",
+          "Painel de recuperação indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0539",
+      "FORMID": "0C0539",
+      "EDID": "MS15PodBackupRobotTerminal02",
+      "DESC": "Conexão com Cápsula de Thomas Jefferson TJEFF002 Confirmada",
+      "MENU": {
+        "ITXT": [
+          "Executar transferência",
+          "Cancelar transferência"
+        ],
+        "RNAM": [
+          "Transferência completada",
+          "Transferência cancelada"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0538",
+      "FORMID": "0C0538",
+      "EDID": "MS15PodBackupRobotTerminal01",
+      "DESC": "Identificar Fonte de Dados para Fazer o Download de Subrotinas",
+      "MENU": {
+        "ITXT": [
+          "JADAM002 John Adams",
+          "BGWIN009 Button Gwinnett",
+          "BFRAN001 Benjamin Franklin",
+          "JHANC003 John Hancock",
+          "TJEFF002 Thomas Jefferson",
+          "ERUTL001 Edward Rutledge",
+          "JWILS002 John Wilson"
+        ],
+        "RNAM": [
+          "Unidade inexistente",
+          "Unidade inexistente",
+          "Unidade inexistente",
+          "Unidade inexistente",
+          "Unidade inexistente",
+          "Unidade inexistente"
+        ]
+      }
+    },
+    {
+      "FORM": "@Fallout3.esm:0C052B",
+      "FORMID": "0C052B",
+      "EDID": "MS15PodBackupRobotTerminal",
+      "FULL": "BACK001 Proteção da cópia de segurança",
+      "DESC": "Terminal de Robótica dos Arquivos Nacionais\nCápsula de Protectron de reserva BACK001",
+      "MENU": {
+        "ITXT": [
+          "Diretivas da unidade",
+          "Ativar unidade",
+          "Ativar unidade",
+          "Ativar unidade",
+          "Recuperar unidade",
+          "Recuperar unidade",
+          "Recuperar unidade",
+          "Desativar unidade",
+          "Desativar unidade",
+          "Desativar unidade",
+          "Programação de sub-rotinas",
+          "Programação de sub-rotinas",
+          "Programação de sub-rotinas"
+        ],
+        "RNAM": [
+          "Unidade sem programação",
+          "Unidade ativada",
+          "Unidade indisponível",
+          "Unidade presente",
+          "Mau-funcionamento do painel de recuperação",
+          "Painel de recuperação indisponível",
+          "Unidade Offline",
+          "Sinal remoto de desativação enviado",
+          "Unidade indisponível",
+          "Unidade indisponível"
+        ]
+      }
+    }
+  ]
+}

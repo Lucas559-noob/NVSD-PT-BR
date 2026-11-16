@@ -1,0 +1,1504 @@
+{
+  "WEAP": [
+    {
+      "FORM": "@FalloutNV.esm:00421C",
+      "FORMID": "00421C",
+      "EDID": "WeapBaseballBat",
+      "FULL": "Taco de Beisebol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004321",
+      "FORMID": "004321",
+      "EDID": "Weap10mmSubmachineGun",
+      "FULL": "Submetralhadora de 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004322",
+      "FORMID": "004322",
+      "EDID": "WeapAlienBlaster",
+      "FULL": "Desintegrador Alienígena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004323",
+      "FORMID": "004323",
+      "EDID": "WeapBBGun",
+      "FULL": "Espingarda de Pressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004324",
+      "FORMID": "004324",
+      "EDID": "WeapBrassKnuckles",
+      "FULL": "Soco Inglês"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004326",
+      "FORMID": "004326",
+      "EDID": "WeapKnifeCombat",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004328",
+      "FORMID": "004328",
+      "EDID": "WeapTireIron",
+      "FULL": "Chave de Roda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00432B",
+      "FORMID": "00432B",
+      "EDID": "WeapDeathclawGauntlet",
+      "FULL": "Manopla de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00432C",
+      "FORMID": "00432C",
+      "EDID": "WeapFatman",
+      "FULL": "Fat Man"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00432D",
+      "FORMID": "00432D",
+      "EDID": "WeapFlamer",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00432E",
+      "FORMID": "00432E",
+      "EDID": "WeapGatlingLaser",
+      "FULL": "Minigun a Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004330",
+      "FORMID": "004330",
+      "EDID": "WeapGrenadeFrag",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004331",
+      "FORMID": "004331",
+      "EDID": "WeapGrenadePulse",
+      "FULL": "Granada de Pulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004332",
+      "FORMID": "004332",
+      "EDID": "WeapGrenadePlasma",
+      "FULL": "Granada de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004333",
+      "FORMID": "004333",
+      "EDID": "WeapHuntingRifle",
+      "FULL": "Rifle de Caça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004334",
+      "FORMID": "004334",
+      "EDID": "WeapKnife",
+      "FULL": "Faca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004335",
+      "FORMID": "004335",
+      "EDID": "WeapLaserPistol",
+      "FULL": "Pistola de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004336",
+      "FORMID": "004336",
+      "EDID": "WeapLaserRifle",
+      "FULL": "Rifle de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004337",
+      "FORMID": "004337",
+      "EDID": "WeapLeadPipe",
+      "FULL": "Cano de Chumbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00433A",
+      "FORMID": "00433A",
+      "EDID": "WeapMineBottlecap",
+      "FULL": "Mina de Tampinhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00433C",
+      "FORMID": "00433C",
+      "EDID": "WeapMineFrag",
+      "FULL": "Mina de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00433D",
+      "FORMID": "00433D",
+      "EDID": "WeapMinePlasma",
+      "FULL": "Mina de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00433E",
+      "FORMID": "00433E",
+      "EDID": "WeapMinePulse",
+      "FULL": "Mina de Pulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00433F",
+      "FORMID": "00433F",
+      "EDID": "WeapMinigun",
+      "FULL": "Minigun"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004340",
+      "FORMID": "004340",
+      "EDID": "WeapMissileLauncher",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004343",
+      "FORMID": "004343",
+      "EDID": "WeapPlasmaPistol",
+      "FULL": "Pistola de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004344",
+      "FORMID": "004344",
+      "EDID": "WeapPlasmaRifle",
+      "FULL": "Rifle de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004345",
+      "FORMID": "004345",
+      "EDID": "WeapPoliceBaton",
+      "FULL": "Cassetete da Polícia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004346",
+      "FORMID": "004346",
+      "EDID": "WeapPoolCue",
+      "FULL": "Taco de Sinuca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004347",
+      "FORMID": "004347",
+      "EDID": "WeapPowerFist",
+      "FULL": "Manopla Energética"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004349",
+      "FORMID": "004349",
+      "EDID": "WeapRipper",
+      "FULL": "Ripper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00434C",
+      "FORMID": "00434C",
+      "EDID": "WeapShotgunSawedOff",
+      "FULL": "Escopeta de Cano Serrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00434E",
+      "FORMID": "00434E",
+      "EDID": "WeapShishkebab",
+      "FULL": "Shishkebab"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00434F",
+      "FORMID": "00434F",
+      "EDID": "Weap10mmPistol",
+      "FULL": "Pistola de 10 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004351",
+      "FORMID": "004351",
+      "EDID": "WeapSledgehammer",
+      "FULL": "Marreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004352",
+      "FORMID": "004352",
+      "EDID": "WeapSuperSledge",
+      "FULL": "Super Marreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004353",
+      "FORMID": "004353",
+      "EDID": "WeapSniperRifle",
+      "FULL": "Fuzil de Precisão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004354",
+      "FORMID": "004354",
+      "EDID": "WeapSpikedKnuckles",
+      "FULL": "Soqueira com Espinhos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018B9E",
+      "FORMID": "018B9E",
+      "EDID": "ProtectronHandLaser1HP",
+      "FULL": "Laser de Mão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018B9F",
+      "FORMID": "018B9F",
+      "EDID": "ProtectronHeadLaser2HL",
+      "FULL": "Laser de Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021367",
+      "FORMID": "021367",
+      "EDID": "BehemothFireHydrant",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0289C3",
+      "FORMID": "0289C3",
+      "EDID": "WeapSwitchBlade",
+      "FULL": "Canivete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03954F",
+      "FORMID": "03954F",
+      "EDID": "MisterGutsyPlasma1HP",
+      "FULL": "Arma de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:039550",
+      "FORMID": "039550",
+      "EDID": "MisterGutsyFlamer2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BC6F",
+      "FORMID": "03BC6F",
+      "EDID": "MisterHandyBuzzsaw",
+      "FULL": "Serra Circular"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022FF1",
+      "FORMID": "022FF1",
+      "EDID": "EyeBot1HP",
+      "FULL": "Choque Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0389AF",
+      "FORMID": "0389AF",
+      "EDID": "SentryBotGatling2HH",
+      "FULL": "Minigun a Laser de Robô Sentinela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:050ED0",
+      "FORMID": "050ED0",
+      "EDID": "RobobrainLaser1HPRight",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:050F92",
+      "FORMID": "050F92",
+      "EDID": "MysteriousStranger44Magnum",
+      "FULL": ".44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033D84",
+      "FORMID": "033D84",
+      "EDID": "TrapBaseball",
+      "FULL": "Bola de Beisebol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:057E8E",
+      "FORMID": "057E8E",
+      "EDID": "SentryBotMinigun2HR",
+      "FULL": "Minigun de SentryBot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:057E8F",
+      "FORMID": "057E8F",
+      "EDID": "SentryBotMissileLauncher2HL",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:058717",
+      "FORMID": "058717",
+      "EDID": "CentaurSpitMissile",
+      "FULL": "Saliva Radioativa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078C60",
+      "FORMID": "078C60",
+      "EDID": "MS04FireAntWorkerFlame2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B237",
+      "FORMID": "07B237",
+      "EDID": "Turret01Laser2HR",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B239",
+      "FORMID": "07B239",
+      "EDID": "Turret02Laser2HR",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B23A",
+      "FORMID": "07B23A",
+      "EDID": "Turret03Laser2HR",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:089C51",
+      "FORMID": "089C51",
+      "EDID": "VertibirdGun",
+      "FULL": "Canhão de Vertibird"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06E8CE",
+      "FORMID": "06E8CE",
+      "EDID": "QueenAnt2HL",
+      "FULL": "Cuspe Ácido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09E8DF",
+      "FORMID": "09E8DF",
+      "EDID": "MS04FireAntSoldierFlame2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A01DD",
+      "FORMID": "0A01DD",
+      "EDID": "WeapNailBoard",
+      "FULL": "Tábua com Pregos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A0C02",
+      "FORMID": "0A0C02",
+      "EDID": "MisterHandyFlamer2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A84BD",
+      "FORMID": "0A84BD",
+      "EDID": "TurretGunCeiling01",
+      "FULL": "Canhão da Torreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2943",
+      "FORMID": "0B2943",
+      "EDID": "WeapRollingPin",
+      "FULL": "Rolo de Macarrão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B8793",
+      "FORMID": "0B8793",
+      "EDID": "MS04QueenAnt2HL",
+      "FULL": "Cuspe Ácido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018E53",
+      "FORMID": "018E53",
+      "EDID": "TurretGunCeiling02",
+      "FULL": "Canhão da Torreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018E54",
+      "FORMID": "018E54",
+      "EDID": "TurretGunCeiling03",
+      "FULL": "Canhão da Torreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0001F6",
+      "FORMID": "0001F6",
+      "EDID": "GasTrapDummy",
+      "FULL": "Manequim Armadilha de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BF5A4",
+      "FORMID": "0BF5A4",
+      "EDID": "RobobrainMesmetron",
+      "FULL": "Mesmetron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C0327",
+      "FORMID": "0C0327",
+      "EDID": "CG02WeapBBGun",
+      "FULL": "Espingarda de Pressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C58EE",
+      "FORMID": "0C58EE",
+      "EDID": "MS04FireAntGuardFlame2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E5E2",
+      "FORMID": "03E5E2",
+      "EDID": "VertibirdBombGun",
+      "FULL": "Canhão de Bomba de Vertibird"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA24",
+      "FORMID": "07EA24",
+      "EDID": "WeapNVVarmintRifle",
+      "FULL": "Rifle de Pragas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA25",
+      "FORMID": "07EA25",
+      "EDID": "WeapNVGrenadeLauncher",
+      "FULL": "Lança-Granadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ED0A",
+      "FORMID": "08ED0A",
+      "EDID": "WeapNVRiotShotgun",
+      "FULL": "Escopeta Antimotim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ED0B",
+      "FORMID": "08ED0B",
+      "EDID": "WeapNVHuntingShotgun",
+      "FULL": "Espingarda de Caça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ED0C",
+      "FORMID": "08ED0C",
+      "EDID": "WeapNVLeverActionShotgun",
+      "FULL": "Espingarda de Ação por Alavanca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F213",
+      "FORMID": "08F213",
+      "EDID": "WeapNV127mmPistol",
+      "FULL": "Pistola de 12,7 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F214",
+      "FORMID": "08F214",
+      "EDID": "WeapNVHuntingRevolver",
+      "FULL": "Revólver de Caça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F215",
+      "FORMID": "08F215",
+      "EDID": "WeapNV44Revolver",
+      "FULL": "Revólver Magnum .44"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F216",
+      "FORMID": "08F216",
+      "EDID": "WeapNV357Revolver",
+      "FULL": "Revólver Magnum .357"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F217",
+      "FORMID": "08F217",
+      "EDID": "WeapNV9mmSubmachineGun",
+      "FULL": "Submetralhadora de 9 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F218",
+      "FORMID": "08F218",
+      "EDID": "WeapNVSilenced22SMG",
+      "FULL": "Submetralhadora .22 Silenciada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F21A",
+      "FORMID": "08F21A",
+      "EDID": "WeapNVCowboyRepeater",
+      "FULL": "Repetidora de Cowboy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F21C",
+      "FORMID": "08F21C",
+      "EDID": "WeapNVAntiMaterielRifle",
+      "FULL": "Rifle Antimaterial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F21E",
+      "FORMID": "08F21E",
+      "EDID": "WeapNVAssaultCarbine",
+      "FULL": "Carabina de Assalto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0906CF",
+      "FORMID": "0906CF",
+      "EDID": "WeapNVPlasmaCaster",
+      "FULL": "Lançador de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0906DA",
+      "FORMID": "0906DA",
+      "EDID": "WeapNVIncinerator",
+      "FULL": "Incinerador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0906DF",
+      "FORMID": "0906DF",
+      "EDID": "WeapNVLightMachineGun",
+      "FULL": "Metralhadora Leve"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09071F",
+      "FORMID": "09071F",
+      "EDID": "WeapNVRechargerPistol",
+      "FULL": "Pistola de Recarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090727",
+      "FORMID": "090727",
+      "EDID": "WeapNVPlasmaDefender",
+      "FULL": "Defensor de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09073B",
+      "FORMID": "09073B",
+      "EDID": "WeapNVLaserRCW",
+      "FULL": "RCW a Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A6A",
+      "FORMID": "090A6A",
+      "EDID": "WeapNVGrenadeMachinegun",
+      "FULL": "Lança-granadas Automático"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A6B",
+      "FORMID": "090A6B",
+      "EDID": "WeapNVPulseGun",
+      "FULL": "Arma de Pulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD50D",
+      "FORMID": "0CD50D",
+      "EDID": "WeapNVBumperSword",
+      "FULL": "Espada Para-choque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD50E",
+      "FORMID": "0CD50E",
+      "EDID": "WeapNVRebarClub",
+      "FULL": "Clava de Vergalhão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD539",
+      "FORMID": "0CD539",
+      "EDID": "WeapNVTrailCarbine",
+      "FULL": "Carabina de Trilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD53A",
+      "FORMID": "0CD53A",
+      "EDID": "WeapNVCaravanShotgun",
+      "FULL": "Escopeta de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE549",
+      "FORMID": "0CE549",
+      "EDID": "WeapBooneSniperRifle",
+      "FULL": "Rifle de Caça com Luneta do Boone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE569",
+      "FORMID": "0CE569",
+      "EDID": "WeapNVMachete",
+      "FULL": "Machete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0DA499",
+      "FORMID": "0DA499",
+      "EDID": "NVSteelTurret03Laser2HR",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E07D1",
+      "FORMID": "0E07D1",
+      "EDID": "ARCHIMEDESI",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BEC",
+      "FORMID": "0E2BEC",
+      "EDID": "WeapTeslaCannon",
+      "FULL": "Canhão de Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BED",
+      "FORMID": "0E2BED",
+      "EDID": "WeapTeslaChainEffect",
+      "FULL": "Canhão de Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BEE",
+      "FORMID": "0E2BEE",
+      "EDID": "WeapTeslaChainEffect02",
+      "FULL": "Canhão de Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BEF",
+      "FORMID": "0E2BEF",
+      "EDID": "WeapTeslaChainEffect03",
+      "FULL": "Canhão de Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BF0",
+      "FORMID": "0E2BF0",
+      "EDID": "WeapTeslaChainEffect04",
+      "FULL": "Canhão de Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BF4",
+      "FORMID": "0E2BF4",
+      "EDID": "WeapNVTriBeamLaserRifle",
+      "FULL": "Rifle Laser de Três Feixes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2BFC",
+      "FORMID": "0E2BFC",
+      "EDID": "WeapHeavyIncinerator",
+      "FULL": "Incinerador Pesado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C86",
+      "FORMID": "0E2C86",
+      "EDID": "WeapNV357RevolverUnique",
+      "FULL": "Lucky"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32F4",
+      "FORMID": "0E32F4",
+      "EDID": "WeapNV9mmSubmachineGunUnique",
+      "FULL": "Submetralhadora 9mm do Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BA0F3",
+      "FORMID": "0BA0F3",
+      "EDID": "WeapNVDynamite",
+      "FULL": "Dinamite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDA5C",
+      "FORMID": "0CDA5C",
+      "EDID": "HVWeapPlasmaRifleWeak",
+      "FULL": "Rifle de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D777C",
+      "FORMID": "0D777C",
+      "EDID": "HVBrokenWeapSuperSledge",
+      "FULL": "Super Sledge com Defeito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D777D",
+      "FORMID": "0D777D",
+      "EDID": "HVBrokenWeapLaserRifle",
+      "FULL": "Rifle a Laser Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D777E",
+      "FORMID": "0D777E",
+      "EDID": "HVBrokenWeapMinigun",
+      "FULL": "Minigun Travada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3778",
+      "FORMID": "0E3778",
+      "EDID": "WeapNV9mmPistol",
+      "FULL": "Pistola de 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E377A",
+      "FORMID": "0E377A",
+      "EDID": "WeapNVSilenced22Pistol",
+      "FULL": "Pistola .22 Silenciada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E393B",
+      "FORMID": "0E393B",
+      "EDID": "WeapNVSingleShotgun",
+      "FULL": "Espingarda de Cano Simples"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5391",
+      "FORMID": "0E5391",
+      "EDID": "WeapNVBoxingGloves",
+      "FULL": "Luvas de Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E58BB",
+      "FORMID": "0E58BB",
+      "EDID": "WeapNVBoxingGoldenGloves",
+      "FULL": "Luvas Douradas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E5B17",
+      "FORMID": "0E5B17",
+      "EDID": "WeapNVVarmintRifleUnique",
+      "FULL": "Exterminador de Ratos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6064",
+      "FORMID": "0E6064",
+      "EDID": "WeapNVPlasmaRifleUnique",
+      "FULL": "Modulador de Matéria Q-35"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6346",
+      "FORMID": "0E6346",
+      "EDID": "WeapNVBinoculars",
+      "FULL": "Binóculos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7655",
+      "FORMID": "0E7655",
+      "EDID": "WeapNV9mmPistolUnique",
+      "FULL": "Maria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9C3B",
+      "FORMID": "0E9C3B",
+      "EDID": "WeapNVServiceRifle",
+      "FULL": "Fuzil de Serviço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB6B1",
+      "FORMID": "0EB6B1",
+      "EDID": "BMWeapNailBoard",
+      "FULL": "Tábua com Pregos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F062B",
+      "FORMID": "0F062B",
+      "EDID": "WeapNVBattleRifleUnique",
+      "FULL": "Esta Máquina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0B12",
+      "FORMID": "0F0B12",
+      "EDID": "WeapNVHuntingShotgunUnique",
+      "FULL": "Sino do Jantar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0F04",
+      "FORMID": "0F0F04",
+      "EDID": "WeapNVStraightRazor",
+      "FULL": "Navalha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F2745",
+      "FORMID": "0F2745",
+      "EDID": "SporePlantSpitMissile",
+      "FULL": "Cuspe de Esporo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56F5",
+      "FORMID": "0F56F5",
+      "EDID": "WeapNVCowboyRepeaterUnique",
+      "FULL": "La Longue Carabine"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F56F6",
+      "FORMID": "0F56F6",
+      "EDID": "WeapNVDriverUnique",
+      "FULL": "Taco de Golfe do Nephi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F7EAE",
+      "FORMID": "0F7EAE",
+      "EDID": "WeapPlasmaRifleAlwaysCrit",
+      "FULL": "Rifle de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82AA",
+      "FORMID": "0F82AA",
+      "EDID": "WeapLaserRifleAlwaysCrits",
+      "FULL": "O Desintegrador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC335",
+      "FORMID": "0FC335",
+      "EDID": "WeapNV9iron",
+      "FULL": "Ferro 9"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF576",
+      "FORMID": "0FF576",
+      "EDID": "WeapNVGrenadeRifle",
+      "FULL": "Lança-granadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1003B1",
+      "FORMID": "1003B1",
+      "EDID": "NellisArtillery",
+      "FULL": "Artilharia de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10108D",
+      "FORMID": "10108D",
+      "EDID": "WeapNVDynamiteNoDrop",
+      "FULL": "Dinamite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1D",
+      "FORMID": "103B1D",
+      "EDID": "WeapNVLaserPistolUnique",
+      "FULL": "Piu-Piu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1056D2",
+      "FORMID": "1056D2",
+      "EDID": "WeapMissileLauncherBroken",
+      "FULL": "Lançador de Mísseis Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1056D3",
+      "FORMID": "1056D3",
+      "EDID": "WeapNVGrenadeRifleBroken",
+      "FULL": "Rifle de Granada Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105CF5",
+      "FORMID": "105CF5",
+      "EDID": "WeapNVLilySword",
+      "FULL": "Lâmina de Vertibird da Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105CF6",
+      "FORMID": "105CF6",
+      "EDID": "WeapNVLilyGauntlet",
+      "FULL": "Manopla da Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106FEA",
+      "FORMID": "106FEA",
+      "EDID": "WeapNVMarksmanCarbine",
+      "FULL": "Carabina de Atirador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106FEB",
+      "FORMID": "106FEB",
+      "EDID": "WeapNVMarksmanCarbineUnique",
+      "FULL": "Legítima Americana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1084AD",
+      "FORMID": "1084AD",
+      "EDID": "NVRorschach01",
+      "FULL": "Desenho de Rorschach"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0A",
+      "FORMID": "109A0A",
+      "EDID": "WeapNVCleaver",
+      "FULL": "Cutelo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0B",
+      "FORMID": "109A0B",
+      "EDID": "WeapNVMinePowderCharge",
+      "FULL": "Carga de Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0C",
+      "FORMID": "109A0C",
+      "EDID": "WeapNVLongFuseDynamite",
+      "FULL": "Dinamite de Longa Detonação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A4CA",
+      "FORMID": "10A4CA",
+      "EDID": "WeapMineNellisMunition",
+      "FULL": "Projétil de Munição de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A6FC",
+      "FORMID": "10A6FC",
+      "EDID": "HVMissingLaserPistol",
+      "FULL": "Pistola de Laser Perdida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A709",
+      "FORMID": "10A709",
+      "EDID": "WeapNVSecuritronSubmachineGun",
+      "FULL": "Submetralhadora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A70A",
+      "FORMID": "10A70A",
+      "EDID": "WeapNVSecuritronLauncher",
+      "FULL": "Lança-Granadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A70B",
+      "FORMID": "10A70B",
+      "EDID": "WeapNVSecuritronLaser",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10BA90",
+      "FORMID": "10BA90",
+      "EDID": "WeapNVSecuritronMissile",
+      "FULL": "Mísseis de Ombro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:113248",
+      "FORMID": "113248",
+      "EDID": "WeapNVFireGeckoFlame",
+      "FULL": "Sopro de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11324C",
+      "FORMID": "11324C",
+      "EDID": "NVGojiraFlame2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118E7D",
+      "FORMID": "118E7D",
+      "EDID": "RexBite",
+      "FULL": "Morder"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A208",
+      "FORMID": "11A208",
+      "EDID": "NVWeapMS22Camera",
+      "FULL": "Codac R9000"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A8A0",
+      "FORMID": "11A8A0",
+      "EDID": "WeapNVDressCane",
+      "FULL": "Bengala de Luxo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A8B9",
+      "FORMID": "11A8B9",
+      "EDID": "WeapNVFireaxe",
+      "FULL": "Machado de Bombeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A8E4",
+      "FORMID": "11A8E4",
+      "EDID": "WeapNVHatchet",
+      "FULL": "Machadinha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E46F",
+      "FORMID": "11E46F",
+      "EDID": "WeapShovel",
+      "FULL": "Pá"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121148",
+      "FORMID": "121148",
+      "EDID": "WeapNVBrushGun",
+      "FULL": "Carabina de Mato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121154",
+      "FORMID": "121154",
+      "EDID": "WeapNVRechargerRifle",
+      "FULL": "Rifle de Recarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121168",
+      "FORMID": "121168",
+      "EDID": "WeapNVMultiPlasRifle",
+      "FULL": "Rifle Multiplas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1221C1",
+      "FORMID": "1221C1",
+      "EDID": "WeapNVC4PlasticExplosive",
+      "FULL": "C-4 Explosivo Plástico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251CC",
+      "FORMID": "1251CC",
+      "EDID": "VFSWeapPlasmaRifleVanGraff",
+      "FULL": "Fuzil de Plasma Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251CD",
+      "FORMID": "1251CD",
+      "EDID": "VFSWeapLaserRifleVanGraff",
+      "FULL": "Rifle a Laser Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12701F",
+      "FORMID": "12701F",
+      "EDID": "WeapGrenadeGas",
+      "FULL": "Granada de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127C6C",
+      "FORMID": "127C6C",
+      "EDID": "WeapNV44RevolverUnique",
+      "FULL": "Magnum Misteriosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127E45",
+      "FORMID": "127E45",
+      "EDID": "WeapNVMacheteDeadSea",
+      "FULL": "Libertador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129A44",
+      "FORMID": "129A44",
+      "EDID": "WeapNVRangerSequoia",
+      "FULL": "Ranger Sequoia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12ADB8",
+      "FORMID": "12ADB8",
+      "EDID": "WeapNVDogTagFistUnique",
+      "FULL": "Recompensa dos Caídos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12D852",
+      "FORMID": "12D852",
+      "EDID": "WeapNVBoxingTape",
+      "FULL": "Fita de Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130041",
+      "FORMID": "130041",
+      "EDID": "WeapNVDetonator",
+      "FULL": "Detonador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133058",
+      "FORMID": "133058",
+      "EDID": "WeapNVThatGun",
+      "FULL": "Aquela Arma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13316D",
+      "FORMID": "13316D",
+      "EDID": "WeapCattleProd",
+      "FULL": "Bastão de Choque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13568B",
+      "FORMID": "13568B",
+      "EDID": "WeapNVMissFortuneGun",
+      "FULL": "A Má Sorte da Dama do Infortúnio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13621D",
+      "FORMID": "13621D",
+      "EDID": "NVCamera",
+      "FULL": "Câmera R9000"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D534",
+      "FORMID": "13D534",
+      "EDID": "WeapNVTimeBomb",
+      "FULL": "Bomba Relógio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E4DE",
+      "FORMID": "13E4DE",
+      "EDID": "WeapNVLegateSword",
+      "FULL": "Lâmina do Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E540",
+      "FORMID": "13E540",
+      "EDID": "WeapSuperSledgeMeanie",
+      "FULL": "Supermarreta Cruel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F76F",
+      "FORMID": "13F76F",
+      "EDID": "WeapKnifeAssassin",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429D1",
+      "FORMID": "1429D1",
+      "EDID": "WeapNV127mmSubmachineGun",
+      "FULL": "Submetralhadora de 12,7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429E1",
+      "FORMID": "1429E1",
+      "EDID": "WeapNVSniperRifleUnique",
+      "FULL": "Rifle de Precisão de Campanha Gobi"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429E2",
+      "FORMID": "1429E2",
+      "EDID": "WeapNVGrenadeRifleUnique",
+      "FULL": "Tum-Tum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FBA",
+      "FORMID": "143FBA",
+      "EDID": "WeapNVLegateSword2",
+      "FULL": "Lâmina do Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A6",
+      "FORMID": "1465A6",
+      "EDID": "WeapNVDebugMegaPistol",
+      "FULL": "MegaPistola de Debug"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C79",
+      "FORMID": "146C79",
+      "EDID": "WeapNVDogTagFist",
+      "FULL": "Punho de Plaqueta de Identificação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1479B3",
+      "FORMID": "1479B3",
+      "EDID": "WeapLaserRifleUnique",
+      "FULL": "Protótipo AER14"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C068",
+      "FORMID": "14C068",
+      "EDID": "WeapNVDetonatorLoyal",
+      "FULL": "Detonador do Loyal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14D2A7",
+      "FORMID": "14D2A7",
+      "EDID": "WeapNVStraightRazorUnique",
+      "FULL": "Figaro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14D2AA",
+      "FORMID": "14D2AA",
+      "EDID": "WeapNVCleaverUnique",
+      "FULL": "Chopper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14D2AC",
+      "FORMID": "14D2AC",
+      "EDID": "WeapNVThrowingSpear",
+      "FULL": "Lança de Arremesso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDDE",
+      "FORMID": "14DDDE",
+      "EDID": "WeapNVGrenadeIncendiary",
+      "FULL": "Granada Incendiária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDDF",
+      "FORMID": "14DDDF",
+      "EDID": "WeapNVGrenadeStun",
+      "FULL": "Granada de Atordoamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DE1D",
+      "FORMID": "14DE1D",
+      "EDID": "WeapNVThrowingHatchet",
+      "FULL": "Machado de Arremesso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14EA5A",
+      "FORMID": "14EA5A",
+      "EDID": "WeapNVGrenadeFragHoly",
+      "FULL": "Granada de Fragmentação Sagrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14EB3C",
+      "FORMID": "14EB3C",
+      "EDID": "WeapNVEuclidsCFinder",
+      "FULL": "Localizador-C de Euclides"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F424",
+      "FORMID": "14F424",
+      "EDID": "CentaurEvolvedSpitMissile",
+      "FULL": "Saliva Radioativa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F449",
+      "FORMID": "14F449",
+      "EDID": "LakelurkSonic2HL",
+      "FULL": "Grito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F474",
+      "FORMID": "14F474",
+      "EDID": "WeapNVFireGeckoYoungFlame",
+      "FULL": "Sopro de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1519E0",
+      "FORMID": "1519E0",
+      "EDID": "WeapBladedGauntlet",
+      "FULL": "Manopla com Lâminas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151D0C",
+      "FORMID": "151D0C",
+      "EDID": "WeapBladedGauntletUnique",
+      "FULL": "Abridor de Latas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1524B3",
+      "FORMID": "1524B3",
+      "EDID": "WeapNVMantisGauntlet",
+      "FULL": "Manopla de Louva-a-Deus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15430B",
+      "FORMID": "15430B",
+      "EDID": "WeapNVMacheteGladius",
+      "FULL": "Machete Gladius"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E66",
+      "FORMID": "155E66",
+      "EDID": "WeapNVDisplacerGlove",
+      "FULL": "Luva Deslocadora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E6D",
+      "FORMID": "155E6D",
+      "EDID": "WeapNVDisplacerGloveUnique",
+      "FULL": "Empurrãozinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1568E6",
+      "FORMID": "1568E6",
+      "EDID": "WeapNVSpikedKnucklesUnique",
+      "FULL": "Amor e Ódio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156968",
+      "FORMID": "156968",
+      "EDID": "WeapSuperSledgeUnique",
+      "FULL": "Ah, Querida!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156F7C",
+      "FORMID": "156F7C",
+      "EDID": "WeapNVFireaxeUnique",
+      "FULL": "Toc toc"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157BCA",
+      "FORMID": "157BCA",
+      "EDID": "WeapNVLeadPipeUnique",
+      "FULL": "Modéstia à Parte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15837B",
+      "FORMID": "15837B",
+      "EDID": "WeapNVGaussRifle",
+      "FULL": "Rifle Gauss"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A47F",
+      "FORMID": "15A47F",
+      "EDID": "WeapNVTeslaCannonUnique",
+      "FULL": "Protótipo Tesla-Beaton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B38D",
+      "FORMID": "15B38D",
+      "EDID": "WeapNVGaussRifleUnique",
+      "FULL": "YCS\/186"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BA03",
+      "FORMID": "15BA03",
+      "EDID": "WeapNVBallisticFist",
+      "FULL": "Punho Balístico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BA72",
+      "FORMID": "15BA72",
+      "EDID": "WeapNVZapGloveUnique",
+      "FULL": "Punho Ígneo do Paladino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BA78",
+      "FORMID": "15BA78",
+      "EDID": "WeapNVZapGlove",
+      "FULL": "Luva Zap"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C881",
+      "FORMID": "15C881",
+      "EDID": "WeapThermicLance",
+      "FULL": "Lança Térmica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E904",
+      "FORMID": "15E904",
+      "EDID": "MS04FireAntQueenFlame2HL",
+      "FULL": "Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE44",
+      "FORMID": "15FE44",
+      "EDID": "WeapNVChainsaw",
+      "FULL": "Motosserra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FF5D",
+      "FORMID": "15FF5D",
+      "EDID": "WeapNVBBGunUnique",
+      "FULL": "BB Gun do Abilene Kid LE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FFF4",
+      "FORMID": "15FFF4",
+      "EDID": "WeapNVGrenadeMachinegunUnique",
+      "FULL": "Piedade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161246",
+      "FORMID": "161246",
+      "EDID": "WeapNVThrowingKnife",
+      "FULL": "Faca de Arremesso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162019",
+      "FORMID": "162019",
+      "EDID": "WeapNVMissileLauncherUnique",
+      "FULL": "Annabelle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1629B6",
+      "FORMID": "1629B6",
+      "EDID": "WeapNVMinigunUnique",
+      "FULL": "Vingador CZ57"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162C92",
+      "FORMID": "162C92",
+      "EDID": "WeapNVKnifeCombatUnique",
+      "FULL": "Faca do Chance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B59",
+      "FORMID": "166B59",
+      "EDID": "HVTurret03Laser",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B94",
+      "FORMID": "166B94",
+      "EDID": "EDEZapGun",
+      "FULL": "Choque Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B95",
+      "FORMID": "166B95",
+      "EDID": "EDEStunBaton",
+      "FULL": "Bastão Atordoante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673CD",
+      "FORMID": "1673CD",
+      "EDID": "WeapShotgunSawedOffUnique",
+      "FULL": "Grande Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167685",
+      "FORMID": "167685",
+      "EDID": "WeapNVMacheteGladiator",
+      "FULL": "Machete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1694DE",
+      "FORMID": "1694DE",
+      "EDID": "EDEStunBatonUpgrade",
+      "FULL": "Choque Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1694DF",
+      "FORMID": "1694DF",
+      "EDID": "EDEZapGunUpgrade",
+      "FULL": "Raio de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B48",
+      "FORMID": "171B48",
+      "EDID": "WeapNVSlaveBackPack",
+      "FULL": "Fardo de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1724F2",
+      "FORMID": "1724F2",
+      "EDID": "VHDOliverSniperAntiMaterielRifle",
+      "FULL": "Rifle Antimaterial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174093",
+      "FORMID": "174093",
+      "EDID": "WeapNVAssaultCarbineLily",
+      "FULL": "Carabina de Assalto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174094",
+      "FORMID": "174094",
+      "EDID": "WeapNVPlasmaDefenderArcade",
+      "FULL": "Defensor de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176ABB",
+      "FORMID": "176ABB",
+      "EDID": "WeapGrenadeFragMisfits",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E55",
+      "FORMID": "176E55",
+      "EDID": "WeapNVCaravanShotgunCass",
+      "FULL": "Escopeta de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E56",
+      "FORMID": "176E56",
+      "EDID": "WeapKnifeCombatCass",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E57",
+      "FORMID": "176E57",
+      "EDID": "WeapNV44RevolverRaul",
+      "FULL": "Revólver Magnum .44"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E58",
+      "FORMID": "176E58",
+      "EDID": "WeapLeadPipeRaul",
+      "FULL": "Cano de Chumbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E59",
+      "FORMID": "176E59",
+      "EDID": "WeapNVMacheteBoone",
+      "FULL": "Machete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E5A",
+      "FORMID": "176E5A",
+      "EDID": "WeapPowerFistVeronica",
+      "FULL": "Manopla Energética"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E5B",
+      "FORMID": "176E5B",
+      "EDID": "Weap10mmPistolVeronica",
+      "FULL": "Pistola de 10 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E5D",
+      "FORMID": "176E5D",
+      "EDID": "WeapRipperArcade",
+      "FULL": "Ripper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B7B8",
+      "FORMID": "17B7B8",
+      "EDID": "WeapShotgunSawedOffNPC",
+      "FULL": "Escopeta de Cano Serrado"
+    }
+  ]
+}

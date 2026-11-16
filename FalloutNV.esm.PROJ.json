@@ -1,0 +1,544 @@
+{
+  "PROJ": [
+    {
+      "FORM": "@FalloutNV.esm:001BB6",
+      "FORMID": "001BB6",
+      "EDID": "MissileProjectile",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00426D",
+      "FORMID": "00426D",
+      "EDID": "556mmRifleBulletProjectile",
+      "FULL": "Bala de Rifle 5,56 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014B0F",
+      "FORMID": "014B0F",
+      "EDID": "BeamLaserProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015226",
+      "FORMID": "015226",
+      "EDID": "FatMan",
+      "FULL": "Mini Bomba Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0043F9",
+      "FORMID": "0043F9",
+      "EDID": "GrenadeFragProjectile",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0043FA",
+      "FORMID": "0043FA",
+      "EDID": "MineFragProjectile",
+      "FULL": "Mina de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02CD5F",
+      "FORMID": "02CD5F",
+      "EDID": "10mmBulletProjectile",
+      "FULL": "Bala de Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE8",
+      "FORMID": "031DE8",
+      "EDID": "MinigunTracerProjectile",
+      "FULL": "Bala de Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:035EDA",
+      "FORMID": "035EDA",
+      "EDID": "PlasmaProjectile",
+      "FULL": "Raio de plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A51F",
+      "FORMID": "03A51F",
+      "EDID": "GrenadePulseProjectile",
+      "FULL": "Granada de Pulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03B033",
+      "FORMID": "03B033",
+      "EDID": "GrenadePlasmaProjectile",
+      "FULL": "Granada de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF07",
+      "FORMID": "03BF07",
+      "EDID": "BuckshotProjectile",
+      "FULL": "Buckshot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF08",
+      "FORMID": "03BF08",
+      "EDID": "BeamLaserAutoProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF09",
+      "FORMID": "03BF09",
+      "EDID": "BBProjectile",
+      "FULL": "Chumbo BB"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF0A",
+      "FORMID": "03BF0A",
+      "EDID": "10mmBulletAutoProjectile",
+      "FULL": "Bala 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF0B",
+      "FORMID": "03BF0B",
+      "EDID": "FlameProjectile",
+      "FULL": "Chama"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03BF0C",
+      "FORMID": "03BF0C",
+      "EDID": "44MagnumPistolBulletProjectile",
+      "FULL": "Bala de Pistola .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04741A",
+      "FORMID": "04741A",
+      "EDID": "BloatflyDart",
+      "FULL": "Dardo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033C4B",
+      "FORMID": "033C4B",
+      "EDID": "MinePulseProjectile",
+      "FULL": "Mina de Pulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033D85",
+      "FORMID": "033D85",
+      "EDID": "TrapBaseballProjectile",
+      "FULL": "Bola de Beisebol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0403D8",
+      "FORMID": "0403D8",
+      "EDID": "MinePlasmaProjectile",
+      "FULL": "Mina de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:059449",
+      "FORMID": "059449",
+      "EDID": "MineBottleCapProjectile",
+      "FULL": "Mina de Nuka-Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F709",
+      "FORMID": "05F709",
+      "EDID": "CentaurSpitProjectile",
+      "FULL": "Cuspe de Centauro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0651D0",
+      "FORMID": "0651D0",
+      "EDID": "Stranger44MagnumBulletProjectile",
+      "FULL": "Bala .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:082F91",
+      "FORMID": "082F91",
+      "EDID": "ProtectronHeadLaserProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6C5",
+      "FORMID": "05C6C5",
+      "EDID": "AlienBlasterProjectile",
+      "FULL": "Explosão Alienígena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A73D6",
+      "FORMID": "0A73D6",
+      "EDID": "PlasmaProjectile02",
+      "FULL": "Raio de plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B8792",
+      "FORMID": "0B8792",
+      "EDID": "AntSpitProjectile",
+      "FULL": "Cuspe de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BEDF6",
+      "FORMID": "0BEDF6",
+      "EDID": "FlameProjectileANT",
+      "FULL": "Chama"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA30",
+      "FORMID": "07EA30",
+      "EDID": "40mmGrenadeProjectile",
+      "FULL": "Granada de 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F20A",
+      "FORMID": "08F20A",
+      "EDID": "308BulletProjectile",
+      "FULL": "Bala .308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F20B",
+      "FORMID": "08F20B",
+      "EDID": "22LRRifleProjectile",
+      "FULL": "Bala de Rifle .22LR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F20C",
+      "FORMID": "08F20C",
+      "EDID": "357CalPistolBulletProjectile",
+      "FULL": "Bala de Pistola .357"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F20E",
+      "FORMID": "08F20E",
+      "EDID": "22LRPistolProjectile",
+      "FULL": "Bala de Pistola .22LR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F20F",
+      "FORMID": "08F20F",
+      "EDID": "9mmBulletProjectile",
+      "FULL": "Bala 9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F211",
+      "FORMID": "08F211",
+      "EDID": "357CalRifleBulletProjectile",
+      "FULL": "Bala de Rifle .357"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0906D3",
+      "FORMID": "0906D3",
+      "EDID": "PlasmaCasterProjectile",
+      "FULL": "Canhão de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:096C98",
+      "FORMID": "096C98",
+      "EDID": "25mmGrenadeProjectile",
+      "FULL": "Granada de 25mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C20",
+      "FORMID": "0E2C20",
+      "EDID": "DLC03TeslaCannonProjectile",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C21",
+      "FORMID": "0E2C21",
+      "EDID": "DLC03TeslaChainProjectile",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C22",
+      "FORMID": "0E2C22",
+      "EDID": "DLC03TeslaChainProjectile02",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C23",
+      "FORMID": "0E2C23",
+      "EDID": "DLC03TeslaChainProjectile03",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C24",
+      "FORMID": "0E2C24",
+      "EDID": "DLC03TeslaChainProjectile04",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C26",
+      "FORMID": "0E2C26",
+      "EDID": "DLC03IncineratorProjectile",
+      "FULL": "Globo de Chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C28",
+      "FORMID": "0E2C28",
+      "EDID": "DLC03ScatterBeam",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEEF",
+      "FORMID": "0CDEEF",
+      "EDID": "ARCHIMEDESIProjectile",
+      "FULL": "Raio da Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3F03",
+      "FORMID": "0E3F03",
+      "EDID": "NVDynamiteFragProjectile",
+      "FULL": "Dinamite Acesa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E83BE",
+      "FORMID": "0E83BE",
+      "EDID": "PlasmaProjectileQ35",
+      "FULL": "Feixe de plasma Q35"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC965",
+      "FORMID": "0FC965",
+      "EDID": "VMS08GrenadeFragProjectile",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1003AF",
+      "FORMID": "1003AF",
+      "EDID": "NellisArtilleryProjectile",
+      "FULL": "Projétil de artilharia de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103B1F",
+      "FORMID": "103B1F",
+      "EDID": "BeamPewPewProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:107811",
+      "FORMID": "107811",
+      "EDID": "50MGRifleBulletProjectile",
+      "FULL": "Bala de Rifle .50MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0D",
+      "FORMID": "109A0D",
+      "EDID": "MineNVPowderChargeProjectile",
+      "FULL": "Carga de Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0E",
+      "FORMID": "109A0E",
+      "EDID": "NVLongFuseDynamiteFragProjectile",
+      "FULL": "Dinamite Acesa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10BA96",
+      "FORMID": "10BA96",
+      "EDID": "SecuritronMissLauncherProjectile",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12114B",
+      "FORMID": "12114B",
+      "EDID": "4570GovtPistolBulletProjectile",
+      "FULL": "Bala de Pistola .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12114C",
+      "FORMID": "12114C",
+      "EDID": "44MagnumRifleBulletProjectile",
+      "FULL": "Bala de Rifle .44 Magnum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12114D",
+      "FORMID": "12114D",
+      "EDID": "4570GovtRifleBulletProjectile",
+      "FULL": "Bala de Fuzil .45-70 Gov't"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12114F",
+      "FORMID": "12114F",
+      "EDID": "556mmPistolBulletProjectile",
+      "FULL": "Bala de Pistola 5,56 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12701A",
+      "FORMID": "12701A",
+      "EDID": "GrenadeGasProjectile",
+      "FULL": "Granada de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130043",
+      "FORMID": "130043",
+      "EDID": "C4Projectile",
+      "FULL": "C4"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1367E6",
+      "FORMID": "1367E6",
+      "EDID": "CameraFilmProjectile",
+      "FULL": "Filme da Câmera"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136F97",
+      "FORMID": "136F97",
+      "EDID": "40mmGrenLaunchProjectile",
+      "FULL": "Lançador de Granadas 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D533",
+      "FORMID": "13D533",
+      "EDID": "TimeBombProjectile",
+      "FULL": "Bomba-relógio Armada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429EA",
+      "FORMID": "1429EA",
+      "EDID": "40mmGrenadeProjectileUnique",
+      "FULL": "Granada 40mm Exclusiva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C65C",
+      "FORMID": "14C65C",
+      "EDID": "VHDLegionOliverRangerC4Projectile",
+      "FULL": "C4"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14D6C7",
+      "FORMID": "14D6C7",
+      "EDID": "NVSpearProjectile",
+      "FULL": "Projétil de Lança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDE0",
+      "FORMID": "14DDE0",
+      "EDID": "GrenadeStunProjectile",
+      "FULL": "Granada de Atordoamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDE1",
+      "FORMID": "14DDE1",
+      "EDID": "GrenadeIncendiaryProjectile",
+      "FULL": "Granada Incendiária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DE1E",
+      "FORMID": "14DE1E",
+      "EDID": "NVHatchetProjectile",
+      "FULL": "Projétil de Machado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1519EE",
+      "FORMID": "1519EE",
+      "EDID": "NVIncineratorProjectile",
+      "FULL": "Globo de Chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152C62",
+      "FORMID": "152C62",
+      "EDID": "127mmPistolBulletProjectile",
+      "FULL": "Bala de Pistola 12,7 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154467",
+      "FORMID": "154467",
+      "EDID": "TimerBombProjectile",
+      "FULL": "Bomba-relógio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E08",
+      "FORMID": "155E08",
+      "EDID": "20GaSlugProjectile",
+      "FULL": "Chumbo 20 Ga."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1572C5",
+      "FORMID": "1572C5",
+      "EDID": "12GaSlugProjectile",
+      "FULL": "Chumbo 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582DB",
+      "FORMID": "1582DB",
+      "EDID": "12GaCoinShotProjectile",
+      "FULL": "Cartucho de Moedas Calibre 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582E6",
+      "FORMID": "1582E6",
+      "EDID": "12GaBeanBagProjectile",
+      "FULL": "Bala de Borracha 12"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582EB",
+      "FORMID": "1582EB",
+      "EDID": "MissileProjectileHV",
+      "FULL": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158316",
+      "FORMID": "158316",
+      "EDID": "25mmGrenadeProjectileHE",
+      "FULL": "Granada HE de 25 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158317",
+      "FORMID": "158317",
+      "EDID": "MissileProjectileHE",
+      "FULL": "Míssil HE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16021F",
+      "FORMID": "16021F",
+      "EDID": "GaussProjectile",
+      "FULL": "Projétil Gauss"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16201A",
+      "FORMID": "16201A",
+      "EDID": "GrenadeFragHolyProjectile",
+      "FULL": "Granada de Fragmentação Sagrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1622D0",
+      "FORMID": "1622D0",
+      "EDID": "40mmGrenadeProjectileInc",
+      "FULL": "Granada Incendiária de 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1629A6",
+      "FORMID": "1629A6",
+      "EDID": "NVThrowingKnifeProjectile",
+      "FULL": "Projétil de Faca de Arremesso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AEFB",
+      "FORMID": "16AEFB",
+      "EDID": "ARCHIMEDESIIProjectile",
+      "FULL": "Raio da Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172AAB",
+      "FORMID": "172AAB",
+      "EDID": "BeamLaserGreenProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172FBC",
+      "FORMID": "172FBC",
+      "EDID": "PulseGunProjectile",
+      "FULL": "Feixe de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176ABA",
+      "FORMID": "176ABA",
+      "EDID": "GrenadeFragMisfitsProjectile",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A2C6",
+      "FORMID": "17A2C6",
+      "EDID": "AutoTracerProjectile",
+      "FULL": "Bala de Rifle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B7B9",
+      "FORMID": "17B7B9",
+      "EDID": "SecuritronGrenadeProjectile",
+      "FULL": "Granada Securitron"
+    }
+  ]
+}

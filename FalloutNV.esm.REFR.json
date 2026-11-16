@@ -1,0 +1,1859 @@
+{
+  "REFR": [
+    {
+      "FORM": "@FalloutNV.esm:0CDF2A",
+      "FORMID": "0CDF2A",
+      "EDID": "Vault3MapMarkerREF",
+      "XMRK": "Vault 3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F36EC",
+      "FORMID": "0F36EC",
+      "EDID": "PawnShopMapMarker",
+      "XMRK": "Casa de Penhores do Miguel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BB0D",
+      "FORMID": "13BB0D",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133965",
+      "FORMID": "133965",
+      "RXATO": "Abrir Porta para Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116423",
+      "FORMID": "116423",
+      "EDID": "VFSEastGateREF",
+      "RXATO": "Saída para a Orla de Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116424",
+      "FORMID": "116424",
+      "EDID": "VFSNorthGateREF",
+      "RXATO": "Saída para a Orla de Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133966",
+      "FORMID": "133966",
+      "RXATO": "Abrir Porta para o Antigo Forte Mormon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116425",
+      "FORMID": "116425",
+      "EDID": "FreesideGateToStripREF",
+      "RXATO": "Entre na Strip"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC3F",
+      "FORMID": "15EC3F",
+      "XMRK": "O Portão Norte da Strip"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1520DA",
+      "FORMID": "1520DA",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F6",
+      "FORMID": "1690F6",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F4",
+      "FORMID": "1690F4",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F5",
+      "FORMID": "1690F5",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159F9F",
+      "FORMID": "159F9F",
+      "RXATO": "Entrar na Toca do Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F3",
+      "FORMID": "1690F3",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F2",
+      "FORMID": "1690F2",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690F1",
+      "FORMID": "1690F1",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16941D",
+      "FORMID": "16941D",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A8BB",
+      "FORMID": "15A8BB",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A8CA",
+      "FORMID": "15A8CA",
+      "RXATO": "Túnel Inacessível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E869",
+      "FORMID": "15E869",
+      "EDID": "CassidyCaravanWreckageMapMarker",
+      "XMRK": "Destroços das Caravanas Cassidy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E86B",
+      "FORMID": "15E86B",
+      "EDID": "GriffinWaresMapMarker",
+      "XMRK": "Caravana Saqueada da Griffin Wares"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E86D",
+      "FORMID": "15E86D",
+      "EDID": "DurableDunnsMapMarker",
+      "XMRK": "Caravana Saqueada de Dunn, o Durável"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14666F",
+      "FORMID": "14666F",
+      "XMRK": "Caverna de Suprimentos Oculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465E7",
+      "FORMID": "1465E7",
+      "EDID": "VHDLegateCampExtGateREF",
+      "RXATO": "Abrir Portão para o Acampamento do Legado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EE3",
+      "FORMID": "144EE3",
+      "EDID": "VHDLegateCampGateREF",
+      "RXATO": "Abrir Portão para a Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370DC",
+      "FORMID": "1370DC",
+      "XMRK": "Crista da Cauda do Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF57",
+      "FORMID": "0CDF57",
+      "EDID": "JacobstownMapMarker",
+      "XMRK": "Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF54",
+      "FORMID": "0CDF54",
+      "XMRK": "Parque Estadual do Rancho do Monte Spring"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF53",
+      "FORMID": "0CDF53",
+      "EDID": "RedRockCanyonMarker",
+      "XMRK": "Cânion Red Rock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF52",
+      "FORMID": "0CDF52",
+      "EDID": "Vault19MapMarker",
+      "XMRK": "Vault 19"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF51",
+      "FORMID": "0CDF51",
+      "XMRK": "Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF4F",
+      "FORMID": "0CDF4F",
+      "EDID": "MojaveOutpostMapMarker",
+      "XMRK": "Posto Avançado Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF46",
+      "FORMID": "0CDF46",
+      "EDID": "PrimmMapMarker",
+      "XMRK": "Primm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF24",
+      "FORMID": "0CDF24",
+      "EDID": "Vault22MapMarker",
+      "XMRK": "Vault 22"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF17",
+      "FORMID": "0CDF17",
+      "EDID": "QuarryJunctionMapMarker",
+      "XMRK": "Pedreira da Interseção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF13",
+      "FORMID": "0CDF13",
+      "EDID": "NiptonMapMarker",
+      "XMRK": "Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF0C",
+      "FORMID": "0CDF0C",
+      "EDID": "CampGuardianMarker",
+      "XMRK": "Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF0A",
+      "FORMID": "0CDF0A",
+      "EDID": "BitterSpringsMarkerREF",
+      "XMRK": "Bitter Springs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF08",
+      "FORMID": "0CDF08",
+      "EDID": "VCampForlornHopeMapMarker",
+      "XMRK": "Acampamento Forlorn Hope"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF07",
+      "FORMID": "0CDF07",
+      "XMRK": "Acampamento de Boulder Beach"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF06",
+      "FORMID": "0CDF06",
+      "EDID": "BoulderCityMapMarker",
+      "XMRK": "Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF05",
+      "FORMID": "0CDF05",
+      "EDID": "CampGolfMapMarker",
+      "XMRK": "Acampamento Golf"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF04",
+      "FORMID": "0CDF04",
+      "EDID": "NelsonMapMarker",
+      "XMRK": "Nelson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF03",
+      "FORMID": "0CDF03",
+      "XMRK": "Mina Techatticup"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF02",
+      "FORMID": "0CDF02",
+      "EDID": "SearchlightMapMarker",
+      "XMRK": "Acampamento Search Light"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF01",
+      "FORMID": "0CDF01",
+      "XMRK": "Pátio de Trens de Gesso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF00",
+      "FORMID": "0CDF00",
+      "EDID": "Vault11MapMarker",
+      "XMRK": "Vault 11"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEFF",
+      "FORMID": "0CDEFF",
+      "XMRK": "Lago Las Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEFD",
+      "FORMID": "0CDEFD",
+      "EDID": "VHeliosONEMapMarkerREF",
+      "XMRK": "HELIOS One"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEFC",
+      "FORMID": "0CDEFC",
+      "EDID": "Vault34MapMarker",
+      "XMRK": "Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEFB",
+      "FORMID": "0CDEFB",
+      "EDID": "BlackMountainMapMarkerREF",
+      "XMRK": "Montanha Negra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEFA",
+      "FORMID": "0CDEFA",
+      "EDID": "NellisMapMarker",
+      "XMRK": "Base Aérea de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEF9",
+      "FORMID": "0CDEF9",
+      "EDID": "RepconHQMapMarkerREF",
+      "XMRK": "Quartel-general da REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092898",
+      "FORMID": "092898",
+      "EDID": "RepconMapMarkerREF",
+      "XMRK": "Sítio de Testes da REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A7B",
+      "FORMID": "090A7B",
+      "EDID": "RangerStationCharlieMapMarkerREF",
+      "XMRK": "Posto de Ranger Charlie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A7C",
+      "FORMID": "090A7C",
+      "EDID": "GibsonScrapYardMarker",
+      "XMRK": "Ferro-velho da Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09289B",
+      "FORMID": "09289B",
+      "EDID": "NovacMapMarker",
+      "XMRK": "Novac"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A7D",
+      "FORMID": "090A7D",
+      "EDID": "ClarkFieldMapMarker",
+      "XMRK": "Campo Clark"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D793D",
+      "FORMID": "0D793D",
+      "EDID": "NCRCFMapMarker",
+      "XMRK": "Penitenciária da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDA74",
+      "FORMID": "0CDA74",
+      "EDID": "HiddenValleyMarkerREF",
+      "XMRK": "Vale Oculto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3938",
+      "FORMID": "0E3938",
+      "XMRK": "Fonte de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3939",
+      "FORMID": "0E3939",
+      "XMRK": "Drive-in Pôr do Sol da Califórnia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E393A",
+      "FORMID": "0E393A",
+      "XMRK": "Serviço Ferroviário de Emergência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E62DF",
+      "FORMID": "0E62DF",
+      "EDID": "SloanMapMarker",
+      "XMRK": "Sloan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7795",
+      "FORMID": "0E7795",
+      "EDID": "188MapMarker",
+      "XMRK": "Posto de Troca 188"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7D95",
+      "FORMID": "0E7D95",
+      "XMRK": "Lago Seco El Dorado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7E14",
+      "FORMID": "0E7E14",
+      "XMRK": "Subestação El Dorado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E834C",
+      "FORMID": "0E834C",
+      "EDID": "GreatKhanEncampmentMapMarker",
+      "XMRK": "Acampamento Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC348",
+      "FORMID": "0EC348",
+      "XMRK": "Garganta do Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6A69",
+      "FORMID": "0E6A69",
+      "RXATO": "Entre no Vault 22"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA83",
+      "FORMID": "0EEA83",
+      "XMRK": "Estação de Bombeamento Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEEE8",
+      "FORMID": "0EEEE8",
+      "EDID": "ElReyMotelMapMarker",
+      "XMRK": "Motel El Rey"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF20F",
+      "FORMID": "0EF20F",
+      "EDID": "MoralesCorpseMapMarkerREF",
+      "XMRK": "Cadáver do Ranger Morales"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F05DB",
+      "FORMID": "0F05DB",
+      "EDID": "MedicalClinicMapMarker",
+      "XMRK": "Clínica Médica de New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F089D",
+      "FORMID": "0F089D",
+      "XMRK": "Estação de Bombeamento Oeste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F2EA8",
+      "FORMID": "0F2EA8",
+      "EDID": "GunRunnerMapMarker",
+      "XMRK": "Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3088",
+      "FORMID": "0F3088",
+      "XMRK": "Parque Empresarial Aerotech"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F33C4",
+      "FORMID": "0F33C4",
+      "EDID": "SharecropperFarmsMapMarker",
+      "XMRK": "Fazendas de Meação da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F33C6",
+      "FORMID": "0F33C6",
+      "XMRK": "Suítes Monte Carlo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3775",
+      "FORMID": "0F3775",
+      "EDID": "CampMcCarranMapMarker",
+      "XMRK": "Acampamento McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4833",
+      "FORMID": "0F4833",
+      "XMRK": "Cisterna Sul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4BFF",
+      "FORMID": "0F4BFF",
+      "EDID": "HouseToolsMarker",
+      "XMRK": "Fábrica de Ferramentas H&H"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4CBD",
+      "FORMID": "0F4CBD",
+      "XMRK": "Ponto de Descanso Larica e Gole"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F81C2",
+      "FORMID": "0F81C2",
+      "EDID": "RockCrushingPlantMapMarker",
+      "XMRK": "Britadeira Samson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF86A",
+      "FORMID": "0FF86A",
+      "XMRK": "Aço de New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100636",
+      "FORMID": "100636",
+      "EDID": "CrashedB29Marker",
+      "XMRK": "B-29 Acidentado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103FA5",
+      "FORMID": "103FA5",
+      "RXATO": "Entrar no Formigueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:103FE0",
+      "FORMID": "103FE0",
+      "XMRK": "Montículo de Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1043DA",
+      "FORMID": "1043DA",
+      "EDID": "SSHQMapMarker",
+      "XMRK": "Quartel-general da Sunset Sarsaparilla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1088F6",
+      "FORMID": "1088F6",
+      "EDID": "GoodspringsCemeteryMapMarker",
+      "XMRK": "Cemitério de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C66E",
+      "FORMID": "10C66E",
+      "RXATO": "Entrar na Caverna do Lago Mead"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6C7",
+      "FORMID": "10C6C7",
+      "XMRK": "Caverna do Lago Mead"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6C8",
+      "FORMID": "10C6C8",
+      "XMRK": "Rancho Wolfhorn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6C9",
+      "FORMID": "10C6C9",
+      "EDID": "VCliffsideCavernMapMarkerREF",
+      "XMRK": "Caverna da Flor de Brócolis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6CB",
+      "FORMID": "10C6CB",
+      "XMRK": "Acampamento Sombra da Montanha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6CC",
+      "FORMID": "10C6CC",
+      "XMRK": "Cabana Abandonada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110D8A",
+      "FORMID": "110D8A",
+      "EDID": "RangerStationBravoMarkerREF",
+      "XMRK": "Posto de Patrulha Bravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110D8C",
+      "FORMID": "110D8C",
+      "EDID": "RangerStationAlphaMarkerREF",
+      "XMRK": "Posto de Patrulhamento Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1124B4",
+      "FORMID": "1124B4",
+      "EDID": "RangerStationDeltaMarkerREF",
+      "XMRK": "Posto de Patrulha Delta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1132CB",
+      "FORMID": "1132CB",
+      "EDID": "RangerStationEchoMarkerREF",
+      "XMRK": "Posto de Patrulha Echo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11641F",
+      "FORMID": "11641F",
+      "EDID": "FreesideEastGateREF",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116420",
+      "FORMID": "116420",
+      "EDID": "ExteriorGateToFreesideREF",
+      "RXATO": "Entrar em Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164C3",
+      "FORMID": "1164C3",
+      "EDID": "NVMonorailDoorREF",
+      "RXATO": "Pegar o Monotrilho para a Strip"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125C2B",
+      "FORMID": "125C2B",
+      "EDID": "FortHowitzerRef",
+      "RXATO": "Examinar Obuseiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126F4D",
+      "FORMID": "126F4D",
+      "EDID": "RangerStationFoxtrotMarkerREF",
+      "XMRK": "Posto de Patrulha Foxtrot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B3C7",
+      "FORMID": "12B3C7",
+      "EDID": "CottonwoodCoveMapMarker",
+      "XMRK": "Enseada Cottonwood"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12A9D3",
+      "FORMID": "12A9D3",
+      "RXATO": "Entre na Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AA01",
+      "FORMID": "12AA01",
+      "RXATO": "Entre na Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AA18",
+      "FORMID": "12AA18",
+      "RXATO": "Entre na Caverna de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130B9B",
+      "FORMID": "130B9B",
+      "EDID": "NVCCBargeREF",
+      "RXATO": "Viaje para The Fort"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF0D",
+      "FORMID": "0CDF0D",
+      "EDID": "TheFortMapMarker",
+      "XMRK": "O Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133EE1",
+      "FORMID": "133EE1",
+      "XMRK": "Área de Recreação de Bitter Springs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10063C",
+      "FORMID": "10063C",
+      "EDID": "VMS15BallastDeployerREF",
+      "RXATO": "Ativar Lastro Remotamente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135E5F",
+      "FORMID": "135E5F",
+      "EDID": "VHDMapMarkerREF",
+      "XMRK": "Barragem Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136A0E",
+      "FORMID": "136A0E",
+      "XMRK": "Baía Callville"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136FB5",
+      "FORMID": "136FB5",
+      "EDID": "vCCFortGateREF",
+      "RXATO": "Viajar para Cottonwood Cove"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138142",
+      "FORMID": "138142",
+      "XMRK": "O Espinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13849E",
+      "FORMID": "13849E",
+      "XMRK": "Acampamento de Incursão da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1392C4",
+      "FORMID": "1392C4",
+      "EDID": "CottonwoodOverlookMapMarker",
+      "XMRK": "Mirante de Cottonwood"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A66A",
+      "FORMID": "13A66A",
+      "EDID": "FreesideMapMarker",
+      "XMRK": "Portão Norte de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BDB2",
+      "FORMID": "13BDB2",
+      "RXATO": "Abrir Grade para o Vault 19"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13C6D5",
+      "FORMID": "13C6D5",
+      "XMRK": "Bonnie Springs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13C8BE",
+      "FORMID": "13C8BE",
+      "EDID": "GuardianPeakMarker",
+      "XMRK": "Pico Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E2A3",
+      "FORMID": "13E2A3",
+      "EDID": "NorthVegasSquareMapMarkerREF",
+      "XMRK": "Praça de North Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E419",
+      "FORMID": "13E419",
+      "RXATO": "Entrar na Caverna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D55B",
+      "FORMID": "13D55B",
+      "RXATO": "Entrar na Caverna do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E74E",
+      "FORMID": "13E74E",
+      "XMRK": "Aeroporto de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F2A5",
+      "FORMID": "13F2A5",
+      "RXATO": "Entre nas Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F68C",
+      "FORMID": "13F68C",
+      "RXATO": "Entre nas Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F68D",
+      "FORMID": "13F68D",
+      "RXATO": "Entrar na Caverna do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141145",
+      "FORMID": "141145",
+      "EDID": "FortMainCampGateExterior",
+      "RXATO": "Abrir Ponte Levadiça do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141147",
+      "FORMID": "141147",
+      "EDID": "FortMainCampGateInterior",
+      "RXATO": "Abrir Ponte Levadiça do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14123A",
+      "FORMID": "14123A",
+      "RXATO": "Entrar na Caverna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145D50",
+      "FORMID": "145D50",
+      "XMRK": "Lago Seco de Ivanpah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148268",
+      "FORMID": "148268",
+      "EDID": "NightstalkerLairMapMarker",
+      "XMRK": "Caverna Charleston"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C0D3",
+      "FORMID": "14C0D3",
+      "RXATO": "Entre nas Cavernas do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151CFB",
+      "FORMID": "151CFB",
+      "XMRK": "Fazenda Whittaker"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151CFD",
+      "FORMID": "151CFD",
+      "XMRK": "Fazenda do Caçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151FED",
+      "FORMID": "151FED",
+      "XMRK": "Ponto de Parada da Estrada de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152160",
+      "FORMID": "152160",
+      "EDID": "CrescentCanyonWestREF",
+      "XMRK": "Cânion Oeste da Lua Crescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152161",
+      "FORMID": "152161",
+      "EDID": "CrescentCanyonEastREF",
+      "XMRK": "Cânion Crescent Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1525E4",
+      "FORMID": "1525E4",
+      "XMRK": "Escritórios da Allied Technologies"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152967",
+      "FORMID": "152967",
+      "XMRK": "Jean Mergulho no Céu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1531FB",
+      "FORMID": "1531FB",
+      "XMRK": "Caverna de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1531FC",
+      "FORMID": "1531FC",
+      "RXATO": "Entrar na Caverna de Goodsprings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1531FD",
+      "FORMID": "1531FD",
+      "XMRK": "Rádio Lobo Solitário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1531FF",
+      "FORMID": "1531FF",
+      "XMRK": "A Garganta do Diabo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153401",
+      "FORMID": "153401",
+      "XMRK": "Garganta do Diabo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153402",
+      "FORMID": "153402",
+      "EDID": "IvanpahRacetrackMapMarker",
+      "XMRK": "Autódromo de Ivanpah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1520D9",
+      "FORMID": "1520D9",
+      "RXATO": "Entrar na Toca do Escorpião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153403",
+      "FORMID": "153403",
+      "XMRK": "Posto da Patrulha Rodoviária de Nevada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153405",
+      "FORMID": "153405",
+      "EDID": "MesquiteMountainsCrater",
+      "XMRK": "Cratera das Montanhas Mesquite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153406",
+      "FORMID": "153406",
+      "RXATO": "Entrar na Caverna Estrela da Manhã"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153407",
+      "FORMID": "153407",
+      "XMRK": "Caverna da Estrela da Manhã"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15354F",
+      "FORMID": "15354F",
+      "XMRK": "Acampamento da Gangue da Pólvora Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153550",
+      "FORMID": "153550",
+      "XMRK": "Acampamento da Gangue da Pólvora Sul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153551",
+      "FORMID": "153551",
+      "XMRK": "Acampamento da Gangue da Pólvora Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153552",
+      "FORMID": "153552",
+      "XMRK": "Acampamento da Gangue da Pólvora Perto do Oeste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1536C5",
+      "FORMID": "1536C5",
+      "RXATO": "Entre no Cubículo do Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1536D7",
+      "FORMID": "1536D7",
+      "XMRK": "A Toca do Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153770",
+      "FORMID": "153770",
+      "XMRK": "Cratera Cottonwood"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153906",
+      "FORMID": "153906",
+      "XMRK": "Acampamento nas Montanhas Mesquite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153941",
+      "FORMID": "153941",
+      "XMRK": "Cabana do Bradley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153942",
+      "FORMID": "153942",
+      "XMRK": "Parada na Estrada de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153C69",
+      "FORMID": "153C69",
+      "XMRK": "Jack Rabbit Springs"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154618",
+      "FORMID": "154618",
+      "XMRK": "A Fabricação Clandestina de Cerveja do Brewer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15461A",
+      "FORMID": "15461A",
+      "XMRK": "Vertibird Acidentado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15461B",
+      "FORMID": "15461B",
+      "XMRK": "Antigo Sítio de Testes Nucleares"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15461D",
+      "FORMID": "15461D",
+      "XMRK": "Ninho de Atiradores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154624",
+      "FORMID": "154624",
+      "XMRK": "Fazenda de Criação de Animais Matthews"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154831",
+      "FORMID": "154831",
+      "RXATO": "Entrar na Caverna Raiz de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15483D",
+      "FORMID": "15483D",
+      "RXATO": "Entrar na Caverna Raiz de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154921",
+      "FORMID": "154921",
+      "XMRK": "Acampamento de Garimpeiros de Smith Mesa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154929",
+      "FORMID": "154929",
+      "XMRK": "Aluguéis Paraíso Azul de Férias"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15492C",
+      "FORMID": "15492C",
+      "XMRK": "Highwayman Detonado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1549CD",
+      "FORMID": "1549CD",
+      "XMRK": "Caverna Raiz de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1549D3",
+      "FORMID": "1549D3",
+      "XMRK": "Acampamento dos Garimpeiros Snyder"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154A65",
+      "FORMID": "154A65",
+      "XMRK": "Fazenda Invadida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154A69",
+      "FORMID": "154A69",
+      "XMRK": "Toca do Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154B34",
+      "FORMID": "154B34",
+      "XMRK": "Cabana de Harper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154BAC",
+      "FORMID": "154BAC",
+      "XMRK": "Caverna da Caixa Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154BAD",
+      "FORMID": "154BAD",
+      "RXATO": "Entrar na Caverna da Caixa Ambulante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154CF0",
+      "FORMID": "154CF0",
+      "EDID": "CoyoteMinesREF",
+      "XMRK": "Minas Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154F8D",
+      "FORMID": "154F8D",
+      "XMRK": "Acampamento dos Garimpeiros de Cliffside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154FB9",
+      "FORMID": "154FB9",
+      "XMRK": "Caverna do Canibal Johnson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154FC3",
+      "FORMID": "154FC3",
+      "EDID": "LuckyJimMineREF",
+      "XMRK": "Mina Jim Sortudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15502E",
+      "FORMID": "15502E",
+      "RXATO": "Entrar na Caverna Black Rock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558AA",
+      "FORMID": "1558AA",
+      "XMRK": "Bunker Abandonado da BoS"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558AD",
+      "FORMID": "1558AD",
+      "XMRK": "Mina de Ouro Leste de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558AE",
+      "FORMID": "1558AE",
+      "RXATO": "Entrar na Mina de Ouro Norte de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558AF",
+      "FORMID": "1558AF",
+      "XMRK": "Mina de Ouro Norte de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155952",
+      "FORMID": "155952",
+      "XMRK": "Parque Eólico do Sul de Nevada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155953",
+      "FORMID": "155953",
+      "XMRK": "El Dorado Gas & Service"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155A58",
+      "FORMID": "155A58",
+      "XMRK": "Fazenda Horowitz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155A59",
+      "FORMID": "155A59",
+      "XMRK": "Posto de Gasolina Poseidon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155A5A",
+      "FORMID": "155A5A",
+      "XMRK": "Caverna Rocha Negra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E0A",
+      "FORMID": "155E0A",
+      "XMRK": "Acampamento dos Vipers da Rodovia 95"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E0B",
+      "FORMID": "155E0B",
+      "XMRK": "Lixão Tóxico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155E0C",
+      "FORMID": "155E0C",
+      "XMRK": "Ninho de Cazadores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156003",
+      "FORMID": "156003",
+      "XMRK": "Rancho Brooks Tumbleweed"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156853",
+      "FORMID": "156853",
+      "RXATO": "Entre na Tenda do Tenente Hayes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156B16",
+      "FORMID": "156B16",
+      "XMRK": "Estação Ferroviária da Interseção 15"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156B19",
+      "FORMID": "156B19",
+      "XMRK": "Cabana Orgulho do Pescador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156B1A",
+      "FORMID": "156B1A",
+      "EDID": "ScavengerPlatformREF",
+      "XMRK": "Plataforma de Sucateiros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1578E8",
+      "FORMID": "1578E8",
+      "XMRK": "Vila Tribal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1578EE",
+      "FORMID": "1578EE",
+      "XMRK": "Cabana de Falsificação de Fichas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1578EF",
+      "FORMID": "1578EF",
+      "XMRK": "Mina Ruby Hill"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1578F0",
+      "FORMID": "1578F0",
+      "XMRK": "Mina Silver Peak"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1578F1",
+      "FORMID": "1578F1",
+      "XMRK": "Cabana de Fields"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157AD4",
+      "FORMID": "157AD4",
+      "RXATO": "Entrar na Passagem Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7A",
+      "FORMID": "157F7A",
+      "EDID": "SafehouseNCRMarkerREF",
+      "XMRK": "Refúgio dos Rangers da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7B",
+      "FORMID": "157F7B",
+      "EDID": "BrotherhoodSafehouseMapMarker",
+      "XMRK": "Refúgio da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7C",
+      "FORMID": "157F7C",
+      "EDID": "SafehouseLegionMapMarker",
+      "XMRK": "Refúgio da Legião de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7D",
+      "FORMID": "157F7D",
+      "EDID": "NorthernPassageMapMarker",
+      "XMRK": "Passagem do Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7E",
+      "FORMID": "157F7E",
+      "XMRK": "Destroços do Canyon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158426",
+      "FORMID": "158426",
+      "EDID": "FoASafehouseMarker",
+      "XMRK": "Refúgio dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159AC5",
+      "FORMID": "159AC5",
+      "XMRK": "Mojave Drive-in"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A2E2",
+      "FORMID": "15A2E2",
+      "XMRK": "Caverna Nascida no Sangue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A2E3",
+      "FORMID": "15A2E3",
+      "RXATO": "Entrar na Caverna Bloodborne"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A2E6",
+      "FORMID": "15A2E6",
+      "EDID": "RemnantsBunkerMapMarker",
+      "XMRK": "Refúgio dos Remanescentes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A6A4",
+      "FORMID": "15A6A4",
+      "EDID": "RaulsShackMarkerREF",
+      "XMRK": "Cabana do Raul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A883",
+      "FORMID": "15A883",
+      "RXATO": "Abrir Porta do Posto Avançado dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A943",
+      "FORMID": "15A943",
+      "XMRK": "Rancho do Rato-Toupeira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BD44",
+      "FORMID": "15BD44",
+      "XMRK": "Passagem de Primm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C452",
+      "FORMID": "15C452",
+      "EDID": "DeadWindCavernMapMarkerREF",
+      "XMRK": "Caverna do Vento Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C453",
+      "FORMID": "15C453",
+      "RXATO": "Entrar na Caverna Vento Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15CC85",
+      "FORMID": "15CC85",
+      "XMRK": "O Edifício Basincreek"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159E89",
+      "FORMID": "159E89",
+      "RXATO": "Abrir Portão para a Companhia Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159E7F",
+      "FORMID": "159E7F",
+      "RXATO": "Abrir Portão para a Companhia Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DA09",
+      "FORMID": "15DA09",
+      "EDID": "NellisArrayMarkerREF",
+      "XMRK": "Conjunto de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15DA0A",
+      "FORMID": "15DA0A",
+      "EDID": "NellisHangarsMarkerREF",
+      "XMRK": "Hangares de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E263",
+      "FORMID": "15E263",
+      "RXATO": "Entrar na Caverna Nopah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3FD",
+      "FORMID": "15E3FD",
+      "XMRK": "Caverna de Nopah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEC30",
+      "FORMID": "0EEC30",
+      "EDID": "CrimsonCaravanMapMarker",
+      "XMRK": "Companhia Caravana Carmesim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8A8",
+      "FORMID": "15E8A8",
+      "XMRK": "Acampamento Improvisado dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8A9",
+      "FORMID": "15E8A9",
+      "XMRK": "Acampamento do Legado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8AA",
+      "FORMID": "15E8AA",
+      "EDID": "FollowersOutpostMapMarker",
+      "XMRK": "Posto Avançado dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8AC",
+      "FORMID": "15E8AC",
+      "XMRK": "Portão Leste de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8AF",
+      "FORMID": "15E8AF",
+      "XMRK": "Laboratório de drogas Rocha Vermelha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8B0",
+      "FORMID": "15E8B0",
+      "XMRK": "Mapa do Chance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC3D",
+      "FORMID": "15EC3D",
+      "XMRK": "Entrada Oeste das Ruínas de South Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC3E",
+      "FORMID": "15EC3E",
+      "EDID": "SouthVegasRuinsEastEntranceMapMarker",
+      "XMRK": "Ruínas de South Vegas, Entrada Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC59",
+      "FORMID": "15EC59",
+      "EDID": "WestSideSouthMarker",
+      "XMRK": "Entrada Sul de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC5A",
+      "FORMID": "15EC5A",
+      "XMRK": "Entrada Oeste de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FF51",
+      "FORMID": "15FF51",
+      "EDID": "JimmysWellMapMarker",
+      "XMRK": "Poço do Jimmy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1646FE",
+      "FORMID": "1646FE",
+      "EDID": "SLSulfurCave03Entrance",
+      "RXATO": "Entrar na Caverna Bootjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C5B",
+      "FORMID": "164C5B",
+      "RXATO": "Subir Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C63",
+      "FORMID": "164C63",
+      "RXATO": "Usar escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C64",
+      "FORMID": "164C64",
+      "EDID": "VHDODeckExtLadderREF",
+      "RXATO": "Subir Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C66",
+      "FORMID": "164C66",
+      "RXATO": "Usar escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167D9A",
+      "FORMID": "167D9A",
+      "EDID": "VYangtzeMemorialMapMarkerREF",
+      "XMRK": "Memorial Yangtze"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169532",
+      "FORMID": "169532",
+      "EDID": "HooverDamFallLadderREF",
+      "RXATO": "Subir Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1715C6",
+      "FORMID": "1715C6",
+      "EDID": "NeilsShackMapMarker",
+      "XMRK": "Cabana do Neil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1591D6",
+      "FORMID": "1591D6",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15315F",
+      "FORMID": "15315F",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1556C4",
+      "FORMID": "1556C4",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31D",
+      "FORMID": "13F31D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31E",
+      "FORMID": "13F31E",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F322",
+      "FORMID": "13F322",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154852",
+      "FORMID": "154852",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15487A",
+      "FORMID": "15487A",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B56D",
+      "FORMID": "12B56D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DB59",
+      "FORMID": "10DB59",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DB56",
+      "FORMID": "10DB56",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DB57",
+      "FORMID": "10DB57",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DB58",
+      "FORMID": "10DB58",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155756",
+      "FORMID": "155756",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D230",
+      "FORMID": "10D230",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DACF",
+      "FORMID": "13DACF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1CD",
+      "FORMID": "10E1CD",
+      "EDID": "VTopsElevatortoPresidentialREF",
+      "RXATO": "Pegue o Elevador para a Suíte Presidencial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E4D9",
+      "FORMID": "10E4D9",
+      "RXATO": "Pegar o Elevador para o 13º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1592B8",
+      "FORMID": "1592B8",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B56C",
+      "FORMID": "12B56C",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DDB3",
+      "FORMID": "10DDB3",
+      "RXATO": "Chamar Elevador Expresso para o Nível Inferior"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DDB4",
+      "FORMID": "10DDB4",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F31F",
+      "FORMID": "13F31F",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F320",
+      "FORMID": "13F320",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168DB5",
+      "FORMID": "168DB5",
+      "EDID": "v34NorthTeleportDoor",
+      "RXATO": "Abrir Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138CF5",
+      "FORMID": "138CF5",
+      "RXATO": "Abrir Porta do Arsenal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12CC9B",
+      "FORMID": "12CC9B",
+      "EDID": "V34OverseerDoor",
+      "RXATO": "Abrir Porta para o Quarto do Supervisor do Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12CCE8",
+      "FORMID": "12CCE8",
+      "EDID": "v34NorthGate",
+      "RXATO": "Abrir Porta para Estação de Segurança A"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E41D",
+      "FORMID": "13E41D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:155061",
+      "FORMID": "155061",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B580",
+      "FORMID": "12B580",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BB0C",
+      "FORMID": "13BB0C",
+      "EDID": "NVMonorailDoorStripREF",
+      "RXATO": "Pegue o Monotrilho para McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF7",
+      "FORMID": "12FFF7",
+      "EDID": "OVSewerCSE01ToRefugeeCamp",
+      "RXATO": "Subir Escada para o Parque de Escritórios Aerotech"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF8",
+      "FORMID": "12FFF8",
+      "EDID": "OVSewerCE01ToFarmGolf",
+      "RXATO": "Subir na Escada para os Meeiros da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130DE6",
+      "FORMID": "130DE6",
+      "EDID": "VHDTowerLadder02REF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFF6",
+      "FORMID": "12FFF6",
+      "EDID": "OVSewerCS01ToMcCarran",
+      "RXATO": "Subir na Escada para o Acampamento McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B75D",
+      "FORMID": "15B75D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138109",
+      "FORMID": "138109",
+      "EDID": "VLadderToPitCreaturePrepareRoom",
+      "RXATO": "Subir a escada para as jaulas do Espinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138108",
+      "FORMID": "138108",
+      "EDID": "VThornToWestside",
+      "RXATO": "Subir na escada para Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E435",
+      "FORMID": "10E435",
+      "RXATO": "Pegar o Elevador para o Andar Principal do Cassino Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10FA89",
+      "FORMID": "10FA89",
+      "EDID": "VTopsSecretElevatorREF",
+      "RXATO": "Pegar Elevador para o Subsolo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154BC5",
+      "FORMID": "154BC5",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130DE5",
+      "FORMID": "130DE5",
+      "EDID": "VHDTowerLadder03REF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101CB5",
+      "FORMID": "101CB5",
+      "RXATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157A94",
+      "FORMID": "157A94",
+      "RXATO": "Sair da Passagem Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157A93",
+      "FORMID": "157A93",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118355",
+      "FORMID": "118355",
+      "RXATO": "Chamar o Chefe de Salão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153304",
+      "FORMID": "153304",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1583CA",
+      "FORMID": "1583CA",
+      "RXATO": "Sair do Bunker do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1583F4",
+      "FORMID": "1583F4",
+      "RXATO": "Entrar no Bunker do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE55C",
+      "FORMID": "0CE55C",
+      "EDID": "REPCONBasementShortcutLadderREF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D6AC",
+      "FORMID": "10D6AC",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D6AE",
+      "FORMID": "10D6AE",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6157",
+      "FORMID": "0E6157",
+      "EDID": "V22GearDoorInterior",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153330",
+      "FORMID": "153330",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C66D",
+      "FORMID": "10C66D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DD25",
+      "FORMID": "13DD25",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCFB",
+      "FORMID": "13DCFB",
+      "EDID": "v19SmallExplosionDoorREF",
+      "RXATO": "Entrar no Túnel para o Vault 19"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCFA",
+      "FORMID": "13DCFA",
+      "RXATO": "Ativar Elevador para o Vault 19 - Escritório do Supervisor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101A47",
+      "FORMID": "101A47",
+      "RXATO": "Colocar Emissor Sônico no Monte de Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE9F7",
+      "FORMID": "0FE9F7",
+      "RXATO": "Ler Bilhete Ameaçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BC2E",
+      "FORMID": "13BC2E",
+      "EDID": "VMS42DoorTo3rdFloor",
+      "RXATO": "Entrar no Túnel para as Cavernas de Enxofre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141861",
+      "FORMID": "141861",
+      "RXATO": "Ativar Elevador para o Vault 19 - 1º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141862",
+      "FORMID": "141862",
+      "RXATO": "Ativar Elevador para o Vault 19 - 1º Andar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140392",
+      "FORMID": "140392",
+      "RXATO": "Abrir Porta do Setor Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCF4",
+      "FORMID": "13DCF4",
+      "RXATO": "Abrir Porta do Setor Azul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFD6",
+      "FORMID": "12FFD6",
+      "EDID": "OVSewerN01ToNGas01",
+      "RXATO": "Subir na Escada para Crimson Caravan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFD5",
+      "FORMID": "12FFD5",
+      "EDID": "OVSewerN02ToNFSGate",
+      "RXATO": "Subir a escada para o Portão de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFD4",
+      "FORMID": "12FFD4",
+      "EDID": "OVSewerN03ToNorthVegasYard",
+      "RXATO": "Subir na Escada para North Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FFD3",
+      "FORMID": "12FFD3",
+      "EDID": "OVSewerN04ToNVSquare",
+      "RXATO": "Subir na Escada para a Praça de North Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13002F",
+      "FORMID": "13002F",
+      "EDID": "OVSewerN06ToWestside",
+      "RXATO": "Subir a escada para a Casa de Penhores de Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E19C",
+      "FORMID": "10E19C",
+      "RXATO": "Pegar o Elevador para o Andar Principal do Cassino Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E29",
+      "FORMID": "167E29",
+      "EDID": "VDeadWindExitREF",
+      "RXATO": "Saída para o Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA75",
+      "FORMID": "10DA75",
+      "RXATO": "Chamar Elevador Expresso Para Suítes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA73",
+      "FORMID": "10DA73",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA76",
+      "FORMID": "10DA76",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DA74",
+      "FORMID": "10DA74",
+      "RXATO": "Chamar Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154D8D",
+      "FORMID": "154D8D",
+      "RXATO": "Saída para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCC8",
+      "FORMID": "13DCC8",
+      "RXATO": "Abrir Porta do Setor Azul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCC7",
+      "FORMID": "13DCC7",
+      "RXATO": "Abrir Porta do Setor Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DCCC",
+      "FORMID": "13DCCC",
+      "RXATO": "Ativar Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BD3C",
+      "FORMID": "13BD3C",
+      "RXATO": "Ativar Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E4D3",
+      "FORMID": "13E4D3",
+      "RXATO": "Ativar Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DC46",
+      "FORMID": "13DC46",
+      "EDID": "VMS42DoorTo2ndFloor",
+      "RXATO": "Ativar Elevador para o Vault 19 - Alojamentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DC45",
+      "FORMID": "13DC45",
+      "RXATO": "Ativar Elevador para o Vault 19 - Alojamentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DC44",
+      "FORMID": "13DC44",
+      "EDID": "v19AltCaveDoorOpen",
+      "RXATO": "Ativar Elevador para o Vault 19 - Reator"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BD03",
+      "FORMID": "13BD03",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153FCE",
+      "FORMID": "153FCE",
+      "EDID": "VHDMainControlPanel1REF",
+      "RXATO": "Ativar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130DE7",
+      "FORMID": "130DE7",
+      "EDID": "VHDTowerLadder01REF",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D8B3",
+      "FORMID": "15D8B3",
+      "RXATO": "Subir na Escada para os Ermos de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164609",
+      "FORMID": "164609",
+      "EDID": "SLSulfurCave03",
+      "RXATO": "Saída para os Ermos de Mojave"
+    }
+  ]
+}

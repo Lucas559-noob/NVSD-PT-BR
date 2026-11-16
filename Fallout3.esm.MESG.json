@@ -1,0 +1,170 @@
+{
+  "MESG": [
+    {
+      "FORM": "@FalloutNV.esm:000183",
+      "FORMID": "000183",
+      "EDID": "HelpVATSXBox",
+      "FULL": "V.A.T.S.",
+      "DESC": "Bem vindo ao Sistema de Seleção Assistida da Vault-Tec, ou V.A.T.S. \n\nO V.A.T.S. exibe a possibilidade de acerto junto com a condição de cada parte do corpo.\n\n&-sUActnUse;: Ataca seu objetivo\n&sXBLThumb;: Troca a parte do corpo\n&sXBRThumb;: Troca de objetivo\n&sXBBBtn;: Cancela um ataque\n&sXBABtn;: Confirma suas ações\n\nO número de ataques que você pode realizar estão limitados pelos seus Pontos de Ação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00017D",
+      "FORMID": "00017D",
+      "EDID": "HelpVATS",
+      "FULL": "V.A.T.S.",
+      "DESC": "Bem vindo ao Sistema de Seleção Assistida da Vault-Tec, ou V.A.T.S. \n\nO V.A.T.S. exibe a possibilidade de acerto junto com a condição de cada parte do corpo.\n\n&sMouseLeftButton;: Ataca seu objetivo\n&sMouseRightButton;: Cancela um ataque\n&sKBE;: Confirma suas ações\n\nClique nas flechas da esquerda ou direita para selecionar um novo alvo.\n\nO número de ataques que você pode realizar estão limitados pelos seus Pontos de Ação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000180",
+      "FORMID": "000180",
+      "EDID": "HelpTerminal",
+      "FULL": "Computadores",
+      "DESC": "SEM USO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000181",
+      "FORMID": "000181",
+      "EDID": "HelpPipBoyStats",
+      "FULL": "Curando",
+      "DESC": "Quando você estiver ferido, existem várias maneiras de recuperar sua saúde:\n\n* Visitar um médico e pagar pela cura.\n* Usar Stimpak.\n* Comer ou beber água. \n* Dormir em uma cama."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00016E",
+      "FORMID": "00016E",
+      "EDID": "HelpPipBoyRepair",
+      "FULL": "Reparando",
+      "DESC": "SEM USO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00016D",
+      "FORMID": "00016D",
+      "EDID": "HelpPipBoyItems",
+      "FULL": "Reparando",
+      "DESC": "A condição do objeto afeta seu funcionamento e valor. Armas em más condições infligem menos danos, e falham com mais frequência. Uma armadura em más condições oferece menos Resistência de Dano.\n\nVocê pode reparar objetos em seu Pip-Boy, selecionando a opção Reparar no objeto, mas, somente poderá fazer isso se tiver um objeto similar para utilizar suas peças. Contudo, o objeto que você escolher para utilizar as peças será inutilizado e jogado fora. \n\nO nível de reparação dos objetos danificados depende de sua habilidade de Reparar. Em muitos casos, se sua habilidade for muito baixa, você não poderá reparar a arma ou armadura além do estado atual."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000182",
+      "FORMID": "000182",
+      "EDID": "HelpPipBoyData",
+      "FULL": "Mapas",
+      "DESC": "Os Mapas se encontram na seção Dados do seu Pip-Boy.\n\nO Mapa Local mostra um mapa aéreo da sua atual localização, e as portas próximas.\n\nO Mapa Mundi mostra um mapa aéreo de toda a área da Wasteland e as marcas dos lugares descobertos durante suas aventuras. Você pode ir diretamente a qualquer lugar visitado previamente.\n\nVocê pode aproximar e afastar o mapa, ou, colocar, mover e apagar as marcas pessoais.\n\nSe a missão ativa possuir objetivos, estes apareceram marcados no Mapa Local ou no Mapa Mundi.\n\nNo Mapa Mundi, o caminho para o objetivo da missão é indicado por uma linha pontilhada. Em alguns casos, você precisa seguir rotas por áreas diferentes, a linha pontilhada lhe indicará."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000184",
+      "FORMID": "000184",
+      "EDID": "HelpLockpickingXBox",
+      "FULL": "Destrancando",
+      "DESC": "&sXBRThumb;: Fazer força com a chave de fenda\n&sXBLThumb;: Gira o grampo de cabelo\n&sXBXBtn;: Forçar a fechadura\n\nAo fazer força, quanto mais perto o grampo estiver da posição correta, ou \"ponto chave\", mais girará a fechadura antes que o grampo se quebre. A fechadura somente girará por completo e se abrirá quando o grampo estiver na posição correta.\n\nTambém se pode tentar abrir uma fechadura forçando-a, mas se falhar, a fechadura se quebrará permanentemente e somente poderá ser aberta com a chave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00017C",
+      "FORMID": "00017C",
+      "EDID": "HelpLockpicking",
+      "FULL": "Abrindo fechadura",
+      "DESC": "&-sUActnForward;&-sUActnBack;&-sUActnSldleft;&-sUActnSldright;: Fazer força com a chave de fenda\nMouse: Gira o grampo de cabelo\n&sKBF;: Forçar a fechadura\n\nAo fazer força, quanto mais perto o grampo estiver da posição correta, ou \"ponto chave\", mais girará a fechadura antes que o grampo se quebre. A fechadura somente girará por completo e se abrirá quando o grampo estiver na posição correta.\n\nTambém se pode tentar abrir uma fechadura forçando-a, mas se falhar, a fechadura se quebrará permanentemente e somente poderá ser aberta com a chave."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000178",
+      "FORMID": "000178",
+      "EDID": "HelpLeveling",
+      "FULL": "Passando de nível",
+      "DESC": "Ao conseguir o número necessário de Pontos de Experiência, passará de nível automaticamente, contanto que não esteja em combate.\n\nCada vez que passar de nível, sua Saúde aumentará, ganhará pontos de Habilidades e poderá escolher um novo Bônus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00017B",
+      "FORMID": "00017B",
+      "EDID": "HelpHacking",
+      "FULL": "Hackeando",
+      "DESC": "Alguns computadores são protegidos e só podem ser acessados com o uso de senha. Se sua habilidade Ciência for suficiente, você pode tentar hackear.\n\nIntroduzindo a senha correta lhe será concedido acesso ao terminal. Se falhar, será mostrado o número de letras na posição correta.\n\nVocê tem 4 tentativas para acertar a senha. Se falhar em todas, o terminal ficará inacessível até que você consiga a senha. Você pode sair e tentar hackear novamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000179",
+      "FORMID": "000179",
+      "EDID": "HelpDialogue",
+      "FULL": "Diálogo",
+      "DESC": "Ao conversar com um personagem, selecione a resposta que considerar mais adequada a situação... E se prepare, o personagem terá uma reação de acordo com a resposta.\n\nOcasionalmente, lhe serão apresentadas \"Respostas de Diálogo\". As \"Respostas de Diálogo\" são precedidas da palavra \"Diálogo\" e a porcentagem de sucesso. Quanto maior sua habilidade de Diálogo, maior a possibilidade de êxito.\n\nObtendo êxito em uma \"Resposta de Diálogo\" você alcançará os resultados indicados pela resposta. Se falhar, as possibilidades de êxito em futuras \"Respostas de Diálogo\" serão reduzidas.\n\nE também lhe são apresentadas respostas precedidas por outro atributo ou habilidade, como [Força] ou [Ciência]. Estas respostas somente serão visíveis se você possuir uma quantidade mínima do atributo ou habilidade. Existem respostas que nunca terão uma porcentagem associada, porque elas não podem falhar. Você sempre será beneficiado pelas respostas especiais de atributos ou habilidades."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00017E",
+      "FORMID": "00017E",
+      "EDID": "HelpContainer",
+      "FULL": "Recipientes",
+      "DESC": "SEM USO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000176",
+      "FORMID": "000176",
+      "EDID": "HelpChargenTagSkills",
+      "FULL": "Habilidades destacadas",
+      "DESC": "SEM USO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000177",
+      "FORMID": "000177",
+      "EDID": "HelpChargenRace",
+      "FULL": "Corrida",
+      "DESC": "SEM USO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00017F",
+      "FORMID": "00017F",
+      "EDID": "HelpBarter",
+      "FULL": "Negociar",
+      "DESC": "A tela de comércio lhe permite trocar, comprar e vender objetos. O tipo de objeto que você pode trocar, comprar ou vender depende da pessoa com quem você está negociando. Os preços que você consegue para a compra ou a venda dependem de sua habilidade de Comércio.\n\nPara comerciar, selecione um objeto e o mova de seu inventário para o inventário da outra pessoa (se deseja vender ou trocar um objeto seu) ou vice-versa (se desejar comprar ou trocar um objeto).\n\nEnquanto os objetos forem movidos de um lado para o outro, tampas também serão automaticamente movidas entre ambas as partes. Isto é representado por uma grande flecha no meio.\n\nSe a flecha ficar escura, significa que você não possui tampas suficientes para completar a transação. Você não pode aceitar o comércio se não tiver tampas suficientes, mas pode aceitar se o outro não tiver tampas suficientes; claro que isso significa que você está dando objetos grátis."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A53F7",
+      "FORMID": "0A53F7",
+      "EDID": "FollowerMessageLeaveStarPaladinCross",
+      "DESC": "Star Paladin Cross retornou a Citadel."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A54FD",
+      "FORMID": "0A54FD",
+      "EDID": "FollowerMessageLeaveRL3",
+      "DESC": "RL3 retornou a Canterbury Commons."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A54A1",
+      "FORMID": "0A54A1",
+      "EDID": "FollowerMessageLeaveJericho",
+      "DESC": "Jericho retornou a Megaton."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A54AB",
+      "FORMID": "0A54AB",
+      "EDID": "FollowerMessageLeaveFawkes",
+      "DESC": "Fawkes retornou ao Museu de História."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5402",
+      "FORMID": "0A5402",
+      "EDID": "FollowerMessageLeaveDogmeat",
+      "DESC": "Dogmeat está esperando do lado de fora do Vault 101."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A53F9",
+      "FORMID": "0A53F9",
+      "EDID": "FollowerMessageLeaveClover",
+      "DESC": "Clover retornou ao Paradise Falls."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A53F8",
+      "FORMID": "0A53F8",
+      "EDID": "FollowerMessageLeaveCharon",
+      "DESC": "Charon retornou ao Ninth Circle."
+    },
+    {
+      "FORM": "@Fallout3.esm:0A53FA",
+      "FORMID": "0A53FA",
+      "EDID": "FollowerMessageLeaveButch",
+      "DESC": "Butch retornou a Rivet City."
+    },
+    {
+      "FORM": "@Fallout3.esm:0388AC",
+      "FORMID": "0388AC",
+      "EDID": "MS18RangersDeadMsg",
+      "DESC": "Todos os Rangers de Reilly estão mortos."
+    }
+  ]
+}

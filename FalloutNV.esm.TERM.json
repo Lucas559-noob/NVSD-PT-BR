@@ -1,0 +1,5503 @@
+{
+  "TERM": [
+    {
+      "FORM": "@FalloutNV.esm:01F47D",
+      "FORMID": "01F47D",
+      "EDID": "DemoComputer02",
+      "FULL": "Terminal do Vault 101",
+      "DESC": "Terminal de Acesso do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F52C",
+      "FORMID": "01F52C",
+      "EDID": "DemoComputer01A",
+      "FULL": "Terminal de Segurança do Metrô",
+      "DESC": "Bem-vindo à Metro Security",
+      "MENU": {
+        "ITXT": [
+          "Protectron ativado."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F52D",
+      "FORMID": "01F52D",
+      "EDID": "DemoComputer01B",
+      "FULL": "Terminal de Segurança do Metrô",
+      "DESC": "Bem-vindo à Metro Security",
+      "MENU": {
+        "ITXT": [
+          "AVISO: Sistema reporta estado de falha. Por favor, chame a Manutenção Metro para manutenção."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:020096",
+      "FORMID": "020096",
+      "EDID": "DemoComputer02A",
+      "FULL": "Terminal do Vault 101",
+      "DESC": "Terminal de Acesso do Vault 101",
+      "MENU": {
+        "ITXT": [
+          "Porta do Vault ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CE94",
+      "FORMID": "01CE94",
+      "EDID": "GameTerminalROOT",
+      "FULL": "Reinado de Grelok (beta)",
+      "DESC": "Reinado de Grelok (beta v.632)",
+      "MENU": {
+        "ITXT": [
+          "(Planícies) Olhe ao Redor",
+          "Siga para o Norte",
+          "Vá para o Sul",
+          "Vá para o Leste",
+          "Siga para o Oeste",
+          "Inventário",
+          "Fim de Jogo"
+        ],
+        "RNAM": [
+          "Você examina seus arredores...",
+          "Você se aventura para o norte...",
+          "Você vai para o sul...",
+          "Você vai para o leste...",
+          "Você caminha para o oeste...",
+          "Submenu de Carregamento",
+          "Jogue de novo!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0224D8",
+      "FORMID": "0224D8",
+      "EDID": "Vault101PepperGomezComputerSub1",
+      "FULL": "Computador da Pepper",
+      "MENU": {
+        "ITXT": [
+          "DE: FreddieGomez",
+          "DE: Supervisor",
+          "DE: DanielBrotch"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:03357E",
+      "FORMID": "03357E",
+      "EDID": "DefaultTerminalNoPower",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x0AABFF00\n\"Fonte de energia primária indisponível\"\n\"Verifique todos os cabos e conectores\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:027F01",
+      "FORMID": "027F01",
+      "EDID": "IrvingChengTerminal",
+      "FULL": "Computador Pessoal Cheng",
+      "DESC": "Bem-vindo, Camarada!",
+      "MENU": {
+        "ITXT": [
+          "Proposta de Reconstrução",
+          "Afirmação Diária",
+          "Afirmação Diária",
+          "Afirmação Diária",
+          "Afirmação Diária",
+          "Afirmação Diária",
+          "Afirmação Diária",
+          "Afirmação Diária"
+        ],
+        "RNAM": [
+          "In the Wasteland, we can all be heroes!",
+          "Chairman Cheng is watching you, Comrade!",
+          "The invaded have been wiped out!",
+          "Glorious work, happy life!",
+          "Win glory for our motherland!",
+          "Hold aloft the red lantern!",
+          "Revolution brings happiness!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04730E",
+      "FORMID": "04730E",
+      "EDID": "DefaultDeskTerminalNoPower",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x0AABFF00\n\"Fonte de energia primária indisponível\"\n\"Verifique todos os cabos e conectores\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0573A2",
+      "FORMID": "0573A2",
+      "EDID": "FFDCUrbanPlanningTerminal01",
+      "DESC": "DC Metro Office of Urban Planning\nSistema de Gerenciamento de Projetos\nProjeto de Reconstrução da Capital Beltway\n\nVocê está logado como Líder de Projeto\nPor favor, faça sua seleção:",
+      "MENU": {
+        "ITXT": [
+          "Visão Geral do Projeto",
+          "Declaração da Missão do Projeto",
+          "Status do Projeto",
+          "Sobre o sistema",
+          "Reiniciar sistema"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0573A3",
+      "FORMID": "0573A3",
+      "EDID": "FFDCUrbanPlanningTerminal02",
+      "FULL": "Estação de Trabalho",
+      "DESC": "DC Metro Office of Urban Planning\nHuman Resources Management System\n\nVocê está logado como Emily Weise\nPor favor, faça sua seleção:",
+      "MENU": {
+        "ITXT": [
+          "Enviar folha de horas.",
+          "Solicitar informações tributárias.",
+          "Revisar informações pessoais.",
+          "Entre em contato com o suporte técnico.",
+          "Sobre o sistema."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0573A4",
+      "FORMID": "0573A4",
+      "EDID": "FFDCzDCint17aTerminal",
+      "FULL": "Terminal",
+      "DESC": "Eu não sei o que está acontecendo. As sirenes dispararam há vinte minutos e eu ouço algo como um trovão à distância. Não podemos sair do prédio e não consigo ver o que está acontecendo na rua. Estou com medo... Acho que é isso. Tudo o que estivemos construindo. Esta pode ser a última coisa que eu escrevo, então, para quem encontrar isto, se eu não conseguir, diga à minha família que eu os amo.\n\n---\nElise Walton\nContadora\nGAO, Dept. de Subsídios de Pesquisa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:058824",
+      "FORMID": "058824",
+      "EDID": "MegArmoryTerminal",
+      "FULL": "Terminal do Arsenal",
+      "DESC": "Sistema de Segurança RobCo v7.3\n\nInsira o comando:",
+      "MENU": {
+        "ITXT": [
+          "Desativar Unidade \"Deputy Steel\"",
+          "Desativar Unidade \"Deputy Weld\""
+        ],
+        "RNAM": [
+          "Sinal de desativação enviado...",
+          "Sinal de desativação enviado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F29A",
+      "FORMID": "05F29A",
+      "EDID": "LOBEPlaceholderTerminal",
+      "FULL": "Terminal de Funcionário da LOB Enterprises",
+      "DESC": "-=LOB Enterprises=-\nBem-vindo(a), EMP_ID_MISSING.",
+      "MENU": {
+        "ITXT": [
+          "Memorando a todos os funcionários: Protocolos de Emergência"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAA",
+      "FORMID": "080CAA",
+      "EDID": "DefaultTerminalNoNetwork",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de rede não encontrada\"\n\"Terminal falso inativo\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAB",
+      "FORMID": "080CAB",
+      "EDID": "DefaultTerminalBadLoad",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0xFFFFF710\n\"Corrupção do Processador;xsfkleg,,g364[735}3__.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAC",
+      "FORMID": "080CAC",
+      "EDID": "DefaultTerminalVirus",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERROR 0xBA53FFFA\n\"Programas Maliciosos Detectados.\"\n\"Vírus Detectado. Desligando.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAD",
+      "FORMID": "080CAD",
+      "EDID": "DefaultTerminalBadSector",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERROR 0x357C5001\n\"Setores Defeituosos Encontrados no Bloco de Inicialização.\"\n\"Erro Fatal.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAE",
+      "FORMID": "080CAE",
+      "EDID": "DefaultTerminalBadData",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x07F6BAAC\n\"Dados Ruins. Não é possível ler.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CAF",
+      "FORMID": "080CAF",
+      "EDID": "DefaultTerminalNoInput",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x00B636C6\n\"Nenhum Dispositivo de Entrada Reconhecido.\"\n\"Reconecte o Teclado.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB0",
+      "FORMID": "080CB0",
+      "EDID": "DefaultTerminalNoStorage",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0xF141A013\n\"Nenhum Armazenamento de Dados Detectado.\"\n\"Verifique a Conexão da Unidade de Fita.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB1",
+      "FORMID": "080CB1",
+      "EDID": "DefaultDeskTerminalBadData",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x07F6BAAC\n\"Dados Ruins. Não é possível ler.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB2",
+      "FORMID": "080CB2",
+      "EDID": "DefaultDeskTerminalBadLoad",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0xFFFFF710\n\"Corrupção do Processador;xsfkleg,,g364[735}3__.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB3",
+      "FORMID": "080CB3",
+      "EDID": "DefaultDeskTerminalBadSector",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERROR 0x357C5001\n\"Setores Defeituosos Encontrados no Bloco de Inicialização.\"\n\"Erro Fatal.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB4",
+      "FORMID": "080CB4",
+      "EDID": "DefaultDeskTerminalNoInput",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x00B636C6\n\"Nenhum Dispositivo de Entrada Reconhecido.\"\n\"Reconecte o Teclado.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB5",
+      "FORMID": "080CB5",
+      "EDID": "DefaultDeskTerminalNoNetwork",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de rede não encontrada\"\n\"Terminal falso inativo\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB6",
+      "FORMID": "080CB6",
+      "EDID": "DefaultDeskTerminalNoStorage",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERRO 0xF141A013\n\"Nenhum Armazenamento de Dados Detectado.\"\n\"Verifique a Conexão da Unidade de Fita.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:080CB7",
+      "FORMID": "080CB7",
+      "EDID": "DefaultDeskTerminalVirus",
+      "FULL": "Terminal Quebrado",
+      "DESC": "ERROR 0xBA53FFFA\n\"Programas Maliciosos Detectados.\"\n\"Vírus Detectado. Desligando.\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:081170",
+      "FORMID": "081170",
+      "EDID": "CapPresSocietyTerminal",
+      "FULL": "Bem-vindo à Sociedade de Preservação da Capital.",
+      "DESC": "Informações\nSinta-se à vontade para explorar nossa coleção",
+      "MENU": {
+        "ITXT": [
+          "Constituição dos E.U.A.",
+          "Proclamação de Emancipação",
+          "Discurso de Gettysburg",
+          "Doutrina Monroe",
+          "Declaração de Guerra dos E.U.A. contra a Alemanha",
+          "Declaração de Guerra dos E.U.A. contra a China"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:089B4D",
+      "FORMID": "089B4D",
+      "EDID": "CGDadsTerminal",
+      "FULL": "Sistema de Dados Médicos da Vault 101",
+      "DESC": "Lembre-se: Arquivos médicos são confidenciais!",
+      "MENU": {
+        "ITXT": [
+          "Prontuários do Paciente",
+          "Experimentos"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:095D2C",
+      "FORMID": "095D2C",
+      "EDID": "FFEnclaveEncampment02Terminal",
+      "FULL": "Terminal de Pesquisa de Campo do Enclave",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Campo: Cão (feral)",
+          "Entrada de Campo: Escorpião Gigante",
+          "Entrada de Campo: Rato-toupeira"
+        ],
+        "RNAM": [
+          "Entrada de Campo: \"Cão Selvagem\"",
+          "Entrada de Campo: \"Escorpião Gigante\"",
+          "Anotação de Campo: A003 \"Rato-toupeira\""
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:096381",
+      "FORMID": "096381",
+      "EDID": "Mainframe01",
+      "FULL": "Mainframe da Vault-Tec"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04567A",
+      "FORMID": "04567A",
+      "EDID": "LOBEFrontDeskTerminal",
+      "FULL": "Terminal da Recepção da L.O.B. Enterprises",
+      "DESC": "Recepção da LOB Enterprises\n\nBem-vinda, Sra. Warring.\n\nLembre-se sempre de pedir a identidade e cumprimentar os visitantes com um sorriso.",
+      "MENU": {
+        "ITXT": [
+          "Todos os Funcionários: Protocolos de Emergência",
+          "E-mail: Prática de Armas Hoje à Noite?",
+          "Item enviado: TRANCAR AS PORTAS!!",
+          "A todos os funcionários: Tampinhas nos e-mails"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D847",
+      "FORMID": "04D847",
+      "EDID": "CGDadsTerminalPatients",
+      "FULL": "Prontuários do Paciente",
+      "MENU": {
+        "ITXT": [
+          "Freddie Gomez",
+          "Stanley",
+          "Amata"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D848",
+      "FORMID": "04D848",
+      "EDID": "CGDadsTerminalExperiments",
+      "FULL": "Experimentos",
+      "MENU": {
+        "ITXT": [
+          "Experimento 27CE",
+          "Experimento PP216"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D858",
+      "FORMID": "04D858",
+      "EDID": "LOBESJohnsonEmployeeTerminal",
+      "FULL": "L.O.B. Enterprises - Terminal de Sam Johnson",
+      "DESC": "Terminal de Funcionário da LOB Enterprises\n\nBem-vindo, Sr. Johnson\n\nPor favor, evite fazer comentários e ações inapropriadas em relação às funcionárias.\n\nComo é política da empresa, este lembrete permanecerá na tela pelo tempo que o Departamento de Recursos Humanos julgar necessário.",
+      "MENU": {
+        "ITXT": [
+          "Todos os Funcionários: Protocolos de Emergência",
+          "Memorando: Acusação de Assédio Sexual",
+          "Memorando: Respondendo a Ataques Federais"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D859",
+      "FORMID": "04D859",
+      "EDID": "LOBEJMcAndrewsEmployeeTerminal",
+      "FULL": "L.O.B. Enterprises - Terminal de Jeanne McAndrews",
+      "DESC": "Terminal de Funcionário da LOB Enterprises\n\nBem-vinda, Srta. McAndrews",
+      "MENU": {
+        "ITXT": [
+          "Assunto: Ambiente de Trabalho Hostil",
+          "Memorando: Respondendo a Ataques Federais",
+          "RE: Treino de Armas Hoje à Noite",
+          "Memorando: Tampinhas em E-mails"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D868",
+      "FORMID": "04D868",
+      "EDID": "LOBEExecutiveTerminal",
+      "FULL": "L.O.B. Enterprises - Terminal do Diretor Executivo",
+      "DESC": "Terminal do Diretor Executivo da L.O.B. Enterprises",
+      "MENU": {
+        "ITXT": [
+          "Memorando: Respondendo a Ataques Federais",
+          "Memorando: Prática de Armas Hoje à Noite",
+          "Memorando: Procedimentos de Emergência",
+          "Memorando: Prática de Armas Hoje à Noite?"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B340",
+      "FORMID": "05B340",
+      "EDID": "LOBELabTerminal",
+      "FULL": "Terminal de Operações de P&D",
+      "DESC": "Pesquisa e Desenvolvimento\n< ! ! ! ! ! >\nPROPRIEDADE EXCLUSIVA L.O.B. ENTERPRISES\nINFRATORES PUNIDOS SOB #P47",
+      "MENU": {
+        "ITXT": [
+          "Relatórios de Laboratório",
+          "Políticas da Empresa"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando Arquivo Parcial"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6C7",
+      "FORMID": "05C6C7",
+      "EDID": "LOBESecurityTerminal",
+      "FULL": "Terminal de Operações de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Login do Sistema de Segurança",
+          "Memorando Salvo - Atenção: Capitão da Segurança",
+          "Políticas da Empresa"
+        ],
+        "RNAM": [
+          "Bem-vindo, Sr. Humbert...",
+          "Carregando...",
+          "Carregando arquivo parcial..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6E3",
+      "FORMID": "05C6E3",
+      "EDID": "LOBEPoliciesSubMenu",
+      "FULL": "Submenu de Operações de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Memorando Interno",
+          "Política de Armas #H31",
+          "Política de Evacuação #T01",
+          "Política de Tempo Inclemente #C31"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:09595E",
+      "FORMID": "09595E",
+      "EDID": "LOBESecuritySubMenu",
+      "FULL": "Terminal de Operações de Segurança",
+      "MENU": {
+        "ITXT": [
+          "Ver Feed de Segurança",
+          "Ativar Torretas de Segurança",
+          "Feed Salvo Ainda: 8:14",
+          "Feed Salvo: 8:21 da manhã"
+        ],
+        "RNAM": [
+          "ERRO \/\/ Nenhuma Fonte detectada...",
+          "Sentinelas de Torreta ativas...",
+          "Carregando Imagem...",
+          "Carregando Imagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:095960",
+      "FORMID": "095960",
+      "EDID": "LOBELabSubMenu",
+      "FULL": "Terminal de Operações de P&D",
+      "DESC": ".......................\n.PROJETO ZHU-RONG.\n.RELATÓRIOS DO LABORATÓRIO DE PROTÓTIPOS.\n.......................",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Laboratório: Protótipo ZRIN-363",
+          "Relatório de Laboratório: Protótipo ZRIN-375",
+          "Relatório de Laboratório: Protótipo ZRIN-401",
+          "Relatório de Laboratório: Protótipo ZRIN-418"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:095964",
+      "FORMID": "095964",
+      "EDID": "LOBEExecTerminal",
+      "FULL": "Terminal do CEO",
+      "MENU": {
+        "ITXT": [
+          "Fatura Salva",
+          "Políticas da Empresa"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando arquivo parcial..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:095966",
+      "FORMID": "095966",
+      "EDID": "GameTerminalSubMenuNorth",
+      "FULL": "Terminal de Segurança do Arquivo",
+      "DESC": "(Montanha)\nGrelok está aqui, cuspindo heresias.",
+      "MENU": {
+        "ITXT": [
+          "VITÓRIA!",
+          "(Encosta da Montanha) Olhar ao Redor",
+          "(Encosta da Montanha) Olhar ao Redor",
+          "Usar Espada Grelok",
+          "Usar Espada Mágica Grelok",
+          "Investigar objeto cintilante",
+          "Vá para o Sul",
+          "Inventário"
+        ],
+        "RNAM": [
+          "Obrigado por jogar!",
+          "Você examina seus arredores...",
+          "Você examina seus arredores...",
+          "Suas armas insignificantes não têm efeito em Grelok.",
+          "You take a rough gemstone from the rocks.",
+          "You retreat to the south...."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:09596A",
+      "FORMID": "09596A",
+      "EDID": "GameTerminalInventory",
+      "MENU": {
+        "ITXT": [
+          "Espada Enferrujada",
+          "Cantil",
+          "Cantil",
+          "Cabeça de Zumbi",
+          "Gema Refinada",
+          "Fragmento Mágico",
+          "Espada Mágica",
+          "Chave de Bronze",
+          "Gema Bruta"
+        ],
+        "RNAM": [
+          "Sua arma. Enferrujada, mas leal.",
+          "Um frasco bem pequeno para carregar água.",
+          "Seu cantil está cheio de água benta.",
+          "O cheiro pode te deixar impopular...",
+          "Uma pedra preciosa brilhante e facetada",
+          "A lasca de gema pulsa com luz mágica...",
+          "Uma arma encantada para derrotar Grelok",
+          "Chave dada a você pelo padre",
+          "Esta pedra preciosa pode ser valiosa..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:09596C",
+      "FORMID": "09596C",
+      "EDID": "GameTerminalSubMenuSouth",
+      "MENU": {
+        "ITXT": [
+          "(Cidade) Olhe ao redor",
+          "Fale com o ferreiro",
+          "Fale com o ferreiro",
+          "Fale com o padre",
+          "Fale com o padre",
+          "Fale com o padre",
+          "Siga para o Norte",
+          "Inventário"
+        ],
+        "RNAM": [
+          "Você examina seus arredores...",
+          "Você se aproxima da forja...",
+          "Fale com o ferreiro",
+          "Você se aproxima do clérigo...",
+          "Você se aproxima do clérigo...",
+          "Você se aproxima do clérigo...",
+          "Você segue para o norte..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:09596E",
+      "FORMID": "09596E",
+      "EDID": "GameTerminalSubMenuEast",
+      "MENU": {
+        "ITXT": [
+          "(Capela) Olhar ao Redor",
+          "(Capela) Olhar ao Redor",
+          "(Capela) Olhar ao Redor",
+          "Usar espada de zumbi",
+          "Examinar capela",
+          "Examinar túmulo",
+          "Examinar túmulo",
+          "Examinar túmulo",
+          "Siga para o Oeste",
+          "Inventário"
+        ],
+        "RNAM": [
+          "Você examina seus arredores...",
+          "Você examina seus arredores...",
+          "Você examina seus arredores...",
+          "Seu golpe joga o zumbi numa cova.",
+          "Você entra na capela vazia...",
+          "Você espia a cova aberta...",
+          "Você espia a cova aberta...",
+          "Você espia a cova aberta...",
+          "Você caminha para o oeste..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:095970",
+      "FORMID": "095970",
+      "EDID": "GameTerminalSubMenuWest",
+      "MENU": {
+        "ITXT": [
+          "(Pântano) Olhe ao redor",
+          "Fale com o mago",
+          "Fale com o mago",
+          "Fale com o mago",
+          "Fale com o mago",
+          "Vá para o Leste",
+          "Inventário"
+        ],
+        "RNAM": [
+          "Você examina seus arredores...",
+          "Você reconhece o mago...",
+          "Você reconhece o mago...",
+          "Você reconhece o mago...",
+          "Você reconhece o mago...",
+          "Você vai para o leste..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AB802",
+      "FORMID": "0AB802",
+      "EDID": "genericVaultProtectronTerminal",
+      "FULL": "Manutenção Automatizada",
+      "DESC": "Saudações, Técnico do Vault!\nComo este terminal pode ajudar você hoje?",
+      "MENU": {
+        "ITXT": [
+          "Executar Rotina de Manutenção",
+          "Executar Rotina de Manutenção"
+        ],
+        "RNAM": [
+          "...Sequência de Carregamento",
+          "<ERRO> Manutenção em Andamento"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABF5D",
+      "FORMID": "0ABF5D",
+      "EDID": "LDJuryBossTerminal",
+      "FULL": "Terminal de Ryan Brigg",
+      "DESC": "Journal-It Software © 2072 PagSoft\nDiário de Ryan Brigg",
+      "MENU": {
+        "ITXT": [
+          "Entradas Recentes no Diário",
+          "Entradas de Diário Arquivadas"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD1F",
+      "FORMID": "0ACD1F",
+      "EDID": "LDJuryBossTerminalOlder",
+      "FULL": "Terminal de Ryan Brigg",
+      "DESC": "Journal-It Software © 2072 PagSoft\nUSUÁRIO: Ryan Brigg's",
+      "MENU": {
+        "ITXT": [
+          "Registro #173",
+          "Entrada de Registro #172",
+          "Registro #171",
+          "Registro #87",
+          "Entrada de Log #86",
+          "Entradas Arquivadas",
+          "desconectar usuário: RYAN BRIGGS"
+        ],
+        "RNAM": [
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "disconneting user: RYAN BRIGGS"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B160F",
+      "FORMID": "0B160F",
+      "EDID": "DefaultTurretTermWALL2Average",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B16D3",
+      "FORMID": "0B16D3",
+      "EDID": "genericProtectronTerminal",
+      "FULL": "Manutenção Automatizada",
+      "DESC": "Terminal de Serviço RobCo\nV 6.0.3.2.1.a\n\n------------------------------------\nPara mais produtos RobCo de primeira linha,\nvisite seu showroom local.",
+      "MENU": {
+        "ITXT": [
+          "Executar Rotina de Manutenção",
+          "Executar Rotina de Manutenção"
+        ],
+        "RNAM": [
+          "...Sequência de Carregamento",
+          "<ERRO> Manutenção em Andamento"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:018647",
+      "FORMID": "018647",
+      "EDID": "FFEncCamp08Terminal",
+      "FULL": "Terminal",
+      "DESC": "-***------- OPERAÇÕES DE CAMPO\n*-*-*------ ENCLAVE \n-***-------\n-----------\n----------- QUE DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Campo: Soldado M. Scott",
+          "Ordens (Apenas para os olhos do CO)"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:024EA4",
+      "FORMID": "024EA4",
+      "EDID": "CapitalPostTerminal1",
+      "FULL": "Principais Notícias do Capital Post -- 11 de Janeiro de 2077",
+      "DESC": "Bom dia, chefe!",
+      "MENU": {
+        "ITXT": [
+          "Comunas Esmagadas - Alasca Libertado!",
+          "Rebeliões por Comida Abalam Federais"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:024EA5",
+      "FORMID": "024EA5",
+      "EDID": "CapitalPostTerminal2",
+      "FULL": "Principais Notícias da Capital -- 3 de Junho de 2072",
+      "DESC": "Bom dia, chefe!",
+      "MENU": {
+        "ITXT": [
+          "EUA Anexarão o Canadá!",
+          "Desenvolvimento de Super Arma Confirmado"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:024EAE",
+      "FORMID": "024EAE",
+      "EDID": "CapitalPostTerminal3",
+      "FULL": "Principais Notícias do Posto Capital -- 27 de Julho de 2052",
+      "DESC": "Bom dia, chefe!",
+      "MENU": {
+        "ITXT": [
+          "Nações Unidas Dissolvidas!",
+          "Pint-Sized Slasher: Mais que um Mito?"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:03118B",
+      "FORMID": "03118B",
+      "EDID": "FFEnclaveEncampment09Terminal",
+      "FULL": "Terminal de Pesquisa de Campo da Enclave: Acampamento Rho",
+      "DESC": "*****------ OPERAÇÕES DE CAMPO\n*****------ ENCLAVE \n*****------\n-----------\n----------- QUE DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "[Leia Primeiro]",
+          "Solicitar Conexão com a Base Principal",
+          "Desligar Grade de Defesa"
+        ],
+        "RNAM": [
+          "Bem-vindo ao Acampamento Rho",
+          "Função Desativada [MENSAGEM 0]",
+          "Função Desativada [MENSAGEM 0]"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:031259",
+      "FORMID": "031259",
+      "EDID": "FFEnclaveEncampment10Terminal",
+      "FULL": "Terminal de Pesquisa de Campo do Enclave",
+      "DESC": "DEPARTAMENTO DO EXÉRCITO\nMANUTENÇÃO DA PAZ E RECUPERAÇÃO\nSETOR DE OPERAÇÕES DE CAMPO, 27P",
+      "MENU": {
+        "ITXT": [
+          "Inventário: Armas",
+          "Censo Transitório"
+        ],
+        "RNAM": [
+          "Carregando banco de dados...",
+          "Carregando banco de dados..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E58F",
+      "FORMID": "03E58F",
+      "EDID": "MoiraExperimentsSubTerminal",
+      "FULL": "Terminal da Moira",
+      "DESC": "É um belo dia para a ciência! O que vamos testar hoje, MOIRA?",
+      "MENU": {
+        "ITXT": [
+          "As cabeças de brahmin aprendem sozinhas?",
+          "Explosivos podem ser usados para expandir a cidade?",
+          "Ratos-toupeira podem ser domesticados?",
+          "Como evitar ataques de invasores?",
+          "O que supermutantes comem?",
+          "O que aconteceu com a China?",
+          "Centauros conseguem falar?",
+          "Qual o propósito de existir?"
+        ],
+        "RNAM": [
+          "Mais estudo da língua brahmin necessário.",
+          "Lucas Simms solicita que todos os testes parem.",
+          "Sim, se sem presas, sem garras e lobotomizado.",
+          "Os Saqueadores se recusam a sentar para entrevistas.",
+          "Assistentes de pesquisa.",
+          "Relatórios incertos. A China pode ser ficção.",
+          "Abundância de línguas sugere isso.",
+          "Para realizar experimentos científicos."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A47B",
+      "FORMID": "05A47B",
+      "EDID": "UnderworldTulipTerminal",
+      "FULL": "Terminal da Tulip",
+      "DESC": "Sistema de Processamento de Texto Sten-o-pool 3500\n\nUsuário Atual: Tulip\nDoutorumento Atual: Transcrição de Paraíso Perdido",
+      "MENU": {
+        "ITXT": [
+          "Paraíso Perdido: Livro I",
+          "Paraíso Perdido: Livro II",
+          "Paraíso Perdido: Livro IV",
+          "Paraíso Perdido: Livro VIII"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05A5AB",
+      "FORMID": "05A5AB",
+      "EDID": "UnderworldBarrowsTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "MENU": {
+        "ITXT": [
+          "Exame do Humano Pós-Necrótico",
+          "Neurologia de Pós-Humanos Necróticos Luminosos",
+          "Estudo da Distrofia Pós-Necrótica Feroz"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:05AA6C",
+      "FORMID": "05AA6C",
+      "EDID": "DefaultUnlockTermDESK2Average",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A36C0",
+      "FORMID": "0A36C0",
+      "EDID": "DefaultUnlockTermWALL2Average",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A60DB",
+      "FORMID": "0A60DB",
+      "EDID": "FFEnclaveEncampment12Terminal",
+      "FULL": "Terminal de Pesquisa de Campo da Enclave: Acampamento da Cratera",
+      "DESC": "*****------ OPERAÇÕES DE CAMPO\n*****------ ENCLAVE \n*****------\n-----------\n----------- QUE DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "[Leia Primeiro]",
+          "Solicitar Conexão com a Base Principal",
+          "Desligar Grade de Defesa"
+        ],
+        "RNAM": [
+          "Bem-vindo ao Acampamento da Cratera",
+          "Função Desativada [MENSAGEM 0]",
+          "Função Desativada [MENSAGEM 0]"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD69D",
+      "FORMID": "0BD69D",
+      "EDID": "DashwoodTerminalPeople",
+      "DESC": "Olá, Daring! Que o crepúsculo da sua vida seja preenchido com a mesma maravilha e aventura da sua juventude.",
+      "MENU": {
+        "ITXT": [
+          "Rei Crag",
+          "Senhorita Penelope Chase",
+          "Destiny Chao",
+          "Argyle",
+          "Harmon Jurley"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD69E",
+      "FORMID": "0BD69E",
+      "EDID": "DashwoodTerminalPlaces",
+      "DESC": "Olá, Daring! Que o crepúsculo da sua vida seja preenchido com a mesma maravilha e aventura da sua juventude.",
+      "MENU": {
+        "ITXT": [
+          "Paradise Falls",
+          "Rockopolis",
+          "Bordel Destino Azul",
+          "Baixos Fundos",
+          "Megaton"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD69F",
+      "FORMID": "0BD69F",
+      "EDID": "DashwoodTerminalPests",
+      "DESC": "Olá, Daring! Que o crepúsculo da sua vida seja preenchido com a mesma maravilha e aventura da sua juventude.",
+      "MENU": {
+        "ITXT": [
+          "Mirelurks",
+          "Necróticos Ferais",
+          "Escorpião Radioativos",
+          "Yao Guai",
+          "Robocérebros"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C0C7F",
+      "FORMID": "0C0C7F",
+      "EDID": "genericMetroProtectronTerminalSubMenu01",
+      "FULL": "Terminal do Mapa do Metropolitano",
+      "DESC": "------------------------------------",
+      "MENU": {
+        "ITXT": [
+          "Ver\/Baixar Mapa do Metrô"
+        ],
+        "RNAM": [
+          "Mapa do Metrô Baixado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C83E8",
+      "FORMID": "0C83E8",
+      "EDID": "SpringvaleBossTerminal",
+      "FULL": "Terminal",
+      "DESC": "Journal-It Software © 2072 PagSoft\nUSUÁRIO: chupa essa hahaha",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Registro #003",
+          "Registro #002",
+          "Registro #001",
+          "desconectar usuário: CHUPA ESSA HAHAHA"
+        ],
+        "RNAM": [
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAA35",
+      "FORMID": "0CAA35",
+      "EDID": "RedRacer03Terminal02",
+      "FULL": "Anotações do Cirurgião",
+      "MENU": {
+        "ITXT": [
+          "Entrada 2R-A0",
+          "Entrada 64D-A3"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAA3C",
+      "FORMID": "0CAA3C",
+      "EDID": "FFEnclaveResearchTerminal02",
+      "FULL": "Terminal de Pesquisa de Campo do Enclave",
+      "DESC": "-***------- OPERAÇÕES DE CAMPO\n*-*-*------ ENCLAVE \n-***-------\n-----------\n----------- QUE DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "Anotação de Campo: Mosca Inchada",
+          "Anotação de Campo: Brahmin",
+          "Entrada de Campo: Formiga Gigante"
+        ],
+        "RNAM": [
+          "Entrada de Campo: \"Mosca Inchada\"",
+          "Anotação de Campo: \"Brahmin\"",
+          "Entrada de Campo: \"Formiga Gigante\""
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAA3D",
+      "FORMID": "0CAA3D",
+      "EDID": "FFEnclaveResearchTerminal03",
+      "FULL": "Terminal de Pesquisa de Campo do Enclave",
+      "DESC": "-***------- OPERAÇÕES DE CAMPO\n*-*-*------ ENCLAVE \n-***-------\n-----------\n----------- QUE DEUS ABENÇOE A AMÉRICA",
+      "MENU": {
+        "ITXT": [
+          "Anotação de Campo: \"Mirelurk\"",
+          "Anotação de Campo: Barata Americana Gigante"
+        ],
+        "RNAM": [
+          "Anotação de Campo: \"Mirelurk\"",
+          "Anotação de Campo: \"Barataradia\""
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAADB",
+      "FORMID": "0CAADB",
+      "EDID": "LDIsabellaTerminal",
+      "FULL": "Terminal de Isabella Proud",
+      "DESC": "Journal-It Software © 2072 PagSoft\nDiário de Isabella Proud",
+      "MENU": {
+        "ITXT": [
+          "Dia 45",
+          "Dia 51",
+          "Dia 53",
+          "Dia 58",
+          "Dia 63",
+          "Dia 67",
+          "Dia 68",
+          "Dia 75",
+          "desconectar usuário: ISABELLA PROUD"
+        ],
+        "RNAM": [
+          "disconnecting user: ISABELLA PROUD"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB4D6",
+      "FORMID": "0CB4D6",
+      "EDID": "Satcom01TowerTerm",
+      "FULL": "Terminal",
+      "DESC": "Journal-It Software © 2072 PagSoft\nUSUÁRIO: SEM ENTRADA",
+      "MENU": {
+        "ITXT": [
+          "Registro #006",
+          "Registro #005",
+          "Registro #004",
+          "Entrada de Registro #003",
+          "Registro #002",
+          "Registro #001",
+          "desconectar usuário: ENTRADA PROIBIDA"
+        ],
+        "RNAM": [
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "desconectando usuário: ENTRADA NEGADA"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB4E6",
+      "FORMID": "0CB4E6",
+      "EDID": "WomensAuxTerm",
+      "FULL": "Terminal",
+      "DESC": "Auxiliar de Alívio a Catástrofes Nacional\nUnidade de Resposta MD-478\n\nNancy Kroydon, Oficial Presidente",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Registro #008",
+          "Registro #007",
+          "Registro #006",
+          "Registro #005",
+          "Registro #004",
+          "Entrada de Registro #003",
+          "Registro #002",
+          "Registro #001",
+          "desconectar usuário: N Kroydon"
+        ],
+        "RNAM": [
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "desconectando usuário: N Kroydon"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB4EF",
+      "FORMID": "0CB4EF",
+      "EDID": "CommuneTerm",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "(Entrada: Edgar)",
+          "(Entrada: Rochelle)",
+          "(Entrada: Tyrone)",
+          "(Entrada: Doutor J)",
+          "(Entrada: Tyler)",
+          "(Entrada: Tyler)",
+          "(Entrada: Jim)",
+          "(Entrada: Edgar)",
+          "(Entrada: Jim)"
+        ],
+        "RNAM": [
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada...",
+          "Carregando Entrada..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB509",
+      "FORMID": "0CB509",
+      "EDID": "HamHideTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "19 de jul. de 2077",
+          "24 de dez. de 2077",
+          "25 de Dezembro de 2077",
+          "13 de fev. de 2078",
+          "14 de fev. de 2078",
+          "28 de fev. de 2078"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B6E",
+      "FORMID": "064B6E",
+      "EDID": "DefaultTurretTermDESK0VeryEasy",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B70",
+      "FORMID": "064B70",
+      "EDID": "DefaultTurretTermDESK1Easy",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B72",
+      "FORMID": "064B72",
+      "EDID": "DefaultTurretTermDESK2Average",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B76",
+      "FORMID": "064B76",
+      "EDID": "DefaultTurretTermDESK3Hard",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B78",
+      "FORMID": "064B78",
+      "EDID": "DefaultTurretTermDESK4VeryHard",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B7A",
+      "FORMID": "064B7A",
+      "EDID": "DefaultTurretTermWALL0VeryEasy",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B7C",
+      "FORMID": "064B7C",
+      "EDID": "DefaultTurretTermWALL1Easy",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B7E",
+      "FORMID": "064B7E",
+      "EDID": "DefaultTurretTermWALL3Hard",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B80",
+      "FORMID": "064B80",
+      "EDID": "DefaultTurretTermWALL4VeryHard",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B85",
+      "FORMID": "064B85",
+      "EDID": "DefaultUnlockTermDESK0VeryEasy",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B87",
+      "FORMID": "064B87",
+      "EDID": "DefaultUnlockTermDESK1Easy",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B88",
+      "FORMID": "064B88",
+      "EDID": "DefaultUnlockTermDESK3Hard",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B89",
+      "FORMID": "064B89",
+      "EDID": "DefaultUnlockTermDESK4VeryHard",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B8A",
+      "FORMID": "064B8A",
+      "EDID": "DefaultUnlockTermWALL0VeryEasy",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B8B",
+      "FORMID": "064B8B",
+      "EDID": "DefaultUnlockTermWALL1Easy",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B8C",
+      "FORMID": "064B8C",
+      "EDID": "DefaultUnlockTermWALL4VeryHard",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:064B8D",
+      "FORMID": "064B8D",
+      "EDID": "DefaultUnlockTermWALL3Hard",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F859",
+      "FORMID": "07F859",
+      "EDID": "TerminalREPCONJail",
+      "FULL": "Terminal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D37E",
+      "FORMID": "08D37E",
+      "EDID": "NCRPrisonTerminal",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc.\n\"Sua Segurança é a Nossa Segurança\"\nAdministrador Atual: Nenhum\n>\\ Bem-vindo, Scrambler.",
+      "MENU": {
+        "ITXT": [
+          "Redefinir senha de administrador.",
+          "Redefinir dados de mira da torreta.",
+          "Ativar protocolo de isolamento."
+        ],
+        "RNAM": [
+          "Senha redefinida.",
+          "Aviso: Prioridades de alvo da torreta redefinidas!",
+          "Protocolo de segurança em vigor."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:08E662",
+      "FORMID": "08E662",
+      "EDID": "REPCONSabotageTerminal",
+      "FULL": "Computador de Navegação",
+      "DESC": "Navitron, Inc\n\"Guiando Você Certo\"\n>\\ Boas-vindas, USER\n\nCoordenadas atuais do foguete 1: 689.7, 457.3, 598.1\nCoordenadas atuais do foguete 2: 709.7, 459.3, 598.1\nCoordenadas atuais do foguete 3: 729.7, 461.3, 598.1\n\nAlterar coordenadas?",
+      "MENU": {
+        "ITXT": [
+          "Definir foguete 1 para colidir com foguete 2.",
+          "Esmague as teclas."
+        ],
+        "RNAM": [
+          "Invalid command."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEF0",
+      "FORMID": "0CCEF0",
+      "EDID": "DefaultUnlockTermDESKRepcon",
+      "FULL": "Terminal do Administrador da REPCONN",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Terminal do Depósito",
+          "RE: Aposentadoria"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCF6B",
+      "FORMID": "0CCF6B",
+      "EDID": "REPCONStealthBoysMovedTerminal",
+      "FULL": "Terminal",
+      "DESC": "\/\/\/\/\/Terminal de Zeladoria: Acesso Compartilhado",
+      "MENU": {
+        "ITXT": [
+          "RE: Erro de Remessa?",
+          "RE: Mau Comportamento no Trabalho",
+          "RE: Remessa Devolvida"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCF83",
+      "FORMID": "0CCF83",
+      "EDID": "REPCONEmployeeTerminal",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCFC7",
+      "FORMID": "0CCFC7",
+      "EDID": "VNovacTerminalManny",
+      "FULL": "Terminal",
+      "DESC": "Bem-vindo, Convidado.",
+      "MENU": {
+        "ITXT": [
+          "Mensagem: Hospitalidade Khan"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6CB",
+      "FORMID": "0CE6CB",
+      "EDID": "REPCONSabotageSubMenuTerminal",
+      "FULL": "Computador de Navegação",
+      "MENU": {
+        "ITXT": [
+          "Confirmar",
+          "Abortar"
+        ],
+        "RNAM": [
+          "Mudança de curso confirmada.",
+          "Mudança de curso abortada."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6F7",
+      "FORMID": "0CE6F7",
+      "EDID": "REPCONUpstairsTerminal",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!",
+          "Aposentadoria"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6F8",
+      "FORMID": "0CE6F8",
+      "EDID": "REPCONEmployeeTerminal1",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!",
+          "Bolo"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6F9",
+      "FORMID": "0CE6F9",
+      "EDID": "REPCONEmployeeTerminal2",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!",
+          "Aposentadoria de Martin"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6FA",
+      "FORMID": "0CE6FA",
+      "EDID": "REPCONHackTerminal",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Privado\nPiers Isley",
+      "MENU": {
+        "ITXT": [
+          "Visita da RobCo",
+          "RE: Visita à RobCo",
+          "RE: Visita à RobCo"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6FB",
+      "FORMID": "0CE6FB",
+      "EDID": "REPCONEmployeeTerminal3",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!",
+          "AG%(V$*",
+          "Acesso ao Servidor Particular"
+        ],
+        "RNAM": [
+          "DECODING!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE6FC",
+      "FORMID": "0CE6FC",
+      "EDID": "REPCONEmployeeTerminal5",
+      "FULL": "Terminal de Funcionários",
+      "DESC": "Acesso ao Servidor Público",
+      "MENU": {
+        "ITXT": [
+          "Cozinha Pública",
+          "Bem-vindo à RobCo!",
+          "Política de Visitantes"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D704D",
+      "FORMID": "0D704D",
+      "EDID": "NCRCFWardenTerminal",
+      "FULL": "Terminal do Guarda",
+      "MENU": {
+        "ITXT": [
+          "Acessar o registro do carcereiro."
+        ],
+        "RNAM": [
+          "Bem-vindo de volta, Warden."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7808",
+      "FORMID": "0D7808",
+      "EDID": "NCRCFWardensLogSubMenu",
+      "FULL": "Diário do Carcereiro",
+      "MENU": {
+        "ITXT": [
+          "[Transferências da guarda para o leste.]",
+          "[Comentários sobre a ameaça da Legião de Caesar.]",
+          "[Suspeitas sobre conspiração de prisioneiros.]",
+          "[Rascunho da reclamação ao comando da NCR.]"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E28B6",
+      "FORMID": "0E28B6",
+      "EDID": "VHeliosFarmTerminal1",
+      "FULL": "Terminal 1",
+      "DESC": "Bem-vindo à PoseidoNet.",
+      "MENU": {
+        "ITXT": [
+          "Reiniciar Conexão do Mainframe",
+          "Reiniciar Conexão do Mainframe",
+          "Testando ARCHIMEDES",
+          "Próxima Visita"
+        ],
+        "RNAM": [
+          "Conexão redefinida. Aguardando mainframe...",
+          "Conexão redefinida. Handshaking... completo.",
+          "Carregando mensagem...",
+          "Carregando mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E28B7",
+      "FORMID": "0E28B7",
+      "EDID": "VHeliosFarmTerminal2",
+      "FULL": "Terminal 2",
+      "DESC": "Bem-vindo à PoseidoNet.",
+      "MENU": {
+        "ITXT": [
+          "Reiniciar Conexão do Mainframe",
+          "Reiniciar Conexão do Mainframe",
+          "Testando ARCHIMEDES",
+          "Próxima Visita"
+        ],
+        "RNAM": [
+          "Conexão redefinida. Aguardando mainframe...",
+          "Conexão redefinida. Handshaking... completo.",
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E28B8",
+      "FORMID": "0E28B8",
+      "EDID": "VHeliosMainframeTerminal",
+      "FULL": "Terminal do Mainframe HELIOS One",
+      "DESC": "Bem-vindo à PoseidoNet, General.",
+      "MENU": {
+        "ITXT": [
+          "Configurar Rede Elétrica",
+          "Sistema de Defesa da Planta ARCHIMEDES",
+          "Desarmar o Sistema de Defesa da Planta ARCHIMEDES",
+          "Testes Iniciais",
+          "Testando ARCHIMEDES"
+        ],
+        "RNAM": [
+          "System armed. Keep personnel indoors.",
+          "System disarmed.",
+          "Mensagem de carregamento...",
+          "Loading Message..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E28B9",
+      "FORMID": "0E28B9",
+      "EDID": "VHeliosFarmTerminal3",
+      "FULL": "Terminal 3",
+      "DESC": "Bem-vindo à PoseidoNet.",
+      "MENU": {
+        "ITXT": [
+          "Reiniciar Conexão do Mainframe",
+          "Reiniciar Conexão do Mainframe"
+        ],
+        "RNAM": [
+          "Conexão redefinida. Aguardando mainframe...",
+          "Conexão redefinida. Handshaking... completo."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C55",
+      "FORMID": "0E2C55",
+      "EDID": "VHeliosMainframeTerminalSub1",
+      "FULL": "Terminal do Mainframe HELIOS One",
+      "DESC": "Selecione a configuração de saída.",
+      "MENU": {
+        "ITXT": [
+          "1) McCarran e Las Vegas Strip",
+          "2) Fremont e Westside",
+          "3) Região Total",
+          "4) ARQUIMEDES II",
+          "5) Região Inteira (Nível de Saída de Emergência)"
+        ],
+        "RNAM": [
+          "Configuração salva.",
+          "Configuração salva.",
+          "Capacidade insuficiente. Quedas de energia prováveis.",
+          "Configuração salva.",
+          "Aviso: Sobrecarga do sistema iminente."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:099D13",
+      "FORMID": "099D13",
+      "EDID": "HELIOSTowerTurretTerminal1",
+      "FULL": "Sistema de Controle da Torreta",
+      "DESC": "-Sistema de Gerenciamento de Invasores RobCo-\n====================================",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema",
+          "Informações do Sistema"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG...",
+          "Carregando arquivo de LOG..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDA59",
+      "FORMID": "0CDA59",
+      "EDID": "HVPodSimSelectionTerminal",
+      "FULL": "Submenu de Seleção de Simulação",
+      "DESC": "Servidor HV-VR1078\n\nSimulação Atual: Defesa da Base",
+      "MENU": {
+        "ITXT": [
+          "Mudar tipo de inimigo da simulação",
+          "Mudar tipo de aliado da simulação"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3D78",
+      "FORMID": "0E3D78",
+      "EDID": "VHeliosGeneralTerminal",
+      "FULL": "Terminal",
+      "DESC": "Bem-vindo à PoseidoNet.",
+      "MENU": {
+        "ITXT": [
+          "Testando ARCHIMEDES",
+          "Resultados",
+          "Próxima Visita",
+          "\"Posso Contar a Ele?\""
+        ],
+        "RNAM": [
+          "Carregando Mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6063",
+      "FORMID": "0E6063",
+      "EDID": "RepconWallTerminalEntry",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "ERRO! PORTA COM DEFEITO! ERRO!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60ED",
+      "FORMID": "0E60ED",
+      "EDID": "BMPrisonTerminal",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7A0B",
+      "FORMID": "0E7A0B",
+      "EDID": "REPCON1stFloorSecurity",
+      "FULL": "Terminal",
+      "DESC": "Terminal de Segurança da REPCONN",
+      "MENU": {
+        "ITXT": [
+          "Adicionar Dados Faciais de Usuário ao Banco de Dados",
+          "Correspondência Interna #345759",
+          "Correspondência Interna #345776"
+        ],
+        "RNAM": [
+          "Dados faciais adicionados para acesso ao primeiro andar.",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810B",
+      "FORMID": "0E810B",
+      "EDID": "DefaultDeskTerminalUnlocked",
+      "FULL": "Terminal",
+      "DESC": "Sistema Online"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810C",
+      "FORMID": "0E810C",
+      "EDID": "BMRaulJournalTerminal",
+      "FULL": "Terminal",
+      "DESC": "Comunicações Hermes, Inc.\nSubmatriz Montanha Negra\nSistema Online",
+      "MENU": {
+        "ITXT": [
+          "Entrada 1",
+          "Entrada 2",
+          "Entrada 3",
+          "Entrada 4",
+          "Entrada 5",
+          "Entrada 6"
+        ],
+        "RNAM": [
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E831F",
+      "FORMID": "0E831F",
+      "EDID": "REPCON2ndFloorSecurity",
+      "FULL": "Terminal",
+      "DESC": "REPCONN",
+      "MENU": {
+        "ITXT": [
+          "Adicionar Dados Faciais do Usuário ao Banco de Dados de Segurança"
+        ],
+        "RNAM": [
+          "Dados faciais adicionados para acesso ao segundo andar."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8420",
+      "FORMID": "0E8420",
+      "EDID": "REPCON2ndFloorSecurity2",
+      "FULL": "Terminal",
+      "DESC": "Processamento de Crachás da REPCONN",
+      "MENU": {
+        "ITXT": [
+          "Imprimir Crachá de Segurança Executiva",
+          "Correspondência Interna #3262725"
+        ],
+        "RNAM": [
+          "Crachá de Segurança Executiva Impresso",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8423",
+      "FORMID": "0E8423",
+      "EDID": "REPCONHQPresidentTerminal",
+      "FULL": "Terminal",
+      "DESC": "Bom dia, Sr. Isley",
+      "MENU": {
+        "ITXT": [
+          "Abrir Cofre",
+          "RE: RobCo",
+          "Correspondência Interna #3457477"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85ED",
+      "FORMID": "0E85ED",
+      "EDID": "REPCON2ndFloorPassword",
+      "FULL": "Terminal",
+      "DESC": "Bom dia, Srta. Masters",
+      "MENU": {
+        "ITXT": [
+          "Mensagem Criptografada",
+          "Notas da Versão Q-35",
+          "Correspondência Interna #3262173",
+          "Correspondência Interna #3262178",
+          "Correspondência Interna #3262719"
+        ],
+        "RNAM": [
+          "Decodificando Mensagem...",
+          "Acessando Registros...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8826",
+      "FORMID": "0E8826",
+      "EDID": "REPCONPresidentTerminalMessages",
+      "FULL": "Correio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88A8",
+      "FORMID": "0E88A8",
+      "EDID": "VVault11GeneralTerminal",
+      "FULL": "Terminal Público",
+      "DESC": "Bem-vindo, Convidado.",
+      "MENU": {
+        "ITXT": [
+          "Guia Eleitoral do Vault 11",
+          "Aviso de Adiantamento",
+          "Ordem do Supervisor 745"
+        ],
+        "RNAM": [
+          "Carregando Mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88A9",
+      "FORMID": "0E88A9",
+      "EDID": "VVault11JusticeBlocTerminal",
+      "FULL": "Terminal Pessoal",
+      "DESC": "Bem-vindo, Sr. Gottlieb.",
+      "MENU": {
+        "ITXT": [
+          "Gravação de Segurança",
+          "Guia Eleitoral do Vault 11",
+          "Aviso de Adiantamento",
+          "Ordem do Supervisor 745"
+        ],
+        "RNAM": [
+          "Baixando... completo.",
+          "Carregando Mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88AA",
+      "FORMID": "0E88AA",
+      "EDID": "VVault11SecurityTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Bem-vindo, Oficial.",
+      "MENU": {
+        "ITXT": [
+          "Depoimento",
+          "Guia Eleitoral do Vault 11",
+          "Aviso de Adiantamento",
+          "Ordem do Supervisor 745"
+        ],
+        "RNAM": [
+          "Carregando mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem...",
+          "Carregando Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88AB",
+      "FORMID": "0E88AB",
+      "EDID": "VVault11OverseerTerminal",
+      "FULL": "Terminal do Supervisor",
+      "DESC": "Bem-vindo, Supervisor.",
+      "MENU": {
+        "ITXT": [
+          "Ordem do Supervisor 745",
+          "Abrir Câmara de Sacrifício",
+          "Fechar Câmara de Sacrifício"
+        ],
+        "RNAM": [
+          "Carregando Mensagem...",
+          "Abrindo...",
+          "Fechando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88AC",
+      "FORMID": "0E88AC",
+      "EDID": "VVault11LowerLevelTerminal",
+      "FULL": "Terminal do Átrio",
+      "DESC": "Bem-vindo, Convidado.",
+      "MENU": {
+        "ITXT": [
+          "Discurso Preparado de Gus Olson, Provedor"
+        ],
+        "RNAM": [
+          "Carregando Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8B1E",
+      "FORMID": "0E8B1E",
+      "EDID": "VVault11MainframeTerminal",
+      "FULL": "Mainframe do Vault 11",
+      "MENU": {
+        "ITXT": [
+          "Anular Bloqueio.",
+          "Registro do Sistema: Solução da Vault 11",
+          "Resposta Automatizada: Solução do Vault 11"
+        ],
+        "RNAM": [
+          "Substituindo... completo.",
+          "Gravação baixada.",
+          "Gravação baixada."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E943D",
+      "FORMID": "0E943D",
+      "EDID": "REPCONHQVPTerminal",
+      "FULL": "Terminal",
+      "DESC": "Bom dia, Sr. Steeple",
+      "MENU": {
+        "ITXT": [
+          "Correspondência Interna #3262091",
+          "Correspondência Interna #3262099",
+          "Correspondência Interna #3262105",
+          "Correspondência Interna #3458503",
+          "Desativar Robôs"
+        ],
+        "RNAM": [
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Desativando Robôs de Segurança"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E943E",
+      "FORMID": "0E943E",
+      "EDID": "REPCONSaraTerminal",
+      "FULL": "Terminal",
+      "DESC": "Bom dia, Srta. Wang",
+      "MENU": {
+        "ITXT": [
+          "Adicionar Dados Faciais do Usuário ao Banco de Dados",
+          "Correspondência Interna #3457785",
+          "Correspondência Interna #3458631",
+          "Correspondência Interna #3458642",
+          "Correspondência Interna #3458648"
+        ],
+        "RNAM": [
+          "Dados faciais adicionados para acesso ao segundo andar.",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E948A",
+      "FORMID": "0E948A",
+      "EDID": "BMTabithaJournalTerminal",
+      "FULL": "Terminal",
+      "DESC": "Comunicações Hermes, Inc.\nSubmatriz Montanha Negra\nSistema Online",
+      "MENU": {
+        "ITXT": [
+          "Marcus me obrigou a digitar isso.",
+          "É uma estação de rádio!",
+          "No ar!",
+          "A elite!",
+          "Sozinho, finalmente!",
+          "Cofre!",
+          "Sortudo!"
+        ],
+        "RNAM": [
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo...",
+          "Abrindo arquivo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E948B",
+      "FORMID": "0E948B",
+      "EDID": "BMOriginalStationJournalTerminal",
+      "FULL": "Terminal",
+      "DESC": "Comunicações Hermes, Inc.\nSubmatriz Montanha Negra\nSistema Online",
+      "MENU": {
+        "ITXT": [
+          "Registro 672",
+          "Registro 674",
+          "Registro 675",
+          "Registro 676"
+        ],
+        "RNAM": [
+          "Abrindo registro...",
+          "Abrindo registro...",
+          "Abrindo registro...",
+          "Abrindo registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9AC2",
+      "FORMID": "0E9AC2",
+      "EDID": "VVault11FrontEntranceTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Gravação de Segurança: Entrada do Vault"
+        ],
+        "RNAM": [
+          "Baixando... completo."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAC00",
+      "FORMID": "0EAC00",
+      "EDID": "DefaultUnlockTermWALL",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED9BB",
+      "FORMID": "0ED9BB",
+      "EDID": "Vault03OverseersTerminal",
+      "FULL": "Terminal do Supervisor",
+      "DESC": "Bem-vindo, Supervisor.",
+      "MENU": {
+        "ITXT": [
+          "Feliz Aniversário!",
+          "Próximas Eleições",
+          "Obrigado!",
+          "Armários de Armas",
+          "Destrancar Portas do Depósito"
+        ],
+        "RNAM": [
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Abrindo Portas"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EDB31",
+      "FORMID": "0EDB31",
+      "EDID": "GunRunnerTerminal",
+      "FULL": "Terminal dos Contrabandistas de Armas",
+      "MENU": {
+        "ITXT": [
+          "Baixar especificações de fabricação.",
+          "Vendortron: Nomes",
+          "Ordem nº 172 do Acampamento McCarran",
+          "Persona Non Grata"
+        ],
+        "RNAM": [
+          "Processando requisição... completo!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8FA2",
+      "FORMID": "0E8FA2",
+      "EDID": "EastPumpStationTerminal",
+      "FULL": "Terminal da Estação de Bombeamento",
+      "DESC": "*** Terminal da Estação de Bombeamento Leste ***\n*** Apenas Pessoal Autorizado ***",
+      "MENU": {
+        "ITXT": [
+          "AVISO"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8FA5",
+      "FORMID": "0E8FA5",
+      "EDID": "PumpStationTerminal",
+      "FULL": "Terminal da Estação de Bombeamento",
+      "DESC": "*** Estação de Bombeamento Leste ***",
+      "MENU": {
+        "ITXT": [
+          "Status do Lago Las Vegas",
+          "Status da Estação Leste",
+          "Status da Estação Oeste"
+        ],
+        "RNAM": [
+          "Operacional",
+          "Operacional",
+          "Offline"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EBA3A",
+      "FORMID": "0EBA3A",
+      "EDID": "HouseToolsTerminal",
+      "FULL": "Terminal",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFADF",
+      "FORMID": "0EFADF",
+      "EDID": "V22FoodCaveWallTerm",
+      "FULL": "Terminal de Acesso da Porta da Caverna",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n\nAVISO: Até segunda ordem, a porta das cavernas deve ser selada o tempo todo, por ordem do Administrador Bailey. Procure-o para mais detalhes.",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura",
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Acesso concedido, Destravando...",
+          "Acesso negado, contate o administrador para autorização."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFB7B",
+      "FORMID": "0EFB7B",
+      "EDID": "SupplyOfficerContrerasTerminal",
+      "FULL": "Banco de Dados de Suprimentos da NCR",
+      "DESC": "Terminal de Serviço RobCo\nV 6.0.1\n------------------------------------\nBanco de Dados de Suprimentos do Exército da NCR.\nFilial de McCarran.",
+      "MENU": {
+        "ITXT": [
+          "Baixar Manifesto de Armas"
+        ],
+        "RNAM": [
+          "Processando requisição... completo!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0872",
+      "FORMID": "0F0872",
+      "EDID": "EastPumpStationTerminalSubMenu",
+      "FULL": "Terminal da Estação de Bombeamento",
+      "DESC": "*** Terminal da Estação de Bombeamento Leste ***\n*** Apenas Pessoal Autorizado ***",
+      "MENU": {
+        "ITXT": [
+          "Distribuição de Vegas Leste",
+          "Distribuição de West Vegas",
+          "Distribuição da Strip"
+        ],
+        "RNAM": [
+          "Percentagem: 65",
+          "Porcentagem: 15",
+          "Porcentagem: 15"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0F09",
+      "FORMID": "0F0F09",
+      "EDID": "V22DownloadMainframe",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Sistema de Backup de Dados da Vault-Tec\n\nIntegridade atual dos dados: 31%",
+      "MENU": {
+        "ITXT": [
+          "Baixar dados da pesquisa"
+        ],
+        "RNAM": [
+          "Baixando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D4E",
+      "FORMID": "0F3D4E",
+      "EDID": "V22dClinicTerminal",
+      "FULL": "Terminal",
+      "DESC": "Aviso: Diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Caso 162",
+          "Caso 164 (Grupo)",
+          "Atualização do caso 162",
+          "Caso 173 (Grupo)",
+          "Atualização do caso 162",
+          "Atualização do caso 162"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D4F",
+      "FORMID": "0F3D4F",
+      "EDID": "V22AdditiveTerminal",
+      "FULL": "Terminal Restaurado",
+      "DESC": "Vault 22 Interlab Network, Subsistema de Produção de Alimentos\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Status 9228",
+          "Relatório de Status 9253",
+          "Relatório de Status 9312"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5E59",
+      "FORMID": "0F5E59",
+      "EDID": "HostetlerTerminal",
+      "FULL": "Terminal",
+      "DESC": "Companhia Caravana Carmesim\nRede de Memorandos Internos\nUsuário Atual: dhostetler",
+      "MENU": {
+        "ITXT": [
+          "Memorando 17\/05\/80",
+          "Memorando 06\/02\/80",
+          "Memorando 06\/03\/80"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Acessando...",
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F6329",
+      "FORMID": "0F6329",
+      "EDID": "V03AccessTerminal",
+      "FULL": "Terminal",
+      "DESC": "Sistema Online",
+      "MENU": {
+        "ITXT": [
+          "Abrir Painel de Acesso",
+          "Fechar Painel de Acesso"
+        ],
+        "RNAM": [
+          "Abrindo Painel de Acesso...",
+          "Fechando Painel de Acesso..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A2",
+      "FORMID": "0F82A2",
+      "EDID": "V22cCaveDoorRoomTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Subsistema de Produção de Alimentos\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida. Três mensagens recuperadas:",
+      "MENU": {
+        "ITXT": [
+          "Pedido de segurança",
+          "Emergência Médica",
+          "Ajuda!"
+        ],
+        "RNAM": [
+          "Acessando o subsistema de e-mail...",
+          "Acessando o subsistema de e-mail...",
+          "Acessando o subsistema de e-mail..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A3",
+      "FORMID": "0F82A3",
+      "EDID": "V22aKeelyTerminal",
+      "FULL": "Terminal Restaurado",
+      "DESC": "Vault 22 Interlab Network, Estação de Segurança da Entrada Principal\n\nAviso: Integridade do sistema comprometida! Login não autorizado detectado!",
+      "MENU": {
+        "ITXT": [
+          "Expedição do Refúgio 22, entrada 1",
+          "Expedição ao Vault 22, entrada 2"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A4",
+      "FORMID": "0F82A4",
+      "EDID": "V22bKeelyTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Sistema do Laboratório de Oxigênio\n\nAviso: A segurança do sistema foi comprometida!",
+      "MENU": {
+        "ITXT": [
+          "Expedição à Vault 22, entrada 3",
+          "Expedição à Vault 22, entrada 4",
+          "Expedição à Vault 22, entrada 5",
+          "Abrir Porta da Entrada"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando...",
+          "Porta aberta."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A5",
+      "FORMID": "0F82A5",
+      "EDID": "V22bOxygenTerminal",
+      "FULL": "Terminal Restaurado",
+      "DESC": "Vault 22 Interlab Network, Subsistema de Efeitos Atmosféricos\n\nAviso: O diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Reclamação de barulho"
+        ],
+        "RNAM": [
+          "Acessando servidor de e-mail..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A6",
+      "FORMID": "0F82A6",
+      "EDID": "V22cKeelyTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Subsistema de Purificação de Água\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Expedição à Vault 22, entrada 6",
+          "Expedição à Vault 22, entrada 7"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A7",
+      "FORMID": "0F82A7",
+      "EDID": "V22dKeelyTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial do Vault 22, Jogo de Trivia Adivinhe\n\nAviso: A segurança do sistema foi comprometida! A integridade dos dados atuais é desconhecida.",
+      "MENU": {
+        "ITXT": [
+          "Expedição à Vault 22, entrada 8",
+          "Expedição da Vault 22, entrada 9"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A8",
+      "FORMID": "0F82A8",
+      "EDID": "V22dUtilityTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial do Vault 22, Sistema de Ajuda de Manutenção\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Bilhete 1 - Barulhos estranhos",
+          "Bilhete 2 - Vazamento de gás?"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F82A9",
+      "FORMID": "0F82A9",
+      "EDID": "V22ePestControlTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Subsistema de Controle de Pragas\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida. Recuperando apenas arquivos não corrompidos.",
+      "MENU": {
+        "ITXT": [
+          "Espécie 1",
+          "Espécie 2",
+          "Espécie 3"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9FA3",
+      "FORMID": "0F9FA3",
+      "EDID": "V22OverseerTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Nó do Supervisor\n\nAviso: Diagnóstico do sistema indica que alguns sistemas estão danificados ou offline. Contate a manutenção.",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Aposentos da Tripulação",
+          "Desbloquear Backup de Dados",
+          "Destravar Acesso à Caverna"
+        ],
+        "RNAM": [
+          "Porta dos Alojamentos da Tripulação destrancada.",
+          "Backup de dados destrancado.",
+          "Erro! Anulação ativada no local da porta."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC203",
+      "FORMID": "0FC203",
+      "EDID": "VMS08TowerLogsTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Registro de Acesso da Torre de Controle"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC96B",
+      "FORMID": "0FC96B",
+      "EDID": "HouseToolsDobsonTerminal",
+      "FULL": "Terminal",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail de Jack Maynard",
+          "E-mail de Jenny DeSoto",
+          "E-mail de Alan Dalton",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC96C",
+      "FORMID": "0FC96C",
+      "EDID": "HouseToolsJackTerminal",
+      "FULL": "Terminal",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail de Dobson O'Gill",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC96D",
+      "FORMID": "0FC96D",
+      "EDID": "HouseToolsOfficeTerminal",
+      "FULL": "Terminal de Anthony House",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "Entrada do Diário 05\/14\/2061",
+          "Entrada do Diário 01\/19\/2062",
+          "Entrada do Diário 19\/06\/2077",
+          "Override Executivo do Lucky 38."
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC96E",
+      "FORMID": "0FC96E",
+      "EDID": "HouseToolsJournalTerminal1",
+      "FULL": "Terminal",
+      "DESC": "ACESSO AO DIÁRIO SECRETO\nNÃO ENTRE, AMEAÇA VERMELHA",
+      "MENU": {
+        "ITXT": [
+          "Anotação no Diário 12\/07\/2062"
+        ],
+        "RNAM": [
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC973",
+      "FORMID": "0FC973",
+      "EDID": "HouseToolsSuspiciousTerminal1",
+      "FULL": "Terminal Suspeito",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023",
+          "Acessar Unidade de Rede Oculta"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9B9",
+      "FORMID": "0FC9B9",
+      "EDID": "V03VincentTerminal",
+      "FULL": "Terminal",
+      "DESC": "Vincent Vanmiller\nChefe da Manutenção",
+      "MENU": {
+        "ITXT": [
+          "Vazamento de Água",
+          "Jantar?",
+          "RE: Jantar?",
+          "Obrigado!"
+        ],
+        "RNAM": [
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9DE",
+      "FORMID": "0FC9DE",
+      "EDID": "HouseToolsSuspiciousTerminal2",
+      "FULL": "Terminal Suspeito",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023",
+          "Acessar Unidade de Rede Oculta"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9DF",
+      "FORMID": "0FC9DF",
+      "EDID": "HouseToolsSuspiciousTerminal3",
+      "FULL": "Terminal Suspeito",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023",
+          "Acessar Unidade de Rede Oculta"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E0",
+      "FORMID": "0FC9E0",
+      "EDID": "HouseToolsSuspiciousTerminal4",
+      "FULL": "Terminal Suspeito",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023",
+          "Acessar Unidade de Rede Oculta"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E1",
+      "FORMID": "0FC9E1",
+      "EDID": "HouseToolsSuspiciousTerminal5",
+      "FULL": "Terminal Suspeito",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023",
+          "Acessar Unidade de Rede Oculta"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E2",
+      "FORMID": "0FC9E2",
+      "EDID": "HouseToolsJournalTerminal2",
+      "FULL": "Terminal",
+      "DESC": "ACESSO AO DIÁRIO SECRETO\nNÃO ENTRE, AMEAÇA VERMELHA",
+      "MENU": {
+        "ITXT": [
+          "Anotação no Diário 11\/08\/2063"
+        ],
+        "RNAM": [
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E3",
+      "FORMID": "0FC9E3",
+      "EDID": "HouseToolsJournalTerminal3",
+      "FULL": "Terminal",
+      "DESC": "ACESSO AO DIÁRIO SECRETO\nNÃO ENTRE, AMEAÇA VERMELHA",
+      "MENU": {
+        "ITXT": [
+          "Anotação no Diário 06\/04\/2068"
+        ],
+        "RNAM": [
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E4",
+      "FORMID": "0FC9E4",
+      "EDID": "HouseToolsJournalTerminal4",
+      "FULL": "Terminal",
+      "DESC": "ACESSO AO DIÁRIO SECRETO\nNÃO ENTRE, AMEAÇA VERMELHA",
+      "MENU": {
+        "ITXT": [
+          "Entrada no Diário 27\/12\/2074"
+        ],
+        "RNAM": [
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC9E5",
+      "FORMID": "0FC9E5",
+      "EDID": "HouseToolsJournalTerminal5",
+      "FULL": "Terminal",
+      "DESC": "ACESSO AO DIÁRIO SECRETO\nNÃO ENTRE, AMEAÇA VERMELHA",
+      "MENU": {
+        "ITXT": [
+          "Entrada do Diário 15\/04\/2077"
+        ],
+        "RNAM": [
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD1D2",
+      "FORMID": "0FD1D2",
+      "EDID": "McCarranFieldTerminal01",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Ruiva",
+          "*** Lembrete ***",
+          "Olá!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76A",
+      "FORMID": "0FD76A",
+      "EDID": "V03OverseerWallTerminal",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76B",
+      "FORMID": "0FD76B",
+      "EDID": "V03LincolnTerminal",
+      "FULL": "Terminal",
+      "DESC": "Lincoln Davis",
+      "MENU": {
+        "ITXT": [
+          "A Situação da Água",
+          "Relações Externas",
+          "Seu Apoio"
+        ],
+        "RNAM": [
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura...",
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76C",
+      "FORMID": "0FD76C",
+      "EDID": "V03DanielTerminal",
+      "FULL": "Terminal",
+      "DESC": "Diretor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76D",
+      "FORMID": "0FD76D",
+      "EDID": "V03MichelleTerminal",
+      "FULL": "Terminal",
+      "DESC": "Michelle Dallian\nChefe do Comitê de Associações Externas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76E",
+      "FORMID": "0FD76E",
+      "EDID": "V03MichaelTerminal",
+      "FULL": "Terminal",
+      "DESC": "Olá, Michael."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD76F",
+      "FORMID": "0FD76F",
+      "EDID": "V03WilliamTerminal",
+      "FULL": "Terminal",
+      "DESC": "Olá, Billy!",
+      "MENU": {
+        "ITXT": [
+          "Compor Mensagem de Explosão Automática"
+        ],
+        "RNAM": [
+          "Sistema Desligado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD770",
+      "FORMID": "0FD770",
+      "EDID": "V03NaraTerminal",
+      "FULL": "Terminal",
+      "DESC": "Olá, Nara"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FED57",
+      "FORMID": "0FED57",
+      "EDID": "NeonSignFactoryTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Projetos de Letreiros de Neon do McMurry\n\nEstação do Capataz da Fábrica",
+      "MENU": {
+        "ITXT": [
+          "Nota de Remessa #0812",
+          "Nota de Remessa #1542",
+          "Registro de Relatório de Acidente"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FFCDD",
+      "FORMID": "0FFCDD",
+      "EDID": "NewVegasSteelTerminal",
+      "FULL": "Terminal",
+      "DESC": "Tempo Atual do Teste: 204 anos",
+      "MENU": {
+        "ITXT": [
+          "Override Executivo do Lucky 38."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1040CF",
+      "FORMID": "1040CF",
+      "EDID": "SSHQFestusTerminal",
+      "FULL": "Terminal de Controle de Festus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:106590",
+      "FORMID": "106590",
+      "EDID": "SSHQMrJanitorTerminal",
+      "FULL": "Terminal",
+      "DESC": "Controle de Custódia da Sunset Sarsaparilla\n\nFuncionário MHDY133 - Área: Corredores\nStatus Atual: Indisponível\n\nFuncionário MHDY134 - Área: Escritórios\nStatus Atual: Indisponível\n\nFuncionário MHDY135 - Área: Engarrafamento, Envio\nStatus Atual: Em Espera",
+      "MENU": {
+        "ITXT": [
+          "Ativar Trabalhador MHDY135",
+          "Ativar Trabalhador MHDY135"
+        ],
+        "RNAM": [
+          "Iniciando coleta de lixo menor...",
+          "Cancelado, registros mostram limpeza feita recentemente"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:107763",
+      "FORMID": "107763",
+      "EDID": "CampGolfScoreTerminal",
+      "FULL": "Terminal de Relatórios de Prontidão do Esquadrão",
+      "DESC": "Banco de Dados do Relatório de Prontidão da Equipe RECORDOTRON da NCR\nv3.75",
+      "MENU": {
+        "ITXT": [
+          "Esquadrão CG554-2 \"Misfits\"",
+          "Destacamento Ranger Alfa",
+          "Destacamento Ranger Bravo",
+          "Destacamento de Rangers Charlie"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:107764",
+      "FORMID": "107764",
+      "EDID": "CampGolfMissionTerminal",
+      "FULL": "Terminal de Parâmetros da Missão em Camp Golf",
+      "DESC": "Disposicionador de Tropas da NCR ME\nv8.87",
+      "MENU": {
+        "ITXT": [
+          "Excluir Missão Patrulha de Combate Misfits"
+        ],
+        "RNAM": [
+          "Ordens de missão apagadas"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:107765",
+      "FORMID": "107765",
+      "EDID": "MisfitsTerminal",
+      "FULL": "Terminal de Relatórios de Prontidão do Esquadrão",
+      "DESC": "Banco de Dados do Relatório de Prontidão da Equipe RECORDOTRON da NCR\nv3.75",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Campo de Tiro",
+          "Relatório do Campo de Tiro",
+          "Relatório de Alcance de Granadas",
+          "Relatório de Alcance de Granadas",
+          "Alterar Relatórios de Preparo"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Alterando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AF1A",
+      "FORMID": "10AF1A",
+      "EDID": "HVDatabaseMatrixCorruptedTerminal",
+      "DESC": "l;fkajsdlkfjasdlkfjasdklfjadkslfjasdf\nas;dlkfjasd;lkfjasdlkfjadklsfjasdlkfja\nouitypioufyhin mrewtw.etj;aljga0oij\nkjnhiubvyp;oihjernthjouyshgoha'ijf",
+      "MENU": {
+        "ITXT": [
+          "Recarregar DataStore"
+        ],
+        "RNAM": [
+          "uoityhnbvm,oaqirjtamf"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B1",
+      "FORMID": "10B3B1",
+      "EDID": "SSHQCustodialTerminal",
+      "FULL": "Terminal",
+      "DESC": "Menu Principal",
+      "MENU": {
+        "ITXT": [
+          "Verificar e-mail",
+          "Verificar sistema de manutenção",
+          "Verificar sistema de manutenção"
+        ],
+        "RNAM": [
+          "Carregando sistema de e-mail...",
+          "Carregando sistema de manutenção...",
+          "Carregando sistema de manutenção..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B2",
+      "FORMID": "10B3B2",
+      "EDID": "SSHQCustodialMailTerminal",
+      "FULL": "Terminal",
+      "DESC": "Você tem as seguintes mensagens:",
+      "MENU": {
+        "ITXT": [
+          "Vazamento de Água",
+          "Ótimo trabalho"
+        ],
+        "RNAM": [
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B3",
+      "FORMID": "10B3B3",
+      "EDID": "SSHQCustodialMailMessage1Terminal",
+      "FULL": "Terminal",
+      "DESC": "Corpo: Só avisando que recebemos relatos de um possível pequeno vazamento de água na sala de reunião do andar de cima. Os efeitos a longo prazo de danos causados pela água podem ser muito, muito caros, então vamos resolver esse problema antes que piore, certo?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B4",
+      "FORMID": "10B3B4",
+      "EDID": "SSHQCustodialMailMessage2Terminal",
+      "FULL": "Terminal",
+      "DESC": "Controle de Custódia da Sunset Sarsaparilla\n\nSistema de Correio\n\nDe: Kenneth Aguilar, Presidente\nAssunto: Ótimo Trabalho\n\nCorpo: Queria pessoalmente parabenizá-lo pelo sucesso do novo sistema de zeladoria automatizado. Em particular, o #135 tem se mostrado muito popular entre os funcionários. Nem te conto quantas reclamações eu ouvia sobre tampinhas de garrafa soltas entrando na máquina. Ah, e devemos marcar uma reunião em breve sobre o resto da sua equipe. Que tal terça-feira?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B5",
+      "FORMID": "10B3B5",
+      "EDID": "SSHQMrJanitorCleaningTerminal",
+      "FULL": "Terminal",
+      "DESC": "Controle de Custódia da Sunset Sarsaparilla\n\nFuncionário MHDY133 - Área: Corredores\nStatus Atual: Indisponível\n\nFuncionário MHDY134 - Área: Escritórios\nStatus Atual: Indisponível\n\nFuncionário MHDY135 - Área: Engarrafamento, Envio\nStatus Atual: Ativado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B6",
+      "FORMID": "10B3B6",
+      "EDID": "SSHQSecretaryTerminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nBem-vinda, Srta. Paige! O presidente não tem mensagens novas desde a última vez que você acessou.",
+      "MENU": {
+        "ITXT": [
+          "Verificar mensagens salvas na caixa de entrada",
+          "Verificar mensagens salvas enviadas"
+        ],
+        "RNAM": [
+          "Carregando mensagens...",
+          "Carregando mensagens..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B7",
+      "FORMID": "10B3B7",
+      "EDID": "SSHQPresidentReceivedMail",
+      "DESC": "Sunset Sarsaparilla Company Intranet\n\nMensagens Salvas Local",
+      "MENU": {
+        "ITXT": [
+          "Que competição?",
+          "E aí, como está seu brinquedinho novo?"
+        ],
+        "RNAM": [
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B8",
+      "FORMID": "10B3B8",
+      "EDID": "SSHQPresidentSentMail",
+      "DESC": "Sunset Sarsaparilla Company Intranet\n\nMensagens Salvas Local",
+      "MENU": {
+        "ITXT": [
+          "RE: Que concurso?",
+          "Enquanto o ferro estiver quente",
+          "RE: E aí, gostou do seu brinquedo novo?"
+        ],
+        "RNAM": [
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3B9",
+      "FORMID": "10B3B9",
+      "EDID": "SSHQPresidentReceivedMessage1Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla Company\n\nDe: Nathan Stanley, Diretor de RP\nAssunto: Que concurso é esse?\n\nCorpo: Senhor, os boatos sobre algum tipo de concurso estão saindo do controle rapidamente. Estamos sendo inundados com ligações e mensagens perguntando se é verdade que estamos trocando tampinhas por prêmios. Quer que eu faça uma declaração oficial negando o boato?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BA",
+      "FORMID": "10B3BA",
+      "EDID": "SSHQPresidentSentMessage1Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla Company\n\nPara: Nathan Stanley, Diretor de RP\nAssunto: RE: Que concurso?\n\nCorpo: Stanley, você pirou de vez? Já viu os últimos números de vendas? Aumentamos 300% desde que esses boatos começaram e você está perguntando se eu quero que você pare? Dê um pulo no meu escritório para discutirmos isso melhor."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BB",
+      "FORMID": "10B3BB",
+      "EDID": "SSHQPresidentSentMessage2Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla Company\n\nPara: Marcus Brody, VP de Tecnologia\nAssunto: Enquanto o ferro está quente\n\nCorpo: Marcus, tenho algumas ideias sobre como podemos usar essa situação toda do concurso a nosso favor. Vou precisar que você trabalhe com o pessoal da publicidade em um projeto muito especial. Um pedido de reunião será enviado em breve. A propósito, o que você acha de caubóis?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BC",
+      "FORMID": "10B3BC",
+      "EDID": "SSHQPresidentReceivedMessage2Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla Company\n\nDe: Lucas Nash, VP de Vendas, RobCo Corp.\nAssunto: Está gostando do seu brinquedinho novo?\n\nCorpo: Kenneth, espero que você esteja impressionado até agora com sua compra recente. Sua empresa tem sido e continua sendo uma cliente valiosa. Entre em contato se tiver alguma dúvida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BD",
+      "FORMID": "10B3BD",
+      "EDID": "SSHQPresidentSentMessage3Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla Company\n\nPara: Lucas Nash, VP de Vendas, RobCo Corp.\nAssunto: RE: O que achou do seu novo brinquedo?\n\nCorpo: Lucas, não poderia estar mais feliz com o desempenho do novo modelo. Se o desempenho atual dele servir de medida, ele promete reinventar toda a rede de distribuição da minha empresa. Gostaria de discutir a compra de mais alguns em um futuro próximo. Em quanto tempo você espera que mais unidades fiquem disponíveis?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BE",
+      "FORMID": "10B3BE",
+      "EDID": "SSHQShippingTerminal",
+      "FULL": "Terminal",
+      "DESC": "Você tem 1 mensagem salva e 1 rascunho salvo.",
+      "MENU": {
+        "ITXT": [
+          "Verificar mensagem",
+          "Verificar rascunho"
+        ],
+        "RNAM": [
+          "Mensagem de carregamento...",
+          "Mensagem de carregamento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3BF",
+      "FORMID": "10B3BF",
+      "EDID": "SSHQShippingDraftTerminal",
+      "DESC": "Sunset Sarsaparilla Company Intranet\n\nPara: Margie Walker, Representante do Sindicato dos Caminhoneiros\nAssunto: Notícias piores\n\nCorpo: Estamos com problemas. Aquele robô experimental ultrassecreto que te falei outro dia? A desgraça da máquina está tocando toda a nossa distribuição na área de Vegas sozinha agora. Seus garotos não estão de licença temporária. É permanente. Caralho, o presidente quer me ver no escritório dele. Termino isso depois."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C0",
+      "FORMID": "10B3C0",
+      "EDID": "SSHQShippingMessageTerminal",
+      "DESC": "Corpo: Peço desculpas de antemão se houver algum erro nesta mensagem. Estou testando um fone de ouvido novo para ditado. Margie, o chefão acabou de encomendar um robô modernoso que vai substituir algumas entregas suas. Não era para eu falar, mas você vai saber logo. Escrevo de novo quando souber mais. Não espalhe isso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C1",
+      "FORMID": "10B3C1",
+      "EDID": "SSHQTechGuyTerminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nBem-vindo, Sr. Brody!",
+      "MENU": {
+        "ITXT": [
+          "Verificar mensagens automáticas"
+        ],
+        "RNAM": [
+          "Carregando sistema de mensagens automatizado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C2",
+      "FORMID": "10B3C2",
+      "EDID": "SSHQTechGuyMailTerminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nSistema de Correio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C3",
+      "FORMID": "10B3C3",
+      "EDID": "SSHQTechGuyMessagesTerminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nSistema de Mensagens Automatizadas",
+      "MENU": {
+        "ITXT": [
+          "Ir para a página 1",
+          "Ir para a página 2",
+          "Vá para a página 3"
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C4",
+      "FORMID": "10B3C4",
+      "EDID": "SSHQTechGuyMessagesPage1Terminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Companhia Sunset Sarsaparilla\n\nSistema de Mensagens Automatizadas\n\nHDY074 reporta uma falha no servo!\nHDY074 reporta que todos os sistemas estão OK!\nHDY019 e 291 reportam um mau funcionamento na linha!\nHDY117 reporta que manutenção de óleo será necessária em breve!\nPRO802 reporta um mau funcionamento na arma!\nHDY019 e 291 reportam que está tudo OK!\nHDY117 reporta que todos os sistemas estão OK!\nPRO802 reporta que a arma está OK!\nHDY074 reporta um mau funcionamento na linha!",
+      "MENU": {
+        "ITXT": [
+          "Ir para a página 2"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C5",
+      "FORMID": "10B3C5",
+      "EDID": "SSHQTechGuyMessagesPage2Terminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Companhia Sunset Sarsaparilla\n\nSistema de Mensagens Automatizadas\n\nHDY117 reporta uma falha no atuador!\nPRO496 reporta pequenos danos estruturais!\nHDY291 reporta um mau funcionamento na linha!\nHDY074 reporta que manutenção de óleo será necessária em breve!\nHDY019 reporta um mau funcionamento na linha!\nHDY019 e 291 reportam que está tudo OK!\nHDY019 e 291 reportam inatividade!\nHDY074 reporta inatividade!\nHDY074, 019 e 291 reportam inatividade!",
+      "MENU": {
+        "ITXT": [
+          "Vá para a página 3"
+        ],
+        "RNAM": [
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3C6",
+      "FORMID": "10B3C6",
+      "EDID": "SSHQTechGuyMessagesPage3Terminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nSistema de Mensagens Automatizadas\n\nPRO931 reporta um invasor!\nPRO931 reporta grandes danos estruturais!\nHDY291 e 074 reportam grandes danos estruturais!\nPRO802 e 496 reportam um invasor!\nPRO802 e 496 reportam grandes danos estruturais!\nPRO805 e 014 reportam grandes danos estruturais!\nPRO446 reporta que o invasor foi ferido!\nPRO446 reporta grandes danos estruturais!\nHDY117 reporta grandes danos estruturais!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B75D",
+      "FORMID": "10B75D",
+      "EDID": "SSHQAdvertisingTerminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nRelatório Anual de Vendas\n\nNosso desempenho no leste continua a melhorar, graças à nova campanha \"Ganhe Massa com Salsada\". O nordeste continua sendo osso duro de roer, e um crescimento lento contínuo é esperado. As coisas estão melhorando no norte e meio-oeste, e os líderes dessas equipes devem ser elogiados. Como sempre, o desempenho no sudoeste é forte. No geral, este foi um ano excelente para a Sunset Sarsaparilla, e todos vocês devem se orgulhar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B75E",
+      "FORMID": "10B75E",
+      "EDID": "SSHQTechGuyMailMessage1Terminal",
+      "FULL": "Terminal",
+      "DESC": "Intranet da Sunset Sarsaparilla\n\nSistema de Correio\n\nDe: Kenneth Aguilar, Presidente\nAssunto: Festus\n\nEu sabia que podia contar com você, Marcus. Aquele robô novo no saguão tem feito um sucesso enorme com os turistas, e a notícia do concurso se espalhou por toda parte."
+    },
+    {
+      "FORM": "@FalloutNV.esm:119487",
+      "FORMID": "119487",
+      "EDID": "VMS21SalsTerminal",
+      "FULL": "Terminal do Big Sal",
+      "DESC": "Se você não for o Big Sal, tire suas mãos imundas daqui, porra!",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1199DB",
+      "FORMID": "1199DB",
+      "EDID": "VMS18FreezerUnlockTerminal",
+      "FULL": "Terminal de Acesso ao Freezer",
+      "DESC": "DeepFreeze Kitchen Storage Corp.\n\"Limpeza é quase uma divindade. Ambas estão abaixo da frescura.\"\n>\\ Bem-vindo, USER",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura",
+          "Engatar Trava"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando...",
+          "Autorização concedida, travando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1199DE",
+      "FORMID": "1199DE",
+      "EDID": "VMS18PantryLockTerminal",
+      "FULL": "Terminal de Acesso à Despensa",
+      "DESC": "DeepFreeze Kitchen Storage Corp.\n\"Limpeza é quase uma divindade. Ambas estão abaixo da frescura.\"\n>\\ Bem-vindo, USER",
+      "MENU": {
+        "ITXT": [
+          "Engatar Trava",
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, bloqueando...",
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C0BC",
+      "FORMID": "11C0BC",
+      "EDID": "VStreetCrockersTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Informante",
+          "Relatório de Freeside",
+          "Relatório da Fazenda",
+          "Relatório dos Demônios"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD86",
+      "FORMID": "11DD86",
+      "EDID": "V21SarahTerminalMailIn",
+      "FULL": "Mensagens para Sarah Weintraub",
+      "DESC": "Mensagens para Sarah Weintraub",
+      "MENU": {
+        "ITXT": [
+          "Nova Mensagem de Sheldon Weintraub.",
+          "Nossos Amigos Influentes."
+        ],
+        "RNAM": [
+          "... Mensagem carregada com sucesso.",
+          "... Mensagem carregada com sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD87",
+      "FORMID": "11DD87",
+      "EDID": "V21SarahTerminalMailOut",
+      "FULL": "Mensagens Enviadas",
+      "DESC": "Mensagens Enviadas",
+      "MENU": {
+        "ITXT": [
+          "Ei, você!"
+        ],
+        "RNAM": [
+          "... Mensagem carregada com sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD88",
+      "FORMID": "11DD88",
+      "EDID": "V21Guest",
+      "FULL": "Terminal de Hóspedes da Vault 21",
+      "DESC": "Bem-vindo ao Vault 21\n\nSelecione uma das seguintes opções do menu:",
+      "MENU": {
+        "ITXT": [
+          "Serviços",
+          "História do Vault 21",
+          "Mensagens de Correio"
+        ],
+        "RNAM": [
+          "Serviços aos Hóspedes do Vault 21",
+          "Um Mundo à Parte!",
+          "Seu Correio Longe de Casa!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD89",
+      "FORMID": "11DD89",
+      "EDID": "V21GuestServices",
+      "FULL": "Terminal de Hóspedes da Vault 21",
+      "DESC": "Informações de Serviço do Hotel:",
+      "MENU": {
+        "ITXT": [
+          "Cardápio do Restaurante",
+          "Catálogo de Presentes",
+          "Conveniência"
+        ],
+        "RNAM": [
+          "Aproveite Nossas Refeições Saborosas!",
+          "Uma Lembrança do Passado para o Seu Futuro",
+          "Sua Satisfação Garantida!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD8A",
+      "FORMID": "11DD8A",
+      "EDID": "V21GuestHistory",
+      "FULL": "Terminal de Hóspedes da Vault 21",
+      "DESC": "História do Vault 21:",
+      "MENU": {
+        "ITXT": [
+          "Vault 21 - Um Paraíso de Igualdade",
+          "Abrindo as Portas para um Novo Mundo",
+          "Uma Homenagem ao Sr. House"
+        ],
+        "RNAM": [
+          "Uma História para Contar",
+          "Nossa História Agora é a Sua História",
+          "Conheçam nosso Benfeitor!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD8B",
+      "FORMID": "11DD8B",
+      "EDID": "V21GuestMail",
+      "FULL": "Terminal de Hóspedes da Vault 21",
+      "DESC": "Bem-vindo à Rede do Vault 21:",
+      "MENU": {
+        "ITXT": [
+          "Mensagens",
+          "Entendido"
+        ],
+        "RNAM": [
+          "Mantendo Você em Contato!",
+          "Mantendo Você em Contato!"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD8C",
+      "FORMID": "11DD8C",
+      "EDID": "V21SarahTerminal",
+      "FULL": "Terminal da Sarah",
+      "DESC": "Sarah Weintraub\nGerente do Hotel e Loja da Vault 21",
+      "MENU": {
+        "ITXT": [
+          "Correio da Sarah Weintraub"
+        ],
+        "RNAM": [
+          "... Lista de Correspondência Carregada com Sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD8D",
+      "FORMID": "11DD8D",
+      "EDID": "V21SarahTerminalMail",
+      "FULL": "Correio da Sarah",
+      "DESC": "Correio de Sarah Weintraub",
+      "MENU": {
+        "ITXT": [
+          "Mensagens",
+          "Correio Enviado"
+        ],
+        "RNAM": [
+          "... Mensagem carregada com sucesso.",
+          "... Mensagem carregada com sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11DD8E",
+      "FORMID": "11DD8E",
+      "EDID": "V21SarahReception",
+      "FULL": "Terminal da Recepção do Vault 21",
+      "DESC": "Sarah Weintraub\nGerente do Hotel e Loja da Vault 21",
+      "MENU": {
+        "ITXT": [
+          "Correio da Sarah Weintraub"
+        ],
+        "RNAM": [
+          "... Lista de Correspondência Carregada com Sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E3BF",
+      "FORMID": "11E3BF",
+      "EDID": "V21SheldonTerminal",
+      "FULL": "Terminal de Michael Angelo",
+      "DESC": "Sheldon Weintraub... Logado.\n\nBem-vindo, Michael Angelo!",
+      "MENU": {
+        "ITXT": [
+          "Correspondência de Sheldon Weintraub"
+        ],
+        "RNAM": [
+          "... Lista de Correspondência Carregada com Sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E3C0",
+      "FORMID": "11E3C0",
+      "EDID": "V21SheldonTerminalMail",
+      "FULL": "Correio de Sheldon",
+      "DESC": "E-mail de Sheldon Weintraub",
+      "MENU": {
+        "ITXT": [
+          "Mensagens",
+          "Correio Enviado"
+        ],
+        "RNAM": [
+          "... Mensagem carregada com sucesso.",
+          "... Mensagem carregada com sucesso."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E3C1",
+      "FORMID": "11E3C1",
+      "EDID": "V21SheldonTerminalMailIn",
+      "FULL": "Mensagens para Sheldon Weintraub",
+      "DESC": "Mensagens para Sheldon Weintraub",
+      "MENU": {
+        "ITXT": [
+          "Nova Mensagem de Sarah Weintraub",
+          "Próximos Requisitos de Outdoor"
+        ],
+        "RNAM": [
+          "... Mensagem de Correio Carregada",
+          "... Mensagem carregada."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E3C2",
+      "FORMID": "11E3C2",
+      "EDID": "V21SheldonTerminalMailOut",
+      "FULL": "Mensagens Enviadas",
+      "DESC": "Mensagens Enviadas",
+      "MENU": {
+        "ITXT": [
+          "Mana, saudade de você como nunca."
+        ],
+        "RNAM": [
+          "... Mensagem carregada."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F8BE",
+      "FORMID": "11F8BE",
+      "EDID": "VFSFistoTerminalSubP",
+      "FULL": "Interface de Programação de Protectron",
+      "DESC": "Selecione a Rotina para Enviar\n-------------------------------",
+      "MENU": {
+        "ITXT": [
+          "[Ciência] <Programar Rotina de Sexobot>",
+          "Upload da Rotina de Sexobot do Ralph"
+        ],
+        "RNAM": [
+          "...Rotina Aceita...",
+          "...Rotina Aceita..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F8BF",
+      "FORMID": "11F8BF",
+      "EDID": "VFSFistoTerminal",
+      "FULL": "Interface de Programação de Protectron",
+      "DESC": "Cerulean Robotics P&D\n\nV 0.6.0.3\nSegurança Totalmente Integrada\nOficial de Tecnologia\n\n------------------------------------\n\nTerminal de Entrada de Dados",
+      "MENU": {
+        "ITXT": [
+          "Executar Rotina de Diagnóstico",
+          "Enviar Rotina de Programação"
+        ],
+        "RNAM": [
+          "...Todos os Sistemas Nominais...",
+          "Selecione Rotina, por favor"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252BE",
+      "FORMID": "1252BE",
+      "EDID": "SVProtectronTerminal",
+      "FULL": "Terminal de Operações do Protectron",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, Sr. House",
+      "MENU": {
+        "ITXT": [
+          "Cancelar alerta de segurança."
+        ],
+        "RNAM": [
+          "Protectrons desativando."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F28",
+      "FORMID": "128F28",
+      "EDID": "Lucky38WallTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, USUÁRIO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F29",
+      "FORMID": "128F29",
+      "EDID": "Lucky38MainframeTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, USUÁRIO"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12910A",
+      "FORMID": "12910A",
+      "EDID": "Lucky38ReactorTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Ativar Reator",
+          "Reator Inativo"
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12910B",
+      "FORMID": "12910B",
+      "EDID": "ElDoradoWallTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Reator de Energia."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1297D3",
+      "FORMID": "1297D3",
+      "EDID": "V21Control",
+      "FULL": "Controle do Vault 21",
+      "DESC": "Centro de Segurança e Controle do Vault\n\nSelecione uma das seguintes opções do menu:",
+      "MENU": {
+        "ITXT": [
+          "Segurança do Vault",
+          "Suporte Vital do Vault",
+          "Controle de Acesso ao Vault"
+        ],
+        "RNAM": [
+          "Segurança do Vault",
+          "Sistemas de Suporte à Vida do Vault",
+          "Controle de Acesso ao Vault"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12A3CC",
+      "FORMID": "12A3CC",
+      "EDID": "SVTerminal01",
+      "FULL": "Terminal de Status do Vault",
+      "DESC": "Bem-vindo, Sr. House.",
+      "MENU": {
+        "ITXT": [
+          "Registro de Status",
+          "Status da Torreta",
+          "Status do Protectron",
+          "Status do Robô Sentinela"
+        ],
+        "RNAM": [
+          "Turrets: Active",
+          "Protectrons: Active",
+          "Sentrybots: Standby"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AF4E",
+      "FORMID": "12AF4E",
+      "EDID": "SVTurretTerminal",
+      "FULL": "Terminal de Operações da Torreta",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, Sr. House",
+      "MENU": {
+        "ITXT": [
+          "Cancelar alerta de segurança."
+        ],
+        "RNAM": [
+          "Torretas voltando ao modo de espera."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B97D",
+      "FORMID": "12B97D",
+      "EDID": "VStreetNCREmbassyTerminal01",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "The Strip - Atividade dos Omertas",
+          "Relatório da Embaixada",
+          "Relatório do Capitão Pappas",
+          "Anotações Pessoais de Liza"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B989",
+      "FORMID": "12B989",
+      "EDID": "VStreetCaptainPappasTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Aviso de Segurança da Strip",
+          "Relatórios de Turno da PM",
+          "Relatório de Comportamento de Soldado"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12BE14",
+      "FORMID": "12BE14",
+      "EDID": "OVCSewerControlTerminal",
+      "FULL": "Controle Central de Esgoto",
+      "DESC": "Rede da House Industries",
+      "MENU": {
+        "ITXT": [
+          "Controle Central de Esgoto"
+        ],
+        "RNAM": [
+          "... ACESSO SUBSTITUÍDO - DIRETIVA DE HOUSE 449b"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FC70",
+      "FORMID": "12FC70",
+      "EDID": "V34NorthGateTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Aviso: Inundação",
+          "Aviso: Inundação",
+          "Aviso: Reator",
+          "Registro",
+          "Sistema"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:12FC71",
+      "FORMID": "12FC71",
+      "EDID": "V34NorthGateTerminalSystem",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Ativar Estação de Bombeamento"
+        ],
+        "RNAM": [
+          "Acesso concedido, ativando estação de bombeamento"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13253C",
+      "FORMID": "13253C",
+      "EDID": "V34SecurityNorthTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Aviso: Inundação",
+          "Aviso: Inundação",
+          "Aviso: Reator",
+          "Registro",
+          "Sistema"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13253D",
+      "FORMID": "13253D",
+      "EDID": "V34SecurityNorthTerminalSystem",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Desativar Trava para Supervisor"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13253E",
+      "FORMID": "13253E",
+      "EDID": "V34SecuritySouthTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Aviso: Inundação",
+          "Aviso: Inundação",
+          "Aviso: Reator",
+          "Registro"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:132EAC",
+      "FORMID": "132EAC",
+      "EDID": "V34OverseerTerminalSystem",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Abrir porta do arsenal"
+        ],
+        "RNAM": [
+          "Acesso concedido, desativando trava..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:132EAD",
+      "FORMID": "132EAD",
+      "EDID": "V34OverseerTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Aviso: Inundação",
+          "Aviso: Reator",
+          "Diário do Supervisor",
+          "Sistema"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F43",
+      "FORMID": "133F43",
+      "EDID": "V34WelcomeTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Bem-vindo(a)",
+          "Aviso: Inundação",
+          "Aviso: Inundação",
+          "Aviso: Reator",
+          "Registro"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F44",
+      "FORMID": "133F44",
+      "EDID": "V34ReactorTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "SOS",
+          "Registro",
+          "Abrir Porta do Reator",
+          "Fechar dutos externos",
+          "Redirecionar controle do cofre"
+        ],
+        "RNAM": [
+          "Clearance granted, disengaging lock..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13569F",
+      "FORMID": "13569F",
+      "EDID": "VHDFlightControlTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Acessar Plano de Voo Presidencial"
+        ],
+        "RNAM": [
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F1B",
+      "FORMID": "135F1B",
+      "EDID": "V34OverseerTerminalJournal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "138.u84d.983.nós.r",
+          "gi.d3.8o20",
+          "md.45.7ld2"
+        ],
+        "RNAM": [
+          "[dados corrompidos]"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:136B63",
+      "FORMID": "136B63",
+      "EDID": "SVSentrybotTerminal",
+      "FULL": "Terminal de Operações do Sentrybot",
+      "DESC": "ERRO 0x03C663A1\n\"Conexão de rede não encontrada\"\n\"Terminal falso inativo\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:139A8A",
+      "FORMID": "139A8A",
+      "EDID": "VHDDutyRosterTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Acessar Lista de Serviço"
+        ],
+        "RNAM": [
+          "Lista de Serviço Acessada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A69D",
+      "FORMID": "13A69D",
+      "EDID": "VNiptonTinkerTerminalREF",
+      "FULL": "Terminal",
+      "DESC": "Bem-vindo(a).",
+      "MENU": {
+        "ITXT": [
+          "Reiniciar Conexão do Mainframe",
+          "Especificações."
+        ],
+        "RNAM": [
+          "Conexão redefinida. Handshaking... completo.",
+          "Carregando mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A69E",
+      "FORMID": "13A69E",
+      "EDID": "VNiptonSteynTerminal",
+      "FULL": "Terminal do Prefeito Steyn",
+      "DESC": "Bem-vindo(a).",
+      "MENU": {
+        "ITXT": [
+          "Reiniciar Conexão do Mainframe",
+          "Fuga da Prisão",
+          "Magnata",
+          "Testando..."
+        ],
+        "RNAM": [
+          "Conexão redefinida. Handshaking... completo.",
+          "Carregando mensagem...",
+          "Carregando mensagem...",
+          "Carregando mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13CA36",
+      "FORMID": "13CA36",
+      "EDID": "VHDIntakeTowerHatchUnlockTerminal",
+      "FULL": "Terminal",
+      "DESC": "Sistema de Manutenção da Represa Hoover\n\nAviso: A manutenção da torre de entrada só deve ser realizada durante os períodos programados de inatividade e somente com o equipamento adequado. Consulte seu supervisor para obter mais detalhes.",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Escotilha de Manutenção"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D73C",
+      "FORMID": "13D73C",
+      "EDID": "vHDCheckpointTerminal",
+      "FULL": "Terminal",
+      "DESC": "Lembre-se de trocar suas senhas diariamente!",
+      "MENU": {
+        "ITXT": [
+          "Diagnóstico de Segurança do Gerador",
+          "Ativar Diagnóstico do Gerador"
+        ],
+        "RNAM": [
+          "Attempting to Activate Remote Diagnostics"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D82E",
+      "FORMID": "13D82E",
+      "EDID": "JacobstownHenryTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Dados de Teste dos Noturnos",
+          "Protótipo Mark II",
+          "Keene"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5C6",
+      "FORMID": "13E5C6",
+      "EDID": "VHDFlightControlTerminal2",
+      "FULL": "Terminal",
+      "DESC": "Acesso à Atualização de Controle de Voo",
+      "MENU": {
+        "ITXT": [
+          "Modificar Configurações de Atualização"
+        ],
+        "RNAM": [
+          "Configurações Atualizadas"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1407E8",
+      "FORMID": "1407E8",
+      "EDID": "V19TerminalTech",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Diário #86"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:142DC9",
+      "FORMID": "142DC9",
+      "EDID": "VHDVisitorCenterMainTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Relatório de Segurança da Represa Hoover",
+          "Quadro de Deveres da Segurança",
+          "Relatório de Engenharia",
+          "Terminal de Controle de Voo"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Acessando...",
+          "Acessando...",
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E70",
+      "FORMID": "145E70",
+      "EDID": "CampSearchlightTurretTerminalNorth",
+      "FULL": "Terminal de Defesa da Torreta",
+      "DESC": "Terminal de Defesa da Torreta de Acampamento Search Light, Setor Norte",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Defesa da Torreta"
+        ],
+        "RNAM": [
+          "Defesa da Torre Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E71",
+      "FORMID": "145E71",
+      "EDID": "CampSearchlightTurretTerminalNorthEast",
+      "FULL": "Terminal de Defesa da Torreta",
+      "DESC": "Terminal de Defesa da Torreta de Acampamento Search Light, Setor Nordeste",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Defesa da Torreta"
+        ],
+        "RNAM": [
+          "Defesa da Torre Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E72",
+      "FORMID": "145E72",
+      "EDID": "CampSearchlightTurretTerminalEast",
+      "FULL": "Terminal de Defesa da Torreta",
+      "DESC": "Terminal de Defesa da Torre de Busca em Acampamento Search Light, Setor Leste",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Defesa da Torreta"
+        ],
+        "RNAM": [
+          "Defesa da Torre Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E73",
+      "FORMID": "145E73",
+      "EDID": "CampSearchlightTurretTerminalSouth",
+      "FULL": "Terminal de Defesa da Torreta",
+      "DESC": "Terminal de Defesa da Torre de Busca em Acampamento Search Light - Setor Sul",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Defesa da Torreta"
+        ],
+        "RNAM": [
+          "Defesa da Torre Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:145E74",
+      "FORMID": "145E74",
+      "EDID": "CampSearchlightTurretTerminalWest",
+      "FULL": "Terminal de Defesa da Torreta",
+      "DESC": "Terminal de Defesa da Torre de Busca em Acampamento Search Light - Setor Oeste",
+      "MENU": {
+        "ITXT": [
+          "Ativar Sistema de Defesa da Torreta"
+        ],
+        "RNAM": [
+          "Defesa da Torre Ativada"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:146616",
+      "FORMID": "146616",
+      "EDID": "CampSearchlightNCRStorage",
+      "FULL": "Banco de Dados de Armazenamento da NCR",
+      "DESC": "Banco de Dados de Armazenamento do Acampamento Searchlight da República da Nova Califórnia",
+      "MENU": {
+        "ITXT": [
+          "Inventário Atual",
+          "Registro de Log #1836",
+          "Registro #2257",
+          "Acessar Cofre"
+        ],
+        "RNAM": [
+          "Situação atual do inventário desconhecida",
+          "Safe Unlocked"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147523",
+      "FORMID": "147523",
+      "EDID": "V19TerminalRedDoc",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Registro #45",
+          "Registro #46"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147524",
+      "FORMID": "147524",
+      "EDID": "V19TerminalRed01",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Entrada do Diário 98"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147525",
+      "FORMID": "147525",
+      "EDID": "V19TerminalRedFilter",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Entrada de Diário 65"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147526",
+      "FORMID": "147526",
+      "EDID": "V19TerminalBlueDoc",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Registro #479",
+          "Registro #480",
+          "Registro #481",
+          "Registro #482",
+          "Registro #483",
+          "Registro #484"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147527",
+      "FORMID": "147527",
+      "EDID": "V19TerminalBlueSpy",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Diário #138",
+          "Diário #139"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147528",
+      "FORMID": "147528",
+      "EDID": "V19TerminalBlueVents",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Anotação #209",
+          "Diário #210"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:147529",
+      "FORMID": "147529",
+      "EDID": "V19TerminalBlueOverseer",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Registro 56",
+          "Entrada de Registro 74"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752A",
+      "FORMID": "14752A",
+      "EDID": "V19TerminalBlueMindcontrol",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Entrada de Diário 194",
+          "Entrada no Diário 206"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752B",
+      "FORMID": "14752B",
+      "EDID": "V19TerminalRedVoices",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Anotação no Diário # 86"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752C",
+      "FORMID": "14752C",
+      "EDID": "V19TerminalOverseerBlue",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Dados",
+          "-dados corrompidos-"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752D",
+      "FORMID": "14752D",
+      "EDID": "V19TerminalOverseerRed",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Diário 167",
+          "Entrada de Diário 168"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752E",
+      "FORMID": "14752E",
+      "EDID": "V19TerminalRedKid",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Uma Mensagem do Supervisor",
+          "Meu Diário: Entrada 74"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482D4",
+      "FORMID": "1482D4",
+      "EDID": "CampGolfScoreTerminalUnlocked",
+      "FULL": "Terminal de Relatórios de Prontidão do Esquadrão",
+      "DESC": "Banco de Dados do Relatório de Prontidão da Equipe RECORDOTRON da NCR\nv3.75",
+      "MENU": {
+        "ITXT": [
+          "Esquadrão CG554-2 \"Misfits\"",
+          "Destacamento Ranger Alfa",
+          "Destacamento Ranger Bravo",
+          "Destacamento de Rangers Charlie"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B048",
+      "FORMID": "14B048",
+      "EDID": "VMS49CommTerminal",
+      "FULL": "Terminal da Estação de Comunicações",
+      "DESC": "Bem-vinda, Veronica.",
+      "MENU": {
+        "ITXT": [
+          "Baixar Notas de Pesquisa"
+        ],
+        "RNAM": [
+          "Download... concluído."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B08E",
+      "FORMID": "14B08E",
+      "EDID": "Lucky38MrHouseTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Sr. House.",
+      "MENU": {
+        "ITXT": [
+          "Abrir Antessala.",
+          "Abrir Antessala."
+        ],
+        "RNAM": [
+          "Iniciando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B270",
+      "FORMID": "14B270",
+      "EDID": "Lucky38ControlTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Sr. House.",
+      "MENU": {
+        "ITXT": [
+          "Abrir Câmara LS.",
+          "Esterilizar Câmara LS.",
+          "Desativar Interface Cerebral."
+        ],
+        "RNAM": [
+          "Iniciando...",
+          "Iniciando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CD29",
+      "FORMID": "14CD29",
+      "EDID": "CampSearchlightNCRComm",
+      "FULL": "Terminal de Comunicações da NCR",
+      "DESC": "Terminal de Comunicações do Acampamento da República da Nova Califórniaem Searchlight #4",
+      "MENU": {
+        "ITXT": [
+          "Status das Comunicações",
+          "Entrada de Comunicações #842",
+          "Entrada de Comunicações #923",
+          "Entrada de Comunicações #937"
+        ],
+        "RNAM": [
+          "Todas as comunicações offline"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CD2A",
+      "FORMID": "14CD2A",
+      "EDID": "CampSearchlightCommNoNetwork",
+      "FULL": "Terminal de Comunicações da NCR Quebrado",
+      "DESC": "ERROR 0x03C663A1\n\"Conexão de rede não encontrada\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DC29",
+      "FORMID": "14DC29",
+      "EDID": "vHDUnlockedTerminal",
+      "FULL": "Terminal",
+      "DESC": "Segurança Desativada, portas destrancadas",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DC2A",
+      "FORMID": "14DC2A",
+      "EDID": "vHDLockedTerminal",
+      "FULL": "Terminal",
+      "DESC": "Bloqueio de segurança ativado. Insira a senha de acesso.",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E28A",
+      "FORMID": "14E28A",
+      "EDID": "V19OverseerWallTerminal",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura",
+          "Engatar Trava"
+        ],
+        "RNAM": [
+          "Acesso concedido, destravando...",
+          "Acesso concedido, ativando trava..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:157347",
+      "FORMID": "157347",
+      "EDID": "HouseToolsJennyTerminal",
+      "FULL": "Terminal",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail de Alan Dalton",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:157348",
+      "FORMID": "157348",
+      "EDID": "HouseToolsAlanTerminal",
+      "FULL": "Terminal",
+      "DESC": "H&H Tools, Inc.\n\"Construindo as coisas que você precisa para construir um amanhã melhor!\"\nTerminal de acesso de funcionários",
+      "MENU": {
+        "ITXT": [
+          "E-mail do RH 14\/05\/2020",
+          "E-mail de Jenny DeSoto",
+          "E-mail do RH 25\/07\/2022",
+          "E-mail do RH 11\/08\/2023"
+        ],
+        "RNAM": [
+          "Acessando",
+          "Acessando",
+          "Acessando",
+          "Acessando"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A157",
+      "FORMID": "15A157",
+      "EDID": "HVDatastoreWallTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede de Vale Oculto\n\nBem-vindo(a), usuário(a).",
+      "MENU": {
+        "ITXT": [
+          "Acessar Banco de Dados",
+          "Acessar Banco de Dados",
+          "Acessar Banco de Dados",
+          "Acessar Banco de Dados",
+          "Verificar isolamento",
+          "Verificar partição",
+          "Acessar Banco de Dados",
+          "Verificar isolamento",
+          "Verificar partição",
+          "Acessar Banco de Dados",
+          "Verificar isolamento",
+          "Verificar partição"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Acessando...",
+          "Acessando...",
+          "Acessando...",
+          "Isolamento confirmado.",
+          "Partição confirmada.",
+          "Acessando...",
+          "Isolamento confirmado.",
+          "Partição confirmada.",
+          "Acessando...",
+          "Isolamento confirmado.",
+          "Partição confirmada."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A158",
+      "FORMID": "15A158",
+      "EDID": "HVDatastoreVirusScreen01",
+      "FULL": "Terminal",
+      "DESC": "Ha ha, otários! Me peguem se forem capazes!",
+      "MENU": {
+        "ITXT": [
+          "Isolar vírus",
+          "Vírus de partição"
+        ],
+        "RNAM": [
+          "Isolando...",
+          "Particionando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A159",
+      "FORMID": "15A159",
+      "EDID": "HVDatastoreVirusScreen02",
+      "FULL": "Terminal",
+      "DESC": "Já encontrou os outros dois anfitriões?",
+      "MENU": {
+        "ITXT": [
+          "Isolar vírus.",
+          "Vírus de Partição"
+        ],
+        "RNAM": [
+          "Isolando...",
+          "Particionando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A15A",
+      "FORMID": "15A15A",
+      "EDID": "HVDatastoreVirusScreen03",
+      "FULL": "Terminal",
+      "DESC": "O relógio está correndo...",
+      "MENU": {
+        "ITXT": [
+          "Isolar vírus.",
+          "Vírus de Partição"
+        ],
+        "RNAM": [
+          "Isolando...",
+          "Particionando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A35B",
+      "FORMID": "15A35B",
+      "EDID": "V34MasterOverrideTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Boas-vindas, Supervisor(a)",
+      "MENU": {
+        "ITXT": [
+          "AVISO",
+          "Selar ventilação externa",
+          "Redirecionar o controle do cofre"
+        ],
+        "RNAM": [
+          "Closing external vents...",
+          "Transfering control to backup terminal..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C1A5",
+      "FORMID": "15C1A5",
+      "EDID": "Lucky38ControlTerminalWarning",
+      "FULL": "Terminal",
+      "DESC": ">\\ Atenção! Risco de Infecção Microbiana. Prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C1BB",
+      "FORMID": "15C1BB",
+      "EDID": "Lucky38ControlTerminalWarning2",
+      "FULL": "Terminal",
+      "DESC": ">\\ Aviso! Risco de Choque Letal se a Câmara LS Estiver Ocupada. Prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C1BC",
+      "FORMID": "15C1BC",
+      "EDID": "Lucky38ControlTerminalWarning3",
+      "FULL": "Terminal",
+      "DESC": ">\\ Atenção! O ocupante da câmara LS não poderá controlar os subsistemas. Prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D878",
+      "FORMID": "15D878",
+      "EDID": "Lucky38MrHouseTerminal02",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Sr. House.",
+      "MENU": {
+        "ITXT": [
+          "Destravar elevador da Sala de Controle.",
+          "Destravar elevador da Sala de Controle."
+        ],
+        "RNAM": [
+          "Iniciando...",
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECA6",
+      "FORMID": "15ECA6",
+      "EDID": "Lucky38SuiteUpgradeTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, visitante.",
+      "MENU": {
+        "ITXT": [
+          "Pacote de Melhorias?"
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECD7",
+      "FORMID": "15ECD7",
+      "EDID": "NellisArrayNoPowerTerminal",
+      "FULL": "Interface de Controle de Array",
+      "DESC": "ERRO #P38C4K\n\"Fonte de energia do gerador indisponível\"\n\"Verifique todos os cabos e plugues para conexão\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECD8",
+      "FORMID": "15ECD8",
+      "EDID": "NellisArrayTerminal",
+      "FULL": "Interface de Comando de Array",
+      "DESC": "-Base Aérea de Nellis-\nInterface de Comando da Usina Solar",
+      "MENU": {
+        "ITXT": [
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "Verificar Eficiência do Array",
+          "[Science 50] Otimizar Alinhamento de Matriz",
+          "[Science 50] Aperte um monte de botões"
+        ],
+        "RNAM": [
+          "Sistema operando com 75% de eficiência.",
+          "Conjunto operando com 80% de eficiência.",
+          "Matriz operando com 85% de eficiência.",
+          "Array operando a 90% de eficiência.",
+          "Matriz operando com 95% de eficiência.",
+          "Array operando a 100% de eficiência.",
+          "Matriz operando com 120% de eficiência.",
+          "Alinhamento de array otimizado."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECEF",
+      "FORMID": "15ECEF",
+      "EDID": "VMS38LucyTerminal",
+      "FULL": "Terminal da Lucy Escarlate",
+      "DESC": "Bem-vinda de volta, Srta. Red.",
+      "MENU": {
+        "ITXT": [
+          "O Painel de Controle Principal do The Thorn",
+          "O Livro-razão do Espinheiro.",
+          "Mensagens da Srta. Red."
+        ],
+        "RNAM": [
+          "... Acessando Dados.",
+          "... Acessando Dados.",
+          "... Mensagens Não Podem Ser Lidas."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F187",
+      "FORMID": "15F187",
+      "EDID": "VMS38LucyTerminalSubASubC",
+      "FULL": "Terminal da Lucy Escarlate",
+      "DESC": "Desligamento de Energia para Manutenção.\n\nDesligar Energia das Jaulas de Criaturas (S\/N)?",
+      "MENU": {
+        "ITXT": [
+          "Sim.",
+          "Não."
+        ],
+        "RNAM": [
+          "... Desligando a Energia das Jaulas das Criaturas.",
+          "... Retornando ao Mainframe."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F188",
+      "FORMID": "15F188",
+      "EDID": "VMS38LucyTerminalSubA",
+      "FULL": "Terminal da Lucy Escarlate",
+      "DESC": "Controles do Mainframe do The Thorn.",
+      "MENU": {
+        "ITXT": [
+          "Status do Fluxo de Energia",
+          "Status da Jaula de Criaturas.",
+          "Desligamento de Energia para Manutenção."
+        ],
+        "RNAM": [
+          "... Fornecimento de eletricidade com 74% da capacidade.",
+          "... Acesso à Jaula Garantido.",
+          "... Acessando Opções."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F52D",
+      "FORMID": "15F52D",
+      "EDID": "NellisArrayBrokenTerminal",
+      "FULL": "Interface de Controle de Array",
+      "DESC": "ERRO #K1\n\"Matriz danificada ou desconectada\"\n\"Verifique todos os cabos e plugues quanto à conexão\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8C7",
+      "FORMID": "15F8C7",
+      "EDID": "Lucky38MrHouseTerminal03",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Sr. House.",
+      "MENU": {
+        "ITXT": [
+          "Ignorar Segurança."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD56",
+      "FORMID": "15FD56",
+      "EDID": "HVLorenzoTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Vale Oculto\n\nBem-vindo, Lorenzo.\n\nExibindo os três últimos arquivos acessados.",
+      "MENU": {
+        "ITXT": [
+          "Entrada de Diário 745",
+          "Entrada de Diário 746",
+          "Entrada no Diário 747"
+        ],
+        "RNAM": [
+          "Carregando documento...",
+          "Carregando documento...",
+          "Carregando documento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD5F",
+      "FORMID": "15FD5F",
+      "EDID": "HVDatastoreScreenMainmenuTerminal",
+      "FULL": "Terminal",
+      "DESC": "Datastore de Vale Oculto\n\n> Restrições de acesso confirmadas.\n\n>Selecione um tópico que deseja examinar:",
+      "MENU": {
+        "ITXT": [
+          "Informações do Bunker",
+          "Incidentes de Dispensa do Ancião",
+          "Corrente Que Prende"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Acessando...",
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD60",
+      "FORMID": "15FD60",
+      "EDID": "HVDatastoreScreenBunkerMenu",
+      "DESC": "Vale Oculto Datastore\nInformações do Bunker\n\n>Selecione um tópico que deseja consultar:",
+      "MENU": {
+        "ITXT": [
+          "Objetivos do Projeto: Vale Oculto",
+          "Visão Geral dos Sistemas"
+        ],
+        "RNAM": [
+          "Acessando...",
+          "Acessando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FF72",
+      "FORMID": "15FF72",
+      "EDID": "Lucky38CGTerminal02",
+      "FULL": "Terminal",
+      "DESC": "Sistema Online",
+      "MENU": {
+        "ITXT": [
+          "Override Executivo do Lucky 38."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632DB",
+      "FORMID": "1632DB",
+      "EDID": "HVDatastoreElderInfoMenuTerminal",
+      "FULL": "Terminal",
+      "DESC": "Banco de Dados de Vale Oculto\n\n> A busca por \"Dispensa+Ancião\" no tópico Histórico retornou os seguintes resultados.\n\n> Escolha um resultado:",
+      "MENU": {
+        "ITXT": [
+          "Incidente #1",
+          "Incidente #2",
+          "Incidente #3",
+          "Incidente #4"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632DC",
+      "FORMID": "1632DC",
+      "EDID": "HVDatastoreElderIncident01Terminal",
+      "FULL": "Terminal",
+      "DESC": "Vale Oculto - Armazenamento de Dados\n\n> Que fique registrado que neste dia, 23 de abril de 2237, Raymond Lorn foi destituído de seu cargo de Ancião por cometer o crime de assassinato. Era sabido que o Irmão Lorn nutria sentimentos hostis em relação à vítima, o Escriba Sênior Ritter. O culpado insiste que a morte de Ritter foi um caso trágico de fogo amigo (o bunker estava sob ataque na época), mas o tribunal sentiu que não podia deixá-lo persistir como Ancião com tal suspeita pairando sobre ele."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632DD",
+      "FORMID": "1632DD",
+      "EDID": "HVDatastoreElderIncident02Terminal",
+      "FULL": "Terminal",
+      "DESC": "Banco de Dados de Vale Oculto\n\n> Que seja sabido que, a partir deste dia, 7 de outubro de 2259, Kenneth Jones não mais deterá o título de Ancião. O Irmão Jones foi intencionalmente contra a Corrente Que Une e foi forçado a renunciar. O Chefe Paladino Lindquist o sucede como Ancião."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632DE",
+      "FORMID": "1632DE",
+      "EDID": "HVDatastoreElderIncident03Terminal",
+      "FULL": "Terminal",
+      "DESC": "Datastore de Vale Oculto\n\n> Que conste nos registros que testemunhei a demissão de David James do posto de Ancião hoje, 17 de março de 2265. O Irmão James foi acusado de destruir um dispositivo desconhecido recuperado de uma expedição recente. O propósito e a função do dispositivo permanecem desconhecidos, e o Irmão James até agora se mostrou indisposto a discutir o assunto com ninguém."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632DF",
+      "FORMID": "1632DF",
+      "EDID": "HVDatastoreChainInfoTerminal",
+      "FULL": "Terminal",
+      "DESC": "Banco de Dados de Vale Oculto\n\n> A Corrente Que Une é a pedra fundamental da nossa organização, a rocha que sustenta a grande árvore da Irmandade do Aço e seus inúmeros galhos. Ela determina que:\n\n1. Ordens devem fluir do alto para baixo através das patentes. Uma ordem de um superior deve sempre ser obedecida, para que sua sabedoria seja executada sem hesitação.\n\n2. Ordens devem observar o fluxo e não pular patentes. Um superior só pode dar ordens aos seus subordinados diretos, e não àqueles abaixo deles. Desta forma, a harmonia de intenção e a coesão de pensamento são mantidas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632E3",
+      "FORMID": "1632E3",
+      "EDID": "V22HiddenValleyFilterWallTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede Interlaboratorial da Vault 22, Sistema Principal de Reciclagem de Oxigênio\n\nAviso: Diagnóstico do sistema mostra que a memória foi corrompida.",
+      "MENU": {
+        "ITXT": [
+          "Verificar inventário"
+        ],
+        "RNAM": [
+          "Obtendo informações do inventário..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:163E4C",
+      "FORMID": "163E4C",
+      "EDID": "CrimsonCaravanTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Proposta da Filial de Nova Canaã",
+          "RE: Henry Jamison",
+          "Tarifa dos Contrabandistas de Armas",
+          "Esforço de Guerra"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E0",
+      "FORMID": "1645E0",
+      "EDID": "HVSelfDestructConfirmTerminal",
+      "DESC": "Rede do Vale Oculto\n\nTem certeza de que deseja iniciar a sequência de autodestruição?",
+      "MENU": {
+        "ITXT": [
+          "Sim.",
+          "Não."
+        ],
+        "RNAM": [
+          "Confirmando...",
+          "Confirmando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E1",
+      "FORMID": "1645E1",
+      "EDID": "HVSelfDestructPasswordTerminal",
+      "FULL": "Terminal de Autorização de Autodestruição",
+      "DESC": "Rede de Vale Oculto\n\nPor ordem do Ancião McNamara, ativar a sequência de autodestruição do bunker requer o consentimento do Escriba Chefe, do Paladino Chefe e do Ancião do capítulo.\n\nCada um desses Irmãos recebeu um cartão-chave para ser apresentado em caso de emergência. Quando os três cartões-chave forem inseridos abaixo, a senha para o terminal de autodestruição à direita será gerada.\n\nPor favor, relate imediatamente qualquer cartão-chave perdido ou roubado.",
+      "MENU": {
+        "ITXT": [
+          "Gerar senha de autodestruição",
+          "Gerar senha de autodestruição"
+        ],
+        "RNAM": [
+          "Gerando...",
+          "Por favor, insira todos os três cartões-chave abaixo."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645E2",
+      "FORMID": "1645E2",
+      "EDID": "HVSelfDestructTerminal",
+      "FULL": "Terminal de Autodestruição",
+      "DESC": "Rede de Vale Oculto\n\nBem-vindo ao Sistema de Autodestruição de Vale Oculto.",
+      "MENU": {
+        "ITXT": [
+          "Iniciar sequência de autodestruição do bunker",
+          "Abortar sequência de autodestruição"
+        ],
+        "RNAM": [
+          "Note: Need to implement this - Taggart"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:164B0E",
+      "FORMID": "164B0E",
+      "EDID": "Lucky38MrHouseTerminal04",
+      "FULL": "Terminal",
+      "DESC": ">\\ Atenção! Usuário não autorizado! Prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:164B0F",
+      "FORMID": "164B0F",
+      "EDID": "Lucky38MrHouseTerminal05",
+      "FULL": "Terminal",
+      "DESC": ">\\ Atenção! Usuário não autorizado! Prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim."
+        ],
+        "RNAM": [
+          "Iniciando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B32",
+      "FORMID": "166B32",
+      "EDID": "CampSearchlightFireChief",
+      "FULL": "Terminal do Chefe dos Bombeiros",
+      "DESC": "Terminal do Chefe dos Bombeiros",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Chefe dos Bombeiros nº F1-218"
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B51",
+      "FORMID": "166B51",
+      "EDID": "HVTurretTerminal",
+      "FULL": "Terminal de Controle da Torreta",
+      "DESC": "Rede de Vale Oculto\n\nSistema de Controle de Torretes",
+      "MENU": {
+        "ITXT": [
+          "Desativar Terminais",
+          "Alterar parâmetros de mira"
+        ],
+        "RNAM": [
+          "Desativando...",
+          "Mudando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B52",
+      "FORMID": "166B52",
+      "EDID": "HVTurretTargetingMainTerminal",
+      "FULL": "Terminal de Controle da Torreta",
+      "DESC": "Rede de Vale Oculto\n\nSistema de Controle de Torretes",
+      "MENU": {
+        "ITXT": [
+          "Definir alvos permitidos"
+        ],
+        "RNAM": [
+          "Configurando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B53",
+      "FORMID": "166B53",
+      "EDID": "HVTurretTargetingAllowedTerminal",
+      "FULL": "Terminal de Controle da Torreta",
+      "DESC": "Rede de Vale Oculto\n\nSistema de Controle de Torre\n\nEscolha os alvos permitidos. Apenas as entradas armazenadas podem ser escolhidas:",
+      "MENU": {
+        "ITXT": [
+          "Pessoal da Irmandade Registrado",
+          "Todo o pessoal não registrado"
+        ],
+        "RNAM": [
+          "Redefinindo parâmetros de mira...",
+          "Redefinindo parâmetros de mira..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B54",
+      "FORMID": "166B54",
+      "EDID": "HVRamosTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede de Vale Oculto\n\nBem-vindo, Paladino Ramos.\n\nExibindo os três últimos arquivos acessados.",
+      "MENU": {
+        "ITXT": [
+          "Ler Diário 651",
+          "Ler Diário 652",
+          "Ler Diário 653",
+          "Ler Diário 653",
+          "Ler Diário 653"
+        ],
+        "RNAM": [
+          "Carregando documento...",
+          "Carregando documento...",
+          "Carregando documento...",
+          "Carregando documento...",
+          "Carregando documento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B55",
+      "FORMID": "166B55",
+      "EDID": "HVSchulerTerminal",
+      "FULL": "Terminal",
+      "DESC": "Exibindo os três últimos arquivos acessados.",
+      "MENU": {
+        "ITXT": [
+          "Entrada no Diário 01",
+          "Anotação no Diário 260",
+          "Entrada do Diário 261"
+        ],
+        "RNAM": [
+          "Carregando documento...",
+          "Carregando documento...",
+          "Carregando documento..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B56",
+      "FORMID": "166B56",
+      "EDID": "VHDStealthSuitTerminal",
+      "FULL": "Terminal",
+      "MENU": {
+        "ITXT": [
+          "Relatório Inicial de Inventário",
+          "Não Tenho Ideia Do Que São",
+          "Ótimo. Simplesmente ótimo."
+        ],
+        "RNAM": [
+          "Carregando...",
+          "Carregando...",
+          "Carregando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:1672C6",
+      "FORMID": "1672C6",
+      "EDID": "NellisArrayTerminalCompleted",
+      "FULL": "Interface de Comando de Array",
+      "DESC": "Array otimizado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A228",
+      "FORMID": "16A228",
+      "EDID": "V03InventoryTerminal",
+      "FULL": "Terminal",
+      "DESC": "Trent Meyer",
+      "MENU": {
+        "ITXT": [
+          "Peças"
+        ],
+        "RNAM": [
+          "Mensagem de Abertura..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B79F",
+      "FORMID": "17B79F",
+      "EDID": "P04CompanionFireTerminalSub",
+      "DESC": "Uma mensagem será enviada a todos os seus companheiros atuais, onde quer que estejam, para que retornem para casa.\n\nTem certeza de que deseja fazer isso?",
+      "MENU": {
+        "ITXT": [
+          "Não.",
+          "Sim."
+        ],
+        "RNAM": [
+          "Notification sent..."
+        ]
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B7A0",
+      "FORMID": "17B7A0",
+      "EDID": "P04CompanionFireTerminal",
+      "FULL": "Terminal de Dispensa de Companheiro",
+      "DESC": "Bem-vindo, Mensageiro.",
+      "MENU": {
+        "ITXT": [
+          "Dispensar todos os companheiros."
+        ],
+        "RNAM": [
+          "Acessando menu de confirmação..."
+        ]
+      }
+    }
+  ]
+}

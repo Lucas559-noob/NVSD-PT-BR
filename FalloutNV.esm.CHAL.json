@@ -1,0 +1,739 @@
+{
+  "CHAL": [
+    {
+      "FORM": "@FalloutNV.esm:15EAE5",
+      "FORMID": "15EAE5",
+      "EDID": "NVChallengeDrWaste",
+      "FULL": "Dr. Baldio, M.D.",
+      "DESC": "Use maletas de médico."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE6",
+      "FORMID": "15EAE6",
+      "EDID": "NVChallengeQuestin",
+      "FULL": "Ponto de Interrogação",
+      "DESC": "Conclua Missões."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE7",
+      "FORMID": "15EAE7",
+      "EDID": "NVChallengeMissFort",
+      "FULL": "Filho(a) da Boa Fortuna",
+      "DESC": "Aparições da Dama do Infortúnio."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE8",
+      "FORMID": "15EAE8",
+      "EDID": "NVChallengeMysterious",
+      "FULL": "Ele Se Move de Maneiras Misteriosas",
+      "DESC": "Aparições do Forasteiro Misterioso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE9",
+      "FORMID": "15EAE9",
+      "EDID": "NVChallengeLimber",
+      "FULL": "Jack Flexível",
+      "DESC": "Aleijar membros."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAEA",
+      "FORMID": "15EAEA",
+      "EDID": "NVChallengeTough",
+      "FULL": "Macho Alfa",
+      "DESC": "Tenha seus próprios membros aleijados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAEB",
+      "FORMID": "15EAEB",
+      "EDID": "NVChallengePerception",
+      "FULL": "Uma Questão de Percepção",
+      "DESC": "Aleijar cabeças de inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAEC",
+      "FORMID": "15EAEC",
+      "EDID": "NVChallengeHeart",
+      "FULL": "Uma Questão de Coração",
+      "DESC": "Aleijar torsos de inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAED",
+      "FORMID": "15EAED",
+      "EDID": "NVChallengeLefty",
+      "FULL": "Eu Não Sou Ambidestro",
+      "DESC": "Aleija o braço direito dos inimigos (ou equivalente)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAEE",
+      "FORMID": "15EAEE",
+      "EDID": "NVChallengeNotSoClose",
+      "FULL": "Não Tão de Perto",
+      "DESC": "Mate inimigos com armas de arremesso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAEF",
+      "FORMID": "15EAEF",
+      "EDID": "NVChallengeKnocked",
+      "FULL": "Caindo aos Pedaços",
+      "DESC": "Derrubar inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF0",
+      "FORMID": "15EAF0",
+      "EDID": "NVChallengeFast",
+      "FULL": "Tempos Rápidos",
+      "DESC": "Usar Turbo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF1",
+      "FORMID": "15EAF1",
+      "EDID": "NVChallengeRadical",
+      "FULL": "Radical",
+      "DESC": "Use Rad-X."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF2",
+      "FORMID": "15EAF2",
+      "EDID": "NVChallengeFreeRadical",
+      "FULL": "Radical Livre",
+      "DESC": "Use Rad-X."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF3",
+      "FORMID": "15EAF3",
+      "EDID": "NVChallengeCrafty",
+      "FULL": "Habilidoso",
+      "DESC": "Crie itens em uma Bancada de Trabalho, Fogueira, Bancada de Recarga ou em outro lugar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF4",
+      "FORMID": "15EAF4",
+      "EDID": "NVChallengeCraftyVet",
+      "FULL": "Veterano Sagaz",
+      "DESC": "Crie mais itens em uma Bancada de Trabalho, Fogueira, Bancada de Recarga ou em outro lugar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF5",
+      "FORMID": "15EAF5",
+      "EDID": "NVChallengeMod",
+      "FULL": "Tudo em Modder Nation",
+      "DESC": "Aplicar mods às armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF6",
+      "FORMID": "15EAF6",
+      "EDID": "NVChallengeDismember",
+      "FULL": "Eu Desmembro Você",
+      "DESC": "Desmembrar membros."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF7",
+      "FORMID": "15EAF7",
+      "EDID": "NVChallengeBeam",
+      "FULL": "Me Teletransporte (Arma)",
+      "DESC": "Infligir dano com armas de energia com coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF8",
+      "FORMID": "15EAF8",
+      "EDID": "NVChallengeNotADrop",
+      "FULL": "...E Nem Uma Gota Para Beber",
+      "DESC": "Itens de água potável."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAF9",
+      "FORMID": "15EAF9",
+      "EDID": "NVChallengeRepair",
+      "FULL": "Consertando Coisas",
+      "DESC": "Repare itens no seu inventário por conta própria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFA",
+      "FORMID": "15EAFA",
+      "EDID": "NVChallengeCriticalReaction",
+      "FULL": "Reação Crítica",
+      "DESC": "Cause acertos críticos com armas de energia de coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFB",
+      "FORMID": "15EAFB",
+      "EDID": "NVChallengeLetsGetCritical",
+      "FULL": "Vamos Detonar",
+      "DESC": "Cause acertos críticos com armas de energia de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFC",
+      "FORMID": "15EAFC",
+      "EDID": "NVChallengeShootemUp",
+      "FULL": "Atire neles",
+      "DESC": "Mate inimigos com armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFD",
+      "FORMID": "15EAFD",
+      "EDID": "NVChallengeShootemUpAgain",
+      "FULL": "Atire Neles de Novo",
+      "DESC": "Mate inimigos com armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFE",
+      "FORMID": "15EAFE",
+      "EDID": "NVChallengeApple",
+      "FULL": "Você Errou a Maçã",
+      "DESC": "Cause dano na cabeça de inimigos com rifles Guns não automáticos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAFF",
+      "FORMID": "15EAFF",
+      "EDID": "NVChallengeEyeOut",
+      "FULL": "Arranca o Olho Dele",
+      "DESC": "Cause dano à cabeça de inimigos com armas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB00",
+      "FORMID": "15EB00",
+      "EDID": "NVChallengeLucky",
+      "FULL": "Atirador Sortudo",
+      "DESC": "Cause dano nas cabeças dos inimigos com armas de fogo de punho de rifle automático."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB01",
+      "FORMID": "15EB01",
+      "EDID": "NVChallengeDisint",
+      "FULL": "... E Conheça as Desintegrações",
+      "DESC": "Desintegre inimigos com armas de laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB02",
+      "FORMID": "15EB02",
+      "EDID": "NVChallengeEnergetic",
+      "FULL": "Enérgico",
+      "DESC": "Mate inimigos com armas de energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB03",
+      "FORMID": "15EB03",
+      "EDID": "NVChallengeMoreEnergetic",
+      "FULL": "Mais Energético",
+      "DESC": "Mate mais inimigos com armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB04",
+      "FORMID": "15EB04",
+      "EDID": "NVChallengeConditionCritical",
+      "FULL": "Condição Crítica",
+      "DESC": "Acerte Pontos Críticos com armas de coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB05",
+      "FORMID": "15EB05",
+      "EDID": "NVChallengeLittleCrit",
+      "FULL": "Um Pouco Crítico",
+      "DESC": "Cause acertos críticos com pistolas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB06",
+      "FORMID": "15EB06",
+      "EDID": "NVChallengeShotgun",
+      "FULL": "Eu Tenho Uma Escopeta",
+      "DESC": "Causar dano com escopetas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB07",
+      "FORMID": "15EB07",
+      "EDID": "NVChallengeSqueezy",
+      "FULL": "O Grande Squeezy",
+      "DESC": "Infligir dano com armas de fogo com coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB08",
+      "FORMID": "15EB08",
+      "EDID": "NVChallengeMachinegun",
+      "FULL": "Clique",
+      "DESC": "Cause dano com qualquer submetralhadora, a metralhadora leve ou a minigun."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB09",
+      "FORMID": "15EB09",
+      "EDID": "NVChallengeKaboom",
+      "FULL": "Kaboom",
+      "DESC": "Mate inimigos com Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0A",
+      "FORMID": "15EB0A",
+      "EDID": "NVChallengeKaboomPow",
+      "FULL": "Cabum-cabum-pau",
+      "DESC": "Mate mais inimigos com Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0B",
+      "FORMID": "15EB0B",
+      "EDID": "NVChallengeUsingThat",
+      "FULL": "Você estava usando isso?",
+      "DESC": "Desative os membros dos inimigos com armas corpo a corpo de duas mãos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0C",
+      "FORMID": "15EB0C",
+      "EDID": "NVChallengeHappyToSee",
+      "FULL": "...Ou Está Só Feliz em Me Ver?",
+      "DESC": "Explode as calças do inimigo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0D",
+      "FORMID": "15EB0D",
+      "EDID": "NVChallengeBlind",
+      "FULL": "Você vai cegar alguém.",
+      "DESC": "Cause dano à cabeça de inimigos com Armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0E",
+      "FORMID": "15EB0E",
+      "EDID": "NVChallengeLaserFun",
+      "FULL": "Configure os Lasers para a Diversão",
+      "DESC": "Cause dano a inimigos com armas laser de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB0F",
+      "FORMID": "15EB0F",
+      "EDID": "NVChallengeGrenade",
+      "FULL": "Tenho Que Te Dar Uma Granada de Mão",
+      "DESC": "Causa dano com minas e granadas arremessadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB10",
+      "FORMID": "15EB10",
+      "EDID": "NVChallengeAimingOptional",
+      "FULL": "Mira Opcional",
+      "DESC": "Causar dano com lançadores de Explosivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB11",
+      "FORMID": "15EB11",
+      "EDID": "NVChallengeDisarm",
+      "FULL": "Personalidade Desarmante",
+      "DESC": "Desarmar minas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB12",
+      "FORMID": "15EB12",
+      "EDID": "NVChallengeUpClose",
+      "FULL": "De Perto",
+      "DESC": "Mate inimigos com armas brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB13",
+      "FORMID": "15EB13",
+      "EDID": "NVChallengeUpCloser",
+      "FULL": "Mais Perto",
+      "DESC": "Mate inimigos com armas brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB14",
+      "FORMID": "15EB14",
+      "EDID": "NVChallengeTwoHands",
+      "FULL": "Duas Mãos São Melhores Que Uma",
+      "DESC": "Infligir dano com Armas Brancas de duas mãos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB15",
+      "FORMID": "15EB15",
+      "EDID": "NVChallengeOneHand",
+      "FULL": "Eu Faço Isso Com Uma Mão Amarrada Nas Costas",
+      "DESC": "Mate inimigos com armas brancas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB17",
+      "FORMID": "15EB17",
+      "EDID": "NVChallengeThisHack",
+      "FULL": "Isto é Hacking",
+      "DESC": "Cause acertos críticos com armas corpo a corpo de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB18",
+      "FORMID": "15EB18",
+      "EDID": "NVChallengeFistful",
+      "FULL": "Por uns Trocados a Mais",
+      "DESC": "Mate inimigos usando armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB19",
+      "FORMID": "15EB19",
+      "EDID": "NVChallengeMoreHollars",
+      "FULL": "Por Mais Uns Trocados",
+      "DESC": "Mate inimigos usando armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1A",
+      "FORMID": "15EB1A",
+      "EDID": "NVChallengeDestroyBeauty",
+      "FULL": "Destruir Algo Não Tão Bonito",
+      "DESC": "Causar dano com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1B",
+      "FORMID": "15EB1B",
+      "EDID": "NVChallengeAndBoy",
+      "FULL": "...E como meus braços estão moídos",
+      "DESC": "Causar dano com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1C",
+      "FORMID": "15EB1C",
+      "EDID": "NVChallengeGoForEyes",
+      "FULL": "Mire nos Olhos",
+      "DESC": "Cause dano nas cabeças dos inimigos com armas de Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1D",
+      "FORMID": "15EB1D",
+      "EDID": "NVChallengeLethalWeapons",
+      "FULL": "Armas Letais",
+      "DESC": "Faça 100 acertos críticos com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1E",
+      "FORMID": "15EB1E",
+      "EDID": "NVChallengeGutCheck",
+      "FULL": "Verificador de Tripas",
+      "DESC": "Desativar torsos de inimigos com armas de combate desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB1F",
+      "FORMID": "15EB1F",
+      "EDID": "NVChallengeStarts",
+      "FULL": "Cheio de Estrelas",
+      "DESC": "Aleije a cabeça dos inimigos com armas de Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB20",
+      "FORMID": "15EB20",
+      "EDID": "NVChallengeBug",
+      "FULL": "Esmaga-Insetos",
+      "DESC": "Matar Insetos Mutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB21",
+      "FORMID": "15EB21",
+      "EDID": "NVChallengeMutantMassacre",
+      "FULL": "Massacre de Supermutantes",
+      "DESC": "Mate Supermutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB22",
+      "FORMID": "15EB22",
+      "EDID": "NVChallengeDemiseMachine",
+      "FULL": "A Queda das Máquinas",
+      "DESC": "Mate inimigos robôs."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB23",
+      "FORMID": "15EB23",
+      "EDID": "NVChallengeAbom",
+      "FULL": "Abominável",
+      "DESC": "Mate as Abominações."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB24",
+      "FORMID": "15EB24",
+      "EDID": "NVChallengeAnimalControl",
+      "FULL": "Controle Animal",
+      "DESC": "Mate Animais Mutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB25",
+      "FORMID": "15EB25",
+      "EDID": "NVChallengeDineDash",
+      "FULL": "Coma e Vaze",
+      "DESC": "Coma cadáveres."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB26",
+      "FORMID": "15EB26",
+      "EDID": "NVChallengeDevourer",
+      "FULL": "Devorador de Nações",
+      "DESC": "Coma mais corpos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB27",
+      "FORMID": "15EB27",
+      "EDID": "NVChallengeLordDeath",
+      "FULL": "Lorde Morte",
+      "DESC": "Mate qualquer coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB28",
+      "FORMID": "15EB28",
+      "EDID": "NVChallengeMurder",
+      "FULL": "Lorde da Morte da Montanha do Assassinato",
+      "DESC": "Mate qualquer coisa (só mais deles)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB29",
+      "FORMID": "15EB29",
+      "EDID": "NVChallengeApocalypse",
+      "FULL": "Apocalipse Não Chega Nem Perto",
+      "DESC": "Mate qualquer coisa (e praticamente tudo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2A",
+      "FORMID": "15EB2A",
+      "EDID": "NVChallengeDayTripper",
+      "FULL": "Viajante de Primeira",
+      "DESC": "Use estimulantes viciantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2B",
+      "FORMID": "15EB2B",
+      "EDID": "NVChallengeStop",
+      "FULL": "Eu Posso Parar Quando Eu Quiser",
+      "DESC": "Use mais drogas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2C",
+      "FORMID": "15EB2C",
+      "EDID": "NVChallengeGlow",
+      "FULL": "Brilho Saudável",
+      "DESC": "Invadir terminais de computador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2D",
+      "FORMID": "15EB2D",
+      "EDID": "NVChallengeHax",
+      "FULL": "H4x Supr3m3",
+      "DESC": "Hackeie mais terminais de computador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2E",
+      "FORMID": "15EB2E",
+      "EDID": "NVChallengeLocks",
+      "FULL": "Fechaduras, que se dane",
+      "DESC": "Abrir fechaduras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB2F",
+      "FORMID": "15EB2F",
+      "EDID": "NVChallengeLowTech",
+      "FULL": "Hacking de Baixa Tecnologia",
+      "DESC": "Abrir fechaduras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB30",
+      "FORMID": "15EB30",
+      "EDID": "NVChallengeSirTalk",
+      "FULL": "Senhor Fala-pra-Caralho",
+      "DESC": "Obtenha sucessos de Oratória."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB31",
+      "FORMID": "15EB31",
+      "EDID": "NVChallengeWords",
+      "FULL": "Sem Saber o Que Dizer",
+      "DESC": "Obtenha falhas em Oratória."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB32",
+      "FORMID": "15EB32",
+      "EDID": "NVChallengeLie",
+      "FULL": "Talvez seja mentira",
+      "DESC": "Viciar (de novo e de novo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB33",
+      "FORMID": "15EB33",
+      "EDID": "NVChallengeExplore",
+      "FULL": "Andarilho(a) do Mojave",
+      "DESC": "Descubra locais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB34",
+      "FORMID": "15EB34",
+      "EDID": "NVChallengeVault11",
+      "FULL": "Encontre o Vault 11",
+      "DESC": "Encontre o Vault 11."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB35",
+      "FORMID": "15EB35",
+      "EDID": "NVChallengeVault19",
+      "FULL": "Encontre o Vault 19",
+      "DESC": "Encontre o Vault 19."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB36",
+      "FORMID": "15EB36",
+      "EDID": "NVChallengeChallenge",
+      "FULL": "À Altura do Desafio",
+      "DESC": "Complete desafios."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB37",
+      "FORMID": "15EB37",
+      "EDID": "NVChallengeRifleman",
+      "FULL": "O Rifleiro",
+      "DESC": "Mate inimigos com armas de coronha de rifle."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB38",
+      "FORMID": "15EB38",
+      "EDID": "NVChallengePoint",
+      "FULL": "Só Apontar e Clicar",
+      "DESC": "Use qualquer arma grande de duas mãos para matar inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB39",
+      "FORMID": "15EB39",
+      "EDID": "NVChallengeOrbit",
+      "FULL": "Que se foda, vamos tacar uma bomba.",
+      "DESC": "Use qualquer arma montada no ombro para matar inimigos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3A",
+      "FORMID": "15EB3A",
+      "EDID": "NVChallengeKillOne",
+      "FULL": "Eu Mato Você Com Uma Mão Só",
+      "DESC": "Mate inimigos com armas de uma mão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3B",
+      "FORMID": "15EB3B",
+      "EDID": "NVChallengeVault22",
+      "FULL": "Encontre o Vault 22",
+      "DESC": "Encontre o Vault 22."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3C",
+      "FORMID": "15EB3C",
+      "EDID": "NVChallengeVault3",
+      "FULL": "Encontre o Vault 3",
+      "DESC": "Encontre o Vault 3."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3D",
+      "FORMID": "15EB3D",
+      "EDID": "NVChallengeVault34",
+      "FULL": "Encontre o Vault 34",
+      "DESC": "Encontre o Vault 34."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB3E",
+      "FORMID": "15EB3E",
+      "EDID": "NVChallengeSimpak",
+      "FULL": "Viciado em Stimpaks",
+      "DESC": "Use stimpaks."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165771",
+      "FORMID": "165771",
+      "EDID": "NVChallengeBarter",
+      "FULL": "Você Que Manda Em Barter Town",
+      "DESC": "Venda itens por meio de Troca."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165772",
+      "FORMID": "165772",
+      "EDID": "NVChallengeStimAmount",
+      "FULL": "Stim-ply Incrível",
+      "DESC": "Cura dano com stimpaks."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165773",
+      "FORMID": "165773",
+      "EDID": "NVChallengeSurvival",
+      "FULL": "Sobrevivente do Deserto",
+      "DESC": "Cure-se com comida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165774",
+      "FORMID": "165774",
+      "EDID": "NVChallengeBandit",
+      "FULL": "Caça-Níquel",
+      "DESC": "Jogue nos caça-níqueis."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165775",
+      "FORMID": "165775",
+      "EDID": "NVChallengeBlackjack",
+      "FULL": "Dobrar a Aposta",
+      "DESC": "Jogar blackjack."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165776",
+      "FORMID": "165776",
+      "EDID": "NVChallengeRoulette",
+      "FULL": "Rodinha",
+      "DESC": "Jogue jogos de roleta."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165777",
+      "FORMID": "165777",
+      "EDID": "NVChallengeCaravanWin",
+      "FULL": "Saiba a Hora de Segurar",
+      "DESC": "Vença no Caravan."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165778",
+      "FORMID": "165778",
+      "EDID": "NVChallengeCaravanLost",
+      "FULL": "Saiba a Hora de Desistir",
+      "DESC": "Perder no Caravan."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E2",
+      "FORMID": "1690E2",
+      "EDID": "NVChallengeSamurai",
+      "FULL": "Samurai de New Vegas",
+      "DESC": "Causar dano com armas brancas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E3",
+      "FORMID": "1690E3",
+      "EDID": "NVChallengeLoveBomb",
+      "FULL": "Amo a Bomba",
+      "DESC": "Cause dano com armas explosivas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E4",
+      "FORMID": "1690E4",
+      "EDID": "NVChallengeBlasterMaster",
+      "FULL": "Mestre Blaster",
+      "DESC": "Cause dano com armas de Energia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E5",
+      "FORMID": "1690E5",
+      "EDID": "NVChallengeLeadDeal",
+      "FULL": "Traficante de Chumbo",
+      "DESC": "Cause dano com armas de Armas de Fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E6",
+      "FORMID": "1690E6",
+      "EDID": "NVChallengeMojaveMaster",
+      "FULL": "Mestre do Mojave",
+      "DESC": "Descobrir mais lugares."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E7",
+      "FORMID": "1690E7",
+      "EDID": "NVChallengeArtful",
+      "FULL": "Batedor de Carteiras Habilidoso",
+      "DESC": "Batedor de Carteiras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690E8",
+      "FORMID": "1690E8",
+      "EDID": "NVChallengeOldTyme",
+      "FULL": "Briguento à Moda Antiga",
+      "DESC": "Cause dano com armas Desarmadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16BA4E",
+      "FORMID": "16BA4E",
+      "EDID": "NVChallengeCaravanMaster",
+      "FULL": "Saiba a Hora de Segurar",
+      "DESC": "Vença no Caravan."
+    }
+  ]
+}

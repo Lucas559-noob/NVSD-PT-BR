@@ -1,0 +1,784 @@
+{
+  "CREA": [
+    {
+      "FORM": "@Fallout3.esm:003AD8",
+      "FORMID": "003AD8",
+      "EDID": "MS12FeralGhoul1A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CA037",
+      "FORMID": "0CA037",
+      "EDID": "FFEU58Brahmin",
+      "FULL": "Brahmin Louco"
+    },
+    {
+      "FORM": "@Fallout3.esm:06A901",
+      "FORMID": "06A901",
+      "EDID": "MQ05TunnelBot",
+      "FULL": "Eyebot da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB6",
+      "FORMID": "027FB6",
+      "EDID": "MS06SuperMutantMeleeDEAD",
+      "FULL": "Super Mutant Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB4",
+      "FORMID": "027FB4",
+      "EDID": "MS06SuperMutantGunDEAD",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB3",
+      "FORMID": "027FB3",
+      "EDID": "CrSuperMutant2GunA",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E6",
+      "FORMID": "0B05E6",
+      "EDID": "LvlSupermutantGunDISMEMBERNOAMMO",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E5",
+      "FORMID": "0B05E5",
+      "EDID": "LvlSupermutantMeleeDISMEMBERNOAMMO",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:03181D",
+      "FORMID": "03181D",
+      "EDID": "MS04CrQueenAnt",
+      "FULL": "Formiga Rainha Marigold"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E4",
+      "FORMID": "0B05E4",
+      "EDID": "LvlSupermutantMeleeDISMEMBER",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B05E3",
+      "FORMID": "0B05E3",
+      "EDID": "LvlSupermutantGunDISMEMBER",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:027FB2",
+      "FORMID": "027FB2",
+      "EDID": "CrSuperMutant3MinigunA",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:023B56",
+      "FORMID": "023B56",
+      "EDID": "DeadSuperMutant1GunNOAMMO",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09FAFB",
+      "FORMID": "09FAFB",
+      "EDID": "CrFeralGhoul2A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:09FAFA",
+      "FORMID": "09FAFA",
+      "EDID": "CrFeralGhoul1A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9D1",
+      "FORMID": "05F9D1",
+      "EDID": "CrSentryBotMGEnclave",
+      "FULL": "Robô sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CC",
+      "FORMID": "05F9CC",
+      "EDID": "CrSentryBotMGSteel",
+      "FULL": "Robô sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CB",
+      "FORMID": "05F9CB",
+      "EDID": "CrSentryBotMGOutcast",
+      "FULL": "Robô sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:05F9CA",
+      "FORMID": "05F9CA",
+      "EDID": "CrSentryBotMG",
+      "FULL": "Robô sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0393ED",
+      "FORMID": "0393ED",
+      "EDID": "MS04CrAnt2Soldier",
+      "FULL": "Soldado Formiga de Fogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0393EC",
+      "FORMID": "0393EC",
+      "EDID": "MS04CrAnt1Worker",
+      "FULL": "Formiga de Fogo Operária"
+    },
+    {
+      "FORM": "@Fallout3.esm:073E25",
+      "FORMID": "073E25",
+      "EDID": "FFEU12YaoGuai",
+      "FULL": "Sucateiro de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:073E23",
+      "FORMID": "073E23",
+      "EDID": "FFEU11YaoGuai",
+      "FULL": "Sucateiro de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:073E1E",
+      "FORMID": "073E1E",
+      "EDID": "FFER73YaoGuai",
+      "FULL": "Sucateiro de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:073E12",
+      "FORMID": "073E12",
+      "EDID": "FFER58YaoGuai",
+      "FULL": "Sucateiro de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:073E08",
+      "FORMID": "073E08",
+      "EDID": "FFER15YaoGuai",
+      "FULL": "Sucateiro de Yao Guai"
+    },
+    {
+      "FORM": "@Fallout3.esm:003402",
+      "FORMID": "003402",
+      "EDID": "MQ09ZAXEyeMasterControl",
+      "FULL": "Intercomunicador Ocular"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EC1",
+      "FORMID": "021EC1",
+      "EDID": "CrMisterGutsySteel",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EC0",
+      "FORMID": "021EC0",
+      "EDID": "CrMisterGutsyOutcast",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C5BAE",
+      "FORMID": "0C5BAE",
+      "EDID": "MS04CrAnt3MarigoldWarrior",
+      "FULL": "Formiga de Fogo Guerreira"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CFA3",
+      "FORMID": "01CFA3",
+      "EDID": "CrDogVicious",
+      "FULL": "Cão Raivoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF9E",
+      "FORMID": "01CF9E",
+      "EDID": "CrRadscorpion2Large",
+      "FULL": "RadEscorpião Gigante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF93",
+      "FORMID": "01CF93",
+      "EDID": "CrSuperMutant1GunA",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF90",
+      "FORMID": "01CF90",
+      "EDID": "CrCentaur",
+      "FULL": "Centauro"
+    },
+    {
+      "FORM": "@Fallout3.esm:01F1F8",
+      "FORMID": "01F1F8",
+      "EDID": "MQ01Behemoth",
+      "FULL": "Super mutante behemoth"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF8A",
+      "FORMID": "01CF8A",
+      "EDID": "CrSentryBotGL",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF81",
+      "FORMID": "01CF81",
+      "EDID": "CrAnt1Worker",
+      "FULL": "Formiga Gigante Operária"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF80",
+      "FORMID": "01CF80",
+      "EDID": "CrAnt2Soldier",
+      "FULL": "Formiga Gigante Soldado"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7F",
+      "FORMID": "01CF7F",
+      "EDID": "CrAnt3Queen",
+      "FULL": "Formiga Gigante Rainha"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7B",
+      "FORMID": "01CF7B",
+      "EDID": "CrFeralGhoulGlowingOne",
+      "FULL": "O Irradiante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF7A",
+      "FORMID": "01CF7A",
+      "EDID": "CrFeralGhoul1B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF77",
+      "FORMID": "01CF77",
+      "EDID": "CrFeralGhoul2B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF75",
+      "FORMID": "01CF75",
+      "EDID": "CrSentryBotGLEnclave",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF71",
+      "FORMID": "01CF71",
+      "EDID": "CrSentryBotGLOutcast",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:01CF6E",
+      "FORMID": "01CF6E",
+      "EDID": "CrSentryBotGLSteel",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0513F1",
+      "FORMID": "0513F1",
+      "EDID": "DeadSuperMutant2Melee",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0513EE",
+      "FORMID": "0513EE",
+      "EDID": "DeadSuperMutant1Gun",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB94",
+      "FORMID": "02DB94",
+      "EDID": "MS01BigTownSuperMutant2",
+      "FULL": "Super mutantes"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB93",
+      "FORMID": "02DB93",
+      "EDID": "MS01BigTownSuperMutant1",
+      "FULL": "Super mutantes"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EBE",
+      "FORMID": "021EBE",
+      "EDID": "CrMisterGutsyEnclave",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:021EBD",
+      "FORMID": "021EBD",
+      "EDID": "CrMisterGutsy",
+      "FULL": "Sr. Corajoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:073244",
+      "FORMID": "073244",
+      "EDID": "FFER10YaoGuai",
+      "FULL": "Yao Guai do Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:073243",
+      "FORMID": "073243",
+      "EDID": "YaoGuaiScavenger",
+      "FULL": "Yao Guai do Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:07323F",
+      "FORMID": "07323F",
+      "EDID": "FFER05YaoGuai",
+      "FULL": "Yao Guai do Sucateiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C58EF",
+      "FORMID": "0C58EF",
+      "EDID": "MS04CrAnt3Warrior",
+      "FULL": "Formiga de Fogo Guerreira"
+    },
+    {
+      "FORM": "@Fallout3.esm:0205D9",
+      "FORMID": "0205D9",
+      "EDID": "MS15Supermutant1AssaultRifle",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:02C11A",
+      "FORMID": "02C11A",
+      "EDID": "MS01RobotDefender1",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C34D2",
+      "FORMID": "0C34D2",
+      "EDID": "MS01BigTownSuperMutant3",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C938B",
+      "FORMID": "0C938B",
+      "EDID": "DogScavenger",
+      "FULL": "Cachorro"
+    },
+    {
+      "FORM": "@Fallout3.esm:04D5B7",
+      "FORMID": "04D5B7",
+      "EDID": "MS05NukaColaFactoryForeman",
+      "FULL": "Milo, Chefe de Expedição"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D509",
+      "FORMID": "02D509",
+      "EDID": "MS18WreckedProtectron01",
+      "FULL": "Manutenção do Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BAD1A",
+      "FORMID": "0BAD1A",
+      "EDID": "FeralGhoulDEAD",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8EA",
+      "FORMID": "09E8EA",
+      "EDID": "CrSuperMutant1MeleeF",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E9",
+      "FORMID": "09E8E9",
+      "EDID": "CrSuperMutant1MeleeE",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E8",
+      "FORMID": "09E8E8",
+      "EDID": "CrSuperMutant1MeleeD",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E7",
+      "FORMID": "09E8E7",
+      "EDID": "CrSuperMutant1GunF",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E6",
+      "FORMID": "09E8E6",
+      "EDID": "CrSuperMutant1GunE",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E5",
+      "FORMID": "09E8E5",
+      "EDID": "CrSuperMutant1GunD",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E4",
+      "FORMID": "09E8E4",
+      "EDID": "CrSuperMutant1MeleeC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E3",
+      "FORMID": "09E8E3",
+      "EDID": "CrSuperMutant1GunC",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E2",
+      "FORMID": "09E8E2",
+      "EDID": "CrSuperMutant2MissileLauncherC",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E1",
+      "FORMID": "09E8E1",
+      "EDID": "CrSuperMutant2MinigunC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8E0",
+      "FORMID": "09E8E0",
+      "EDID": "CrSuperMutant2MeleeC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:09E8DE",
+      "FORMID": "09E8DE",
+      "EDID": "CrSuperMutant2GunC",
+      "FULL": "Super mutante bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:08F086",
+      "FORMID": "08F086",
+      "EDID": "CrZaxEye",
+      "FULL": "Intercomunicador Ocular"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D3BD",
+      "FORMID": "02D3BD",
+      "EDID": "MS03MirelurkKing",
+      "FULL": "Mirelurk Rei"
+    },
+    {
+      "FORM": "@Fallout3.esm:04147E",
+      "FORMID": "04147E",
+      "EDID": "MS15SupermutantMelee",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:086472",
+      "FORMID": "086472",
+      "EDID": "CrTurret03Steel",
+      "FULL": "Torre Mark VI"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AEDE4",
+      "FORMID": "0AEDE4",
+      "EDID": "FFER74FireAntSoldier",
+      "FULL": "Soldado Formiga de Fogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AEDE3",
+      "FORMID": "0AEDE3",
+      "EDID": "FFER74FireAntWorker",
+      "FULL": "Formiga de Fogo Operária"
+    },
+    {
+      "FORM": "@Fallout3.esm:08646F",
+      "FORMID": "08646F",
+      "EDID": "CrTurret02Steel",
+      "FULL": "Torre Mark IV"
+    },
+    {
+      "FORM": "@Fallout3.esm:02AB96",
+      "FORMID": "02AB96",
+      "EDID": "MS01KitchenSuperMutant",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:08646C",
+      "FORMID": "08646C",
+      "EDID": "CrTurret01Steel",
+      "FULL": "Torre Mark II"
+    },
+    {
+      "FORM": "@Fallout3.esm:02977A",
+      "FORMID": "02977A",
+      "EDID": "CrMisterHandy",
+      "FULL": "Sr. Útil"
+    },
+    {
+      "FORM": "@Fallout3.esm:04147C",
+      "FORMID": "04147C",
+      "EDID": "MS15SupermutantBigGun",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:04E79C",
+      "FORMID": "04E79C",
+      "EDID": "MQ04Doc",
+      "FULL": "Doutor"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C342",
+      "FORMID": "05C342",
+      "EDID": "MS12FeralGhoulCorpseBasement",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:083EB6",
+      "FORMID": "083EB6",
+      "EDID": "MS04CrAnt2MarigoldSoldier",
+      "FULL": "Formiga de Fogo Soldado"
+    },
+    {
+      "FORM": "@Fallout3.esm:083EB5",
+      "FORMID": "083EB5",
+      "EDID": "MS04CrAnt1MarigoldWorker",
+      "FULL": "Formiga de Fogo Operária"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A387",
+      "FORMID": "03A387",
+      "EDID": "MQ09ControlRoomSentryBot",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:06020B",
+      "FORMID": "06020B",
+      "EDID": "MS04CrAnt3NestGuard",
+      "FULL": "Guardião do Ninho das Formigas de Fogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB4A1",
+      "FORMID": "0AB4A1",
+      "EDID": "MQ09ControlRoomSentryBot2",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AB48B",
+      "FORMID": "0AB48B",
+      "EDID": "FFEU16Dog",
+      "FULL": "Cão Raivoso"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F772",
+      "FORMID": "06F772",
+      "EDID": "MS15Turret",
+      "FULL": "Torre Mark II"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A149",
+      "FORMID": "03A149",
+      "EDID": "CrSuperMutant3MissileLauncherA",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A148",
+      "FORMID": "03A148",
+      "EDID": "CrSuperMutant2MeleeA",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:03A147",
+      "FORMID": "03A147",
+      "EDID": "CrSuperMutant1MeleeA",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:052B9A",
+      "FORMID": "052B9A",
+      "EDID": "MS12FeralGhoulAttack1A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4F",
+      "FORMID": "092C4F",
+      "EDID": "CrSuperMutant2MinigunA",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4E",
+      "FORMID": "092C4E",
+      "EDID": "CrSuperMutant3MeleeA",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:079F2B",
+      "FORMID": "079F2B",
+      "EDID": "MQ11EyebotKamikaze",
+      "FULL": "Eyebot da Enclave"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C4D",
+      "FORMID": "092C4D",
+      "EDID": "CrSuperMutant3GunA",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:092C49",
+      "FORMID": "092C49",
+      "EDID": "CrSuperMutant2MissileLauncherA",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C8513",
+      "FORMID": "0C8513",
+      "EDID": "FFRaiderCamp17SuperMutantDead",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C053E",
+      "FORMID": "0C053E",
+      "EDID": "MS15BackupProtectron",
+      "FULL": "Cópia de segurança da unidade de proteção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BC11C",
+      "FORMID": "0BC11C",
+      "EDID": "MQ09HoldingCellZaxEye",
+      "FULL": "Intercomunicador Ocular"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B8B",
+      "FORMID": "072B8B",
+      "EDID": "MS12FeralGhoulAttackGlowingOne",
+      "FULL": "O Irradiante"
+    },
+    {
+      "FORM": "@Fallout3.esm:03BEB2",
+      "FORMID": "03BEB2",
+      "EDID": "GenericMetroProtectron",
+      "FULL": "Protectron do metrô"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B8A",
+      "FORMID": "072B8A",
+      "EDID": "MS12FeralGhoul2B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B88",
+      "FORMID": "072B88",
+      "EDID": "MS12FeralGhoul2A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B87",
+      "FORMID": "072B87",
+      "EDID": "MS12FeralGhoul1B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B82",
+      "FORMID": "072B82",
+      "EDID": "MS12FeralGhoulGlowingOne",
+      "FULL": "O Irradiante"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B7F",
+      "FORMID": "072B7F",
+      "EDID": "MS12FeralGhoulAttack2B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B79",
+      "FORMID": "072B79",
+      "EDID": "MS12FeralGhoulAttack2A",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:072B59",
+      "FORMID": "072B59",
+      "EDID": "MS12FeralGhoulAttack1B",
+      "FULL": "Ghoul Selvagem"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D770",
+      "FORMID": "01D770",
+      "EDID": "MegatonMisterMulberry",
+      "FULL": "Senhor Mulberry"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECE",
+      "FORMID": "094ECE",
+      "EDID": "CrSuperMutant3MissileLauncherB",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6EC",
+      "FORMID": "01D6EC",
+      "EDID": "MetroCenter02SuperMutant02",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D6EA",
+      "FORMID": "01D6EA",
+      "EDID": "MetroCenter02SuperMutant01",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECD",
+      "FORMID": "094ECD",
+      "EDID": "CrSuperMutant3MinigunB",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECC",
+      "FORMID": "094ECC",
+      "EDID": "CrSuperMutant3MeleeB",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECB",
+      "FORMID": "094ECB",
+      "EDID": "CrSuperMutant3GunB",
+      "FULL": "Super Mutante Mestre"
+    },
+    {
+      "FORM": "@Fallout3.esm:094ECA",
+      "FORMID": "094ECA",
+      "EDID": "CrSuperMutant2MissileLauncherB",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC9",
+      "FORMID": "094EC9",
+      "EDID": "CrSuperMutant2MinigunB",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC8",
+      "FORMID": "094EC8",
+      "EDID": "CrSuperMutant2MeleeB",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC7",
+      "FORMID": "094EC7",
+      "EDID": "CrSuperMutant2GunB",
+      "FULL": "Super Mutante Bruto"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC6",
+      "FORMID": "094EC6",
+      "EDID": "CrSuperMutant1MeleeB",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:094EC5",
+      "FORMID": "094EC5",
+      "EDID": "CrSuperMutant1GunB",
+      "FULL": "Super Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5C6F",
+      "FORMID": "0A5C6F",
+      "EDID": "CrSentryBotMGArmy",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A5C6E",
+      "FORMID": "0A5C6E",
+      "EDID": "CrSentryBotGLArmy",
+      "FULL": "Robô Sentinela"
+    }
+  ]
+}

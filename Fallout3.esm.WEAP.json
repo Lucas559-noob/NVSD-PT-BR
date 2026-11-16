@@ -1,0 +1,448 @@
+{
+  "WEAP": [
+    {
+      "FORM": "@Fallout3.esm:01FFEC",
+      "FORMID": "01FFEC",
+      "EDID": "WeapAssaultRifle",
+      "FULL": "Rifle de Assalto"
+    },
+    {
+      "FORM": "@Fallout3.esm:00434B",
+      "FORMID": "00434B",
+      "EDID": "WeapRockItLauncher",
+      "FULL": "Lança-Tudo"
+    },
+    {
+      "FORM": "@Fallout3.esm:004348",
+      "FORMID": "004348",
+      "EDID": "WeapRailwayRifle",
+      "FULL": "Rifle de Grampos"
+    },
+    {
+      "FORM": "@Fallout3.esm:066C77",
+      "FORMID": "066C77",
+      "EDID": "WeapUniqueTheBreak",
+      "FULL": "Quebrador"
+    },
+    {
+      "FORM": "@Fallout3.esm:066C76",
+      "FORMID": "066C76",
+      "EDID": "WeapUniqueOlPainless",
+      "FULL": "Sem Dor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B0E7C",
+      "FORMID": "0B0E7C",
+      "EDID": "FollowersCrossSuperSledge",
+      "FULL": "Super Marreta"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B3CB",
+      "FORMID": "02B3CB",
+      "EDID": "WeapChineseOfficerSword",
+      "FULL": "Espada do Oficial Chinês"
+    },
+    {
+      "FORM": "@Fallout3.esm:004342",
+      "FORMID": "004342",
+      "EDID": "WeapNukaCocktail",
+      "FULL": "Granada-Nuka"
+    },
+    {
+      "FORM": "@Fallout3.esm:03C07A",
+      "FORMID": "03C07A",
+      "EDID": "MS06LincolnsRifle",
+      "FULL": "Repetidor de Lincoln"
+    },
+    {
+      "FORM": "@Fallout3.esm:02869C",
+      "FORMID": "02869C",
+      "EDID": "MQ04SlasherKnife",
+      "FULL": "Faca do estripador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CAFA9",
+      "FORMID": "0CAFA9",
+      "EDID": "WeapUniqueJundersBrassKnuckles",
+      "FULL": "Pontos válidos de Plunkett"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABBE4",
+      "FORMID": "0ABBE4",
+      "EDID": "MQ11AutumnLaserPistol",
+      "FULL": "Pistola Laser do Cel. Autumn"
+    },
+    {
+      "FORM": "@Fallout3.esm:033FE2",
+      "FORMID": "033FE2",
+      "EDID": "LibertyPrimeLaser",
+      "FULL": "Laser da liberdade"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A874B",
+      "FORMID": "0A874B",
+      "EDID": "WeapUniqueTenderizer",
+      "FULL": "O Amaciador"
+    },
+    {
+      "FORM": "@Fallout3.esm:07C10C",
+      "FORMID": "07C10C",
+      "EDID": "FollowerRL3Plasma1HP",
+      "FULL": "Arma de Plasma"
+    },
+    {
+      "FORM": "@Fallout3.esm:07C10B",
+      "FORMID": "07C10B",
+      "EDID": "FollowerRL3Flamer2HL",
+      "FULL": "Fogão"
+    },
+    {
+      "FORM": "@Fallout3.esm:004333",
+      "FORMID": "004333",
+      "EDID": "WeapHuntingRifle",
+      "FULL": "Rifle de Caça"
+    },
+    {
+      "FORM": "@Fallout3.esm:07F598",
+      "FORMID": "07F598",
+      "EDID": "MirelurkSonic2HL",
+      "FULL": "Ruídos"
+    },
+    {
+      "FORM": "@Fallout3.esm:074795",
+      "FORMID": "074795",
+      "EDID": "DemoLaserRifle",
+      "FULL": "Rifle Laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB602",
+      "FORMID": "0CB602",
+      "EDID": "WeapUniqueKnifeCombat",
+      "FULL": "Navalha de Occam"
+    },
+    {
+      "FORM": "@Fallout3.esm:03422B",
+      "FORMID": "03422B",
+      "EDID": "WeapUniqueMIRV",
+      "FULL": "MIRV experimental"
+    },
+    {
+      "FORM": "@Fallout3.esm:030664",
+      "FORMID": "030664",
+      "EDID": "MS03BaitGrenade",
+      "FULL": "Granada Isca de Mirelurk"
+    },
+    {
+      "FORM": "@Fallout3.esm:02D3B7",
+      "FORMID": "02D3B7",
+      "EDID": "MS03Repellent",
+      "FULL": "Repelente"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A334",
+      "FORMID": "01A334",
+      "EDID": "FollowersButch10mmPistol",
+      "FULL": "Pistola 10mm"
+    },
+    {
+      "FORM": "@Fallout3.esm:00432A",
+      "FORMID": "00432A",
+      "EDID": "WeapDartGun",
+      "FULL": "Pistola de Dardos"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A333",
+      "FORMID": "01A333",
+      "EDID": "FollowersFawkesGatlingLaser",
+      "FULL": "Laser Gatling"
+    },
+    {
+      "FORM": "@Fallout3.esm:004327",
+      "FORMID": "004327",
+      "EDID": "WeapShotgunCombat",
+      "FULL": "Escopeta de Combate"
+    },
+    {
+      "FORM": "@Fallout3.esm:0372B8",
+      "FORMID": "0372B8",
+      "EDID": "FollowersCharonShotgun",
+      "FULL": "Escopeta de Combate"
+    },
+    {
+      "FORM": "@Fallout3.esm:004325",
+      "FORMID": "004325",
+      "EDID": "WeapChinesePistol",
+      "FULL": "Pistola Chinesa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C553F",
+      "FORMID": "0C553F",
+      "EDID": "WeapUniqueProtectronGaze",
+      "FULL": "Olhar de Protectron"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C553E",
+      "FORMID": "0C553E",
+      "EDID": "WeapUniqueAntSting",
+      "FULL": "Ferrão de formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:064093",
+      "FORMID": "064093",
+      "EDID": "FollowersCharonCombatKnife",
+      "FULL": "Faca de Combate"
+    },
+    {
+      "FORM": "@Fallout3.esm:06407F",
+      "FORMID": "06407F",
+      "EDID": "FollowersButchSwitchblade",
+      "FULL": "Canivete"
+    },
+    {
+      "FORM": "@Fallout3.esm:0303A2",
+      "FORMID": "0303A2",
+      "EDID": "WeapUniqueBlackhawk",
+      "FULL": "Falcão Negro"
+    },
+    {
+      "FORM": "@Fallout3.esm:03713D",
+      "FORMID": "03713D",
+      "EDID": "FollowersCharonShotgunScene",
+      "FULL": "Escopeta de combate"
+    },
+    {
+      "FORM": "@Fallout3.esm:063FDC",
+      "FORMID": "063FDC",
+      "EDID": "FollowersJerichoNailBoard",
+      "FULL": "Clava com Pregos"
+    },
+    {
+      "FORM": "@Fallout3.esm:029769",
+      "FORMID": "029769",
+      "EDID": "MQ04RollingPin",
+      "FULL": "Rolo de massa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B4178",
+      "FORMID": "0B4178",
+      "EDID": "ElderLyonsLaserPistol",
+      "FULL": "Pistola à laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:063FA2",
+      "FORMID": "063FA2",
+      "EDID": "FollowersFawkesSledgehammer",
+      "FULL": "Marreta"
+    },
+    {
+      "FORM": "@Fallout3.esm:061793",
+      "FORMID": "061793",
+      "EDID": "WeapUniqueWazerWifle",
+      "FULL": "Rifle Wazer"
+    },
+    {
+      "FORM": "@Fallout3.esm:063E8A",
+      "FORMID": "063E8A",
+      "EDID": "FollowersCrossLaserPistol",
+      "FULL": "Pistola Laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:028172",
+      "FORMID": "028172",
+      "EDID": "MQ04Mine",
+      "FULL": "Mina de Fragmentação"
+    },
+    {
+      "FORM": "@Fallout3.esm:092966",
+      "FORMID": "092966",
+      "EDID": "WeapUniqueReservistsRifle",
+      "FULL": "Rifle dos Reservistas"
+    },
+    {
+      "FORM": "@Fallout3.esm:00080A",
+      "FORMID": "00080A",
+      "EDID": "Weap32CaliberPistol",
+      "FULL": "Pistola .32"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB548",
+      "FORMID": "0CB548",
+      "EDID": "WeapUniqueVictoryRifle",
+      "FULL": "Rifle da Vitória"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2644",
+      "FORMID": "0B2644",
+      "EDID": "WeapUniqueMissLauncher",
+      "FULL": "Lança-Moça"
+    },
+    {
+      "FORM": "@Fallout3.esm:0CB547",
+      "FORMID": "0CB547",
+      "EDID": "WeapUniqueVengeance",
+      "FULL": "Vingança"
+    },
+    {
+      "FORM": "@Fallout3.esm:06F210",
+      "FORMID": "06F210",
+      "EDID": "SonoraCruzWeap10mmPistol",
+      "FULL": "Pistola 10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0001F6",
+      "FORMID": "0001F6",
+      "EDID": "GasTrapDummy",
+      "FULL": "Armadilha falsa"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C80BE",
+      "FORMID": "0C80BE",
+      "EDID": "WeapUniqueStabhappy",
+      "FULL": "Facadalegre"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C80BD",
+      "FORMID": "0C80BD",
+      "EDID": "WeapUniqueBurnmaster",
+      "FULL": "Mestre das Chamas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C80BA",
+      "FORMID": "0C80BA",
+      "EDID": "WeapUniqueFirelance",
+      "FULL": "Lança de fogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C80B9",
+      "FORMID": "0C80B9",
+      "EDID": "WeapUniqueLoveTap",
+      "FULL": "Tapa do Amor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C310F",
+      "FORMID": "0C310F",
+      "EDID": "WeapUniqueBoardOfEducation",
+      "FULL": "Ministério da Educação"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C800E",
+      "FORMID": "0C800E",
+      "EDID": "WeapUniqueXuanlongAssaultRifle",
+      "FULL": "Rifle de Assalto Xuanlong"
+    },
+    {
+      "FORM": "@Fallout3.esm:060C2C",
+      "FORMID": "060C2C",
+      "EDID": "WeapUniqueZhuRongChinesePistol",
+      "FULL": "Pistola Chinesa Zhu-Rong v418"
+    },
+    {
+      "FORM": "@Fallout3.esm:040840",
+      "FORMID": "040840",
+      "EDID": "FollowersJerichoChineseAssaultRifle",
+      "FULL": "Rifle de Assalto Chinês"
+    },
+    {
+      "FORM": "@Fallout3.esm:00080B",
+      "FORMID": "00080B",
+      "EDID": "WeapChineseAssaultRifle",
+      "FULL": "Rifle de Assalto Chinês"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B53A",
+      "FORMID": "06B53A",
+      "EDID": "WeapUniqueKneecapper",
+      "FULL": "O Quebra Joelhos"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B539",
+      "FORMID": "06B539",
+      "EDID": "WeapUniqueA321PlasmaRifle",
+      "FULL": "Rifle de Plasma do A3-21"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B536",
+      "FORMID": "06B536",
+      "EDID": "WeapUniqueSmugglersEndLaserPistol",
+      "FULL": "O Fim do Contrabandista"
+    },
+    {
+      "FORM": "@Fallout3.esm:004350",
+      "FORMID": "004350",
+      "EDID": "Weap10mmPistolSilenced",
+      "FULL": "Pistola de 10mm com Silenciador"
+    },
+    {
+      "FORM": "@Fallout3.esm:06E7CC",
+      "FORMID": "06E7CC",
+      "EDID": "WeapUniqueSydneys10mmSubGun",
+      "FULL": "SMG 10mm \"Ultra\" da Sydney"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B535",
+      "FORMID": "06B535",
+      "EDID": "WeapUniqueBlackBartsBBGun",
+      "FULL": "A Perdição de Black Bart"
+    },
+    {
+      "FORM": "@Fallout3.esm:078442",
+      "FORMID": "078442",
+      "EDID": "WeapUniqueHighwaymansFriendTireIron",
+      "FULL": "Amigo de Highwayman"
+    },
+    {
+      "FORM": "@Fallout3.esm:078441",
+      "FORMID": "078441",
+      "EDID": "WeapUniqueVancesChineseSword",
+      "FULL": "Lâmina de Vampiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:078440",
+      "FORMID": "078440",
+      "EDID": "WeapUniqueButchToothpick",
+      "FULL": "Palito de Dente de Butch"
+    },
+    {
+      "FORM": "@Fallout3.esm:07843F",
+      "FORMID": "07843F",
+      "EDID": "WeapUniqueFawkesSuperSledge",
+      "FULL": "Super Marreta de Fawkes"
+    },
+    {
+      "FORM": "@Fallout3.esm:07843D",
+      "FORMID": "07843D",
+      "EDID": "WeapUniqueOGradysPoliceBaton",
+      "FULL": "Cassetete Especial de O'Grady"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AE8AE",
+      "FORMID": "0AE8AE",
+      "EDID": "FollowersCloverShotgun",
+      "FULL": "Espingarda Serrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B534",
+      "FORMID": "06B534",
+      "EDID": "WeapUniqueTerribleShotgun",
+      "FULL": "A Escopeta Terrível"
+    },
+    {
+      "FORM": "@Fallout3.esm:00434D",
+      "FORMID": "00434D",
+      "EDID": "Weap44MagnumScoped",
+      "FULL": "Magnum .44 com Mira"
+    },
+    {
+      "FORM": "@Fallout3.esm:06B531",
+      "FORMID": "06B531",
+      "EDID": "WeapUniqueColAutumns10mmPistol",
+      "FULL": "Pistola 10mm do Cor. Autumn"
+    },
+    {
+      "FORM": "@Fallout3.esm:00434C",
+      "FORMID": "00434C",
+      "EDID": "WeapShotgunSawedOff",
+      "FULL": "Escopeta de Cano Serrado"
+    }
+  ]
+}

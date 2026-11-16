@@ -1,0 +1,766 @@
+{
+  "EXPL": [
+    {
+      "FORM": "@FalloutNV.esm:00446C",
+      "FORMID": "00446C",
+      "EDID": "MediumExplosion",
+      "FULL": "Teste de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014C06",
+      "FORMID": "014C06",
+      "EDID": "FatManNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01540D",
+      "FORMID": "01540D",
+      "EDID": "LimbExplosion",
+      "FULL": "Teste de Explosão de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CA88",
+      "FORMID": "01CA88",
+      "EDID": "SmallNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0179DA",
+      "FORMID": "0179DA",
+      "EDID": "GrenadeFragExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019F52",
+      "FORMID": "019F52",
+      "EDID": "FakeMediumExplosion",
+      "FULL": "Explosão Falsa (média)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E6FB",
+      "FORMID": "01E6FB",
+      "EDID": "MegatonNuke",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:021204",
+      "FORMID": "021204",
+      "EDID": "LargeExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022193",
+      "FORMID": "022193",
+      "EDID": "FakeLargeExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022195",
+      "FORMID": "022195",
+      "EDID": "FakeForceBall1000",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022D3D",
+      "FORMID": "022D3D",
+      "EDID": "FakeForceBall4000",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027651",
+      "FORMID": "027651",
+      "EDID": "BusNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:027652",
+      "FORMID": "027652",
+      "EDID": "BusLargeExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028359",
+      "FORMID": "028359",
+      "EDID": "MQ04OvenExplosion",
+      "FULL": "Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0298A7",
+      "FORMID": "0298A7",
+      "EDID": "GrenadePlasmaExplosion",
+      "FULL": "Explosão de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0298A9",
+      "FORMID": "0298A9",
+      "EDID": "GrenadePulseExplosion",
+      "FULL": "Explosão PEM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E5D6",
+      "FORMID": "02E5D6",
+      "EDID": "FlashBangExplosion",
+      "FULL": "Explosão Ofuscante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0304D7",
+      "FORMID": "0304D7",
+      "EDID": "LimbExplosionAnt",
+      "FULL": "Teste de Explosão de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030669",
+      "FORMID": "030669",
+      "EDID": "MS03BaitGrenadeExplosion",
+      "FULL": "Explosão de Isca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0312FE",
+      "FORMID": "0312FE",
+      "EDID": "DemoBusNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0319A3",
+      "FORMID": "0319A3",
+      "EDID": "FireExtinguisherExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031CF9",
+      "FORMID": "031CF9",
+      "EDID": "LimbDismemForcePush",
+      "FULL": "Desmembramento de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025C20",
+      "FORMID": "025C20",
+      "EDID": "FusionCarBatteryExplosion",
+      "FULL": "Explosão da Bateria de Carro de Fusão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04813B",
+      "FORMID": "04813B",
+      "EDID": "FakeForceBall250",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0404C0",
+      "FORMID": "0404C0",
+      "EDID": "AmmoBoxExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05864F",
+      "FORMID": "05864F",
+      "EDID": "DunwichFakeForceBallSmall",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:058650",
+      "FORMID": "058650",
+      "EDID": "DunwichFakeForceBallMedium",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:059C88",
+      "FORMID": "059C88",
+      "EDID": "FFE08Explosion",
+      "FULL": "FFE08 Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F9CD",
+      "FORMID": "05F9CD",
+      "EDID": "MissileExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07015E",
+      "FORMID": "07015E",
+      "EDID": "ElectricBoxExplosion",
+      "FULL": "Teste de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07044A",
+      "FORMID": "07044A",
+      "EDID": "VertibirdExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07078A",
+      "FORMID": "07078A",
+      "EDID": "EyebotExplosion",
+      "FULL": "Explosão de Morte de Eyebot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07078B",
+      "FORMID": "07078B",
+      "EDID": "MineFragExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07078C",
+      "FORMID": "07078C",
+      "EDID": "MinePlasmaExplosion",
+      "FULL": "Explosão de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07078D",
+      "FORMID": "07078D",
+      "EDID": "MinePulseExplosion",
+      "FULL": "Explosão PEM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07078E",
+      "FORMID": "07078E",
+      "EDID": "MineBottlecapExplosion",
+      "FULL": "Explosão de Nuka-Tampinhas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:077B42",
+      "FORMID": "077B42",
+      "EDID": "MotorcycleExplosion",
+      "FULL": "Teste de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC0",
+      "FORMID": "078CC0",
+      "EDID": "MS11SmallMegatonNuke",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C815",
+      "FORMID": "08C815",
+      "EDID": "LibertyPrimeNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09EA97",
+      "FORMID": "09EA97",
+      "EDID": "InsectLimbExplosion",
+      "FULL": "Teste de Explosão de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A010E",
+      "FORMID": "0A010E",
+      "EDID": "MQ05Explosion",
+      "FULL": "Explosão Falsa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A0827",
+      "FORMID": "0A0827",
+      "EDID": "TheMallMediumExplosion",
+      "FULL": "Explosão Falsa (média)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A18F5",
+      "FORMID": "0A18F5",
+      "EDID": "LimbExplosionGlow",
+      "FULL": "Explosão de Membro Radioativa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4947",
+      "FORMID": "0A4947",
+      "EDID": "Forge01PulseExplosion01",
+      "FULL": "Explosão PEM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AB53F",
+      "FORMID": "0AB53F",
+      "EDID": "StatesmanHotelExplosion",
+      "FULL": "Explosão Falsa (média)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AED7C",
+      "FORMID": "0AED7C",
+      "EDID": "RavenRockPlasmaExplosion",
+      "FULL": "Explosão de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B25AA",
+      "FORMID": "0B25AA",
+      "EDID": "MissExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2959",
+      "FORMID": "0B2959",
+      "EDID": "SmallNukeExplosionNoKD",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B374C",
+      "FORMID": "0B374C",
+      "EDID": "FortCLaunchComputerExplosion",
+      "FULL": "Computador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B5C54",
+      "FORMID": "0B5C54",
+      "EDID": "FakeForceBallNudge",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B67B9",
+      "FORMID": "0B67B9",
+      "EDID": "LimbExplosionBug",
+      "FULL": "Bug de Explosão de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BA3FB",
+      "FORMID": "0BA3FB",
+      "EDID": "RavRockExplo01",
+      "FULL": "Explosão de Raven Rock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB160",
+      "FORMID": "0BB160",
+      "EDID": "PAAveFragExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB636",
+      "FORMID": "0BB636",
+      "EDID": "LimbExplosionRobot",
+      "FULL": "Explosão de Membro Robótico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD473",
+      "FORMID": "0BD473",
+      "EDID": "FakeForce400r100",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00337D",
+      "FORMID": "00337D",
+      "EDID": "FakeForce700r100",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0182BA",
+      "FORMID": "0182BA",
+      "EDID": "BloatFlyExplosion",
+      "FULL": "Bug de Explosão de Membro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05AC6D",
+      "FORMID": "05AC6D",
+      "EDID": "MQ08FlashBangExplosion",
+      "FULL": "Granada de Atordoamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0775DE",
+      "FORMID": "0775DE",
+      "EDID": "FakeForce100r100",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0001F5",
+      "FORMID": "0001F5",
+      "EDID": "DefaultWaterExplosion",
+      "FULL": "Explosão d'água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CC279",
+      "FORMID": "0CC279",
+      "EDID": "LDScientistExplosion",
+      "FULL": "Acidente com o Cientista LD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CC33C",
+      "FORMID": "0CC33C",
+      "EDID": "FakeForce100r25",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:064597",
+      "FORMID": "064597",
+      "EDID": "FakeForce100r1000",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA31",
+      "FORMID": "07EA31",
+      "EDID": "40mmGrenadeExplosion",
+      "FULL": "Explosão de Granada 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0906D4",
+      "FORMID": "0906D4",
+      "EDID": "ExplosionPlasmaCasterEffect",
+      "FULL": "Impacto do Canhão de Plasma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:096C41",
+      "FORMID": "096C41",
+      "EDID": "25mmGrenadeExplosion",
+      "FULL": "Explosão de Granada 25mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F60",
+      "FORMID": "0D7F60",
+      "EDID": "VMS02FakeLargeExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C2D",
+      "FORMID": "0E2C2D",
+      "EDID": "DLC03LibertyPrimeNukeExplosionSpecial",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C2E",
+      "FORMID": "0E2C2E",
+      "EDID": "DLC03NuclearAnomalyExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C2F",
+      "FORMID": "0E2C2F",
+      "EDID": "DLC03OrbitalStrikeExploPrime",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C30",
+      "FORMID": "0E2C30",
+      "EDID": "DLC03OrbitalStrikeExploRock",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C31",
+      "FORMID": "0E2C31",
+      "EDID": "DLC03OrbitalStrikeExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C32",
+      "FORMID": "0E2C32",
+      "EDID": "DLC03OrbitalStrikeShakeExplosionLarge",
+      "FULL": "DLC03 Explosão Falsa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C33",
+      "FORMID": "0E2C33",
+      "EDID": "DLC03OrbitalStrikeShakeExplosionMed",
+      "FULL": "DLC03 Explosão Falsa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C34",
+      "FORMID": "0E2C34",
+      "EDID": "DLC03OrbitalStrikeShakeExplosionSmall",
+      "FULL": "DLC03 Explosão Falsa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C35",
+      "FORMID": "0E2C35",
+      "EDID": "DLC03PowerworksFakeForceBall01",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C36",
+      "FORMID": "0E2C36",
+      "EDID": "DLC03TeslaCannonExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C37",
+      "FORMID": "0E2C37",
+      "EDID": "DLC03TeslaCannonExplosionSmall",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C38",
+      "FORMID": "0E2C38",
+      "EDID": "DLC03TeslaCannonExplosionSmall02",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C39",
+      "FORMID": "0E2C39",
+      "EDID": "DLC03TeslaCannonExplosionSmall03",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3A",
+      "FORMID": "0E2C3A",
+      "EDID": "DLC03TeslaCannonExplosionSmall04",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3B",
+      "FORMID": "0E2C3B",
+      "EDID": "DLC03VertibirdRumble",
+      "FULL": "Tumulto de Vertibirds"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3C",
+      "FORMID": "0E2C3C",
+      "EDID": "DLC03WallExplosion",
+      "FULL": "Explosão Primária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3D",
+      "FORMID": "0E2C3D",
+      "EDID": "DLC03CrawlerExplosion",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3E",
+      "FORMID": "0E2C3E",
+      "EDID": "DLC03FakeForce100r1000",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C3F",
+      "FORMID": "0E2C3F",
+      "EDID": "DLC03FieldPanelExplosion",
+      "FULL": "Teste de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C41",
+      "FORMID": "0E2C41",
+      "EDID": "DLC03GoreExplosionGlow",
+      "FULL": "Explosão de Sangue Tóxico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C42",
+      "FORMID": "0E2C42",
+      "EDID": "DLC03LibertyPrimeHulkExplosion",
+      "FULL": "Explosão Primária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDA77",
+      "FORMID": "0CDA77",
+      "EDID": "HVTurretExplosion",
+      "FULL": "Explosão da Torreta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E397F",
+      "FORMID": "0E397F",
+      "EDID": "NVDynamiteExplosion",
+      "FULL": "Explosão de Dinamite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6528",
+      "FORMID": "0E6528",
+      "EDID": "BMDishExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E73C3",
+      "FORMID": "0E73C3",
+      "EDID": "FakeInstakillExplosion",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCD91",
+      "FORMID": "0FCD91",
+      "EDID": "VMS08MonorailExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1011C3",
+      "FORMID": "1011C3",
+      "EDID": "NellisArtilleryExplosion",
+      "FULL": "Explosão da Artilharia de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10414A",
+      "FORMID": "10414A",
+      "EDID": "NellisAntExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A0F",
+      "FORMID": "109A0F",
+      "EDID": "MineNVPowderChargeExplosion",
+      "FULL": "Carga de Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A13B",
+      "FORMID": "10A13B",
+      "EDID": "NellisMunitionsExplosion",
+      "FULL": "Explosão de Munições de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10BA97",
+      "FORMID": "10BA97",
+      "EDID": "MissExplosionSmall",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E6E4",
+      "FORMID": "11E6E4",
+      "EDID": "VSmallImpulseExplosion",
+      "FULL": "Pequeno Impulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EB4A",
+      "FORMID": "11EB4A",
+      "EDID": "VRexRatSonar",
+      "FULL": "Sonar de Ratos do Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12701D",
+      "FORMID": "12701D",
+      "EDID": "GrenadeGasExplosion",
+      "FULL": "Explosão de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130044",
+      "FORMID": "130044",
+      "EDID": "C4Explosion",
+      "FULL": "Explosão de C4"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1372B6",
+      "FORMID": "1372B6",
+      "EDID": "VCCSmallImpulseExplosion",
+      "FULL": "Pequeno Impulso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A7D5",
+      "FORMID": "13A7D5",
+      "EDID": "V34DoorExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13C708",
+      "FORMID": "13C708",
+      "EDID": "vHDGeneratorExplosion",
+      "FULL": "Explosão PEM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D532",
+      "FORMID": "13D532",
+      "EDID": "TimeBombExplosion",
+      "FULL": "Explosão da Bomba-relógio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5D1",
+      "FORMID": "13E5D1",
+      "EDID": "C4ExplosionNoLOS",
+      "FULL": "Explosão de C4"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1411A9",
+      "FORMID": "1411A9",
+      "EDID": "DisguiseFactionPulse",
+      "FULL": "Pulso de Disfarce de Facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1483FE",
+      "FORMID": "1483FE",
+      "EDID": "vHDHooverDamExplosion",
+      "FULL": "Explosão da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14ADDB",
+      "FORMID": "14ADDB",
+      "EDID": "EVPPulse",
+      "FULL": "Grande Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDE2",
+      "FORMID": "14DDE2",
+      "EDID": "GrenadeStunExplosion",
+      "FULL": "Explosão Atordoante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDE3",
+      "FORMID": "14DDE3",
+      "EDID": "GrenadeIncendiaryExplosion",
+      "FULL": "Explosão Incendiária"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1535F0",
+      "FORMID": "1535F0",
+      "EDID": "WeaponKnockdownExplosion",
+      "FULL": "Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158314",
+      "FORMID": "158314",
+      "EDID": "MissileExplosionHE",
+      "FULL": "Explosão de Míssil HE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158315",
+      "FORMID": "158315",
+      "EDID": "25mmGrenadeExplosionHE",
+      "FULL": "Explosão de Granada 25mm HE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A7D6",
+      "FORMID": "15A7D6",
+      "EDID": "VFSSilverRushBombExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160303",
+      "FORMID": "160303",
+      "EDID": "GaussImpactExplosion",
+      "FULL": "Explosão de Impacto Gauss"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16126C",
+      "FORMID": "16126C",
+      "EDID": "HVBunkerExplosion",
+      "FULL": "Explosão no Bunker de Vale Oculto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16201B",
+      "FORMID": "16201B",
+      "EDID": "GrenadeFragHolyExplosion",
+      "FULL": "Santa Explosão de Fragmentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1622D1",
+      "FORMID": "1622D1",
+      "EDID": "40mmGrenadeExplosionInc",
+      "FULL": "Explosão de Granada Incendiária de 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164BE1",
+      "FORMID": "164BE1",
+      "EDID": "DisplacerImpactExplosion",
+      "FULL": "Explosão de Impacto Deslocador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1710A9",
+      "FORMID": "1710A9",
+      "EDID": "FakeShotgunExplosion",
+      "FULL": "Explosão Falsa (espingarda)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B8A",
+      "FORMID": "171B8A",
+      "EDID": "LegionHowitzerExplosion",
+      "FULL": "Explosão de Obus da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176AB9",
+      "FORMID": "176AB9",
+      "EDID": "GrenadeFragMisfitsExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:177AFF",
+      "FORMID": "177AFF",
+      "EDID": "ElectricBoxExplosionSecurtronVault",
+      "FULL": "Teste de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:177DAD",
+      "FORMID": "177DAD",
+      "EDID": "VHDBigGeneratorExplosionSpecial",
+      "FULL": "Explosão do Gerador da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17BA2E",
+      "FORMID": "17BA2E",
+      "EDID": "SecuritronGrenadeExplosion",
+      "FULL": "Explosão de Granada Securitron"
+    }
+  ]
+}

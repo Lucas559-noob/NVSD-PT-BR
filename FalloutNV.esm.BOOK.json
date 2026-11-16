@@ -1,0 +1,185 @@
+{
+  "BOOK": [
+    {
+      "FORM": "@FalloutNV.esm:0199B3",
+      "FORMID": "0199B3",
+      "EDID": "DONOTUSEBookGeneric02",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199B4",
+      "FORMID": "0199B4",
+      "EDID": "DONOTUSEBookGeneric03",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199B5",
+      "FORMID": "0199B5",
+      "EDID": "DONOTUSEBookGeneric04",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199B9",
+      "FORMID": "0199B9",
+      "EDID": "DONOTUSEBookGeneric05",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199BA",
+      "FORMID": "0199BA",
+      "EDID": "DONOTUSEBookGeneric06",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199BB",
+      "FORMID": "0199BB",
+      "EDID": "DONOTUSEBookGeneric07",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0199C2",
+      "FORMID": "0199C2",
+      "EDID": "DONOTUSEBookGeneric08",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A3",
+      "FORMID": "02D3A3",
+      "EDID": "MS03MotivationalBook",
+      "FULL": "Segredos Motivacionais das Estrelas",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A4",
+      "FORMID": "02D3A4",
+      "EDID": "MS03ScienceBook",
+      "FULL": "Grande Livro de Ciências",
+      "DESC": "Este é um livro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3B2",
+      "FORMID": "02D3B2",
+      "EDID": "MS03GuideManuscript",
+      "FULL": "Manuscrito do Guia de Sobrevivência",
+      "DESC": "Eu sou as plantas da Mina de Garrafa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03403C",
+      "FORMID": "03403C",
+      "EDID": "BookSkillScience",
+      "FULL": "Grande Livro de Ciências",
+      "DESC": "Grande Livro de Ciências"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03403D",
+      "FORMID": "03403D",
+      "EDID": "BookSkillRepair",
+      "FULL": "Eletrônica do Dean",
+      "DESC": "Eletrônica do Dean"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03403E",
+      "FORMID": "03403E",
+      "EDID": "BookSkillGuns",
+      "FULL": "Armas e Balas",
+      "DESC": "Armas e Balas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03403F",
+      "FORMID": "03403F",
+      "EDID": "BookSkillUnarmed",
+      "FULL": "Pugilismo Ilustrado",
+      "DESC": "Pugilismo Ilustrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034040",
+      "FORMID": "034040",
+      "EDID": "BookSkillMelee",
+      "FULL": "Grognak, o Bárbaro",
+      "DESC": "Grognak, o Bárbaro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034041",
+      "FORMID": "034041",
+      "EDID": "BookSkillEnergyWeapons",
+      "FULL": "Nikola Tesla e Você",
+      "DESC": "Nikola Tesla e Você"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034042",
+      "FORMID": "034042",
+      "EDID": "BookSkillBarter",
+      "FULL": "Contos de um Vendedor de Carne Seca de Junktown",
+      "DESC": "Contos de um Vendedor de Carne Seca de Junktown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034043",
+      "FORMID": "034043",
+      "EDID": "BookSkillMedicine",
+      "FULL": "Jornal de Medicina Interna de D.C.",
+      "DESC": "Jornal de Medicina Interna de D.C."
+    },
+    {
+      "FORM": "@FalloutNV.esm:034044",
+      "FORMID": "034044",
+      "EDID": "BookSkillSpeech",
+      "FULL": "Mentindo ao Estilo do Congresso",
+      "DESC": "Mentindo ao Estilo do Congresso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034045",
+      "FORMID": "034045",
+      "EDID": "BookSkillSneak",
+      "FULL": "Exército Chinês: Manual de Treinamento de Operações Especiais",
+      "DESC": "Exército Chinês: Manual de Treinamento de Operações Especiais"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034046",
+      "FORMID": "034046",
+      "EDID": "BookSkillLockpicking",
+      "FULL": "Fechaduras Hoje",
+      "DESC": "Fechaduras Hoje"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034048",
+      "FORMID": "034048",
+      "EDID": "BookSkillBigGuns",
+      "FULL": "Exército dos EUA, 30 Receitas Práticas de Lança-chamas",
+      "DESC": "Exército dos EUA, 30 Receitas Práticas de Lança-chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06A80C",
+      "FORMID": "06A80C",
+      "EDID": "BookSkillExplosives",
+      "FULL": "Abaixe-se e Proteja-se!",
+      "DESC": "Abaixe-se e Proteja-se!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AB2EF",
+      "FORMID": "0AB2EF",
+      "EDID": "BabyBookStatic",
+      "FULL": "Você é SPECIAL!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BACFE",
+      "FORMID": "0BACFE",
+      "EDID": "FFUndeworldParadiseLostBook",
+      "FULL": "Paraíso Perdido",
+      "DESC": "Paraíso Perdido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C5634",
+      "FORMID": "0C5634",
+      "EDID": "MS03SurvivalGuideBookItem",
+      "FULL": "Guia de Sobrevivência no Ermo",
+      "DESC": "Guia de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160227",
+      "FORMID": "160227",
+      "EDID": "BookSkillSurvival",
+      "FULL": "Guia de Sobrevivência no Ermo",
+      "DESC": "Guia de Sobrevivência no Ermo"
+    }
+  ]
+}

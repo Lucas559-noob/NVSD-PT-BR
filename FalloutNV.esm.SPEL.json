@@ -1,0 +1,1456 @@
+{
+  "SPEL": [
+    {
+      "FORM": "@FalloutNV.esm:020517",
+      "FORMID": "020517",
+      "EDID": "WaterHeal2Good",
+      "FULL": "Água Boa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D76",
+      "FORMID": "020D76",
+      "EDID": "WaterHeal1Rads500",
+      "FULL": "Água Letal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D77",
+      "FORMID": "020D77",
+      "EDID": "WaterHeal5Terrible",
+      "FULL": "Água Horrível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D78",
+      "FORMID": "020D78",
+      "EDID": "WaterHeal3Average",
+      "FULL": "Água Comum"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D7D",
+      "FORMID": "031D7D",
+      "EDID": "PerkToughness",
+      "FULL": "Robustez"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D85",
+      "FORMID": "031D85",
+      "EDID": "PerkRadResistance",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D88",
+      "FORMID": "031D88",
+      "EDID": "PerkLifeGiver1",
+      "FULL": "Doador de Vida (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D8A",
+      "FORMID": "031D8A",
+      "EDID": "PerkLifeGiver2",
+      "FULL": "Doador de Vida (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D8B",
+      "FORMID": "031D8B",
+      "EDID": "PerkLifeGiver3",
+      "FULL": "Doador de Vida (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D8D",
+      "FORMID": "031D8D",
+      "EDID": "PerkCyborg",
+      "FULL": "Cyborg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D90",
+      "FORMID": "031D90",
+      "EDID": "PerkActionBoy2",
+      "FULL": "Garoto de Ação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D94",
+      "FORMID": "031D94",
+      "EDID": "PerkSolarPowered",
+      "FULL": "Energia Solar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D9F",
+      "FORMID": "031D9F",
+      "EDID": "PerkLittleLeaguer1",
+      "FULL": "Pequeno Liga (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA0",
+      "FORMID": "031DA0",
+      "EDID": "PerkIronFist1",
+      "FULL": "Punho de Ferro (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA1",
+      "FORMID": "031DA1",
+      "EDID": "PerkIronFist2",
+      "FULL": "Punho de Ferro (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA2",
+      "FORMID": "031DA2",
+      "EDID": "PerkIronFist3",
+      "FULL": "Punho de Ferro (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:032DED",
+      "FORMID": "032DED",
+      "EDID": "Radiation600",
+      "FULL": "Crit. Envenenamento por Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:032DEE",
+      "FORMID": "032DEE",
+      "EDID": "Radiation200",
+      "FULL": "Intoxicação Leve por Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:032DEF",
+      "FORMID": "032DEF",
+      "EDID": "Radiation400",
+      "FULL": "Veneno Rad. Avançado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:032DF0",
+      "FORMID": "032DF0",
+      "EDID": "Radiation800",
+      "FULL": "Veneno Radioativo Mortal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:033063",
+      "FORMID": "033063",
+      "EDID": "WithdrawalMentats",
+      "FULL": "Abstinência de Mentats"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033064",
+      "FORMID": "033064",
+      "EDID": "WithdrawalPsycho",
+      "FULL": "Abstinência de Psycho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033066",
+      "FORMID": "033066",
+      "EDID": "WithdrawalBuffout",
+      "FULL": "Abstinência de Buffout"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033067",
+      "FORMID": "033067",
+      "EDID": "WithdrawalJet",
+      "FULL": "Abstinência de Jet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033597",
+      "FORMID": "033597",
+      "EDID": "Radiation1000",
+      "FULL": "Envenenamento Fatal por Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044949",
+      "FORMID": "044949",
+      "EDID": "PerkLittleLeaguer2",
+      "FULL": "Pequeno Liga (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04494A",
+      "FORMID": "04494A",
+      "EDID": "PerkLittleLeaguer3",
+      "FULL": "Pequeno Liga (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04494B",
+      "FORMID": "04494B",
+      "EDID": "PerkDaddysBoy1",
+      "FULL": "Filhinho do Papai (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04494C",
+      "FORMID": "04494C",
+      "EDID": "PerkDaddysBoy2",
+      "FULL": "Filhinho do Papai (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04494D",
+      "FORMID": "04494D",
+      "EDID": "PerkDaddysBoy3",
+      "FULL": "Filhinho do Papai (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04494F",
+      "FORMID": "04494F",
+      "EDID": "PerkGunNut1",
+      "FULL": "Fanático por Armas (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044950",
+      "FORMID": "044950",
+      "EDID": "PerkGunNut2",
+      "FULL": "Entusiasta de Armas (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044951",
+      "FORMID": "044951",
+      "EDID": "PerkGunNut3",
+      "FULL": "Entusiasta de Armas (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA1",
+      "FORMID": "044CA1",
+      "EDID": "PerkScoundrel2",
+      "FULL": "Canalha (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA2",
+      "FORMID": "044CA2",
+      "EDID": "PerkScoundrel3",
+      "FULL": "Canalha (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA3",
+      "FORMID": "044CA3",
+      "EDID": "PerkImpartialMediation",
+      "FULL": "Mediação Imparcial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA4",
+      "FORMID": "044CA4",
+      "EDID": "PerkNerdRage",
+      "FULL": "Fúria Nerd!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA5",
+      "FORMID": "044CA5",
+      "EDID": "PerkScoundrel1",
+      "FULL": "Canalha (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D843",
+      "FORMID": "04D843",
+      "EDID": "RadScorpion1Poison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04D844",
+      "FORMID": "04D844",
+      "EDID": "RadScorpion2Poison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02AE29",
+      "FORMID": "02AE29",
+      "EDID": "WithdrawalMorphine",
+      "FULL": "Abstinência de Med-X"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E616",
+      "FORMID": "03E616",
+      "EDID": "EyebotEnclaveBroadcast",
+      "FULL": "Transmissão do Eyebot do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05876C",
+      "FORMID": "05876C",
+      "EDID": "MirklurkWaterBreathing",
+      "FULL": "Respirar na Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060C16",
+      "FORMID": "060C16",
+      "EDID": "RadImmunity",
+      "FULL": "Imune à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0617BD",
+      "FORMID": "0617BD",
+      "EDID": "RadResistGhoul",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0617BE",
+      "FORMID": "0617BE",
+      "EDID": "GhoulRadHeal",
+      "FULL": "Cura por Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06191A",
+      "FORMID": "06191A",
+      "EDID": "GlowingOneAttack",
+      "FULL": "Rajada de Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:062696",
+      "FORMID": "062696",
+      "EDID": "PlayerWellRested",
+      "FULL": "Bem Descansado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:062697",
+      "FORMID": "062697",
+      "EDID": "WellRestedSpell",
+      "FULL": "Bem Descansado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06533A",
+      "FORMID": "06533A",
+      "EDID": "PlayerConcussed",
+      "FULL": "Concussão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06698C",
+      "FORMID": "06698C",
+      "EDID": "WithdrawalAlcohol",
+      "FULL": "Abstinência Alcoólica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B20B",
+      "FORMID": "06B20B",
+      "EDID": "PerkParalyzingPalm",
+      "FULL": "Palma Paralisante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B20E",
+      "FORMID": "06B20E",
+      "EDID": "DeathClawPoison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06CABE",
+      "FORMID": "06CABE",
+      "EDID": "MS14Morphine",
+      "FULL": "Traje Med-X"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06E770",
+      "FORMID": "06E770",
+      "EDID": "RadResistGlowingOne",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F590",
+      "FORMID": "06F590",
+      "EDID": "MS10BarkskinSpell",
+      "FULL": "Pelescama"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F592",
+      "FORMID": "06F592",
+      "EDID": "MS03PerkRCBargain",
+      "FULL": "Melhores Preços em Rivet City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F593",
+      "FORMID": "06F593",
+      "EDID": "MS03PerkSnideSurvivalGuru",
+      "FULL": "Guru da Sobrevivência no Ermo, o Sarcástico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F594",
+      "FORMID": "06F594",
+      "EDID": "MS03PerkSlySurvivalGuru",
+      "FULL": "Guru Ardiloso da Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F595",
+      "FORMID": "06F595",
+      "EDID": "MS03PerkToughSurvivalGuru",
+      "FULL": "Guru Durão de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F596",
+      "FORMID": "06F596",
+      "EDID": "MS03PerkSmartSurvivalGuru",
+      "FULL": "Guru Inteligente de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F597",
+      "FORMID": "06F597",
+      "EDID": "MS03PerkSurvivalGuru",
+      "FULL": "Guru de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F598",
+      "FORMID": "06F598",
+      "EDID": "MS03PerkSnideSurvivalExpert",
+      "FULL": "Especialista Sarcástico em Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F599",
+      "FORMID": "06F599",
+      "EDID": "MS03PerkSlySurvivalExpert",
+      "FULL": "Especialista Ardiloso em Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59A",
+      "FORMID": "06F59A",
+      "EDID": "MS03PerkToughSurvivalExpert",
+      "FULL": "Especialista Durão em Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59B",
+      "FORMID": "06F59B",
+      "EDID": "MS03PerkSmartSurvivalExpert",
+      "FULL": "Especialista Inteligente em Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59C",
+      "FORMID": "06F59C",
+      "EDID": "MS03PerkSurvivalExpert",
+      "FULL": "Especialista em Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59D",
+      "FORMID": "06F59D",
+      "EDID": "MS03PerkSnideSurvivalAssistant",
+      "FULL": "Assistente de Sobrevivência no Ermo, Irônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59E",
+      "FORMID": "06F59E",
+      "EDID": "MS03PerkSlySurvivalAssistant",
+      "FULL": "Assistente de Sobrevivência do Ermo Sagaz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F59F",
+      "FORMID": "06F59F",
+      "EDID": "MS03PerkToughSurvivalAssistant",
+      "FULL": "Assistente de Sobrevivência Durão do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F5A0",
+      "FORMID": "06F5A0",
+      "EDID": "MS03PerkSmartSurvivalAssistant",
+      "FULL": "Assistente Inteligente de Sobrevivência no Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F5A1",
+      "FORMID": "06F5A1",
+      "EDID": "MS03PerkSurvivalAssistant",
+      "FULL": "Assistente de Sobrevivência no Deserto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F5A2",
+      "FORMID": "06F5A2",
+      "EDID": "MS03PerkMutation",
+      "FULL": "Cura de Membro - Rad."
+    },
+    {
+      "FORM": "@FalloutNV.esm:077789",
+      "FORMID": "077789",
+      "EDID": "PerkDaddysGirl1",
+      "FULL": "Filhinha do Papai (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07778A",
+      "FORMID": "07778A",
+      "EDID": "PerkDaddysGirl2",
+      "FULL": "Garota do Papai (2)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07778B",
+      "FORMID": "07778B",
+      "EDID": "PerkDaddysGirl3",
+      "FULL": "Garota do Papai (3)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:079AE3",
+      "FORMID": "079AE3",
+      "EDID": "PerkBloodyMess",
+      "FULL": "Carnificina Sangrenta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B200",
+      "FORMID": "07B200",
+      "EDID": "PerkActionGirl2",
+      "FULL": "Garota Durona"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B201",
+      "FORMID": "07B201",
+      "EDID": "PerkNinja",
+      "FULL": "Ninja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07D412",
+      "FORMID": "07D412",
+      "EDID": "EnclaveInfiltratorStealth",
+      "FULL": "Escudo de Furtividade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:092C48",
+      "FORMID": "092C48",
+      "EDID": "PlasmaEffect",
+      "FULL": "Gooificação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBE",
+      "FORMID": "094EBE",
+      "EDID": "PerkNightPerson",
+      "FULL": "Pessoa Noturna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC0",
+      "FORMID": "094EC0",
+      "EDID": "PerkFinesse",
+      "FULL": "Sutileza (1)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC3",
+      "FORMID": "094EC3",
+      "EDID": "PerkKamikaze",
+      "FULL": "Kamikaze"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09ADE7",
+      "FORMID": "09ADE7",
+      "EDID": "WithdrawalQuantumNukacola",
+      "FULL": "Abstinência de Qtm. Cola"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09ADE8",
+      "FORMID": "09ADE8",
+      "EDID": "NukalurkAttack",
+      "FULL": "Envenenamento por Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044AF6",
+      "FORMID": "044AF6",
+      "EDID": "FlamerCritEffect",
+      "FULL": "Imolação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045656",
+      "FORMID": "045656",
+      "EDID": "WaterHeal4Bad",
+      "FULL": "Água Ruim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B141",
+      "FORMID": "05B141",
+      "EDID": "NukeCritEffect",
+      "FULL": "Atomização"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B148",
+      "FORMID": "05B148",
+      "EDID": "PulseDisableSpell",
+      "FULL": "Desativar PEM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6B9",
+      "FORMID": "05C6B9",
+      "EDID": "DukovSharpshooter",
+      "FULL": "Atirador de Elite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6C3",
+      "FORMID": "05C6C3",
+      "EDID": "AlienDisintegrationFXSpell",
+      "FULL": "Desintegração"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F1E",
+      "FORMID": "0A5F1E",
+      "EDID": "TrainingMedicine",
+      "FULL": "Medicina Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F1F",
+      "FORMID": "0A5F1F",
+      "EDID": "TrainingScience",
+      "FULL": "Ciência Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F20",
+      "FORMID": "0A5F20",
+      "EDID": "TrainingRepair",
+      "FULL": "Reparo Aprimorado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F21",
+      "FORMID": "0A5F21",
+      "EDID": "TrainingBarter",
+      "FULL": "Troca Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F22",
+      "FORMID": "0A5F22",
+      "EDID": "TrainingSpeech",
+      "FULL": "Eloquência Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F23",
+      "FORMID": "0A5F23",
+      "EDID": "TrainingBarterHigh",
+      "FULL": "Troca Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F24",
+      "FORMID": "0A5F24",
+      "EDID": "TrainingMedicineHigh",
+      "FULL": "Medicina Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F25",
+      "FORMID": "0A5F25",
+      "EDID": "TrainingRepairHigh",
+      "FULL": "Reparo Aprimorado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F26",
+      "FORMID": "0A5F26",
+      "EDID": "TrainingScienceHigh",
+      "FULL": "Ciência Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A5F27",
+      "FORMID": "0A5F27",
+      "EDID": "TrainingSpeechHigh",
+      "FULL": "Eloquência Aprimorada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A73D7",
+      "FORMID": "0A73D7",
+      "EDID": "FlamerCritEffect02",
+      "FULL": "Explosão Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B7CC9",
+      "FORMID": "0B7CC9",
+      "EDID": "FireImmunity",
+      "FULL": "Imune a Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B878F",
+      "FORMID": "0B878F",
+      "EDID": "WaterHeal1Purified",
+      "FULL": "Água Purificada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD074",
+      "FORMID": "0BD074",
+      "EDID": "FFSawbonesHealEffect",
+      "FULL": "Precisão do Doutor Serra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E004",
+      "FORMID": "01E004",
+      "EDID": "MS13HeadExplodeSpell",
+      "FULL": "Enxaqueca do Mesmetron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:077641",
+      "FORMID": "077641",
+      "EDID": "PerkMS03DreamCrusher",
+      "FULL": "Carnificina Sangrenta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BDA30",
+      "FORMID": "0BDA30",
+      "EDID": "LaserDisintegrationFXSpell",
+      "FULL": "Desintegração"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C0548",
+      "FORMID": "0C0548",
+      "EDID": "MS15GNRBroadcast",
+      "FULL": "Efeito da Transmissão da Galaxy News"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C2526",
+      "FORMID": "0C2526",
+      "EDID": "MS04StrengthBoost",
+      "FULL": "Força de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C2527",
+      "FORMID": "0C2527",
+      "EDID": "MS04PerceptionBoost",
+      "FULL": "Sentidos de Formiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C34D1",
+      "FORMID": "0C34D1",
+      "EDID": "MS01Lucky8BallAbility",
+      "FULL": "Boa sorte."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C9CF5",
+      "FORMID": "0C9CF5",
+      "EDID": "MS09WithdrawalUltrajet",
+      "FULL": "Abstinência de Ultrajet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAA36",
+      "FORMID": "0CAA36",
+      "EDID": "SpellFlamerEffect",
+      "FULL": "Mais Queimaduras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630E5",
+      "FORMID": "0630E5",
+      "EDID": "BobbleStrength",
+      "FULL": "Aumento de Força"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630E6",
+      "FORMID": "0630E6",
+      "EDID": "BobblePerception",
+      "FULL": "Aumento na Percepção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630E7",
+      "FORMID": "0630E7",
+      "EDID": "BobbleEndurance",
+      "FULL": "Aumento de Vigor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630E8",
+      "FORMID": "0630E8",
+      "EDID": "BobbleCharisma",
+      "FULL": "Aumento de Carisma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F0",
+      "FORMID": "0630F0",
+      "EDID": "BobbleIntelligence",
+      "FULL": "Aumento de Inteligência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F1",
+      "FORMID": "0630F1",
+      "EDID": "BobbleAgility",
+      "FULL": "Aumento de Agilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F2",
+      "FORMID": "0630F2",
+      "EDID": "BobbleLuck",
+      "FULL": "Aumento na Sorte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F3",
+      "FORMID": "0630F3",
+      "EDID": "BobbleBarter",
+      "FULL": "Aumento de Barganha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F5",
+      "FORMID": "0630F5",
+      "EDID": "BobbleEnergyWeapons",
+      "FULL": "Aumento de Armas de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F6",
+      "FORMID": "0630F6",
+      "EDID": "BobbleExplosives",
+      "FULL": "Impulso de Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F8",
+      "FORMID": "0630F8",
+      "EDID": "BobbleLockpick",
+      "FULL": "Aprimoramento de Gazua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630F9",
+      "FORMID": "0630F9",
+      "EDID": "BobbleMedicine",
+      "FULL": "Impulso de Medicina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FA",
+      "FORMID": "0630FA",
+      "EDID": "BobbleMeleeWeapons",
+      "FULL": "Bônus de Armas Corpo a Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FB",
+      "FORMID": "0630FB",
+      "EDID": "BobbleRepair",
+      "FULL": "Aprimoramento de Reparo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FC",
+      "FORMID": "0630FC",
+      "EDID": "BobbleScience",
+      "FULL": "Impulso de Ciência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FD",
+      "FORMID": "0630FD",
+      "EDID": "BobbleGuns",
+      "FULL": "Aumento de Armas de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FE",
+      "FORMID": "0630FE",
+      "EDID": "BobbleSneak",
+      "FULL": "Aumento na Furtividade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0630FF",
+      "FORMID": "0630FF",
+      "EDID": "BobbleSpeech",
+      "FULL": "Reforço de Oratória"
+    },
+    {
+      "FORM": "@FalloutNV.esm:063100",
+      "FORMID": "063100",
+      "EDID": "BobbleUnarmed",
+      "FULL": "Aumento em Desarmado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:067572",
+      "FORMID": "067572",
+      "EDID": "HeadCrippleEffect",
+      "FULL": "Cabeça Estropiada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06DC6E",
+      "FORMID": "06DC6E",
+      "EDID": "WithdrawalAntNectar",
+      "FULL": "Abstinência de Néctar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07D4F2",
+      "FORMID": "07D4F2",
+      "EDID": "RL3Survive",
+      "FULL": "RL3 Sobreviva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07D4F3",
+      "FORMID": "07D4F3",
+      "EDID": "PoisonImmunity",
+      "FULL": "Imunidade a Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E474",
+      "FORMID": "07E474",
+      "EDID": "StealthBoyInvisibilitySpell",
+      "FULL": "Feitiço de Invisibilidade do Stealth Boy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08EF0C",
+      "FORMID": "08EF0C",
+      "EDID": "JasonBrightGlowSpell",
+      "FULL": "Necrótico Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEF5",
+      "FORMID": "0CCEF5",
+      "EDID": "SuperStimpakDebuffEffect",
+      "FULL": "Mal-estar de Stimpak"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE556",
+      "FORMID": "0CE556",
+      "EDID": "NightkinToughness",
+      "FULL": "Robustez de Nightkin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29CC",
+      "FORMID": "0E29CC",
+      "EDID": "DLC03PuppiesEffect",
+      "FULL": "Bônus de Saúde"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29CD",
+      "FORMID": "0E29CD",
+      "EDID": "DLC03RadScorpion3Poison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D1",
+      "FORMID": "0E29D1",
+      "EDID": "DLC03FeralGhoulPoison",
+      "FULL": "Envenenamento por Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D2",
+      "FORMID": "0E29D2",
+      "EDID": "DLC03NuclearAnomalyAbility",
+      "FULL": "Anomalia Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D3",
+      "FORMID": "0E29D3",
+      "EDID": "DLC03PerkNervesOfSteel",
+      "FULL": "Nervos de Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D4",
+      "FORMID": "0E29D4",
+      "EDID": "DLC03PerkRadAbsorb",
+      "FULL": "Regeneração por Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB402",
+      "FORMID": "0EB402",
+      "EDID": "BarkScorpionPoison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB40E",
+      "FORMID": "0EB40E",
+      "EDID": "DeathClawKnockback",
+      "FULL": "Repulsão de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D49",
+      "FORMID": "0F3D49",
+      "EDID": "SporeCarrierRegen",
+      "FULL": "Regeneração de Portador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F6376",
+      "FORMID": "0F6376",
+      "EDID": "SporeCarrierBurstAttack",
+      "FULL": "Ataque de Ruptura do Carregador de Esporos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FAB12",
+      "FORMID": "0FAB12",
+      "EDID": "WithdrawalTobacco",
+      "FULL": "Abstinência de Tabaco Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCD7C",
+      "FORMID": "0FCD7C",
+      "EDID": "SporeCarrierPoisonResist",
+      "FULL": "Resistência a Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100630",
+      "FORMID": "100630",
+      "EDID": "VMS15WaterBreathingActual",
+      "FULL": "Respiração Aquática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C0BD",
+      "FORMID": "10C0BD",
+      "EDID": "PerkRangerToughness",
+      "FULL": "Robustez de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118E7A",
+      "FORMID": "118E7A",
+      "EDID": "RexDT",
+      "FULL": "Limite de Dano de Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9ED",
+      "FORMID": "11D9ED",
+      "EDID": "LegionMongrelHamstring",
+      "FULL": "Tendão de Vira-lata da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F866",
+      "FORMID": "11F866",
+      "EDID": "VTSFadeOutSpell",
+      "FULL": "Vaza, camarada!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F869",
+      "FORMID": "11F869",
+      "EDID": "VTSFadeInSpell",
+      "FULL": "Chega mais, camarada!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1267A8",
+      "FORMID": "1267A8",
+      "EDID": "LegionExplorerAura",
+      "FULL": "Bônus de Percepção de Explorador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12A22E",
+      "FORMID": "12A22E",
+      "EDID": "CazadorPoison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B86F",
+      "FORMID": "12B86F",
+      "EDID": "RadscorpionDT",
+      "FULL": "RD de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B870",
+      "FORMID": "12B870",
+      "EDID": "GiantRadscorpionDT",
+      "FULL": "DR de Escorpião-Radiante-Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B88B",
+      "FORMID": "12B88B",
+      "EDID": "MrHandyDT",
+      "FULL": "Sr. Handy RD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B88C",
+      "FORMID": "12B88C",
+      "EDID": "MrGutsyDT",
+      "FULL": "Sr. Gutsy RD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B88D",
+      "FORMID": "12B88D",
+      "EDID": "SentryBotDT",
+      "FULL": "Robô Sentinela DR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B88E",
+      "FORMID": "12B88E",
+      "EDID": "ProtectronDT",
+      "FULL": "DR de Protectron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B88F",
+      "FORMID": "12B88F",
+      "EDID": "RobobrainDT",
+      "FULL": "Robocérebro DR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B890",
+      "FORMID": "12B890",
+      "EDID": "BarkScorpionDT",
+      "FULL": "RD de Escorpião Casca-dura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B891",
+      "FORMID": "12B891",
+      "EDID": "SecuritronDT",
+      "FULL": "Securitron RD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B892",
+      "FORMID": "12B892",
+      "EDID": "DeathclawDT",
+      "FULL": "DR de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B893",
+      "FORMID": "12B893",
+      "EDID": "BabyDeathclawDT",
+      "FULL": "DR de Destroçador Bebê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B894",
+      "FORMID": "12B894",
+      "EDID": "AlphaMotherDeathclawDT",
+      "FULL": "SuperDestroçador DR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B895",
+      "FORMID": "12B895",
+      "EDID": "SuperMutantDT",
+      "FULL": "RD de Supermutante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133037",
+      "FORMID": "133037",
+      "EDID": "vGlowingOneAttack",
+      "FULL": "Rajada de Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133038",
+      "FORMID": "133038",
+      "EDID": "vGlowingOneRadAuraEffect",
+      "FULL": "Aura de Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133039",
+      "FORMID": "133039",
+      "EDID": "NVCCCritterRadiationAttack",
+      "FULL": "Rajada de Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13303A",
+      "FORMID": "13303A",
+      "EDID": "NVCCCritterRadiationActorEffect",
+      "FULL": "Aura de Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133056",
+      "FORMID": "133056",
+      "EDID": "GoldenGeckoRadiation",
+      "FULL": "Radiação de Gecko Dourado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134B1D",
+      "FORMID": "134B1D",
+      "EDID": "VEvaluatePackageSpell",
+      "FULL": "Avalie!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC1",
+      "FORMID": "135EC1",
+      "EDID": "FourEyesPerceptionPenalty",
+      "FULL": "Penalidade de Percepção Quatro Olhos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC2",
+      "FORMID": "135EC2",
+      "EDID": "SmallFrameAgility",
+      "FULL": "Aumento de Agilidade: Estrutura Delgada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F08",
+      "FORMID": "135F08",
+      "EDID": "PerkMathWrath",
+      "FULL": "Fúria Matemática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137B00",
+      "FORMID": "137B00",
+      "EDID": "PerkBuiltToDestroy",
+      "FULL": "Feito para Destruir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137B01",
+      "FORMID": "137B01",
+      "EDID": "PerkGoodNatured",
+      "FULL": "Gentil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138296",
+      "FORMID": "138296",
+      "EDID": "Ruthless",
+      "FULL": "Implacável"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A9D6",
+      "FORMID": "13A9D6",
+      "EDID": "RegenLow",
+      "FULL": "Regeneração Lenta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B156",
+      "FORMID": "13B156",
+      "EDID": "HooverDamTurretDT",
+      "FULL": "Torreta da Represa Hoover DR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13DE70",
+      "FORMID": "13DE70",
+      "EDID": "BigHornerKnockback",
+      "FULL": "Repulsão do BigHorner"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5BD",
+      "FORMID": "13E5BD",
+      "EDID": "ToughDogDT",
+      "FULL": "Cão Durão DR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1413D1",
+      "FORMID": "1413D1",
+      "EDID": "DisguiseFactionPulseActorEffect",
+      "FULL": "Pulso de Disfarce de Facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1424DC",
+      "FORMID": "1424DC",
+      "EDID": "TerrifyingPresenceSpell",
+      "FULL": "Presença Aterrorizante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FB8",
+      "FORMID": "143FB8",
+      "EDID": "RegenMed",
+      "FULL": "Regeneração Média"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144114",
+      "FORMID": "144114",
+      "EDID": "MissFortuneGunSpell",
+      "FULL": "Feitiço de Arma da Dama do Infortúnio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147D25",
+      "FORMID": "147D25",
+      "EDID": "NightstalkerPoison",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14ADDF",
+      "FORMID": "14ADDF",
+      "EDID": "VEvaluatePackagePulseSpell",
+      "FULL": "Avaliar Pulso do Pacote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C129",
+      "FORMID": "14C129",
+      "EDID": "ImplantStrengthBoost",
+      "FULL": "Acelerador de Hipertrofia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12B",
+      "FORMID": "14C12B",
+      "EDID": "ImplantAgilityBoost",
+      "FULL": "Reforço Reflexo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12C",
+      "FORMID": "14C12C",
+      "EDID": "ImplantPerceptionBoost",
+      "FULL": "Aprimorador Óptico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12F",
+      "FORMID": "14C12F",
+      "EDID": "ImplantEnduranceBoost",
+      "FULL": "Regulador de Nocicepção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C131",
+      "FORMID": "14C131",
+      "EDID": "ImplantCharismaBoost",
+      "FULL": "Sintetizador de Empatia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C133",
+      "FORMID": "14C133",
+      "EDID": "ImplantIntelligenceBoost",
+      "FULL": "Co-processador Lógico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C135",
+      "FORMID": "14C135",
+      "EDID": "ImplantLuckBoost",
+      "FULL": "Calculadora de Probabilidade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CCE0",
+      "FORMID": "14CCE0",
+      "EDID": "ImplantDTBoost",
+      "FULL": "Armadura Subdérmica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CCE2",
+      "FORMID": "14CCE2",
+      "EDID": "ImplantRegenBoost",
+      "FULL": "Criador de Monócitos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F448",
+      "FORMID": "14F448",
+      "EDID": "LakelurkWaterBreathing",
+      "FULL": "Respirar na Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BD06",
+      "FORMID": "15BD06",
+      "EDID": "PoisonGreaseRadscorpionSpell",
+      "FULL": "Aplicar Veneno de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C126",
+      "FORMID": "15C126",
+      "EDID": "VBallisticFistSelfEffect",
+      "FULL": "Me Mostre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C570",
+      "FORMID": "15C570",
+      "EDID": "PerkCompanionSuite",
+      "FULL": "Suíte de Companheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8DA",
+      "FORMID": "15F8DA",
+      "EDID": "EDERadioBroadcast",
+      "FULL": "Transmissão de Rádio da EDE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA1C",
+      "FORMID": "15FA1C",
+      "EDID": "Dehydration200",
+      "FULL": "Desidratação Leve"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA1D",
+      "FORMID": "15FA1D",
+      "EDID": "Dehydration400",
+      "FULL": "Adv. Desidratação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA1E",
+      "FORMID": "15FA1E",
+      "EDID": "Dehydration600",
+      "FULL": "Crit. Desidratação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA1F",
+      "FORMID": "15FA1F",
+      "EDID": "Dehydration800",
+      "FULL": "Desidratação Mortal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA20",
+      "FORMID": "15FA20",
+      "EDID": "Dehydration1000",
+      "FULL": "Desidratação Fatal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA21",
+      "FORMID": "15FA21",
+      "EDID": "Starvation200",
+      "FULL": "Inanição Leve"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA22",
+      "FORMID": "15FA22",
+      "EDID": "Starvation400",
+      "FULL": "Adv. Inanição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA23",
+      "FORMID": "15FA23",
+      "EDID": "Starvation600",
+      "FULL": "Crit. Inanição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA24",
+      "FORMID": "15FA24",
+      "EDID": "Starvation800",
+      "FULL": "Inanição Mortal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA25",
+      "FORMID": "15FA25",
+      "EDID": "Starvation1000",
+      "FULL": "Inanição Fatal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA26",
+      "FORMID": "15FA26",
+      "EDID": "SleepDeprivation200",
+      "FULL": "Privação Leve de Sono."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA27",
+      "FORMID": "15FA27",
+      "EDID": "SleepDeprivation400",
+      "FULL": "Adv. Privação de Sono"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA28",
+      "FORMID": "15FA28",
+      "EDID": "SleepDeprivation600",
+      "FULL": "Privação de Sono Crítica."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA29",
+      "FORMID": "15FA29",
+      "EDID": "SleepDeprivation800",
+      "FULL": "Privação de Sono Letal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FA2A",
+      "FORMID": "15FA2A",
+      "EDID": "SleepDeprivation1000",
+      "FULL": "Privação de Sono Fatal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:160140",
+      "FORMID": "160140",
+      "EDID": "SecuritronMk2DT",
+      "FULL": "Securitron Mk 2 RD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16334A",
+      "FORMID": "16334A",
+      "EDID": "CalmHeartEffect",
+      "FULL": "Coração Calmo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164AFD",
+      "FORMID": "164AFD",
+      "EDID": "MeatOfChampionsEffect",
+      "FULL": "Carne dos Campeões"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164BE6",
+      "FORMID": "164BE6",
+      "EDID": "VDisplacerGloveSelfEffect",
+      "FULL": "Me Mostre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16517E",
+      "FORMID": "16517E",
+      "EDID": "FerociousLoyaltyEffect",
+      "FULL": "Lealdade Feroz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167722",
+      "FORMID": "167722",
+      "EDID": "CalmHeartScriptAbility",
+      "FULL": "Coração Calmo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1682A4",
+      "FORMID": "1682A4",
+      "EDID": "VRexSonarActorEffect",
+      "FULL": "Sonar de Ratos do Rex"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1718B6",
+      "FORMID": "1718B6",
+      "EDID": "PerkActionGirl1",
+      "FULL": "Garota Durona"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1718B7",
+      "FORMID": "1718B7",
+      "EDID": "PerkActionBoy1",
+      "FULL": "Garoto de Ação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172091",
+      "FORMID": "172091",
+      "EDID": "DoctorLimbRestoration",
+      "FULL": "Restauração de Membros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D6D",
+      "FORMID": "175D6D",
+      "EDID": "WithdrawalTurbo",
+      "FULL": "Abstinência de Turbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D6E",
+      "FORMID": "175D6E",
+      "EDID": "WithdrawalRebound",
+      "FULL": "Abstinência de Rebound"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D6F",
+      "FORMID": "175D6F",
+      "EDID": "WithdrawalHydra",
+      "FULL": "Abstinência de Hidra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D70",
+      "FORMID": "175D70",
+      "EDID": "WithdrawalSteady",
+      "FULL": "Abstinência de Steady"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1787BB",
+      "FORMID": "1787BB",
+      "EDID": "MkIIITurretDT",
+      "FULL": "Torreta Mk. III RD"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B790",
+      "FORMID": "17B790",
+      "EDID": "RexBloodLegion",
+      "FULL": "Benefício Sangue da Legião de Rex"
+    }
+  ]
+}

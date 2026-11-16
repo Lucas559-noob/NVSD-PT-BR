@@ -1,0 +1,39 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@Fallout3.esm:029384",
+      "FORMID": "029384",
+      "EDID": "AmmoRailwaySpikes",
+      "FULL": "Grampos de Via Férrea",
+      "ONAM": "Grampos"
+    },
+    {
+      "FORM": "@Fallout3.esm:04C5F9",
+      "FORMID": "04C5F9",
+      "EDID": "AmmoShotgunShellRobot",
+      "FULL": "Cartucho de Escopeta",
+      "ONAM": "Cartucho"
+    },
+    {
+      "FORM": "@Fallout3.esm:0207F7",
+      "FORMID": "0207F7",
+      "EDID": "Ammo32Caliber",
+      "FULL": "Cartucho .32",
+      "ONAM": ".32"
+    },
+    {
+      "FORM": "@Fallout3.esm:028EEA",
+      "FORMID": "028EEA",
+      "EDID": "AmmoShotgunShell",
+      "FULL": "Cartucho de Escopeta",
+      "ONAM": "Cartucho"
+    },
+    {
+      "FORM": "@Fallout3.esm:02936E",
+      "FORMID": "02936E",
+      "EDID": "AmmoDart",
+      "FULL": "Dardo",
+      "ONAM": "Dardos"
+    }
+  ]
+}

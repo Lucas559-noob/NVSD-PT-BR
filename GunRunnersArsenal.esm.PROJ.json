@@ -1,0 +1,142 @@
+{
+  "PROJ": [
+    {
+      "FORM": "@GunRunnersArsenal.esm:00081A",
+      "FORMID": "00081A",
+      "EDID": "NVDLC05GrenadeNukaProjectile",
+      "FULL": "Granada Nuka"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00081C",
+      "FORMID": "00081C",
+      "EDID": "NVDLC05MFCGrenadeProjectile",
+      "FULL": "Granada MFC"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000892",
+      "FORMID": "000892",
+      "EDID": "NVDLC05CleansingFlameProjectile",
+      "FULL": "Chama Purificadora"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:0008EF",
+      "FORMID": "0008EF",
+      "EDID": "NVDLC05FatMineProjectile",
+      "FULL": "Fat Mine"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:0008FE",
+      "FORMID": "0008FE",
+      "EDID": "NVDLC05TinGrenadeProjectile",
+      "FULL": "Granada de Estanho"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000906",
+      "FORMID": "000906",
+      "EDID": "NVDLC05DragonsBreathBBProjectile",
+      "FULL": "Chuva de Dragão BB Pellet"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000908",
+      "FORMID": "000908",
+      "EDID": "NVDLC0525mmGrenadeProjectilePlasma",
+      "FULL": "Granada 25mm, Plasma"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00090B",
+      "FORMID": "00090B",
+      "EDID": "NVDLC0540mmGrenadeProjectilePlasma",
+      "FULL": "Granada 40mm, Plasma"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00090E",
+      "FORMID": "00090E",
+      "EDID": "NVDLC0540mmGrenadeProjectilePulse",
+      "FULL": "Granada 40mm, Pulso"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00090F",
+      "FORMID": "00090F",
+      "EDID": "NVDLC0525mmGrenadeProjectilePulse",
+      "FULL": "Granada 25mm, Pulso"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000912",
+      "FORMID": "000912",
+      "EDID": "NVDLC0525mmGrenadeProjectileTimed",
+      "FULL": "Granada 25mm, Temporizada"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000913",
+      "FORMID": "000913",
+      "EDID": "NVDLC05FatManProjectileTimed",
+      "FULL": "Mini Bomba Nuclear, Temporizada"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000915",
+      "FORMID": "000915",
+      "EDID": "NVDLC0550MGExplosivetProjectile",
+      "FULL": ".50MG Explosiva"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000918",
+      "FORMID": "000918",
+      "EDID": "NVDLC05FatManBigKid",
+      "FULL": "Mini Bomba, Garotão"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000919",
+      "FORMID": "000919",
+      "EDID": "NVDLC05FatManLowYield",
+      "FULL": "Mini Nuke, Baixo Rendimento"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000922",
+      "FORMID": "000922",
+      "EDID": "NVDLC05MissileProjectileHive",
+      "FULL": "Míssil, Colmeia"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000949",
+      "FORMID": "000949",
+      "EDID": "NVDLC0512GaPulseSlugProjectile",
+      "FULL": "12 Ga. Projétil de Pulso"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00094A",
+      "FORMID": "00094A",
+      "EDID": "NVDLC0520GaPulseSlugProjectile",
+      "FULL": "20 Ga. Projétil de Pulso"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00094B",
+      "FORMID": "00094B",
+      "EDID": "NVDLC0512GaFlechetteProjectile",
+      "FULL": "Flechette Calibre 12"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A0B",
+      "FORMID": "000A0B",
+      "EDID": "NVDLC05FatManTinyTots",
+      "FULL": "Mini Nuke, Pequenos Totós"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A91",
+      "FORMID": "000A91",
+      "EDID": "NVDLC05MFCMineClusterProjectile2",
+      "FULL": "Mina Cluster MFC"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000ABA",
+      "FORMID": "000ABA",
+      "EDID": "NVDLC05TimeBombHighYieldProjectile",
+      "FULL": "Bomba-relógio armada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D533",
+      "FORMID": "13D533",
+      "EDID": "TimeBombProjectile",
+      "FULL": "Bomba-relógio armada"
+    }
+  ]
+}

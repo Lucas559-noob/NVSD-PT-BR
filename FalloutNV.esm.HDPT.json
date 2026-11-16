@@ -1,0 +1,340 @@
+{
+  "HDPT": [
+    {
+      "FORM": "@FalloutNV.esm:02E379",
+      "FORMID": "02E379",
+      "EDID": "BeardFull",
+      "FULL": "Sobrevivencialista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02F21F",
+      "FORMID": "02F21F",
+      "EDID": "BeardThin",
+      "FULL": "Barba Desgrenhada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0306DA",
+      "FORMID": "0306DA",
+      "EDID": "BeardCircle",
+      "FULL": "Cavanhaque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FCE",
+      "FORMID": "066FCE",
+      "EDID": "BeardChinWide",
+      "FULL": "Beatnik"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FCF",
+      "FORMID": "066FCF",
+      "EDID": "BeardMustacheCurly",
+      "FULL": "Pistoleiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD0",
+      "FORMID": "066FD0",
+      "EDID": "BeardMustache",
+      "FULL": "O Elegante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD1",
+      "FORMID": "066FD1",
+      "EDID": "BeardMuttonChops",
+      "FULL": "Costeletas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD2",
+      "FORMID": "066FD2",
+      "EDID": "BeardSide",
+      "FULL": "Costeletas Desgrenhadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD3",
+      "FORMID": "066FD3",
+      "EDID": "BeardSoulPatch",
+      "FULL": "Cavanhaque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD4",
+      "FORMID": "066FD4",
+      "EDID": "BeardGoateeWide",
+      "FULL": "Velho Coot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD5",
+      "FORMID": "066FD5",
+      "EDID": "BeardGoatee",
+      "FULL": "Gettysburg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD6",
+      "FORMID": "066FD6",
+      "EDID": "BeardChopper",
+      "FULL": "Retalhador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD7",
+      "FORMID": "066FD7",
+      "EDID": "BeardChinStrip",
+      "FULL": "Tira de Queixo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FD8",
+      "FORMID": "066FD8",
+      "EDID": "BeardChinCurtain",
+      "FULL": "Abe, o Honesto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09F920",
+      "FORMID": "09F920",
+      "EDID": "BeardMustacheFull",
+      "FULL": "Homem de Homem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09F921",
+      "FORMID": "09F921",
+      "EDID": "BeardMustacheThin",
+      "FULL": "Espadachim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09F922",
+      "FORMID": "09F922",
+      "EDID": "BeardMustacheCircle",
+      "FULL": "Don Juan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09F923",
+      "FORMID": "09F923",
+      "EDID": "BeardFullOld",
+      "FULL": "Barba Velha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22BD",
+      "FORMID": "0B22BD",
+      "EDID": "BeardChopperThin",
+      "FULL": "Macho Alfa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22BF",
+      "FORMID": "0B22BF",
+      "EDID": "BeardGoateeThin",
+      "FULL": "Maquiavélico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22C0",
+      "FORMID": "0B22C0",
+      "EDID": "BeardSoulPatchThin",
+      "FULL": "Espanando o Queixo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22C1",
+      "FORMID": "0B22C1",
+      "EDID": "BeardMustacheCurlyThin",
+      "FULL": "Cavalaria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B22C2",
+      "FORMID": "0B22C2",
+      "EDID": "BeardChinStripThin",
+      "FULL": "Papai O"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BA475",
+      "FORMID": "0BA475",
+      "EDID": "BeardGoateeWideFull",
+      "FULL": "Backwater"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BA476",
+      "FORMID": "0BA476",
+      "EDID": "BeardMustacheCurlyCircle",
+      "FULL": "Brutamontes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBEB",
+      "FORMID": "0BCBEB",
+      "EDID": "BeardChinStripCircle",
+      "FULL": "Tira Fina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBEC",
+      "FORMID": "0BCBEC",
+      "EDID": "BeardChinStripFull",
+      "FULL": "Strip de Trepada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBED",
+      "FORMID": "0BCBED",
+      "EDID": "BeardSoulPatchCircle",
+      "FULL": "Toque de Alma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBEE",
+      "FORMID": "0BCBEE",
+      "EDID": "BeardSoulPatchFull",
+      "FULL": "Rasto de Pneu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBEF",
+      "FORMID": "0BCBEF",
+      "EDID": "BeardMustacheCurlyFull",
+      "FULL": "O Camarada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF0",
+      "FORMID": "0BCBF0",
+      "EDID": "BeardGoateeCircle",
+      "FULL": "Barba por Fazer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF1",
+      "FORMID": "0BCBF1",
+      "EDID": "BeardGoateeFull",
+      "FULL": "Manchu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF2",
+      "FORMID": "0BCBF2",
+      "EDID": "BeardChopperFull",
+      "FULL": "Motoqueiro do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF3",
+      "FORMID": "0BCBF3",
+      "EDID": "BeardMix01a",
+      "FULL": "Mefistófeles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF4",
+      "FORMID": "0BCBF4",
+      "EDID": "BeardMix01b",
+      "FULL": "Maneiro Espetado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF5",
+      "FORMID": "0BCBF5",
+      "EDID": "BeardMix01c",
+      "FULL": "El Carcinero"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF6",
+      "FORMID": "0BCBF6",
+      "EDID": "BeardMix01d",
+      "FULL": "Hombre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF7",
+      "FORMID": "0BCBF7",
+      "EDID": "BeardMix02a",
+      "FULL": "Renegado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF8",
+      "FORMID": "0BCBF8",
+      "EDID": "BeardMix02b",
+      "FULL": "Coisas Grosseiras"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBF9",
+      "FORMID": "0BCBF9",
+      "EDID": "BeardMix02c",
+      "FULL": "Mão do Homem Morto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFA",
+      "FORMID": "0BCBFA",
+      "EDID": "BeardMix03a",
+      "FULL": "Briguento de Bar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFB",
+      "FORMID": "0BCBFB",
+      "EDID": "BeardMix03b",
+      "FULL": "À Deriva"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFC",
+      "FORMID": "0BCBFC",
+      "EDID": "BeardMix4a",
+      "FULL": "Malandro Elegante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFD",
+      "FORMID": "0BCBFD",
+      "EDID": "BeardMix4b",
+      "FULL": "Engomadinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFE",
+      "FORMID": "0BCBFE",
+      "EDID": "BeardMix5a",
+      "FULL": "Presidente Cheng"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCBFF",
+      "FORMID": "0BCBFF",
+      "EDID": "BeardMix6a",
+      "FULL": "Ronin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCC00",
+      "FORMID": "0BCC00",
+      "EDID": "BeardMix6b",
+      "FULL": "Samurai Calejado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCC01",
+      "FORMID": "0BCC01",
+      "EDID": "BeardMix6c",
+      "FULL": "Elegância Séria"
+    },
+    {
+      "FORM": "@FalloutNV.esm:073D56",
+      "FORMID": "073D56",
+      "EDID": "Eyepatch",
+      "FULL": "Tapa-olho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B470",
+      "FORMID": "07B470",
+      "EDID": "BeardGoateeWideFullOld",
+      "FULL": "Interiorano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B472",
+      "FORMID": "07B472",
+      "EDID": "BeardGoateeWideOld",
+      "FULL": "Velho Coot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B473",
+      "FORMID": "07B473",
+      "EDID": "BeardMustacheCircleOld",
+      "FULL": "Don Juan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B474",
+      "FORMID": "07B474",
+      "EDID": "BeardMustacheFullOld",
+      "FULL": "Homem de Homem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B47B",
+      "FORMID": "07B47B",
+      "EDID": "BeardMustacheOld",
+      "FULL": "O Elegante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B489",
+      "FORMID": "07B489",
+      "EDID": "BeardMustacheThinOld",
+      "FULL": "Espadachim"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B5BEA",
+      "FORMID": "0B5BEA",
+      "EDID": "EyebrowM",
+      "FULL": "Olhos castanhos"
+    }
+  ]
+}

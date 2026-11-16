@@ -1,0 +1,695 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@FalloutNV.esm:004240",
+      "FORMID": "004240",
+      "EDID": "Ammo556mm",
+      "FULL": "Munição 5,56mm",
+      "ONAM": "5,56 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004241",
+      "FORMID": "004241",
+      "EDID": "Ammo10mm",
+      "FULL": "Munição de 10mm",
+      "ONAM": "10mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004485",
+      "FORMID": "004485",
+      "EDID": "AmmoMicroFusionCell",
+      "FULL": "Célula de Microfusão",
+      "ONAM": "Célula MF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020772",
+      "FORMID": "020772",
+      "EDID": "AmmoSmallEnergyCell",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020799",
+      "FORMID": "020799",
+      "EDID": "AmmoFatMans",
+      "FULL": "Mini Bomba Nuclear",
+      "ONAM": "Mini Bomba Nuclear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02935B",
+      "FORMID": "02935B",
+      "EDID": "AmmoBB",
+      "FULL": "BB",
+      "ONAM": "BB"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029364",
+      "FORMID": "029364",
+      "EDID": "AmmoAlienPowerCell",
+      "FULL": "Célula de Energia Alienígena",
+      "ONAM": "Célula de Energia Alienígena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029371",
+      "FORMID": "029371",
+      "EDID": "AmmoFlamerFuel",
+      "FULL": "Combustível de Lança-chamas",
+      "ONAM": "Combustível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02937E",
+      "FORMID": "02937E",
+      "EDID": "Ammo44magnum",
+      "FULL": "Munição .44 Magnum",
+      "ONAM": ".44 Mag."
+    },
+    {
+      "FORM": "@FalloutNV.esm:029383",
+      "FORMID": "029383",
+      "EDID": "AmmoMissile",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:047419",
+      "FORMID": "047419",
+      "EDID": "AmmoBloatflyDart",
+      "FULL": "Dardo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F706",
+      "FORMID": "05F706",
+      "EDID": "AmmoCentaurSpit",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06A80D",
+      "FORMID": "06A80D",
+      "EDID": "AmmoMesmetronPowerCell",
+      "FULL": "Célula de Energia do Mesmetron",
+      "ONAM": "Célula de Energia do Mez"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC1",
+      "FORMID": "078CC1",
+      "EDID": "AmmoFlamerFuelRobot",
+      "FULL": "Combustível de Lança-chamas",
+      "ONAM": "Combustível"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC2",
+      "FORMID": "078CC2",
+      "EDID": "AmmoSmallEnergyCellRobot",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC3",
+      "FORMID": "078CC3",
+      "EDID": "AmmoMicroFusionCellRobot",
+      "FULL": "Célula de Microfusão",
+      "ONAM": "Célula MF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC4",
+      "FORMID": "078CC4",
+      "EDID": "Ammo556mmRobot",
+      "FULL": "Munição 5,56mm",
+      "ONAM": "5,56 mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078CC5",
+      "FORMID": "078CC5",
+      "EDID": "AmmoMissileRobot",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B53C",
+      "FORMID": "06B53C",
+      "EDID": "Ammo308",
+      "FULL": "Munição .308",
+      "ONAM": ".308"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B53D",
+      "FORMID": "06B53D",
+      "EDID": "Ammo5mm",
+      "FULL": "Projétil de 5mm",
+      "ONAM": "5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B53E",
+      "FORMID": "06B53E",
+      "EDID": "AmmoElectronChargePack",
+      "FULL": "Pacote de Carga de Elétrons",
+      "ONAM": "Pacote EC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B8791",
+      "FORMID": "0B8791",
+      "EDID": "AmmoAntSpit",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:056634",
+      "FORMID": "056634",
+      "EDID": "AmmoMirelurkKing",
+      "FULL": "Energia Sônica",
+      "ONAM": "Sônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0615A8",
+      "FORMID": "0615A8",
+      "EDID": "Ammo5mmRobot",
+      "FULL": "Projétil de 5mm",
+      "ONAM": "5mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0615AF",
+      "FORMID": "0615AF",
+      "EDID": "AmmoElectronChargePackRobot",
+      "FULL": "Pacote de Carga de Elétrons",
+      "ONAM": "Pacote EC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA26",
+      "FORMID": "07EA26",
+      "EDID": "Ammo40mmGrenade",
+      "FULL": "Granada de 40mm",
+      "ONAM": "Granada de 40mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07EA27",
+      "FORMID": "07EA27",
+      "EDID": "Ammo22LR",
+      "FULL": "Munição .22LR",
+      "ONAM": ".22 LR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ECF5",
+      "FORMID": "08ECF5",
+      "EDID": "Ammo12Ga",
+      "FULL": "Cartucho Calibre 12",
+      "ONAM": "12ga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ECFF",
+      "FORMID": "08ECFF",
+      "EDID": "Ammo50MG",
+      "FULL": ".50 MG",
+      "ONAM": ".50MG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ED02",
+      "FORMID": "08ED02",
+      "EDID": "Ammo357Magnum",
+      "FULL": "Munição .357 Magnum",
+      "ONAM": ".357 Mag."
+    },
+    {
+      "FORM": "@FalloutNV.esm:08ED03",
+      "FORMID": "08ED03",
+      "EDID": "Ammo9mm",
+      "FULL": "Munição 9mm",
+      "ONAM": "9mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:096C40",
+      "FORMID": "096C40",
+      "EDID": "Ammo25mmGrenade",
+      "FULL": "Granada de 25mm",
+      "ONAM": "25mmG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E86F2",
+      "FORMID": "0E86F2",
+      "EDID": "Ammo20Ga",
+      "FULL": "Cartucho Calibre 20",
+      "ONAM": "Cal. 20"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1003B0",
+      "FORMID": "1003B0",
+      "EDID": "ammoNellisArtillery",
+      "FULL": "Projétil de artilharia de Nellis",
+      "ONAM": "Projétil de Artilharia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A207",
+      "FORMID": "11A207",
+      "EDID": "AmmoMS22Camera",
+      "FULL": "Filme da Câmera",
+      "ONAM": "Filme"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121133",
+      "FORMID": "121133",
+      "EDID": "Ammo4570",
+      "FULL": ".45-70 Gov't",
+      "ONAM": ".45-70G"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121150",
+      "FORMID": "121150",
+      "EDID": "Ammo5mmSurplus",
+      "FULL": "5mm, Excedente",
+      "ONAM": "5mm E",
+      "QNAM": "Sur"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121155",
+      "FORMID": "121155",
+      "EDID": "AmmoMicroBreeder",
+      "FULL": "Gerador de Microfusão",
+      "ONAM": "MF Procriador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121162",
+      "FORMID": "121162",
+      "EDID": "Ammo22LRPlinking",
+      "FULL": ".22LR, Atirar por Atirar",
+      "ONAM": ".22LR P",
+      "QNAM": "PL"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E437",
+      "FORMID": "13E437",
+      "EDID": "Ammo44MagnumHollowPoint",
+      "FULL": ".44 Magnum, Ponta Oca",
+      "ONAM": ".44M HP",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E438",
+      "FORMID": "13E438",
+      "EDID": "Ammo44MagnumSWCHandLoad",
+      "FULL": ".44 Magnum, SWC (Carga Manual)",
+      "ONAM": ".44M CPCS",
+      "QNAM": "SWC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E439",
+      "FORMID": "13E439",
+      "EDID": "Ammo22LRHollowPoint",
+      "FULL": ".22LR, Ponta Vazada",
+      "ONAM": ".22LR PA",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43A",
+      "FORMID": "13E43A",
+      "EDID": "Ammo9mmHollowPoint",
+      "FULL": "9mm, Ponta Oca",
+      "ONAM": "9mm HP",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43B",
+      "FORMID": "13E43B",
+      "EDID": "Ammo10mmHollowPoint",
+      "FULL": "10mm, Ponta Oca",
+      "ONAM": "HP 10mm",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43C",
+      "FORMID": "13E43C",
+      "EDID": "Ammo357MagnumHollowPoint",
+      "FULL": ".357 Magnum, Ponta Vazia",
+      "ONAM": ".357M PE",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43D",
+      "FORMID": "13E43D",
+      "EDID": "Ammo4570HollowPoint",
+      "FULL": ".45-70 Gov't, Ponta Oca",
+      "ONAM": ".45-70G PA",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43E",
+      "FORMID": "13E43E",
+      "EDID": "Ammo4570SWCHandLoad",
+      "FULL": ".45-70 Gov't, SWC (Carga Manual)",
+      "ONAM": ".45-70G CSC",
+      "QNAM": "SWC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E43F",
+      "FORMID": "13E43F",
+      "EDID": "Ammo5mmArmorPiercing",
+      "FULL": "5mm, Perfurante de Blindagem",
+      "ONAM": "5mm PA",
+      "QNAM": "AP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E440",
+      "FORMID": "13E440",
+      "EDID": "Ammo556mmSurplus",
+      "FULL": "5,56 mm, Excedente",
+      "ONAM": "5,56 mm S",
+      "QNAM": "Sur"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E441",
+      "FORMID": "13E441",
+      "EDID": "Ammo556mmHollowPoint",
+      "FULL": "5.56mm, Ponta Oca",
+      "ONAM": "5,56 mm HP",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E442",
+      "FORMID": "13E442",
+      "EDID": "Ammo308ArmorPiercing",
+      "FULL": ".308, Perfurante de Blindagem",
+      "ONAM": ".308 PA",
+      "QNAM": "AP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E443",
+      "FORMID": "13E443",
+      "EDID": "Ammo308HollowPoint",
+      "FULL": ".308, Ponta Oca",
+      "ONAM": ".308 HP",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E444",
+      "FORMID": "13E444",
+      "EDID": "Ammo50MGIncendiary",
+      "FULL": ".50 MG, Incendiária",
+      "ONAM": ".50MG Inc.",
+      "QNAM": "Inc."
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E445",
+      "FORMID": "13E445",
+      "EDID": "Ammo50MGArmorPiercing",
+      "FULL": ".50 MG, Perfurante",
+      "ONAM": ".50MG AP",
+      "QNAM": "AP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E446",
+      "FORMID": "13E446",
+      "EDID": "Ammo12GaBeanBag",
+      "FULL": "Calibre 12, Balote de Borracha",
+      "ONAM": "Saco de Calibre 12",
+      "QNAM": "Bag"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E447",
+      "FORMID": "13E447",
+      "EDID": "Ammo12GaSlug",
+      "FULL": "Calibre 12, Balote",
+      "ONAM": "12ga E",
+      "QNAM": "Slg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E448",
+      "FORMID": "13E448",
+      "EDID": "Ammo20GaSlug",
+      "FULL": "Calibre 20, Balote",
+      "ONAM": "20ga E",
+      "QNAM": "Slg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E449",
+      "FORMID": "13E449",
+      "EDID": "Ammo25mmGrenadeHighExplosive",
+      "FULL": "Granada de 25mm, Alto Explosivo",
+      "ONAM": "HE de 25mmG",
+      "QNAM": "HE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E44B",
+      "FORMID": "13E44B",
+      "EDID": "AmmoMissileHighExplosive",
+      "FULL": "Míssil, Alto Explosivo",
+      "ONAM": "Míssil HE",
+      "QNAM": "HE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E44C",
+      "FORMID": "13E44C",
+      "EDID": "AmmoMissileHighVelocity",
+      "FULL": "Míssil, Alta Velocidade",
+      "ONAM": "Míssil HV",
+      "QNAM": "HV"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A9E",
+      "FORMID": "140A9E",
+      "EDID": "Ammo357MagnumJFPHandLoad",
+      "FULL": ".357 Magnum, JFP (Carga Manual)",
+      "ONAM": ".357M JFP",
+      "QNAM": "JFP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140A9F",
+      "FORMID": "140A9F",
+      "EDID": "Ammo556mmArmorPiercing",
+      "FULL": "5.56mm, Perfurante de Blindagem",
+      "ONAM": "5,56 mm AP",
+      "QNAM": "AP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA0",
+      "FORMID": "140AA0",
+      "EDID": "Ammo308JSPHandLoad",
+      "FULL": ".308, Recarga Manual JSP",
+      "ONAM": ".308 JSP",
+      "QNAM": "JSP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA1",
+      "FORMID": "140AA1",
+      "EDID": "Ammo50MGHandLoad",
+      "FULL": ".50 MG, Match (Carga Manual)",
+      "ONAM": ".50MG M",
+      "QNAM": "M"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AA8",
+      "FORMID": "140AA8",
+      "EDID": "Ammo10mmJHPHandLoad",
+      "FULL": "10mm, JHP (Carga Manual)",
+      "ONAM": "JHP 10mm",
+      "QNAM": "JHP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1429CF",
+      "FORMID": "1429CF",
+      "EDID": "Ammo127mm",
+      "FULL": "Munição 12,7 mm",
+      "ONAM": "12,7mm"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F44A",
+      "FORMID": "14F44A",
+      "EDID": "AmmoLakelurk",
+      "FULL": "Energia Sônica",
+      "ONAM": "Sônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582DA",
+      "FORMID": "1582DA",
+      "EDID": "Ammo12GaCoinShot",
+      "FULL": "Calibre 12, Moedaço",
+      "ONAM": "12ga EC",
+      "QNAM": "CS"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582DF",
+      "FORMID": "1582DF",
+      "EDID": "AmmoSmallEnergyCellOverCharge",
+      "FULL": "Célula de Energia, Sobrecarga",
+      "ONAM": "E Célula OC",
+      "QNAM": "OC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582E0",
+      "FORMID": "1582E0",
+      "EDID": "AmmoSmallEnergyCellMaxCharge",
+      "FULL": "Célula de Energia, Carga Máx.",
+      "ONAM": "Célula E MC",
+      "QNAM": "MC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158307",
+      "FORMID": "158307",
+      "EDID": "Ammo40mmGrenadeIncendiary",
+      "FULL": "Granada 40mm, Incendiária",
+      "ONAM": "40mmG Inc.",
+      "QNAM": "Inc."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15830B",
+      "FORMID": "15830B",
+      "EDID": "AmmoMicroFusionCellOverCharge",
+      "FULL": "Célula de Microfusão, Sobrecarga Máxima",
+      "ONAM": "Cela OC MF",
+      "QNAM": "OC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15830C",
+      "FORMID": "15830C",
+      "EDID": "AmmoMicroFusionCellMaxCharge",
+      "FULL": "Célula de Microfusão, Carga Máxima",
+      "ONAM": "Célula MF MC",
+      "QNAM": "MC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15830D",
+      "FORMID": "15830D",
+      "EDID": "AmmoElectronChargePackOverCharge",
+      "FULL": "Pacote de Carga de Elétrons, Sobrecarga",
+      "ONAM": "Pacote OC EC",
+      "QNAM": "OC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15830E",
+      "FORMID": "15830E",
+      "EDID": "AmmoElectronChargePackMaxCharge",
+      "FULL": "Pacote de Carga de Elétrons, Carga Máx.",
+      "ONAM": "Pacote MC da CE",
+      "QNAM": "MC"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158311",
+      "FORMID": "158311",
+      "EDID": "AmmoElectronChargePackBulk",
+      "FULL": "Pacote de Carga de Elétrons, Grande",
+      "ONAM": "Pacote EC B",
+      "QNAM": "Bulk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158312",
+      "FORMID": "158312",
+      "EDID": "AmmoMicroFusionCellBulk",
+      "FULL": "Célula de Microfusão, Montão",
+      "ONAM": "MF Célula B",
+      "QNAM": "Bulk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158313",
+      "FORMID": "158313",
+      "EDID": "AmmoSmallEnergyCellBulk",
+      "FULL": "Célula de Energia, Volume",
+      "ONAM": "Célula E B",
+      "QNAM": "Bulk"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8ED",
+      "FORMID": "15E8ED",
+      "EDID": "Ammo44Special",
+      "FULL": "Munição .44 Special",
+      "ONAM": ".44 Spc.",
+      "QNAM": "Spc."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8EE",
+      "FORMID": "15E8EE",
+      "EDID": "Ammo38Special",
+      "FULL": "Munição .38 Special",
+      "ONAM": ".38 Spc.",
+      "QNAM": "Spc."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD42",
+      "FORMID": "15FD42",
+      "EDID": "AmmoPureWater",
+      "FULL": "Água Pura",
+      "ONAM": "Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160C40",
+      "FORMID": "160C40",
+      "EDID": "Ammo9mmP",
+      "FULL": "Munição 9mm, +P",
+      "ONAM": "9mm +P",
+      "QNAM": "+P"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160C41",
+      "FORMID": "160C41",
+      "EDID": "Ammo223",
+      "FULL": "Munição .223",
+      "ONAM": ".223",
+      "QNAM": ".223"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613D4",
+      "FORMID": "1613D4",
+      "EDID": "Ammo127mmHollowPoint",
+      "FULL": "Projétil de 12,7 mm, Ponta Oca",
+      "ONAM": "HP 12,7 mm",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613FF",
+      "FORMID": "1613FF",
+      "EDID": "Ammo5mmHollowPoint",
+      "FULL": "Projétil 5mm, Ponta Oca",
+      "ONAM": "HP 5 mm",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E79",
+      "FORMID": "165E79",
+      "EDID": "Ammo12GaMagnum",
+      "FULL": "Calibre 12, Magnum",
+      "ONAM": "Mag. calibre 12",
+      "QNAM": "MAG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E7A",
+      "FORMID": "165E7A",
+      "EDID": "Ammo20GaMagnum",
+      "FULL": "Calibre 20, Magnum",
+      "ONAM": "Mag. Cal. 20",
+      "QNAM": "MAG"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B5A",
+      "FORMID": "166B5A",
+      "EDID": "AmmoSmallEnergyCellTurret",
+      "FULL": "Célula de energia",
+      "ONAM": "Célula E"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166F62",
+      "FORMID": "166F62",
+      "EDID": "AmmoFlamerFuelHomemade",
+      "FULL": "Combustível de Lança-chamas, Caseiro",
+      "ONAM": "Combustível, HM",
+      "QNAM": "HM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AEF9",
+      "FORMID": "16AEF9",
+      "EDID": "AmmoNVArchimedesII",
+      "FULL": "Carga do ARCHIMEDES II",
+      "ONAM": "Carga ARCHII"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E54",
+      "FORMID": "176E54",
+      "EDID": "AmmoCompanion",
+      "FULL": "Munição de Acompanhante Mágica",
+      "ONAM": "MCA"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176E5C",
+      "FORMID": "176E5C",
+      "EDID": "Ammo9mmRobot",
+      "FULL": "Munição 9mm",
+      "ONAM": "9mm"
+    }
+  ]
+}

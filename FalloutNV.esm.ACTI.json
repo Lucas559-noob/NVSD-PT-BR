@@ -1,0 +1,4197 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@FalloutNV.esm:01566B",
+      "FORMID": "01566B",
+      "EDID": "DrinkTowerPipe00Rads",
+      "FULL": "Válvula da Torre d'Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014AB3",
+      "FORMID": "014AB3",
+      "EDID": "DrinkToilet01Avg",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D6F",
+      "FORMID": "020D6F",
+      "EDID": "DrinkSink01Avg",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D72",
+      "FORMID": "020D72",
+      "EDID": "DrinkFireHydrant",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020D73",
+      "FORMID": "020D73",
+      "EDID": "DrinkFireHydrantClean",
+      "FULL": "Hidrante de Incêndio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:026FB3",
+      "FORMID": "026FB3",
+      "EDID": "TrapGrenadeBunch",
+      "FULL": "Buquê de Granadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02796F",
+      "FORMID": "02796F",
+      "EDID": "Automat01",
+      "FULL": "Eat'o'tronic 3000"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028666",
+      "FORMID": "028666",
+      "EDID": "TrapBearTrap",
+      "FULL": "Armadilha para Ursos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02942E",
+      "FORMID": "02942E",
+      "EDID": "HamRadio01",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029438",
+      "FORMID": "029438",
+      "EDID": "trapShotgun",
+      "FULL": "Espingarda Trucada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A9F9",
+      "FORMID": "02A9F9",
+      "EDID": "TrapComputer",
+      "FULL": "Terminal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0290EE",
+      "FORMID": "0290EE",
+      "EDID": "TrapTripwire01",
+      "FULL": "Cabo de Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02989E",
+      "FORMID": "02989E",
+      "EDID": "TrapComputerBack",
+      "FULL": "Painel Traseiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02C2B5",
+      "FORMID": "02C2B5",
+      "EDID": "trapMineBuried01",
+      "FULL": "Mina Oculta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D671",
+      "FORMID": "02D671",
+      "EDID": "JukeBoxDirty01",
+      "FULL": "Jukebox"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E91C",
+      "FORMID": "02E91C",
+      "EDID": "TrapBabyCarriage",
+      "FULL": "Carrinho de Bebê"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030FBD",
+      "FORMID": "030FBD",
+      "EDID": "ElectricalSwitch",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034A90",
+      "FORMID": "034A90",
+      "EDID": "AbandonedSewerValve01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03956A",
+      "FORMID": "03956A",
+      "EDID": "DrinkUrinal00Rads",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E017",
+      "FORMID": "01E017",
+      "EDID": "DrinkWaterfountain01Avg",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:047A7F",
+      "FORMID": "047A7F",
+      "EDID": "TrapPressurePlate",
+      "FULL": "Placa de Pressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:047A97",
+      "FORMID": "047A97",
+      "EDID": "TrapGasValve",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04EC79",
+      "FORMID": "04EC79",
+      "EDID": "VGearDoorControlPanel",
+      "FULL": "Cápsula de Controle da Porta do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:053EF3",
+      "FORMID": "053EF3",
+      "EDID": "TrapPitchingMachine01",
+      "FULL": "Arremessadora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:057F6B",
+      "FORMID": "057F6B",
+      "EDID": "TrapMailboxBomb01",
+      "FULL": "Caixa de Correio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07161C",
+      "FORMID": "07161C",
+      "EDID": "Vault101Loudspeaker",
+      "FULL": "Alto-falante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:075005",
+      "FORMID": "075005",
+      "EDID": "WorkBench",
+      "FULL": "Bancada de Trabalho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD4F",
+      "FORMID": "07DD4F",
+      "EDID": "HD00LabSet",
+      "FULL": "Meu Primeiro Laboratório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DD51",
+      "FORMID": "07DD51",
+      "EDID": "HD00InfirmSet",
+      "FULL": "Meu Primeiro Posto Médico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D785",
+      "FORMID": "09D785",
+      "EDID": "DrinkToiletMetal03Purified",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D786",
+      "FORMID": "09D786",
+      "EDID": "DrinkSinkMetal03Purified",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A24F0",
+      "FORMID": "0A24F0",
+      "EDID": "DrinkSinkClean02Good",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A24F2",
+      "FORMID": "0A24F2",
+      "EDID": "DrinkToiletClean02Good",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00001B",
+      "FORMID": "00001B",
+      "EDID": "DefaultAshPile1",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A99B3",
+      "FORMID": "0A99B3",
+      "EDID": "ElectricalSwitch02",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000022",
+      "FORMID": "000022",
+      "EDID": "DefaultAshPile2",
+      "FULL": "Pilha de Gosma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABF66",
+      "FORMID": "0ABF66",
+      "EDID": "DrinkWaterfountain03Purified",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AEB47",
+      "FORMID": "0AEB47",
+      "EDID": "RavenRockTrapLaserTripwireEmitter01",
+      "FULL": "Emissor de Cabo de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B39A3",
+      "FORMID": "0B39A3",
+      "EDID": "DrinkSinkMetal00Rads",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E75F",
+      "FORMID": "01E75F",
+      "EDID": "DrinkSink00Rads",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E766",
+      "FORMID": "01E766",
+      "EDID": "DrinkToilet00Rads",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A2AF",
+      "FORMID": "02A2AF",
+      "EDID": "DrinkSink02Good",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A2B0",
+      "FORMID": "02A2B0",
+      "EDID": "DrinkToilet02Good",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A2B1",
+      "FORMID": "02A2B1",
+      "EDID": "DrinkUrinal01Avg",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A2B2",
+      "FORMID": "02A2B2",
+      "EDID": "DrinkWaterFoutnain00Rads",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0834D8",
+      "FORMID": "0834D8",
+      "EDID": "DrinkToiletMetal00Rads",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0842B9",
+      "FORMID": "0842B9",
+      "EDID": "FFHamRadio01",
+      "FULL": "Sinal de Rádio Kilo Bravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A6AC9",
+      "FORMID": "0A6AC9",
+      "EDID": "GenericConsolPanelOnOff02",
+      "FULL": "Console"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0770C5",
+      "FORMID": "0770C5",
+      "EDID": "VintageRadioGNR01STARTON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0842DF",
+      "FORMID": "0842DF",
+      "EDID": "RSCharlieQuestTrigger",
+      "FULL": "Gatilho da Missão da Estação de Rangers Charlie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08CD98",
+      "FORMID": "08CD98",
+      "EDID": "nvRepconLaunchButton",
+      "FULL": "Botão de Lançamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D36F",
+      "FORMID": "08D36F",
+      "EDID": "QJGenerator",
+      "FULL": "Gerador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D411",
+      "FORMID": "08D411",
+      "EDID": "GhoulExitTrigger",
+      "FULL": "Gatilho de Saída Necrótico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D414",
+      "FORMID": "08D414",
+      "EDID": "REPCONSpeechListeningTrigger",
+      "FULL": "REPCON Gatilho de Escuta de Fala"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F11F",
+      "FORMID": "08F11F",
+      "EDID": "RSCharlieIntEnterTrigger",
+      "FULL": "Gatilho de Entrada do Interior do Posto de Patrulha Charlie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F6FF",
+      "FORMID": "08F6FF",
+      "EDID": "REPCONHarlandResetTrigger",
+      "FULL": "Gatilho de Reinício de Harland"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9D35",
+      "FORMID": "0B9D35",
+      "EDID": "HeadshotActivator",
+      "FULL": "Ativador de Tiro na Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9DA5",
+      "FORMID": "0B9DA5",
+      "EDID": "LeftLegDismemberActivator",
+      "FULL": "Ativador de Desmembramento da Perna Esquerda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9DA8",
+      "FORMID": "0B9DA8",
+      "EDID": "SprungTrapBearTrap",
+      "FULL": "Armadilha para Ursos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BAF38",
+      "FORMID": "0BAF38",
+      "EDID": "DavisonDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAE69",
+      "FORMID": "0CAE69",
+      "EDID": "DrinkTowerPipe03Purified",
+      "FULL": "Válvula da Torre d'Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAE88",
+      "FORMID": "0CAE88",
+      "EDID": "VNovacIntroDialogueTrigger",
+      "FULL": "Gatilho de Apresentação da Jeannie May"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB08A",
+      "FORMID": "0CB08A",
+      "EDID": "VNovacSniperNestTrigger",
+      "FULL": "Gatilho do Ninho de Atiradores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEC3",
+      "FORMID": "0CCEC3",
+      "EDID": "GhoulPrisonerDecloakTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEC4",
+      "FORMID": "0CCEC4",
+      "EDID": "HarlandAggroTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD04F",
+      "FORMID": "0CD04F",
+      "EDID": "REPCONEntrance1",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD050",
+      "FORMID": "0CD050",
+      "EDID": "REPCONEntrance2Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD08B",
+      "FORMID": "0CD08B",
+      "EDID": "SniperVictimTrigger",
+      "FULL": "Zona de Abate de Franco-Atirador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD125",
+      "FORMID": "0CD125",
+      "EDID": "RepconMusicSpeaker",
+      "FULL": "Alto-falante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD21B",
+      "FORMID": "0CD21B",
+      "EDID": "VintageRadioRepconSTARTON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD3DC",
+      "FORMID": "0CD3DC",
+      "EDID": "VHarlandFriendDiscoveryTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD682",
+      "FORMID": "0CD682",
+      "EDID": "REPCONTopIntercomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD818",
+      "FORMID": "0CD818",
+      "EDID": "DiscoverREPCONTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE1B2",
+      "FORMID": "0CE1B2",
+      "EDID": "REPCONRocketPadReachedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE1BA",
+      "FORMID": "0CE1BA",
+      "EDID": "REPCONJasonBrightBasementDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE1C8",
+      "FORMID": "0CE1C8",
+      "EDID": "REPCONSpeechListeningTriggerDUPLICATE000",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE1CA",
+      "FORMID": "0CE1CA",
+      "EDID": "REPCONJasonBrightSpeechTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE557",
+      "FORMID": "0CE557",
+      "EDID": "REPCONBasementShortcutTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE86B",
+      "FORMID": "0CE86B",
+      "EDID": "REPCONChrisHavFinalIntercomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE86C",
+      "FORMID": "0CE86C",
+      "EDID": "REPCONSabotageConsole",
+      "FULL": "Console de Navegação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7C2E",
+      "FORMID": "0D7C2E",
+      "EDID": "NCRCFWaterValve",
+      "FULL": "Válvula de Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7F5D",
+      "FORMID": "0D7F5D",
+      "EDID": "NCRCFExplosionTrigger",
+      "FULL": "Marcador de Explosão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E07CF",
+      "FORMID": "0E07CF",
+      "EDID": "ControlPanelHeliosTower",
+      "FULL": "Painel de Controle do Refletor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E27E1",
+      "FORMID": "0E27E1",
+      "EDID": "HVOuterRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E288B",
+      "FORMID": "0E288B",
+      "EDID": "PrimmMuseumPlaque",
+      "FULL": "Metralhadora Pessoal do Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E28B5",
+      "FORMID": "0E28B5",
+      "EDID": "VHeliosAuxGenerator",
+      "FULL": "Gerador Auxiliar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E294C",
+      "FORMID": "0E294C",
+      "EDID": "HVPaladinLockersTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F7C",
+      "FORMID": "0E2F7C",
+      "EDID": "HVTargetPractice3Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F7D",
+      "FORMID": "0E2F7D",
+      "EDID": "HVTargetPractice4Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F7E",
+      "FORMID": "0E2F7E",
+      "EDID": "HVTargetPractice2Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F80",
+      "FORMID": "0E2F80",
+      "EDID": "HVTargetPractice1Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32FD",
+      "FORMID": "0E32FD",
+      "EDID": "PrimmMuseumPlaqueClothing",
+      "FULL": "Roupas do Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32FE",
+      "FORMID": "0E32FE",
+      "EDID": "PrimmMuseumPlaque02",
+      "FULL": "Roupas da Vikki"
+    },
+    {
+      "FORM": "@FalloutNV.esm:099D12",
+      "FORMID": "099D12",
+      "EDID": "VHeliosTrapLaserTripwire",
+      "FULL": "Cabo de Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4193",
+      "FORMID": "0A4193",
+      "EDID": "HVMainLevelEntryTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4194",
+      "FORMID": "0A4194",
+      "EDID": "HVPasswordPaladinFinalGuardTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4195",
+      "FORMID": "0A4195",
+      "EDID": "HVRamosTargetDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4196",
+      "FORMID": "0A4196",
+      "EDID": "HVBunkerInnerRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD55",
+      "FORMID": "0ACD55",
+      "EDID": "HVRangerRadio",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD56",
+      "FORMID": "0ACD56",
+      "EDID": "HVMcNamaraHardinConvoTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD58",
+      "FORMID": "0ACD58",
+      "EDID": "HVRangerDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF676",
+      "FORMID": "0AF676",
+      "EDID": "HVRangerGoBoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF677",
+      "FORMID": "0AF677",
+      "EDID": "HVRangerHeadingOutTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDEE7",
+      "FORMID": "0CDEE7",
+      "EDID": "HVPatrolOutsideTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE22A",
+      "FORMID": "0CE22A",
+      "EDID": "HVBathroomStallTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3617",
+      "FORMID": "0E3617",
+      "EDID": "VMS03HaggertyWarning",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3618",
+      "FORMID": "0E3618",
+      "EDID": "VMS03HaggertyWarning2",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3790",
+      "FORMID": "0E3790",
+      "EDID": "HVSandStormParentTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3E91",
+      "FORMID": "0E3E91",
+      "EDID": "BisonSteveElevatorButton",
+      "FULL": "Botão do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E4B4B",
+      "FORMID": "0E4B4B",
+      "EDID": "PythonEnableLinkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E509E",
+      "FORMID": "0E509E",
+      "EDID": "HVRangerJournal",
+      "FULL": "Diário de Ranger",
+      "XATO": "Ler Diário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E675A",
+      "FORMID": "0E675A",
+      "EDID": "HVFireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E71D3",
+      "FORMID": "0E71D3",
+      "EDID": "VVault11FadeWhiteTrigger",
+      "FULL": "Gatilho de Fade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E78C2",
+      "FORMID": "0E78C2",
+      "EDID": "QJJasWilkinsTrigger",
+      "FULL": "Gatilho de Jas Wilkins"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7953",
+      "FORMID": "0E7953",
+      "EDID": "BMRadioControlPanel",
+      "FULL": "Painel de Controle do Transmissor de Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7B39",
+      "FORMID": "0E7B39",
+      "EDID": "BMNeilConvinceTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8109",
+      "FORMID": "0E8109",
+      "EDID": "BMDoubleBoulderPushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810A",
+      "FORMID": "0E810A",
+      "EDID": "BMBoulder1PushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8494",
+      "FORMID": "0E8494",
+      "EDID": "BMAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8495",
+      "FORMID": "0E8495",
+      "EDID": "BMAmbushTargetTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8496",
+      "FORMID": "0E8496",
+      "EDID": "BMBonfireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8498",
+      "FORMID": "0E8498",
+      "EDID": "BMNeilTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85C1",
+      "FORMID": "0E85C1",
+      "EDID": "BMNightkinAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85EA",
+      "FORMID": "0E85EA",
+      "EDID": "REPHQTourSign02",
+      "FULL": "\"Vara Velha Chata? Ou...\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85EB",
+      "FORMID": "0E85EB",
+      "EDID": "REPHQTourSign03",
+      "FULL": "\"Lixo radioativo?\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85EC",
+      "FORMID": "0E85EC",
+      "EDID": "REPHQTourSign01",
+      "FULL": "\"Plas-Ma O Quê?\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88B0",
+      "FORMID": "0E88B0",
+      "EDID": "VVault11ExterminationChairTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E88B2",
+      "FORMID": "0E88B2",
+      "EDID": "VVault11ExterminationChamberTalkTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8D19",
+      "FORMID": "0E8D19",
+      "EDID": "VVexNCRactivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9486",
+      "FORMID": "0E9486",
+      "EDID": "BMDishHutGuardAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9488",
+      "FORMID": "0E9488",
+      "EDID": "BMDishExplosionTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9ACF",
+      "FORMID": "0E9ACF",
+      "EDID": "MaizePickable",
+      "FULL": "Milho",
+      "XATO": "Pegar Milho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9C23",
+      "FORMID": "0E9C23",
+      "EDID": "BMTabithaRhondaFixedTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EA4C3",
+      "FORMID": "0EA4C3",
+      "EDID": "BMBoulder1PushTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAB01",
+      "FORMID": "0EAB01",
+      "EDID": "BMRockslide2Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAB02",
+      "FORMID": "0EAB02",
+      "EDID": "BMMissileAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAB03",
+      "FORMID": "0EAB03",
+      "EDID": "BMRockslide3Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACAE",
+      "FORMID": "0EACAE",
+      "EDID": "REPHQTourSign04",
+      "FULL": "\"Família Nuclear!\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACAF",
+      "FORMID": "0EACAF",
+      "EDID": "REPHQTourSign05",
+      "FULL": "\"Preparar, Apontar, Fogo!\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB0",
+      "FORMID": "0EACB0",
+      "EDID": "REPHQTourSign06",
+      "FULL": "\"Foguetes, Já!\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB1",
+      "FORMID": "0EACB1",
+      "EDID": "REPHQTourSign07",
+      "FULL": "\"Nariz de Agulha\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB2",
+      "FORMID": "0EACB2",
+      "EDID": "REPHQTourSign08",
+      "FULL": "\"Fred, o Gordo Enorme e Flamejante\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB3",
+      "FORMID": "0EACB3",
+      "EDID": "REPHQTourSign09",
+      "FULL": "\"Feijão Verde\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB4",
+      "FORMID": "0EACB4",
+      "EDID": "REPHQTourSign10",
+      "FULL": "\"Cuidado Onde Pisa!\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB5",
+      "FORMID": "0EACB5",
+      "EDID": "REPHQTourSign11",
+      "FULL": "\"O 'Eu' em 'Robô-Olho'\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB6",
+      "FORMID": "0EACB6",
+      "EDID": "REPHQTourSign12",
+      "FULL": "\"A 'Mão' em 'Serviçal'\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB7",
+      "FORMID": "0EACB7",
+      "EDID": "REPHQTourSign13",
+      "FULL": "\"Tem Rodas!\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EACB8",
+      "FORMID": "0EACB8",
+      "EDID": "REPHQTourSign14",
+      "FULL": "\"Nosso Rico, Rico Sistema Solar\""
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB14D",
+      "FORMID": "0EB14D",
+      "EDID": "VVault11ExterminationHallMusicCueTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB3F2",
+      "FORMID": "0EB3F2",
+      "EDID": "BMVintageRadioBMR",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EBFF6",
+      "FORMID": "0EBFF6",
+      "EDID": "VVault11GearDoorControlPanel",
+      "FULL": "Cápsula de Controle da Porta do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC044",
+      "FORMID": "0EC044",
+      "EDID": "BMNeilJumpTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC045",
+      "FORMID": "0EC045",
+      "EDID": "BMDJBoothEntryTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE063",
+      "FORMID": "0EE063",
+      "EDID": "VVexNCRdeactivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F08FF",
+      "FORMID": "0F08FF",
+      "EDID": "V22ScareMantis1Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0A44",
+      "FORMID": "0F0A44",
+      "EDID": "HectorTrigger",
+      "FULL": "Gatilho da Estação de Bombeamento Hector"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F2DF8",
+      "FORMID": "0F2DF8",
+      "EDID": "V03DoorControlPanel",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D4A",
+      "FORMID": "0F3D4A",
+      "EDID": "V22MantisEnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3D4D",
+      "FORMID": "0F3D4D",
+      "EDID": "V22cMushroomMantisScareTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F4558",
+      "FORMID": "0F4558",
+      "EDID": "V22KeelyElevatorTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F51F0",
+      "FORMID": "0F51F0",
+      "EDID": "V22DoorIsLockedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5759",
+      "FORMID": "0F5759",
+      "EDID": "McCarranFoodProcessor",
+      "FULL": "Processador de Alimentos Industrial",
+      "XATO": "Consertar Processador de Alimentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F575A",
+      "FORMID": "0F575A",
+      "EDID": "McCarranFoodProcessorAttachment",
+      "FULL": "Processador de Alimentos Industrial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5E4A",
+      "FORMID": "0F5E4A",
+      "EDID": "GunRunnerEnterTrigger",
+      "FULL": "Gatilho de Entrada dos Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5E4D",
+      "FORMID": "0F5E4D",
+      "EDID": "GunRunnerExitTrigger",
+      "FULL": "Gatilho de Saída dos Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F6277",
+      "FORMID": "0F6277",
+      "EDID": "VMcCarranControlTowerTrigger",
+      "FULL": "Gatilho da Torre de Controle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F6279",
+      "FORMID": "0F6279",
+      "EDID": "VMcCarranCurtisTowerWarpTrigger",
+      "FULL": "CurtisTowerWarp (Para cima)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F828E",
+      "FORMID": "0F828E",
+      "EDID": "VMS08BombVent",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8292",
+      "FORMID": "0F8292",
+      "EDID": "VMS08TrainExitTrigger",
+      "FULL": "Saída do Trem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F95C8",
+      "FORMID": "0F95C8",
+      "EDID": "VMS13NoteTrigger",
+      "FULL": "VMS13 Nota de Acionamento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9D91",
+      "FORMID": "0F9D91",
+      "EDID": "V22KeelyElevatorConversationTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FA741",
+      "FORMID": "0FA741",
+      "EDID": "VFreeformMcCarran2BoydInterrogationTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB0EE",
+      "FORMID": "0FB0EE",
+      "EDID": "CoyoteTobaccoPickable",
+      "FULL": "Tabaco Coiote",
+      "XATO": "Pegar Tabaco de Coiote"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB328",
+      "FORMID": "0FB328",
+      "EDID": "VFreeformMcCarran2InterrogationRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB4DF",
+      "FORMID": "0FB4DF",
+      "EDID": "VFreeformMcCarran2InterrogationRoomExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC201",
+      "FORMID": "0FC201",
+      "EDID": "VMcCarranMonorailWarning1Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC202",
+      "FORMID": "0FC202",
+      "EDID": "VMcCarranMonorailWarning2Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FDA86",
+      "FORMID": "0FDA86",
+      "EDID": "VFreeformMcCarranContrerasEnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE9F5",
+      "FORMID": "0FE9F5",
+      "EDID": "ElReyMotelRoom01Note",
+      "FULL": "Bilhete de Ameaça",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FEB9F",
+      "FORMID": "0FEB9F",
+      "EDID": "CleanWaterValve",
+      "FULL": "Válvula de Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF579",
+      "FORMID": "0FF579",
+      "EDID": "NellisEntranceActivator",
+      "FULL": "Gatilho da Entrada de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1003B3",
+      "FORMID": "1003B3",
+      "EDID": "NellisArtilleryActivatorEntrance",
+      "FULL": "Artilharia de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100631",
+      "FORMID": "100631",
+      "EDID": "VMS15BallastActivator",
+      "FULL": "Local de Implantação de Lastro",
+      "XATO": "Acoplar Lastro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100632",
+      "FORMID": "100632",
+      "EDID": "VMS15BallastDeployer",
+      "FULL": "Detonador de Lastro",
+      "XATO": "Ativar Lastro Remotamente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101CB2",
+      "FORMID": "101CB2",
+      "EDID": "PowderGangRanchNote",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:101F43",
+      "FORMID": "101F43",
+      "EDID": "VintageRadioNVStartON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1022D6",
+      "FORMID": "1022D6",
+      "EDID": "NellisGeneratorPowerSwitch",
+      "FULL": "Interruptor Principal de Energia do Gerador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1022D7",
+      "FORMID": "1022D7",
+      "EDID": "NellisGeneratorPowerSwitch02",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1022D8",
+      "FORMID": "1022D8",
+      "EDID": "NellisGeneratorPowerSwitch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1024C5",
+      "FORMID": "1024C5",
+      "EDID": "FiendAmbushTrigger",
+      "FULL": "Gatilho de Emboscada dos Demônios"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102AB0",
+      "FORMID": "102AB0",
+      "EDID": "NellisGeneratorSetup",
+      "FULL": "Configuração do Gerador de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10418C",
+      "FORMID": "10418C",
+      "EDID": "NellisSonicEmitterRadio",
+      "FULL": "Emissor Sônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10418D",
+      "FORMID": "10418D",
+      "EDID": "NellisGeneratorAntMound",
+      "FULL": "Montículo de Formigas",
+      "XATO": "Colocar Emissor Sônico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C07",
+      "FORMID": "104C07",
+      "EDID": "VCG01VigorTesterTrigger",
+      "FULL": "Gatilho do Testador de Vigor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C0A",
+      "FORMID": "104C0A",
+      "EDID": "VCG01VigorTester",
+      "FULL": "Testador de Vigor Vit-o-matic"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10521D",
+      "FORMID": "10521D",
+      "EDID": "GSJoeCobbTrigger",
+      "FULL": "Joe Cobb Gatilho de Diálogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105231",
+      "FORMID": "105231",
+      "EDID": "GSBrokenSMG",
+      "FULL": "Submetralhadora 9mm Quebrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105234",
+      "FORMID": "105234",
+      "EDID": "GSChemistrySet",
+      "FULL": "Kit de Química"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105965",
+      "FORMID": "105965",
+      "EDID": "SSHQAllenMarksTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1064D2",
+      "FORMID": "1064D2",
+      "EDID": "NellisSolarReflectorActivator",
+      "FULL": "Refletor Solar Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:107232",
+      "FORMID": "107232",
+      "EDID": "GSDocMitchellExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109085",
+      "FORMID": "109085",
+      "EDID": "GoodspringsRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1093CE",
+      "FORMID": "1093CE",
+      "EDID": "HoneyMesquitePickable",
+      "FULL": "Algaroba-mel",
+      "XATO": "Pegar Algaroba Doutore"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1093CF",
+      "FORMID": "1093CF",
+      "EDID": "BananaYuccaPickable",
+      "FULL": "Iuca-banana",
+      "XATO": "Pegar Iuca-banana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1093D0",
+      "FORMID": "1093D0",
+      "EDID": "NellisResetMarker",
+      "FULL": "Marcador de Reinício de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1095C3",
+      "FORMID": "1095C3",
+      "EDID": "NellisFireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10973F",
+      "FORMID": "10973F",
+      "EDID": "JukeBoxDirtyNV",
+      "FULL": "Jukebox"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A13C",
+      "FORMID": "10A13C",
+      "EDID": "PowderGangerCampNote01",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A143",
+      "FORMID": "10A143",
+      "EDID": "PowderGangerCampNote02",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A149",
+      "FORMID": "10A149",
+      "EDID": "PowderGangerCampNote03",
+      "FULL": "Bilhete da Gangue da Pólvora",
+      "XATO": "Ler Nota"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AB6D",
+      "FORMID": "10AB6D",
+      "EDID": "BarrelCactusPickable",
+      "FULL": "Cacto Barril",
+      "XATO": "Pegar Cacto Barril"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AB6F",
+      "FORMID": "10AB6F",
+      "EDID": "PricklyPearCactusPickable",
+      "FULL": "Cacto Pera Espinhosa",
+      "XATO": "Colher Pera Espinhosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10AB71",
+      "FORMID": "10AB71",
+      "EDID": "NevadaAgavePickable",
+      "FULL": "Agave de Nevada",
+      "XATO": "Pegar Agave de Nevada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10ABAE",
+      "FORMID": "10ABAE",
+      "EDID": "GSRingoDialogueTrigger",
+      "FULL": "Gatilho de Diálogo do Ringo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E018",
+      "FORMID": "10E018",
+      "EDID": "RSFoxtrotQuestTRIG",
+      "FULL": "Gatilho de Início de Teste da Missão RS Foxtrot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E70E",
+      "FORMID": "10E70E",
+      "EDID": "VFSNorthGateBodyguardTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1132EA",
+      "FORMID": "1132EA",
+      "EDID": "PipboyLightTutorialTrigger",
+      "FULL": "Gatilho do Tutorial da Lanterna do Pip-Boy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:113C0A",
+      "FORMID": "113C0A",
+      "EDID": "BCMonroeDialogueTrigger",
+      "FULL": "Gatilho de Diálogo Monroe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164A2",
+      "FORMID": "1164A2",
+      "EDID": "VCG04Activator",
+      "FULL": "VCG04 Ativador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116C5E",
+      "FORMID": "116C5E",
+      "EDID": "VFSPacerAttacksSupplyTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116F14",
+      "FORMID": "116F14",
+      "EDID": "VMS18WhiteGloveAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11750B",
+      "FORMID": "11750B",
+      "EDID": "VTopsAmbushTrigger",
+      "FULL": "Gatilho da Emboscada do Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11834A",
+      "FORMID": "11834A",
+      "EDID": "VMS18CookingStation",
+      "FULL": "Estação de Culinária",
+      "XATO": "Cozinheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11834F",
+      "FORMID": "11834F",
+      "EDID": "VMS18Wine",
+      "FULL": "Vinho",
+      "XATO": "Examinar Vinho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1188CF",
+      "FORMID": "1188CF",
+      "EDID": "BoulderCityNote",
+      "FULL": "Holodisco de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118A7D",
+      "FORMID": "118A7D",
+      "EDID": "VFSOrrisConcernedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118A7E",
+      "FORMID": "118A7E",
+      "EDID": "VFSOrrisDetourTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118A7F",
+      "FORMID": "118A7F",
+      "EDID": "VFSOrrisEndTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118A80",
+      "FORMID": "118A80",
+      "EDID": "VFSOrrisAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118E7C",
+      "FORMID": "118E7C",
+      "EDID": "VFSVisitorTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1190A4",
+      "FORMID": "1190A4",
+      "EDID": "VTopsBennyIntroTrigger",
+      "FULL": "Gatilho da Intro do Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119483",
+      "FORMID": "119483",
+      "EDID": "VMS21SalsTrigger",
+      "FULL": "Gatilho Cachino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1194CD",
+      "FORMID": "1194CD",
+      "EDID": "VFSWranglerTouristDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1194CE",
+      "FORMID": "1194CE",
+      "EDID": "VFSSupplyDropHouseTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1194CF",
+      "FORMID": "1194CF",
+      "EDID": "VFSTouristVanishTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119506",
+      "FORMID": "119506",
+      "EDID": "VMS18TedReturnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978B",
+      "FORMID": "11978B",
+      "EDID": "VFSVegasGateStopCombatVolume",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978C",
+      "FORMID": "11978C",
+      "EDID": "VFSVegasAnnihilationVolume",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1197B9",
+      "FORMID": "1197B9",
+      "EDID": "VTopsBennysSuiteTrigger",
+      "FULL": "Gatilho da Suíte do Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119869",
+      "FORMID": "119869",
+      "EDID": "VFSSecuritronGreeterActivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A026",
+      "FORMID": "11A026",
+      "EDID": "VFSSquatterAreaTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A10A",
+      "FORMID": "11A10A",
+      "EDID": "VMS18MortimerSpeakTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A210",
+      "FORMID": "11A210",
+      "EDID": "VMS18PhilippeTrappedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A29C",
+      "FORMID": "11A29C",
+      "EDID": "VFSOrrisConversationTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A29D",
+      "FORMID": "11A29D",
+      "EDID": "VFSOrrisMistakenTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A29E",
+      "FORMID": "11A29E",
+      "EDID": "VFSOrrisLeavesTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A57B",
+      "FORMID": "11A57B",
+      "EDID": "MAElecSwitch01",
+      "FULL": "Interruptor de Luz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11B40F",
+      "FORMID": "11B40F",
+      "EDID": "VVault21SwitchPlayerRoom",
+      "FULL": "Interruptor de Luz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BC86",
+      "FORMID": "11BC86",
+      "EDID": "VMS21Container",
+      "FULL": "Cano",
+      "XATO": "Colocar Termite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCB4",
+      "FORMID": "11BCB4",
+      "EDID": "VFSNorthGateExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCB5",
+      "FORMID": "11BCB5",
+      "EDID": "VFSEncounterControllerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCB6",
+      "FORMID": "11BCB6",
+      "EDID": "VFSEastGateExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C238",
+      "FORMID": "11C238",
+      "EDID": "VMS21BigSalRoomTrigger",
+      "FULL": "Gatilho da Sala de Sal do Bis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11CABF",
+      "FORMID": "11CABF",
+      "EDID": "VFSOrrisAfterCombatDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11CB50",
+      "FORMID": "11CB50",
+      "EDID": "VFSSecuritronWarningActivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11CD4A",
+      "FORMID": "11CD4A",
+      "EDID": "VFSOrrisGamblerLeavingTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E756",
+      "FORMID": "11E756",
+      "EDID": "VMS21SalRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F292",
+      "FORMID": "11F292",
+      "EDID": "VCG01CasualHardcoreMessageActivate",
+      "FULL": "Escolher Modo de Jogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1205B9",
+      "FORMID": "1205B9",
+      "EDID": "VFSPacerJet",
+      "FULL": "Depósito de Jet do Pacer",
+      "XATO": "Examinar o Estoque de Jet do Pacer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1206FA",
+      "FORMID": "1206FA",
+      "EDID": "VFSKingStageAreaEnterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1206FB",
+      "FORMID": "1206FB",
+      "EDID": "VFSKingStageApproachTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120851",
+      "FORMID": "120851",
+      "EDID": "VMS21ClandenSafeTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120852",
+      "FORMID": "120852",
+      "EDID": "VMS21GomorrahMPTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1210BC",
+      "FORMID": "1210BC",
+      "EDID": "NVRouletteTable02",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:122C2C",
+      "FORMID": "122C2C",
+      "EDID": "UpgradeSecuritronTrigger",
+      "FULL": "Aprimorar Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:123C8E",
+      "FORMID": "123C8E",
+      "EDID": "VFSWaterPump",
+      "FULL": "Válvula de Água",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@FalloutNV.esm:123C92",
+      "FORMID": "123C92",
+      "EDID": "VFSWaterPumpBarkActivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124251",
+      "FORMID": "124251",
+      "EDID": "VFSVanGraffIntroTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124252",
+      "FORMID": "124252",
+      "EDID": "VFSVolunteerPushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251C7",
+      "FORMID": "1251C7",
+      "EDID": "VFSSilverRushExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251C8",
+      "FORMID": "1251C8",
+      "EDID": "VFSSilverRushPlayerGuardTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125218",
+      "FORMID": "125218",
+      "EDID": "WeatherStationConsole",
+      "FULL": "Console"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125B1F",
+      "FORMID": "125B1F",
+      "EDID": "VMS18HeckGundersonBed",
+      "FULL": "Cama",
+      "XATO": "Distribuir Amostra de Sangue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125B29",
+      "FORMID": "125B29",
+      "EDID": "VMS18HeckGundersonSinkActivator",
+      "FULL": "Pia",
+      "XATO": "Distribuir Amostra de Sangue"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125C2A",
+      "FORMID": "125C2A",
+      "EDID": "FortHowitzer",
+      "FULL": "Obus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125F46",
+      "FORMID": "125F46",
+      "EDID": "VMS21ThermiteDetonator",
+      "FULL": "Detonador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:125F4A",
+      "FORMID": "125F4A",
+      "EDID": "GomorrahExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127095",
+      "FORMID": "127095",
+      "EDID": "VFSLegionWHAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270A3",
+      "FORMID": "1270A3",
+      "EDID": "VFSWarehouseGovernorTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127952",
+      "FORMID": "127952",
+      "EDID": "GomorrahCasinoEnterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127DC8",
+      "FORMID": "127DC8",
+      "EDID": "VMS18Dumpster",
+      "FULL": "Lixeira",
+      "XATO": "Esconder Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1287E5",
+      "FORMID": "1287E5",
+      "EDID": "TopsFriskingHoldoutTrigger",
+      "FULL": "Gatilho de Revista do Tops (com armas escondidas)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1287E6",
+      "FORMID": "1287E6",
+      "EDID": "TopsFriskingTrigger",
+      "FULL": "Gatilho de Revistação do Tops (versão honesta)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128F5C",
+      "FORMID": "128F5C",
+      "EDID": "VMS33OmertaThugTrigger",
+      "FULL": "VMS33 Gatilho de Rufião Omerta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129382",
+      "FORMID": "129382",
+      "EDID": "VFSNCRFightPlayerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129385",
+      "FORMID": "129385",
+      "EDID": "VFSNCRFightInnerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129386",
+      "FORMID": "129386",
+      "EDID": "VFSNCRCombatTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12964A",
+      "FORMID": "12964A",
+      "EDID": "DefaultDisableLinkOnSelfTriggerEnter",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1296CE",
+      "FORMID": "1296CE",
+      "EDID": "vGOMAlarmTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129A39",
+      "FORMID": "129A39",
+      "EDID": "VMS18CompanionFreezerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12A932",
+      "FORMID": "12A932",
+      "EDID": "SVMainConsole",
+      "FULL": "Console de Operações Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12BD36",
+      "FORMID": "12BD36",
+      "EDID": "VBSCave1NightStalkerTrigger",
+      "FULL": "Gatilho de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130C72",
+      "FORMID": "130C72",
+      "EDID": "VHDVertibirdKimballEncount01",
+      "FULL": "Vertibird Presidencial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:131F97",
+      "FORMID": "131F97",
+      "EDID": "FortArrivalTrigger",
+      "FULL": "Gatilho de Chegada ao Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133069",
+      "FORMID": "133069",
+      "EDID": "vHDSpawner",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133072",
+      "FORMID": "133072",
+      "EDID": "vHDVertibirdSpawnerWest",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133082",
+      "FORMID": "133082",
+      "EDID": "VHDGunConsole",
+      "FULL": "Console"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133CD4",
+      "FORMID": "133CD4",
+      "EDID": "SVSecuritronTrigger",
+      "FULL": "Gatilho de Rosto Padrão de Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F25",
+      "FORMID": "133F25",
+      "EDID": "vHDVertibirdSpawnerEast",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F27",
+      "FORMID": "133F27",
+      "EDID": "vHDNCRKhanTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F41",
+      "FORMID": "133F41",
+      "EDID": "TecRenoldsDialogueActivator",
+      "FULL": "Ativador de Diálogo Renolds"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340B1",
+      "FORMID": "1340B1",
+      "EDID": "SVSabotageTrigger01",
+      "FULL": "Evento de Sabotagem 01"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340B6",
+      "FORMID": "1340B6",
+      "EDID": "SVSabotageTrigger02",
+      "FULL": "Evento de Sabotagem 02"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340E0",
+      "FORMID": "1340E0",
+      "EDID": "SVJunctionBox",
+      "FULL": "Caixa de Junção da Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1340EA",
+      "FORMID": "1340EA",
+      "EDID": "SVSabotageTrigger03",
+      "FULL": "Evento de Sabotagem 03"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134152",
+      "FORMID": "134152",
+      "EDID": "VHDRotateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1343EB",
+      "FORMID": "1343EB",
+      "EDID": "NVCCLegionRadio",
+      "FULL": "Rádio da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1344C7",
+      "FORMID": "1344C7",
+      "EDID": "SVSabotageTrigger04",
+      "FULL": "Evento de Sabotagem 04"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1344CA",
+      "FORMID": "1344CA",
+      "EDID": "SVPowerRegulator",
+      "FULL": "Regulador de Energia",
+      "XATO": "Examinar Regulador de Energia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13494C",
+      "FORMID": "13494C",
+      "EDID": "VPitQuestMantisEggs",
+      "FULL": "Ovos de Louva-a-Deus Gigante",
+      "XATO": "Pegar Ovos de Louva-a-Deus Gigante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FF1",
+      "FORMID": "134FF1",
+      "EDID": "VPitFightScriptHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135147",
+      "FORMID": "135147",
+      "EDID": "VHDWaterPushAwayTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:135149",
+      "FORMID": "135149",
+      "EDID": "VHDWaterEntryTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13579B",
+      "FORMID": "13579B",
+      "EDID": "vHDOverflowConsole",
+      "FULL": "Console de Controle de Fluxo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136B3A",
+      "FORMID": "136B3A",
+      "EDID": "vHDBrotherhoodActivator",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137285",
+      "FORMID": "137285",
+      "EDID": "vHDReleaseValve",
+      "FULL": "Válvula de Alívio de Pressão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1377A2",
+      "FORMID": "1377A2",
+      "EDID": "vHDBoomerWestTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1377A3",
+      "FORMID": "1377A3",
+      "EDID": "vHDBoomerEastTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E1",
+      "FORMID": "1378E1",
+      "EDID": "VPitQuestCazadorEggs",
+      "FULL": "Ovos de Cazador",
+      "XATO": "Pegar Ovos de Cazador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E2",
+      "FORMID": "1378E2",
+      "EDID": "VPitQuestDeathclawEggs",
+      "FULL": "Ovos de Destroçador",
+      "XATO": "Pegar Ovos de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E3",
+      "FORMID": "1378E3",
+      "EDID": "VPitQuestFireGeckoEggs",
+      "FULL": "Ovos de Gecko Flamejante",
+      "XATO": "Pegar Ovos de Gecko Flamejante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E4",
+      "FORMID": "1378E4",
+      "EDID": "VPitQuestNightStalkerEggs",
+      "FULL": "Ovos de Stalker Noturno",
+      "XATO": "Pegar Ovos de Stalker Noturno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1378E5",
+      "FORMID": "1378E5",
+      "EDID": "VPitQuestScorpionEggs",
+      "FULL": "Ovos de Escorpião Radioativo",
+      "XATO": "Pegar Ovos de Escorpião Radioativo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137A78",
+      "FORMID": "137A78",
+      "EDID": "VHDLegionFlanksTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1380EC",
+      "FORMID": "1380EC",
+      "EDID": "VThornPitAccess01Switch",
+      "FULL": "Interruptor da Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1382C9",
+      "FORMID": "1382C9",
+      "EDID": "VHDLegionEastDamUpdateRespawners02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1382CB",
+      "FORMID": "1382CB",
+      "EDID": "VHDLegionEastDamUpdateRespawners03Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1382D0",
+      "FORMID": "1382D0",
+      "EDID": "VHDLegionEastDamUpdateRespawners04Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138339",
+      "FORMID": "138339",
+      "EDID": "VHDCombatTestPanel",
+      "FULL": "Cápsula de Controle da Porta do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1383FD",
+      "FORMID": "1383FD",
+      "EDID": "VHDLegionNCRAmbushTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13845E",
+      "FORMID": "13845E",
+      "EDID": "BCGreatKhanExitTrigger",
+      "FULL": "Gatilho de Saída dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139208",
+      "FORMID": "139208",
+      "EDID": "VHDLegionEastDamUpdateRespawners05Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13951C",
+      "FORMID": "13951C",
+      "EDID": "NiptonCageTrigger",
+      "FULL": "Gatilho da Jaula de Nipton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139A7D",
+      "FORMID": "139A7D",
+      "EDID": "VMQ03aBloodStain",
+      "FULL": "Mancha de Sangue",
+      "XATO": "Examinar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:139FE2",
+      "FORMID": "139FE2",
+      "EDID": "vGomorrahSlot01",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A024",
+      "FORMID": "13A024",
+      "EDID": "VNelsonCompanionReactTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A355",
+      "FORMID": "13A355",
+      "EDID": "vHDNCRZoneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AC5A",
+      "FORMID": "13AC5A",
+      "EDID": "VHDCheckpointLegionEnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AC62",
+      "FORMID": "13AC62",
+      "EDID": "VHDWestDamStartBattleTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B157",
+      "FORMID": "13B157",
+      "EDID": "VHDLegionWestDamUpdateRespawners01Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B158",
+      "FORMID": "13B158",
+      "EDID": "VHDLegionWestDamUpdateRespawner03Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B159",
+      "FORMID": "13B159",
+      "EDID": "VHDWestDamSniperTeamBattleTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B15A",
+      "FORMID": "13B15A",
+      "EDID": "VHDLegionWestDamUpdateRespawner04Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B15B",
+      "FORMID": "13B15B",
+      "EDID": "VHDLegionWestDamUpdateRespawners02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13CA33",
+      "FORMID": "13CA33",
+      "EDID": "VHDIntakeTowerLegionaryDespawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E3FA",
+      "FORMID": "13E3FA",
+      "EDID": "CampfireCrafting01",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E3FC",
+      "FORMID": "13E3FC",
+      "EDID": "CampfireCrafting02",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E3FD",
+      "FORMID": "13E3FD",
+      "EDID": "CampfireCrafting03",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E3FE",
+      "FORMID": "13E3FE",
+      "EDID": "CampfireCrafting04",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E5C8",
+      "FORMID": "13E5C8",
+      "EDID": "VHDWatsonsHelmet",
+      "FULL": "Capacete de Watson",
+      "XATO": "Examinar Capacete do Watson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC28",
+      "FORMID": "13EC28",
+      "EDID": "VFSEastGateBodyguardTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F218",
+      "FORMID": "13F218",
+      "EDID": "vHDNCRSecurityCheckpointTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F5B5",
+      "FORMID": "13F5B5",
+      "EDID": "VTopsBennysPassageTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F8BA",
+      "FORMID": "13F8BA",
+      "EDID": "VHDOliverWallBreakTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140212",
+      "FORMID": "140212",
+      "EDID": "vSwitch",
+      "FULL": "Controle da Porta Automática",
+      "XATO": "Ativar Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C34",
+      "FORMID": "140C34",
+      "EDID": "V03BryceCleanUpTrigger",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C35",
+      "FORMID": "140C35",
+      "EDID": "QJSnufflesCrippleTrigger",
+      "FULL": "Coitado do Fuço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C9D",
+      "FORMID": "140C9D",
+      "EDID": "VHDOliverCombatDialogTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C9E",
+      "FORMID": "140C9E",
+      "EDID": "VHDOliverRangerBattleStartTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C9F",
+      "FORMID": "140C9F",
+      "EDID": "VHDOliverTeleportTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14111F",
+      "FORMID": "14111F",
+      "EDID": "VFreeformVault11KillerMarker",
+      "FULL": "Vault 11 Matador de Códigos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141120",
+      "FORMID": "141120",
+      "EDID": "VFreeformVault11TriggerMarker",
+      "FULL": "Vault 11 Gatilho de Código"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14113F",
+      "FORMID": "14113F",
+      "EDID": "FortMainGateExteriorTrigger",
+      "FULL": "Gatilho Exterior do Portão Principal do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141142",
+      "FORMID": "141142",
+      "EDID": "FortMainGateInteriorTrigger",
+      "FULL": "Gatilho Interior do Portão Principal do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14114B",
+      "FORMID": "14114B",
+      "EDID": "VHDOliverHeavyTrooperEnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14114C",
+      "FORMID": "14114C",
+      "EDID": "VHDOliverPlayerInRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14114D",
+      "FORMID": "14114D",
+      "EDID": "VHDOliverDestroyWallTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1411B3",
+      "FORMID": "1411B3",
+      "EDID": "VAutomaticDoorClose",
+      "FULL": "Porta Automática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1418DC",
+      "FORMID": "1418DC",
+      "EDID": "VHDBattleOptimizerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:142A7E",
+      "FORMID": "142A7E",
+      "EDID": "VLegateFightTrigger",
+      "FULL": "Lute Contra o Badass"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1438CE",
+      "FORMID": "1438CE",
+      "EDID": "VLegateShowdownCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143951",
+      "FORMID": "143951",
+      "EDID": "MicroclineRock",
+      "FULL": "Rocha de Microclina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143FB9",
+      "FORMID": "143FB9",
+      "EDID": "VLegateSniperTrigger",
+      "FULL": "Atirador de Elite nas Colinas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1445B0",
+      "FORMID": "1445B0",
+      "EDID": "VMS41StealthBoyPrototype",
+      "FULL": "Protótipo de Stealth Boy Mark II"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144680",
+      "FORMID": "144680",
+      "EDID": "RegisTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144BBD",
+      "FORMID": "144BBD",
+      "EDID": "vHDNCRBattleCellTransition",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EB5",
+      "FORMID": "144EB5",
+      "EDID": "VRRCKarlAmbushTrigger",
+      "FULL": "Gatilho de Emboscada Karl"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145C84",
+      "FORMID": "145C84",
+      "EDID": "BlackjackTableTheTops",
+      "FULL": "Mesa de Vinte e Um",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14659F",
+      "FORMID": "14659F",
+      "EDID": "VHDLegateCampSquad02StarterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A0",
+      "FORMID": "1465A0",
+      "EDID": "VHDLegionPowerPlant01BattleController",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A1",
+      "FORMID": "1465A1",
+      "EDID": "VHDLegateCampDisableMarker",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A3",
+      "FORMID": "1465A3",
+      "EDID": "VHDLegateCampSquadStarterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146613",
+      "FORMID": "146613",
+      "EDID": "CampSearchlightEdwardsLeaving",
+      "FULL": "Edwards está deixando o Acampamento Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146614",
+      "FORMID": "146614",
+      "EDID": "CampSearchlightEdwardsFindsAstor",
+      "FULL": "Edwards Encontra Astor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146615",
+      "FORMID": "146615",
+      "EDID": "CampSearchlightEdwardsRecruitGhouls",
+      "FULL": "Edwards Recrutando Necróticos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146A79",
+      "FORMID": "146A79",
+      "EDID": "VHDLegionPowerPlant02BattleController",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C2A",
+      "FORMID": "146C2A",
+      "EDID": "VHDLegionPowerPlant04BattleController",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C2C",
+      "FORMID": "146C2C",
+      "EDID": "VHDLegionPowerPlant03BattleController",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146CC2",
+      "FORMID": "146CC2",
+      "EDID": "vHDPowerPlant01LoadTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146F74",
+      "FORMID": "146F74",
+      "EDID": "LoganInPolice",
+      "FULL": "logan na polícia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147502",
+      "FORMID": "147502",
+      "EDID": "vHDNCRDeathTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147507",
+      "FORMID": "147507",
+      "EDID": "vHDCellTransitionController",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14775A",
+      "FORMID": "14775A",
+      "EDID": "VMS41DoctorHenryTrigger",
+      "FULL": "Gatilho do Dr. Henry"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14808F",
+      "FORMID": "14808F",
+      "EDID": "VHDLegionEastDamZone02EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148090",
+      "FORMID": "148090",
+      "EDID": "VHDLegionEastDamUpdateRespawners00Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148092",
+      "FORMID": "148092",
+      "EDID": "VHDLegionEastDamZone03EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148095",
+      "FORMID": "148095",
+      "EDID": "VHDLegionEastDamUpdateRespawners06Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148096",
+      "FORMID": "148096",
+      "EDID": "VHDLegionEastDamUpdateRespawners01Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148097",
+      "FORMID": "148097",
+      "EDID": "VHDLegionEastDamAdvanceLegionaries01Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148099",
+      "FORMID": "148099",
+      "EDID": "VHDLegionEastDamAdvanceLegionaries02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14809A",
+      "FORMID": "14809A",
+      "EDID": "VHDLegionEastDamZone01EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14809B",
+      "FORMID": "14809B",
+      "EDID": "VHDLegionEastDamAdvanceLegionaries03Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1482F1",
+      "FORMID": "1482F1",
+      "EDID": "CampSearchlightLoganFireSearch",
+      "FULL": "Logan vasculha a Estação de Bombeiros"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1483FB",
+      "FORMID": "1483FB",
+      "EDID": "vHDLegateBattleEndTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:148A2F",
+      "FORMID": "148A2F",
+      "EDID": "JacobstownMercenaryTrigger",
+      "FULL": "Gatilho Mercenário de Jacobstown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14ADB7",
+      "FORMID": "14ADB7",
+      "EDID": "NVCGRadioActivator",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE17",
+      "FORMID": "14AE17",
+      "EDID": "VHDLegionWestDamUpdateDestination01Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE1A",
+      "FORMID": "14AE1A",
+      "EDID": "VHDLegionWestDamUpdateDestination02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE1D",
+      "FORMID": "14AE1D",
+      "EDID": "VHDLegionWestDamZone02EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE1F",
+      "FORMID": "14AE1F",
+      "EDID": "VHDLegionWestDamZone03EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AE22",
+      "FORMID": "14AE22",
+      "EDID": "VHDLegionWestDamZone04EnableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AEE2",
+      "FORMID": "14AEE2",
+      "EDID": "VHDLegionOuterPowerPlantGuardTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B0E7",
+      "FORMID": "14B0E7",
+      "EDID": "VMS41LilyTrigger",
+      "FULL": "Gatilho da Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B3ED",
+      "FORMID": "14B3ED",
+      "EDID": "vHDVintageRadioNVStartON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B67E",
+      "FORMID": "14B67E",
+      "EDID": "VHDLegionOliverRangerTrapBearTrap",
+      "FULL": "Armadilha para Ursos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B67F",
+      "FORMID": "14B67F",
+      "EDID": "VHDLegionOliverGenerator01",
+      "FULL": "Gerador de Fusão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B681",
+      "FORMID": "14B681",
+      "EDID": "VHDLegionOliverTrapTripwire",
+      "FULL": "Cabo de Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14BE12",
+      "FORMID": "14BE12",
+      "EDID": "LoganEVP",
+      "FULL": "Logan avalia encomendas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C136",
+      "FORMID": "14C136",
+      "EDID": "RouletteTableTheTops",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C634",
+      "FORMID": "14C634",
+      "EDID": "VHDLegionOliverBattleTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C638",
+      "FORMID": "14C638",
+      "EDID": "VHDLegionOliverRetreatTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C651",
+      "FORMID": "14C651",
+      "EDID": "VHDLegionLegateFinalTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C653",
+      "FORMID": "14C653",
+      "EDID": "VHDLegionPowerPlantQuestUpdateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C68D",
+      "FORMID": "14C68D",
+      "EDID": "CampSearchlightInChurch",
+      "FULL": "jogador na igreja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C68E",
+      "FORMID": "14C68E",
+      "EDID": "LoganQuestLeavingSearchlight",
+      "FULL": "Jogador na missão de Logan, saindo de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C69A",
+      "FORMID": "14C69A",
+      "EDID": "vHDNCROutsideOliver",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C69E",
+      "FORMID": "14C69E",
+      "EDID": "vHDNCRRadioTransmission",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA5B",
+      "FORMID": "14DA5B",
+      "EDID": "VHDLegionEnterLegatesTentTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA5C",
+      "FORMID": "14DA5C",
+      "EDID": "VHDLegionIntakeTowerCenturionBarksTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E32B",
+      "FORMID": "14E32B",
+      "EDID": "AstorPatrol",
+      "FULL": "Parada da Patrulha Astor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E838",
+      "FORMID": "14E838",
+      "EDID": "VMS49BeheadedCorpseUpdateTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E950",
+      "FORMID": "14E950",
+      "EDID": "VHDLegionPowerPlant02SpawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E951",
+      "FORMID": "14E951",
+      "EDID": "VHDLegionPowerPlant03SpawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E952",
+      "FORMID": "14E952",
+      "EDID": "VHDLegionPowerPlant01SpawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E953",
+      "FORMID": "14E953",
+      "EDID": "VHDLegionPowerPlantLegionaryDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14EF60",
+      "FORMID": "14EF60",
+      "EDID": "VMS51BottleCapPress",
+      "FULL": "Prensa de Chapas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F084",
+      "FORMID": "14F084",
+      "EDID": "VHDLegionPowerPlant04SpawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F0DB",
+      "FORMID": "14F0DB",
+      "EDID": "VLegateEndFailSafe",
+      "FULL": "Acabar com o Fodão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F0F0",
+      "FORMID": "14F0F0",
+      "EDID": "VMS49HVExitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3BB",
+      "FORMID": "14F3BB",
+      "EDID": "VHDOliverRangerSniperRightLaneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3BC",
+      "FORMID": "14F3BC",
+      "EDID": "VHDOliverRangerSniperLeftLaneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3BD",
+      "FORMID": "14F3BD",
+      "EDID": "VHDOliverRangerSniperMiddleRightLaneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3BE",
+      "FORMID": "14F3BE",
+      "EDID": "VHDOliverRangerSniperMiddleLaneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3BF",
+      "FORMID": "14F3BF",
+      "EDID": "VHDOliverRangerSniperRetreatTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3C0",
+      "FORMID": "14F3C0",
+      "EDID": "VHDOliverRangerSniperReverseRetreatTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F3C1",
+      "FORMID": "14F3C1",
+      "EDID": "VHDOliverRangerSniperLeftMiddleLaneTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F487",
+      "FORMID": "14F487",
+      "EDID": "VHDOliverTrapTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F488",
+      "FORMID": "14F488",
+      "EDID": "VHDOliverRangerMineLayingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F50E",
+      "FORMID": "14F50E",
+      "EDID": "VMS15ShoreTriggerMarker",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15181E",
+      "FORMID": "15181E",
+      "EDID": "VStripSS1CodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151EE2",
+      "FORMID": "151EE2",
+      "EDID": "TopsPlayersSuiteTrigger",
+      "FULL": "Gatilho da Suíte do Jogador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152319",
+      "FORMID": "152319",
+      "EDID": "NelsonGenerator01",
+      "FULL": "Gerador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15231C",
+      "FORMID": "15231C",
+      "EDID": "NelsonGenerator02",
+      "FULL": "Gerador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BEA",
+      "FORMID": "152BEA",
+      "EDID": "VMS52RadioAlpha",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BED",
+      "FORMID": "152BED",
+      "EDID": "VMS52RadioBravo",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BEE",
+      "FORMID": "152BEE",
+      "EDID": "VMS52RadioCharlie",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BEF",
+      "FORMID": "152BEF",
+      "EDID": "VMS52RadioDelta",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BF0",
+      "FORMID": "152BF0",
+      "EDID": "VMS52RadioEcho",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152BF1",
+      "FORMID": "152BF1",
+      "EDID": "VMS52RadioFoxtrot",
+      "FULL": "Rádio Amador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15361F",
+      "FORMID": "15361F",
+      "EDID": "ReloadingBench",
+      "FULL": "Bancada de Recarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153738",
+      "FORMID": "153738",
+      "EDID": "NewVegasRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153FB2",
+      "FORMID": "153FB2",
+      "EDID": "VHDEastPPConsole",
+      "FULL": "Interruptor Elétrico da Usina Leste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153FC6",
+      "FORMID": "153FC6",
+      "EDID": "VHDWestPPConsole",
+      "FULL": "Caixa de Controle da Usina de Energia Oeste"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15421D",
+      "FORMID": "15421D",
+      "EDID": "VStripSS2TrooperAEndPack",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15421E",
+      "FORMID": "15421E",
+      "EDID": "VStripSS2TrooperBEndPack",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15421F",
+      "FORMID": "15421F",
+      "EDID": "VStripSS2TrooperCEndPack",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154220",
+      "FORMID": "154220",
+      "EDID": "VStripSS2TrooperDEndPack",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154351",
+      "FORMID": "154351",
+      "EDID": "GenericWaterPump",
+      "FULL": "Válvula de Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1558CA",
+      "FORMID": "1558CA",
+      "EDID": "VFSNCRTroopsLeaveTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156761",
+      "FORMID": "156761",
+      "EDID": "VERT4NightStalkerDenTrigger2",
+      "FULL": "Aumentar o Espetáculo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156762",
+      "FORMID": "156762",
+      "EDID": "VERT4NightStalkerDenCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156763",
+      "FORMID": "156763",
+      "EDID": "VERT4NightStalkerDenTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156A97",
+      "FORMID": "156A97",
+      "EDID": "VERT1GSCoyoteDenCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156A99",
+      "FORMID": "156A99",
+      "EDID": "VERT1GSCoyoteDenTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156FB8",
+      "FORMID": "156FB8",
+      "EDID": "WeatherStationTrigger",
+      "FULL": "Gatilho da Estação Meteorológica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1572E1",
+      "FORMID": "1572E1",
+      "EDID": "PrimmMuseumCase",
+      "FULL": "Metralhadora Pessoal do Vance",
+      "XATO": "Examinar Estojo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157373",
+      "FORMID": "157373",
+      "EDID": "FortCaesarTentTrigger",
+      "FULL": "Gatilho da Tenda de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157CD3",
+      "FORMID": "157CD3",
+      "EDID": "FortOthoTrigger",
+      "FULL": "Gatilho do Otho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582F7",
+      "FORMID": "1582F7",
+      "EDID": "CampSearchlightAstorBark",
+      "FULL": "Astor Cumprimenta o Jogador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1582F8",
+      "FORMID": "1582F8",
+      "EDID": "CampSearchlightAstorBarkDeActivate",
+      "FULL": "Astor Cumprimenta Desativação do Jogador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158353",
+      "FORMID": "158353",
+      "EDID": "Lucky38CasinoTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15852F",
+      "FORMID": "15852F",
+      "EDID": "HanlonOfficeTrigger",
+      "FULL": "Gatilho do escritório do Chefe Hanlon."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1598B7",
+      "FORMID": "1598B7",
+      "EDID": "VFSSilverRushGuardPacerTalksToSimonTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1598B8",
+      "FORMID": "1598B8",
+      "EDID": "VFSSilverRushCustomerEnterTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159A9B",
+      "FORMID": "159A9B",
+      "EDID": "SafehouseBoSEnterExit",
+      "FULL": "Entrar\/Sair do Refúgio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A156",
+      "FORMID": "15A156",
+      "EDID": "HVHuntingVirusTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A380",
+      "FORMID": "15A380",
+      "EDID": "RegisTalkTrigger2",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A38E",
+      "FORMID": "15A38E",
+      "EDID": "SLRemnantsBunkerPanel",
+      "FULL": "Painel de Controle da Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A814",
+      "FORMID": "15A814",
+      "EDID": "GenericEvaluatePackageOnLinkedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B3A4",
+      "FORMID": "15B3A4",
+      "EDID": "VRemOrionMorenoTrigger",
+      "FULL": "Gatilho de Diálogo de Orion Moreno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B3AB",
+      "FORMID": "15B3AB",
+      "EDID": "VRemJudahKregerTrigger",
+      "FULL": "Gatilho de Judah Kreger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B7A7",
+      "FORMID": "15B7A7",
+      "EDID": "VStripSS00RandomizerTrigger",
+      "FULL": "Escolha um Programa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCA3",
+      "FORMID": "15BCA3",
+      "EDID": "WeatherStationTriggerInterior",
+      "FULL": "Gatilho de Diálogo da Estação Meteorológica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C445",
+      "FORMID": "15C445",
+      "EDID": "VES09BlouderCityTrigger02",
+      "FULL": "Indo para o Sul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C446",
+      "FORMID": "15C446",
+      "EDID": "VES09BlouderCityTrigger01",
+      "FULL": "Indo para o Norte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15CB95",
+      "FORMID": "15CB95",
+      "EDID": "vTopsSlot01",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D433",
+      "FORMID": "15D433",
+      "EDID": "BananaYuccaPickableWestside",
+      "FULL": "Iuca-banana",
+      "XATO": "Pegar Iuca-banana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D84A",
+      "FORMID": "15D84A",
+      "EDID": "RaulAndyConversation",
+      "FULL": "Conversa Raul Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D9B9",
+      "FORMID": "15D9B9",
+      "EDID": "SunnySmilesTrigger",
+      "FULL": "Gatilho Sunny Smiles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E52F",
+      "FORMID": "15E52F",
+      "EDID": "RaulJacobstownTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E530",
+      "FORMID": "15E530",
+      "EDID": "RaulREPCONTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E531",
+      "FORMID": "15E531",
+      "EDID": "RaulForlornHopeTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E532",
+      "FORMID": "15E532",
+      "EDID": "RaulFestusTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E533",
+      "FORMID": "15E533",
+      "EDID": "RaulPvtHalfordTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E57F",
+      "FORMID": "15E57F",
+      "EDID": "HVBunkerGuardDisplayTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8FC",
+      "FORMID": "15E8FC",
+      "EDID": "VERT3CentaurBMTrigger2",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8FD",
+      "FORMID": "15E8FD",
+      "EDID": "VERT3CentaurBMTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8FE",
+      "FORMID": "15E8FE",
+      "EDID": "VERT4AntSVTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E8FF",
+      "FORMID": "15E8FF",
+      "EDID": "VERT3ScorpionGulchCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E900",
+      "FORMID": "15E900",
+      "EDID": "VERT3CentaurBMCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E901",
+      "FORMID": "15E901",
+      "EDID": "VERT4AntSVCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E902",
+      "FORMID": "15E902",
+      "EDID": "VERT3ScorpionGulchTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E903",
+      "FORMID": "15E903",
+      "EDID": "VERT3ScorpionGulchTrigger2",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB41",
+      "FORMID": "15EB41",
+      "EDID": "XanderRootPlant",
+      "FULL": "Raiz de Xander",
+      "XATO": "Pegar Raiz de Xander"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB42",
+      "FORMID": "15EB42",
+      "EDID": "WhiteHorseNettle",
+      "FULL": "Urtiga-cavalo-branco",
+      "XATO": "Pegar Urtiga Cavalo Branco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EB43",
+      "FORMID": "15EB43",
+      "EDID": "BrocFlowerPlant",
+      "FULL": "Flor de Broc",
+      "XATO": "Pegar Flor de Broc"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EC2B",
+      "FORMID": "15EC2B",
+      "EDID": "VES34VaultCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECD9",
+      "FORMID": "15ECD9",
+      "EDID": "NellisSolarReflectorHeliosActivator",
+      "FULL": "Refletor Solar Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15ECEE",
+      "FORMID": "15ECEE",
+      "EDID": "VOVSewerRedLucyLightSwitch",
+      "FULL": "Interruptor de Luz"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0ED",
+      "FORMID": "15F0ED",
+      "EDID": "JalapenoPickable",
+      "FULL": "Planta Jalapeño",
+      "XATO": "Pegar Jalapeño"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0EE",
+      "FORMID": "15F0EE",
+      "EDID": "PintoPickable",
+      "FULL": "Planta Pinto",
+      "XATO": "Colher Feijões Pinto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F0EF",
+      "FORMID": "15F0EF",
+      "EDID": "BuffaloGourdPickable",
+      "FULL": "Planta de Cabaceira-do-Deserto",
+      "XATO": "Pegar Abóbora-Búfalo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F18B",
+      "FORMID": "15F18B",
+      "EDID": "VERT2ViperSLTrigger2",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F18C",
+      "FORMID": "15F18C",
+      "EDID": "VERT2ViperSLTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F190",
+      "FORMID": "15F190",
+      "EDID": "VERT2ViperSLCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F5B5",
+      "FORMID": "15F5B5",
+      "EDID": "L38PlayerPod",
+      "FULL": "Cápsula de Treinamento VR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FF6A",
+      "FORMID": "15FF6A",
+      "EDID": "EDERepconHQTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16007B",
+      "FORMID": "16007B",
+      "EDID": "HVBunkerExplosionTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1602A5",
+      "FORMID": "1602A5",
+      "EDID": "NellisTLpod01",
+      "FULL": "Simulador de Voo de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16078C",
+      "FORMID": "16078C",
+      "EDID": "LilyNellisBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160790",
+      "FORMID": "160790",
+      "EDID": "LilyDogsBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160794",
+      "FORMID": "160794",
+      "EDID": "LilyNovacBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:160797",
+      "FORMID": "160797",
+      "EDID": "LilyStripBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16079A",
+      "FORMID": "16079A",
+      "EDID": "LilyVaultBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607A2",
+      "FORMID": "1607A2",
+      "EDID": "LilyBlackMountainBark",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16122D",
+      "FORMID": "16122D",
+      "EDID": "VERT2ViperNiptonCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161231",
+      "FORMID": "161231",
+      "EDID": "VERT2ViperNiptonTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161245",
+      "FORMID": "161245",
+      "EDID": "VendMachMag",
+      "FULL": "Máquina de Venda de Revistas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161436",
+      "FORMID": "161436",
+      "EDID": "MojaveOutpostPlaque",
+      "FULL": "Monumento da Unificação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1614CC",
+      "FORMID": "1614CC",
+      "EDID": "BCHostageTrigger",
+      "FULL": "Gatilho de Refém de Boulder City"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1614D2",
+      "FORMID": "1614D2",
+      "EDID": "BlackjackTableUltraLuxe",
+      "FULL": "Mesa de Vinte e Um"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1614D8",
+      "FORMID": "1614D8",
+      "EDID": "RouletteTableUltraLuxe",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16150A",
+      "FORMID": "16150A",
+      "EDID": "vWranglerSlot02",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16150B",
+      "FORMID": "16150B",
+      "EDID": "RouletteTableAtomicWrangler",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16150C",
+      "FORMID": "16150C",
+      "EDID": "vWranglerSlot01",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16150D",
+      "FORMID": "16150D",
+      "EDID": "BlackjackTableAtomicWrangler",
+      "FULL": "Mesa de Vinte e Um",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1618C6",
+      "FORMID": "1618C6",
+      "EDID": "VCassCaravan",
+      "FULL": "Caravana da Cass Encontrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161920",
+      "FORMID": "161920",
+      "EDID": "ScorpionBurrowTrigger1",
+      "FULL": "Chamar a Rainha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16192B",
+      "FORMID": "16192B",
+      "EDID": "TheBigOne",
+      "FULL": "O Escolhido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161DDF",
+      "FORMID": "161DDF",
+      "EDID": "EndingTrigger",
+      "FULL": "Gatilho Final"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161E43",
+      "FORMID": "161E43",
+      "EDID": "GomorrahRouletteTable",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161E44",
+      "FORMID": "161E44",
+      "EDID": "BlackjackTableGomorrah",
+      "FULL": "Mesa de Vinte e Um",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161F70",
+      "FORMID": "161F70",
+      "EDID": "HVEvilBenefitFightTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162026",
+      "FORMID": "162026",
+      "EDID": "vVikkiAndVanceSlot01",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162028",
+      "FORMID": "162028",
+      "EDID": "vVikkiAndVanceSlot02",
+      "FULL": "Caça-níquel",
+      "XATO": "Jogar Caça-Níqueis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16206C",
+      "FORMID": "16206C",
+      "EDID": "BlackjackTableVikkiAndVance",
+      "FULL": "Mesa de Vinte e Um",
+      "XATO": "Jogar Blackjack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16206F",
+      "FORMID": "16206F",
+      "EDID": "VikkiAndVanceRouletteTable",
+      "FULL": "Mesa de Roleta",
+      "XATO": "Jogar Roleta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1628FB",
+      "FORMID": "1628FB",
+      "EDID": "VFSTrapAlleyTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1628FC",
+      "FORMID": "1628FC",
+      "EDID": "VFSTrapAlleyFleeTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1628FD",
+      "FORMID": "1628FD",
+      "EDID": "VFSReputationBenefitsNorthTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1628FE",
+      "FORMID": "1628FE",
+      "EDID": "VFSTrapAlleyTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1628FF",
+      "FORMID": "1628FF",
+      "EDID": "VFSBenefitNPCDespawnTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162900",
+      "FORMID": "162900",
+      "EDID": "VFSThugSpawningTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162901",
+      "FORMID": "162901",
+      "EDID": "VFSTrapAlleyTrigger03",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162902",
+      "FORMID": "162902",
+      "EDID": "VFSReputationBenefitsEastTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162903",
+      "FORMID": "162903",
+      "EDID": "VFSTrapAlleyResetTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162C03",
+      "FORMID": "162C03",
+      "EDID": "VMS35AutoDoc",
+      "FULL": "Auto-Doc Mk III"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162C07",
+      "FORMID": "162C07",
+      "EDID": "VMS35AutoDocVault34",
+      "FULL": "Auto-Doc Mk III Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1630CA",
+      "FORMID": "1630CA",
+      "EDID": "FortCaesarTentExitTrigger",
+      "FULL": "Gatilho de Saída da Tenda de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1630EC",
+      "FORMID": "1630EC",
+      "EDID": "WeatherStationExitTrigger",
+      "FULL": "Gatilho de Saída da Estação Climática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631DD",
+      "FORMID": "1631DD",
+      "EDID": "VMS38LucyToRoomTrigger01Volume",
+      "FULL": "Para o seu quarto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631E1",
+      "FORMID": "1631E1",
+      "EDID": "VMS38RedLucyBedTrigger",
+      "FULL": "Tire as Roupas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631E4",
+      "FORMID": "1631E4",
+      "EDID": "VMS38RedLucyRoomCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631E7",
+      "FORMID": "1631E7",
+      "EDID": "VMS38RedLucyThornCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632BF",
+      "FORMID": "1632BF",
+      "EDID": "HVSandStormWeatherRemovingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632C3",
+      "FORMID": "1632C3",
+      "EDID": "HVSandStormWeatherAddingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1632D3",
+      "FORMID": "1632D3",
+      "EDID": "HVRangerSneakUpTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1638EE",
+      "FORMID": "1638EE",
+      "EDID": "HVBMRadioConsole",
+      "FULL": "Console de Radar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163E9C",
+      "FORMID": "163E9C",
+      "EDID": "VStripMQEventHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164257",
+      "FORMID": "164257",
+      "EDID": "VCG03CampfireCrafting03",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1645DF",
+      "FORMID": "1645DF",
+      "EDID": "HVFastTravelDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164734",
+      "FORMID": "164734",
+      "EDID": "VMS01LaunchPlatformTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164A2C",
+      "FORMID": "164A2C",
+      "EDID": "VERT2ViperNiptonCodeHolder2",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165076",
+      "FORMID": "165076",
+      "EDID": "VERT2NiptonCaravanCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16568C",
+      "FORMID": "16568C",
+      "EDID": "VUltraLuxeFriskingTrigger",
+      "FULL": "Gatilho de Revista Ultra-Luxe (versão honesta)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16568D",
+      "FORMID": "16568D",
+      "EDID": "VULCashierTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16568E",
+      "FORMID": "16568E",
+      "EDID": "VUltraLuxeFriskingHoldoutTrigger",
+      "FULL": "Gatilho de Revista Ultra-Luxe (com armas escondidas)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1657EF",
+      "FORMID": "1657EF",
+      "EDID": "VFSInternalTransitionTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1658BA",
+      "FORMID": "1658BA",
+      "EDID": "MedicalClinicAutoDoc",
+      "FULL": "Auto-Doc Mk I"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165C3A",
+      "FORMID": "165C3A",
+      "EDID": "DrinkToiletClean03Purified",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165C3B",
+      "FORMID": "165C3B",
+      "EDID": "DrinkSinkClean03Purified",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166580",
+      "FORMID": "166580",
+      "EDID": "VMS21ClandenRoomTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B50",
+      "FORMID": "166B50",
+      "EDID": "HVDatastoreElectricalSwitch",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DE0",
+      "FORMID": "166DE0",
+      "EDID": "VERT4WalkingBoxCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DE1",
+      "FORMID": "166DE1",
+      "EDID": "VERT5SilverPeakCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166DE2",
+      "FORMID": "166DE2",
+      "EDID": "VERT5SilverPeakTrigger1",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1674A0",
+      "FORMID": "1674A0",
+      "EDID": "NVCCSetInteriorsActivator",
+      "FULL": "Definir Interiores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F2F",
+      "FORMID": "167F2F",
+      "EDID": "VFSOrrisSecondRunTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1682A0",
+      "FORMID": "1682A0",
+      "EDID": "DrinkUrinal03Purified",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1682A5",
+      "FORMID": "1682A5",
+      "EDID": "VFSOrrisIgnoreTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1682A6",
+      "FORMID": "1682A6",
+      "EDID": "VFSOrrisFollowAdviceTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16894C",
+      "FORMID": "16894C",
+      "EDID": "EdwardsScorpionAttack",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168996",
+      "FORMID": "168996",
+      "EDID": "VERT1PrimmAmbush01CodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168997",
+      "FORMID": "168997",
+      "EDID": "VERT4BloodborneCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168998",
+      "FORMID": "168998",
+      "EDID": "VERT2IvanpahAmbush01CodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168AE0",
+      "FORMID": "168AE0",
+      "EDID": "ArcadeVault22Conversation",
+      "FULL": "Conversa do Arcade Vault 22"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168AE9",
+      "FORMID": "168AE9",
+      "EDID": "ArcadeBitterSpringsConversation",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168BC8",
+      "FORMID": "168BC8",
+      "EDID": "VERT1IvanpahAntCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168BC9",
+      "FORMID": "168BC9",
+      "EDID": "VERT3ElDoradoCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168CFF",
+      "FORMID": "168CFF",
+      "EDID": "VERT1GSRoadCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16988F",
+      "FORMID": "16988F",
+      "EDID": "VFSAWOffLimitsTrigger",
+      "FULL": "Gatilho Nervoso do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16990A",
+      "FORMID": "16990A",
+      "EDID": "NellisPearlSupportTrigger",
+      "FULL": "Gatilho de Diálogo da Pearl"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1699B6",
+      "FORMID": "1699B6",
+      "EDID": "AverageWaterValve",
+      "FULL": "Válvula de Água"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1699FA",
+      "FORMID": "1699FA",
+      "EDID": "VFSCenterIntersectionHideTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169B82",
+      "FORMID": "169B82",
+      "EDID": "VERT4BonnieShowTrigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A227",
+      "FORMID": "16A227",
+      "EDID": "HVSchulerStandTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A99D",
+      "FORMID": "16A99D",
+      "EDID": "VStripSouthCodeHolder",
+      "FULL": "Prepare o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A99E",
+      "FORMID": "16A99E",
+      "EDID": "VStripNorthCodeHolder",
+      "FULL": "Prepare o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AC6E",
+      "FORMID": "16AC6E",
+      "EDID": "SVEntranceTrigger",
+      "FULL": "Gatilho da Entrada do Cofre dos Securitrons"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AC71",
+      "FORMID": "16AC71",
+      "EDID": "SVGalleryTrigger",
+      "FULL": "Gatilho da Galeria de Securitron"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16AEF2",
+      "FORMID": "16AEF2",
+      "EDID": "VFSVaporizationVolume",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B090",
+      "FORMID": "16B090",
+      "EDID": "vNiptonShowVulpesTrigger01",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B091",
+      "FORMID": "16B091",
+      "EDID": "vNiptonCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B092",
+      "FORMID": "16B092",
+      "EDID": "vNiptonShowTrigger01",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B41F",
+      "FORMID": "16B41F",
+      "EDID": "ArcadeWestsideTrigger",
+      "FULL": "Gatilho de Arcade em Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B668",
+      "FORMID": "16B668",
+      "EDID": "VintageRadioNVStartONCountry",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16CC0B",
+      "FORMID": "16CC0B",
+      "EDID": "JukeBoxDirtyNVCountry",
+      "FULL": "Jukebox"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16CD21",
+      "FORMID": "16CD21",
+      "EDID": "SLGoldMine01VERT3ACTIVATOR",
+      "FULL": "Retorno dos Vipers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16D543",
+      "FORMID": "16D543",
+      "EDID": "HVLilyWaitTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16D544",
+      "FORMID": "16D544",
+      "EDID": "HVLilyFollowAgainTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1718AD",
+      "FORMID": "1718AD",
+      "EDID": "Vault22CrewDoorsCloser",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1718B9",
+      "FORMID": "1718B9",
+      "EDID": "GenericWildWastelandTrigger",
+      "FULL": "Gatilho de Ermo Selvagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B7A",
+      "FORMID": "171B7A",
+      "EDID": "VHDLegionHowitzerStartTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B7B",
+      "FORMID": "171B7B",
+      "EDID": "VHDLegionHowitzerControlTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171BED",
+      "FORMID": "171BED",
+      "EDID": "WeatherStationLightTrigger",
+      "FULL": "Gatilho de Luz da Estação Meteorológica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172090",
+      "FORMID": "172090",
+      "EDID": "NellisPeteStoryActivator",
+      "FULL": "Desativador de História do Pete"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172800",
+      "FORMID": "172800",
+      "EDID": "BruceIsaacTeleportTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172D21",
+      "FORMID": "172D21",
+      "EDID": "VRRCPapasDoorClose",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172DFE",
+      "FORMID": "172DFE",
+      "EDID": "HVDeathTrackerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172FC3",
+      "FORMID": "172FC3",
+      "EDID": "GSSaloonExitTrigger",
+      "FULL": "Gatilho de Saída do Saloon Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173360",
+      "FORMID": "173360",
+      "EDID": "NVUltraLuxToiletDrinkPurified",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173361",
+      "FORMID": "173361",
+      "EDID": "NVUltraLuxSinkDrinkPurified",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1734F7",
+      "FORMID": "1734F7",
+      "EDID": "VVMS21aJoanaRoomCodeHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1735B9",
+      "FORMID": "1735B9",
+      "EDID": "FortCaesarComaTrigger",
+      "FULL": "Gatilho de Coma de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17371E",
+      "FORMID": "17371E",
+      "EDID": "VFSSilverRushRunPastGuardsTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173EF2",
+      "FORMID": "173EF2",
+      "EDID": "VPitInterferenceTrigger",
+      "FULL": "Pare com isso, seu jogador."
+    },
+    {
+      "FORM": "@FalloutNV.esm:173F95",
+      "FORMID": "173F95",
+      "EDID": "VERT2PrimmDenEnterTriggerActivator",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173FB4",
+      "FORMID": "173FB4",
+      "EDID": "VFSSilverRushCassKillingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174365",
+      "FORMID": "174365",
+      "EDID": "VERT5AlienCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1745AF",
+      "FORMID": "1745AF",
+      "EDID": "VFSAtomicWranglerCrierTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1745B0",
+      "FORMID": "1745B0",
+      "EDID": "VFSMickAndRalphsCrierTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1745B1",
+      "FORMID": "1745B1",
+      "EDID": "VFSSilverRushCrierTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1745B9",
+      "FORMID": "1745B9",
+      "EDID": "VCassMojaveAmbianceCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17460C",
+      "FORMID": "17460C",
+      "EDID": "VFSSilverRushWarehouseGasThrowTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174920",
+      "FORMID": "174920",
+      "EDID": "VFSSilverRushGuardEscapeTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17497E",
+      "FORMID": "17497E",
+      "EDID": "CassLeaveForeverTrigger",
+      "FULL": "Gatilho de Saída Permanente da Cass"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174F35",
+      "FORMID": "174F35",
+      "EDID": "McCarranNorthTarmacTrigger",
+      "FULL": "Disparador do Asfalto Norte de McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174F39",
+      "FORMID": "174F39",
+      "EDID": "McCarranSouthTarmacTrigger",
+      "FULL": "Gatilho da Pista Sul de McCarran"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17509E",
+      "FORMID": "17509E",
+      "EDID": "TheBigOneSoundActivator",
+      "FULL": "O Som do Grandão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175A55",
+      "FORMID": "175A55",
+      "EDID": "HVSandStormFastTravelTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175D8E",
+      "FORMID": "175D8E",
+      "EDID": "VLucky38DemoPortCodeHolder",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176541",
+      "FORMID": "176541",
+      "EDID": "ArcadeVertibirdTrigger",
+      "FULL": "Gatilho do Vertibird de Arcade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176544",
+      "FORMID": "176544",
+      "EDID": "ArcadeTestSiteTrigger",
+      "FULL": "Gatilho do Local de Teste de Arcade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17654C",
+      "FORMID": "17654C",
+      "EDID": "ArcadeHooverDamTrigger",
+      "FULL": "Gatilho da Represa Hoover do Arcade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176983",
+      "FORMID": "176983",
+      "EDID": "HVTeleportToRamosTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176984",
+      "FORMID": "176984",
+      "EDID": "HVPlayerLeavingTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:176F09",
+      "FORMID": "176F09",
+      "EDID": "CaesarDialogueTrigger",
+      "FULL": "Gatilho de Diálogo de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1771E0",
+      "FORMID": "1771E0",
+      "EDID": "VHDWestDamSniperTeamBattle02Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1774EC",
+      "FORMID": "1774EC",
+      "EDID": "HVPlayerEscapingTrigger",
+      "FULL": "Gatilho de Fuga do Jogador HV"
+    },
+    {
+      "FORM": "@FalloutNV.esm:177741",
+      "FORMID": "177741",
+      "EDID": "VHDLegionBattleStartRunningTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1789A1",
+      "FORMID": "1789A1",
+      "EDID": "REPCONBasementFoundStairsTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1790F4",
+      "FORMID": "1790F4",
+      "EDID": "CrimsonCaravanEntranceTrigger",
+      "FULL": "Gatilho de Entrada da Caravana Crimson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1791A8",
+      "FORMID": "1791A8",
+      "EDID": "BennyIdleTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A63C",
+      "FORMID": "17A63C",
+      "EDID": "VSarahBedTriggerVolume",
+      "FULL": "Tire as roupas dela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A63D",
+      "FORMID": "17A63D",
+      "EDID": "VSarahSceneIntroTrigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A63E",
+      "FORMID": "17A63E",
+      "EDID": "VSarahRoomSexCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A817",
+      "FORMID": "17A817",
+      "EDID": "VStripSS00BRandomizerTrigger",
+      "FULL": "Escolha um Programa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AF79",
+      "FORMID": "17AF79",
+      "EDID": "VHDLegionWestDamIntakeTowerDestinationTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AF7A",
+      "FORMID": "17AF7A",
+      "EDID": "V22AngelaWilliamsTalkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17AFE8",
+      "FORMID": "17AFE8",
+      "EDID": "VFSOrrisThugSleepTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B58B",
+      "FORMID": "17B58B",
+      "EDID": "VHDLegionWestDamSendIntakeTowerLegionariesOffTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B58C",
+      "FORMID": "17B58C",
+      "EDID": "VHDLegionPowerPlant01StrategyTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B66A",
+      "FORMID": "17B66A",
+      "EDID": "VVMS21aJoanaFirstTimeCodeHolder",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B792",
+      "FORMID": "17B792",
+      "EDID": "HooverDamWestEnableTrigger",
+      "FULL": "Gatilho de Ativação Oeste da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B794",
+      "FORMID": "17B794",
+      "EDID": "HooverDamEastEnableTrigger",
+      "FULL": "Gatilho de Habilitação Leste da Barragem Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B797",
+      "FORMID": "17B797",
+      "EDID": "V1ESquatterEnabler",
+      "FULL": "Sim, Senhor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B799",
+      "FORMID": "17B799",
+      "EDID": "VFactionSquadListCodeHolder",
+      "FULL": "Seleção de Lista de Esquadrão da Facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B79B",
+      "FORMID": "17B79B",
+      "EDID": "VFactionSquadCodeHolder",
+      "FULL": "Caixa de Surgimento de Esquadrão da Facção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17B79E",
+      "FORMID": "17B79E",
+      "EDID": "VDialogueVegasNorthGreaserCodeHolder",
+      "FULL": "Acabem Com Os Graxistas"
+    }
+  ]
+}

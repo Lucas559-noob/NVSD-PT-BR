@@ -1,0 +1,290 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@GunRunnersArsenal.esm:000822",
+      "FORMID": "000822",
+      "EDID": "NVDLC05ModNV127mmSMGLaserSight",
+      "FULL": "Mira Laser 12,7mm SMG",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nDiminui a dispersão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000823",
+      "FORMID": "000823",
+      "EDID": "NVDLC05ModNV127mmSMGStackedMagazine",
+      "FULL": "Carregador Empilhado 12,7mm SMG",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000824",
+      "FORMID": "000824",
+      "EDID": "NVDLC05ModNV127mmSMGSuppressor",
+      "FULL": "Silenciador de SMG 12,7mm",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nSilencia a arma."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000825",
+      "FORMID": "000825",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWExpandedDrum",
+      "FULL": "Tambor 25mm G. APW Exp.",
+      "DESC": "Aumenta a capacidade de munição (+2)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000826",
+      "FORMID": "000826",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWLongBarrel",
+      "FULL": "Canhão Longo APW 25mm G.",
+      "DESC": "(Arsenal dos Mercadores de Armas)\nAumenta a velocidade do projétil (+100%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000827",
+      "FORMID": "000827",
+      "EDID": "NVDLC05ModNV25mmGrenadeAPWUpgradedInternals",
+      "FULL": "25mm APW G. Int. Aprimorado",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000828",
+      "FORMID": "000828",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleCarbonFiberParts",
+      "FULL": "Peças CF do Rifle Anti-Mat.",
+      "DESC": "Diminui o peso (-7)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000829",
+      "FORMID": "000829",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleCustomBolt",
+      "FULL": "Parafuso Personalizado da Anti-Mat. Rifle",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082A",
+      "FORMID": "00082A",
+      "EDID": "NVDLC05ModNVAntiMaterielRifleSuppressor",
+      "FULL": "Supressor de Fuzil Anti-Mat.",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nReduz o ruído da arma."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082B",
+      "FORMID": "00082B",
+      "EDID": "NVDLC05ModNVAssaultCarbineExtendedMags",
+      "FULL": "Carabina de Assalto - Carregadores Estendidos",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082C",
+      "FORMID": "00082C",
+      "EDID": "NVDLC05ModNVAssaultCarbineForgedReceiver",
+      "FULL": "Carabina de Assalto. Receptor Forjado",
+      "DESC": "(Arsenal dos Mercadores de Armas)\nAumenta a condição (+33%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082D",
+      "FORMID": "00082D",
+      "EDID": "NVDLC05ModNVAssaultCarbineLightBolt",
+      "FULL": "Carabina de Assalto. Parafuso Leve",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082E",
+      "FORMID": "00082E",
+      "EDID": "NVDLC05ModNVBaseballBatCorkCore",
+      "FULL": "Bastão de Beisebol, Núcleo de Cortiça",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a velocidade de ataque."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00082F",
+      "FORMID": "00082F",
+      "EDID": "NVDLC05ModNVBaseballBatMapleBody",
+      "FULL": "Taco de Beisebol, Corpo de Maple",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000830",
+      "FORMID": "000830",
+      "EDID": "NVDLC05ModNVBaseballBatNails",
+      "FULL": "Taco de Beisebol com Pregos",
+      "DESC": "Aumenta o dano (+6)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000831",
+      "FORMID": "000831",
+      "EDID": "NVDLC05ModNVChainsawAlloyFrame",
+      "FULL": "Estrutura de Liga de Serra Elétrica",
+      "DESC": "Diminui o peso (-8)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000832",
+      "FORMID": "000832",
+      "EDID": "NVDLC05ModNVChainsawCarbideTeeth",
+      "FULL": "Dentes de Serra-Elétrica de Carbeto",
+      "DESC": "Aumenta o dano (+15)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000833",
+      "FORMID": "000833",
+      "EDID": "NVDLC05ModNVChainsawHeavyDutyChain",
+      "FULL": "Corrente de Motosserra HD",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000834",
+      "FORMID": "000834",
+      "EDID": "NVDLC05ModNVHuntingRevolverMatchBarrel",
+      "FULL": "Cano de Combinação Rev. Hunting",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nDiminui a dispersão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000836",
+      "FORMID": "000836",
+      "EDID": "NVDLC05ModNVHuntingRevolverSixShotCylinder",
+      "FULL": "Caçando Rev. 6-Shot Cylinder",
+      "DESC": "Aumenta a capacidade de munição (+1)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000837",
+      "FORMID": "000837",
+      "EDID": "NVDLC05ModNVKatanaAuthenticBlade",
+      "FULL": "Katana Lâmina Autêntica",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta o dano (+5)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000838",
+      "FORMID": "000838",
+      "EDID": "NVDLC05ModNVKatanaBalancedGrip",
+      "FULL": "Katana Punho Balanceado",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a velocidade de ataque."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000839",
+      "FORMID": "000839",
+      "EDID": "NVDLC05ModNVKatanaProtectiveSheath",
+      "FULL": "Bainha Protetora de Katana",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083A",
+      "FORMID": "00083A",
+      "EDID": "NVDLC05ModNVLaserPistolCombatSights",
+      "FULL": "Mira de Combate para Pistola Laser",
+      "DESC": "(Arsenal dos Vendedores de Armas)\nAdiciona miras de ferro utilizáveis."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083B",
+      "FORMID": "00083B",
+      "EDID": "NVDLC05ModNVLaserPistolFocusOptics",
+      "FULL": "Óptica de Foco para Pistola Laser",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta o dano (+3)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083C",
+      "FORMID": "00083C",
+      "EDID": "NVDLC05ModNVLaserPistolRecycler",
+      "FULL": "Reciclador de Pistola Laser",
+      "DESC": "(Arsenal dos Vendedores de Armas)\nRecarrega munição (1\/4 tiros)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083D",
+      "FORMID": "00083D",
+      "EDID": "NVDLC05ModNVPlasmaDefenderHighCapTerminal",
+      "FULL": "Terminal de Alta Capacidade de Def. de Plasma",
+      "DESC": "Aumenta a capacidade de munição (+32)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083E",
+      "FORMID": "00083E",
+      "EDID": "NVDLC05ModNVPlasmaDefenderScope",
+      "FULL": "Mira de Def. de Plasma",
+      "DESC": "(Arsenal dos Vendedores de Armas)\nAdiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00083F",
+      "FORMID": "00083F",
+      "EDID": "NVDLC05ModNVPlasmaDefenderSheathStabilizer",
+      "FULL": "Estabilizador de Bainha de Defesa de Plasma",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nDiminui a dispersão."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000840",
+      "FORMID": "000840",
+      "EDID": "NVDLC05ModNVPlasmaPistolHighEnergyIonizer",
+      "FULL": "Ionizador de Íons de Alta Energia de Pistola de Plas.",
+      "DESC": "Aumenta o dano (+7)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000841",
+      "FORMID": "000841",
+      "EDID": "NVDLC05ModNVPlasmaPistolMagneticAccelerator",
+      "FULL": "Plas. Acelerador de Carregador de Pistola.",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a velocidade do projétil de plasma."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000842",
+      "FORMID": "000842",
+      "EDID": "NVDLC05ModNVPlasmaPistolRecycler",
+      "FULL": "Reciclador de Pistola Plas.",
+      "DESC": "(Arsenal dos Vendedores de Armas)\nRecarrega munição (1\/4 tiros)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000843",
+      "FORMID": "000843",
+      "EDID": "NVDLC05ModNVPowerFistChromedTubes",
+      "FULL": "Tubo Cromado do Punho de Força",
+      "DESC": "Aumenta a condição (+100%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000844",
+      "FORMID": "000844",
+      "EDID": "NVDLC05ModNVPowerFistHighCapValves",
+      "FULL": "Válvulas de Alta Capacidade do Punho de Força",
+      "DESC": "Aumenta o dano (+8)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000845",
+      "FORMID": "000845",
+      "EDID": "NVDLC05ModNVPowerFistPortedChambers",
+      "FULL": "Câmaras Portadas do Punho de Aço",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a velocidade de ataque."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000846",
+      "FORMID": "000846",
+      "EDID": "NVDLC05ModNVRipperCarbideTeeth",
+      "FULL": "Dentes de Carbeto do Estripador",
+      "DESC": "Aumenta o dano (+10)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000847",
+      "FORMID": "000847",
+      "EDID": "NVDLC05ModNVRipperHeavyDutyChain",
+      "FULL": "Corrente HD do Estripador",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000849",
+      "FORMID": "000849",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleFocusOptics",
+      "FULL": "Óptica de Foco LR Tri-feixe",
+      "DESC": "Aumenta o dano (+9)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084A",
+      "FORMID": "00084A",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleHDCapacitors",
+      "FULL": "Tri-beam LR HD Tampinhas",
+      "DESC": "Aumenta a condição (+200%)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084B",
+      "FORMID": "00084B",
+      "EDID": "NVDLC05ModNVTriBeamLaserRifleHighCapTerminal",
+      "FULL": "Terminal do Tri-feixe LR Hi-Cap",
+      "DESC": "(Arsenal dos Contrabandistas de Armas)\nAumenta a capacidade de munição (+24)."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A17",
+      "FORMID": "000A17",
+      "EDID": "ModTestSuppress",
+      "FULL": "Teste de Supressão de Mod"
+    }
+  ]
+}

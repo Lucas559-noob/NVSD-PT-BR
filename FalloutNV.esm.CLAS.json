@@ -1,0 +1,436 @@
+{
+  "CLAS": [
+    {
+      "FORM": "@FalloutNV.esm:000801",
+      "FORMID": "000801",
+      "EDID": "VaultDweller",
+      "FULL": "Habitante da Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:003B75",
+      "FORMID": "003B75",
+      "EDID": "VendorFood",
+      "FULL": "Dono de Restaurante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015671",
+      "FORMID": "015671",
+      "EDID": "Lamplighter",
+      "FULL": "Pequeno Lamparista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015672",
+      "FORMID": "015672",
+      "EDID": "Settler",
+      "FULL": "Colono"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015673",
+      "FORMID": "015673",
+      "EDID": "BrotherhoodSoldier",
+      "FULL": "Soldado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015674",
+      "FORMID": "015674",
+      "EDID": "Scribe",
+      "FULL": "Escriba"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015675",
+      "FORMID": "015675",
+      "EDID": "RaiderBigGuns",
+      "FULL": "Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015677",
+      "FORMID": "015677",
+      "EDID": "VillageLeader",
+      "FULL": "Líder da Vila"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015678",
+      "FORMID": "015678",
+      "EDID": "Villager",
+      "FULL": "Morador da Vila"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015679",
+      "FORMID": "015679",
+      "EDID": "Doctor",
+      "FULL": "Médico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01567A",
+      "FORMID": "01567A",
+      "EDID": "VendorDrinks",
+      "FULL": "Bartender"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01567B",
+      "FORMID": "01567B",
+      "EDID": "Scientist",
+      "FULL": "Cientista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01567D",
+      "FORMID": "01567D",
+      "EDID": "Slaver",
+      "FULL": "Escravizador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01567E",
+      "FORMID": "01567E",
+      "EDID": "Slave",
+      "FULL": "Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01567F",
+      "FORMID": "01567F",
+      "EDID": "SecurityChief",
+      "FULL": "Chefe da Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015680",
+      "FORMID": "015680",
+      "EDID": "SecurityOfficer",
+      "FULL": "Oficial de Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0173E8",
+      "FORMID": "0173E8",
+      "EDID": "Entrepreneur",
+      "FULL": "Empreendedor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018738",
+      "FORMID": "018738",
+      "EDID": "VendorClothes",
+      "FULL": "Alfaiate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01873D",
+      "FORMID": "01873D",
+      "EDID": "WastelandAdventurer",
+      "FULL": "Aventureiro do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01873E",
+      "FORMID": "01873E",
+      "EDID": "WastelandPreacher",
+      "FULL": "Pregador do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01873F",
+      "FORMID": "01873F",
+      "EDID": "SoldierLeader",
+      "FULL": "Soldado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01874D",
+      "FORMID": "01874D",
+      "EDID": "Prostitute",
+      "FULL": "Prostituta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018756",
+      "FORMID": "018756",
+      "EDID": "Mechanic",
+      "FULL": "Mecânico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01875D",
+      "FORMID": "01875D",
+      "EDID": "SoldierBigGuns",
+      "FULL": "Soldado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01945C",
+      "FORMID": "01945C",
+      "EDID": "RaiderMelee",
+      "FULL": "Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01945D",
+      "FORMID": "01945D",
+      "EDID": "RaiderScout",
+      "FULL": "Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01945E",
+      "FORMID": "01945E",
+      "EDID": "RaiderGuns",
+      "FULL": "Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01945F",
+      "FORMID": "01945F",
+      "EDID": "SoldierEnergy",
+      "FULL": "Soldado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019460",
+      "FORMID": "019460",
+      "EDID": "SoldierScout",
+      "FULL": "Soldado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019461",
+      "FORMID": "019461",
+      "EDID": "VendorMisc",
+      "FULL": "Shopkeeper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019462",
+      "FORMID": "019462",
+      "EDID": "VendorWeapons",
+      "FULL": "Vendedor de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0194E4",
+      "FORMID": "0194E4",
+      "EDID": "ChildGeneric",
+      "FULL": "Criança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025926",
+      "FORMID": "025926",
+      "EDID": "BrotherhoodScribe",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025927",
+      "FORMID": "025927",
+      "EDID": "BrotherhoodInitiate",
+      "FULL": "Iniciado da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025928",
+      "FORMID": "025928",
+      "EDID": "BrotherhoodKnight",
+      "FULL": "Cavaleiro da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029629",
+      "FORMID": "029629",
+      "EDID": "EnclaveEnergyGuns",
+      "FULL": "Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029660",
+      "FORMID": "029660",
+      "EDID": "EnclaveMelee",
+      "FULL": "Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033DDA",
+      "FORMID": "033DDA",
+      "EDID": "MercRangedWeapons",
+      "FULL": "Mercenário(a)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044482",
+      "FORMID": "044482",
+      "EDID": "TalonGunClass",
+      "FULL": "Mercenário Talon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:050F91",
+      "FORMID": "050F91",
+      "EDID": "Addict",
+      "FULL": "Viciado em Drogas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:057E6A",
+      "FORMID": "057E6A",
+      "EDID": "PlayerClass",
+      "FULL": "Habitante da Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068DB1",
+      "FORMID": "068DB1",
+      "EDID": "Vault101Security",
+      "FULL": "Segurança do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:083515",
+      "FORMID": "083515",
+      "EDID": "Drunk",
+      "FULL": "Bêbado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B1A0",
+      "FORMID": "09B1A0",
+      "EDID": "CGVault101Security",
+      "FULL": "Segurança do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6A8",
+      "FORMID": "05C6A8",
+      "EDID": "DukovClass",
+      "FULL": "Dukov"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A84E1",
+      "FORMID": "0A84E1",
+      "EDID": "TalonMeleeClass",
+      "FULL": "Mercenário Talon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AC3C8",
+      "FORMID": "0AC3C8",
+      "EDID": "ChineseSoldier",
+      "FULL": "Soldado Chinês"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BB217",
+      "FORMID": "0BB217",
+      "EDID": "MS06Slaver",
+      "FULL": "Escravizador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E2C5",
+      "FORMID": "07E2C5",
+      "EDID": "MisterCrowleyClass",
+      "FULL": "Sr. Crowley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D370",
+      "FORMID": "08D370",
+      "EDID": "PowderGanger",
+      "FULL": "Gangster da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08D424",
+      "FORMID": "08D424",
+      "EDID": "NCRRanger",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD183",
+      "FORMID": "0CD183",
+      "EDID": "SettlerNV",
+      "FULL": "Colono"
+    },
+    {
+      "FORM": "@FalloutNV.esm:099D02",
+      "FORMID": "099D02",
+      "EDID": "NCRTrooper",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E604E",
+      "FORMID": "0E604E",
+      "EDID": "Gunrunner",
+      "FULL": "Vendedor de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6055",
+      "FORMID": "0E6055",
+      "EDID": "GunrunnerGuard",
+      "FULL": "Guardas da Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FF261",
+      "FORMID": "0FF261",
+      "EDID": "BoomerClass",
+      "FULL": "Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EB4E",
+      "FORMID": "11EB4E",
+      "EDID": "NCRGambler",
+      "FULL": "Apostador da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EB4F",
+      "FORMID": "11EB4F",
+      "EDID": "NCRTraveler",
+      "FULL": "Viajante da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1270BE",
+      "FORMID": "1270BE",
+      "EDID": "StreetThug",
+      "FULL": "Malandro de Rua"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127736",
+      "FORMID": "127736",
+      "EDID": "Legionary",
+      "FULL": "Legionário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B285",
+      "FORMID": "13B285",
+      "EDID": "NCRRefugee",
+      "FULL": "Refugiado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B286",
+      "FORMID": "13B286",
+      "EDID": "Farmer",
+      "FULL": "Fazendeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145B6D",
+      "FORMID": "145B6D",
+      "EDID": "Engineer",
+      "FULL": "Engenheiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1476AA",
+      "FORMID": "1476AA",
+      "EDID": "VeronicaClass",
+      "FULL": "Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15AD0E",
+      "FORMID": "15AD0E",
+      "EDID": "VendorAdventurer",
+      "FULL": "Vendedor Aventureiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C4D6",
+      "FORMID": "15C4D6",
+      "EDID": "VendorTraveler",
+      "FULL": "Mercador Viajante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D49A",
+      "FORMID": "15D49A",
+      "EDID": "RaulClass",
+      "FULL": "Mecânico Armeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F16F",
+      "FORMID": "15F16F",
+      "EDID": "VWastelandBanditGuns",
+      "FULL": "Pistoleiro do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174F77",
+      "FORMID": "174F77",
+      "EDID": "NCRTrooperVendor",
+      "FULL": "Vendedor da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17657A",
+      "FORMID": "17657A",
+      "EDID": "CassClass",
+      "FULL": "Cachaceiro de Caravan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17657B",
+      "FORMID": "17657B",
+      "EDID": "ArcadeClass",
+      "FULL": "Doutor dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17A636",
+      "FORMID": "17A636",
+      "EDID": "LegionaryBadAss",
+      "FULL": "Legado"
+    }
+  ]
+}

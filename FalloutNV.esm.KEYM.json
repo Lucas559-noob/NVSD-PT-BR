@@ -1,0 +1,1702 @@
+{
+  "KEYM": [
+    {
+      "FORM": "@FalloutNV.esm:0151E4",
+      "FORMID": "0151E4",
+      "EDID": "MegatonHouseKey",
+      "FULL": "Minha Chave da Casa de Megaton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01522E",
+      "FORMID": "01522E",
+      "EDID": "TenpennySuiteKey",
+      "FULL": "Minha Chave da Suíte da Torre Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FC8A",
+      "FORMID": "01FC8A",
+      "EDID": "LOBEnterpriseCEOKey",
+      "FULL": "Chave do CEO da LOB Enterprises"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FF13",
+      "FORMID": "01FF13",
+      "EDID": "MoiraBrownVendorKEY",
+      "FULL": "Chave da Craterside Supply"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FF14",
+      "FORMID": "01FF14",
+      "EDID": "DocChurchVendorKey",
+      "FULL": "Chave da Clínica de Megaton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020107",
+      "FORMID": "020107",
+      "EDID": "MegatonNoodleStandMerchantContainerKEY",
+      "FULL": "Chave do Suprimento da Barraca de Noodles"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02010E",
+      "FORMID": "02010E",
+      "EDID": "MegatonLeoDrugsMerchantContainerKEY",
+      "FULL": "Chave de Suprimentos de Leo Stahl"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020479",
+      "FORMID": "020479",
+      "EDID": "GobVendorKey",
+      "FULL": "Chave do Depósito do Saloon do Moriarty"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020751",
+      "FORMID": "020751",
+      "EDID": "MegatonColinsKey",
+      "FULL": "Chave de Colin Moriarty"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022643",
+      "FORMID": "022643",
+      "EDID": "MS12Key",
+      "FULL": "Chave da Sala do Gerador de Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0158E9",
+      "FORMID": "0158E9",
+      "EDID": "MS09ArefuMasterKey",
+      "FULL": "Chave-Mestra de Arefu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B8DA",
+      "FORMID": "02B8DA",
+      "EDID": "MS14TedsKey",
+      "FULL": "Chave Especial de Ted Strayer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B8DB",
+      "FORMID": "02B8DB",
+      "EDID": "MS14DukovsKey",
+      "FULL": "Chave Especial de Dukov"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02BF5A",
+      "FORMID": "02BF5A",
+      "EDID": "MS14DavesKey",
+      "FULL": "Chave Especial do Dave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E0B4",
+      "FORMID": "02E0B4",
+      "EDID": "Vault101OverseersKey",
+      "FULL": "Chave do Escritório do Supervisor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E375",
+      "FORMID": "02E375",
+      "EDID": "AndaleSmithBasementKey",
+      "FULL": "Chave do Porão de Andale"
+    },
+    {
+      "FORM": "@FalloutNV.esm:030097",
+      "FORMID": "030097",
+      "EDID": "RHSLibraryKey",
+      "FULL": "Chave da Biblioteca Roosevelt"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0309C6",
+      "FORMID": "0309C6",
+      "EDID": "RHSHallKey",
+      "FULL": "Chave do Salão Principal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031748",
+      "FORMID": "031748",
+      "EDID": "PFallsSlavePenKey",
+      "FULL": "Chave da Caixa de Paradise Falls"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03178E",
+      "FORMID": "03178E",
+      "EDID": "RDGateKey",
+      "FULL": "Chave do Portão da Frente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031945",
+      "FORMID": "031945",
+      "EDID": "TulipVendorKey",
+      "FULL": "Chave de Suprimentos da Underworld Outfitters"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031946",
+      "FORMID": "031946",
+      "EDID": "AhzrukhalVendorKey",
+      "FULL": "Chave de Suprimentos do Nono Círculo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031947",
+      "FORMID": "031947",
+      "EDID": "GretaVendorKey",
+      "FULL": "Chave da Loja de Suprimentos da Carol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031EFF",
+      "FORMID": "031EFF",
+      "EDID": "MS10CavesKey",
+      "FULL": "Chave das Cavernas do Oásis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:035E05",
+      "FORMID": "035E05",
+      "EDID": "TempleUnionKey",
+      "FULL": "Chave do Templo da União"
+    },
+    {
+      "FORM": "@FalloutNV.esm:035E06",
+      "FORMID": "035E06",
+      "EDID": "TempleUnionStoreroomKey",
+      "FULL": "Chave do Depósito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:036F7E",
+      "FORMID": "036F7E",
+      "EDID": "MS02AntAgonizerKey",
+      "FULL": "Chave do Covil da AntAgonizer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0394CE",
+      "FORMID": "0394CE",
+      "EDID": "ParadiseFallsClinicMerchantContainerKEY",
+      "FULL": "Chave da Clínica Paradise Falls"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D798",
+      "FORMID": "03D798",
+      "EDID": "ForgeLobbyDoorKey",
+      "FULL": "Chave do Lobby da Forja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430C9",
+      "FORMID": "0430C9",
+      "EDID": "MegatonCratersideSupplyKey",
+      "FULL": "Chave - Suprimentos de Craterside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CA",
+      "FORMID": "0430CA",
+      "EDID": "MegatonChurchKey",
+      "FULL": "Chave - Igreja do Átomo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CB",
+      "FORMID": "0430CB",
+      "EDID": "MegatonJerichoHouseKey",
+      "FULL": "Chave da Casa - Jericho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CC",
+      "FORMID": "0430CC",
+      "EDID": "MegatonLucasSimmsHouseKey",
+      "FULL": "Chave da Casa - Lucas Simms"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CD",
+      "FORMID": "0430CD",
+      "EDID": "MegatonLucyWestHouseKey",
+      "FULL": "Chave da Casa - Lucy West"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CE",
+      "FORMID": "0430CE",
+      "EDID": "MegatonMisterBurkeHouseKey",
+      "FULL": "Chave da Casa - Sr. Burke"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430CF",
+      "FORMID": "0430CF",
+      "EDID": "MegatonMoriartysKey",
+      "FULL": "Chave da Casa - Moriarty"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430D0",
+      "FORMID": "0430D0",
+      "EDID": "MegatonNathanMaynaHouseKey",
+      "FULL": "Chave da Casa - Nathan e Manya"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430D1",
+      "FORMID": "0430D1",
+      "EDID": "MegatonBrassLanternKey",
+      "FULL": "Chave - Porta da Lanterna de Latão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430D2",
+      "FORMID": "0430D2",
+      "EDID": "MegatonBillyCreelHouseKey",
+      "FULL": "Chave da Casa - Billy Creel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0430D3",
+      "FORMID": "0430D3",
+      "EDID": "MegatonClinicKey",
+      "FULL": "Chave - Clínica de Megaton"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04CFDA",
+      "FORMID": "04CFDA",
+      "EDID": "LDFortCWarheadStorageKEY",
+      "FULL": "Chave do Depósito de Ogivas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04F7C6",
+      "FORMID": "04F7C6",
+      "EDID": "MS17AmmoBoxKey",
+      "FULL": "Chave da Caixa de Munição da Agatha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05F6EF",
+      "FORMID": "05F6EF",
+      "EDID": "MS04ShackKey",
+      "FULL": "Chave do Barraco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060931",
+      "FORMID": "060931",
+      "EDID": "MS04CaHDumpsterKey",
+      "FULL": "Chave da Lixeira de Grayditch"
+    },
+    {
+      "FORM": "@FalloutNV.esm:065435",
+      "FORMID": "065435",
+      "EDID": "GalloStorageKey",
+      "FULL": "Chave do Depósito do Gallo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E88",
+      "FORMID": "068E88",
+      "EDID": "UncleRoeVendorKey",
+      "FULL": "Chave do Depósito do Roe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E89",
+      "FORMID": "068E89",
+      "EDID": "JoePorterLarderKey",
+      "FULL": "Chave da Despensa do Porter"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E8A",
+      "FORMID": "068E8A",
+      "EDID": "CaravanCrowKey",
+      "FULL": "Chave do Depósito do Corvo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E8B",
+      "FORMID": "068E8B",
+      "EDID": "CaravanWolfgangKey",
+      "FULL": "Chave de Suprimentos do Wolfgang Doido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E8C",
+      "FORMID": "068E8C",
+      "EDID": "caravanHarithKey",
+      "FULL": "Chave de Suprimentos do Lucky Harith"
+    },
+    {
+      "FORM": "@FalloutNV.esm:068E8D",
+      "FORMID": "068E8D",
+      "EDID": "CaravanDocHoffKey",
+      "FULL": "Chave de Suprimentos do Dr. Hoff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B5B3",
+      "FORMID": "06B5B3",
+      "EDID": "RidgefieldGateKey",
+      "FULL": "Chave do Portão de Ridgefield"
+    },
+    {
+      "FORM": "@FalloutNV.esm:072C2A",
+      "FORMID": "072C2A",
+      "EDID": "OutcastBaseKey",
+      "FULL": "Acesso ao Forte Independence"
+    },
+    {
+      "FORM": "@FalloutNV.esm:080C26",
+      "FORMID": "080C26",
+      "EDID": "RCArmoryKey",
+      "FULL": "Chave do Arsenal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:083514",
+      "FORMID": "083514",
+      "EDID": "MuddyRudderKey",
+      "FULL": "Chave do Timão Enlameado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:083516",
+      "FORMID": "083516",
+      "EDID": "BelleBonnyVendorKey",
+      "FULL": "Chave da Belle Bonny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:087D86",
+      "FORMID": "087D86",
+      "EDID": "MegatonMoriartyOfficeKey",
+      "FULL": "Chave do Escritório de Moriarty"
+    },
+    {
+      "FORM": "@FalloutNV.esm:088326",
+      "FORMID": "088326",
+      "EDID": "SpringElemBossKey",
+      "FULL": "Chave do Porão de Springvale"
+    },
+    {
+      "FORM": "@FalloutNV.esm:088328",
+      "FORMID": "088328",
+      "EDID": "SpringElemMinibossKey",
+      "FULL": "Chave da Biblioteca de Springvale"
+    },
+    {
+      "FORM": "@FalloutNV.esm:093746",
+      "FORMID": "093746",
+      "EDID": "vault92bDataStorageKey",
+      "FULL": "Código de Acesso ao Armazenamento de Dados"
+    },
+    {
+      "FORM": "@FalloutNV.esm:098CE6",
+      "FORMID": "098CE6",
+      "EDID": "LydiaMontenegroVendorKey",
+      "FULL": "Chave do Inventário da Boutique Le Chic"
+    },
+    {
+      "FORM": "@FalloutNV.esm:044533",
+      "FORMID": "044533",
+      "EDID": "MS01JailorsKey",
+      "FULL": "Chave dos Carcereiros de Germantown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05AD67",
+      "FORMID": "05AD67",
+      "EDID": "MamaDolceKeyCard",
+      "FULL": "Chave de Criptografia da Mama Dolce"
+    },
+    {
+      "FORM": "@FalloutNV.esm:062072",
+      "FORMID": "062072",
+      "EDID": "MuseumTechCustodianKey01",
+      "FULL": "Chave - Chave do Zelador do Museu de Tecnologia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09CFE8",
+      "FORMID": "09CFE8",
+      "EDID": "chryslusMasterKey",
+      "FULL": "Chave Mestra do Edifício Chryslus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE3",
+      "FORMID": "0A1BE3",
+      "EDID": "RCDoctorLiKey",
+      "FULL": "Chave da Dra. Li"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE4",
+      "FORMID": "0A1BE4",
+      "EDID": "BannonVendorKey",
+      "FULL": "Chave do Bannon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE5",
+      "FORMID": "0A1BE5",
+      "EDID": "RCSisterKey",
+      "FULL": "Chave da Irmã"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE6",
+      "FORMID": "0A1BE6",
+      "EDID": "FlakShrapnelVendorKey",
+      "FULL": "Chave do Flak e Shrapnel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE7",
+      "FORMID": "0A1BE7",
+      "EDID": "RCZimmerKey",
+      "FULL": "Chave de Zimmer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE8",
+      "FORMID": "0A1BE8",
+      "EDID": "RCYoungKey",
+      "FULL": "Chave do Young"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BE9",
+      "FORMID": "0A1BE9",
+      "EDID": "CantelliVendorKey",
+      "FULL": "Chave do Cantelli"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BEA",
+      "FORMID": "0A1BEA",
+      "EDID": "StaleyVendorKey",
+      "FULL": "Chave do Staley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BEB",
+      "FORMID": "0A1BEB",
+      "EDID": "SeagraveHolmesVendorKey",
+      "FULL": "Chave de Seagrave Holme"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BEC",
+      "FORMID": "0A1BEC",
+      "EDID": "RCHarknessKey",
+      "FULL": "Chave de Harkness"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BED",
+      "FORMID": "0A1BED",
+      "EDID": "DoctorPrestonVendorKey",
+      "FULL": "Chave do Dr. Preston"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BEE",
+      "FORMID": "0A1BEE",
+      "EDID": "RCDanversKey",
+      "FULL": "Chave de Danvers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A1BEF",
+      "FORMID": "0A1BEF",
+      "EDID": "VeraWeatherlyVendorKey",
+      "FULL": "Chave de Vera Weatherly"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2822",
+      "FORMID": "0A2822",
+      "EDID": "RCMuddyRudderKey",
+      "FULL": "Chave do Timão Enlameado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2823",
+      "FORMID": "0A2823",
+      "EDID": "RCTrinnieKey",
+      "FULL": "Chave da Trinnie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2824",
+      "FORMID": "0A2824",
+      "EDID": "RCBrockKey",
+      "FULL": "Chave do Brock"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2826",
+      "FORMID": "0A2826",
+      "EDID": "RCSaintMonicaKey",
+      "FULL": "Chave de Santa Monica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2828",
+      "FORMID": "0A2828",
+      "EDID": "RCDiegoKey",
+      "FULL": "Chave do Diego"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2829",
+      "FORMID": "0A2829",
+      "EDID": "RCFatherCliffordKey",
+      "FULL": "Chave do Padre Clifford"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A282C",
+      "FORMID": "0A282C",
+      "EDID": "RCMeiWongKey",
+      "FULL": "Chave de Mei Wong"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A282D",
+      "FORMID": "0A282D",
+      "EDID": "RCHargraveKey",
+      "FULL": "Chave de Hargrave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2830",
+      "FORMID": "0A2830",
+      "EDID": "RCMisterLopezKey",
+      "FULL": "Chave do Sr. Lopez"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A2831",
+      "FORMID": "0A2831",
+      "EDID": "RCTedStrayerKey",
+      "FULL": "Chave de Ted Strayer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4627",
+      "FORMID": "0A4627",
+      "EDID": "Forge01FranksKey",
+      "FULL": "Chave da Caixa do Frank"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A53E7",
+      "FORMID": "0A53E7",
+      "EDID": "Forge01KeyCard",
+      "FULL": "Chave de Criptografia do Setor A"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AA54A",
+      "FORMID": "0AA54A",
+      "EDID": "RCAbrahamWashingtonKey",
+      "FULL": "Chave de Abraham Washington"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AAFA0",
+      "FORMID": "0AAFA0",
+      "EDID": "evergreenLootClosetKey",
+      "FULL": "Chave do Depósito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABD06",
+      "FORMID": "0ABD06",
+      "EDID": "LDJuryBossKey",
+      "FULL": "Chave do Cofre de Ryan Brigg"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABEBA",
+      "FORMID": "0ABEBA",
+      "EDID": "RCHangarKey",
+      "FULL": "Chave do Hangar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AC37A",
+      "FORMID": "0AC37A",
+      "EDID": "AWMStashKey",
+      "FULL": "Chave do Depósito de Anchorage"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AD826",
+      "FORMID": "0AD826",
+      "EDID": "EMillsBazBrothelKey",
+      "FULL": "Chave da Madame"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B25B4",
+      "FORMID": "0B25B4",
+      "EDID": "fortBanJabscoKey",
+      "FULL": "Chave do Jabsco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2947",
+      "FORMID": "0B2947",
+      "EDID": "DomHouseKey",
+      "FULL": "Chave da Casa de Dominic"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2C44",
+      "FORMID": "0B2C44",
+      "EDID": "FortIndpendenceWeaponsKey",
+      "FULL": "Chave do Depósito Industrial do Forte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4200",
+      "FORMID": "0B4200",
+      "EDID": "RedVendorKey",
+      "FULL": "Chave dos Suprimentos Médicos do Red"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4204",
+      "FORMID": "0B4204",
+      "EDID": "SmilingJackVendorKey",
+      "FULL": "Chave do Vendedor Smiling Jack"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4209",
+      "FORMID": "0B4209",
+      "EDID": "SeedspreaderVendorKey",
+      "FULL": "Chave do Depósito de Sementes Seedspreader"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4217",
+      "FORMID": "0B4217",
+      "EDID": "AnthonyLingVendorKey",
+      "FULL": "Chave do Inventário de Anthony Ling"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B421C",
+      "FORMID": "0B421C",
+      "EDID": "DoctorBanfieldVendorKey",
+      "FULL": "Chave dos Suprimentos Médicos do Dr. Banfield"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B421E",
+      "FORMID": "0B421E",
+      "EDID": "MargaretPrimroseVendorKey",
+      "FULL": "Chave do Congelador de Margaret Primrose"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4222",
+      "FORMID": "0B4222",
+      "EDID": "ShakesVendorKey",
+      "FULL": "Chave do Armário de Bebidas do Shake"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B4226",
+      "FORMID": "0B4226",
+      "EDID": "DoctorBarrowsVendorKey",
+      "FULL": "Chave dos Suprimentos Médicos do Doutor Barrows"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B422E",
+      "FORMID": "0B422E",
+      "EDID": "SydneyVendorKey",
+      "FULL": "Chave do Estojo de Munição da Sydney"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B5C6B",
+      "FORMID": "0B5C6B",
+      "EDID": "tepidRockSaltsKey",
+      "FULL": "Chave do Rocksalt"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9D9B",
+      "FORMID": "0B9D9B",
+      "EDID": "TheFamilyKarlVendorKey",
+      "FULL": "Chave do Depósito do Karl"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9D9D",
+      "FORMID": "0B9D9D",
+      "EDID": "KnightSergeantDurgaVendorKey",
+      "FULL": "Chave de Suprimentos da Durga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9DA1",
+      "FORMID": "0B9DA1",
+      "EDID": "StahlVendorKey",
+      "FULL": "Chave do Depósito da Lanterna de Latão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9DA2",
+      "FORMID": "0B9DA2",
+      "EDID": "JoePorterVendorKey",
+      "FULL": "Chave do Depósito do Joe Poter"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B9DA3",
+      "FORMID": "0B9DA3",
+      "EDID": "KnickKnackVendorKey",
+      "FULL": "Chave da Loja de Bugigangas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BCC4C",
+      "FORMID": "0BCC4C",
+      "EDID": "DeathclawCageKey",
+      "FULL": "Chave da Jaula de Destroçador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01867F",
+      "FORMID": "01867F",
+      "EDID": "PS05key",
+      "FULL": "Chave da Usina de Energia MDPL-05"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A335",
+      "FORMID": "01A335",
+      "EDID": "AndaleWilsonShedKey",
+      "FULL": "Chave do Celeiro de Andale"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01B1BE",
+      "FORMID": "01B1BE",
+      "EDID": "EvergreenMillsSlaveKey",
+      "FULL": "Chave do Curral de Escravos de Evergreen Mills"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C29A",
+      "FORMID": "01C29A",
+      "EDID": "ProntoVendorKey",
+      "FULL": "Chave do Depósito da Lock and Load"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C2A1",
+      "FORMID": "01C2A1",
+      "EDID": "CutterVendorKey",
+      "FULL": "Chave do Depósito Médico do Cutter"
+    },
+    {
+      "FORM": "@FalloutNV.esm:039265",
+      "FORMID": "039265",
+      "EDID": "RadioCache06KeyCard",
+      "FULL": "Chave de Criptografia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04BDAC",
+      "FORMID": "04BDAC",
+      "EDID": "PharmacyKey",
+      "FULL": "Chave da Farmácia Super-Duper"
+    },
+    {
+      "FORM": "@FalloutNV.esm:054E9E",
+      "FORMID": "054E9E",
+      "EDID": "FriendshipFFGateKey",
+      "FULL": "Chave da Porta de Serviço do Metrô"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C6CF",
+      "FORMID": "05C6CF",
+      "EDID": "MS10OasisMasterKey",
+      "FULL": "Chave do Oásis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06EBE4",
+      "FORMID": "06EBE4",
+      "EDID": "GibsonHouseKey",
+      "FULL": "Chave de Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074D55",
+      "FORMID": "074D55",
+      "EDID": "Vault106MasterKey",
+      "FULL": "Chave-mestra do Vault 106"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08933D",
+      "FORMID": "08933D",
+      "EDID": "EclairVendorKey",
+      "FULL": "Chave do Freezer do Eclair"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A35DB",
+      "FORMID": "0A35DB",
+      "EDID": "AntAgonizerLairKey",
+      "FULL": "Chave do Covil da AntAgonizadora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD6B0",
+      "FORMID": "0BD6B0",
+      "EDID": "DashwoodSafeKey",
+      "FULL": "Chave do Cofre de Dashwood"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BE3DB",
+      "FORMID": "0BE3DB",
+      "EDID": "LeoStahlDrugsVendorKey",
+      "FULL": "Chave do Depósito do Leo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C71E2",
+      "FORMID": "0C71E2",
+      "EDID": "RedRacerSurgeonsKey",
+      "FULL": "A Chave do Cirurgião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8592",
+      "FORMID": "0C8592",
+      "EDID": "MQ02GunKey",
+      "FULL": "Chave do Armário de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8E0B",
+      "FORMID": "0C8E0B",
+      "EDID": "MS04GradysSafeKey",
+      "FULL": "Chave do Cofre do Grady"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C9520",
+      "FORMID": "0C9520",
+      "EDID": "DukovHouseKey",
+      "FULL": "Chave da Casa de Dukov"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C9CF7",
+      "FORMID": "0C9CF7",
+      "EDID": "MS09MurphysLockerKey",
+      "FULL": "Chave do Guarda-Volumes do Murphy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CADD9",
+      "FORMID": "0CADD9",
+      "EDID": "MS05ResearchSafeKey",
+      "FULL": "Chave do Cofre do Depto. de Pesquisa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAE02",
+      "FORMID": "0CAE02",
+      "EDID": "ChiefGustavoVendorKey",
+      "FULL": "Chave do Arsenal Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB55D",
+      "FORMID": "0CB55D",
+      "EDID": "BethRuinsSafeKey",
+      "FULL": "Chave do Cofre"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB58F",
+      "FORMID": "0CB58F",
+      "EDID": "MS18StatesmanSafeKey",
+      "FULL": "Chave do Cofre do Statesman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB596",
+      "FORMID": "0CB596",
+      "EDID": "MS18MasterMedsKey",
+      "FULL": "Chave de Remédios OLH Master"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01DD0F",
+      "FORMID": "01DD0F",
+      "EDID": "FFWaste04DriverKey",
+      "FULL": "Chave do Motorista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04589B",
+      "FORMID": "04589B",
+      "EDID": "ScavengerBarnKey",
+      "FULL": "Chave do Sucateiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:051DB6",
+      "FORMID": "051DB6",
+      "EDID": "FFWasteCaptainsKey",
+      "FULL": "Chave do Capitão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:052BA5",
+      "FORMID": "052BA5",
+      "EDID": "BessieLynnVendorKey",
+      "FULL": "Chave do Inventário de Bessie Lynn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:052BA6",
+      "FORMID": "052BA6",
+      "EDID": "MichaelMastersVendorKey",
+      "FULL": "Chave do Inventário de Michael Masters"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05688C",
+      "FORMID": "05688C",
+      "EDID": "CG04StanleyKey",
+      "FULL": "Chave de Utilidade do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05729F",
+      "FORMID": "05729F",
+      "EDID": "GrandmaSparkleVendorKey",
+      "FULL": "Chave da Geladeira da Vovó Sparkle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060C6D",
+      "FORMID": "060C6D",
+      "EDID": "FFEU16Key",
+      "FULL": "Chave do John"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07086F",
+      "FORMID": "07086F",
+      "EDID": "WilliamBrandiceKey",
+      "FULL": "Chave de William Brandice"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07087B",
+      "FORMID": "07087B",
+      "EDID": "MS09VanceSwordCabinetKey",
+      "FULL": "Chave do Armário de Espadas de Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:071F01",
+      "FORMID": "071F01",
+      "EDID": "MQ02LootStashKey",
+      "FULL": "Chave do Depósito de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0747D4",
+      "FORMID": "0747D4",
+      "EDID": "AllistairTenpennySuiteKey",
+      "FULL": "Chave da Suíte de Allistair Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CE57",
+      "FORMID": "07CE57",
+      "EDID": "SeagraveHolmesRoomKey",
+      "FULL": "Chave do Quarto de Seagrave Holme"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF0A",
+      "FORMID": "07CF0A",
+      "EDID": "CantelliRoomKey",
+      "FULL": "Chave do Quarto de Cantelli"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF3C",
+      "FORMID": "07CF3C",
+      "EDID": "StaleyRoomKey",
+      "FULL": "Chave do Quarto de Staley"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF5C",
+      "FORMID": "07CF5C",
+      "EDID": "BannonRoomKey",
+      "FULL": "Chave do Quarto de Bannon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF5D",
+      "FORMID": "07CF5D",
+      "EDID": "FlakShrapnelRoomKey",
+      "FULL": "Chave do Quarto de Flak e Shrapnel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF5E",
+      "FORMID": "07CF5E",
+      "EDID": "DoctorPrestonRoomKey",
+      "FULL": "Chave do Quarto do Dr. Preston"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF64",
+      "FORMID": "07CF64",
+      "EDID": "VeraWeatherlyRoomKey",
+      "FULL": "Chave do Quarto de Vera Weatherly"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07CF72",
+      "FORMID": "07CF72",
+      "EDID": "TenpennyResidentKey",
+      "FULL": "Chave de Residente de Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:080592",
+      "FORMID": "080592",
+      "EDID": "REPCONJailKey",
+      "FULL": "Chave da Prisão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0810E8",
+      "FORMID": "0810E8",
+      "EDID": "REPCONLowerKey",
+      "FULL": "Chave do porão da REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F0C1",
+      "FORMID": "08F0C1",
+      "EDID": "HarlandKey",
+      "FULL": "Chave do Harland"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090B7E",
+      "FORMID": "090B7E",
+      "EDID": "VNovacSouvenirKey",
+      "FULL": "Chave do Depósito da Mordida do Dino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094BD1",
+      "FORMID": "094BD1",
+      "EDID": "DavisonKey",
+      "FULL": "Chave de Davison"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B83FD",
+      "FORMID": "0B83FD",
+      "EDID": "VNovacJeannieMayKey",
+      "FULL": "Chave do Cofre da Jeannie May"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD182",
+      "FORMID": "0CD182",
+      "EDID": "VOldLadyGibsonKey",
+      "FULL": "Chave da Velha Gibson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C76",
+      "FORMID": "0E2C76",
+      "EDID": "VNCRCFEddieKey",
+      "FULL": "Chave de Administração"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C7D",
+      "FORMID": "0E2C7D",
+      "EDID": "VNCRCFCellKey",
+      "FULL": "Chave da Cela do Refém"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2DAE",
+      "FORMID": "0E2DAE",
+      "EDID": "VNCRCFCarterKey",
+      "FULL": "Chave do Bloco B"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3413",
+      "FORMID": "0E3413",
+      "EDID": "HVTorresDepotKey",
+      "FULL": "Chave do Depósito de Vale Oculto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A41AE",
+      "FORMID": "0A41AE",
+      "EDID": "HVBunkerKey",
+      "FULL": "Chave do Bunker de Vale Oculto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AFF3D",
+      "FORMID": "0AFF3D",
+      "EDID": "BisonSteveKey01",
+      "FULL": "Chave de Manutenção do Steve Bisonte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7A0F",
+      "FORMID": "0E7A0F",
+      "EDID": "REPCONHQKeycard01",
+      "FULL": "Cartão de Acesso de Jenny Millet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7AA8",
+      "FORMID": "0E7AA8",
+      "EDID": "REPCONHQKeycard02",
+      "FULL": "Cartão de Segurança do Segundo Andar da REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7F7C",
+      "FORMID": "0E7F7C",
+      "EDID": "REPCONHQKeycard03",
+      "FULL": "Cartão de Segurança do Terceiro Andar da REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E84A3",
+      "FORMID": "0E84A3",
+      "EDID": "BMTabithaKey",
+      "FULL": "Chave do Quarto da Tabitha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9495",
+      "FORMID": "0E9495",
+      "EDID": "BuriedKey",
+      "FULL": "Chave Enterrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F07DA",
+      "FORMID": "0F07DA",
+      "EDID": "Vault3MaintenanceKey",
+      "FULL": "Chave de Manutenção do Vault 3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47AD",
+      "FORMID": "0F47AD",
+      "EDID": "Vault3JailCellKey",
+      "FULL": "Chave do Prisioneiro Demônio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE307",
+      "FORMID": "0FE307",
+      "EDID": "VMS08ControlTowerKey",
+      "FULL": "Código de Acesso da Torre de Controle"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FE960",
+      "FORMID": "0FE960",
+      "EDID": "VMS11RewardKey",
+      "FULL": "Chave do Baú de Mercadorias Confiscadas da PM da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B183",
+      "FORMID": "10B183",
+      "EDID": "NellisTunnelKey",
+      "FULL": "Chave do Túnel Ferroviário de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10FA88",
+      "FORMID": "10FA88",
+      "EDID": "BennysSuiteKey",
+      "FULL": "Chave da Suíte do Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:111485",
+      "FORMID": "111485",
+      "EDID": "VFSKingsStageKey",
+      "FULL": "Chave do Pacer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115C39",
+      "FORMID": "115C39",
+      "EDID": "VFSKingsRoomKey",
+      "FULL": "A Chave do King"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115EB2",
+      "FORMID": "115EB2",
+      "EDID": "VFSAtomicWranglerUpstairsKey",
+      "FULL": "Chave do Andar de Cima do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115EB3",
+      "FORMID": "115EB3",
+      "EDID": "VFSAtomicWranglerKey",
+      "FULL": "Chave do Quarto do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:115F06",
+      "FORMID": "115F06",
+      "EDID": "TopsPresidentialKey",
+      "FULL": "A Chave da Suíte Presidencial do The Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116E29",
+      "FORMID": "116E29",
+      "EDID": "VFSAtomicWranglerBankKey",
+      "FULL": "Chave do Banco Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119791",
+      "FORMID": "119791",
+      "EDID": "VFSAtomicWranglerRentKey",
+      "FULL": "Chave do Quarto do Atomic Wrangler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1197E8",
+      "FORMID": "1197E8",
+      "EDID": "VStreetEmbassyJailKey",
+      "FULL": "Chave da Cela da Embaixada da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119875",
+      "FORMID": "119875",
+      "EDID": "VFSVegasGateKey",
+      "FULL": "Chave do Portão de Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1199DD",
+      "FORMID": "1199DD",
+      "EDID": "VMS18TedGundersonKey",
+      "FULL": "Chave do Freezer Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A10C",
+      "FORMID": "11A10C",
+      "EDID": "VMS18MembersOnlyKey",
+      "FULL": "Chave dos Membros da Sociedade Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11AB0B",
+      "FORMID": "11AB0B",
+      "EDID": "VMS21GunroomKey",
+      "FULL": "Chave da Sala de Utilidades do Gomorrah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BC7F",
+      "FORMID": "11BC7F",
+      "EDID": "VMS21GomorrahKey",
+      "FULL": "Chave do Clube Zoara"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C241",
+      "FORMID": "11C241",
+      "EDID": "VMS21OfficeKey",
+      "FULL": "Chave do Escritório da Gomorra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11C54A",
+      "FORMID": "11C54A",
+      "EDID": "VMS21CachinoKey",
+      "FULL": "Chave do Quarto de Cachino"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D244",
+      "FORMID": "11D244",
+      "EDID": "VSarahWDresserKey",
+      "FULL": "Chave da Cômoda de Sarah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D245",
+      "FORMID": "11D245",
+      "EDID": "VSarahWRoomKey",
+      "FULL": "Cartão de Acesso do Quarto de Sarah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9C7",
+      "FORMID": "11D9C7",
+      "EDID": "VMS21HotelKey",
+      "FULL": "Chave Mestra do Quarto da Gomorra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9C8",
+      "FORMID": "11D9C8",
+      "EDID": "VMS21TroikeKey",
+      "FULL": "Chave do Quarto de Troike"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9C9",
+      "FORMID": "11D9C9",
+      "EDID": "VMS21BigSalKey",
+      "FULL": "Chave do Quarto do Big Sal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9CA",
+      "FORMID": "11D9CA",
+      "EDID": "VMS21ClandenKey",
+      "FULL": "Chave do Quarto de Clanden"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11D9CB",
+      "FORMID": "11D9CB",
+      "EDID": "VMS21NeroKey",
+      "FULL": "Chave do Quarto de Nero"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E6B7",
+      "FORMID": "11E6B7",
+      "EDID": "VMartinaRoomKey",
+      "FULL": "Cartão de Acesso do Quarto de Martina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120331",
+      "FORMID": "120331",
+      "EDID": "VMS18InvestigatorKey",
+      "FULL": "Chave do Quarto do Investigador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124043",
+      "FORMID": "124043",
+      "EDID": "VForlornHopeJailKey",
+      "FULL": "Chave da Célula de Forlorn Hope"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1253A1",
+      "FORMID": "1253A1",
+      "EDID": "VForlornHopeStorageKey",
+      "FULL": "Chave do Depósito de Forlorn Hope"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129164",
+      "FORMID": "129164",
+      "EDID": "TechMineKey",
+      "FULL": "Chave do Depósito de Techatticup"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B982",
+      "FORMID": "12B982",
+      "EDID": "VStreetMPHQStorageKey",
+      "FULL": "Chave do Depósito do Quartel-General da Polícia Militar da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130D0D",
+      "FORMID": "130D0D",
+      "EDID": "VBSSupplyCacheKey",
+      "FULL": "Chave do Depósito de Suprimentos dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1364C6",
+      "FORMID": "1364C6",
+      "EDID": "vCCWeathersSlaveKey",
+      "FULL": "Chave de Escravo de Weathers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13830A",
+      "FORMID": "13830A",
+      "EDID": "VFSRobotShopKey",
+      "FULL": "Chave da Cerulean Robotics"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E475",
+      "FORMID": "13E475",
+      "EDID": "VOVNVTheGrayAndyDoorKey",
+      "FULL": "Chave do Quarto de Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E64D",
+      "FORMID": "13E64D",
+      "EDID": "VRRCPapasRoomKey",
+      "FULL": "Chave do Papa Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A0",
+      "FORMID": "13F3A0",
+      "EDID": "VHDSaferoomKey",
+      "FULL": "Chave do Refúgio da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1411BB",
+      "FORMID": "1411BB",
+      "EDID": "BlueKeyCard",
+      "FULL": "Cartão-chave do Setor Azul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1411BC",
+      "FORMID": "1411BC",
+      "EDID": "RedKeyCard",
+      "FULL": "Cartão-chave do Setor Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146619",
+      "FORMID": "146619",
+      "EDID": "CampSearchlightNCRKey",
+      "FULL": "Chave do Depósito da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147406",
+      "FORMID": "147406",
+      "EDID": "VOVSewerBlindLukeKey",
+      "FULL": "Achado de Luke"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B2D5",
+      "FORMID": "14B2D5",
+      "EDID": "CampSearchlightPoliceStationKey",
+      "FULL": "Chave da Delegacia de Polícia de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B2D6",
+      "FORMID": "14B2D6",
+      "EDID": "CampSearchlightFireStationKey",
+      "FULL": "Chave do Corpo de Bombeiros de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C121",
+      "FORMID": "14C121",
+      "EDID": "VMS49GunCaseKey",
+      "FULL": "Chave do Cel. Blackwell"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DDDA",
+      "FORMID": "14DDDA",
+      "EDID": "GunRunnerGateKey",
+      "FULL": "Chave do Portão dos Contrabandistas de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:151EE1",
+      "FORMID": "151EE1",
+      "EDID": "VTopsPlayersSuiteKey",
+      "FULL": "Chave da Suíte do Apostador VIP"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154400",
+      "FORMID": "154400",
+      "EDID": "NCRCFVisitorsCenterKey",
+      "FULL": "Chave do Centro de Visitantes da RNCCF"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15448D",
+      "FORMID": "15448D",
+      "EDID": "REPCONHQSolDoorKey",
+      "FULL": "Chave do Planetário REPCONN"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B3A9",
+      "FORMID": "15B3A9",
+      "EDID": "VMS54MorenoKey",
+      "FULL": "Cartão de Acesso da Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BC83",
+      "FORMID": "15BC83",
+      "EDID": "WeaponsFootlockerKey",
+      "FULL": "Chave do Baú de Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D0AC",
+      "FORMID": "15D0AC",
+      "EDID": "BMTabithaLootKey",
+      "FULL": "Chave do Equipamento da Tabitha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D909",
+      "FORMID": "15D909",
+      "EDID": "CrimsonCaravanSafeKey",
+      "FULL": "Chave do Cofre da Crimson Caravan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E3FB",
+      "FORMID": "15E3FB",
+      "EDID": "NellisGeneratorKey",
+      "FULL": "Chave do Gerador de Nellis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F5F8",
+      "FORMID": "15F5F8",
+      "EDID": "SafehouseFollowersKey",
+      "FULL": "Chave do Refúgio dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1607BB",
+      "FORMID": "1607BB",
+      "EDID": "StJamesRoomKey",
+      "FULL": "Chave do Quarto de Saint James"
+    },
+    {
+      "FORM": "@FalloutNV.esm:161270",
+      "FORMID": "161270",
+      "EDID": "SafehouseLegionKey",
+      "FULL": "Chave do Refúgio da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16290B",
+      "FORMID": "16290B",
+      "EDID": "SafehouseBrotherhoodKey",
+      "FULL": "Chave do Refúgio da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162950",
+      "FORMID": "162950",
+      "EDID": "CampSearchlightMineNorthKey",
+      "FULL": "Chave da Mina Norte de Searchlight"
+    },
+    {
+      "FORM": "@FalloutNV.esm:162998",
+      "FORMID": "162998",
+      "EDID": "SafehouseNCRKey",
+      "FULL": "Chave do Refúgio da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164C56",
+      "FORMID": "164C56",
+      "EDID": "VHDKimballVisitKey",
+      "FULL": "Chave da Represa Hoover"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164E20",
+      "FORMID": "164E20",
+      "EDID": "VMS18PenthouseKey",
+      "FULL": "Chave da Cobertura Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16715D",
+      "FORMID": "16715D",
+      "EDID": "VMS18KitchenKey",
+      "FULL": "Chave da Cozinha Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673DE",
+      "FORMID": "1673DE",
+      "EDID": "VUltraLuxePlayersSuiteKey",
+      "FULL": "Chave da Suíte Bon Vivant"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673DF",
+      "FORMID": "1673DF",
+      "EDID": "VNovacRoomKey",
+      "FULL": "Chave do Quarto Dino Dee-lite"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E04",
+      "FORMID": "167E04",
+      "EDID": "VZKeyDirtyGSHome2SafeKey",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E05",
+      "FORMID": "167E05",
+      "EDID": "VZKeyDirtyJeansSky",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E06",
+      "FORMID": "167E06",
+      "EDID": "VZKeyDirtyBeerBootleggers",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E07",
+      "FORMID": "167E07",
+      "EDID": "VZKeyDirtyBeerBootleggers2",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E08",
+      "FORMID": "167E08",
+      "EDID": "VZKeyDirtyCentralSewerProsp",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E09",
+      "FORMID": "167E09",
+      "EDID": "VZKeyDirtyGen06",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0A",
+      "FORMID": "167E0A",
+      "EDID": "VZKeyDirtyGen07",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0B",
+      "FORMID": "167E0B",
+      "EDID": "VZKeyDirtyGen08",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0C",
+      "FORMID": "167E0C",
+      "EDID": "VZKeyDirtyGen09",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0D",
+      "FORMID": "167E0D",
+      "EDID": "VZKeyDirtyGen10",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0E",
+      "FORMID": "167E0E",
+      "EDID": "VZKeyCleanBloodborne",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E0F",
+      "FORMID": "167E0F",
+      "EDID": "VZKeyCleanGen02",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E10",
+      "FORMID": "167E10",
+      "EDID": "VZKeyCleanGen03",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E11",
+      "FORMID": "167E11",
+      "EDID": "VZKeyCleanGen04",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E12",
+      "FORMID": "167E12",
+      "EDID": "VZKeyCleanGen05",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E13",
+      "FORMID": "167E13",
+      "EDID": "VZKeyCleanGen06",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E14",
+      "FORMID": "167E14",
+      "EDID": "VZKeyCleanGen07",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E15",
+      "FORMID": "167E15",
+      "EDID": "VZKeyCleanGen08",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E16",
+      "FORMID": "167E16",
+      "EDID": "VZKeyCleanGen09",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E17",
+      "FORMID": "167E17",
+      "EDID": "VZKeyCleanGen10",
+      "FULL": "Chave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E18",
+      "FORMID": "167E18",
+      "EDID": "VMS38RedLucyKey01",
+      "FULL": "Chave da Câmara de Red Lucy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E19",
+      "FORMID": "167E19",
+      "EDID": "VMS38ThornCagesKey",
+      "FULL": "Chave das Jaulas de Thorn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1A",
+      "FORMID": "167E1A",
+      "EDID": "VMS38ThornMasterKey",
+      "FULL": "Chave Mestra de Thorn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1B",
+      "FORMID": "167E1B",
+      "EDID": "VZKeyDirtyNiptonHallBasement",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1C",
+      "FORMID": "167E1C",
+      "EDID": "VZKeyDirtyRubyHill",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1D",
+      "FORMID": "167E1D",
+      "EDID": "VZKeyDirtyECentralSewerGhoul",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1E",
+      "FORMID": "167E1E",
+      "EDID": "VZKeyDirtyBisonLvl2Dresser",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E1F",
+      "FORMID": "167E1F",
+      "EDID": "VZKeyDirtyGen15",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E20",
+      "FORMID": "167E20",
+      "EDID": "VZKeyDirtyGen16",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E21",
+      "FORMID": "167E21",
+      "EDID": "VZKeyDirtyGen17",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E22",
+      "FORMID": "167E22",
+      "EDID": "VZKeyDirtyGen18",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E23",
+      "FORMID": "167E23",
+      "EDID": "VZKeyDirtyGen19",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E24",
+      "FORMID": "167E24",
+      "EDID": "VZKeyDirtyGen20",
+      "FULL": "Chave Gasta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E25",
+      "FORMID": "167E25",
+      "EDID": "VOVHostetlerKey",
+      "FULL": "Chave de Becky Hostetler"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17371F",
+      "FORMID": "17371F",
+      "EDID": "VFSSupplyKey",
+      "FULL": "Chave da Casa de Freeside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173720",
+      "FORMID": "173720",
+      "EDID": "VFSVanGraffKey",
+      "FULL": "Chave dos Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174B48",
+      "FORMID": "174B48",
+      "EDID": "vHouseVIPKeycard",
+      "FULL": "Cartão VIP do Lucky 38"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175A56",
+      "FORMID": "175A56",
+      "EDID": "HVCollarKey",
+      "FULL": "Chave da Coleira de Escravo"
+    }
+  ]
+}

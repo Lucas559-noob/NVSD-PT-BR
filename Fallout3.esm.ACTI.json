@@ -1,0 +1,1360 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@Fallout3.esm:0C859D",
+      "FORMID": "0C859D",
+      "EDID": "MQ02MuseumPlaqueSkeleton01",
+      "FULL": "Capitão Carl Bell"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C8599",
+      "FORMID": "0C8599",
+      "EDID": "MQ02MuseumPlaqueSpacesuit01",
+      "FULL": "Traje Espacial"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C8596",
+      "FORMID": "0C8596",
+      "EDID": "MQ02MuseumPlaqueMedals01",
+      "FULL": "Medalhas da Segunda Guerra Mundial"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FE4B",
+      "FORMID": "01FE4B",
+      "EDID": "FFRadioSignal03Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:01FDB2",
+      "FORMID": "01FDB2",
+      "EDID": "MQ05PipeControl",
+      "FULL": "Controles da Tubulação"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFFAE",
+      "FORMID": "0BFFAE",
+      "EDID": "MS15MuseumPlaqueRedeem01",
+      "FULL": "Resgate de Prêmios do Arquivo Nacional"
+    },
+    {
+      "FORM": "@Fallout3.esm:0BFFAD",
+      "FORMID": "0BFFAD",
+      "EDID": "MS15MuseumPlaquePrize01",
+      "FULL": "Arquivo Nacional. Adivinhe E Ganhe!"
+    },
+    {
+      "FORM": "@Fallout3.esm:0707AB",
+      "FORMID": "0707AB",
+      "EDID": "TrapElectrifiedToiletTop01",
+      "FULL": "Células de Micro Fusão"
+    },
+    {
+      "FORM": "@Fallout3.esm:0506D1",
+      "FORMID": "0506D1",
+      "EDID": "MS18ElevatorPanel02",
+      "FULL": "Painel do Elevador Destruído"
+    },
+    {
+      "FORM": "@Fallout3.esm:075D27",
+      "FORMID": "075D27",
+      "EDID": "PrintingPressTread",
+      "FULL": "Trilho da Impressora"
+    },
+    {
+      "FORM": "@Fallout3.esm:075D24",
+      "FORMID": "075D24",
+      "EDID": "PrintingPress01",
+      "FULL": "Impressora da Pré-Guerra"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5C90",
+      "FORMID": "0B5C90",
+      "EDID": "MS03SpawningBall03",
+      "FULL": "Ovos de Mirelurk"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B5C8F",
+      "FORMID": "0B5C8F",
+      "EDID": "MS03SpawningBall02",
+      "FULL": "Ovos de Mirelurk"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C2",
+      "FORMID": "0416C2",
+      "EDID": "BobbleheadPlacedSGUN",
+      "FULL": "Boneco Armas Pequenas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C1",
+      "FORMID": "0416C1",
+      "EDID": "BobbleheadPlacedSCNC",
+      "FULL": "Boneco Ciência"
+    },
+    {
+      "FORM": "@Fallout3.esm:02812C",
+      "FORMID": "02812C",
+      "EDID": "MS04GiantAntEgg",
+      "FULL": "Ovos Estranhos de Formiga"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B06D4",
+      "FORMID": "0B06D4",
+      "EDID": "TLpodBroken",
+      "FULL": "Poltrona Virtual Quebrada"
+    },
+    {
+      "FORM": "@Fallout3.esm:03045B",
+      "FORMID": "03045B",
+      "EDID": "UtlDoorBigActivator",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C0",
+      "FORMID": "0416C0",
+      "EDID": "BobbleheadPlacedREPR",
+      "FULL": "Boneco Reparar"
+    },
+    {
+      "FORM": "@Fallout3.esm:03023A",
+      "FORMID": "03023A",
+      "EDID": "DunwichBuildingNote09Activator",
+      "FULL": "Pressione para Ativar o Mutante"
+    },
+    {
+      "FORM": "@Fallout3.esm:030102",
+      "FORMID": "030102",
+      "EDID": "MS03PrintingPress01",
+      "FULL": "Impressora do Pré-Guerra"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C8037",
+      "FORMID": "0C8037",
+      "EDID": "MQ04DoghouseActivator",
+      "FULL": "Casinha de Cachorro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BF",
+      "FORMID": "0416BF",
+      "EDID": "BobbleheadPlacedPER",
+      "FULL": "Boneco Percepção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BE",
+      "FORMID": "0416BE",
+      "EDID": "BobbleheadPlacedMELE",
+      "FULL": "Boneco Armas Brancas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BD",
+      "FORMID": "0416BD",
+      "EDID": "BobbleheadPlacedMEDI",
+      "FULL": "Boneco Medicina"
+    },
+    {
+      "FORM": "@Fallout3.esm:03EB52",
+      "FORMID": "03EB52",
+      "EDID": "NtlGuardDepotElectricalSwitch02",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BC",
+      "FORMID": "0416BC",
+      "EDID": "BobbleheadPlacedLUK",
+      "FULL": "Boneco Sorte"
+    },
+    {
+      "FORM": "@Fallout3.esm:01566B",
+      "FORMID": "01566B",
+      "EDID": "DrinkTowerPipe01",
+      "FULL": "Válvula da Torre de Água"
+    },
+    {
+      "FORM": "@Fallout3.esm:015666",
+      "FORMID": "015666",
+      "EDID": "ParkingMeter01",
+      "FULL": "Contador de Estacionamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E9AA",
+      "FORMID": "01E9AA",
+      "EDID": "MS11Detonator",
+      "FULL": "Detonador Remoto"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E766",
+      "FORMID": "01E766",
+      "EDID": "DrinkToiletCleaner",
+      "FULL": "Vaso"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E75F",
+      "FORMID": "01E75F",
+      "EDID": "DrinkSinkCleaner",
+      "FULL": "Pia"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E71B",
+      "FORMID": "03E71B",
+      "EDID": "FFRadioSignal09Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E62D",
+      "FORMID": "03E62D",
+      "EDID": "TrapLaserTripwire01256",
+      "FULL": "Armadilha de laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E619",
+      "FORMID": "03E619",
+      "EDID": "TrapLaserTripwireEmitter01",
+      "FULL": "Armadilha de emissor laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:0553EC",
+      "FORMID": "0553EC",
+      "EDID": "TranqExitDoorFX",
+      "FULL": "SAÍDA"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77CF",
+      "FORMID": "0C77CF",
+      "EDID": "MQ02MuseumPlaquePortraits01",
+      "FULL": "Inventores Negligentes"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E6F9",
+      "FORMID": "07E6F9",
+      "EDID": "HubrisComics02DoorUnlockTrig",
+      "FULL": "Válvula de gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:02F584",
+      "FORMID": "02F584",
+      "EDID": "RHSPod01",
+      "FULL": "Cápsula do Senhor das Indústrias RobCo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77CC",
+      "FORMID": "0C77CC",
+      "EDID": "MQ02MuseumPlaqueFlag01",
+      "FULL": "Bandeira do U.S.S. Ebon Atoll"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E646",
+      "FORMID": "07E646",
+      "EDID": "EvergreenMillsElectricalSwitch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:07E5DF",
+      "FORMID": "07E5DF",
+      "EDID": "FFRadioSignal01Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:03E389",
+      "FORMID": "03E389",
+      "EDID": "NukaCola01DoorSwitch",
+      "FULL": "Interruptor da Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77C9",
+      "FORMID": "0C77C9",
+      "EDID": "MQ02MuseumPlaqueArms03",
+      "FULL": "Canhão Magnético \"Viper\" X277"
+    },
+    {
+      "FORM": "@Fallout3.esm:01E017",
+      "FORMID": "01E017",
+      "EDID": "DrinkWaterfountain",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77C5",
+      "FORMID": "0C77C5",
+      "EDID": "MQ02MuseumPlaqueArms02",
+      "FULL": "Rifle de Assalto M199"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C77C1",
+      "FORMID": "0C77C1",
+      "EDID": "MQ02MuseumPlaqueArms01",
+      "FULL": "Mosquetão\"Springfield\" 1861"
+    },
+    {
+      "FORM": "@Fallout3.esm:09DEE3",
+      "FORMID": "09DEE3",
+      "EDID": "SuperDuperMartIntercomMicrophone",
+      "FULL": "Intercomunicador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C7758",
+      "FORMID": "0C7758",
+      "EDID": "MQ02MuseumPlaqueWright01",
+      "FULL": "O Flyer I dos Wright"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BB",
+      "FORMID": "0416BB",
+      "EDID": "BobbleheadPlacedLOCK",
+      "FULL": "Boneco Arrombamento"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416BA",
+      "FORMID": "0416BA",
+      "EDID": "BobbleheadPlacedINT",
+      "FULL": "Boneco Inteligência"
+    },
+    {
+      "FORM": "@Fallout3.esm:044A35",
+      "FORMID": "044A35",
+      "EDID": "UtlDoorBigSciencePass",
+      "FULL": "Portão da Área de Manutenção"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B9",
+      "FORMID": "0416B9",
+      "EDID": "BobbleheadPlacedEXPL",
+      "FULL": "Boneco Explosivos"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B8",
+      "FORMID": "0416B8",
+      "EDID": "BobbleheadPlacedERGW",
+      "FULL": "Boneco Armas de Energia"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B7",
+      "FORMID": "0416B7",
+      "EDID": "BobbleheadPlacedEND",
+      "FULL": "Boneco Resistência"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B6",
+      "FORMID": "0416B6",
+      "EDID": "BobbleheadPlacedCHA",
+      "FULL": "Boneco Carisma"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C72D5",
+      "FORMID": "0C72D5",
+      "EDID": "TakomaTrapBabyCarriage",
+      "FULL": "Carrinho de Bebê"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C729F",
+      "FORMID": "0C729F",
+      "EDID": "ForgeMechanistDoorSwitch01",
+      "FULL": "Cafeteira"
+    },
+    {
+      "FORM": "@Fallout3.esm:09DC6D",
+      "FORMID": "09DC6D",
+      "EDID": "SuperDuperMartIntercomTRIG",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D97C",
+      "FORMID": "03D97C",
+      "EDID": "MS03SurvivalGuideBookActivator",
+      "FULL": "Guia de Sobrevivência"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D978",
+      "FORMID": "03D978",
+      "EDID": "MS03PrintingPressTread",
+      "FULL": "Trilho da Impressora"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D9EF",
+      "FORMID": "09D9EF",
+      "EDID": "SuperDuperMartIntercom",
+      "FULL": "Megafone"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D9CA",
+      "FORMID": "09D9CA",
+      "EDID": "zFairfaxSewerAshTrayTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D803",
+      "FORMID": "03D803",
+      "EDID": "GuardDepotBunkerControl",
+      "FULL": "Painel de Controle do Abrigo Subterrâneo"
+    },
+    {
+      "FORM": "@Fallout3.esm:054E8B",
+      "FORMID": "054E8B",
+      "EDID": "VintageRadioGNR01",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D95A",
+      "FORMID": "09D95A",
+      "EDID": "FairfaxValve01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:01D706",
+      "FORMID": "01D706",
+      "EDID": "DemoTerminal01",
+      "FULL": "Terminal Hackeado"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D759",
+      "FORMID": "03D759",
+      "EDID": "FFRadioSignal08Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C726F",
+      "FORMID": "0C726F",
+      "EDID": "TakomaArtillerySwitch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B5",
+      "FORMID": "0416B5",
+      "EDID": "BobbleheadPlacedBGUN",
+      "FULL": "Boneco Armas Grandes"
+    },
+    {
+      "FORM": "@Fallout3.esm:066FE3",
+      "FORMID": "066FE3",
+      "EDID": "MQ09RavenRockPARadio",
+      "FULL": "Intercomunicador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B4",
+      "FORMID": "0416B4",
+      "EDID": "BobbleheadPlacedBART",
+      "FULL": "Boneco Negociar"
+    },
+    {
+      "FORM": "@Fallout3.esm:014AB3",
+      "FORMID": "014AB3",
+      "EDID": "DrinkToilet",
+      "FULL": "Vaso"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B3",
+      "FORMID": "0416B3",
+      "EDID": "BobbleheadPlacedAGL",
+      "FULL": "Boneco Agilidade"
+    },
+    {
+      "FORM": "@Fallout3.esm:034A90",
+      "FORMID": "034A90",
+      "EDID": "AbandonedSewerValve01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416B1",
+      "FORMID": "0416B1",
+      "EDID": "BobbleheadDisplayMegaton",
+      "FULL": "Estande do Colecionador de bonecos"
+    },
+    {
+      "FORM": "@Fallout3.esm:02485A",
+      "FORMID": "02485A",
+      "EDID": "MS16ControlPanelVault01",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@Fallout3.esm:044734",
+      "FORMID": "044734",
+      "EDID": "MQ02ElevatorControlTopInside",
+      "FULL": "Controle do Elevador"
+    },
+    {
+      "FORM": "@Fallout3.esm:034027",
+      "FORMID": "034027",
+      "EDID": "MQ07JunctionBox",
+      "FULL": "Caixa de Conexões e Cabos"
+    },
+    {
+      "FORM": "@Fallout3.esm:044733",
+      "FORMID": "044733",
+      "EDID": "MQ02ElevatorControlTopOutside",
+      "FULL": "Controle do Elevador"
+    },
+    {
+      "FORM": "@Fallout3.esm:04472F",
+      "FORMID": "04472F",
+      "EDID": "MQ02ElevatorControlBottomInside",
+      "FULL": "Controle do Elevador"
+    },
+    {
+      "FORM": "@Fallout3.esm:0AF491",
+      "FORMID": "0AF491",
+      "EDID": "MS18ElevatorRoofPanel",
+      "FULL": "Painel do Elevador"
+    },
+    {
+      "FORM": "@Fallout3.esm:04472B",
+      "FORMID": "04472B",
+      "EDID": "MQ02ElevatorControl01BottomOutside",
+      "FULL": "Controle do Elevador"
+    },
+    {
+      "FORM": "@Fallout3.esm:04F23B",
+      "FORMID": "04F23B",
+      "EDID": "MS10HaroldsHeartNoDD",
+      "FULL": "Coração de Harold"
+    },
+    {
+      "FORM": "@Fallout3.esm:093BB3",
+      "FORMID": "093BB3",
+      "EDID": "MS06LincolnGunDisplayCase",
+      "FULL": "Mostruário"
+    },
+    {
+      "FORM": "@Fallout3.esm:093BAC",
+      "FORMID": "093BAC",
+      "EDID": "FFRadioSignal02Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B39A3",
+      "FORMID": "0B39A3",
+      "EDID": "DrinkSinkMetal",
+      "FULL": "Lavabo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214F8",
+      "FORMID": "0214F8",
+      "EDID": "MS15ArchivesIntercom04",
+      "FULL": "Megafone"
+    },
+    {
+      "FORM": "@Fallout3.esm:04EEFF",
+      "FORMID": "04EEFF",
+      "EDID": "MS18ElevatorPanel",
+      "FULL": "Painel do Elevador Destruído"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B364C",
+      "FORMID": "0B364C",
+      "EDID": "TLpod01",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D41E",
+      "FORMID": "09D41E",
+      "EDID": "PPurityKeypadEnter",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D416",
+      "FORMID": "09D416",
+      "EDID": "PPurityFEVPanel01",
+      "FULL": "Entrada de Filtragem Auxiliar"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214F7",
+      "FORMID": "0214F7",
+      "EDID": "MS15ArchivesIntercom03",
+      "FULL": "Megafone"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214F6",
+      "FORMID": "0214F6",
+      "EDID": "MS15ArchivesIntercom02",
+      "FULL": "Megafone"
+    },
+    {
+      "FORM": "@Fallout3.esm:03D209",
+      "FORMID": "03D209",
+      "EDID": "MQAFiltrationInput",
+      "FULL": "Entrada de Filtragem Auxiliar"
+    },
+    {
+      "FORM": "@Fallout3.esm:09D242",
+      "FORMID": "09D242",
+      "EDID": "PFallsTheBox",
+      "FULL": "A Caixa"
+    },
+    {
+      "FORM": "@Fallout3.esm:026D47",
+      "FORMID": "026D47",
+      "EDID": "NtlGuardDepotElectricalSwitch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:026C54",
+      "FORMID": "026C54",
+      "EDID": "FF02CitadelCourtyardTarget",
+      "FULL": "Objetivo"
+    },
+    {
+      "FORM": "@Fallout3.esm:05CBE7",
+      "FORMID": "05CBE7",
+      "EDID": "MQ02VirgoDish",
+      "FULL": "Antena de Comunicação Virgo II"
+    },
+    {
+      "FORM": "@Fallout3.esm:0269BC",
+      "FORMID": "0269BC",
+      "EDID": "ControlPanelVault01",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214F5",
+      "FORMID": "0214F5",
+      "EDID": "MS15ArchivesIntercom01",
+      "FULL": "Megafone"
+    },
+    {
+      "FORM": "@Fallout3.esm:04E4BD",
+      "FORMID": "04E4BD",
+      "EDID": "FriendshipChainActivatorDisable",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214E3",
+      "FORMID": "0214E3",
+      "EDID": "MS15MuseumActivator05",
+      "FULL": "Insira uma tampa ou uma ficha do museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2BF",
+      "FORMID": "02E2BF",
+      "EDID": "MS04MutagenGelRed",
+      "FULL": "Líquido Vermelho"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2BE",
+      "FORMID": "02E2BE",
+      "EDID": "MS04MutagenTankGlass",
+      "FULL": "Tanque de Cristal de Mutagênico"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2BA",
+      "FORMID": "02E2BA",
+      "EDID": "MS04MutagenGelGreen",
+      "FULL": "Líquido Verde"
+    },
+    {
+      "FORM": "@Fallout3.esm:02E2B8",
+      "FORMID": "02E2B8",
+      "EDID": "MS04MutagenTank",
+      "FULL": "Depósito de Mutagênico"
+    },
+    {
+      "FORM": "@Fallout3.esm:04E046",
+      "FORMID": "04E046",
+      "EDID": "FriendshipChainActivator",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DF16",
+      "FORMID": "02DF16",
+      "EDID": "FFRadioSignal07Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214E2",
+      "FORMID": "0214E2",
+      "EDID": "MS15MuseumActivator04",
+      "FULL": "Insira uma tampa ou uma ficha do museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214E1",
+      "FORMID": "0214E1",
+      "EDID": "MS15MuseumActivator03",
+      "FULL": "Insira uma tampa ou uma ficha do museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:062918",
+      "FORMID": "062918",
+      "EDID": "ShalebridgeAntPileActivator02a",
+      "FULL": "Ovos de Formigas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0628DF",
+      "FORMID": "0628DF",
+      "EDID": "ShalebridgeAntPileActivator01a",
+      "FULL": "Ovos de formigas"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214E0",
+      "FORMID": "0214E0",
+      "EDID": "MS15MuseumActivator02",
+      "FULL": "Insira uma tampa ou uma ficha do museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:0214DF",
+      "FORMID": "0214DF",
+      "EDID": "MS15MuseumActivator01",
+      "FULL": "Insira uma tampa ou uma ficha do museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:061215",
+      "FORMID": "061215",
+      "EDID": "BabyBookActivator",
+      "FULL": "Você é SPECIAL!"
+    },
+    {
+      "FORM": "@Fallout3.esm:02DB51",
+      "FORMID": "02DB51",
+      "EDID": "ControlPanelVaultOFF01",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@Fallout3.esm:0410BC",
+      "FORMID": "0410BC",
+      "EDID": "MQPPurityControlPanel",
+      "FULL": "Painel de Controle do Projeto Pureza"
+    },
+    {
+      "FORM": "@Fallout3.esm:0201E6",
+      "FORMID": "0201E6",
+      "EDID": "VaultGearDoor",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A120E",
+      "FORMID": "0A120E",
+      "EDID": "MS15MuseumActivator06",
+      "FULL": "Insira uma Tampa ou Ficha do Museu"
+    },
+    {
+      "FORM": "@Fallout3.esm:02CD57",
+      "FORMID": "02CD57",
+      "EDID": "MS14DukovSign",
+      "FULL": "Mantenha suas armas guardadas ou levará um tiro"
+    },
+    {
+      "FORM": "@Fallout3.esm:03C79F",
+      "FORMID": "03C79F",
+      "EDID": "TrapLaserTripwire01512",
+      "FULL": "Cabo Detonador Laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:02CC3F",
+      "FORMID": "02CC3F",
+      "EDID": "CG04DoorSwitch",
+      "FULL": "Interruptor da Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:05C6D1",
+      "FORMID": "05C6D1",
+      "EDID": "OasisBasinActivator",
+      "FULL": "Fonte da Purificação"
+    },
+    {
+      "FORM": "@Fallout3.esm:06043B",
+      "FORMID": "06043B",
+      "EDID": "MuseumTech01InteractiveButton03",
+      "FULL": "Botão Interativo"
+    },
+    {
+      "FORM": "@Fallout3.esm:060439",
+      "FORMID": "060439",
+      "EDID": "MuseumTech01InteractiveButton02",
+      "FULL": "Botão Interativo"
+    },
+    {
+      "FORM": "@Fallout3.esm:01C2AD",
+      "FORMID": "01C2AD",
+      "EDID": "ArmoredVaultSuitMountedACTIVATOR",
+      "FULL": "Uniforme Vault Reforçado"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C0C93",
+      "FORMID": "0C0C93",
+      "EDID": "SewardSqTalonFight01Switch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:060433",
+      "FORMID": "060433",
+      "EDID": "MuseumTech01InteractiveButton01",
+      "FULL": "Botão Interativo"
+    },
+    {
+      "FORM": "@Fallout3.esm:07B958",
+      "FORMID": "07B958",
+      "EDID": "CapitolBuildingBehemothHideTrigger04",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:07B94F",
+      "FORMID": "07B94F",
+      "EDID": "CapitolBuildingBehemothHideTrigger03",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:07B92D",
+      "FORMID": "07B92D",
+      "EDID": "CapitolBuildingBehemothHideTrigger02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:07B91B",
+      "FORMID": "07B91B",
+      "EDID": "CapitolBuildingBehemothHideTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B2D8F",
+      "FORMID": "0B2D8F",
+      "EDID": "PinkertonDoorSwitch",
+      "FULL": "Interruptor de Bloqueio do Mecanismo"
+    },
+    {
+      "FORM": "@Fallout3.esm:061D95",
+      "FORMID": "061D95",
+      "EDID": "MQ04RollerskateActivator",
+      "FULL": "Patins"
+    },
+    {
+      "FORM": "@Fallout3.esm:0328FC",
+      "FORMID": "0328FC",
+      "EDID": "ShalebridgeEggPile",
+      "FULL": "Pilha de Ovos"
+    },
+    {
+      "FORM": "@Fallout3.esm:08443F",
+      "FORMID": "08443F",
+      "EDID": "EcvControlRoomZaxFEVPanel01",
+      "FULL": "Painel ZAX"
+    },
+    {
+      "FORM": "@Fallout3.esm:084304",
+      "FORMID": "084304",
+      "EDID": "FFHamRadio09",
+      "FULL": "Sinal de Rádio Papai Novembro"
+    },
+    {
+      "FORM": "@Fallout3.esm:084303",
+      "FORMID": "084303",
+      "EDID": "FFHamRadio08",
+      "FULL": "Sinal de Rádio Sierra Víctor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0ABF46",
+      "FORMID": "0ABF46",
+      "EDID": "LDWonderMeatMaker",
+      "FULL": "Produtor de Carne Mágica"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215C",
+      "FORMID": "05215C",
+      "EDID": "FFDCRockCreekIntern03",
+      "FULL": "Interno"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215B",
+      "FORMID": "05215B",
+      "EDID": "FFDCRockCreekIntern02",
+      "FULL": "Interno"
+    },
+    {
+      "FORM": "@Fallout3.esm:05215A",
+      "FORMID": "05215A",
+      "EDID": "FFDCRockCreekIntern01",
+      "FULL": "Interno"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842FF",
+      "FORMID": "0842FF",
+      "EDID": "FFHamRadio07",
+      "FULL": "Sinal de Rádio Yankee Bravo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842FE",
+      "FORMID": "0842FE",
+      "EDID": "FFHamRadio06",
+      "FULL": "Sinal de Rádio Sierra Romeo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842FD",
+      "FORMID": "0842FD",
+      "EDID": "FFHamRadio05",
+      "FULL": "Sinal de Rádio Oscar Tango"
+    },
+    {
+      "FORM": "@Fallout3.esm:086813",
+      "FORMID": "086813",
+      "EDID": "MS17VaultTecMainframe01",
+      "FULL": "Servidor da Vault-Tec"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B803",
+      "FORMID": "02B803",
+      "EDID": "MQ04FailsafeObject5",
+      "FULL": "Rádio Quebrado"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B801",
+      "FORMID": "02B801",
+      "EDID": "MQ04FailsafeObject4",
+      "FULL": "Gnomo de Jardim"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B7FF",
+      "FORMID": "02B7FF",
+      "EDID": "MQ04FailsafeObject3",
+      "FULL": "Jarro de Vidro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B7FD",
+      "FORMID": "02B7FD",
+      "EDID": "MQ04FailsafeObject2",
+      "FULL": "Bloco de Concreto"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B7FB",
+      "FORMID": "02B7FB",
+      "EDID": "MQ04FailsafeObject1",
+      "FULL": "Garrafa Vazia"
+    },
+    {
+      "FORM": "@Fallout3.esm:05AC6E",
+      "FORMID": "05AC6E",
+      "EDID": "FxFlashGrenade01",
+      "FULL": "Granada de Flash"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842FC",
+      "FORMID": "0842FC",
+      "EDID": "FFHamRadio04",
+      "FULL": "Sinal de Rádio Eco Foxtrot"
+    },
+    {
+      "FORM": "@Fallout3.esm:02B428",
+      "FORMID": "02B428",
+      "EDID": "DrinkReservoir01",
+      "FULL": "Acesso ao Depósito de Água"
+    },
+    {
+      "FORM": "@Fallout3.esm:01A32F",
+      "FORMID": "01A32F",
+      "EDID": "VintageRadioEnclave01",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842CA",
+      "FORMID": "0842CA",
+      "EDID": "FFHamRadio03",
+      "FULL": "Sinal de Rádio Alfa Lima"
+    },
+    {
+      "FORM": "@Fallout3.esm:0864A6",
+      "FORMID": "0864A6",
+      "EDID": "IndRmSmMechanistEntranceGear1",
+      "FULL": "Mecanismo da Porta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0864A5",
+      "FORMID": "0864A5",
+      "EDID": "IndRmSmMechanistEntranceGear2",
+      "FULL": "Equipamento de Mecânico 2"
+    },
+    {
+      "FORM": "@Fallout3.esm:0842BC",
+      "FORMID": "0842BC",
+      "EDID": "FFHamRadio02",
+      "FULL": "Sinal de Rádio Oscar Zulu"
+    },
+    {
+      "FORM": "@Fallout3.esm:025F3F",
+      "FORMID": "025F3F",
+      "EDID": "NtlGuardDepotWorldElectricalSwitch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A1B36",
+      "FORMID": "0A1B36",
+      "EDID": "MQ05FloodControlPumpSwitch",
+      "FULL": "Chave do Controle de Inundações"
+    },
+    {
+      "FORM": "@Fallout3.esm:003BC8",
+      "FORMID": "003BC8",
+      "EDID": "MegatonBomb",
+      "FULL": "Bomba Atômica não Detonada"
+    },
+    {
+      "FORM": "@Fallout3.esm:019FFB",
+      "FORMID": "019FFB",
+      "EDID": "MQ05MainframeControlPanel",
+      "FULL": "Painel de Controle da Unidade Central"
+    },
+    {
+      "FORM": "@Fallout3.esm:019FF8",
+      "FORMID": "019FF8",
+      "EDID": "MQ05FuseBox",
+      "FULL": "Caixa Auxiliar de Fusíveis"
+    },
+    {
+      "FORM": "@Fallout3.esm:09A1F9",
+      "FORMID": "09A1F9",
+      "EDID": "MQ04Gnome",
+      "FULL": "Timmy o Gnomo"
+    },
+    {
+      "FORM": "@Fallout3.esm:003AAD",
+      "FORMID": "003AAD",
+      "EDID": "Terminal02",
+      "FULL": "Terminal hackeado"
+    },
+    {
+      "FORM": "@Fallout3.esm:059BB2",
+      "FORMID": "059BB2",
+      "EDID": "MQ04MabelRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@Fallout3.esm:003AA8",
+      "FORMID": "003AA8",
+      "EDID": "Terminal01",
+      "FULL": "Terminal hackeado"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A7E",
+      "FORMID": "003A7E",
+      "EDID": "MS15Constitution",
+      "FULL": "Constituição dos Estados Unidos"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A7D",
+      "FORMID": "003A7D",
+      "EDID": "MS15MagnaCarta",
+      "FULL": "Carta Magna"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A7C",
+      "FORMID": "003A7C",
+      "EDID": "MS15BillofRightsFinal",
+      "FULL": "Declaração de Direitos"
+    },
+    {
+      "FORM": "@Fallout3.esm:003A7A",
+      "FORMID": "003A7A",
+      "EDID": "MS15DeclarationFinal",
+      "FULL": "Declaração de Independência"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C3CDB",
+      "FORMID": "0C3CDB",
+      "EDID": "MQ02MuseumPlaqueStealth01",
+      "FULL": "Descrição do RobCo Stealth Boy 3001"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000022",
+      "FORMID": "000022",
+      "EDID": "DefaultAshPile2",
+      "FULL": "Pilha de gosma"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A45B",
+      "FORMID": "02A45B",
+      "EDID": "MQ04PlayerPodActivator",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:019498",
+      "FORMID": "019498",
+      "EDID": "PortaShelter01",
+      "FULL": "Refúgio de Pulowski"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A3F6",
+      "FORMID": "02A3F6",
+      "EDID": "FFRadioSignal05Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00001B",
+      "FORMID": "00001B",
+      "EDID": "DefaultAshPile1",
+      "FULL": "Pilha de cinzas"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B2",
+      "FORMID": "02A2B2",
+      "EDID": "DrinkWaterFoutnainSettlement",
+      "FULL": "Bebedouro"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B1",
+      "FORMID": "02A2B1",
+      "EDID": "DrinkUrinalSettlement",
+      "FULL": "Mictório"
+    },
+    {
+      "FORM": "@Fallout3.esm:059507",
+      "FORMID": "059507",
+      "EDID": "MotionDetector01",
+      "FULL": "Detector de Movimento"
+    },
+    {
+      "FORM": "@Fallout3.esm:02A2B0",
+      "FORMID": "02A2B0",
+      "EDID": "DrinkToiletSettlement",
+      "FULL": "Vaso"
+    },
+    {
+      "FORM": "@Fallout3.esm:039270",
+      "FORMID": "039270",
+      "EDID": "FFRadioSignal06Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0792AD",
+      "FORMID": "0792AD",
+      "EDID": "MQ04Diary",
+      "FULL": "Diário de Janet Rockwell"
+    },
+    {
+      "FORM": "@Fallout3.esm:019053",
+      "FORMID": "019053",
+      "EDID": "TenpennyGateSwitch",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@Fallout3.esm:023964",
+      "FORMID": "023964",
+      "EDID": "FFRadioSignal04Switch01",
+      "FULL": "Interruptor Elétrico"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9E64",
+      "FORMID": "0A9E64",
+      "EDID": "GenElecSwitch01",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A9E63",
+      "FORMID": "0A9E63",
+      "EDID": "GenElecSwitch02",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:023940",
+      "FORMID": "023940",
+      "EDID": "MQ02RelayDone",
+      "FULL": "Repetidor Consertado"
+    },
+    {
+      "FORM": "@Fallout3.esm:02393F",
+      "FORMID": "02393F",
+      "EDID": "MQ02Relay",
+      "FULL": "Repetidor da Rádio de Notícias Galaxy"
+    },
+    {
+      "FORM": "@Fallout3.esm:038992",
+      "FORMID": "038992",
+      "EDID": "MegatonPipeStraightRegSmlACT",
+      "FULL": "Vazamento na Tubulação"
+    },
+    {
+      "FORM": "@Fallout3.esm:038991",
+      "FORMID": "038991",
+      "EDID": "MegatonPipeJointLrgToLrgACT",
+      "FULL": "Tubulação"
+    },
+    {
+      "FORM": "@Fallout3.esm:038990",
+      "FORMID": "038990",
+      "EDID": "MegatonPipeJointY01ACT",
+      "FULL": "Tubulação"
+    },
+    {
+      "FORM": "@Fallout3.esm:0298DB",
+      "FORMID": "0298DB",
+      "EDID": "MQ04RockwellDesk",
+      "FULL": "Mesa de Roger"
+    },
+    {
+      "FORM": "@Fallout3.esm:020128",
+      "FORMID": "020128",
+      "EDID": "MS15TurretGenerator",
+      "FULL": "Gerador da Torre"
+    },
+    {
+      "FORM": "@Fallout3.esm:04362F",
+      "FORMID": "04362F",
+      "EDID": "MS17SoilStradCaseEmpty",
+      "FULL": "Maleta Vazia"
+    },
+    {
+      "FORM": "@Fallout3.esm:029438",
+      "FORMID": "029438",
+      "EDID": "trapShotgun",
+      "FULL": "Armadilha de Escopeta"
+    },
+    {
+      "FORM": "@Fallout3.esm:0185D7",
+      "FORMID": "0185D7",
+      "EDID": "LLBackDoorPulley02",
+      "FULL": "Alavanca"
+    },
+    {
+      "FORM": "@Fallout3.esm:0185D6",
+      "FORMID": "0185D6",
+      "EDID": "LLBackDoorPulley01",
+      "FULL": "Alavanca"
+    },
+    {
+      "FORM": "@Fallout3.esm:02934D",
+      "FORMID": "02934D",
+      "EDID": "CG04ReactorSwitch",
+      "FULL": "Chave do Reator"
+    },
+    {
+      "FORM": "@Fallout3.esm:02934B",
+      "FORMID": "02934B",
+      "EDID": "CG04ControlPanelVault01",
+      "FULL": "Painel de Controle da Porta do Vault"
+    },
+    {
+      "FORM": "@Fallout3.esm:06934D",
+      "FORMID": "06934D",
+      "EDID": "NukaRepairPod",
+      "FULL": "Estação de Reparos das Indústrias RobCo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0A8ED8",
+      "FORMID": "0A8ED8",
+      "EDID": "BobbleheadDisplayTenpenny",
+      "FULL": "Estande do Colecionador de Bonecos"
+    },
+    {
+      "FORM": "@Fallout3.esm:04362D",
+      "FORMID": "04362D",
+      "EDID": "MS17SoilStradCase",
+      "FULL": "Violino de Solo"
+    },
+    {
+      "FORM": "@Fallout3.esm:058666",
+      "FORMID": "058666",
+      "EDID": "Dunwich02MoverTrig01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:05862A",
+      "FORMID": "05862A",
+      "EDID": "Dunwich02PastManPrepTrig",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:0585EA",
+      "FORMID": "0585EA",
+      "EDID": "DunwichPastTrigger01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C7",
+      "FORMID": "0416C7",
+      "EDID": "BobbleheadPlacedUARM",
+      "FULL": "Boneco Desarmado"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C5",
+      "FORMID": "0416C5",
+      "EDID": "BobbleheadPlacedSTR",
+      "FULL": "Boneco Força"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C4",
+      "FORMID": "0416C4",
+      "EDID": "BobbleheadPlacedSPCH",
+      "FULL": "Boneco Diálogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B1945",
+      "FORMID": "0B1945",
+      "EDID": "MQ11AirlockControl1",
+      "FULL": "Controle da Câmara de Ar"
+    },
+    {
+      "FORM": "@Fallout3.esm:0416C3",
+      "FORMID": "0416C3",
+      "EDID": "BobbleheadPlacedSNEK",
+      "FULL": "Boneco Furtivo"
+    },
+    {
+      "FORM": "@Fallout3.esm:07161C",
+      "FORMID": "07161C",
+      "EDID": "Vault101Loudspeaker",
+      "FULL": "Viva-Voz"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B16E1",
+      "FORMID": "0B16E1",
+      "EDID": "RavenRockTrapLaserTripwire",
+      "FULL": "Arame Farpado Laser"
+    },
+    {
+      "FORM": "@Fallout3.esm:0B1615",
+      "FORMID": "0B1615",
+      "EDID": "WoodenSwitch",
+      "FULL": "Interruptor"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C85B0",
+      "FORMID": "0C85B0",
+      "EDID": "MQ02MuseumPlaqueVertibirdProto01",
+      "FULL": "Protótipo \"Vertibird\" XVB02]"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C85AB",
+      "FORMID": "0C85AB",
+      "EDID": "MQ02MuseumPlaqueRocket01",
+      "FULL": "Foguete Delta IX"
+    },
+    {
+      "FORM": "@Fallout3.esm:0572D6",
+      "FORMID": "0572D6",
+      "EDID": "MQ04PodDad",
+      "FULL": "Poltrona Virtual"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C85A8",
+      "FORMID": "0C85A8",
+      "EDID": "MQ02MuseumPlaqueRenovation01",
+      "FULL": "Mostra em Reforma"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C85A5",
+      "FORMID": "0C85A5",
+      "EDID": "MQ02MuseumPlaqueFlag02",
+      "FULL": "Bandeira Valiant 12"
+    },
+    {
+      "FORM": "@Fallout3.esm:036FAD",
+      "FORMID": "036FAD",
+      "EDID": "MS06NoiseMaker01",
+      "FULL": "Campainha"
+    },
+    {
+      "FORM": "@Fallout3.esm:0770C4",
+      "FORMID": "0770C4",
+      "EDID": "VintageRadioEnclave01STARTON",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@Fallout3.esm:030ACD",
+      "FORMID": "030ACD",
+      "EDID": "MQ08CellConsole",
+      "FULL": "Painel de Controle de Fogo"
+    },
+    {
+      "FORM": "@Fallout3.esm:0309EF",
+      "FORMID": "0309EF",
+      "EDID": "MS03SpawningBall01",
+      "FULL": "Ovos de Mirelurk"
+    },
+    {
+      "FORM": "@Fallout3.esm:0C85A0",
+      "FORMID": "0C85A0",
+      "EDID": "MQ02MuseumPlaqueVirgoII01",
+      "FULL": "Aterrissador Lunar Virgo II"
+    }
+  ]
+}

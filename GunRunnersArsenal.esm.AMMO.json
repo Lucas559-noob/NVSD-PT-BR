@@ -1,0 +1,220 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@GunRunnersArsenal.esm:00085B",
+      "FORMID": "00085B",
+      "EDID": "NVDLC05Ammo50MGExplosive",
+      "FULL": ".50 MG, Explosivo (GRA)",
+      "ONAM": ".50MG E",
+      "QNAM": "Exp."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00085C",
+      "FORMID": "00085C",
+      "EDID": "NVDLC05Ammo20GaPulseSlug",
+      "FULL": "20 Gauge, Projétil de Pulso (GRA)",
+      "ONAM": "PS calibre 20",
+      "QNAM": "PSlg"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00085D",
+      "FORMID": "00085D",
+      "EDID": "NVDLC05Ammo12GaPulseSlug",
+      "FULL": "12 Gauge, Projétil de Pulso (GRA)",
+      "ONAM": "PS calibre 12",
+      "QNAM": "PSlg"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00085E",
+      "FORMID": "00085E",
+      "EDID": "NVDLC05Ammo12GaFlechette",
+      "FULL": "Calibre 12, Flechette (GRA)",
+      "ONAM": "12ga F",
+      "QNAM": "Fle"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00085F",
+      "FORMID": "00085F",
+      "EDID": "NVDLC05Ammo12GaDragonsBreath",
+      "FULL": "Calibre 12, Sopro do Dragão (ARM)",
+      "ONAM": "Escopeta Cal. 12 de Cano Duplo",
+      "QNAM": "DB"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000860",
+      "FORMID": "000860",
+      "EDID": "NVDLC05Ammo20Ga30Buck",
+      "FULL": "Calibre 20, Balote 3\/0 (GRA)",
+      "ONAM": "20ga 3\/0B",
+      "QNAM": "3\/0B"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000861",
+      "FORMID": "000861",
+      "EDID": "NVDLC05Ammo12Ga40Buck",
+      "FULL": "Calibre 12, Balote 4\/0 (GRA)",
+      "ONAM": "12ga 4\/0B",
+      "QNAM": "4\/0B"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000862",
+      "FORMID": "000862",
+      "EDID": "NVDLC05Ammo12Ga40BuckMagnum",
+      "FULL": "Calibre 12, Balote 4\/0 Mag. (Recarregador) (PAC)",
+      "ONAM": "Escopeta 12 4\/0BM",
+      "QNAM": "4BM"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000863",
+      "FORMID": "000863",
+      "EDID": "NVDLC05Ammo20Ga30BuckMagnum",
+      "FULL": "20 Gauge, 3\/0 Buck Mag. (Recarregada) (GRA)",
+      "ONAM": "20ga 3\/0BM",
+      "QNAM": "3BM"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000865",
+      "FORMID": "000865",
+      "EDID": "NVDLC05AmmoMissileHive",
+      "FULL": "Míssil, Colmeia (GRA)",
+      "ONAM": "Míssil, Colmeia",
+      "QNAM": "Hiv."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000866",
+      "FORMID": "000866",
+      "EDID": "NVDLC05AmmoFatMansLowYield",
+      "FULL": "Mini Bomba Nuclear, Baixo Rendimento (GRA)",
+      "ONAM": "Mini Bomba Nuclear, LY",
+      "QNAM": "LY"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000867",
+      "FORMID": "000867",
+      "EDID": "NVDLC05AmmoFatMansTimed",
+      "FULL": "Mini Bomba, Temporizada (GRA)",
+      "ONAM": "Mini Bomba, Tim.",
+      "QNAM": "Tim."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000868",
+      "FORMID": "000868",
+      "EDID": "NVDLC05AmmoFatMansBigKid",
+      "FULL": "Mini Bomba, Garotão (GRA)",
+      "ONAM": "Mini Bomba Nuclear, BK",
+      "QNAM": "BK"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000869",
+      "FORMID": "000869",
+      "EDID": "NVDLC05Ammo25mmGrenadeTimed",
+      "FULL": "Granada 25mm, Temporizada (GRA)",
+      "ONAM": "25mmG, Tim.",
+      "QNAM": "Tim."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00086A",
+      "FORMID": "00086A",
+      "EDID": "NVDLC05Ammo25mmGrenadePulse",
+      "FULL": "Granada 25mm, Pulso (GRA)",
+      "ONAM": "25mmG, Pulv.",
+      "QNAM": "Pul."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00086B",
+      "FORMID": "00086B",
+      "EDID": "NVDLC05Ammo25mmGrenadePlasma",
+      "FULL": "Granada 25mm, Plasma (GRA)",
+      "ONAM": "25mmG, Plá.",
+      "QNAM": "Pla."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00086D",
+      "FORMID": "00086D",
+      "EDID": "NVDLC05Ammo40mmGrenadePulse",
+      "FULL": "Granada 40mm, Pulso (GRA)",
+      "ONAM": "Granada 40mm, Pul.",
+      "QNAM": "Pul."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00086E",
+      "FORMID": "00086E",
+      "EDID": "NVDLC05Ammo40mmGrenadePlasma",
+      "FULL": "Granada 40mm, Plasma (GRA)",
+      "ONAM": "Granada 40mm, Pla.",
+      "QNAM": "Pla."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00086F",
+      "FORMID": "00086F",
+      "EDID": "NVDLC05Ammo556mmMatchHandLoad",
+      "FULL": "5.56mm, Match (Recarga) (GRA)",
+      "ONAM": "5,56 mm M",
+      "QNAM": "M"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000870",
+      "FORMID": "000870",
+      "EDID": "NVDLC05Ammo9mmJHPHandLoad",
+      "FULL": "9mm, JHP (Recarga) (GRA)",
+      "ONAM": "JHP 9mm",
+      "QNAM": "JHP"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000871",
+      "FORMID": "000871",
+      "EDID": "NVDLC05Ammo5mmJSPHandLoad",
+      "FULL": "5mm, JSP (Recarga) (GRA)",
+      "ONAM": "JSP 5mm",
+      "QNAM": "JSP"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000872",
+      "FORMID": "000872",
+      "EDID": "NVDLC05AmmoSmallEnergyCellOptimized",
+      "FULL": "Célula de Energia, Otimizada (Vigilant Recycler) (GRA)",
+      "ONAM": "E Cel, Opc.",
+      "QNAM": "Opt."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000873",
+      "FORMID": "000873",
+      "EDID": "NVDLC05AmmoMicroFusionCellOptimized",
+      "FULL": "Célula de Microfusão, Otimizada (Reciclador Vigilante) (GRA)",
+      "ONAM": "Célula MF, Opc.",
+      "QNAM": "Opt."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000874",
+      "FORMID": "000874",
+      "EDID": "NVDLC05AmmoElectronChargePackOptimized",
+      "FULL": "Pacote de Carga de Elétrons, Otimizado (Reciclador Vigilante) (GRA)",
+      "ONAM": "Pacote EC, Opc.",
+      "QNAM": "Opt."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000875",
+      "FORMID": "000875",
+      "EDID": "NVDLC05AmmoFlamerFuelOptimized",
+      "FULL": "Combustível de Lança-chamas, Otimizado (Reciclador Vigilante) (GRA)",
+      "ONAM": "Combustível, Opt.",
+      "QNAM": "Opt."
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A09",
+      "FORMID": "000A09",
+      "EDID": "NVDLC05AmmoFatMansTinyTots",
+      "FULL": "Mini Bomba Nuclear, Pequenos Pestinhas (GRA)",
+      "ONAM": "Mini Bomba, TT",
+      "QNAM": "TT"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000A2B",
+      "FORMID": "000A2B",
+      "EDID": "NVDLC05Ammo127mmJHPHandLoad",
+      "FULL": "Munição 12,7mm (Recarga Manual) (GRA)",
+      "ONAM": "JHP 12,7 mm",
+      "QNAM": "JHP"
+    }
+  ]
+}

@@ -1,0 +1,1876 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@FalloutNV.esm:003A93",
+      "FORMID": "003A93",
+      "EDID": "VDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E19",
+      "FORMID": "014E19",
+      "EDID": "RamshackleScrapDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01572F",
+      "FORMID": "01572F",
+      "EDID": "ShackExitDoorReg01",
+      "FULL": "Porta da Cabana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015983",
+      "FORMID": "015983",
+      "EDID": "FencePickBurntGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0159A5",
+      "FORMID": "0159A5",
+      "EDID": "OffDoorBig01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0159A6",
+      "FORMID": "0159A6",
+      "EDID": "OffDoorSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0159A7",
+      "FORMID": "0159A7",
+      "EDID": "OffDoorSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C4CD",
+      "FORMID": "01C4CD",
+      "EDID": "CLFenceGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C6EF",
+      "FORMID": "01C6EF",
+      "EDID": "SubarbanRanchDoorDestroyed",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CCD2",
+      "FORMID": "01CCD2",
+      "EDID": "MetalScrapDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019CF4",
+      "FORMID": "019CF4",
+      "EDID": "OffDoorSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:019CF5",
+      "FORMID": "019CF5",
+      "EDID": "OffDoorMetalSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A018",
+      "FORMID": "01A018",
+      "EDID": "OffDoorBigMetal01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01A019",
+      "FORMID": "01A019",
+      "EDID": "OffDoorMetalSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E7A8",
+      "FORMID": "01E7A8",
+      "EDID": "OffDoorSmR02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F41E",
+      "FORMID": "01F41E",
+      "EDID": "MegatonSewerExit01",
+      "FULL": "Grelha de Drenagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5F9",
+      "FORMID": "01F5F9",
+      "EDID": "OffDoorMetalSmL02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5FA",
+      "FORMID": "01F5FA",
+      "EDID": "OffDoorMetalSmR02a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5FB",
+      "FORMID": "01F5FB",
+      "EDID": "OffDoorMetalSmL02b",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F5FC",
+      "FORMID": "01F5FC",
+      "EDID": "OffDoorMetalSmR02b",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02053D",
+      "FORMID": "02053D",
+      "EDID": "VDoorSliding02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020791",
+      "FORMID": "020791",
+      "EDID": "MetLadderLoad01",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02075A",
+      "FORMID": "02075A",
+      "EDID": "OffDoorBigBroke01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020770",
+      "FORMID": "020770",
+      "EDID": "OffDoorBigBroke02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02079C",
+      "FORMID": "02079C",
+      "EDID": "OffDoorBigBroke03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0229AB",
+      "FORMID": "0229AB",
+      "EDID": "SchDoorSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015A1B",
+      "FORMID": "015A1B",
+      "EDID": "CaveDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02025E",
+      "FORMID": "02025E",
+      "EDID": "Vault101CaveDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:029A66",
+      "FORMID": "029A66",
+      "EDID": "OffDoorBigBrokeSingle01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02E6E4",
+      "FORMID": "02E6E4",
+      "EDID": "HotelDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031589",
+      "FORMID": "031589",
+      "EDID": "UtlRmStairsHatch01",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033181",
+      "FORMID": "033181",
+      "EDID": "BathroomStallDoor01",
+      "FULL": "Porta do Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:035E83",
+      "FORMID": "035E83",
+      "EDID": "WastelandMarqueeDoor01",
+      "FULL": "Porta de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03890E",
+      "FORMID": "03890E",
+      "EDID": "RCSmDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03940E",
+      "FORMID": "03940E",
+      "EDID": "UtlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03A16E",
+      "FORMID": "03A16E",
+      "EDID": "CLFenceGateRoad01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D205",
+      "FORMID": "03D205",
+      "EDID": "UtlDoorBg01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D96A",
+      "FORMID": "02D96A",
+      "EDID": "LamplightSouvDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0300E2",
+      "FORMID": "0300E2",
+      "EDID": "VDoorSlidingRR001",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0300E3",
+      "FORMID": "0300E3",
+      "EDID": "VDoorSlidingRR002",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:041FDA",
+      "FORMID": "041FDA",
+      "EDID": "CaveDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0444B1",
+      "FORMID": "0444B1",
+      "EDID": "SewerEntranceDoor01",
+      "FULL": "Grelha de Esgoto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:045264",
+      "FORMID": "045264",
+      "EDID": "CaveDoorToCave",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014D51",
+      "FORMID": "014D51",
+      "EDID": "OffDoorMetalDoor01EXTERIOR",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E41",
+      "FORMID": "014E41",
+      "EDID": "VDoorSlidingVault03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E46",
+      "FORMID": "014E46",
+      "EDID": "VGearDoorR108",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014ECC",
+      "FORMID": "014ECC",
+      "EDID": "VDoorR01Hinged",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04623C",
+      "FORMID": "04623C",
+      "EDID": "WoodShackDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0463CD",
+      "FORMID": "0463CD",
+      "EDID": "IndDoorBg01",
+      "FULL": "Portão da Garagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0463CE",
+      "FORMID": "0463CE",
+      "EDID": "IndDoorSmAnim01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05875C",
+      "FORMID": "05875C",
+      "EDID": "ParadiseDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05875D",
+      "FORMID": "05875D",
+      "EDID": "ParadiseDoubleDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060730",
+      "FORMID": "060730",
+      "EDID": "UtlHallBgEndSewerExLad01",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:060732",
+      "FORMID": "060732",
+      "EDID": "SewerLidExit01",
+      "FULL": "Bueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:061907",
+      "FORMID": "061907",
+      "EDID": "HotelElevatorDoor01",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:061909",
+      "FORMID": "061909",
+      "EDID": "HotelElevatorDoor02",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07100D",
+      "FORMID": "07100D",
+      "EDID": "UtlRmStairsHatch01RemoteOpen",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07100E",
+      "FORMID": "07100E",
+      "EDID": "VDoorSliding02RemoteOpen",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:079F0D",
+      "FORMID": "079F0D",
+      "EDID": "AntMoundDoor01",
+      "FULL": "Túnel de Formigas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07D7A3",
+      "FORMID": "07D7A3",
+      "EDID": "EcvDoorSm01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F544",
+      "FORMID": "07F544",
+      "EDID": "EcvDoorBg01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F8FE",
+      "FORMID": "07F8FE",
+      "EDID": "LPipeDoor01",
+      "FULL": "Grade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C85B",
+      "FORMID": "08C85B",
+      "EDID": "JailDoor01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06A3DF",
+      "FORMID": "06A3DF",
+      "EDID": "CageDoor",
+      "FULL": "Porta da Jaula"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0914E1",
+      "FORMID": "0914E1",
+      "EDID": "WastelandhomeextDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09D792",
+      "FORMID": "09D792",
+      "EDID": "VStallDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AF6E8",
+      "FORMID": "0AF6E8",
+      "EDID": "RavenRockEcvDoorBg01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CC3",
+      "FORMID": "0B0CC3",
+      "EDID": "OffDoorHotelSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD1",
+      "FORMID": "0B0CD1",
+      "EDID": "OffDoorHotelSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD2",
+      "FORMID": "0B0CD2",
+      "EDID": "OffDoorHotelSmL03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD4",
+      "FORMID": "0B0CD4",
+      "EDID": "OffDoorHotelSmL02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD5",
+      "FORMID": "0B0CD5",
+      "EDID": "OffDoorHotelSmR02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0CD9",
+      "FORMID": "0B0CD9",
+      "EDID": "OffDoorHotelSmR03a",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B0E39",
+      "FORMID": "0B0E39",
+      "EDID": "OffDoorBigMetal01Exterior",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B2672",
+      "FORMID": "0B2672",
+      "EDID": "OffDoorBarsSmL01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B267D",
+      "FORMID": "0B267D",
+      "EDID": "OffDoorBarsSmR01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B3E4D",
+      "FORMID": "0B3E4D",
+      "EDID": "OffDoorHotelBlankSmL01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B3E4E",
+      "FORMID": "0B3E4E",
+      "EDID": "OffDoorHotelBlankSmR01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B5C34",
+      "FORMID": "0B5C34",
+      "EDID": "OffDoorMetalDoor01EXTERIORminUse",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018486",
+      "FORMID": "018486",
+      "EDID": "VStallDoorR01",
+      "FULL": "Porta do Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07424C",
+      "FORMID": "07424C",
+      "EDID": "ElevatorControl01",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B044E",
+      "FORMID": "0B044E",
+      "EDID": "SewerLidExit01NoMinUse",
+      "FULL": "Bueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BEAFC",
+      "FORMID": "0BEAFC",
+      "EDID": "DoorStorefront01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BEB00",
+      "FORMID": "0BEB00",
+      "EDID": "DoorStorefrontDbl01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06638D",
+      "FORMID": "06638D",
+      "EDID": "WastelandhomeextDoorInt",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B462",
+      "FORMID": "05B462",
+      "EDID": "PurityGratetoPumpControl",
+      "FULL": "Grade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07F6AB",
+      "FORMID": "07F6AB",
+      "EDID": "REPCONJailDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08E376",
+      "FORMID": "08E376",
+      "EDID": "NCRPrisonVCDoor",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0922B2",
+      "FORMID": "0922B2",
+      "EDID": "DLCPittScfDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0922DB",
+      "FORMID": "0922DB",
+      "EDID": "DLCPittEntranceGate02",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:094BDB",
+      "FORMID": "094BDB",
+      "EDID": "REPCONStorageDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEC6",
+      "FORMID": "0CCEC6",
+      "EDID": "DavisonDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE558",
+      "FORMID": "0CE558",
+      "EDID": "REPCONShortcutHatchDoor",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE559",
+      "FORMID": "0CE559",
+      "EDID": "REPCONBasementShortcutLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEB01",
+      "FORMID": "0CEB01",
+      "EDID": "REPCONBasementToMidDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0DA71B",
+      "FORMID": "0DA71B",
+      "EDID": "NCRCFDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0DA71C",
+      "FORMID": "0DA71C",
+      "EDID": "NCRCFDoor03",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29D7",
+      "FORMID": "0E29D7",
+      "EDID": "DLC03CrlLoadHatchExt01",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E29DB",
+      "FORMID": "0E29DB",
+      "EDID": "DLC03CellarDoor",
+      "FULL": "Porta do Porão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32A6",
+      "FORMID": "0E32A6",
+      "EDID": "NCRCFBlockADoor",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4198",
+      "FORMID": "0A4198",
+      "EDID": "HVBunkerToMainDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3666",
+      "FORMID": "0E3666",
+      "EDID": "HVOuterLockedDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3754",
+      "FORMID": "0E3754",
+      "EDID": "BisonSteveMaitenanceDoor",
+      "FULL": "Porta de Manutenção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E4088",
+      "FORMID": "0E4088",
+      "EDID": "NCRCFVCDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6757",
+      "FORMID": "0E6757",
+      "EDID": "TrainStationExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E74FE",
+      "FORMID": "0E74FE",
+      "EDID": "REPHQHiddenDoor",
+      "FULL": "Porta Escondida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7A0D",
+      "FORMID": "0E7A0D",
+      "EDID": "REPCONHQHiddenHallDoor",
+      "FULL": "Porta Escondida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E810D",
+      "FORMID": "0E810D",
+      "EDID": "BMPrisonDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E85EE",
+      "FORMID": "0E85EE",
+      "EDID": "REPCONHQStorageDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EA4A0",
+      "FORMID": "0EA4A0",
+      "EDID": "VGearDoorR11",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EA4A3",
+      "FORMID": "0EA4A3",
+      "EDID": "VDoorSlidingVault11",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EB14E",
+      "FORMID": "0EB14E",
+      "EDID": "VVault11ExterminationHallDoor1",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EC9CB",
+      "FORMID": "0EC9CB",
+      "EDID": "VGearDoorR3",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE6CA",
+      "FORMID": "0EE6CA",
+      "EDID": "VGearDoorR22",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE6CB",
+      "FORMID": "0EE6CB",
+      "EDID": "V22GearDoorR",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0F0B",
+      "FORMID": "0F0F0B",
+      "EDID": "V22ElevatorDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F18B8",
+      "FORMID": "0F18B8",
+      "EDID": "PawnShopDoorUsable",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F47A8",
+      "FORMID": "0F47A8",
+      "EDID": "V3JailDoor01",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F5EAE",
+      "FORMID": "0F5EAE",
+      "EDID": "VDoorSlidingVault22",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8894",
+      "FORMID": "0F8894",
+      "EDID": "CasaMadridDoorAnderson",
+      "FULL": "Porta do Apartamento de Anderson"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8895",
+      "FORMID": "0F8895",
+      "EDID": "CasaMadridDoorMaude",
+      "FULL": "Porta do Apartamento da Maude"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8896",
+      "FORMID": "0F8896",
+      "EDID": "CasaMadridDoorSweetie",
+      "FULL": "Porta do Apartamento de Sweetie"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8897",
+      "FORMID": "0F8897",
+      "EDID": "CasaMadridDoorJimmy",
+      "FULL": "Porta do Apartamento do Jimmy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8898",
+      "FORMID": "0F8898",
+      "EDID": "CasaMadridDoorPrettySarah",
+      "FULL": "Porta do Apartamento da Sarah Gostosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F8899",
+      "FORMID": "0F8899",
+      "EDID": "CasaMadridDoorMarco",
+      "FULL": "Porta do Apartamento de Marco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F98A6",
+      "FORMID": "0F98A6",
+      "EDID": "V22MushroomDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F98A7",
+      "FORMID": "0F98A7",
+      "EDID": "V22Cave2Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F98A8",
+      "FORMID": "0F98A8",
+      "EDID": "V22MushroomDoor2",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9D92",
+      "FORMID": "0F9D92",
+      "EDID": "V22BathroomScareDoor",
+      "FULL": "Porta do Boxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F9D93",
+      "FORMID": "0F9D93",
+      "EDID": "V22ThreeUpToTwoDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FB730",
+      "FORMID": "0FB730",
+      "EDID": "NVCraftsmanHomeDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FC6FB",
+      "FORMID": "0FC6FB",
+      "EDID": "vgeardoorr03b",
+      "FULL": "Vault 3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD566",
+      "FORMID": "0FD566",
+      "EDID": "CasaMadridDoorStJames",
+      "FULL": "Porta do Apartamento de Saint James"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD567",
+      "FORMID": "0FD567",
+      "EDID": "CasaMadridDoorDermot",
+      "FULL": "Porta do Apartamento de Dermot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:102AAF",
+      "FORMID": "102AAF",
+      "EDID": "NellisGeneratorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104180",
+      "FORMID": "104180",
+      "EDID": "NellisGeneratorUtilityDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105967",
+      "FORMID": "105967",
+      "EDID": "dlcanchoffbigdoorred01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:105969",
+      "FORMID": "105969",
+      "EDID": "dlcanchoffsmdoorredr01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10664D",
+      "FORMID": "10664D",
+      "EDID": "NVFencePickCleanGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10664E",
+      "FORMID": "10664E",
+      "EDID": "NVFencePickBurntGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:107233",
+      "FORMID": "107233",
+      "EDID": "GSDocMitchellDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10954F",
+      "FORMID": "10954F",
+      "EDID": "BarracksDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A424",
+      "FORMID": "10A424",
+      "EDID": "NVGoodSpringsHomeExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A425",
+      "FORMID": "10A425",
+      "EDID": "NVGoodSpringsHomeExtDoorInt",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C66C",
+      "FORMID": "10C66C",
+      "EDID": "BlackDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10DDBC",
+      "FORMID": "10DDBC",
+      "EDID": "GomorraElevatorDoor",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112069",
+      "FORMID": "112069",
+      "EDID": "Lucky38ElevatorDoor",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112605",
+      "FORMID": "112605",
+      "EDID": "dlc04shackdoorbasement01DOOR",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112687",
+      "FORMID": "112687",
+      "EDID": "CasinoDoorBig01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1164C2",
+      "FORMID": "1164C2",
+      "EDID": "NVMonorailDoor",
+      "FULL": "Monorail"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978D",
+      "FORMID": "11978D",
+      "EDID": "VFSVegasGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11978E",
+      "FORMID": "11978E",
+      "EDID": "VFSStripGateToFreeside",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:119FBD",
+      "FORMID": "119FBD",
+      "EDID": "Lucky38Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A2A0",
+      "FORMID": "11A2A0",
+      "EDID": "VFSKingSchoolExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4DC",
+      "FORMID": "11A4DC",
+      "EDID": "VFSWranglerExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4DD",
+      "FORMID": "11A4DD",
+      "EDID": "VFSSilverRushExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4DE",
+      "FORMID": "11A4DE",
+      "EDID": "VFSMickandRalphsIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4DF",
+      "FORMID": "11A4DF",
+      "EDID": "VFSMickandRalphsExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4E0",
+      "FORMID": "11A4E0",
+      "EDID": "VFSKingSchoolIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A4E1",
+      "FORMID": "11A4E1",
+      "EDID": "VFSSilverRushIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12116B",
+      "FORMID": "12116B",
+      "EDID": "OffDoorHotelSmStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12116C",
+      "FORMID": "12116C",
+      "EDID": "OffDoorHotelSmStaticA",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B4",
+      "FORMID": "1227B4",
+      "EDID": "OffDoorMetalDoorDoubleStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B5",
+      "FORMID": "1227B5",
+      "EDID": "OffDoorMetalFrameStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B6",
+      "FORMID": "1227B6",
+      "EDID": "OffDoorMetalStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B7",
+      "FORMID": "1227B7",
+      "EDID": "OffDoorWoodDoubleStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B8",
+      "FORMID": "1227B8",
+      "EDID": "OffDoorWoodFrameStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1227B9",
+      "FORMID": "1227B9",
+      "EDID": "OffDoorWoodStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:124D1F",
+      "FORMID": "124D1F",
+      "EDID": "OffDoorWoodDoubleBigStatic",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1252BD",
+      "FORMID": "1252BD",
+      "EDID": "WeatherStationLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126695",
+      "FORMID": "126695",
+      "EDID": "NVGomorrahIntDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126860",
+      "FORMID": "126860",
+      "EDID": "NVGomorrahIntWideDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126D4A",
+      "FORMID": "126D4A",
+      "EDID": "NVLucky38RmLoWallNoShadowDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12795A",
+      "FORMID": "12795A",
+      "EDID": "GomorrahHotelDoor01",
+      "FULL": "Porta de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127DCA",
+      "FORMID": "127DCA",
+      "EDID": "VMS18CarlyleDoorInt",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:128589",
+      "FORMID": "128589",
+      "EDID": "VTopsExteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1287E7",
+      "FORMID": "1287E7",
+      "EDID": "VTopsInteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12954E",
+      "FORMID": "12954E",
+      "EDID": "VTopsInteriorDoorNoScript",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12A921",
+      "FORMID": "12A921",
+      "EDID": "UltraLuxeDomeDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AEF3",
+      "FORMID": "12AEF3",
+      "EDID": "GreenhouseDoor01",
+      "FULL": "Porta da Estufa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AF33",
+      "FORMID": "12AF33",
+      "EDID": "SVComputerRoomDoor",
+      "FULL": "Porta da Sala de Informática"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12AF45",
+      "FORMID": "12AF45",
+      "EDID": "SVComputerRoomDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12CE21",
+      "FORMID": "12CE21",
+      "EDID": "NVSlavePenGate01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13005D",
+      "FORMID": "13005D",
+      "EDID": "NVRanchHouseExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:130BBA",
+      "FORMID": "130BBA",
+      "EDID": "NVCCBarge",
+      "FULL": "Balsa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:132160",
+      "FORMID": "132160",
+      "EDID": "dlc04shackdoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1343E9",
+      "FORMID": "1343E9",
+      "EDID": "VFSWranglerIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FE7",
+      "FORMID": "134FE7",
+      "EDID": "DLCPittEntranceGate02NVpit01",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134FE8",
+      "FORMID": "134FE8",
+      "EDID": "DLCPittEntranceGate02NVpit02",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:136B60",
+      "FORMID": "136B60",
+      "EDID": "SVElevatorDoorVault",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:137321",
+      "FORMID": "137321",
+      "EDID": "NVCCRadTruckDoor",
+      "FULL": "Porta do Trailer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1377D6",
+      "FORMID": "1377D6",
+      "EDID": "VHDODeckIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1384C7",
+      "FORMID": "1384C7",
+      "EDID": "VHDODeckMainDoorExt",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13A2B9",
+      "FORMID": "13A2B9",
+      "EDID": "VHDCheckpointIntDoorWest",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13AC69",
+      "FORMID": "13AC69",
+      "EDID": "NVHooverDamObsDeckIntStairs",
+      "FULL": "Escadas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13ACA4",
+      "FORMID": "13ACA4",
+      "EDID": "NVCCInvisibleFortGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B166",
+      "FORMID": "13B166",
+      "EDID": "VHDTower02Hatch",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B167",
+      "FORMID": "13B167",
+      "EDID": "VHDTowerLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B168",
+      "FORMID": "13B168",
+      "EDID": "VHDTower02Ladder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D535",
+      "FORMID": "13D535",
+      "EDID": "NVCGBlackCaveDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13D7E2",
+      "FORMID": "13D7E2",
+      "EDID": "NVNiptonTownHallExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E472",
+      "FORMID": "13E472",
+      "EDID": "NVTheGrayAndyDoor",
+      "FULL": "Quarto do Andy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EB0E",
+      "FORMID": "13EB0E",
+      "EDID": "NVHooverDamSecurityCheckpointLadderHatchDoor",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EB0F",
+      "FORMID": "13EB0F",
+      "EDID": "NVHooverDamSecurityCheckpointHatchDoor",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC29",
+      "FORMID": "13EC29",
+      "EDID": "VHDTowerHatch",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EF2F",
+      "FORMID": "13EF2F",
+      "EDID": "UshomDor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F326",
+      "FORMID": "13F326",
+      "EDID": "CaveExitDoor",
+      "FULL": "Saída da Caverna"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F5B6",
+      "FORMID": "13F5B6",
+      "EDID": "VTopsPresidentialDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140CA0",
+      "FORMID": "140CA0",
+      "EDID": "VHDOliverAreaExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141123",
+      "FORMID": "141123",
+      "EDID": "CaveTunnelDoor",
+      "FULL": "Túnel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:141146",
+      "FORMID": "141146",
+      "EDID": "FortMainCampGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1427EA",
+      "FORMID": "1427EA",
+      "EDID": "NVHooverDamScaffoldingDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:142A21",
+      "FORMID": "142A21",
+      "EDID": "Vault19ExitLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14391F",
+      "FORMID": "14391F",
+      "EDID": "JacobstownMarcusDoor",
+      "FULL": "Porta do Quarto de Marcus"
+    },
+    {
+      "FORM": "@FalloutNV.esm:143952",
+      "FORMID": "143952",
+      "EDID": "Vault19CaveExitLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14443F",
+      "FORMID": "14443F",
+      "EDID": "FortLegateCampGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144679",
+      "FORMID": "144679",
+      "EDID": "VRRCPapasCabinFrontDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14467C",
+      "FORMID": "14467C",
+      "EDID": "VRRCPapasCabinBackDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144A8B",
+      "FORMID": "144A8B",
+      "EDID": "FortLegateMongrelGate",
+      "FULL": "Jaula de Vira-latas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144A90",
+      "FORMID": "144A90",
+      "EDID": "FortLegateMongrelGateBroken",
+      "FULL": "Gaiola de Vira-lata Sabotada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:144EDD",
+      "FORMID": "144EDD",
+      "EDID": "VHDLegateCampGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A4",
+      "FORMID": "1465A4",
+      "EDID": "NVHooverDamTowerDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1465A5",
+      "FORMID": "1465A5",
+      "EDID": "VHDODeckElevatorDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146A7B",
+      "FORMID": "146A7B",
+      "EDID": "VHDPowerPlantEntering02Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C2E",
+      "FORMID": "146C2E",
+      "EDID": "VHDPowerPlantEntering03Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146C2F",
+      "FORMID": "146C2F",
+      "EDID": "VHDPowerPlant03To04Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14752F",
+      "FORMID": "14752F",
+      "EDID": "Vault19CaveTunnelExit",
+      "FULL": "Túnel"
+    },
+    {
+      "FORM": "@FalloutNV.esm:147553",
+      "FORMID": "147553",
+      "EDID": "CLTentFullDoorCH1",
+      "FULL": "Aba da barraca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14842D",
+      "FORMID": "14842D",
+      "EDID": "NVCGInvisibleCaveDoor",
+      "FULL": "Sair"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14851D",
+      "FORMID": "14851D",
+      "EDID": "VHDUtlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AED1",
+      "FORMID": "14AED1",
+      "EDID": "VHDPowerPlantToLowerLevelDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14AEE4",
+      "FORMID": "14AEE4",
+      "EDID": "VHDPowerPlantToExteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B0C9",
+      "FORMID": "14B0C9",
+      "EDID": "NVCGInvisibleCaveEntDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B124",
+      "FORMID": "14B124",
+      "EDID": "DoorTentALTNV",
+      "FULL": "Aba da barraca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B265",
+      "FORMID": "14B265",
+      "EDID": "Lucky38MrHouseElevatorDoor",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA5D",
+      "FORMID": "14DA5D",
+      "EDID": "VHDIntakeTower01Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA5E",
+      "FORMID": "14DA5E",
+      "EDID": "VHDLegionLegateTentExtDoor",
+      "FULL": "Aba da barraca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DA60",
+      "FORMID": "14DA60",
+      "EDID": "VHDCheckpointEastDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E28B",
+      "FORMID": "14E28B",
+      "EDID": "BlackCaveDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E7A7",
+      "FORMID": "14E7A7",
+      "EDID": "vHDExtDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E954",
+      "FORMID": "14E954",
+      "EDID": "VHDExteriorToPowerPlant04Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14F085",
+      "FORMID": "14F085",
+      "EDID": "VHDPowerPlantEntering01Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:152619",
+      "FORMID": "152619",
+      "EDID": "WoodShackDoorALT",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:154774",
+      "FORMID": "154774",
+      "EDID": "BoulderCityRuinsDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156FAE",
+      "FORMID": "156FAE",
+      "EDID": "WeatherStationInteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:156FB7",
+      "FORMID": "156FB7",
+      "EDID": "WeatherStationElevatorDoor",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15736F",
+      "FORMID": "15736F",
+      "EDID": "CaesarTentFlapInterior",
+      "FULL": "Aba da barraca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157BC6",
+      "FORMID": "157BC6",
+      "EDID": "VDoorSlidingVault19",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157BC7",
+      "FORMID": "157BC7",
+      "EDID": "VGearDoorR19",
+      "FULL": "Porta do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157CC8",
+      "FORMID": "157CC8",
+      "EDID": "WeatherStationExteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F12",
+      "FORMID": "157F12",
+      "EDID": "JunkWallDoor",
+      "FULL": "Porta de Sucata"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1584CD",
+      "FORMID": "1584CD",
+      "EDID": "VULSteamRoomDoor",
+      "FULL": "Sauna a Vapor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1591D3",
+      "FORMID": "1591D3",
+      "EDID": "HatchDoor",
+      "FULL": "Escotilha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A816",
+      "FORMID": "15A816",
+      "EDID": "VMS49OutpostDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D0D2",
+      "FORMID": "15D0D2",
+      "EDID": "NVMcCarranSignGate",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EFBA",
+      "FORMID": "15EFBA",
+      "EDID": "GSBighornerGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD58",
+      "FORMID": "15FD58",
+      "EDID": "HVLevel1To2Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD5A",
+      "FORMID": "15FD5A",
+      "EDID": "HVLevel1ToBunkerDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FE24",
+      "FORMID": "15FE24",
+      "EDID": "FortCaesarTentEntrance",
+      "FULL": "Aba da barraca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163125",
+      "FORMID": "163125",
+      "EDID": "VMS18MembersOnlyDoubleDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163126",
+      "FORMID": "163126",
+      "EDID": "VMS18MembersOnlySingleDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631ED",
+      "FORMID": "1631ED",
+      "EDID": "UtlDoor01TheThornToZoo",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631EE",
+      "FORMID": "1631EE",
+      "EDID": "UtlHallBgEndSewerExLad01Thorn",
+      "FULL": "Escada para Westside"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631EF",
+      "FORMID": "1631EF",
+      "EDID": "OffDoorMetalFrameStaticThornToNVSewers",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631F1",
+      "FORMID": "1631F1",
+      "EDID": "OffDoorMetalFrameStaticToThorn",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1631F4",
+      "FORMID": "1631F4",
+      "EDID": "SewerLidExit01ToThorn",
+      "FULL": "Bueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16336D",
+      "FORMID": "16336D",
+      "EDID": "VFSRobotShopDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16450A",
+      "FORMID": "16450A",
+      "EDID": "HotelDoor01Lucky38Exit",
+      "FULL": "Porta de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16475B",
+      "FORMID": "16475B",
+      "EDID": "vCCHQDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165457",
+      "FORMID": "165457",
+      "EDID": "REPCONNTopToMidDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165690",
+      "FORMID": "165690",
+      "EDID": "VMS18ULKitchenElevator",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165691",
+      "FORMID": "165691",
+      "EDID": "VUltraLuxeInteriorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1657F0",
+      "FORMID": "1657F0",
+      "EDID": "VFSBusDoorSouth",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165C3C",
+      "FORMID": "165C3C",
+      "EDID": "HVBunkerDoorToOutside",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:165E83",
+      "FORMID": "165E83",
+      "EDID": "VTopsBennysFloorDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166663",
+      "FORMID": "166663",
+      "EDID": "Lucky38MrHouseElevatorDoor2",
+      "FULL": "Porta do Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167162",
+      "FORMID": "167162",
+      "EDID": "NovacMotelLobbyDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167163",
+      "FORMID": "167163",
+      "EDID": "FreesideToNorthSmlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1673DD",
+      "FORMID": "1673DD",
+      "EDID": "VULBonVivantSuiteDoor",
+      "FULL": "Porta para a Suíte Bon Vivant"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F04",
+      "FORMID": "167F04",
+      "EDID": "NVEcvDoorBg01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167F05",
+      "FORMID": "167F05",
+      "EDID": "NVEcvDoorSm01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1680AC",
+      "FORMID": "1680AC",
+      "EDID": "CrimsonCaravanInsideDoor02",
+      "FULL": "Portão da Garagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168973",
+      "FORMID": "168973",
+      "EDID": "dlc04shackdoorB",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168A8A",
+      "FORMID": "168A8A",
+      "EDID": "FortMainCampExteriorGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168FB9",
+      "FORMID": "168FB9",
+      "EDID": "VMS49ShackDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:168FBA",
+      "FORMID": "168FBA",
+      "EDID": "VMS08TowerDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1690B3",
+      "FORMID": "1690B3",
+      "EDID": "VULPenthouseExtDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169420",
+      "FORMID": "169420",
+      "EDID": "VULKitchenToGourmandDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1694BF",
+      "FORMID": "1694BF",
+      "EDID": "REPCONNMidToBasementDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169592",
+      "FORMID": "169592",
+      "EDID": "VFSFreesideNorthIntGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169593",
+      "FORMID": "169593",
+      "EDID": "VFSFreesideEastGateExtDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169594",
+      "FORMID": "169594",
+      "EDID": "VFSFreesideNorthGateExtDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169595",
+      "FORMID": "169595",
+      "EDID": "VFSFreesideEastGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169596",
+      "FORMID": "169596",
+      "EDID": "VFSNorthBusDoorEntrance",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169597",
+      "FORMID": "169597",
+      "EDID": "VFSNorthToSouthFreesideSmallDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169E14",
+      "FORMID": "169E14",
+      "EDID": "VFSFreesideToMormonFortDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:169E15",
+      "FORMID": "169E15",
+      "EDID": "VFSMormonFortToFreesideDoor",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A151",
+      "FORMID": "16A151",
+      "EDID": "VStripGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A1CD",
+      "FORMID": "16A1CD",
+      "EDID": "VHDExteriorLadderFake",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A1CE",
+      "FORMID": "16A1CE",
+      "EDID": "VHDExteriorLadder",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16ACDB",
+      "FORMID": "16ACDB",
+      "EDID": "VHDCheckpointIntEastDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16ACDD",
+      "FORMID": "16ACDD",
+      "EDID": "VHDODeckIntUpperDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B5E9",
+      "FORMID": "16B5E9",
+      "EDID": "NVProspectorSaloonDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16D545",
+      "FORMID": "16D545",
+      "EDID": "VHDOliverAreaIntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B7D",
+      "FORMID": "171B7D",
+      "EDID": "HVBunkerFirstDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172535",
+      "FORMID": "172535",
+      "EDID": "VMcCarranSilusDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1735C4",
+      "FORMID": "1735C4",
+      "EDID": "HVBunkerOuterDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:173889",
+      "FORMID": "173889",
+      "EDID": "NVInvisibleDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:174413",
+      "FORMID": "174413",
+      "EDID": "VHDODeckStairsDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1758F6",
+      "FORMID": "1758F6",
+      "EDID": "UtlHallBgEndSewerExLad02",
+      "FULL": "Escada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:175C30",
+      "FORMID": "175C30",
+      "EDID": "NVHooverDamTowerDoorInterior",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1792B2",
+      "FORMID": "1792B2",
+      "EDID": "CaveDoor",
+      "FULL": "Porta"
+    }
+  ]
+}

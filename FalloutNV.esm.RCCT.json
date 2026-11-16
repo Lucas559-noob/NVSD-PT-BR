@@ -1,0 +1,64 @@
+{
+  "RCCT": [
+    {
+      "FORM": "@FalloutNV.esm:13B2C0",
+      "FORMID": "13B2C0",
+      "EDID": "CampfireRecipes",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B2C1",
+      "FORMID": "13B2C1",
+      "EDID": "WorkbenchRecipes",
+      "FULL": "Bancada de Trabalho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E119",
+      "FORMID": "13E119",
+      "EDID": "AidSubRecipes",
+      "FULL": "Medicamentos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E11A",
+      "FORMID": "13E11A",
+      "EDID": "WeaponSubRecipes",
+      "FULL": "Armas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E11B",
+      "FORMID": "13E11B",
+      "EDID": "MiscSubRecipes",
+      "FULL": "Diversos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E44E",
+      "FORMID": "13E44E",
+      "EDID": "AmmoSubRecipes",
+      "FULL": "Munição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140AB5",
+      "FORMID": "140AB5",
+      "EDID": "BreakdownSubRecipes",
+      "FULL": "Pane"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153621",
+      "FORMID": "153621",
+      "EDID": "ReloadingBenchRecipes",
+      "FULL": "Bancada de Recarga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CE",
+      "FORMID": "1613CE",
+      "EDID": "FoodSubRecipes",
+      "FULL": "Comida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613CF",
+      "FORMID": "1613CF",
+      "EDID": "ChemsSubRecipes",
+      "FULL": "Químicos"
+    }
+  ]
+}

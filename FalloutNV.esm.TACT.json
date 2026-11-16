@@ -1,0 +1,448 @@
+{
+  "TACT": [
+    {
+      "FORM": "@FalloutNV.esm:018774",
+      "FORMID": "018774",
+      "EDID": "RadioEnclave",
+      "FULL": "Rádio Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E7B3",
+      "FORMID": "01E7B3",
+      "EDID": "MQ05Intercom01",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F413",
+      "FORMID": "01F413",
+      "EDID": "TenpennyIntercom",
+      "FULL": "Interfone de Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01F4B3",
+      "FORMID": "01F4B3",
+      "EDID": "MoriartysSaloonRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E719",
+      "FORMID": "01E719",
+      "EDID": "CitadelArmoryIntercom",
+      "FULL": "Interfone do Arsenal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:022487",
+      "FORMID": "022487",
+      "EDID": "RadioGalaxyNews",
+      "FULL": "Rádio Jornal Galáxia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01E5DF",
+      "FORMID": "01E5DF",
+      "EDID": "RadioTenpennyTower",
+      "FULL": "Rádio da Torre Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028496",
+      "FORMID": "028496",
+      "EDID": "DEMOMrHandyAct",
+      "FULL": "Mr. Handy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:031D47",
+      "FORMID": "031D47",
+      "EDID": "CG02DinerIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:036F5B",
+      "FORMID": "036F5B",
+      "EDID": "MQ09HoldingCellIntercom01",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:037374",
+      "FORMID": "037374",
+      "EDID": "MQ09HoldingCellPresIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02485B",
+      "FORMID": "02485B",
+      "EDID": "MS16Radio101",
+      "FULL": "Rádio 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04692A",
+      "FORMID": "04692A",
+      "EDID": "MQ08FawkesCellIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:048136",
+      "FORMID": "048136",
+      "EDID": "FFEU07RadioBeacon",
+      "FULL": "Rádio-farol chinês"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0634CB",
+      "FORMID": "0634CB",
+      "EDID": "RivetCityBridgeIntercom",
+      "FULL": "Interfone de Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:066FE5",
+      "FORMID": "066FE5",
+      "EDID": "RadioEnclavePASystem",
+      "FULL": "Sistema de Som Público do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06EC64",
+      "FORMID": "06EC64",
+      "EDID": "GNRDoorIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07161E",
+      "FORMID": "07161E",
+      "EDID": "RadioVault101",
+      "FULL": "Sistema de som do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C707",
+      "FORMID": "07C707",
+      "EDID": "AlienRadioBeacon",
+      "FULL": "Sinalizador da Nave de Reconhecimento Theta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C708",
+      "FORMID": "07C708",
+      "EDID": "MamaDolceRadioBeacon",
+      "FULL": "Rádio da República Popular da América"
+    },
+    {
+      "FORM": "@FalloutNV.esm:083511",
+      "FORMID": "083511",
+      "EDID": "MS16Vault101ExternalRadio",
+      "FULL": "Frequência de Emergência do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08A3BB",
+      "FORMID": "08A3BB",
+      "EDID": "MS18RadioSignal",
+      "FULL": "Frequência de Emergência dos Rangers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08A6DA",
+      "FORMID": "08A6DA",
+      "EDID": "MS17AgathasRadio",
+      "FULL": "Estação da Agatha"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06F6A5",
+      "FORMID": "06F6A5",
+      "EDID": "FFRadioSignal01",
+      "FULL": "Sinal de Rádio Kilo Bravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A1F",
+      "FORMID": "090A1F",
+      "EDID": "MS11DeputyWeldHead",
+      "FULL": "Delegado Weld"
+    },
+    {
+      "FORM": "@FalloutNV.esm:093BA9",
+      "FORMID": "093BA9",
+      "EDID": "FFRadioSignal02",
+      "FULL": "Sinal de Rádio Oscar Zulu"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07DDCE",
+      "FORMID": "07DDCE",
+      "EDID": "MQ09PresidentEden",
+      "FULL": "Presidente Eden"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B16D4",
+      "FORMID": "0B16D4",
+      "EDID": "Intercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01FE3F",
+      "FORMID": "01FE3F",
+      "EDID": "FFRadioSignal03",
+      "FULL": "Sinal de Rádio Alfa Lima"
+    },
+    {
+      "FORM": "@FalloutNV.esm:023963",
+      "FORMID": "023963",
+      "EDID": "FFRadioSignal04",
+      "FULL": "Eco de Sinal de Rádio Foxtrot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02A3F5",
+      "FORMID": "02A3F5",
+      "EDID": "FFRadioSignal05",
+      "FULL": "Sinal de Rádio Oscar Tango"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DF15",
+      "FORMID": "02DF15",
+      "EDID": "FFRadioSignal07",
+      "FULL": "Sinal de Rádio Yankee Bravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03926E",
+      "FORMID": "03926E",
+      "EDID": "FFRadioSignal06",
+      "FULL": "Sinal de Rádio Sierra Romeo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D758",
+      "FORMID": "03D758",
+      "EDID": "FFRadioSignal08",
+      "FULL": "Sinal de Rádio Sierra Victor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E930",
+      "FORMID": "03E930",
+      "EDID": "FFRadioSignal09",
+      "FULL": "Sinal de Rádio Papa November"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C4991",
+      "FORMID": "0C4991",
+      "EDID": "HD00HouseRadio",
+      "FULL": "Rádio do House para a Jukebox"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CA77A",
+      "FORMID": "0CA77A",
+      "EDID": "CitadelExteriorIntercomActivator",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07E1DF",
+      "FORMID": "07E1DF",
+      "EDID": "SuperDuperMartTalkActivator",
+      "FULL": "Alto-falante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD126",
+      "FORMID": "0CD126",
+      "EDID": "RepconRadioStation",
+      "FULL": "Tocar Música"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD67B",
+      "FORMID": "0CD67B",
+      "EDID": "REPCONInteriorIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD59",
+      "FORMID": "0ACD59",
+      "EDID": "HVIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3EEB",
+      "FORMID": "0E3EEB",
+      "EDID": "HVIntercomUseless",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E60EC",
+      "FORMID": "0E60EC",
+      "EDID": "RadioBlackMountainTA",
+      "FULL": "Rádio Montanha Negra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E9489",
+      "FORMID": "0E9489",
+      "EDID": "BMDishHutRadio",
+      "FULL": "Transceptor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EA544",
+      "FORMID": "0EA544",
+      "EDID": "REPCONHQSpeaker",
+      "FULL": "Sistema de PA"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EAC7C",
+      "FORMID": "0EAC7C",
+      "EDID": "BMRadioReceiver",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F627A",
+      "FORMID": "0F627A",
+      "EDID": "VMcCarranLupaTalker",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCD88",
+      "FORMID": "0FCD88",
+      "EDID": "VMS08MonorailTalker",
+      "FULL": "Gravação do Monotrilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:118351",
+      "FORMID": "118351",
+      "EDID": "VMS18WaiterIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11E49B",
+      "FORMID": "11E49B",
+      "EDID": "Lucky38HouseComputerConsoleTA",
+      "FULL": "Console do Computador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F954",
+      "FORMID": "11F954",
+      "EDID": "BMIntercom",
+      "FULL": "Interfone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12954C",
+      "FORMID": "12954C",
+      "EDID": "VTopsPresidentialIntercom",
+      "FULL": "Interfone de Segurança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B3DC",
+      "FORMID": "13B3DC",
+      "EDID": "VMQ03aAssassinationRadio",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14ADBA",
+      "FORMID": "14ADBA",
+      "EDID": "RadioNVCampGuardianRadio",
+      "FULL": "Rádio do Acampamento Guardião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B05C",
+      "FORMID": "14B05C",
+      "EDID": "vNCREmergencyRadioTA",
+      "FULL": "Rádio de Emergência da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14DF02",
+      "FORMID": "14DF02",
+      "EDID": "RadioNewVegasTA",
+      "FULL": "Rádio New Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E8B7",
+      "FORMID": "14E8B7",
+      "EDID": "VGSStoreRadio",
+      "FULL": "Tocar Música"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E8DE",
+      "FORMID": "14E8DE",
+      "EDID": "vCasinoTopsRadio",
+      "FULL": "Rádio Tops"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E8E0",
+      "FORMID": "14E8E0",
+      "EDID": "StripRadio",
+      "FULL": "Tocar Música"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15867A",
+      "FORMID": "15867A",
+      "EDID": "HanlonSuicideRadio",
+      "FULL": "Transmissão de Suicídio de Hanlon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F8D6",
+      "FORMID": "15F8D6",
+      "EDID": "EDERadio",
+      "FULL": "Frequência de Hack do EDE"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15F9BD",
+      "FORMID": "15F9BD",
+      "EDID": "VLilyGrandkidsRecording",
+      "FULL": "Gravação dos Netos de Lily"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163127",
+      "FORMID": "163127",
+      "EDID": "VHELIOSARCHIMEDESTalker",
+      "FULL": "Rádio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16316D",
+      "FORMID": "16316D",
+      "EDID": "VEFR0xNCRRadioOpSpeaker",
+      "FULL": "Operador de Rádio da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:164BEA",
+      "FORMID": "164BEA",
+      "EDID": "vLucky38AlarmWomanTA",
+      "FULL": "Alarme"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16663B",
+      "FORMID": "16663B",
+      "EDID": "VEFR0xNCRTalkingActivator",
+      "FULL": "Operador de Rádio da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A21C",
+      "FORMID": "16A21C",
+      "EDID": "Lucky38Mainframe",
+      "FULL": "Mainframe do Lucky 38"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B46D",
+      "FORMID": "16B46D",
+      "EDID": "vCasinoGomorrahRadio",
+      "FULL": "Música do Salão Gomorrah"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B46E",
+      "FORMID": "16B46E",
+      "EDID": "vCasinoUltraLuxeRadio",
+      "FULL": "Rádio Ultra-Luxe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16B46F",
+      "FORMID": "16B46F",
+      "EDID": "vCountryRadio",
+      "FULL": "Rádio Musical de Mojave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:171B44",
+      "FORMID": "171B44",
+      "EDID": "HouseYesManSpeaker",
+      "FULL": "Sistema de PA"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172D1B",
+      "FORMID": "172D1B",
+      "EDID": "TopsLonesomeDrifterRadio",
+      "FULL": "Andarilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172D25",
+      "FORMID": "172D25",
+      "EDID": "TopsBruceIsaacRadio",
+      "FULL": "bruce"
+    },
+    {
+      "FORM": "@FalloutNV.esm:172FDE",
+      "FORMID": "172FDE",
+      "EDID": "TopsRadPackRadio",
+      "FULL": "kit de radiação"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "AVIF": [
+    {
+      "FORM": "@FalloutNV.esm:0003E8",
+      "FORMID": "0003E8",
+      "EDID": "AVStrength",
+      "FULL": "Força",
+      "DESC": "Força é uma medida do seu poder físico bruto. Ela afeta o quanto você pode carregar, o poder de todos os ataques corpo a corpo e sua eficácia com muitas armas pesadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003E9",
+      "FORMID": "0003E9",
+      "EDID": "AVPerception",
+      "FULL": "Percepção",
+      "DESC": "Uma Percepção alta concede um bônus nas habilidades Explosivos, Destravar e Armas de Energia, e determina quando as marcações vermelhas da bússola aparecem (que indicam ameaças)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EB",
+      "FORMID": "0003EB",
+      "EDID": "AVCharisma",
+      "FULL": "Carisma",
+      "DESC": "Ter um Carisma alto melhora a disposição das pessoas em relação a você e dá bônus nas habilidades de Troca e Oratória."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EC",
+      "FORMID": "0003EC",
+      "EDID": "AVIntelligence",
+      "FULL": "Inteligência",
+      "DESC": "Inteligência afeta as habilidades Ciência, Reparo e Medicina. Quanto maior sua Inteligência, mais Pontos de Habilidade você poderá distribuir ao subir de nível."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003ED",
+      "FORMID": "0003ED",
+      "EDID": "AVAgility",
+      "FULL": "Agilidade",
+      "DESC": "Agilidade afeta suas habilidades de Armas e Furtividade, e o número de Pontos de Ação disponíveis para o V.A.T.S"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EE",
+      "FORMID": "0003EE",
+      "EDID": "AVLuck",
+      "FULL": "Sorte",
+      "DESC": "Aumentar sua Sorte vai aumentar um pouco todas as suas habilidades. Ter uma Sorte alta também vai melhorar sua chance de crítico com todas as armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B0",
+      "FORMID": "0004B0",
+      "EDID": "AVBarter",
+      "FULL": "Troca",
+      "DESC": "A habilidade Troca afeta os preços que você consegue ao comprar e vender itens. Em geral, quanto maior sua habilidade Troca, menores serão os preços dos itens comprados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B1",
+      "FORMID": "0004B1",
+      "EDID": "AVBigGuns",
+      "FULL": "Armas Pesadas - OBSOLETO",
+      "DESC": "-- OBSOLETO --\nRemova, por favor."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B2",
+      "FORMID": "0004B2",
+      "EDID": "AVEnergyWeapons",
+      "FULL": "Armas de Energia",
+      "DESC": "A perícia Armas de Energia determina sua eficácia com qualquer arma que use Células de Energia Pequenas, Microcélulas de Fusão, Pacotes de CE ou Combustível de Lança-chamas como munição."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B3",
+      "FORMID": "0004B3",
+      "EDID": "AVExplosives",
+      "FULL": "Explosivos",
+      "DESC": "A perícia Explosivos determina a facilidade de desarmar qualquer mina hostil e a eficácia de qualquer arma explosiva (todas as minas, todas as granadas, Lança-Mísseis, Fat Man, etc.)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B4",
+      "FORMID": "0004B4",
+      "EDID": "AVLockpick",
+      "FULL": "Arrombamento",
+      "DESC": "A perícia Arrombamento é usada para abrir portas e contêineres trancados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B5",
+      "FORMID": "0004B5",
+      "EDID": "AVMedicine",
+      "FULL": "Medicina",
+      "DESC": "A perícia Medicina determina quantos Pontos de Vida você recupera ao usar um Estimulante, e a eficácia de Rad-X e RadAway."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B6",
+      "FORMID": "0004B6",
+      "EDID": "AVMeleeWeapons",
+      "FULL": "Armas Brancas",
+      "DESC": "A perícia em Armas Brancas determina sua eficácia com qualquer arma branca, desde o simples cano de chumbo até o Supermartelo de alta tecnologia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B7",
+      "FORMID": "0004B7",
+      "EDID": "AVRepair",
+      "FULL": "Reparo",
+      "DESC": "A habilidade Reparo permite que você mantenha suas armas e vestimentas. Além disso, Reparo permite que você crie itens e munição de Armas em bancadas de recarga."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B8",
+      "FORMID": "0004B8",
+      "EDID": "AVScience",
+      "FULL": "Ciência",
+      "DESC": "A perícia de Ciência representa seu conhecimento científico combinado, e é usada principalmente para hackear terminais de computador restritos. Também pode ser usada para reciclar munição de Armas de Energia em bancadas de trabalho."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B9",
+      "FORMID": "0004B9",
+      "EDID": "AVSmallGuns",
+      "FULL": "Armas de Fogo",
+      "DESC": "Armas determina sua eficácia com qualquer arma que use munição convencional (.22 LR, .357 Magnum, 5 mm, 10 mm, 5,56 mm, .308, .45-70 Gov't etc.)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BA",
+      "FORMID": "0004BA",
+      "EDID": "AVSneak",
+      "FULL": "Furtividade",
+      "DESC": "Quanto maior sua perícia em Furtividade, mais fácil será permanecer despercebido, roubar um item ou pegar a carteira de alguém. Atacar com sucesso enquanto estiver despercebido garante um acerto crítico automático."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BB",
+      "FORMID": "0004BB",
+      "EDID": "AVSpeech",
+      "FULL": "Oratória",
+      "DESC": "A perícia Oratória determina o quanto você pode influenciar alguém através do diálogo e obter acesso a informações que, de outra forma, essa pessoa não gostaria de compartilhar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BC",
+      "FORMID": "0004BC",
+      "EDID": "AVThrowing",
+      "FULL": "Sobrevivência",
+      "DESC": "A perícia Sobrevivência aumenta os Pontos de Vida que você recebe de comida e bebida. Ela também ajuda você a criar itens consumíveis em fogueiras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BD",
+      "FORMID": "0004BD",
+      "EDID": "AVUnarmed",
+      "FULL": "Desarmado",
+      "DESC": "A perícia Desarmado é usada para lutar sem armas, ou com armas projetadas para combate corpo a corpo, como Soqueiras, Punhos Energéticos e Luvas Deslocadoras."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044C",
+      "FORMID": "00044C",
+      "EDID": "AVActionPoints",
+      "FULL": "Pontos de Ação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044D",
+      "FORMID": "00044D",
+      "EDID": "AVCarryWeight",
+      "FULL": "Peso Máximo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044E",
+      "FORMID": "00044E",
+      "EDID": "AVCritChance",
+      "FULL": "Chance de Acerto Crítico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000452",
+      "FORMID": "000452",
+      "EDID": "AVDamageResist",
+      "FULL": "Resistência a Dano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044F",
+      "FORMID": "00044F",
+      "EDID": "AVHealRate",
+      "FULL": "Taxa de Cura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000450",
+      "FORMID": "000450",
+      "EDID": "AVHealth",
+      "FULL": "Saúde"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000457",
+      "FORMID": "000457",
+      "EDID": "AVKarma",
+      "FULL": "Karma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000451",
+      "FORMID": "000451",
+      "EDID": "AVMeleeDamage",
+      "FULL": "Dano Corpo a Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000453",
+      "FORMID": "000453",
+      "EDID": "AVPoisonResist",
+      "FULL": "Resistência a Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000454",
+      "FORMID": "000454",
+      "EDID": "AVRadResist",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000458",
+      "FORMID": "000458",
+      "EDID": "AVXP",
+      "FULL": "Pontos de Experiência"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EA",
+      "FORMID": "0003EA",
+      "EDID": "AVEndurance",
+      "FULL": "Resistência",
+      "DESC": "Resistência é uma medida do seu condicionamento físico geral. Uma Resistência alta concede bônus à saúde, resistências ambientais e às habilidades Sobrevivência e Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045B",
+      "FORMID": "00045B",
+      "EDID": "AVLeftAttackCondition",
+      "FULL": "Braço Esquerdo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045D",
+      "FORMID": "00045D",
+      "EDID": "AVLeftMobilityCondition",
+      "FULL": "Perna Esquerda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000459",
+      "FORMID": "000459",
+      "EDID": "AVPerceptionCondition",
+      "FULL": "Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045C",
+      "FORMID": "00045C",
+      "EDID": "AVRightAttackCondition",
+      "FULL": "Braço Direito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045A",
+      "FORMID": "00045A",
+      "EDID": "AVEnduranceCondition",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000456",
+      "FORMID": "000456",
+      "EDID": "AVFatigue",
+      "FULL": "Fadiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E1",
+      "FORMID": "0005E1",
+      "EDID": "AVDetectLifeRange",
+      "FULL": "Turbo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E4",
+      "FORMID": "0005E4",
+      "EDID": "AVRadiationRads",
+      "FULL": "Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005DC",
+      "FORMID": "0005DC",
+      "EDID": "AVInventoryWeight",
+      "FULL": "Peso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F6",
+      "FORMID": "0005F6",
+      "EDID": "AVIgnoreCrippledLimbs",
+      "FULL": "Ignorar Efeitos Negativos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005EC",
+      "FORMID": "0005EC",
+      "EDID": "AVVariable01",
+      "DESC": "Usado para serviços de saúde."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F9",
+      "FORMID": "0005F9",
+      "EDID": "AVSleepDeprevation",
+      "FULL": "Privação de Sono"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F7",
+      "FORMID": "0005F7",
+      "EDID": "AVDehydration",
+      "FULL": "H2O"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F8",
+      "FORMID": "0005F8",
+      "EDID": "AVHunger",
+      "FULL": "Inanição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005FA",
+      "FORMID": "0005FA",
+      "EDID": "AVDamageThreshold",
+      "FULL": "DR"
+    }
+  ]
+}

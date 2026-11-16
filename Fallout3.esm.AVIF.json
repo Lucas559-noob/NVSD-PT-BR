@@ -1,0 +1,277 @@
+{
+  "AVIF": [
+    {
+      "FORM": "@FalloutNV.esm:0004B9",
+      "FORMID": "0004B9",
+      "EDID": "AVSmallGuns",
+      "FULL": "Armas Pequenas",
+      "DESC": "A habilidade com Armas Pequenas determina sua efetividade com armas de projétil convencional, como a pistola 10mm, Rifle de Chumbinho, Rifle de Assalto e Escopeta de Combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B8",
+      "FORMID": "0004B8",
+      "EDID": "AVScience",
+      "FULL": "Ciência",
+      "DESC": "A habilidade com Ciência representa a combinação do conhecimento científico, é usada principalmente para acessar terminais restritos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B7",
+      "FORMID": "0004B7",
+      "EDID": "AVRepair",
+      "FULL": "Reparo",
+      "DESC": "A habilidade Reparo te permite consertar armas e vestimentas. Além disso, quanto maior a habilidade Reparo, maior será a situação inicial de qualquer arma construída."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B6",
+      "FORMID": "0004B6",
+      "EDID": "AVMeleeWeapons",
+      "FULL": "Armas Brancas",
+      "DESC": "A habilidade com Armas Brancas determina sua efetividade com armas brancas, desde um simples cano de chumbo até uma Super Marreta de alta tecnologia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B5",
+      "FORMID": "0004B5",
+      "EDID": "AVMedicine",
+      "FULL": "Medicina",
+      "DESC": "A habilidade com Medicina determina a quantidade de pontos de vida que você recupera quando usa um Stimpak, e a efetividade do Rad-X e RadAway."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B4",
+      "FORMID": "0004B4",
+      "EDID": "AVLockpick",
+      "FULL": "Arrombamento",
+      "DESC": "A habilidade de Arrombamento é usada para abrir portas trancadas e containers."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B3",
+      "FORMID": "0004B3",
+      "EDID": "AVExplosives",
+      "FULL": "Explosivos",
+      "DESC": "A habilidade com Explosivos determina a potência de suas minas plantadas, a facilidade para desativar minas hostis, e a efetividade das granadas lançadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B2",
+      "FORMID": "0004B2",
+      "EDID": "AVEnergyWeapons",
+      "FULL": "Armas de Energia",
+      "DESC": "A habilidade com Armas de Energia determina sua efetividade com armas como Pistola Laser, Rifle Laser, Rifle de Plasma e a Pistola de Plasma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B1",
+      "FORMID": "0004B1",
+      "EDID": "AVBigGuns",
+      "FULL": "Armas Grandes",
+      "DESC": "A habilidade com Armas Grandes determina sua efetividade em combate com todas as armas pesadas como Fat Man, Lança-Mísseis, Lança-Chamas, Minigun e Laser Gatling."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004B0",
+      "FORMID": "0004B0",
+      "EDID": "AVBarter",
+      "FULL": "Negociar",
+      "DESC": "A habilidade de Negociar afeta os preços dos produtos que você compra e vende. Em geral, quanto mais alta a sua habilidade de Negociar, menos irá pagar pelos produtos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045E",
+      "FORMID": "00045E",
+      "EDID": "AVRightMobilityCondition",
+      "FULL": "Perna direita"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045D",
+      "FORMID": "00045D",
+      "EDID": "AVLeftMobilityCondition",
+      "FULL": "Perna esquerda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045C",
+      "FORMID": "00045C",
+      "EDID": "AVRightAttackCondition",
+      "FULL": "Braço direito"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045B",
+      "FORMID": "00045B",
+      "EDID": "AVLeftAttackCondition",
+      "FULL": "Braço esquerdo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00045A",
+      "FORMID": "00045A",
+      "EDID": "AVEnduranceCondition",
+      "FULL": "Tronco"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000459",
+      "FORMID": "000459",
+      "EDID": "AVPerceptionCondition",
+      "FULL": "Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000456",
+      "FORMID": "000456",
+      "EDID": "AVFatigue",
+      "FULL": "Fadiga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000454",
+      "FORMID": "000454",
+      "EDID": "AVRadResist",
+      "FULL": "Resistência a radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000453",
+      "FORMID": "000453",
+      "EDID": "AVPoisonResist",
+      "FULL": "Resistência a veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000452",
+      "FORMID": "000452",
+      "EDID": "AVDamageResist",
+      "FULL": "Resistência a danos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000451",
+      "FORMID": "000451",
+      "EDID": "AVMeleeDamage",
+      "FULL": "Dano Corpo a Corpo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044F",
+      "FORMID": "00044F",
+      "EDID": "AVHealRate",
+      "FULL": "Taxa de Cura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044E",
+      "FORMID": "00044E",
+      "EDID": "AVCritChance",
+      "FULL": "Chance crítica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044D",
+      "FORMID": "00044D",
+      "EDID": "AVCarryWeight",
+      "FULL": "Transportar Peso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00044C",
+      "FORMID": "00044C",
+      "EDID": "AVActionPoints",
+      "FULL": "Pontos de ação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EE",
+      "FORMID": "0003EE",
+      "EDID": "AVLuck",
+      "FULL": "Sorte",
+      "DESC": "Aumentando sua Sorte aumentará ligeiramente todas as suas habilidades. Ter uma Sorte alta também melhorará sua chance de crítico com todas as armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003ED",
+      "FORMID": "0003ED",
+      "EDID": "AVAgility",
+      "FULL": "Agilidade",
+      "DESC": "A Agilidade afeta suas habilidades com Armas Pequenas e Furtivo, e o número de Pontos de Ação disponíveis para o V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EB",
+      "FORMID": "0003EB",
+      "EDID": "AVCharisma",
+      "FULL": "Carisma",
+      "DESC": "Ter um Carisma alto melhora a disposição das pessoas para com você, e proporciona bônus para as habilidades: Negociar e Diálogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EA",
+      "FORMID": "0003EA",
+      "EDID": "AVEndurance",
+      "FULL": "Resistência",
+      "DESC": "Resistência é uma medida de sua capacidade física em geral. Uma Resistência elevada dá bônus em saúde, resistências ambientais, e nas habilidades de Armas Grandes e Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003E8",
+      "FORMID": "0003E8",
+      "EDID": "AVStrength",
+      "FULL": "Força",
+      "DESC": "A Força é a medida do seu poder físico bruto. Afeta quanto você pode carregar, e determina a eficiência dos seus ataques corpo a corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005EC",
+      "FORMID": "0005EC",
+      "EDID": "AVVariable01",
+      "DESC": "Usado para serviços médicos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BC",
+      "FORMID": "0004BC",
+      "EDID": "AVThrowing",
+      "FULL": "Arremeçando",
+      "DESC": "Quanto maior sua habilidade com Lançamentos, mais chances terá de acertar uma arma como uma pedra, Molotov ou granada exatamente onde mirar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003EC",
+      "FORMID": "0003EC",
+      "EDID": "AVIntelligence",
+      "FULL": "Inteligência",
+      "DESC": "Inteligência afeta as habilidades: Ciência, Reparo e Medicina. Quanto maior for sua Inteligência, mais pontos de Habilidade poderá distribuir quando passar de nível."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0003E9",
+      "FORMID": "0003E9",
+      "EDID": "AVPerception",
+      "FULL": "Percepção",
+      "DESC": "Uma alta Percepção dá um bônus às habilidades com Explosivos, Arrombamento e Armas de Energia, e determina o momento em que aparece o sinal vermelho na bússola (o que indica perigo)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:000458",
+      "FORMID": "000458",
+      "EDID": "AVXP",
+      "FULL": "Pontos de experiências"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000450",
+      "FORMID": "000450",
+      "EDID": "AVHealth",
+      "FULL": "Vida"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005F6",
+      "FORMID": "0005F6",
+      "EDID": "AVIgnoreCrippledLimbs",
+      "FULL": "Ignorar Efeitos Negativos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005E4",
+      "FORMID": "0005E4",
+      "EDID": "AVRadiationRads",
+      "FULL": "Radioativos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0005DC",
+      "FORMID": "0005DC",
+      "EDID": "AVInventoryWeight",
+      "FULL": "Largura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BD",
+      "FORMID": "0004BD",
+      "EDID": "AVUnarmed",
+      "FULL": "Desarmado",
+      "DESC": "A habilidade Desarmado é usada para lutar sem armas, ou com armas específicas para o combate corpo a corpo, como a Soqueira de Latão ou o Power Fist."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BB",
+      "FORMID": "0004BB",
+      "EDID": "AVSpeech",
+      "FULL": "Diálogo",
+      "DESC": "A habilidade Diálogo rege quanto você pode influenciar alguém pelo diálogo, e ganhar acesso à informação que eles de outro jeito não compartilhariam."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0004BA",
+      "FORMID": "0004BA",
+      "EDID": "AVSneak",
+      "FULL": "Furtivo",
+      "DESC": "Quanto maior for sua habilidade Furtivo, mais fácil será passar sem ser percebido, roubar objetos, ou bater carteiras de alguém. Atacar com sucesso sem ser visto garante um acerto crítico automático."
+    }
+  ]
+}

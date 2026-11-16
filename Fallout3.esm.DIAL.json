@@ -1,0 +1,112 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@FalloutNV.esm:000120",
+      "FORMID": "000120",
+      "EDID": "Recharge",
+      "FULL": "Recarregar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00011B",
+      "FORMID": "00011B",
+      "EDID": "Corpse",
+      "FULL": "Cadáver"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000112",
+      "FORMID": "000112",
+      "EDID": "Travel",
+      "FULL": "Viajar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:000111",
+      "FORMID": "000111",
+      "EDID": "Repair",
+      "FULL": "Reparar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000FC",
+      "FORMID": "0000FC",
+      "EDID": "PersuasionAttemptExit",
+      "FULL": "Esquece então."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000FA",
+      "FORMID": "0000FA",
+      "EDID": "PersuasionAttempt",
+      "FULL": "Qual é. Eu não sou tão mau assim. Você quer me dizer mais alguma coisa, não quer?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E5",
+      "FORMID": "0000E5",
+      "EDID": "Murder",
+      "FULL": "Assassinar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Assalto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E3",
+      "FORMID": "0000E3",
+      "EDID": "Pickpocket",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E1",
+      "FORMID": "0000E1",
+      "EDID": "Yield",
+      "FULL": "Yield"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Golpear"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D7",
+      "FORMID": "0000D7",
+      "EDID": "INFOGENERAL",
+      "FULL": "O quê me conta? Ouviu alguma coisa interessante?"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D5",
+      "FORMID": "0000D5",
+      "EDID": "IdleChatter",
+      "FULL": "Conversa amena"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Tenho que ir agora."
+    }
+  ]
+}

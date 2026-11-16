@@ -1,0 +1,7789 @@
+{
+  "GMST": [
+    {
+      "FORMID": "000DA1",
+      "EDID": "sYSensitivity",
+      "DATA": "Sensibilidade-Y"
+    },
+    {
+      "FORMID": "000DA0",
+      "EDID": "sYouWin",
+      "DATA": "Você venceu"
+    },
+    {
+      "FORMID": "000D9F",
+      "EDID": "sYour",
+      "DATA": "Seu"
+    },
+    {
+      "FORMID": "000D9E",
+      "EDID": "sYouLose",
+      "DATA": "Você perdeu"
+    },
+    {
+      "FORMID": "000D9D",
+      "EDID": "sYouBreakEvenText",
+      "DATA": "Você recuperou sua aposta"
+    },
+    {
+      "FORMID": "000D9C",
+      "EDID": "sYesToAllText",
+      "DATA": "Sim para &Todos"
+    },
+    {
+      "FORMID": "000D9B",
+      "EDID": "sYesText",
+      "DATA": "&Sim"
+    },
+    {
+      "FORMID": "000D9A",
+      "EDID": "sYesRestart",
+      "DATA": "Sim, reiniciar o jogo."
+    },
+    {
+      "FORMID": "000D99",
+      "EDID": "sYes",
+      "DATA": "Sim"
+    },
+    {
+      "FORMID": "000D98",
+      "EDID": "sXSensitivity",
+      "DATA": "Sensibilidade-X"
+    },
+    {
+      "FORMID": "000D97",
+      "EDID": "sXPProgressMarker",
+      "DATA": "^"
+    },
+    {
+      "FORMID": "000D96",
+      "EDID": "sXBUnboundBtn",
+      "DATA": "<NÃO ASSOCIADO>"
+    },
+    {
+      "FORMID": "000D95",
+      "EDID": "sXBStartBtn",
+      "DATA": "INICIAR"
+    },
+    {
+      "FORMID": "000D94",
+      "EDID": "sXBRThumbY",
+      "DATA": "o Analógico Direito para Cima \/ Baixo"
+    },
+    {
+      "FORMID": "000D93",
+      "EDID": "sXBRThumbX",
+      "DATA": "o Analógico Direito para Esquerda \/ Direita"
+    },
+    {
+      "FORMID": "000D92",
+      "EDID": "sXBRThumbUp",
+      "DATA": "o Analógico Direito pra Cima"
+    },
+    {
+      "FORMID": "000D91",
+      "EDID": "sXBRThumbRight",
+      "DATA": "o Analógico Direito para a Direita"
+    },
+    {
+      "FORMID": "000D90",
+      "EDID": "sXBRThumbLeft",
+      "DATA": "o Analógico Direito para a Esquerda"
+    },
+    {
+      "FORMID": "000D8F",
+      "EDID": "sXBRThumbDown",
+      "DATA": "o Analógico Direito para Baixo"
+    },
+    {
+      "FORMID": "000D8E",
+      "EDID": "sXBoxLoadNoDeviceMessage",
+      "DATA": "O dispositivo de armazenamento que selecionou não está mais disponível. Carregamento cancelado."
+    },
+    {
+      "FORMID": "000D8D",
+      "EDID": "sXBLThumbY",
+      "DATA": "o Analógico Esquerdo para Cima \/ Baixo"
+    },
+    {
+      "FORMID": "000D8C",
+      "EDID": "sXBLThumbX",
+      "DATA": "o Analógico Esquerdo para Esquerda \/ Direita"
+    },
+    {
+      "FORMID": "000D8B",
+      "EDID": "sXBLThumbUp",
+      "DATA": "o Analógico Esquerdo para Cima"
+    },
+    {
+      "FORMID": "000D8A",
+      "EDID": "sXBLThumbRight",
+      "DATA": "o Analógico Esquerdo para a Direita"
+    },
+    {
+      "FORMID": "000D89",
+      "EDID": "sXBLThumbLeft",
+      "DATA": "o Analógico Esquerdo para Esquerda"
+    },
+    {
+      "FORMID": "000D88",
+      "EDID": "sXBLThumbDown",
+      "DATA": "o Analógico Esquerdo para Baixo"
+    },
+    {
+      "FORMID": "000D87",
+      "EDID": "sXBDPad",
+      "DATA": "D-Pad"
+    },
+    {
+      "FORMID": "000D86",
+      "EDID": "sXBBackBtn",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "000D85",
+      "EDID": "sWorldMapTabText",
+      "DATA": "Mapa Global"
+    },
+    {
+      "FORMID": "000D84",
+      "EDID": "sWinLossText",
+      "DATA": "Ganhadas\/Perdidas:"
+    },
+    {
+      "FORMID": "000D83",
+      "EDID": "sWhite",
+      "DATA": "BRANCO"
+    },
+    {
+      "FORMID": "000D82",
+      "EDID": "sWeight",
+      "DATA": "Peso"
+    },
+    {
+      "FORMID": "000D81",
+      "EDID": "sWeaponTypeTwoHandRifleEnergy",
+      "DATA": "Rifle de Energia"
+    },
+    {
+      "FORMID": "000D80",
+      "EDID": "sWeaponTypeTwoHandRifle",
+      "DATA": "Rifle"
+    },
+    {
+      "FORMID": "000D7F",
+      "EDID": "sWeaponTypeTwoHandMelee",
+      "DATA": "Arma Branca - Duas Mãos"
+    },
+    {
+      "FORMID": "000D7E",
+      "EDID": "sWeaponTypeTwoHandLauncher",
+      "DATA": "Lançador"
+    },
+    {
+      "FORMID": "000D7D",
+      "EDID": "sWeaponTypeTwoHandHandle",
+      "DATA": "Manejo de Arma"
+    },
+    {
+      "FORMID": "000D7C",
+      "EDID": "sWeaponTypeTwoHandAutomatic",
+      "DATA": "Automático"
+    },
+    {
+      "FORMID": "000D7B",
+      "EDID": "sWeaponTypeOneHandThrown",
+      "DATA": "Desarmado - Lança"
+    },
+    {
+      "FORMID": "000D7A",
+      "EDID": "sWeaponTypeOneHandPistolEnergy",
+      "DATA": "Pistola de Energia"
+    },
+    {
+      "FORMID": "000D79",
+      "EDID": "sWeaponTypeOneHandPistol",
+      "DATA": "Pistola"
+    },
+    {
+      "FORMID": "000D78",
+      "EDID": "sWeaponTypeOneHandMine",
+      "DATA": "Mina"
+    },
+    {
+      "FORMID": "000D77",
+      "EDID": "sWeaponTypeOneHandMelee",
+      "DATA": "Armas Brancas - Uma Mão"
+    },
+    {
+      "FORMID": "000D76",
+      "EDID": "sWeaponTypeOneHandGrenade",
+      "DATA": "Granada"
+    },
+    {
+      "FORMID": "000D75",
+      "EDID": "sWeaponTypeHandToHandMelee",
+      "DATA": "Desarmado - Mano a Mano"
+    },
+    {
+      "FORMID": "000D74",
+      "EDID": "sWeaponLowCond",
+      "DATA": "A condição de sua arma está perigosamente baixa."
+    },
+    {
+      "FORMID": "000D73",
+      "EDID": "sWeaponBreak",
+      "DATA": "Sua arma quebrou."
+    },
+    {
+      "FORMID": "000D72",
+      "EDID": "sWait",
+      "DATA": "esperar"
+    },
+    {
+      "FORMID": "000D71",
+      "EDID": "sVoiceVolume",
+      "DATA": "Voz"
+    },
+    {
+      "FORMID": "000D70",
+      "EDID": "sViewDistance",
+      "DATA": "Distância de Vista"
+    },
+    {
+      "FORMID": "000D6F",
+      "EDID": "sVideoChange",
+      "DATA": "Você precisa reiniciar o jogo para que suas configurações de resolução sejam aplicadas."
+    },
+    {
+      "FORMID": "000D6E",
+      "EDID": "sVideo",
+      "DATA": "Vídeo"
+    },
+    {
+      "FORMID": "000D6D",
+      "EDID": "sVersionNumber",
+      "DATA": "Info. da Versão"
+    },
+    {
+      "FORMID": "000D6C",
+      "EDID": "sVDSGPlate",
+      "DATA": "Placa VDSG"
+    },
+    {
+      "FORMID": "000D6B",
+      "EDID": "sVDSGManual",
+      "DATA": "GSMR - Guia de Sobrevivência dos Moradores do Refúgio"
+    },
+    {
+      "FORMID": "000D6A",
+      "EDID": "sVatsUnarmedAttackGround",
+      "DATA": "Pisotear"
+    },
+    {
+      "FORMID": "000D69",
+      "EDID": "sVatsUnarmedAttack2",
+      "DATA": "Cruzado"
+    },
+    {
+      "FORMID": "000D68",
+      "EDID": "sVatsUnarmedAttack1",
+      "DATA": "Gancho"
+    },
+    {
+      "FORMID": "000D67",
+      "EDID": "sVatsTarget",
+      "DATA": "Alvo"
+    },
+    {
+      "FORMID": "000D66",
+      "EDID": "sVatsSelect",
+      "DATA": "Selecionar"
+    },
+    {
+      "FORMID": "000D65",
+      "EDID": "sVATSMessageZeroChance",
+      "DATA": "Você tem zero chance de acerto."
+    },
+    {
+      "FORMID": "000D64",
+      "EDID": "sVATSMessageNoAmmo",
+      "DATA": "Você não tem munição o suficiente."
+    },
+    {
+      "FORMID": "000D63",
+      "EDID": "sVATSMessageLowAP",
+      "DATA": "Baixo"
+    },
+    {
+      "FORMID": "000D62",
+      "EDID": "sVatsBodyPart",
+      "DATA": "Parte do Corpo"
+    },
+    {
+      "FORMID": "000D61",
+      "EDID": "sVatsAiming",
+      "DATA": "Mirando"
+    },
+    {
+      "FORMID": "000D60",
+      "EDID": "sVatsAimed",
+      "DATA": "Mirado"
+    },
+    {
+      "FORMID": "000D5F",
+      "EDID": "sVampireTalk",
+      "DATA": "Falar"
+    },
+    {
+      "FORMID": "000D5E",
+      "EDID": "sVampireFeedQuestion",
+      "DATA": "O que você gostaria de fazer com esse cidadão inocente?"
+    },
+    {
+      "FORMID": "000D5D",
+      "EDID": "sVampireFeed",
+      "DATA": "Alimentar"
+    },
+    {
+      "FORMID": "000D5C",
+      "EDID": "sValue",
+      "DATA": "Valor"
+    },
+    {
+      "FORMID": "000D5B",
+      "EDID": "sUnluckyLoseText",
+      "DATA": "Você está azarado. Você perdeu"
+    },
+    {
+      "FORMID": "000D5A",
+      "EDID": "sUnequipItemOnPlayer",
+      "DATA": "foi desequipado"
+    },
+    {
+      "FORMID": "000D59",
+      "EDID": "sUActnVats",
+      "DATA": "VATS"
+    },
+    {
+      "FORMID": "000D58",
+      "EDID": "sUActnUse",
+      "DATA": "Atacar"
+    },
+    {
+      "FORMID": "000D57",
+      "EDID": "sUActnTogglerun",
+      "DATA": "Sempre Correr"
+    },
+    {
+      "FORMID": "000D56",
+      "EDID": "sUActnTogglepov",
+      "DATA": "Alterar Visão"
+    },
+    {
+      "FORMID": "000D55",
+      "EDID": "sUActnSldright",
+      "DATA": "Direita"
+    },
+    {
+      "FORMID": "000D54",
+      "EDID": "sUActnSldleft",
+      "DATA": "Esquerda"
+    },
+    {
+      "FORMID": "000D53",
+      "EDID": "sUActnRun",
+      "DATA": "Correr"
+    },
+    {
+      "FORMID": "000D52",
+      "EDID": "sUActnRestmenu",
+      "DATA": "Esperar"
+    },
+    {
+      "FORMID": "000D51",
+      "EDID": "sUActnRdyitem",
+      "DATA": "Pronto\/Recarregar"
+    },
+    {
+      "FORMID": "000D50",
+      "EDID": "sUActnQuicksave",
+      "DATA": "Salvar Rápido"
+    },
+    {
+      "FORMID": "000D4F",
+      "EDID": "sUActnQuickload",
+      "DATA": "Carregar Rápido"
+    },
+    {
+      "FORMID": "000D4E",
+      "EDID": "sUActnMenumode",
+      "DATA": "Pip-Boy"
+    },
+    {
+      "FORMID": "000D4D",
+      "EDID": "sUActnJump",
+      "DATA": "Pular"
+    },
+    {
+      "FORMID": "000D4C",
+      "EDID": "sUActnHotKey8",
+      "DATA": "Atalho 8"
+    },
+    {
+      "FORMID": "000D4B",
+      "EDID": "sUActnHotKey7",
+      "DATA": "Atalho 7"
+    },
+    {
+      "FORMID": "000D4A",
+      "EDID": "sUActnHotKey6",
+      "DATA": "Atalho 6"
+    },
+    {
+      "FORMID": "000D49",
+      "EDID": "sUActnHotKey5",
+      "DATA": "Atalho 5"
+    },
+    {
+      "FORMID": "000D48",
+      "EDID": "sUActnHotKey4",
+      "DATA": "Atalho 4"
+    },
+    {
+      "FORMID": "000D47",
+      "EDID": "sUActnHotKey3",
+      "DATA": "Atalho 3"
+    },
+    {
+      "FORMID": "000D46",
+      "EDID": "sUActnHotKey1",
+      "DATA": "Atalho 1"
+    },
+    {
+      "FORMID": "000D45",
+      "EDID": "sUActnGrab",
+      "DATA": "Pegar"
+    },
+    {
+      "FORMID": "000D44",
+      "EDID": "sUActnForward",
+      "DATA": "Avançar"
+    },
+    {
+      "FORMID": "000D43",
+      "EDID": "sUActnCrouch",
+      "DATA": "Furtividade"
+    },
+    {
+      "FORMID": "000D42",
+      "EDID": "sUActnBlock",
+      "DATA": "Bloquear"
+    },
+    {
+      "FORMID": "000D41",
+      "EDID": "sUActnBack",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "000D40",
+      "EDID": "sUActnAutomove",
+      "DATA": "Andar Automaticamente"
+    },
+    {
+      "FORMID": "000D3F",
+      "EDID": "sUActnAMmoSwap",
+      "DATA": "Trocar Munição"
+    },
+    {
+      "FORMID": "000D3E",
+      "EDID": "sUActnActivate",
+      "DATA": "Ativar"
+    },
+    {
+      "FORMID": "000D3D",
+      "EDID": "sTwoToOneText",
+      "DATA": "2 para 1"
+    },
+    {
+      "FORMID": "000D3C",
+      "EDID": "sTune",
+      "DATA": "Ajustar"
+    },
+    {
+      "FORMID": "000D3B",
+      "EDID": "sTrueIronSights",
+      "DATA": "Usar Mira de Ferro"
+    },
+    {
+      "FORMID": "000D3A",
+      "EDID": "sTreeLODFade",
+      "DATA": "Rend. de Árvores"
+    },
+    {
+      "FORMID": "000D39",
+      "EDID": "sTravelQuestion",
+      "DATA": "Você quer viajar para"
+    },
+    {
+      "FORMID": "000D38",
+      "EDID": "sTravel",
+      "DATA": "Viajar"
+    },
+    {
+      "FORMID": "000D37",
+      "EDID": "sTransact",
+      "DATA": "Transação"
+    },
+    {
+      "FORMID": "000D36",
+      "EDID": "sTraitsTitle",
+      "DATA": "ESPECIALIDADES OPCIONAIS: %d\/%d Selecionadas"
+    },
+    {
+      "FORMID": "000D35",
+      "EDID": "sTraitsCount",
+      "DATA": "Escolha um máximo de %d Especialidades"
+    },
+    {
+      "FORMID": "000D34",
+      "EDID": "sTraitMenuTitleTextSingular",
+      "DATA": "ESCOLHA %d ESPECIALIDADE(S)"
+    },
+    {
+      "FORMID": "000D33",
+      "EDID": "sTraitMenuCounterSingular",
+      "DATA": "RESTAM %d ESPECIALIDADES"
+    },
+    {
+      "FORMID": "000D32",
+      "EDID": "sTraitMenuCounter",
+      "DATA": "%d ESPECIALIDADES RESTANTES"
+    },
+    {
+      "FORMID": "000D31",
+      "EDID": "sTouchRange",
+      "DATA": "Golpe"
+    },
+    {
+      "FORMID": "000D30",
+      "EDID": "sTotalFundsText",
+      "DATA": "Suas tampas:"
+    },
+    {
+      "FORMID": "000D2F",
+      "EDID": "sTotalCardsText",
+      "DATA": "Cartas"
+    },
+    {
+      "FORMID": "000D2E",
+      "EDID": "sTotalBetText",
+      "DATA": "Total Apostado:"
+    },
+    {
+      "FORMID": "000D2D",
+      "EDID": "sTone",
+      "DATA": "Tom"
+    },
+    {
+      "FORMID": "000D2C",
+      "EDID": "sTo",
+      "DATA": "para"
+    },
+    {
+      "FORMID": "000D2B",
+      "EDID": "sThirdDozenText",
+      "DATA": "3ª Dúzia"
+    },
+    {
+      "FORMID": "000D2A",
+      "EDID": "sTextureSize",
+      "DATA": "Tamanho da Textura"
+    },
+    {
+      "FORMID": "000D29",
+      "EDID": "sTextNote",
+      "DATA": "Arquivo de Texto"
+    },
+    {
+      "FORMID": "000D28",
+      "EDID": "sTerminalServerText9",
+      "DATA": "-Servidor 9-"
+    },
+    {
+      "FORMID": "000D27",
+      "EDID": "sTerminalServerText8",
+      "DATA": "-Servidor 8-"
+    },
+    {
+      "FORMID": "000D26",
+      "EDID": "sTerminalServerText7",
+      "DATA": "-Servidor 7-"
+    },
+    {
+      "FORMID": "000D25",
+      "EDID": "sTerminalServerText6",
+      "DATA": "-Servidor 6-"
+    },
+    {
+      "FORMID": "000D24",
+      "EDID": "sTerminalServerText5",
+      "DATA": "-Servidor 5-"
+    },
+    {
+      "FORMID": "000D23",
+      "EDID": "sTerminalServerText4",
+      "DATA": "-Servidor 4-"
+    },
+    {
+      "FORMID": "000D22",
+      "EDID": "sTerminalServerText3",
+      "DATA": "-Servidor 3-"
+    },
+    {
+      "FORMID": "000D21",
+      "EDID": "sTerminalServerText2",
+      "DATA": "-Servidor 2-"
+    },
+    {
+      "FORMID": "000D20",
+      "EDID": "sTerminalServerText1",
+      "DATA": "-Servidor 1-"
+    },
+    {
+      "FORMID": "000D1F",
+      "EDID": "sTerminalLocked",
+      "DATA": "Você não pode hackear este computador."
+    },
+    {
+      "FORMID": "000D1E",
+      "EDID": "sTeammateOverencumbered",
+      "DATA": "não pode mais carregar."
+    },
+    {
+      "FORMID": "000D1D",
+      "EDID": "sTargetTypeVampire",
+      "DATA": "Alimentar\/Falar"
+    },
+    {
+      "FORMID": "000D1C",
+      "EDID": "sTargetTypeUnequip",
+      "DATA": "Desequipar"
+    },
+    {
+      "FORMID": "000D1B",
+      "EDID": "sTargetTypeTalk",
+      "DATA": "Falar"
+    },
+    {
+      "FORMID": "000D1A",
+      "EDID": "sTargetTypeTake",
+      "DATA": "Pegar"
+    },
+    {
+      "FORMID": "000D19",
+      "EDID": "sTargetTypeSleep",
+      "DATA": "Dormir"
+    },
+    {
+      "FORMID": "000D18",
+      "EDID": "sTargetTypeSit",
+      "DATA": "Sentar"
+    },
+    {
+      "FORMID": "000D17",
+      "EDID": "sTargetTypeRepair",
+      "DATA": "Reparar"
+    },
+    {
+      "FORMID": "000D16",
+      "EDID": "sTargetTypeRecharge",
+      "DATA": "Recarregar"
+    },
+    {
+      "FORMID": "000D15",
+      "EDID": "sTargetTypeRead",
+      "DATA": "Ler"
+    },
+    {
+      "FORMID": "000D14",
+      "EDID": "sTargetTypeOpenDoor",
+      "DATA": "Abrir"
+    },
+    {
+      "FORMID": "000D13",
+      "EDID": "sTargetTypeOpen",
+      "DATA": "Abrir"
+    },
+    {
+      "FORMID": "000D12",
+      "EDID": "sTargetTypeHorse",
+      "DATA": "Dirigir"
+    },
+    {
+      "FORMID": "000D11",
+      "EDID": "sTargetTypeEquip",
+      "DATA": "Equipar"
+    },
+    {
+      "FORMID": "000D10",
+      "EDID": "sTargetTypeEat",
+      "DATA": "Comer"
+    },
+    {
+      "FORMID": "000D0F",
+      "EDID": "sTargetTypeDrink",
+      "DATA": "Beber"
+    },
+    {
+      "FORMID": "000D0E",
+      "EDID": "sTargetTypeCrown",
+      "DATA": "Falar"
+    },
+    {
+      "FORMID": "000D0D",
+      "EDID": "sTargetTypeBrew",
+      "DATA": "Mistura"
+    },
+    {
+      "FORMID": "000D0C",
+      "EDID": "sTargetTypeApply",
+      "DATA": "Aceitar"
+    },
+    {
+      "FORMID": "000D0B",
+      "EDID": "sTargetTypeActivate",
+      "DATA": "Ativar"
+    },
+    {
+      "FORMID": "000D0A",
+      "EDID": "sTargetRange",
+      "DATA": "Alvo"
+    },
+    {
+      "FORMID": "000D09",
+      "EDID": "sTakeAll",
+      "DATA": "Pegar Tudo"
+    },
+    {
+      "FORMID": "000D08",
+      "EDID": "sSystemSaveAbbrev",
+      "DATA": "SYS"
+    },
+    {
+      "FORMID": "000D07",
+      "EDID": "sSwitchLimbs",
+      "DATA": "Trocar de Membro"
+    },
+    {
+      "FORMID": "000D06",
+      "EDID": "sSwitchHandsText",
+      "DATA": "Trocar de Mão"
+    },
+    {
+      "FORMID": "000D05",
+      "EDID": "sSurrenderText",
+      "DATA": "Desistir"
+    },
+    {
+      "FORMID": "000D04",
+      "EDID": "sSurgery",
+      "DATA": "Cirurgia"
+    },
+    {
+      "FORMID": "000D03",
+      "EDID": "sSuccessfulSneakAttackMain",
+      "DATA": "Ataque Furtivo para"
+    },
+    {
+      "FORMID": "000D02",
+      "EDID": "sSuccessfulSneakAttackEnd",
+      "DATA": "X dano!"
+    },
+    {
+      "FORMID": "000D01",
+      "EDID": "sStyle",
+      "DATA": "Estilo"
+    },
+    {
+      "FORMID": "000D00",
+      "EDID": "sStopAudio",
+      "DATA": "Parar Áudio"
+    },
+    {
+      "FORMID": "000CFF",
+      "EDID": "sStimpak",
+      "DATA": "Stimpak"
+    },
+    {
+      "FORMID": "000CFE",
+      "EDID": "sStealHorse",
+      "DATA": "Você quer roubar este cavalo?"
+    },
+    {
+      "FORMID": "000CFD",
+      "EDID": "sSteal",
+      "DATA": "Roubar"
+    },
+    {
+      "FORMID": "000CFC",
+      "EDID": "sStayText",
+      "DATA": "Ficar"
+    },
+    {
+      "FORMID": "000CFB",
+      "EDID": "sStatsXPMax",
+      "DATA": "MAX"
+    },
+    {
+      "FORMID": "000CFA",
+      "EDID": "sStatsXP",
+      "DATA": "XP"
+    },
+    {
+      "FORMID": "000CF9",
+      "EDID": "sStatsStatus",
+      "DATA": "Status"
+    },
+    {
+      "FORMID": "000CF8",
+      "EDID": "sStatsSpecial",
+      "DATA": "S.P.E.C.I.A.L."
+    },
+    {
+      "FORMID": "000CF7",
+      "EDID": "sStatsSLPAbbrev",
+      "DATA": "SLP"
+    },
+    {
+      "FORMID": "000CF6",
+      "EDID": "sStatsSkills",
+      "DATA": "Habilidades"
+    },
+    {
+      "FORMID": "000CF5",
+      "EDID": "sStatsRadResist",
+      "DATA": "RES. À RADIAÇÃO"
+    },
+    {
+      "FORMID": "000CF4",
+      "EDID": "sStatsRadiation",
+      "DATA": "Radiação"
+    },
+    {
+      "FORMID": "000CF3",
+      "EDID": "sStatsRADAbbrev",
+      "DATA": "RAD"
+    },
+    {
+      "FORMID": "000CF2",
+      "EDID": "sStatsPerks",
+      "DATA": "Vantagens"
+    },
+    {
+      "FORMID": "000CF1",
+      "EDID": "sStatsNoEffects",
+      "DATA": "VOCÊ NÃO TEM NENHUM EFEITO ATIVO"
+    },
+    {
+      "FORMID": "000CF0",
+      "EDID": "sStatsLVLAbbrev",
+      "DATA": "NVL"
+    },
+    {
+      "FORMID": "000CEF",
+      "EDID": "sStatsLMBAbbrev",
+      "DATA": "LMB"
+    },
+    {
+      "FORMID": "000CEE",
+      "EDID": "sStatsLimbs",
+      "DATA": "Membros"
+    },
+    {
+      "FORMID": "000CED",
+      "EDID": "sStatsHP",
+      "DATA": "HP"
+    },
+    {
+      "FORMID": "000CEC",
+      "EDID": "sStatsH20Abbrev",
+      "DATA": "H2O"
+    },
+    {
+      "FORMID": "000CEB",
+      "EDID": "sStatsGeneral",
+      "DATA": "Estatísticas"
+    },
+    {
+      "FORMID": "000CEA",
+      "EDID": "sStatsFODAbbrev",
+      "DATA": "FOD"
+    },
+    {
+      "FORMID": "000CE9",
+      "EDID": "sStatsEffects",
+      "DATA": "Efeitos"
+    },
+    {
+      "FORMID": "000CE8",
+      "EDID": "sStatsEFFAbbrev",
+      "DATA": "EFE"
+    },
+    {
+      "FORMID": "000CE7",
+      "EDID": "sStatsCrippled",
+      "DATA": "Aleijado"
+    },
+    {
+      "FORMID": "000CE6",
+      "EDID": "sStatsCondition",
+      "DATA": "Condição"
+    },
+    {
+      "FORMID": "000CE5",
+      "EDID": "sStatsCNDAbbrev",
+      "DATA": "CND"
+    },
+    {
+      "FORMID": "000CE4",
+      "EDID": "sStatsBody",
+      "DATA": "Corpo"
+    },
+    {
+      "FORMID": "000CE3",
+      "EDID": "sStatsAP",
+      "DATA": "PA"
+    },
+    {
+      "FORMID": "000CE2",
+      "EDID": "sStatsAlcohol",
+      "DATA": "Álcool"
+    },
+    {
+      "FORMID": "000CE1",
+      "EDID": "sStatsAddicted",
+      "DATA": "VICIADO"
+    },
+    {
+      "FORMID": "000CE0",
+      "EDID": "sStats",
+      "DATA": "STATUS"
+    },
+    {
+      "FORMID": "000CDF",
+      "EDID": "sStartNewGame",
+      "DATA": "Iniciar novo jogo?"
+    },
+    {
+      "FORMID": "000CDE",
+      "EDID": "sStartANewGame",
+      "DATA": "Começar um Novo Jogo?"
+    },
+    {
+      "FORMID": "000CDD",
+      "EDID": "sSplitText",
+      "DATA": "Cortar"
+    },
+    {
+      "FORMID": "000CDC",
+      "EDID": "sSpinText",
+      "DATA": "Jogar"
+    },
+    {
+      "FORMID": "000CDB",
+      "EDID": "sSpeechChallengeSuccess",
+      "DATA": "[SUCESSO]"
+    },
+    {
+      "FORMID": "000CDA",
+      "EDID": "sSpeechChallengeFailure",
+      "DATA": "[FRACASSO]"
+    },
+    {
+      "FORMID": "000CD9",
+      "EDID": "sSpecularityFade",
+      "DATA": "Rend. de Reflexos"
+    },
+    {
+      "FORMID": "000CD8",
+      "EDID": "sSpecNameStealth",
+      "DATA": "Furtivo"
+    },
+    {
+      "FORMID": "000CD7",
+      "EDID": "sSpecNameMagic",
+      "DATA": "Mágica"
+    },
+    {
+      "FORMID": "000CD6",
+      "EDID": "sSpecNameCombat",
+      "DATA": "Combate"
+    },
+    {
+      "FORMID": "000CD5",
+      "EDID": "sSortMethod",
+      "DATA": "Ordenar"
+    },
+    {
+      "FORMID": "000CD4",
+      "EDID": "sSneakHidden",
+      "DATA": "[OCULTO]"
+    },
+    {
+      "FORMID": "000CD3",
+      "EDID": "sSneakDetected",
+      "DATA": "[DETECTADO]"
+    },
+    {
+      "FORMID": "000CD2",
+      "EDID": "sSneakDanger",
+      "DATA": "[PERIGO]"
+    },
+    {
+      "FORMID": "000CD1",
+      "EDID": "sSneakCaution",
+      "DATA": "[CUIDADO]"
+    },
+    {
+      "FORMID": "000CD0",
+      "EDID": "sSneakAttackCriticalStrike",
+      "DATA": "Ataque Crítico Furtivo em"
+    },
+    {
+      "FORMID": "000CCF",
+      "EDID": "sSmall",
+      "DATA": "Pequeno"
+    },
+    {
+      "FORMID": "000CCE",
+      "EDID": "sSlotPressAnyButtonText",
+      "DATA": "Pressione qualquer botão disponível no caça-níqueis."
+    },
+    {
+      "FORMID": "000CCD",
+      "EDID": "sSlotAntiCheatText",
+      "DATA": "Esta máquina parece estar reiniciando como medida anti-fraude."
+    },
+    {
+      "FORMID": "000CCC",
+      "EDID": "sSleep",
+      "DATA": "dormir"
+    },
+    {
+      "FORMID": "000CCB",
+      "EDID": "sSkintintpurple",
+      "DATA": "Cor da pele púrpura/amarela"
+    },
+    {
+      "FORMID": "000CCA",
+      "EDID": "sSkintintorange",
+      "DATA": "Cor da pele laranja/azul"
+    },
+    {
+      "FORMID": "000CC9",
+      "EDID": "sSkinshade",
+      "DATA": "Tom de pele escuro/claro"
+    },
+    {
+      "FORMID": "000CC8",
+      "EDID": "sSkinflushed",
+      "DATA": "Pele radiante\/pálida"
+    },
+    {
+      "FORMID": "000CC7",
+      "EDID": "sSkin",
+      "DATA": "Pele"
+    },
+    {
+      "FORMID": "000CC6",
+      "EDID": "sSkillsTitle",
+      "DATA": "HABILIDADES: %d\/%d Selecionadas"
+    },
+    {
+      "FORMID": "000CC5",
+      "EDID": "sSkillsCount",
+      "DATA": "Escolha %d Habilidades"
+    },
+    {
+      "FORMID": "000CC4",
+      "EDID": "sSkillRequirement",
+      "DATA": "Habilidade Requerida"
+    },
+    {
+      "FORMID": "000CC3",
+      "EDID": "sSkillLevelNovice",
+      "DATA": "Novato"
+    },
+    {
+      "FORMID": "000CC2",
+      "EDID": "sSkillLevelMaster",
+      "DATA": "Mestre"
+    },
+    {
+      "FORMID": "000CC1",
+      "EDID": "sSkillLevelJourneyman",
+      "DATA": "Profissional"
+    },
+    {
+      "FORMID": "000CC0",
+      "EDID": "sSkillLevelExpert",
+      "DATA": "Especialista"
+    },
+    {
+      "FORMID": "000CBF",
+      "EDID": "sSkillLevelApprentice",
+      "DATA": "Aprendiz"
+    },
+    {
+      "FORMID": "000CBE",
+      "EDID": "sSkillIncreasedNum",
+      "DATA": "%s aumentou em %d"
+    },
+    {
+      "FORMID": "000CBD",
+      "EDID": "sSkillIncreased",
+      "DATA": "habilidade aumentada"
+    },
+    {
+      "FORMID": "000CBC",
+      "EDID": "sSkillDecreased",
+      "DATA": "habilidade diminuída"
+    },
+    {
+      "FORMID": "000CBB",
+      "EDID": "sShowLocation",
+      "DATA": "Mostrar no Mapa"
+    },
+    {
+      "FORMID": "000CBA",
+      "EDID": "sShowAllNotes",
+      "DATA": "Anotações Gerais"
+    },
+    {
+      "FORMID": "000CB9",
+      "EDID": "sShowActiveNotes",
+      "DATA": "Anotações de Missões"
+    },
+    {
+      "FORMID": "000CB8",
+      "EDID": "sShape",
+      "DATA": "Forma"
+    },
+    {
+      "FORMID": "000CB7",
+      "EDID": "sShadowFade",
+      "DATA": "Rend. de Sombras"
+    },
+    {
+      "FORMID": "000CB6",
+      "EDID": "sSexMalePronoun",
+      "DATA": "ele"
+    },
+    {
+      "FORMID": "000CB5",
+      "EDID": "sSexMalePossessive",
+      "DATA": "dele"
+    },
+    {
+      "FORMID": "000CB4",
+      "EDID": "sSexMale",
+      "DATA": "Homem"
+    },
+    {
+      "FORMID": "000CB3",
+      "EDID": "sSexFemalePronoun",
+      "DATA": "ela"
+    },
+    {
+      "FORMID": "000CB2",
+      "EDID": "sSexFemalePossessive",
+      "DATA": "dela"
+    },
+    {
+      "FORMID": "000CB1",
+      "EDID": "sSexFemale",
+      "DATA": "Mulher"
+    },
+    {
+      "FORMID": "000CB0",
+      "EDID": "sSettings",
+      "DATA": "Opções"
+    },
+    {
+      "FORMID": "000CAF",
+      "EDID": "sSetMarkerQuestion",
+      "DATA": "Você quer marcar essa localização?"
+    },
+    {
+      "FORMID": "000CAE",
+      "EDID": "sServeTimeQuestion",
+      "DATA": "Você quer servir seu tempo?"
+    },
+    {
+      "FORMID": "000CAD",
+      "EDID": "sSell",
+      "DATA": "VENDER"
+    },
+    {
+      "FORMID": "000CAC",
+      "EDID": "sSelfRange",
+      "DATA": "Perto"
+    },
+    {
+      "FORMID": "000CAB",
+      "EDID": "sSelectItemToRepair",
+      "DATA": "SELECIONE O ITEM PARA REPARAR COM"
+    },
+    {
+      "FORMID": "000CAA",
+      "EDID": "sSelectCardText",
+      "DATA": "Selecionar Carta"
+    },
+    {
+      "FORMID": "000CA9",
+      "EDID": "sSelect",
+      "DATA": "Selecionar"
+    },
+    {
+      "FORMID": "000CA8",
+      "EDID": "sSecondDozenText",
+      "DATA": "2ª Dúzia"
+    },
+    {
+      "FORMID": "000CA7",
+      "EDID": "sSeasonWinter",
+      "DATA": "Inverno"
+    },
+    {
+      "FORMID": "000CA6",
+      "EDID": "sSeasonSummer",
+      "DATA": "Verão"
+    },
+    {
+      "FORMID": "000CA5",
+      "EDID": "sSeasonSpring",
+      "DATA": "Primavera"
+    },
+    {
+      "FORMID": "000CA4",
+      "EDID": "sSeasonFall",
+      "DATA": "Outono"
+    },
+    {
+      "FORMID": "000CA3",
+      "EDID": "sSearch",
+      "DATA": "Procurar"
+    },
+    {
+      "FORMID": "000CA2",
+      "EDID": "sScrollEquipped",
+      "DATA": "equipado."
+    },
+    {
+      "FORMID": "000CA1",
+      "EDID": "sSaveSuccessful",
+      "DATA": "Salvamento concluído com sucesso."
+    },
+    {
+      "FORMID": "000CA0",
+      "EDID": "sSavesRemaining",
+      "DATA": "jogos salvos usados."
+    },
+    {
+      "FORMID": "000C9F",
+      "EDID": "sSaveOverSaveGame",
+      "DATA": "Realmente quer sobrescrever este jogo salvo?"
+    },
+    {
+      "FORMID": "000C9E",
+      "EDID": "sSaveOnWait",
+      "DATA": "Salvar ao Esperar"
+    },
+    {
+      "FORMID": "000C9D",
+      "EDID": "sSaveOnTravel",
+      "DATA": "Salvar ao Viajar"
+    },
+    {
+      "FORMID": "000C9C",
+      "EDID": "sSaveOnRest",
+      "DATA": "Salvar ao Descansar"
+    },
+    {
+      "FORMID": "000C9B",
+      "EDID": "sSaveNotAvailable",
+      "DATA": "Nenhum jogo salvo disponível encontrado."
+    },
+    {
+      "FORMID": "000C9A",
+      "EDID": "sSaveGameXboxContentIsMissing",
+      "DATA": "AVISO! O conteúdo que estava presente neste salvamento não está mais disponível. É recomendável verificar os arquivos antes de continuar. Deseja carregar o jogo salvo mesmo assim?"
+    },
+    {
+      "FORMID": "000C99",
+      "EDID": "sSaveGameOutOfDiskSpace",
+      "DATA": "O dispositivo de armazenamento selecionado não possui espaço livre suficiente. Por favor, escolha outro dispositivo de armazenamento ou apague alguns de seus jogos salvos."
+    },
+    {
+      "FORMID": "000C98",
+      "EDID": "sSaveGameNoMasterFilesFound",
+      "DATA": "Nenhum dos arquivos principais usados neste jogo salvo foi carregado. Retornando ao jogo."
+    },
+    {
+      "FORMID": "000C97",
+      "EDID": "sSaveGameNoLongerAvailable",
+      "DATA": "O jogo salvo não está mais disponível. Voltando ao jogo."
+    },
+    {
+      "FORMID": "000C96",
+      "EDID": "sSaveGameIsCorrupt",
+      "DATA": "O jogo salvo está corrompido. Retornando ao jogo."
+    },
+    {
+      "FORMID": "000C95",
+      "EDID": "sSaveGameDeviceError",
+      "DATA": "Houve um erro ao acessar o dispositivo. Por favor, tente novamente."
+    },
+    {
+      "FORMID": "000C94",
+      "EDID": "sSaveGameCorruptMenuMessage",
+      "DATA": "O jogo salvo está corrompido e não pode ser carregado."
+    },
+    {
+      "FORMID": "000C93",
+      "EDID": "sSaveGameCorrupt",
+      "DATA": "Corrompido"
+    },
+    {
+      "FORMID": "000C92",
+      "EDID": "sSaveGameContentIsMissing",
+      "DATA": "AVISO! O conteúdo deste salvamento não pôde ser encontrado. Recomenda-se conferir os arquivos antes de prosseguir. Deseja carregar o jogo mesmo assim?"
+    },
+    {
+      "FORMID": "000C91",
+      "EDID": "sSaveGame",
+      "DATA": "Jogo Salvo"
+    },
+    {
+      "FORMID": "000C90",
+      "EDID": "sSaveFailed",
+      "DATA": "Não foi possível salvar o jogo."
+    },
+    {
+      "FORMID": "000C8F",
+      "EDID": "sSave",
+      "DATA": "Salvar"
+    },
+    {
+      "FORMID": "000C8E",
+      "EDID": "sRumble",
+      "DATA": "Vibração"
+    },
+    {
+      "FORMID": "000C8D",
+      "EDID": "sRSMToneOption26",
+      "DATA": "Tonalidade Amarelada"
+    },
+    {
+      "FORMID": "000C8C",
+      "EDID": "sRSMToneOption25",
+      "DATA": "Tonalidade Azulada"
+    },
+    {
+      "FORMID": "000C8B",
+      "EDID": "sRSMToneOption24",
+      "DATA": "Sombra"
+    },
+    {
+      "FORMID": "000C8A",
+      "EDID": "sRSMToneOption23",
+      "DATA": "Externo da Narina Pequeno\/Grande"
+    },
+    {
+      "FORMID": "000C89",
+      "EDID": "sRSMToneOption22",
+      "DATA": "Linhas nasolabiais"
+    },
+    {
+      "FORMID": "000C88",
+      "EDID": "sRSMToneOption21",
+      "DATA": "Azul-escuro/vermelho-claro"
+    },
+    {
+      "FORMID": "000C87",
+      "EDID": "sRSMToneOption20",
+      "DATA": "Vermelho-escuro/azul-claro"
+    },
+    {
+      "FORMID": "000C86",
+      "EDID": "sRSMToneOption19",
+      "DATA": "Brancos escuros/claros"
+    },
+    {
+      "FORMID": "000C85",
+      "EDID": "sRSMToneOption18",
+      "DATA": "Marrom-escuro/azul-claro"
+    },
+    {
+      "FORMID": "000C84",
+      "EDID": "sRSMToneOption17",
+      "DATA": "Sombra Clara\/Escura"
+    },
+    {
+      "FORMID": "000C83",
+      "EDID": "sRSMToneOption16",
+      "DATA": "Linha do olho clara/escura"
+    },
+    {
+      "FORMID": "000C82",
+      "EDID": "sRSMToneOption15",
+      "DATA": "Pálido\/Vermelho"
+    },
+    {
+      "FORMID": "000C81",
+      "EDID": "sRSMToneOption14",
+      "DATA": "Escuro\/Claro (Maior)"
+    },
+    {
+      "FORMID": "000C80",
+      "EDID": "sRSMToneOption13",
+      "DATA": "Claro\/Escuro (Fora)"
+    },
+    {
+      "FORMID": "000C7F",
+      "EDID": "sRSMToneOption12",
+      "DATA": "Claro\/Escuro (Pouco)"
+    },
+    {
+      "FORMID": "000C7E",
+      "EDID": "sRSMToneOption11",
+      "DATA": "Muito fino/largo"
+    },
+    {
+      "FORMID": "000C7D",
+      "EDID": "sRSMToneOption10",
+      "DATA": "Largo/fino"
+    },
+    {
+      "FORMID": "000C7C",
+      "EDID": "sRSMToneOption09",
+      "DATA": "Escuro/claro"
+    },
+    {
+      "FORMID": "000C7B",
+      "EDID": "sRSMToneOption08",
+      "DATA": "Corado/Iluminado"
+    },
+    {
+      "FORMID": "000C7A",
+      "EDID": "sRSMToneOption07",
+      "DATA": "Rubor Claro\/Vermelho"
+    },
+    {
+      "FORMID": "000C79",
+      "EDID": "sRSMToneOption06",
+      "DATA": "Bigode"
+    },
+    {
+      "FORMID": "000C78",
+      "EDID": "sRSMToneOption05",
+      "DATA": "Cavanhaque Claro\/Escuro"
+    },
+    {
+      "FORMID": "000C77",
+      "EDID": "sRSMToneOption04",
+      "DATA": "Órbita Clara\/Escura"
+    },
+    {
+      "FORMID": "000C76",
+      "EDID": "sRSMToneOption03",
+      "DATA": "Bochechas claras/escuras"
+    },
+    {
+      "FORMID": "000C75",
+      "EDID": "sRSMToneOption02",
+      "DATA": "Claro/escuro"
+    },
+    {
+      "FORMID": "000C74",
+      "EDID": "sRSMToneOption01",
+      "DATA": "Lavado"
+    },
+    {
+      "FORMID": "000C73",
+      "EDID": "sRSMShapeOption55",
+      "DATA": "Inclinação cima\/baixo"
+    },
+    {
+      "FORMID": "000C72",
+      "EDID": "sRSMShapeOption54",
+      "DATA": "Curto\/Longo"
+    },
+    {
+      "FORMID": "000C71",
+      "EDID": "sRSMShapeOption53",
+      "DATA": "Tamanho Ponta do Nariz"
+    },
+    {
+      "FORMID": "000C70",
+      "EDID": "sRSMShapeOption51",
+      "DATA": "Profundidade Ponta do Nariz"
+    },
+    {
+      "FORMID": "000C6F",
+      "EDID": "sRSMShapeOption50",
+      "DATA": "Tamanho Ponta do Nariz"
+    },
+    {
+      "FORMID": "000C6E",
+      "EDID": "sRSMShapeOption48",
+      "DATA": "Narinas largas\/finas"
+    },
+    {
+      "FORMID": "000C6D",
+      "EDID": "sRSMShapeOption47",
+      "DATA": "Tamanho da Narina"
+    },
+    {
+      "FORMID": "000C6C",
+      "EDID": "sRSMShapeOption46",
+      "DATA": "Inclinação da Narina"
+    },
+    {
+      "FORMID": "000C6B",
+      "EDID": "sRSMShapeOption45",
+      "DATA": "Achatado\/Pontudo"
+    },
+    {
+      "FORMID": "000C6A",
+      "EDID": "sRSMShapeOption43",
+      "DATA": "Comprimento da Ponte"
+    },
+    {
+      "FORMID": "000C69",
+      "EDID": "sRSMShapeOption42",
+      "DATA": "Profundidade da Ponte"
+    },
+    {
+      "FORMID": "000C68",
+      "EDID": "sRSMShapeOption41",
+      "DATA": "Distância Boca-Queixo"
+    },
+    {
+      "FORMID": "000C67",
+      "EDID": "sRSMShapeOption40",
+      "DATA": "Arcada inferior\/Arcada superior"
+    },
+    {
+      "FORMID": "000C66",
+      "EDID": "sRSMShapeOption39",
+      "DATA": "Inclinação Cima\/Baixo"
+    },
+    {
+      "FORMID": "000C65",
+      "EDID": "sRSMShapeOption38",
+      "DATA": "Convexo\/Côncavo"
+    },
+    {
+      "FORMID": "000C64",
+      "EDID": "sRSMShapeOption37",
+      "DATA": "Enrugado\/Retraído"
+    },
+    {
+      "FORMID": "000C63",
+      "EDID": "sRSMShapeOption36",
+      "DATA": "Grande\/Pequeno"
+    },
+    {
+      "FORMID": "000C62",
+      "EDID": "sRSMShapeOption35",
+      "DATA": "Desinflado\/Inflado"
+    },
+    {
+      "FORMID": "000C61",
+      "EDID": "sRSMShapeOption33",
+      "DATA": "Feliz\/Triste"
+    },
+    {
+      "FORMID": "000C60",
+      "EDID": "sRSMShapeOption32",
+      "DATA": "Delimitado\/Franzido"
+    },
+    {
+      "FORMID": "000C5F",
+      "EDID": "sRSMShapeOption30",
+      "DATA": "Inclinação alta\/baixa"
+    },
+    {
+      "FORMID": "000C5E",
+      "EDID": "sRSMShapeOption27",
+      "DATA": "Inclinar Frente\/Trás"
+    },
+    {
+      "FORMID": "000C5D",
+      "EDID": "sRSMShapeOption22",
+      "DATA": "Pesado\/Leve"
+    },
+    {
+      "FORMID": "000C5C",
+      "EDID": "sRSMShapeOption21",
+      "DATA": "Testa-Nariz"
+    },
+    {
+      "FORMID": "000C5B",
+      "EDID": "sRSMShapeOption20",
+      "DATA": "Testa-Nariz-Queixo"
+    },
+    {
+      "FORMID": "000C5A",
+      "EDID": "sRSMShapeOption19",
+      "DATA": "Junto\/Separado"
+    },
+    {
+      "FORMID": "000C59",
+      "EDID": "sRSMShapeOption18",
+      "DATA": "Inclinar dentro\/fora"
+    },
+    {
+      "FORMID": "000C58",
+      "EDID": "sRSMShapeOption16",
+      "DATA": "Baixo\/Cima"
+    },
+    {
+      "FORMID": "000C57",
+      "EDID": "sRSMShapeOption15",
+      "DATA": "Largo\/Fino"
+    },
+    {
+      "FORMID": "000C56",
+      "EDID": "sRSMShapeOption14",
+      "DATA": "Comprido\/Curto"
+    },
+    {
+      "FORMID": "000C55",
+      "EDID": "sRSMShapeOption13",
+      "DATA": "Pequeno\/Grande"
+    },
+    {
+      "FORMID": "000C54",
+      "EDID": "sRSMShapeOption12",
+      "DATA": "Superficial\/Profundo"
+    },
+    {
+      "FORMID": "000C53",
+      "EDID": "sRSMShapeOption11",
+      "DATA": "Retraído\/Saliente"
+    },
+    {
+      "FORMID": "000C52",
+      "EDID": "sRSMShapeOption10",
+      "DATA": "Amplo/Recuado"
+    },
+    {
+      "FORMID": "000C51",
+      "EDID": "sRSMShapeOption09",
+      "DATA": "Adiante\/Atrás"
+    },
+    {
+      "FORMID": "000C50",
+      "EDID": "sRSMShapeOption08",
+      "DATA": "Redonda\/Magra"
+    },
+    {
+      "FORMID": "000C4F",
+      "EDID": "sRSMShapeOption07",
+      "DATA": "Côncavo\/Convexo"
+    },
+    {
+      "FORMID": "000C4E",
+      "EDID": "sRSMShapeOption06",
+      "DATA": "Fina\/Larga"
+    },
+    {
+      "FORMID": "000C4D",
+      "EDID": "sRSMShapeOption05",
+      "DATA": "Retraído\/Pronunciado"
+    },
+    {
+      "FORMID": "000C4C",
+      "EDID": "sRSMShapeOption04",
+      "DATA": "Baixo\/Alto"
+    },
+    {
+      "FORMID": "000C4B",
+      "EDID": "sRSMShapeOption03",
+      "DATA": "Cima\/Baixo (fora)"
+    },
+    {
+      "FORMID": "000C4A",
+      "EDID": "sRSMShapeOption02",
+      "DATA": "Cima\/Baixo (dentro)"
+    },
+    {
+      "FORMID": "000C49",
+      "EDID": "sRSMShapeOption01",
+      "DATA": "Alto\/Baixo"
+    },
+    {
+      "FORMID": "000C48",
+      "EDID": "sRSMSex",
+      "DATA": "Sexo"
+    },
+    {
+      "FORMID": "000C47",
+      "EDID": "sRSMRedAbbrev",
+      "DATA": "R:"
+    },
+    {
+      "FORMID": "000C46",
+      "EDID": "sRSMRandomize",
+      "DATA": "Aleatorizar"
+    },
+    {
+      "FORMID": "000C45",
+      "EDID": "sRSMRace",
+      "DATA": "Raça"
+    },
+    {
+      "FORMID": "000C44",
+      "EDID": "sRSMPreset",
+      "DATA": "Pré-definido:"
+    },
+    {
+      "FORMID": "000C43",
+      "EDID": "sRSMMisc",
+      "DATA": "Diversos"
+    },
+    {
+      "FORMID": "000C42",
+      "EDID": "sRSMHairStyle",
+      "DATA": "Tipo de Cabelo"
+    },
+    {
+      "FORMID": "000C41",
+      "EDID": "sRSMHairColor",
+      "DATA": "Cor do Cabelo"
+    },
+    {
+      "FORMID": "000C40",
+      "EDID": "sRSMHair",
+      "DATA": "Cabelo"
+    },
+    {
+      "FORMID": "000C3F",
+      "EDID": "sRSMGreenAbbrev",
+      "DATA": "G:"
+    },
+    {
+      "FORMID": "000C3E",
+      "EDID": "sRSMGeneral",
+      "DATA": "Geral"
+    },
+    {
+      "FORMID": "000C3D",
+      "EDID": "sRSMFacialHair",
+      "DATA": "Pelos Faciais"
+    },
+    {
+      "FORMID": "000C3C",
+      "EDID": "sRSMFace",
+      "DATA": "Face"
+    },
+    {
+      "FORMID": "000C3B",
+      "EDID": "sRSMEyeSockets",
+      "DATA": "Órbitas Oculares"
+    },
+    {
+      "FORMID": "000C3A",
+      "EDID": "sRSMEyelids",
+      "DATA": "Pálpebras"
+    },
+    {
+      "FORMID": "000C39",
+      "EDID": "sRSMEyeColor",
+      "DATA": "Cor dos Olhos"
+    },
+    {
+      "FORMID": "000C38",
+      "EDID": "sRSMCustomize",
+      "DATA": "Personalizar"
+    },
+    {
+      "FORMID": "000C37",
+      "EDID": "sRSMCustom",
+      "DATA": "Personalizado"
+    },
+    {
+      "FORMID": "000C36",
+      "EDID": "sRSMConfirmRandomize",
+      "DATA": "Deseja aleatorizar o seu rosto?"
+    },
+    {
+      "FORMID": "000C35",
+      "EDID": "sRSMConfirmDone",
+      "DATA": "Realmente quer que este seja seu"
+    },
+    {
+      "FORMID": "000C34",
+      "EDID": "sRSMCharacter",
+      "DATA": "personagem"
+    },
+    {
+      "FORMID": "000C33",
+      "EDID": "sRSMBlueAbbrev",
+      "DATA": "B:"
+    },
+    {
+      "FORMID": "000C32",
+      "EDID": "sRSMAge",
+      "DATA": "Idade"
+    },
+    {
+      "FORMID": "000C31",
+      "EDID": "sRouletteAntiCheatText",
+      "DATA": "O crupiê está levando um minuto para checar a inclinação da roda como medida antifraude."
+    },
+    {
+      "FORMID": "000C30",
+      "EDID": "sRightLegDamagedMessage",
+      "DATA": "Sua perna direita está agora aleijada."
+    },
+    {
+      "FORMID": "000C2F",
+      "EDID": "sRightArmDamagedMessage",
+      "DATA": "Seu braço direito está agora aleijado."
+    },
+    {
+      "FORMID": "000C2E",
+      "EDID": "sRewardXP",
+      "DATA": "Pontos de Experiência Ganhos"
+    },
+    {
+      "FORMID": "000C2D",
+      "EDID": "sReturn",
+      "DATA": "Retornar"
+    },
+    {
+      "FORMID": "000C2C",
+      "EDID": "sRetryText",
+      "DATA": "&Tentar Novamente"
+    },
+    {
+      "FORMID": "000C2B",
+      "EDID": "sRestartToUseProfileContent",
+      "DATA": "Para usar o conteúdo baixado associado a este perfil, é necessário reiniciar o jogo."
+    },
+    {
+      "FORMID": "000C2A",
+      "EDID": "sRestartToUseNewContent",
+      "DATA": "Um novo conteúdo foi adicionado. É necessário reiniciar para utilizá-lo. O progresso não salvo será perdido."
+    },
+    {
+      "FORMID": "000C29",
+      "EDID": "sRestartSignedOut",
+      "DATA": "Você desconectou de seu perfil e agora será redirecionado à tela de entrada."
+    },
+    {
+      "FORMID": "000C28",
+      "EDID": "sResolution",
+      "DATA": "Resolução"
+    },
+    {
+      "FORMID": "000C27",
+      "EDID": "sResetToDefaults",
+      "DATA": "Deseja reajustar seu mapeamento de controles para o padrão do jogo?"
+    },
+    {
+      "FORMID": "000C26",
+      "EDID": "sReset",
+      "DATA": "Redefinir"
+    },
+    {
+      "FORMID": "000C25",
+      "EDID": "sRequirementsText",
+      "DATA": "Req"
+    },
+    {
+      "FORMID": "000C24",
+      "EDID": "sReputationButton",
+      "DATA": "Reputação"
+    },
+    {
+      "FORMID": "000C23",
+      "EDID": "sRepTitlePosTwoNegTwoDesc",
+      "DATA": "O que motiva suas ações ninguém sabe, mas você conseguiu deixar uma forte impressão."
+    },
+    {
+      "FORMID": "000C22",
+      "EDID": "sRepTitlePosTwoNegTwo",
+      "DATA": "Imprevisível"
+    },
+    {
+      "FORMID": "000C21",
+      "EDID": "sRepTitlePosTwoNegThree",
+      "DATA": "Diabo Bondoso"
+    },
+    {
+      "FORMID": "000C20",
+      "EDID": "sRepTitlePosTwoNegOneDesc",
+      "DATA": "Apesar de ocasionalmente causar confusão, o povo vê que você tem um bom coração."
+    },
+    {
+      "FORMID": "000C1F",
+      "EDID": "sRepTitlePosTwoNegOne",
+      "DATA": "Encrenqueiro Sorridente"
+    },
+    {
+      "FORMID": "000C1E",
+      "EDID": "sRepTitlePosTwoNegNoneDesc",
+      "DATA": "Sua fama de prestativo se espalha, e as pessoas passaram a respeitar você."
+    },
+    {
+      "FORMID": "000C1D",
+      "EDID": "sRepTitlePosTwoNegNone",
+      "DATA": "Respeitado"
+    },
+    {
+      "FORMID": "000C1C",
+      "EDID": "sRepTitlePosThreeNegTwoDesc",
+      "DATA": "O povo ainda acredita em seu lado heroico, mas suas ações sujas não passam despercebidas."
+    },
+    {
+      "FORMID": "000C1B",
+      "EDID": "sRepTitlePosThreeNegTwo",
+      "DATA": "Anti-herói"
+    },
+    {
+      "FORMID": "000C1A",
+      "EDID": "sRepTitlePosThreeNegThreeDesc",
+      "DATA": "Sua natureza indomável e imprevisível deixa todos confusos e mantendo distância."
+    },
+    {
+      "FORMID": "000C19",
+      "EDID": "sRepTitlePosThreeNegThree",
+      "DATA": "Rebelde"
+    },
+    {
+      "FORMID": "000C18",
+      "EDID": "sRepTitlePosThreeNegOneDesc",
+      "DATA": "Sua bondade e lealdade à comunidade conseguem ofuscar seu lado sombrio."
+    },
+    {
+      "FORMID": "000C17",
+      "EDID": "sRepTitlePosThreeNegOne",
+      "DATA": "Malandro"
+    },
+    {
+      "FORMID": "000C16",
+      "EDID": "sRepTitlePosThreeNegNoneDesc",
+      "DATA": "Sua bondade e ajuda constante fizeram com que você fosse amado pela comunidade."
+    },
+    {
+      "FORMID": "000C15",
+      "EDID": "sRepTitlePosThreeNegNone",
+      "DATA": "Adorado"
+    },
+    {
+      "FORMID": "000C14",
+      "EDID": "sRepTitlePosOneNegTwoDesc",
+      "DATA": "Suas boas ações não foram suficientes para mudar a opinião da comunidade, que ainda vê você como um idiota."
+    },
+    {
+      "FORMID": "000C13",
+      "EDID": "sRepTitlePosOneNegTwo",
+      "DATA": "Idiota Sarcástico"
+    },
+    {
+      "FORMID": "000C12",
+      "EDID": "sRepTitlePosOneNegThreeDesc",
+      "DATA": "Apesar de sua fama de encrenqueiro, você é conhecido por mostrar um lado caridoso de vez em quando."
+    },
+    {
+      "FORMID": "000C11",
+      "EDID": "sRepTitlePosOneNegThree",
+      "DATA": "Encrenqueiro"
+    },
+    {
+      "FORMID": "000C10",
+      "EDID": "sRepTitlePosOneNegOneDesc",
+      "DATA": "Um pouco de bondade, um pouco de maldade, as pessoas ainda não sabem como lhe definir."
+    },
+    {
+      "FORMID": "000C0F",
+      "EDID": "sRepTitlePosOneNegOne",
+      "DATA": "Neutro"
+    },
+    {
+      "FORMID": "000C0E",
+      "EDID": "sRepTitlePosOneNegNoneDesc",
+      "DATA": "As pessoas respeitam sua natureza solidária."
+    },
+    {
+      "FORMID": "000C0D",
+      "EDID": "sRepTitlePosOneNegNone",
+      "DATA": "Aceito"
+    },
+    {
+      "FORMID": "000C0C",
+      "EDID": "sRepTitlePosNoneNegTwoDesc",
+      "DATA": "Seus atos monstruosos não passaram despercebidos, e a comunidade agora passou a te odiar."
+    },
+    {
+      "FORMID": "000C0B",
+      "EDID": "sRepTitlePosNoneNegTwo",
+      "DATA": "Odiado"
+    },
+    {
+      "FORMID": "000C0A",
+      "EDID": "sRepTitlePosNoneNegThreeDesc",
+      "DATA": "Sua natureza sombria não passou despercebida, e a maioria te odeia profundamente."
+    },
+    {
+      "FORMID": "000C09",
+      "EDID": "sRepTitlePosNoneNegThree",
+      "DATA": "Difamado"
+    },
+    {
+      "FORMID": "000C08",
+      "EDID": "sRepTitlePosNoneNegOneDesc",
+      "DATA": "Sua reputação negativa fez com que as pessoas passassem a te evitar."
+    },
+    {
+      "FORMID": "000C07",
+      "EDID": "sRepTitlePosNoneNegOne",
+      "DATA": "Evitado"
+    },
+    {
+      "FORMID": "000C06",
+      "EDID": "sRepTitlePosNoneNegNoneDesc",
+      "DATA": "As pessoas não sabem o suficiente de você para formar uma opinião."
+    },
+    {
+      "FORMID": "000C05",
+      "EDID": "sRepTitlePosNoneNegNone",
+      "DATA": "Neutro"
+    },
+    {
+      "FORMID": "000C04",
+      "EDID": "sRepChangePosSound",
+      "DATA": "UIRepGood"
+    },
+    {
+      "FORMID": "000C03",
+      "EDID": "sRepChangeNegSound",
+      "DATA": "UIRepBad"
+    },
+    {
+      "FORMID": "000C02",
+      "EDID": "sRepairSkillTooLow",
+      "DATA": "%d%s HABILIDADE EM REPARAR NECESSÁRIA"
+    },
+    {
+      "FORMID": "000C01",
+      "EDID": "sRepairSkill",
+      "DATA": "Habilidade de Reparar"
+    },
+    {
+      "FORMID": "000C00",
+      "EDID": "sRepairServicesTitle",
+      "DATA": "Serviços de Reparo"
+    },
+    {
+      "FORMID": "000BFF",
+      "EDID": "sRepairItem",
+      "DATA": "Reparar"
+    },
+    {
+      "FORMID": "000BFE",
+      "EDID": "sRepairCost",
+      "DATA": "Custo: %d tampas"
+    },
+    {
+      "FORMID": "000BFD",
+      "EDID": "sRepairAllItems",
+      "DATA": "Reparar tudo (%d)"
+    },
+    {
+      "FORMID": "000BFC",
+      "EDID": "sRepair",
+      "DATA": "REPARAR"
+    },
+    {
+      "FORMID": "000BFB",
+      "EDID": "sRemoveText",
+      "DATA": "Remover"
+    },
+    {
+      "FORMID": "000BFA",
+      "EDID": "sRemoveMarker",
+      "DATA": "Remover"
+    },
+    {
+      "FORMID": "000BF9",
+      "EDID": "sRemoveItemfromInventory",
+      "DATA": "removido"
+    },
+    {
+      "FORMID": "000BF8",
+      "EDID": "sRemoveBetText",
+      "DATA": "Retirar Aposta"
+    },
+    {
+      "FORMID": "000BF7",
+      "EDID": "sRemoteActivation",
+      "DATA": "Este objeto é ativado de outro lugar."
+    },
+    {
+      "FORMID": "000BF6",
+      "EDID": "sRemaining",
+      "DATA": "restando"
+    },
+    {
+      "FORMID": "000BF5",
+      "EDID": "sRedText",
+      "DATA": "Vermelho"
+    },
+    {
+      "FORMID": "000BF4",
+      "EDID": "sRedeemCode",
+      "DATA": "Resgatar Código"
+    },
+    {
+      "FORMID": "000BF3",
+      "EDID": "sRed",
+      "DATA": "Vermelho"
+    },
+    {
+      "FORMID": "000BF2",
+      "EDID": "sRecipes",
+      "DATA": "RECEITAS"
+    },
+    {
+      "FORMID": "000BF1",
+      "EDID": "sRanksText",
+      "DATA": "Classificações"
+    },
+    {
+      "FORMID": "000BF0",
+      "EDID": "sRangeText",
+      "DATA": "Alcance"
+    },
+    {
+      "FORMID": "000BEF",
+      "EDID": "sRandomDoorTeleportFailureMessage",
+      "DATA": "Esta porta não leva a lugar algum."
+    },
+    {
+      "FORMID": "000BEE",
+      "EDID": "sRandom",
+      "DATA": "Aleatório"
+    },
+    {
+      "FORMID": "000BED",
+      "EDID": "sRaiseText",
+      "DATA": "Aumentar"
+    },
+    {
+      "FORMID": "000BEB",
+      "EDID": "sRadsPerSecond",
+      "DATA": "RAD\/SEG"
+    },
+    {
+      "FORMID": "000BEA",
+      "EDID": "sRadioVolume",
+      "DATA": "Rádio"
+    },
+    {
+      "FORMID": "000BE9",
+      "EDID": "sRadioStationDiscovered",
+      "DATA": "Sinal de %s encontrado."
+    },
+    {
+      "FORMID": "000BE8",
+      "EDID": "sRadioSignalLost",
+      "DATA": "Sinal de %s perdido."
+    },
+    {
+      "FORMID": "000BE7",
+      "EDID": "sRadiationSick",
+      "DATA": "Você agora está com doença por radiação."
+    },
+    {
+      "FORMID": "000BE6",
+      "EDID": "sRadiationNotSick",
+      "DATA": "Você não está mais doente por radiação"
+    },
+    {
+      "FORMID": "000BE5",
+      "EDID": "sRadiationIncrease",
+      "DATA": "Seu nível de radiação aumentou"
+    },
+    {
+      "FORMID": "000BE4",
+      "EDID": "sRadiationDecrease",
+      "DATA": "Seu nível de radiação diminuiu"
+    },
+    {
+      "FORMID": "000BE3",
+      "EDID": "sRaceDescription",
+      "DATA": "Descrição da Raça"
+    },
+    {
+      "FORMID": "000BE2",
+      "EDID": "sRace",
+      "DATA": "Raça"
+    },
+    {
+      "FORMID": "000BE1",
+      "EDID": "sQuitCaravanText",
+      "DATA": "Se sair agora, irá perder todo o dinheiro apostado. Realmente quer deixar este jogo?"
+    },
+    {
+      "FORMID": "000BE0",
+      "EDID": "sQuit",
+      "DATA": "Sair"
+    },
+    {
+      "FORMID": "000BDF",
+      "EDID": "sQuickSaving",
+      "DATA": "Salvamento rápido..."
+    },
+    {
+      "FORMID": "000BDE",
+      "EDID": "sQuicksaveAbbrev",
+      "DATA": "RÁPIDO"
+    },
+    {
+      "FORMID": "000BDD",
+      "EDID": "sQuickLoading",
+      "DATA": "Carregamento rápido..."
+    },
+    {
+      "FORMID": "000BDC",
+      "EDID": "sQuestUpdatedText",
+      "DATA": "Missão atualizada"
+    },
+    {
+      "FORMID": "000BDB",
+      "EDID": "sQuestsTabText",
+      "DATA": "Missões"
+    },
+    {
+      "FORMID": "000BDA",
+      "EDID": "sQuestFailed",
+      "DATA": "Missão fracassada"
+    },
+    {
+      "FORMID": "000BD9",
+      "EDID": "sQuestCompletedText",
+      "DATA": "Missão concluída"
+    },
+    {
+      "FORMID": "000BD8",
+      "EDID": "sQuestAddedText",
+      "DATA": "Uma nova missão foi adicionada."
+    },
+    {
+      "FORMID": "000BD7",
+      "EDID": "sQuantity",
+      "DATA": "Quantidade"
+    },
+    {
+      "FORMID": "000BD6",
+      "EDID": "sPS3UnboundBtn",
+      "DATA": "<NÃO ASSOCIADO>"
+    },
+    {
+      "FORMID": "000BD5",
+      "EDID": "sPS3StartBtn",
+      "DATA": "Iniciar"
+    },
+    {
+      "FORMID": "000BD4",
+      "EDID": "sPS3SelectBtn",
+      "DATA": "Selecionar"
+    },
+    {
+      "FORMID": "000BD3",
+      "EDID": "sPS3RThumbY",
+      "DATA": "o Analógico Direito para Cima \/ Baixo"
+    },
+    {
+      "FORMID": "000BD2",
+      "EDID": "sPS3RThumbX",
+      "DATA": "o Analógico Direito para Esquerda \/ Direita"
+    },
+    {
+      "FORMID": "000BD1",
+      "EDID": "sPS3RThumbUp",
+      "DATA": "o Analógico Direito pra Cima"
+    },
+    {
+      "FORMID": "000BD0",
+      "EDID": "sPS3RThumbRight",
+      "DATA": "o Analógico Direito para a Direita"
+    },
+    {
+      "FORMID": "000BCF",
+      "EDID": "sPS3RThumbLeft",
+      "DATA": "o Analógico Direito para a Esquerda"
+    },
+    {
+      "FORMID": "000BCE",
+      "EDID": "sPS3RThumbDown",
+      "DATA": "o Analógico Direito para Baixo"
+    },
+    {
+      "FORMID": "000BCD",
+      "EDID": "sPS3LThumbY",
+      "DATA": "o Analógico Esquerdo para Cima \/ Baixo"
+    },
+    {
+      "FORMID": "000BCC",
+      "EDID": "sPS3LThumbX",
+      "DATA": "o Analógico Esquerdo para Esquerda \/ Direita"
+    },
+    {
+      "FORMID": "000BCB",
+      "EDID": "sPS3LThumbUp",
+      "DATA": "o Analógico Esquerdo para Cima"
+    },
+    {
+      "FORMID": "000BCA",
+      "EDID": "sPS3LThumbRight",
+      "DATA": "o Analógico Esquerdo para a Direita"
+    },
+    {
+      "FORMID": "000BC9",
+      "EDID": "sPS3LThumbLeft",
+      "DATA": "o Analógico Esquerdo para Esquerda"
+    },
+    {
+      "FORMID": "000BC8",
+      "EDID": "sPS3LThumbDown",
+      "DATA": "o Analógico Esquerdo para Baixo"
+    },
+    {
+      "FORMID": "000BC7",
+      "EDID": "sPS3DPad",
+      "DATA": "Botão Direcional"
+    },
+    {
+      "FORMID": "000BC6",
+      "EDID": "sPrevious",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "000BC5",
+      "EDID": "sPrevChallenge",
+      "DATA": "Desafio Anterior"
+    },
+    {
+      "FORMID": "000BC4",
+      "EDID": "sPressStart",
+      "DATA": "Pressione INICIAR"
+    },
+    {
+      "FORMID": "000BC3",
+      "EDID": "sPressControl",
+      "DATA": "Pressione o novo controle para esta ação"
+    },
+    {
+      "FORMID": "000BC2",
+      "EDID": "sPoisonConfirmMessage",
+      "DATA": "Você quer envenenar"
+    },
+    {
+      "FORMID": "000BC1",
+      "EDID": "sPoisonBowConfirmMessage",
+      "DATA": "Você gostaria de envenenar seu próximo tiro com"
+    },
+    {
+      "FORMID": "000BC0",
+      "EDID": "sPoisonAlreadyPoisonedMessage",
+      "DATA": "A arma atual já está envenenada."
+    },
+    {
+      "FORMID": "000BBF",
+      "EDID": "sPMTime",
+      "DATA": "PM"
+    },
+    {
+      "FORMID": "000BBE",
+      "EDID": "sPluralPlain",
+      "DATA": "s"
+    },
+    {
+      "FORMID": "000BBD",
+      "EDID": "sPlural",
+      "DATA": "(s)"
+    },
+    {
+      "FORMID": "000BBC",
+      "EDID": "sPleaseStandBy",
+      "DATA": "POR FAVOR AGUARDE"
+    },
+    {
+      "FORMID": "000BBB",
+      "EDID": "sPlayTime",
+      "DATA": "Tempo Jogado"
+    },
+    {
+      "FORMID": "000BBA",
+      "EDID": "sPlayerOutOfMoneyText",
+      "DATA": "Você não tem dinheiro para jogar Caravana."
+    },
+    {
+      "FORMID": "000BB9",
+      "EDID": "sPlayer",
+      "DATA": "Jogador"
+    },
+    {
+      "FORMID": "000BB8",
+      "EDID": "sPlayCaravanText",
+      "DATA": "Jogar Caravana"
+    },
+    {
+      "FORMID": "000BB7",
+      "EDID": "sPlayAudio",
+      "DATA": "Tocar Áudio"
+    },
+    {
+      "FORMID": "000BB6",
+      "EDID": "sPlaceMarker",
+      "DATA": "Marcar Localização"
+    },
+    {
+      "FORMID": "000BB5",
+      "EDID": "sPlaceCardText",
+      "DATA": "Colocar Carta"
+    },
+    {
+      "FORMID": "000BB4",
+      "EDID": "sPlaceBetText",
+      "DATA": "Fazer Aposta"
+    },
+    {
+      "FORMID": "000BB3",
+      "EDID": "sPipboyColor",
+      "DATA": "Cor do Pip-Boy"
+    },
+    {
+      "FORMID": "000BB2",
+      "EDID": "sPicksRemainingText",
+      "DATA": "Grampos"
+    },
+    {
+      "FORMID": "000BB1",
+      "EDID": "sPickpocketFail",
+      "DATA": "Você foi pego batendo carteira."
+    },
+    {
+      "FORMID": "000BB0",
+      "EDID": "sPickpocket",
+      "DATA": "Bater Carteira"
+    },
+    {
+      "FORMID": "000BAF",
+      "EDID": "sPick",
+      "DATA": "Arrombar"
+    },
+    {
+      "FORMID": "000BAE",
+      "EDID": "sPCMenuHintX",
+      "DATA": "X)"
+    },
+    {
+      "FORMID": "000BAD",
+      "EDID": "sPCMenuHintW",
+      "DATA": "W)"
+    },
+    {
+      "FORMID": "000BAC",
+      "EDID": "sPCMenuHintS",
+      "DATA": "S)"
+    },
+    {
+      "FORMID": "000BAB",
+      "EDID": "sPCMenuHintRMB",
+      "DATA": "BDM)"
+    },
+    {
+      "FORMID": "000BAA",
+      "EDID": "sPCMenuHintR",
+      "DATA": "R)"
+    },
+    {
+      "FORMID": "000BA9",
+      "EDID": "sPCMenuHintQ",
+      "DATA": "Q)"
+    },
+    {
+      "FORMID": "000BA8",
+      "EDID": "sPCMenuHintF",
+      "DATA": "F)"
+    },
+    {
+      "FORMID": "000BA7",
+      "EDID": "sPCMenuHintE",
+      "DATA": "E)"
+    },
+    {
+      "FORMID": "000BA6",
+      "EDID": "sPCMenuHintA",
+      "DATA": "A)"
+    },
+    {
+      "FORMID": "000BA5",
+      "EDID": "sPCControlsTriggerPrefix",
+      "DATA": "puxar"
+    },
+    {
+      "FORMID": "000BA4",
+      "EDID": "sPCControlsTextNone",
+      "DATA": "<NÃO ASSOCIADO>"
+    },
+    {
+      "FORMID": "000BA3",
+      "EDID": "sPayoutText",
+      "DATA": "Pagamento"
+    },
+    {
+      "FORMID": "000BA2",
+      "EDID": "sPayoutListText",
+      "DATA": "Lista de Pagamento"
+    },
+    {
+      "FORMID": "000BA1",
+      "EDID": "sPauseText",
+      "DATA": "Pausa"
+    },
+    {
+      "FORMID": "000BA0",
+      "EDID": "sPartCrippledByPlayerMessage",
+      "DATA": "Aleijado"
+    },
+    {
+      "FORMID": "000B9F",
+      "EDID": "sOutOfLockpicks",
+      "DATA": "Você está sem grampos."
+    },
+    {
+      "FORMID": "000B9E",
+      "EDID": "sOr",
+      "DATA": "OU"
+    },
+    {
+      "FORMID": "000B9D",
+      "EDID": "sOpenWithKey",
+      "DATA": "Aberto com %s."
+    },
+    {
+      "FORMID": "000B9C",
+      "EDID": "sOpenedContainer",
+      "DATA": "Recipiente aberto com uma chave."
+    },
+    {
+      "FORMID": "000B9B",
+      "EDID": "sOn",
+      "DATA": "Ligado"
+    },
+    {
+      "FORMID": "000B9A",
+      "EDID": "sOldDownloadsAvailable",
+      "DATA": "Ver todo o conteúdo disponível."
+    },
+    {
+      "FORMID": "000B99",
+      "EDID": "sOKText",
+      "DATA": "&OK"
+    },
+    {
+      "FORMID": "000B98",
+      "EDID": "sOk",
+      "DATA": "Ok"
+    },
+    {
+      "FORMID": "000B97",
+      "EDID": "sOfferRefused",
+      "DATA": "Oferta recusada"
+    },
+    {
+      "FORMID": "000B96",
+      "EDID": "sOff",
+      "DATA": "Desligado"
+    },
+    {
+      "FORMID": "000B95",
+      "EDID": "sOddtext",
+      "DATA": "Adicionar"
+    },
+    {
+      "FORMID": "000B94",
+      "EDID": "sObjectLODFade",
+      "DATA": "Rend. de LOD"
+    },
+    {
+      "FORMID": "000B93",
+      "EDID": "sObjectInUse",
+      "DATA": "Este objeto está em uso por outra pessoa."
+    },
+    {
+      "FORMID": "000B92",
+      "EDID": "sObjectFade",
+      "DATA": "Rend. de Objetos"
+    },
+    {
+      "FORMID": "000B91",
+      "EDID": "sNumberAbbrev",
+      "DATA": "Nº"
+    },
+    {
+      "FORMID": "000B90",
+      "EDID": "sNPCOutOfMoneyText",
+      "DATA": "não tem dinheiro algum para apostar."
+    },
+    {
+      "FORMID": "000B8F",
+      "EDID": "sNoWaitWhileAlarmSounding",
+      "DATA": "Você não pode esperar aqui. Um alarme está soando por sua causa."
+    },
+    {
+      "FORMID": "000B8E",
+      "EDID": "sNoWaitUnderWater",
+      "DATA": "Você não pode esperar enquanto estiver submerso."
+    },
+    {
+      "FORMID": "000B8D",
+      "EDID": "sNoWaitTrespass",
+      "DATA": "Você não pode esperar enquanto invade."
+    },
+    {
+      "FORMID": "000B8C",
+      "EDID": "sNoWaitTakingHealthDamage",
+      "DATA": "Você não pode esperar enquanto estiver levando dano."
+    },
+    {
+      "FORMID": "000B8B",
+      "EDID": "sNoWaitInRadiation",
+      "DATA": "Você não pode esperar enquanto estiver sendo irradiado."
+    },
+    {
+      "FORMID": "000B8A",
+      "EDID": "sNoWaitInJail",
+      "DATA": "Você deve dormir numa cama de cadeia para cumprir sua sentença."
+    },
+    {
+      "FORMID": "000B89",
+      "EDID": "sNoWaitInCombat",
+      "DATA": "Você não pode esperar enquanto estiver em combate."
+    },
+    {
+      "FORMID": "000B88",
+      "EDID": "sNoWaitInCell",
+      "DATA": "Você não pode esperar neste lugar."
+    },
+    {
+      "FORMID": "000B87",
+      "EDID": "sNoWaitInAir",
+      "DATA": "Você não pode esperar no ar."
+    },
+    {
+      "FORMID": "000B86",
+      "EDID": "sNoviceSkillLevelText",
+      "DATA": "Você tem um conhecimento básico desta habilidade."
+    },
+    {
+      "FORMID": "000B85",
+      "EDID": "sNoText",
+      "DATA": "&Não"
+    },
+    {
+      "FORMID": "000B84",
+      "EDID": "sNotesToggle",
+      "DATA": "Notas"
+    },
+    {
+      "FORMID": "000B83",
+      "EDID": "sNotEnoughRoomWarning",
+      "DATA": "Você não tem espaço suficiente para deixar este objeto."
+    },
+    {
+      "FORMID": "000B82",
+      "EDID": "sNotEnoughCaps",
+      "DATA": "Você não tem tampas suficientes."
+    },
+    {
+      "FORMID": "000B81",
+      "EDID": "sNoSpareParts",
+      "DATA": "SEM PARTES SOBRESSALENTES USÁVEIS"
+    },
+    {
+      "FORMID": "000B80",
+      "EDID": "sNoSleepTrespass",
+      "DATA": "Você não pode dormir enquanto invade."
+    },
+    {
+      "FORMID": "000B7F",
+      "EDID": "sNoSleepTakingHealthDamage",
+      "DATA": "Você não pode dormir enquanto estiver levando dano."
+    },
+    {
+      "FORMID": "000B7E",
+      "EDID": "sNoSleepInRadiation",
+      "DATA": "Você não pode dormir enquanto está sendo irradiado."
+    },
+    {
+      "FORMID": "000B7D",
+      "EDID": "sNoSleepInOwnedBed",
+      "DATA": "Você não pode dormir na cama de outra pessoa."
+    },
+    {
+      "FORMID": "000B7C",
+      "EDID": "sNoSleepCombat",
+      "DATA": "Você não pode dormir enquanto estiver em combate."
+    },
+    {
+      "FORMID": "000B7B",
+      "EDID": "sNoSitOnOwnedFurniture",
+      "DATA": "Você não pode sentar em móveis com dono."
+    },
+    {
+      "FORMID": "000B7A",
+      "EDID": "sNosetilt",
+      "DATA": "Inclinação do Nariz cima\/baixo"
+    },
+    {
+      "FORMID": "000B79",
+      "EDID": "sNoseTex",
+      "DATA": "Sombras do Nariz"
+    },
+    {
+      "FORMID": "000B78",
+      "EDID": "sNoseshort",
+      "DATA": "Nariz curto\/longo"
+    },
+    {
+      "FORMID": "000B77",
+      "EDID": "sNosesellionthin",
+      "DATA": "Ponta do Nariz fina\/larga"
+    },
+    {
+      "FORMID": "000B76",
+      "EDID": "sNosesellionshallow",
+      "DATA": "Ponta do Nariz rasa\/profunda"
+    },
+    {
+      "FORMID": "000B75",
+      "EDID": "sNosesellionlower",
+      "DATA": "Ponta do Nariz baixa/alta"
+    },
+    {
+      "FORMID": "000B74",
+      "EDID": "sNoseselliondown",
+      "DATA": "Ponta do Nariz cima\/baixo"
+    },
+    {
+      "FORMID": "000B73",
+      "EDID": "sNoseregion",
+      "DATA": "Região do Nariz côncava\/Convexa"
+    },
+    {
+      "FORMID": "000B72",
+      "EDID": "sNosenostriltilt",
+      "DATA": "Inclinação das Narinas baixo\/cima"
+    },
+    {
+      "FORMID": "000B71",
+      "EDID": "sNosenostrilswide",
+      "DATA": "Narinas largas/finas"
+    },
+    {
+      "FORMID": "000B70",
+      "EDID": "sNosenostrilssmall",
+      "DATA": "Narinas largas/pequenas"
+    },
+    {
+      "FORMID": "000B6F",
+      "EDID": "sNoseflat",
+      "DATA": "Nariz achatado\/pontudo"
+    },
+    {
+      "FORMID": "000B6E",
+      "EDID": "sNosedown",
+      "DATA": "Nariz baixo\/cima"
+    },
+    {
+      "FORMID": "000B6D",
+      "EDID": "sNosebridgeshort",
+      "DATA": "Ponte do Nariz curta/longa"
+    },
+    {
+      "FORMID": "000B6C",
+      "EDID": "sNosebridgeshallow",
+      "DATA": "Ponte do Nariz rasa\/profunda"
+    },
+    {
+      "FORMID": "000B6B",
+      "EDID": "sNose",
+      "DATA": "Nariz"
+    },
+    {
+      "FORMID": "000B6A",
+      "EDID": "sNoSaves",
+      "DATA": "[SEM JOGOS SALVOS ENCONTRADOS]"
+    },
+    {
+      "FORMID": "000B69",
+      "EDID": "sNormalWeaponsResisted",
+      "DATA": "Seu ataque não teve efeito."
+    },
+    {
+      "FORMID": "000B68",
+      "EDID": "sNormal",
+      "DATA": "Normal"
+    },
+    {
+      "FORMID": "000B67",
+      "EDID": "sNoRestart",
+      "DATA": "Não, continuar jogando."
+    },
+    {
+      "FORMID": "000B66",
+      "EDID": "sNoRepairInCombat",
+      "DATA": "Você não pode reparar itens em combate."
+    },
+    {
+      "FORMID": "000B65",
+      "EDID": "sNoRepairHostileActorsNear",
+      "DATA": "Você não pode reparar itens quando há inimigos por perto."
+    },
+    {
+      "FORMID": "000B64",
+      "EDID": "sNoRace",
+      "DATA": "SEM RAÇA"
+    },
+    {
+      "FORMID": "000B63",
+      "EDID": "sNoProfileSelected",
+      "DATA": "Você não tem um perfil de jogador assinalado. Você precisa assinalar um perfil de jogador e então selecionar um dispositivo de armazenamento antes de salvar. Até lá, o Salvamento Automático estará desabilitado."
+    },
+    {
+      "FORMID": "000B62",
+      "EDID": "sNone",
+      "DATA": "Nenhum"
+    },
+    {
+      "FORMID": "000B61",
+      "EDID": "sNoMoreFollowers",
+      "DATA": "Você já tem seguidores demais."
+    },
+    {
+      "FORMID": "000B60",
+      "EDID": "sNoLockPickIfCrimeAlert",
+      "DATA": "Você não pode arrombar uma fechadura enquanto é perseguido por guardas."
+    },
+    {
+      "FORMID": "000B5F",
+      "EDID": "sNoLockPick",
+      "DATA": "Você não tem grampos."
+    },
+    {
+      "FORMID": "000B5E",
+      "EDID": "sNoJumpWarning",
+      "DATA": "Você não pode largar objetos no ar."
+    },
+    {
+      "FORMID": "000B5D",
+      "EDID": "sNoItemsToRepair",
+      "DATA": "Sem itens para reparar"
+    },
+    {
+      "FORMID": "000B5C",
+      "EDID": "sNoFastTravelUndiscovered",
+      "DATA": "Você ainda não descobriu esta localização."
+    },
+    {
+      "FORMID": "000B5B",
+      "EDID": "sNoFastTravelOverencumbered",
+      "DATA": "Você não pode viajar rápido enquanto estiver sobrecarregado."
+    },
+    {
+      "FORMID": "000B5A",
+      "EDID": "sNoFastTravelInAir",
+      "DATA": "Você não pode viajar rápido enquanto pula ou cai."
+    },
+    {
+      "FORMID": "000B59",
+      "EDID": "sNoFastTravelHostileActorsNear",
+      "DATA": "Você não pode viajar rápido enquanto inimigos estiverem por perto."
+    },
+    {
+      "FORMID": "000B58",
+      "EDID": "sNoFastTravelCombat",
+      "DATA": "Você não pode viajar rápido durante combate!"
+    },
+    {
+      "FORMID": "000B57",
+      "EDID": "sNoFastTravelCell",
+      "DATA": "Você não pode viajar rápido deste lugar."
+    },
+    {
+      "FORMID": "000B56",
+      "EDID": "sNoFastTravelAlarm",
+      "DATA": "Você não pode viajar rápido enquanto guardas o perseguem."
+    },
+    {
+      "FORMID": "000B55",
+      "EDID": "sNoEatQuestItem",
+      "DATA": "Você não pode comer itens de missão."
+    },
+    {
+      "FORMID": "000B54",
+      "EDID": "sNoDeviceSelected",
+      "DATA": "Você não selecionou um dispositivo de armazenamento. Você precisará selecionar um antes de salvar. Até lá, o salvamento automático estará desabilitado."
+    },
+    {
+      "FORMID": "000B53",
+      "EDID": "sNoChildUse",
+      "DATA": "Crianças não podem usar isto."
+    },
+    {
+      "FORMID": "000B52",
+      "EDID": "sNoCharge",
+      "DATA": "O item não tem carga o suficiente."
+    },
+    {
+      "FORMID": "000B51",
+      "EDID": "sNo",
+      "DATA": "Não"
+    },
+    {
+      "FORMID": "000B50",
+      "EDID": "sNextChallenge",
+      "DATA": "Próximo Desafio"
+    },
+    {
+      "FORMID": "000B4F",
+      "EDID": "sNext",
+      "DATA": "Próximo"
+    },
+    {
+      "FORMID": "000B4E",
+      "EDID": "sNewSave",
+      "DATA": "[NOVO JOGO]"
+    },
+    {
+      "FORMID": "000B4D",
+      "EDID": "sNewGame",
+      "DATA": "Novo Jogo"
+    },
+    {
+      "FORMID": "000B4C",
+      "EDID": "sNew",
+      "DATA": "Novo"
+    },
+    {
+      "FORMID": "000B4B",
+      "EDID": "sNetTotalText",
+      "DATA": "Total do Pote:"
+    },
+    {
+      "FORMID": "000B4A",
+      "EDID": "sNavigateText",
+      "DATA": "Navegar"
+    },
+    {
+      "FORMID": "000B49",
+      "EDID": "sNavigate",
+      "DATA": "Navegador"
+    },
+    {
+      "FORMID": "000B48",
+      "EDID": "sNasolabiallines",
+      "DATA": "Linhas nasolabiais claras/escuras"
+    },
+    {
+      "FORMID": "000B47",
+      "EDID": "sNares",
+      "DATA": "Narinas pequenas/grandes"
+    },
+    {
+      "FORMID": "000B46",
+      "EDID": "sName",
+      "DATA": "Nome"
+    },
+    {
+      "FORMID": "000B45",
+      "EDID": "sMustRestart",
+      "DATA": "Você precisa reinicializar Fallout: New Vegas para que estas mudanças tenham efeito."
+    },
+    {
+      "FORMID": "000B44",
+      "EDID": "sMusicVolume",
+      "DATA": "Música"
+    },
+    {
+      "FORMID": "000B43",
+      "EDID": "sMoveMarkerQuestion",
+      "DATA": "Você quer remover a marcação da localização atual?"
+    },
+    {
+      "FORMID": "000B42",
+      "EDID": "sMoveMarker",
+      "DATA": "Mover"
+    },
+    {
+      "FORMID": "000B41",
+      "EDID": "sMouthunderbite",
+      "DATA": "Boca arcada superior\/arcada inferior"
+    },
+    {
+      "FORMID": "000B40",
+      "EDID": "sMouthtilt",
+      "DATA": "Inclinação da boca cima/baixo"
+    },
+    {
+      "FORMID": "000B3F",
+      "EDID": "sMouthprotruding",
+      "DATA": "Boca protuberante\/retraída"
+    },
+    {
+      "FORMID": "000B3E",
+      "EDID": "sMouthlipspuckered",
+      "DATA": "Lábios pronunciados\/retraídos"
+    },
+    {
+      "FORMID": "000B3D",
+      "EDID": "sMouthlipslarge",
+      "DATA": "Lábios grandes/pequenos"
+    },
+    {
+      "FORMID": "000B3C",
+      "EDID": "sMouthlipsdeflated",
+      "DATA": "Lábios finos\/grossos"
+    },
+    {
+      "FORMID": "000B3B",
+      "EDID": "sMouthLips",
+      "DATA": "Boca (Lábios)"
+    },
+    {
+      "FORMID": "000B3A",
+      "EDID": "sMouthhigh",
+      "DATA": "Boca alta\/baixa"
+    },
+    {
+      "FORMID": "000B39",
+      "EDID": "sMouthhappy",
+      "DATA": "Boca feliz\/triste"
+    },
+    {
+      "FORMID": "000B38",
+      "EDID": "sMouthdrawn",
+      "DATA": "Boca delineada\/franzida"
+    },
+    {
+      "FORMID": "000B37",
+      "EDID": "sMouthChin",
+      "DATA": "Distância Boca-Queixo curta\/longa"
+    },
+    {
+      "FORMID": "000B36",
+      "EDID": "sMouth",
+      "DATA": "Boca"
+    },
+    {
+      "FORMID": "000B35",
+      "EDID": "sMouseSensitivity",
+      "DATA": "Sensibilidade"
+    },
+    {
+      "FORMID": "000B34",
+      "EDID": "sMouseRightButton",
+      "DATA": "Mouse2"
+    },
+    {
+      "FORMID": "000B33",
+      "EDID": "sMouseMiddleButton",
+      "DATA": "Roda"
+    },
+    {
+      "FORMID": "000B32",
+      "EDID": "sMouseLeftButton",
+      "DATA": "Mouse1"
+    },
+    {
+      "FORMID": "000B31",
+      "EDID": "sMouseButton8",
+      "DATA": "Botão 8"
+    },
+    {
+      "FORMID": "000B30",
+      "EDID": "sMouseButton7",
+      "DATA": "Botão 7"
+    },
+    {
+      "FORMID": "000B2F",
+      "EDID": "sMouseButton6",
+      "DATA": "Botão 6"
+    },
+    {
+      "FORMID": "000B2E",
+      "EDID": "sMouseButton5",
+      "DATA": "Botão 5"
+    },
+    {
+      "FORMID": "000B2D",
+      "EDID": "sMouseButton4",
+      "DATA": "Botão 4"
+    },
+    {
+      "FORMID": "000B2C",
+      "EDID": "sMouseButton3",
+      "DATA": "Botão 3"
+    },
+    {
+      "FORMID": "000B2B",
+      "EDID": "sMonthSeptember",
+      "DATA": "Setembro"
+    },
+    {
+      "FORMID": "000B2A",
+      "EDID": "sMonthOctober",
+      "DATA": "Outubro"
+    },
+    {
+      "FORMID": "000B29",
+      "EDID": "sMonthNovember",
+      "DATA": "Novembro"
+    },
+    {
+      "FORMID": "000B28",
+      "EDID": "sMonthMay",
+      "DATA": "Maio"
+    },
+    {
+      "FORMID": "000B27",
+      "EDID": "sMonthMarch",
+      "DATA": "Março"
+    },
+    {
+      "FORMID": "000B26",
+      "EDID": "sMonthJune",
+      "DATA": "Junho"
+    },
+    {
+      "FORMID": "000B25",
+      "EDID": "sMonthJuly",
+      "DATA": "Julho"
+    },
+    {
+      "FORMID": "000B24",
+      "EDID": "sMonthJanuary",
+      "DATA": "Janeiro"
+    },
+    {
+      "FORMID": "000B23",
+      "EDID": "sMonthFebruary",
+      "DATA": "Fevereiro"
+    },
+    {
+      "FORMID": "000B22",
+      "EDID": "sMonthDecember",
+      "DATA": "Dezembro"
+    },
+    {
+      "FORMID": "000B21",
+      "EDID": "sMonthAugust",
+      "DATA": "Agosto"
+    },
+    {
+      "FORMID": "000B20",
+      "EDID": "sMonthApril",
+      "DATA": "Abril"
+    },
+    {
+      "FORMID": "000B1F",
+      "EDID": "sModEffects",
+      "DATA": "MODS"
+    },
+    {
+      "FORMID": "000B1E",
+      "EDID": "sMissingName",
+      "DATA": "<Nome Perdido>"
+    },
+    {
+      "FORMID": "000B1D",
+      "EDID": "sMiscUnknownEffect",
+      "DATA": "(Efeito Desconhecido)"
+    },
+    {
+      "FORMID": "000B1C",
+      "EDID": "sMiscTabText",
+      "DATA": "Diversos"
+    },
+    {
+      "FORMID": "000B1B",
+      "EDID": "sMiscStat042",
+      "DATA": "Jogos de Caça-Níqueis Jogados"
+    },
+    {
+      "FORMID": "000B1A",
+      "EDID": "sMiscStat041",
+      "DATA": "Partidas de Blackjack Jogadas"
+    },
+    {
+      "FORMID": "000B19",
+      "EDID": "sMiscStat040",
+      "DATA": "Partidas de Roleta Jogadas"
+    },
+    {
+      "FORMID": "000B18",
+      "EDID": "sMiscStat039",
+      "DATA": "Tampas Negociadas"
+    },
+    {
+      "FORMID": "000B17",
+      "EDID": "sMiscStat038",
+      "DATA": "Partidas de Caravana Perdidas"
+    },
+    {
+      "FORMID": "000B16",
+      "EDID": "sMiscStat037",
+      "DATA": "Partidas de Caravana Vencidas"
+    },
+    {
+      "FORMID": "000B15",
+      "EDID": "sMiscStat036",
+      "DATA": "Membros Desmembrados"
+    },
+    {
+      "FORMID": "000B14",
+      "EDID": "sMiscStat035",
+      "DATA": "Mortes"
+    },
+    {
+      "FORMID": "000B13",
+      "EDID": "sMiscStat034",
+      "DATA": "Itens Reparados"
+    },
+    {
+      "FORMID": "000B12",
+      "EDID": "sMiscStat033",
+      "DATA": "Modificações de Armas"
+    },
+    {
+      "FORMID": "000B11",
+      "EDID": "sMiscStat032",
+      "DATA": "Itens Criados"
+    },
+    {
+      "FORMID": "000B10",
+      "EDID": "sMiscStat031",
+      "DATA": "Total de Falhas em Diálogos"
+    },
+    {
+      "FORMID": "000B0F",
+      "EDID": "sMiscStat030",
+      "DATA": "Membros Aleijados"
+    },
+    {
+      "FORMID": "000B0E",
+      "EDID": "sMiscStat029",
+      "DATA": "Desintegrações"
+    },
+    {
+      "FORMID": "000B0D",
+      "EDID": "sMiscStat028",
+      "DATA": "Aparições da Dama do Infortúnio"
+    },
+    {
+      "FORMID": "000B0C",
+      "EDID": "sMiscStat027",
+      "DATA": "Desafios Completados"
+    },
+    {
+      "FORMID": "000B0B",
+      "EDID": "sMiscStat026",
+      "DATA": "Maletas Médicas Usadas"
+    },
+    {
+      "FORMID": "000B0A",
+      "EDID": "sMiscStat025",
+      "DATA": "Aparições do Estranho Misterioso"
+    },
+    {
+      "FORMID": "000B09",
+      "EDID": "sMiscStat024",
+      "DATA": "Corpos Devorados"
+    },
+    {
+      "FORMID": "000B08",
+      "EDID": "sMiscStat023",
+      "DATA": "Vezes que Dormiu"
+    },
+    {
+      "FORMID": "000B07",
+      "EDID": "sMiscStat022",
+      "DATA": "Robôs Desativados"
+    },
+    {
+      "FORMID": "000B06",
+      "EDID": "sMiscStat021",
+      "DATA": "Golpes Paralisantes"
+    },
+    {
+      "FORMID": "000B05",
+      "EDID": "sMiscStat020",
+      "DATA": "Mortes do Sr. dos Sonhos"
+    },
+    {
+      "FORMID": "000B04",
+      "EDID": "sMiscStat019",
+      "DATA": "Água Consumida"
+    },
+    {
+      "FORMID": "000B03",
+      "EDID": "sMiscStat018",
+      "DATA": "Cura por Alimentos"
+    },
+    {
+      "FORMID": "000B02",
+      "EDID": "sMiscStat017",
+      "DATA": "Armas Criadas"
+    },
+    {
+      "FORMID": "000B01",
+      "EDID": "sMiscStat016",
+      "DATA": "Cura por Stimpaks"
+    },
+    {
+      "FORMID": "000B00",
+      "EDID": "sMiscStat015",
+      "DATA": "Livros Lidos"
+    },
+    {
+      "FORMID": "000AFF",
+      "EDID": "sMiscStat014",
+      "DATA": "Calças Explodidas"
+    },
+    {
+      "FORMID": "000AFE",
+      "EDID": "sMiscStat013",
+      "DATA": "Carteiras Roubadas"
+    },
+    {
+      "FORMID": "000AFD",
+      "EDID": "sMiscStat012",
+      "DATA": "Sucessos em Diálogos"
+    },
+    {
+      "FORMID": "000AFC",
+      "EDID": "sMiscStat011",
+      "DATA": "Minas Desarmadas"
+    },
+    {
+      "FORMID": "000AFB",
+      "EDID": "sMiscStat010",
+      "DATA": "Vezes Viciado"
+    },
+    {
+      "FORMID": "000AFA",
+      "EDID": "sMiscStat009",
+      "DATA": "Drogas Consumidas"
+    },
+    {
+      "FORMID": "000AF9",
+      "EDID": "sMiscStat008",
+      "DATA": "RadAway Usados"
+    },
+    {
+      "FORMID": "000AF8",
+      "EDID": "sMiscStat007",
+      "DATA": "Rad-X Usados"
+    },
+    {
+      "FORMID": "000AF7",
+      "EDID": "sMiscStat006",
+      "DATA": "Stimpaks Usados"
+    },
+    {
+      "FORMID": "000AF6",
+      "EDID": "sMiscStat005",
+      "DATA": "Computadores Hackeados"
+    },
+    {
+      "FORMID": "000AF5",
+      "EDID": "sMiscStat004",
+      "DATA": "Fechaduras Abertas"
+    },
+    {
+      "FORMID": "000AF4",
+      "EDID": "sMiscStat003",
+      "DATA": "Criaturas Mortas"
+    },
+    {
+      "FORMID": "000AF3",
+      "EDID": "sMiscStat002",
+      "DATA": "Pessoas Mortas"
+    },
+    {
+      "FORMID": "000AF2",
+      "EDID": "sMiscStat001",
+      "DATA": "Locais Descobertos"
+    },
+    {
+      "FORMID": "000AF1",
+      "EDID": "sMiscStat000",
+      "DATA": "Missões Completadas"
+    },
+    {
+      "FORMID": "000AF0",
+      "EDID": "sMiscPlayerDeadMessage",
+      "DATA": "Recarregando o jogo salvo mais recente"
+    },
+    {
+      "FORMID": "000AEF",
+      "EDID": "sMiscPlayerDeadMenuOption",
+      "DATA": "Menu"
+    },
+    {
+      "FORMID": "000AEE",
+      "EDID": "sMiscPlayerDeadLoadOption",
+      "DATA": "Recarregar"
+    },
+    {
+      "FORMID": "000AED",
+      "EDID": "sMiscConstantEffect",
+      "DATA": "Efeito Constante"
+    },
+    {
+      "FORMID": "000AEC",
+      "EDID": "sMerchantNoGold",
+      "DATA": "O comerciante não tem tampas suficientes."
+    },
+    {
+      "FORMID": "000AEB",
+      "EDID": "sMenuDisplayXBoxSaveMessage",
+      "DATA": "Salvando conteúdo.\nPor favor, não desligue o console."
+    },
+    {
+      "FORMID": "000AEA",
+      "EDID": "sMenuDisplayXBoxFailSaveSettings",
+      "DATA": "Seus ajustes não podem ser salvos. Seu Perfil de Jogador não está disponível. Por favor, verifique seus dispositivos de armazenamento."
+    },
+    {
+      "FORMID": "000AE9",
+      "EDID": "sMenuDisplayUnknownLocationString",
+      "DATA": "Localização Desconhecida"
+    },
+    {
+      "FORMID": "000AE8",
+      "EDID": "sMenuDisplayShortXBoxSaveMessage",
+      "DATA": "Salvando..."
+    },
+    {
+      "FORMID": "000AE7",
+      "EDID": "sMenuDisplaySave",
+      "DATA": "Salvar"
+    },
+    {
+      "FORMID": "000AE6",
+      "EDID": "sMenuDisplayQuicksaveName",
+      "DATA": "Salvar Rápido"
+    },
+    {
+      "FORMID": "000AE5",
+      "EDID": "sMenuDisplayPlayTime",
+      "DATA": "Tempo Jogado"
+    },
+    {
+      "FORMID": "000AE4",
+      "EDID": "sMenuDisplayNoSaves",
+      "DATA": "Sem jogos salvos."
+    },
+    {
+      "FORMID": "000AE3",
+      "EDID": "sMenuDisplayNewSave",
+      "DATA": "Novo Jogo Salvo"
+    },
+    {
+      "FORMID": "000AE2",
+      "EDID": "sMenuDisplayLevelString",
+      "DATA": "Nível"
+    },
+    {
+      "FORMID": "000AE1",
+      "EDID": "sMenuDisplayFailSaveSettings",
+      "DATA": "Não há um dispositivo de armazenamento selecionado. Os ajustes não serão salvos."
+    },
+    {
+      "FORMID": "000AE0",
+      "EDID": "sMenuDisplayDayString",
+      "DATA": "Dia"
+    },
+    {
+      "FORMID": "000ADF",
+      "EDID": "sMenuDisplayAutosaveName",
+      "DATA": "Salvamento Automático"
+    },
+    {
+      "FORMID": "000ADE",
+      "EDID": "sMedium",
+      "DATA": "Médio"
+    },
+    {
+      "FORMID": "000ADD",
+      "EDID": "sMedicineSkill",
+      "DATA": "Habilidade Medicina"
+    },
+    {
+      "FORMID": "000ADC",
+      "EDID": "sMasterVolume",
+      "DATA": "Geral"
+    },
+    {
+      "FORMID": "000ADB",
+      "EDID": "sMapMarkerNotFound",
+      "DATA": "Você ainda não descobriu este lugar."
+    },
+    {
+      "FORMID": "000ADA",
+      "EDID": "sMapMarkerAdded",
+      "DATA": "Sua localização foi marcada."
+    },
+    {
+      "FORMID": "000AD9",
+      "EDID": "sMale",
+      "DATA": "Masculino"
+    },
+    {
+      "FORMID": "000AD8",
+      "EDID": "sMakeDefaults",
+      "DATA": "Tornar esta sua configuração padrão?"
+    },
+    {
+      "FORMID": "000AD7",
+      "EDID": "sMakeActiveQuest",
+      "DATA": "Tornar Missão Ativa"
+    },
+    {
+      "FORMID": "000AD6",
+      "EDID": "sMaintainItem",
+      "DATA": "Manutenção"
+    },
+    {
+      "FORMID": "000AD5",
+      "EDID": "sMainMenu",
+      "DATA": "Menu"
+    },
+    {
+      "FORMID": "000AD4",
+      "EDID": "sMain",
+      "DATA": "Principal"
+    },
+    {
+      "FORMID": "000AD3",
+      "EDID": "sMagnitudeText",
+      "DATA": "Magnitude"
+    },
+    {
+      "FORMID": "000AD2",
+      "EDID": "sMagnitudeIsLevelText",
+      "DATA": "Nível do Alvo"
+    },
+    {
+      "FORMID": "000AD1",
+      "EDID": "sMagicTypeWortcraft",
+      "DATA": "Wortcraft"
+    },
+    {
+      "FORMID": "000AD0",
+      "EDID": "sMagicTypeSpell",
+      "DATA": "Efeito de Ação"
+    },
+    {
+      "FORMID": "000ACF",
+      "EDID": "sMagicTypePower",
+      "DATA": "Energia"
+    },
+    {
+      "FORMID": "000ACE",
+      "EDID": "sMagicTypePotion",
+      "DATA": "Poção"
+    },
+    {
+      "FORMID": "000ACD",
+      "EDID": "sMagicTypePoison",
+      "DATA": "Veneno"
+    },
+    {
+      "FORMID": "000ACC",
+      "EDID": "sMagicTypeLevelled",
+      "DATA": "Efeito de Personagem Nivelado"
+    },
+    {
+      "FORMID": "000ACB",
+      "EDID": "sMagicTypeLesserPower",
+      "DATA": "Poder Menor"
+    },
+    {
+      "FORMID": "000ACA",
+      "EDID": "sMagicTypeEnchantment",
+      "DATA": "Efeito do Objeto"
+    },
+    {
+      "FORMID": "000AC9",
+      "EDID": "sMagicTypeDisease",
+      "DATA": "Doença"
+    },
+    {
+      "FORMID": "000AC8",
+      "EDID": "sMagicTypeAddiction",
+      "DATA": "Vício"
+    },
+    {
+      "FORMID": "000AC7",
+      "EDID": "sMagicTypeAbility",
+      "DATA": "Habilidade"
+    },
+    {
+      "FORMID": "000AC6",
+      "EDID": "sMagicSchoolRestoration",
+      "DATA": "Restauração"
+    },
+    {
+      "FORMID": "000AC5",
+      "EDID": "sMagicSchoolMysticism",
+      "DATA": "Misticismo"
+    },
+    {
+      "FORMID": "000AC4",
+      "EDID": "sMagicSchoolIllusion",
+      "DATA": "Ilusão"
+    },
+    {
+      "FORMID": "000AC3",
+      "EDID": "sMagicSchoolDestruction",
+      "DATA": "Destruição"
+    },
+    {
+      "FORMID": "000AC2",
+      "EDID": "sMagicSchoolConjuration",
+      "DATA": "Conjuração"
+    },
+    {
+      "FORMID": "000AC1",
+      "EDID": "sMagicSchoolAlteration",
+      "DATA": "Alteração"
+    },
+    {
+      "FORMID": "000AC0",
+      "EDID": "sMagicSchool",
+      "DATA": "Escola de Mágica"
+    },
+    {
+      "FORMID": "000ABF",
+      "EDID": "sMagicRangeTouch",
+      "DATA": "Tocar"
+    },
+    {
+      "FORMID": "000ABE",
+      "EDID": "sMagicRangeTarget",
+      "DATA": "Alvo"
+    },
+    {
+      "FORMID": "000ABD",
+      "EDID": "sMagicRangeStrike",
+      "DATA": "Golpe"
+    },
+    {
+      "FORMID": "000ABC",
+      "EDID": "sMagicRangeSelf",
+      "DATA": "Perto"
+    },
+    {
+      "FORMID": "000ABB",
+      "EDID": "sMagicProjectileTypeSpray",
+      "DATA": "Pulverizar"
+    },
+    {
+      "FORMID": "000ABA",
+      "EDID": "sMagicProjectileTypeFog",
+      "DATA": "Fumaça"
+    },
+    {
+      "FORMID": "000AB9",
+      "EDID": "sMagicProjectileTypeBolt",
+      "DATA": "Virote"
+    },
+    {
+      "FORMID": "000AB8",
+      "EDID": "sMagicProjectileTypeBall",
+      "DATA": "Bola"
+    },
+    {
+      "FORMID": "000AB7",
+      "EDID": "sMagicEffectResisted",
+      "DATA": "efeito resistido"
+    },
+    {
+      "FORMID": "000AB6",
+      "EDID": "sMagicEffectItemUpToLevel",
+      "DATA": "para o nível"
+    },
+    {
+      "FORMID": "000AB5",
+      "EDID": "sMagicEffectItemSecondsSingular",
+      "DATA": "seg"
+    },
+    {
+      "FORMID": "000AB4",
+      "EDID": "sMagicEffectItemSecondsPlural",
+      "DATA": "s"
+    },
+    {
+      "FORMID": "000AB3",
+      "EDID": "sMagicEffectItemRestore",
+      "DATA": "Restaurar"
+    },
+    {
+      "FORMID": "000AB2",
+      "EDID": "sMagicEffectItemPointsSingular",
+      "DATA": "pt"
+    },
+    {
+      "FORMID": "000AB1",
+      "EDID": "sMagicEffectItemPointsPlural",
+      "DATA": "pts"
+    },
+    {
+      "FORMID": "000AB0",
+      "EDID": "sMagicEffectItemPercent",
+      "DATA": "%"
+    },
+    {
+      "FORMID": "000AAF",
+      "EDID": "sMagicEffectItemOn",
+      "DATA": "ligado"
+    },
+    {
+      "FORMID": "000AAE",
+      "EDID": "sMagicEffectItemLock",
+      "DATA": "Travado"
+    },
+    {
+      "FORMID": "000AAD",
+      "EDID": "sMagicEffectItemIn",
+      "DATA": "em"
+    },
+    {
+      "FORMID": "000AAC",
+      "EDID": "sMagicEffectItemFortify",
+      "DATA": "Fortificar"
+    },
+    {
+      "FORMID": "000AAB",
+      "EDID": "sMagicEffectItemFor",
+      "DATA": "de"
+    },
+    {
+      "FORMID": "000AAA",
+      "EDID": "sMagicEffectItemFeet",
+      "DATA": "pés"
+    },
+    {
+      "FORMID": "000AA9",
+      "EDID": "sMagicEffectItemDrain",
+      "DATA": "Drenar"
+    },
+    {
+      "FORMID": "000AA8",
+      "EDID": "sMagicEffectItemDamage",
+      "DATA": "Dano"
+    },
+    {
+      "FORMID": "000AA7",
+      "EDID": "sMagicEffectItemCreateLock",
+      "DATA": "Criar"
+    },
+    {
+      "FORMID": "000AA6",
+      "EDID": "sMagicEffectItemAbsorb",
+      "DATA": "Absorver"
+    },
+    {
+      "FORMID": "000AA5",
+      "EDID": "sMagicCostliestEffectSkillOf",
+      "DATA": "Habilidade de"
+    },
+    {
+      "FORMID": "000AA4",
+      "EDID": "sMagicCostliestEffectRequires",
+      "DATA": "Requer"
+    },
+    {
+      "FORMID": "000AA3",
+      "EDID": "sMagicCastWhenUsed",
+      "DATA": "(quando usado)"
+    },
+    {
+      "FORMID": "000AA2",
+      "EDID": "sMagicCastWhenStrikes",
+      "DATA": "(ao acertar)"
+    },
+    {
+      "FORMID": "000AA1",
+      "EDID": "sMagicCastSilenced",
+      "DATA": "Você está Silenciado"
+    },
+    {
+      "FORMID": "000AA0",
+      "EDID": "sMagicCastRangedUnderwater",
+      "DATA": "Você não pode lançar feitiços de alcance debaixo d'água."
+    },
+    {
+      "FORMID": "000A9F",
+      "EDID": "sMagicCastPowerUsed",
+      "DATA": "Você só pode usar seus poderes uma vez ao dia"
+    },
+    {
+      "FORMID": "000A9E",
+      "EDID": "sMagicCastOnce",
+      "DATA": "(uma vez)"
+    },
+    {
+      "FORMID": "000A9D",
+      "EDID": "sMagicCastMultipleBoundEffects",
+      "DATA": "Você já tem esse tipo de Item Assinalado"
+    },
+    {
+      "FORMID": "000A9C",
+      "EDID": "sMagicCastInsufficientSkill",
+      "DATA": "Seu nível de habilidade é muito baixo"
+    },
+    {
+      "FORMID": "000A9B",
+      "EDID": "sMagicCastInsufficientMagicka",
+      "DATA": "Você não tem magia suficiente."
+    },
+    {
+      "FORMID": "000A9A",
+      "EDID": "sMagicCastConstant",
+      "DATA": "(constante)"
+    },
+    {
+      "FORMID": "000A99",
+      "EDID": "sMadeAt",
+      "DATA": "Feito em ..."
+    },
+    {
+      "FORMID": "000A98",
+      "EDID": "sLuckyWinText",
+      "DATA": "Você está com sorte. Você venceu"
+    },
+    {
+      "FORMID": "000A97",
+      "EDID": "sLow",
+      "DATA": "Baixo"
+    },
+    {
+      "FORMID": "000A96",
+      "EDID": "sLostController",
+      "DATA": "O controle foi desconectado.\nClique em OK para usar o teclado e o mouse, ou reconecte o controle e pressione o botão A."
+    },
+    {
+      "FORMID": "000A95",
+      "EDID": "sLockpickSkillTooLow",
+      "DATA": "Você precisa de uma habilidade de arrombamento de %d para arrombar esta fechadura."
+    },
+    {
+      "FORMID": "000A94",
+      "EDID": "sLockpickSkillText",
+      "DATA": "Arrombamento"
+    },
+    {
+      "FORMID": "000A93",
+      "EDID": "sLockpickingTitle",
+      "DATA": "ARROMBAMENTO"
+    },
+    {
+      "FORMID": "000A92",
+      "EDID": "sLockLevelText",
+      "DATA": "Dificuldade"
+    },
+    {
+      "FORMID": "000A91",
+      "EDID": "sLockLevelNameVeryHard",
+      "DATA": "Muito Difícil"
+    },
+    {
+      "FORMID": "000A90",
+      "EDID": "sLockLevelNameVeryEasy",
+      "DATA": "Muito Fácil"
+    },
+    {
+      "FORMID": "000A8F",
+      "EDID": "sLockLevelNameImpossible",
+      "DATA": "Requer Chave"
+    },
+    {
+      "FORMID": "000A8E",
+      "EDID": "sLockLevelNameHard",
+      "DATA": "Difícil"
+    },
+    {
+      "FORMID": "000A8D",
+      "EDID": "sLockLevelNameEasy",
+      "DATA": "Fácil"
+    },
+    {
+      "FORMID": "000A8C",
+      "EDID": "sLockLevelNameAverage",
+      "DATA": "Médio"
+    },
+    {
+      "FORMID": "000A8B",
+      "EDID": "sLocked",
+      "DATA": "Trancado"
+    },
+    {
+      "FORMID": "000A8A",
+      "EDID": "sLockBroken",
+      "DATA": "A fechadura foi quebrada."
+    },
+    {
+      "FORMID": "000A89",
+      "EDID": "sLocalMapTabText",
+      "DATA": "Mapa Local"
+    },
+    {
+      "FORMID": "000A88",
+      "EDID": "sLoadWhilePlaying",
+      "DATA": "Realmente deseja carregar este jogo? O progresso não salvo será perdido."
+    },
+    {
+      "FORMID": "000A87",
+      "EDID": "sLoadThisGame",
+      "DATA": "Quer carregar este salvamento?"
+    },
+    {
+      "FORMID": "000A86",
+      "EDID": "sLoadSavedGame",
+      "DATA": "Carregar Jogo Salvo"
+    },
+    {
+      "FORMID": "000A85",
+      "EDID": "sLoadingLOD",
+      "DATA": "Carregando nível de detalhe à distância..."
+    },
+    {
+      "FORMID": "000A84",
+      "EDID": "sLoading",
+      "DATA": "Carregando..."
+    },
+    {
+      "FORMID": "000A83",
+      "EDID": "sLoadFromMainMenu",
+      "DATA": "Quer carregar este salvamento?"
+    },
+    {
+      "FORMID": "000A82",
+      "EDID": "sLoad",
+      "DATA": "Carregar"
+    },
+    {
+      "FORMID": "000A81",
+      "EDID": "sLipstickdarkred",
+      "DATA": "Batom vermelho-escuro/azul-claro"
+    },
+    {
+      "FORMID": "000A80",
+      "EDID": "sLipstickdarkblue",
+      "DATA": "Batom azul-escuro/vermelho-claro"
+    },
+    {
+      "FORMID": "000A7F",
+      "EDID": "sLipsflushed",
+      "DATA": "Lábios corados/pálidos"
+    },
+    {
+      "FORMID": "000A7E",
+      "EDID": "sLips",
+      "DATA": "Lábios"
+    },
+    {
+      "FORMID": "000A7D",
+      "EDID": "sLightFade",
+      "DATA": "Rend. da Luz"
+    },
+    {
+      "FORMID": "000A7C",
+      "EDID": "sLevelUpTitleText",
+      "DATA": "BEM-VINDO(A) AO NÍVEL %d"
+    },
+    {
+      "FORMID": "000A7B",
+      "EDID": "sLevelUpSkillCounterPl",
+      "DATA": "ASSINALAR %d PONTOS DE HABILIDADE"
+    },
+    {
+      "FORMID": "000A7A",
+      "EDID": "sLevelUpSkillCounter",
+      "DATA": "ASSINALE 1 PONTO DE HABILIDADE"
+    },
+    {
+      "FORMID": "000A79",
+      "EDID": "sLevelUpPerkCounterPl",
+      "DATA": "ESCOLHA %d VANTAGENS"
+    },
+    {
+      "FORMID": "000A78",
+      "EDID": "sLevelUpPerkCounter",
+      "DATA": "ESCOLHA 1 VANTAGEM"
+    },
+    {
+      "FORMID": "000A77",
+      "EDID": "sLevelUp",
+      "DATA": "SUBIU DE NÍVEL"
+    },
+    {
+      "FORMID": "000A76",
+      "EDID": "sLevelProgress",
+      "DATA": "Progresso do Nível"
+    },
+    {
+      "FORMID": "000A75",
+      "EDID": "sLevelAbbrev",
+      "DATA": "Nível"
+    },
+    {
+      "FORMID": "000A74",
+      "EDID": "sLength",
+      "DATA": "Comprimento"
+    },
+    {
+      "FORMID": "000A73",
+      "EDID": "sLeftLegDamagedMessage",
+      "DATA": "Sua perna esquerda está aleijada."
+    },
+    {
+      "FORMID": "000A72",
+      "EDID": "sLeftArmDamagedMessage",
+      "DATA": "Seu braço esquerdo está agora aleijado."
+    },
+    {
+      "FORMID": "000A71",
+      "EDID": "sLeaveMarker",
+      "DATA": "Deixar"
+    },
+    {
+      "FORMID": "000A70",
+      "EDID": "sLarge",
+      "DATA": "Grande"
+    },
+    {
+      "FORMID": "000A6F",
+      "EDID": "sKnownEffects",
+      "DATA": "Efeitos Conhecidos"
+    },
+    {
+      "FORMID": "000A6E",
+      "EDID": "sKillCamModePlayer",
+      "DATA": "Visão do Jogador"
+    },
+    {
+      "FORMID": "000A6D",
+      "EDID": "sKillCamModeNone",
+      "DATA": "Nenhum"
+    },
+    {
+      "FORMID": "000A6C",
+      "EDID": "sKillCamModeCinematic",
+      "DATA": "Cinemática"
+    },
+    {
+      "FORMID": "000A6B",
+      "EDID": "sKillCamMode",
+      "DATA": "Câmera de Morte"
+    },
+    {
+      "FORMID": "000A6A",
+      "EDID": "sKeyring",
+      "DATA": "Chaveiro"
+    },
+    {
+      "FORMID": "000A69",
+      "EDID": "sKeyLocked",
+      "DATA": "Esta chave não pode ser reatribuída"
+    },
+    {
+      "FORMID": "000A68",
+      "EDID": "sKBZ",
+      "DATA": "Z"
+    },
+    {
+      "FORMID": "000A67",
+      "EDID": "sKBY",
+      "DATA": "Y"
+    },
+    {
+      "FORMID": "000A66",
+      "EDID": "sKBX",
+      "DATA": "X"
+    },
+    {
+      "FORMID": "000A65",
+      "EDID": "sKBWebStop",
+      "DATA": "Web Stop"
+    },
+    {
+      "FORMID": "000A64",
+      "EDID": "sKBWebSearch",
+      "DATA": "Procurar"
+    },
+    {
+      "FORMID": "000A63",
+      "EDID": "sKBWebRefresh",
+      "DATA": "Atualizar"
+    },
+    {
+      "FORMID": "000A62",
+      "EDID": "sKBWebHome",
+      "DATA": "Web"
+    },
+    {
+      "FORMID": "000A61",
+      "EDID": "sKBWebForward",
+      "DATA": "Web ->"
+    },
+    {
+      "FORMID": "000A60",
+      "EDID": "sKBWebFavorites",
+      "DATA": "Fav"
+    },
+    {
+      "FORMID": "000A5F",
+      "EDID": "sKBWebBack",
+      "DATA": "Web <-"
+    },
+    {
+      "FORMID": "000A5E",
+      "EDID": "sKBWake",
+      "DATA": "Acordar"
+    },
+    {
+      "FORMID": "000A5D",
+      "EDID": "sKBW",
+      "DATA": "W"
+    },
+    {
+      "FORMID": "000A5C",
+      "EDID": "sKBVolumeUp",
+      "DATA": "Vol +"
+    },
+    {
+      "FORMID": "000A5B",
+      "EDID": "sKBVolumeDown",
+      "DATA": "Vol -"
+    },
+    {
+      "FORMID": "000A5A",
+      "EDID": "sKBV",
+      "DATA": "V"
+    },
+    {
+      "FORMID": "000A59",
+      "EDID": "sKBUp",
+      "DATA": "Cima"
+    },
+    {
+      "FORMID": "000A58",
+      "EDID": "sKBUnlabeled",
+      "DATA": "Sem nome"
+    },
+    {
+      "FORMID": "000A57",
+      "EDID": "sKBUnderline",
+      "DATA": "_"
+    },
+    {
+      "FORMID": "000A56",
+      "EDID": "sKBU",
+      "DATA": "U"
+    },
+    {
+      "FORMID": "000A55",
+      "EDID": "sKBTilde",
+      "DATA": "~"
+    },
+    {
+      "FORMID": "000A54",
+      "EDID": "sKBTab",
+      "DATA": "Tab"
+    },
+    {
+      "FORMID": "000A53",
+      "EDID": "sKBT",
+      "DATA": "T"
+    },
+    {
+      "FORMID": "000A52",
+      "EDID": "sKBSysRq",
+      "DATA": "PrntScrn"
+    },
+    {
+      "FORMID": "000A51",
+      "EDID": "sKBSubtract",
+      "DATA": "Pad -"
+    },
+    {
+      "FORMID": "000A50",
+      "EDID": "sKBStop",
+      "DATA": "Parar"
+    },
+    {
+      "FORMID": "000A4F",
+      "EDID": "sKBSleep",
+      "DATA": "Dormir"
+    },
+    {
+      "FORMID": "000A4E",
+      "EDID": "sKBSlash",
+      "DATA": "\/"
+    },
+    {
+      "FORMID": "000A4D",
+      "EDID": "sKBSemicolon",
+      "DATA": "\""
+    },
+    {
+      "FORMID": "000A4C",
+      "EDID": "sKBScroll",
+      "DATA": "Bloq Des"
+    },
+    {
+      "FORMID": "000A4B",
+      "EDID": "sKBS",
+      "DATA": "S"
+    },
+    {
+      "FORMID": "000A4A",
+      "EDID": "sKBRWin",
+      "DATA": "RWin"
+    },
+    {
+      "FORMID": "000A49",
+      "EDID": "sKBRShift",
+      "DATA": "R-Shift"
+    },
+    {
+      "FORMID": "000A48",
+      "EDID": "sKBRMenu",
+      "DATA": "R-Alt"
+    },
+    {
+      "FORMID": "000A47",
+      "EDID": "sKBRight",
+      "DATA": "Direita"
+    },
+    {
+      "FORMID": "000A46",
+      "EDID": "sKBReturn",
+      "DATA": "Entrar"
+    },
+    {
+      "FORMID": "000A45",
+      "EDID": "sKBRControl",
+      "DATA": "Ctrl Direito"
+    },
+    {
+      "FORMID": "000A44",
+      "EDID": "sKBRBracket",
+      "DATA": "]"
+    },
+    {
+      "FORMID": "000A43",
+      "EDID": "sKBR",
+      "DATA": "R"
+    },
+    {
+      "FORMID": "000A42",
+      "EDID": "sKBQ",
+      "DATA": "Q"
+    },
+    {
+      "FORMID": "000A41",
+      "EDID": "sKBPrior",
+      "DATA": "PgUp"
+    },
+    {
+      "FORMID": "000A40",
+      "EDID": "sKBPrevtrack",
+      "DATA": "Anterior"
+    },
+    {
+      "FORMID": "000A3F",
+      "EDID": "sKBPower",
+      "DATA": "Energia"
+    },
+    {
+      "FORMID": "000A3E",
+      "EDID": "sKBPlayPause",
+      "DATA": "Jogar"
+    },
+    {
+      "FORMID": "000A3D",
+      "EDID": "sKBPeriod",
+      "DATA": "."
+    },
+    {
+      "FORMID": "000A3C",
+      "EDID": "sKBPause",
+      "DATA": "Pausa"
+    },
+    {
+      "FORMID": "000A3B",
+      "EDID": "sKBP",
+      "DATA": "P"
+    },
+    {
+      "FORMID": "000A3A",
+      "EDID": "sKBOEM102",
+      "DATA": "<"
+    },
+    {
+      "FORMID": "000A39",
+      "EDID": "sKBO",
+      "DATA": "O"
+    },
+    {
+      "FORMID": "000A38",
+      "EDID": "sKBNumPadEquals",
+      "DATA": "Pad ="
+    },
+    {
+      "FORMID": "000A37",
+      "EDID": "sKBNumPadEnter",
+      "DATA": "Pad Enter"
+    },
+    {
+      "FORMID": "000A36",
+      "EDID": "sKBNumPadComma",
+      "DATA": "Pad ,"
+    },
+    {
+      "FORMID": "000A35",
+      "EDID": "sKBNumpad9",
+      "DATA": "Pad 9"
+    },
+    {
+      "FORMID": "000A34",
+      "EDID": "sKBNumpad8",
+      "DATA": "Pad 8"
+    },
+    {
+      "FORMID": "000A33",
+      "EDID": "sKBNumpad7",
+      "DATA": "Pad 7"
+    },
+    {
+      "FORMID": "000A32",
+      "EDID": "sKBNumpad6",
+      "DATA": "Pad 6"
+    },
+    {
+      "FORMID": "000A31",
+      "EDID": "sKBNumpad5",
+      "DATA": "Pad 5"
+    },
+    {
+      "FORMID": "000A30",
+      "EDID": "sKBNumpad4",
+      "DATA": "Pad 4"
+    },
+    {
+      "FORMID": "000A2F",
+      "EDID": "sKBNumpad3",
+      "DATA": "Pad 3"
+    },
+    {
+      "FORMID": "000A2E",
+      "EDID": "sKBNumpad2",
+      "DATA": "Pad 2"
+    },
+    {
+      "FORMID": "000A2D",
+      "EDID": "sKBNumpad1",
+      "DATA": "Pad 1"
+    },
+    {
+      "FORMID": "000A2C",
+      "EDID": "sKBNumpad0",
+      "DATA": "Pad 0"
+    },
+    {
+      "FORMID": "000A2B",
+      "EDID": "sKBNumlock",
+      "DATA": "Num"
+    },
+    {
+      "FORMID": "000A2A",
+      "EDID": "sKBNextTrack",
+      "DATA": "Próxima"
+    },
+    {
+      "FORMID": "000A29",
+      "EDID": "sKBNext",
+      "DATA": "PgDn"
+    },
+    {
+      "FORMID": "000A28",
+      "EDID": "sKBN",
+      "DATA": "N"
+    },
+    {
+      "FORMID": "000A27",
+      "EDID": "sKBMyComputer",
+      "DATA": "Meu Computador"
+    },
+    {
+      "FORMID": "000A26",
+      "EDID": "sKBMute",
+      "DATA": "Mudo"
+    },
+    {
+      "FORMID": "000A25",
+      "EDID": "sKBMultiply",
+      "DATA": "Pad *"
+    },
+    {
+      "FORMID": "000A24",
+      "EDID": "sKBMinus",
+      "DATA": "-"
+    },
+    {
+      "FORMID": "000A23",
+      "EDID": "sKBMediaStop",
+      "DATA": "Parar"
+    },
+    {
+      "FORMID": "000A22",
+      "EDID": "sKBMediaSelect",
+      "DATA": "Selecionar"
+    },
+    {
+      "FORMID": "000A21",
+      "EDID": "sKBMail",
+      "DATA": "Mensagem"
+    },
+    {
+      "FORMID": "000A20",
+      "EDID": "sKBM",
+      "DATA": "M"
+    },
+    {
+      "FORMID": "000A1F",
+      "EDID": "sKBLWin",
+      "DATA": "LWin"
+    },
+    {
+      "FORMID": "000A1E",
+      "EDID": "sKBLShift",
+      "DATA": "L-Shift"
+    },
+    {
+      "FORMID": "000A1D",
+      "EDID": "sKBLMenu",
+      "DATA": "L-Alt"
+    },
+    {
+      "FORMID": "000A1C",
+      "EDID": "sKBLeft",
+      "DATA": "Esquerda"
+    },
+    {
+      "FORMID": "000A1B",
+      "EDID": "sKBLControl",
+      "DATA": "Ctrl Esquerdo"
+    },
+    {
+      "FORMID": "000A1A",
+      "EDID": "sKBLBracket",
+      "DATA": "["
+    },
+    {
+      "FORMID": "000A19",
+      "EDID": "sKBL",
+      "DATA": "L"
+    },
+    {
+      "FORMID": "000A18",
+      "EDID": "sKBK",
+      "DATA": "K"
+    },
+    {
+      "FORMID": "000A17",
+      "EDID": "sKBJ",
+      "DATA": "J"
+    },
+    {
+      "FORMID": "000A16",
+      "EDID": "sKBInsert",
+      "DATA": "Inserir"
+    },
+    {
+      "FORMID": "000A15",
+      "EDID": "sKBI",
+      "DATA": "I"
+    },
+    {
+      "FORMID": "000A14",
+      "EDID": "sKBHome",
+      "DATA": "Casa"
+    },
+    {
+      "FORMID": "000A13",
+      "EDID": "sKBH",
+      "DATA": "H"
+    },
+    {
+      "FORMID": "000A12",
+      "EDID": "sKBG",
+      "DATA": "G"
+    },
+    {
+      "FORMID": "000A11",
+      "EDID": "sKBF9",
+      "DATA": "F9"
+    },
+    {
+      "FORMID": "000A10",
+      "EDID": "sKBF8",
+      "DATA": "F8"
+    },
+    {
+      "FORMID": "000A0F",
+      "EDID": "sKBF7",
+      "DATA": "F7"
+    },
+    {
+      "FORMID": "000A0E",
+      "EDID": "sKBF6",
+      "DATA": "F6"
+    },
+    {
+      "FORMID": "000A0D",
+      "EDID": "sKBF5",
+      "DATA": "F5"
+    },
+    {
+      "FORMID": "000A0C",
+      "EDID": "sKBF4",
+      "DATA": "F4"
+    },
+    {
+      "FORMID": "000A0B",
+      "EDID": "sKBF3",
+      "DATA": "F3"
+    },
+    {
+      "FORMID": "000A0A",
+      "EDID": "sKBF2",
+      "DATA": "F2"
+    },
+    {
+      "FORMID": "000A09",
+      "EDID": "sKBF15",
+      "DATA": "F15"
+    },
+    {
+      "FORMID": "000A08",
+      "EDID": "sKBF14",
+      "DATA": "F14"
+    },
+    {
+      "FORMID": "000A07",
+      "EDID": "sKBF13",
+      "DATA": "F13"
+    },
+    {
+      "FORMID": "000A06",
+      "EDID": "sKBF12",
+      "DATA": "F12"
+    },
+    {
+      "FORMID": "000A05",
+      "EDID": "sKBF11",
+      "DATA": "F11"
+    },
+    {
+      "FORMID": "000A04",
+      "EDID": "sKBF10",
+      "DATA": "F10"
+    },
+    {
+      "FORMID": "000A03",
+      "EDID": "sKBF1",
+      "DATA": "F1"
+    },
+    {
+      "FORMID": "000A02",
+      "EDID": "sKBF",
+      "DATA": "F"
+    },
+    {
+      "FORMID": "000A01",
+      "EDID": "sKBEsc",
+      "DATA": "Esc"
+    },
+    {
+      "FORMID": "000A00",
+      "EDID": "sKBEquals",
+      "DATA": "="
+    },
+    {
+      "FORMID": "0009FF",
+      "EDID": "sKBEnd",
+      "DATA": "Fim"
+    },
+    {
+      "FORMID": "0009FE",
+      "EDID": "sKBE",
+      "DATA": "E"
+    },
+    {
+      "FORMID": "0009FD",
+      "EDID": "sKBDown",
+      "DATA": "Baixo"
+    },
+    {
+      "FORMID": "0009FC",
+      "EDID": "sKBDivide",
+      "DATA": "Pad \/"
+    },
+    {
+      "FORMID": "0009FB",
+      "EDID": "sKBDelete",
+      "DATA": "Apagar"
+    },
+    {
+      "FORMID": "0009FA",
+      "EDID": "sKBDecimal",
+      "DATA": "Pad ."
+    },
+    {
+      "FORMID": "0009F9",
+      "EDID": "sKBD",
+      "DATA": "D"
+    },
+    {
+      "FORMID": "0009F8",
+      "EDID": "sKBComma",
+      "DATA": ","
+    },
+    {
+      "FORMID": "0009F7",
+      "EDID": "sKBColon",
+      "DATA": ":"
+    },
+    {
+      "FORMID": "0009F6",
+      "EDID": "sKBCalculator",
+      "DATA": "Calculadora"
+    },
+    {
+      "FORMID": "0009F5",
+      "EDID": "sKBC",
+      "DATA": "C"
+    },
+    {
+      "FORMID": "0009F4",
+      "EDID": "sKBBackslash",
+      "DATA": "\\"
+    },
+    {
+      "FORMID": "0009F3",
+      "EDID": "sKBBack",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "0009F2",
+      "EDID": "sKBB",
+      "DATA": "B"
+    },
+    {
+      "FORMID": "0009F1",
+      "EDID": "sKBAt",
+      "DATA": "@"
+    },
+    {
+      "FORMID": "0009F0",
+      "EDID": "sKBApps",
+      "DATA": "Aplic."
+    },
+    {
+      "FORMID": "0009EF",
+      "EDID": "sKBApostrophe",
+      "DATA": "'"
+    },
+    {
+      "FORMID": "0009EE",
+      "EDID": "sKBAdd",
+      "DATA": "Pad +"
+    },
+    {
+      "FORMID": "0009ED",
+      "EDID": "sKBABNTC2",
+      "DATA": "Pad ."
+    },
+    {
+      "FORMID": "0009EC",
+      "EDID": "sKBABNTC1",
+      "DATA": "\/"
+    },
+    {
+      "FORMID": "0009EB",
+      "EDID": "sKBA",
+      "DATA": "A"
+    },
+    {
+      "FORMID": "0009EA",
+      "EDID": "sKB9",
+      "DATA": "9"
+    },
+    {
+      "FORMID": "0009E9",
+      "EDID": "sKB8",
+      "DATA": "8"
+    },
+    {
+      "FORMID": "0009E8",
+      "EDID": "sKB7",
+      "DATA": "7"
+    },
+    {
+      "FORMID": "0009E7",
+      "EDID": "sKB6",
+      "DATA": "6"
+    },
+    {
+      "FORMID": "0009E6",
+      "EDID": "sKB5",
+      "DATA": "5"
+    },
+    {
+      "FORMID": "0009E5",
+      "EDID": "sKB4",
+      "DATA": "4"
+    },
+    {
+      "FORMID": "0009E4",
+      "EDID": "sKB3",
+      "DATA": "3"
+    },
+    {
+      "FORMID": "0009E3",
+      "EDID": "sKB2",
+      "DATA": "2"
+    },
+    {
+      "FORMID": "0009E2",
+      "EDID": "sKB1",
+      "DATA": "1"
+    },
+    {
+      "FORMID": "0009E1",
+      "EDID": "sKB0",
+      "DATA": "0"
+    },
+    {
+      "FORMID": "0009E0",
+      "EDID": "sKarmicTitleNeutral19",
+      "DATA": "Super-humano"
+    },
+    {
+      "FORMID": "0009DF",
+      "EDID": "sKarmicTitleNeutral18",
+      "DATA": "Sentinela dos Ermos"
+    },
+    {
+      "FORMID": "0009DE",
+      "EDID": "sKarmicTitleNeutral17",
+      "DATA": "Comportado"
+    },
+    {
+      "FORMID": "0009DD",
+      "EDID": "sKarmicTitleNeutral16",
+      "DATA": "O Caminhante dos Ermos"
+    },
+    {
+      "FORMID": "0009DC",
+      "EDID": "sKarmicTitleNeutral14",
+      "DATA": "Ápice da Sobrevivência"
+    },
+    {
+      "FORMID": "0009DB",
+      "EDID": "sKarmicTitleNeutral12",
+      "DATA": "Defensor"
+    },
+    {
+      "FORMID": "0009DA",
+      "EDID": "sKarmicTitleNeutral10",
+      "DATA": "Observador"
+    },
+    {
+      "FORMID": "0009D9",
+      "EDID": "sKarmicTitleNeutral08",
+      "DATA": "Mercenário"
+    },
+    {
+      "FORMID": "0009D8",
+      "EDID": "sKarmicTitleNeutral07",
+      "DATA": "Vagabundo dos Ermos"
+    },
+    {
+      "FORMID": "0009D7",
+      "EDID": "sKarmicTitleNeutral06",
+      "DATA": "Aventureiro"
+    },
+    {
+      "FORMID": "0009D6",
+      "EDID": "sKarmicTitleNeutral05",
+      "DATA": "Cidadão"
+    },
+    {
+      "FORMID": "0009D5",
+      "EDID": "sKarmicTitleNeutral04",
+      "DATA": "Viajante"
+    },
+    {
+      "FORMID": "0009D4",
+      "EDID": "sKarmicTitleNeutral03",
+      "DATA": "Perseguidor"
+    },
+    {
+      "FORMID": "0009D3",
+      "EDID": "sKarmicTitleGood28",
+      "DATA": "Última e Melhor Esperança da Humanidade"
+    },
+    {
+      "FORMID": "0009D2",
+      "EDID": "sKarmicTitleGood19",
+      "DATA": "Santo"
+    },
+    {
+      "FORMID": "0009D1",
+      "EDID": "sKarmicTitleGood18",
+      "DATA": "Salvador dos Ermos"
+    },
+    {
+      "FORMID": "0009D0",
+      "EDID": "sKarmicTitleGood17",
+      "DATA": "Modelo de Perfeição"
+    },
+    {
+      "FORMID": "0009CF",
+      "EDID": "sKarmicTitleGood16",
+      "DATA": "Herói dos Ermos"
+    },
+    {
+      "FORMID": "0009CE",
+      "EDID": "sKarmicTitleGood12",
+      "DATA": "Paladino"
+    },
+    {
+      "FORMID": "0009CD",
+      "EDID": "sKarmicTitleGood10",
+      "DATA": "Exemplar"
+    },
+    {
+      "FORMID": "0009CC",
+      "EDID": "sKarmicTitleGood08",
+      "DATA": "Protetor"
+    },
+    {
+      "FORMID": "0009CB",
+      "EDID": "sKarmicTitleGood07",
+      "DATA": "Patrulheiro dos Ermos"
+    },
+    {
+      "FORMID": "0009CA",
+      "EDID": "sKarmicTitleGood06",
+      "DATA": "Pacificador"
+    },
+    {
+      "FORMID": "0009C9",
+      "EDID": "sKarmicTitleGood05",
+      "DATA": "Dignatário"
+    },
+    {
+      "FORMID": "0009C8",
+      "EDID": "sKarmicTitleGood04",
+      "DATA": "Defensor"
+    },
+    {
+      "FORMID": "0009C7",
+      "EDID": "sKarmicTitleGood03",
+      "DATA": "Sentinela"
+    },
+    {
+      "FORMID": "0009C6",
+      "EDID": "sKarmicTitleEvil19",
+      "DATA": "O Demônio Encarnado"
+    },
+    {
+      "FORMID": "0009C5",
+      "EDID": "sKarmicTitleEvil18",
+      "DATA": "Destruidor dos Ermos"
+    },
+    {
+      "FORMID": "0009C4",
+      "EDID": "sKarmicTitleEvil17",
+      "DATA": "Diabo"
+    },
+    {
+      "FORMID": "0009C3",
+      "EDID": "sKarmicTitleEvil16",
+      "DATA": "Vilão dos Ermos"
+    },
+    {
+      "FORMID": "0009C2",
+      "EDID": "sKarmicTitleEvil12",
+      "DATA": "Profanador"
+    },
+    {
+      "FORMID": "0009C1",
+      "EDID": "sKarmicTitleEvil10",
+      "DATA": "Tratante"
+    },
+    {
+      "FORMID": "0009C0",
+      "EDID": "sKarmicTitleEvil07",
+      "DATA": "Pirata dos Ermos"
+    },
+    {
+      "FORMID": "0009BF",
+      "EDID": "sKarmicTitleEvil06",
+      "DATA": "Pilhador"
+    },
+    {
+      "FORMID": "0009BE",
+      "EDID": "sKarmicTitleEvil05",
+      "DATA": "Peixe Grande"
+    },
+    {
+      "FORMID": "0009BD",
+      "EDID": "sKarmicTitleEvil04",
+      "DATA": "Saqueador"
+    },
+    {
+      "FORMID": "0009BC",
+      "EDID": "sKarmicTitleEvil03",
+      "DATA": "Oportunista"
+    },
+    {
+      "FORMID": "0009BB",
+      "EDID": "sJunk",
+      "DATA": "Lixo"
+    },
+    {
+      "FORMID": "0009BA",
+      "EDID": "sJoyUpRight",
+      "DATA": "Cima-Dir"
+    },
+    {
+      "FORMID": "0009B9",
+      "EDID": "sJoyUpLeft",
+      "DATA": "Cima-Esquerda"
+    },
+    {
+      "FORMID": "0009B8",
+      "EDID": "sJoyUp",
+      "DATA": "Cima"
+    },
+    {
+      "FORMID": "0009B7",
+      "EDID": "sJoyRight",
+      "DATA": "Direita"
+    },
+    {
+      "FORMID": "0009B6",
+      "EDID": "sJoyLeft",
+      "DATA": "Esquerda"
+    },
+    {
+      "FORMID": "0009B5",
+      "EDID": "sJoyDownRight",
+      "DATA": "Baixo-Dir"
+    },
+    {
+      "FORMID": "0009B4",
+      "EDID": "sJoyDownLeft",
+      "DATA": "Baixo-Esq"
+    },
+    {
+      "FORMID": "0009B3",
+      "EDID": "sJoyDown",
+      "DATA": "Baixo"
+    },
+    {
+      "FORMID": "0009B2",
+      "EDID": "sJournalTitleCurrent",
+      "DATA": "Missões Atuais"
+    },
+    {
+      "FORMID": "0009B1",
+      "EDID": "sJournalTitleCompletedDetails",
+      "DATA": "Detalhes da Missão Completada"
+    },
+    {
+      "FORMID": "0009B0",
+      "EDID": "sJournalTitleCompleted",
+      "DATA": "Missões Realizadas"
+    },
+    {
+      "FORMID": "0009AF",
+      "EDID": "sJournalTitleActive",
+      "DATA": "Missão Ativa"
+    },
+    {
+      "FORMID": "0009AE",
+      "EDID": "sJawwide",
+      "DATA": "Mandíbula larga\/fina"
+    },
+    {
+      "FORMID": "0009AD",
+      "EDID": "sJawretracted",
+      "DATA": "Mandíbula retraída\/saliente"
+    },
+    {
+      "FORMID": "0009AC",
+      "EDID": "sJawNeck",
+      "DATA": "Inclinação mandíbula-pescoço alta\/baixa"
+    },
+    {
+      "FORMID": "0009AB",
+      "EDID": "sJawline",
+      "DATA": "Linha da mandíbula côncava/convexa"
+    },
+    {
+      "FORMID": "0009AA",
+      "EDID": "sJaw",
+      "DATA": "Mandíbula"
+    },
+    {
+      "FORMID": "0009A9",
+      "EDID": "sItemFade",
+      "DATA": "Rend. de Itens"
+    },
+    {
+      "FORMID": "0009A8",
+      "EDID": "sInventoryWeightUpper",
+      "DATA": "KG"
+    },
+    {
+      "FORMID": "0009A7",
+      "EDID": "sInventoryWeight",
+      "DATA": "KG"
+    },
+    {
+      "FORMID": "0009A6",
+      "EDID": "sInventoryWeapons",
+      "DATA": "Armas"
+    },
+    {
+      "FORMID": "0009A5",
+      "EDID": "sInventoryValue",
+      "DATA": "VAL"
+    },
+    {
+      "FORMID": "0009A4",
+      "EDID": "sInventoryUse",
+      "DATA": "Usar"
+    },
+    {
+      "FORMID": "0009A3",
+      "EDID": "sInventoryUnequip",
+      "DATA": "Desequipar"
+    },
+    {
+      "FORMID": "0009A2",
+      "EDID": "sInventoryStrReq",
+      "DATA": "FOR"
+    },
+    {
+      "FORMID": "0009A1",
+      "EDID": "sInventoryRepair",
+      "DATA": "REPARAR"
+    },
+    {
+      "FORMID": "0009A0",
+      "EDID": "sInventoryQuantity",
+      "DATA": "QNT"
+    },
+    {
+      "FORMID": "00099F",
+      "EDID": "sInventoryName",
+      "DATA": "NOME"
+    },
+    {
+      "FORMID": "00099E",
+      "EDID": "sInventoryMod",
+      "DATA": "Modificar"
+    },
+    {
+      "FORMID": "00099D",
+      "EDID": "sInventoryMisc",
+      "DATA": "Diversos"
+    },
+    {
+      "FORMID": "00099C",
+      "EDID": "sInventoryItems",
+      "DATA": "ITENS"
+    },
+    {
+      "FORMID": "00099B",
+      "EDID": "sInventoryHotKey",
+      "DATA": "Atalho"
+    },
+    {
+      "FORMID": "00099A",
+      "EDID": "sInventoryEquip",
+      "DATA": "Equipar"
+    },
+    {
+      "FORMID": "000999",
+      "EDID": "sInventoryEffects",
+      "DATA": "EFEITOS"
+    },
+    {
+      "FORMID": "000998",
+      "EDID": "sInventoryDrop",
+      "DATA": "Largar"
+    },
+    {
+      "FORMID": "000997",
+      "EDID": "sInventoryDamageThreshold",
+      "DATA": "LD"
+    },
+    {
+      "FORMID": "000996",
+      "EDID": "sInventoryDamageResistance",
+      "DATA": "RD"
+    },
+    {
+      "FORMID": "000995",
+      "EDID": "sInventoryDamagePerSecond",
+      "DATA": "DPS"
+    },
+    {
+      "FORMID": "000994",
+      "EDID": "sInventoryDamage",
+      "DATA": "DAN"
+    },
+    {
+      "FORMID": "000993",
+      "EDID": "sInventoryCondition",
+      "DATA": "CND"
+    },
+    {
+      "FORMID": "000992",
+      "EDID": "sInventoryCaps",
+      "DATA": "TAMPAS"
+    },
+    {
+      "FORMID": "000991",
+      "EDID": "sInventoryArmorClass",
+      "DATA": "Classe de Armadura"
+    },
+    {
+      "FORMID": "000990",
+      "EDID": "sInventoryApparel",
+      "DATA": "Vestuário"
+    },
+    {
+      "FORMID": "00098F",
+      "EDID": "sInventoryAmmoTab",
+      "DATA": "Munição"
+    },
+    {
+      "FORMID": "00098E",
+      "EDID": "sInventoryAmmo",
+      "DATA": "MUNIÇÃO"
+    },
+    {
+      "FORMID": "00098D",
+      "EDID": "sInventoryAid",
+      "DATA": "Ajuda"
+    },
+    {
+      "FORMID": "00098C",
+      "EDID": "sInvalidPickpocket",
+      "DATA": "Você não pode colocar coisas em algum recipiente enquanto bate carteira."
+    },
+    {
+      "FORMID": "00098B",
+      "EDID": "sIngredients",
+      "DATA": "Ingredientes"
+    },
+    {
+      "FORMID": "00098A",
+      "EDID": "sIngredientFail",
+      "DATA": "Ingrediente não fez efeito."
+    },
+    {
+      "FORMID": "000989",
+      "EDID": "sIncreaseBetText",
+      "DATA": "Aumentar Aposta"
+    },
+    {
+      "FORMID": "000988",
+      "EDID": "sIncrease",
+      "DATA": "Aumentou"
+    },
+    {
+      "FORMID": "000987",
+      "EDID": "sInaccessible",
+      "DATA": "[INACESSÍVEL]"
+    },
+    {
+      "FORMID": "000986",
+      "EDID": "sImpossibleLock",
+      "DATA": "Esta fechadura não pode ser arrombada. Requer uma chave para ser aberta."
+    },
+    {
+      "FORMID": "000985",
+      "EDID": "sImageNote",
+      "DATA": "Arquivo de Imagem"
+    },
+    {
+      "FORMID": "000984",
+      "EDID": "sIgnoreText",
+      "DATA": "&Ignorar"
+    },
+    {
+      "FORMID": "000983",
+      "EDID": "sHungerNotSick",
+      "DATA": "Você não tem mais doença por fome."
+    },
+    {
+      "FORMID": "000982",
+      "EDID": "sHungerIncrease",
+      "DATA": "Seu nível de fome aumentou."
+    },
+    {
+      "FORMID": "000981",
+      "EDID": "sHungerDecrease",
+      "DATA": "Seu nível de fome diminuiu."
+    },
+    {
+      "FORMID": "000980",
+      "EDID": "sHUDUseKey",
+      "DATA": "Usar Chave"
+    },
+    {
+      "FORMID": "00097F",
+      "EDID": "sHUDRads",
+      "DATA": "RAD"
+    },
+    {
+      "FORMID": "00097E",
+      "EDID": "sHUDQuestCompleted",
+      "DATA": "MISSÃO COMPLETA:"
+    },
+    {
+      "FORMID": "00097D",
+      "EDID": "sHUDOpacity",
+      "DATA": "Opacidade do HUD"
+    },
+    {
+      "FORMID": "00097C",
+      "EDID": "sHUDHealth",
+      "DATA": "Vida"
+    },
+    {
+      "FORMID": "00097B",
+      "EDID": "sHUDColor",
+      "DATA": "Cor do HUD"
+    },
+    {
+      "FORMID": "00097A",
+      "EDID": "sHowManyWait",
+      "DATA": "Quanto tempo você gostaria de"
+    },
+    {
+      "FORMID": "000979",
+      "EDID": "sHowMany",
+      "DATA": "Quanto?"
+    },
+    {
+      "FORMID": "000978",
+      "EDID": "sHours",
+      "DATA": "horas"
+    },
+    {
+      "FORMID": "000977",
+      "EDID": "sHour",
+      "DATA": "hora"
+    },
+    {
+      "FORMID": "000976",
+      "EDID": "sHotKeyString",
+      "DATA": "Atalho"
+    },
+    {
+      "FORMID": "000975",
+      "EDID": "sHolidayWitchesFestival",
+      "DATA": "Festival das Bruxas"
+    },
+    {
+      "FORMID": "000974",
+      "EDID": "sHolidayWarriorsFestival",
+      "DATA": "Festival dos Guerreiros"
+    },
+    {
+      "FORMID": "000973",
+      "EDID": "sHolidayTalesAndTallows",
+      "DATA": "Contos e Sebos"
+    },
+    {
+      "FORMID": "000972",
+      "EDID": "sHolidaySunsRest",
+      "DATA": "Pôr do Sol"
+    },
+    {
+      "FORMID": "000971",
+      "EDID": "sHolidaySouthWindsPrayer",
+      "DATA": "Oração dos Ventos do Sul"
+    },
+    {
+      "FORMID": "000970",
+      "EDID": "sHolidaySecondPlanting",
+      "DATA": "Segundo Plantio"
+    },
+    {
+      "FORMID": "00096F",
+      "EDID": "sHolidayOldLifeFestival",
+      "DATA": "Antigo Festival da Vida"
+    },
+    {
+      "FORMID": "00096E",
+      "EDID": "sHolidayNorthWindsPrayer",
+      "DATA": "Oração dos Ventos do Norte"
+    },
+    {
+      "FORMID": "00096D",
+      "EDID": "sHolidayNewLifeFestival",
+      "DATA": "Festival Vida Nova"
+    },
+    {
+      "FORMID": "00096C",
+      "EDID": "sHolidayMidYearCelebration",
+      "DATA": "Celebração de Meio de Ano"
+    },
+    {
+      "FORMID": "00096B",
+      "EDID": "sHolidayMerchantsFestival",
+      "DATA": "Festival dos Comerciantes"
+    },
+    {
+      "FORMID": "00096A",
+      "EDID": "sHolidayJestersDay",
+      "DATA": "Dia do Bobo"
+    },
+    {
+      "FORMID": "000969",
+      "EDID": "sHolidayHarvestsEnd",
+      "DATA": "Fim da Colheita"
+    },
+    {
+      "FORMID": "000968",
+      "EDID": "sHolidayFirstPlanting",
+      "DATA": "Primeiro Plantio"
+    },
+    {
+      "FORMID": "000967",
+      "EDID": "sHolidayEmperorsBirthday",
+      "DATA": "Aniversário do Imperador"
+    },
+    {
+      "FORMID": "000966",
+      "EDID": "sHitText",
+      "DATA": "Acerto"
+    },
+    {
+      "FORMID": "000965",
+      "EDID": "sHitPointsShort",
+      "DATA": "HP"
+    },
+    {
+      "FORMID": "000964",
+      "EDID": "sHigh",
+      "DATA": "Alto"
+    },
+    {
+      "FORMID": "000963",
+      "EDID": "sHelp",
+      "DATA": "Ajuda"
+    },
+    {
+      "FORMID": "000962",
+      "EDID": "sHeavyArmorSink",
+      "DATA": "Sua armadura pesada está fazendo você afundar."
+    },
+    {
+      "FORMID": "000961",
+      "EDID": "sHeavyArmorNoJump",
+      "DATA": "Sua armadura pesada o impede de pular."
+    },
+    {
+      "FORMID": "000960",
+      "EDID": "sHealth",
+      "DATA": "Vida"
+    },
+    {
+      "FORMID": "00095F",
+      "EDID": "sHeadDamagedMessage",
+      "DATA": "Sua cabeça está agora ferida."
+    },
+    {
+      "FORMID": "00095E",
+      "EDID": "sHardcore",
+      "DATA": "Modo Hardcore"
+    },
+    {
+      "FORMID": "00095D",
+      "EDID": "sHair",
+      "DATA": "Cabelo"
+    },
+    {
+      "FORMID": "00095C",
+      "EDID": "sHackingWarning",
+      "DATA": "!!! AVISO: BLOQUEIO IMINENTE !!!"
+    },
+    {
+      "FORMID": "00095B",
+      "EDID": "sHackingToleranceReset2",
+      "DATA": "recuperados."
+    },
+    {
+      "FORMID": "00095A",
+      "EDID": "sHackingToleranceReset1",
+      "DATA": "Tentativas"
+    },
+    {
+      "FORMID": "000959",
+      "EDID": "sHackingSecurityReset",
+      "DATA": "REINICIALIZANDO SEGURANÇA..."
+    },
+    {
+      "FORMID": "000958",
+      "EDID": "sHackingLockout4",
+      "DATA": "POR FAVOR CONTATE UM ADMINISTRADOR"
+    },
+    {
+      "FORMID": "000957",
+      "EDID": "sHackingLockout3",
+      "DATA": "TERMINAL BLOQUEADO"
+    },
+    {
+      "FORMID": "000956",
+      "EDID": "sHackingLockout2",
+      "DATA": "progresso."
+    },
+    {
+      "FORMID": "000955",
+      "EDID": "sHackingLockout1",
+      "DATA": "Bloqueio em"
+    },
+    {
+      "FORMID": "000954",
+      "EDID": "sHackingIntro13",
+      "DATA": "RODAR DEBUG\/ACCOUNTS.F"
+    },
+    {
+      "FORMID": "000953",
+      "EDID": "sHackingIntro12",
+      "DATA": "Modo de Manutenção"
+    },
+    {
+      "FORMID": "000952",
+      "EDID": "sHackingIntro11",
+      "DATA": "Root (5A8)"
+    },
+    {
+      "FORMID": "000951",
+      "EDID": "sHackingIntro10",
+      "DATA": "Memória Superior: 64 KB"
+    },
+    {
+      "FORMID": "000950",
+      "EDID": "sHackingIntro09",
+      "DATA": "Copyright 2201-2203 Robco Ind."
+    },
+    {
+      "FORMID": "00094F",
+      "EDID": "sHackingIntro08",
+      "DATA": "RBIOS-4.02.08.00 52EE5.E7.E8"
+    },
+    {
+      "FORMID": "00094E",
+      "EDID": "sHackingIntro07",
+      "DATA": "RETROS BIOS"
+    },
+    {
+      "FORMID": "00094D",
+      "EDID": "sHackingIntro06",
+      "DATA": "Inicializando Robco Indústrias(TM) MF Boot Agent v2.3.0"
+    },
+    {
+      "FORMID": "00094C",
+      "EDID": "sHackingIntro05",
+      "DATA": "SELECIONAR PARA PARAR REINICIAR\/MANTER"
+    },
+    {
+      "FORMID": "00094B",
+      "EDID": "sHackingIntro04",
+      "DATA": "ENTRE COM ARQUIVO\/PROTEÇÃO=PROP:RWED CONTAS.F"
+    },
+    {
+      "FORMID": "00094A",
+      "EDID": "sHackingIntro03",
+      "DATA": "RIT-V300"
+    },
+    {
+      "FORMID": "000949",
+      "EDID": "sHackingIntro02",
+      "DATA": "SELECIONAR TERMINAL\/ENTRADA"
+    },
+    {
+      "FORMID": "000948",
+      "EDID": "sHackingIntro01",
+      "DATA": "BEM-VINDO AO TERMOLINK DA ROBCO INDÚSTRIAS (TM)"
+    },
+    {
+      "FORMID": "000947",
+      "EDID": "sHackingHeader3",
+      "DATA": "TENTATIVAS RESTANTES:"
+    },
+    {
+      "FORMID": "000946",
+      "EDID": "sHackingHeader2",
+      "DATA": "ENTRE COM A SENHA AGORA"
+    },
+    {
+      "FORMID": "000945",
+      "EDID": "sHackingHeader",
+      "DATA": "PROTOCOLO TERMOLINK DA ROBCO INDÚSTRIAS (TM)"
+    },
+    {
+      "FORMID": "000944",
+      "EDID": "sHackingGranted",
+      "DATA": "Exato!"
+    },
+    {
+      "FORMID": "000943",
+      "EDID": "sHackingDudRemoved",
+      "DATA": "Erro removido."
+    },
+    {
+      "FORMID": "000942",
+      "EDID": "sHackingDenied",
+      "DATA": "Acesso negado"
+    },
+    {
+      "FORMID": "000941",
+      "EDID": "sHackingCorrect",
+      "DATA": "correto"
+    },
+    {
+      "FORMID": "000940",
+      "EDID": "sHackingAccessing3",
+      "DATA": "foi acessado."
+    },
+    {
+      "FORMID": "00093F",
+      "EDID": "sHackingAccessing2",
+      "DATA": "aguardando sistema"
+    },
+    {
+      "FORMID": "00093E",
+      "EDID": "sHackingAccessing1",
+      "DATA": "Por favor aguarde"
+    },
+    {
+      "FORMID": "00093D",
+      "EDID": "sHackIneligible",
+      "DATA": "É necessária uma habilidade de %s de %d para hackear este terminal."
+    },
+    {
+      "FORMID": "00093C",
+      "EDID": "sGreen",
+      "DATA": "Verde"
+    },
+    {
+      "FORMID": "00093B",
+      "EDID": "sGrassFade",
+      "DATA": "Rend. da Grama"
+    },
+    {
+      "FORMID": "00093A",
+      "EDID": "sGotAwayWithStealing",
+      "DATA": "roubou e ficou impune"
+    },
+    {
+      "FORMID": "000939",
+      "EDID": "sGold",
+      "DATA": "Dourado"
+    },
+    {
+      "FORMID": "000938",
+      "EDID": "sGiveAway",
+      "DATA": "Dar"
+    },
+    {
+      "FORMID": "000937",
+      "EDID": "sGFWLive",
+      "DATA": "LIVE"
+    },
+    {
+      "FORMID": "000936",
+      "EDID": "sGeneralSubtitles",
+      "DATA": "Legendas Gerais"
+    },
+    {
+      "FORMID": "000935",
+      "EDID": "sGeneralSkin",
+      "DATA": "Geral (Pele)"
+    },
+    {
+      "FORMID": "000934",
+      "EDID": "sGeneralFace",
+      "DATA": "Geral (Face)"
+    },
+    {
+      "FORMID": "000933",
+      "EDID": "sGender",
+      "DATA": "Gênero"
+    },
+    {
+      "FORMID": "000932",
+      "EDID": "sGameplay",
+      "DATA": "Jogabilidade"
+    },
+    {
+      "FORMID": "000931",
+      "EDID": "sGamblingMinWinText",
+      "DATA": "Você não venceu o suficiente neste cassino para jogar este jogo."
+    },
+    {
+      "FORMID": "000930",
+      "EDID": "sGamblingBrokeText",
+      "DATA": "Você precisa comprar fichas antes de jogar este jogo."
+    },
+    {
+      "FORMID": "00092F",
+      "EDID": "sGamblingBannedText",
+      "DATA": "Você foi banido de jogar neste cassino."
+    },
+    {
+      "FORMID": "00092E",
+      "EDID": "sFullHealth",
+      "DATA": "Você já tem saúde completa."
+    },
+    {
+      "FORMID": "00092D",
+      "EDID": "sFrenziedByPlayerMessage",
+      "DATA": "Enlouquecido"
+    },
+    {
+      "FORMID": "00092C",
+      "EDID": "sForfeitGameText",
+      "DATA": "Jogo Perdido"
+    },
+    {
+      "FORMID": "00092B",
+      "EDID": "sForeheadtilt",
+      "DATA": "Inclinação da Testa frente\/trás"
+    },
+    {
+      "FORMID": "00092A",
+      "EDID": "sForeheadtall",
+      "DATA": "Testa alta\/baixa"
+    },
+    {
+      "FORMID": "000929",
+      "EDID": "sForeheadsmall",
+      "DATA": "Testa pequena\/grande"
+    },
+    {
+      "FORMID": "000928",
+      "EDID": "sForehead",
+      "DATA": "Testa"
+    },
+    {
+      "FORMID": "000927",
+      "EDID": "sForceLock",
+      "DATA": "Forçar Fechadura"
+    },
+    {
+      "FORMID": "000926",
+      "EDID": "sFor",
+      "DATA": "para"
+    },
+    {
+      "FORMID": "000925",
+      "EDID": "sFootstepsVolume",
+      "DATA": "Passos"
+    },
+    {
+      "FORMID": "000924",
+      "EDID": "sFloraSuccessMessage",
+      "DATA": "Você colheu com sucesso %s."
+    },
+    {
+      "FORMID": "000923",
+      "EDID": "sFloraFailureMessage",
+      "DATA": "Você não achou nada de útil."
+    },
+    {
+      "FORMID": "000922",
+      "EDID": "sFirstDozenText",
+      "DATA": "1ª Dúzia"
+    },
+    {
+      "FORMID": "000921",
+      "EDID": "sFinsihBetText",
+      "DATA": "Finalizar Aposta"
+    },
+    {
+      "FORMID": "000920",
+      "EDID": "sFindingContentMessage",
+      "DATA": "Procurando por conteúdo, por favor, aguarde."
+    },
+    {
+      "FORMID": "00091F",
+      "EDID": "sFileNotFound",
+      "DATA": "Arquivo não encontrado"
+    },
+    {
+      "FORMID": "00091E",
+      "EDID": "sFemale",
+      "DATA": "Feminino"
+    },
+    {
+      "FORMID": "00091D",
+      "EDID": "sFastTravelNoTravelHealthDamage",
+      "DATA": "Você não pode viajar rápido enquanto recebe dano."
+    },
+    {
+      "FORMID": "00091C",
+      "EDID": "sFacethin",
+      "DATA": "Face fina\/larga"
+    },
+    {
+      "FORMID": "00091B",
+      "EDID": "sFaceround",
+      "DATA": "Face arredondada\/magra"
+    },
+    {
+      "FORMID": "00091A",
+      "EDID": "sFaceheavy",
+      "DATA": "Face pesada/leve"
+    },
+    {
+      "FORMID": "000919",
+      "EDID": "sFaceforehead",
+      "DATA": "Proporção da face: testa/ponta do nariz/nariz"
+    },
+    {
+      "FORMID": "000918",
+      "EDID": "sFacebrow",
+      "DATA": "Proporção da face: testa/nariz/queixo"
+    },
+    {
+      "FORMID": "000917",
+      "EDID": "sFace",
+      "DATA": "Face"
+    },
+    {
+      "FORMID": "000916",
+      "EDID": "sEyeswhites",
+      "DATA": "Branco dos olhos opaco/brilhante"
+    },
+    {
+      "FORMID": "000915",
+      "EDID": "sEyestogether",
+      "DATA": "Olhos juntos/separados"
+    },
+    {
+      "FORMID": "000914",
+      "EDID": "sEyestilt",
+      "DATA": "Inclinação dos Olhos para baixo\/para cima"
+    },
+    {
+      "FORMID": "000913",
+      "EDID": "sEyesTex",
+      "DATA": "Sombras dos Olhos"
+    },
+    {
+      "FORMID": "000912",
+      "EDID": "sEyessmall",
+      "DATA": "Olhos pequenos/grandes"
+    },
+    {
+      "FORMID": "000911",
+      "EDID": "sEyesocketsdark",
+      "DATA": "Órbitas oculares escuras/claras"
+    },
+    {
+      "FORMID": "000910",
+      "EDID": "sEyesocketsbruised",
+      "DATA": "Órbitas oculares roxas/claras"
+    },
+    {
+      "FORMID": "00090F",
+      "EDID": "sEyeshadow",
+      "DATA": "Sombra do Olho clara\/escura"
+    },
+    {
+      "FORMID": "00090E",
+      "EDID": "sEyesdown",
+      "DATA": "Olhos baixo\/cima"
+    },
+    {
+      "FORMID": "00090D",
+      "EDID": "sEyesdark",
+      "DATA": "Olhos castanho-escuros/azul-claros"
+    },
+    {
+      "FORMID": "00090C",
+      "EDID": "sEyes",
+      "DATA": "Olhos"
+    },
+    {
+      "FORMID": "00090B",
+      "EDID": "sEyeliner",
+      "DATA": "Linha dos Olhos"
+    },
+    {
+      "FORMID": "00090A",
+      "EDID": "sEyelidspale",
+      "DATA": "Pálpebras pálidas/vermelhas"
+    },
+    {
+      "FORMID": "000909",
+      "EDID": "sEyelidslight",
+      "DATA": "Pálpebras claras/escuras"
+    },
+    {
+      "FORMID": "000908",
+      "EDID": "sEyebrowsvery",
+      "DATA": "Sobrancelhas muito finas/grossas"
+    },
+    {
+      "FORMID": "000907",
+      "EDID": "sEyebrowsuppert",
+      "DATA": "Sobrancelhas escuras/claras"
+    },
+    {
+      "FORMID": "000906",
+      "EDID": "sEyebrowsthick",
+      "DATA": "Sobrancelhas largas/finas"
+    },
+    {
+      "FORMID": "000905",
+      "EDID": "sEyebrowsouter",
+      "DATA": "Sobrancelhas externas claras/escuras"
+    },
+    {
+      "FORMID": "000904",
+      "EDID": "sEyebrowslower",
+      "DATA": "Sobrancelhas inferiores claras/escuras"
+    },
+    {
+      "FORMID": "000903",
+      "EDID": "sEyebrowslow",
+      "DATA": "Sobrancelhas baixas/altas"
+    },
+    {
+      "FORMID": "000902",
+      "EDID": "sEyebrowsdark",
+      "DATA": "Sobrancelhas escuras/claras"
+    },
+    {
+      "FORMID": "000901",
+      "EDID": "sEyebrows",
+      "DATA": "Sobrancelhas"
+    },
+    {
+      "FORMID": "000900",
+      "EDID": "sExplosive",
+      "DATA": "EXPLOSIVO"
+    },
+    {
+      "FORMID": "0008FF",
+      "EDID": "sExitGameAffirm",
+      "DATA": "Sair"
+    },
+    {
+      "FORMID": "0008FE",
+      "EDID": "sExit",
+      "DATA": "Sair"
+    },
+    {
+      "FORMID": "0008FD",
+      "EDID": "sEvenText",
+      "DATA": "Mesmo"
+    },
+    {
+      "FORMID": "0008FC",
+      "EDID": "sEssentialCharacterDown",
+      "DATA": "está inconsciente."
+    },
+    {
+      "FORMID": "0008FB",
+      "EDID": "sEquipItemOnPlayer",
+      "DATA": "foi equipado"
+    },
+    {
+      "FORMID": "0008FA",
+      "EDID": "sEntryInstructions2",
+      "DATA": "que está tentando criar."
+    },
+    {
+      "FORMID": "0008F9",
+      "EDID": "sEntryInstructions1",
+      "DATA": "Digite um nome para"
+    },
+    {
+      "FORMID": "0008F8",
+      "EDID": "sEnterName",
+      "DATA": "Qual o seu nome?"
+    },
+    {
+      "FORMID": "0008F7",
+      "EDID": "sEnableHelp",
+      "DATA": "Ativar Ajuda"
+    },
+    {
+      "FORMID": "0008F6",
+      "EDID": "sEmpty",
+      "DATA": "[VAZIO]"
+    },
+    {
+      "FORMID": "0008F5",
+      "EDID": "sEffectsVolume",
+      "DATA": "Efeitos"
+    },
+    {
+      "FORMID": "0008F4",
+      "EDID": "sEffectAlreadyAdded",
+      "DATA": "O efeito já foi adicionado. Em vez disso, altere o efeito."
+    },
+    {
+      "FORMID": "0008F3",
+      "EDID": "sDurationText",
+      "DATA": "Duração"
+    },
+    {
+      "FORMID": "0008F2",
+      "EDID": "sDropQuestItemWarning",
+      "DATA": "Você não pode remover itens de missão de seu inventário."
+    },
+    {
+      "FORMID": "0008F1",
+      "EDID": "sDropEquippedItemWarning",
+      "DATA": "Você não pode largar um item equipado antes de completar sua ação atual."
+    },
+    {
+      "FORMID": "0008F0",
+      "EDID": "sDownloadsAvailable",
+      "DATA": "Conteúdo Adicional Disponível"
+    },
+    {
+      "FORMID": "0008EF",
+      "EDID": "sDownloads",
+      "DATA": "Conteúdo Adicional"
+    },
+    {
+      "FORMID": "0008EE",
+      "EDID": "sDoubleDownText",
+      "DATA": "Baixar Duas"
+    },
+    {
+      "FORMID": "0008ED",
+      "EDID": "sDone",
+      "DATA": "Feito"
+    },
+    {
+      "FORMID": "0008EC",
+      "EDID": "sDisplay",
+      "DATA": "Gráficos"
+    },
+    {
+      "FORMID": "0008EB",
+      "EDID": "sDiscoveredText",
+      "DATA": "Você descobriu"
+    },
+    {
+      "FORMID": "0008EA",
+      "EDID": "sDiscardTrackText",
+      "DATA": "Descartar Pista"
+    },
+    {
+      "FORMID": "0008E9",
+      "EDID": "sDiscardSelectedText",
+      "DATA": "Descartar Selecionado"
+    },
+    {
+      "FORMID": "0008E8",
+      "EDID": "sDiscardCardText",
+      "DATA": "Descartar Carta"
+    },
+    {
+      "FORMID": "0008E7",
+      "EDID": "sDisarmMine",
+      "DATA": "Desarmar Mina"
+    },
+    {
+      "FORMID": "0008E6",
+      "EDID": "sDisableXBoxController",
+      "DATA": "Controle"
+    },
+    {
+      "FORMID": "0008E5",
+      "EDID": "sDisableHelp",
+      "DATA": "Desabilitar Ajuda"
+    },
+    {
+      "FORMID": "0008E4",
+      "EDID": "sDifficulty",
+      "DATA": "Dificuldade"
+    },
+    {
+      "FORMID": "0008E3",
+      "EDID": "sDialogSubtitles",
+      "DATA": "Legendas em Diálogos"
+    },
+    {
+      "FORMID": "0008E2",
+      "EDID": "sDeviceRemoved",
+      "DATA": "O dispositivo de armazenamento que escolheu não está mais disponível. Você precisa selecionar um novo dispositivo na próxima vez que salvar. Até lá, o salvamento automático está desabilitado."
+    },
+    {
+      "FORMID": "0008E1",
+      "EDID": "sDeviceMouse",
+      "DATA": "Mouse"
+    },
+    {
+      "FORMID": "0008E0",
+      "EDID": "sDeviceKeyboard",
+      "DATA": "Teclado"
+    },
+    {
+      "FORMID": "0008DF",
+      "EDID": "sDeviceJoystick",
+      "DATA": "Controle"
+    },
+    {
+      "FORMID": "0008DE",
+      "EDID": "sDeviceGamepad",
+      "DATA": "Controle"
+    },
+    {
+      "FORMID": "0008DD",
+      "EDID": "sDevice",
+      "DATA": "Dispositivo"
+    },
+    {
+      "FORMID": "0008DC",
+      "EDID": "sDeleteSuccessful",
+      "DATA": "Jogo salvo apagado."
+    },
+    {
+      "FORMID": "0008DB",
+      "EDID": "sDeleteSaveGame",
+      "DATA": "Você realmente deseja APAGAR o salvamento?"
+    },
+    {
+      "FORMID": "0008DA",
+      "EDID": "sDelete",
+      "DATA": "Apagar"
+    },
+    {
+      "FORMID": "0008D9",
+      "EDID": "sDefaults",
+      "DATA": "Padrão"
+    },
+    {
+      "FORMID": "0008D8",
+      "EDID": "sDefaultMessage",
+      "DATA": "MENSAGEM DE TEXTO PADRÃO"
+    },
+    {
+      "FORMID": "0008D7",
+      "EDID": "sDefaultCellName",
+      "DATA": "Ermos"
+    },
+    {
+      "FORMID": "0008D6",
+      "EDID": "sDecreaseBetText",
+      "DATA": "Diminuir Aposta"
+    },
+    {
+      "FORMID": "0008D5",
+      "EDID": "sDecrease",
+      "DATA": "Diminuir"
+    },
+    {
+      "FORMID": "0008D4",
+      "EDID": "sDealText",
+      "DATA": "Distribuir"
+    },
+    {
+      "FORMID": "0008D3",
+      "EDID": "sDayWednesday",
+      "DATA": "Quarta"
+    },
+    {
+      "FORMID": "0008D2",
+      "EDID": "sDayTuesday",
+      "DATA": "Terça"
+    },
+    {
+      "FORMID": "0008D1",
+      "EDID": "sDayThursday",
+      "DATA": "Quinta"
+    },
+    {
+      "FORMID": "0008D0",
+      "EDID": "sDaySunday",
+      "DATA": "Domingo"
+    },
+    {
+      "FORMID": "0008CF",
+      "EDID": "sDaySaturday",
+      "DATA": "Sábado"
+    },
+    {
+      "FORMID": "0008CE",
+      "EDID": "sDayMonday",
+      "DATA": "Segunda"
+    },
+    {
+      "FORMID": "0008CD",
+      "EDID": "sDayFriday",
+      "DATA": "Sexta"
+    },
+    {
+      "FORMID": "0008CC",
+      "EDID": "sData",
+      "DATA": "DADOS"
+    },
+    {
+      "FORMID": "0008CB",
+      "EDID": "sCWheelWaitHere",
+      "DATA": "Me espere aqui"
+    },
+    {
+      "FORMID": "0008CA",
+      "EDID": "sCWheelUseStimpak",
+      "DATA": "Usar Estimulantes"
+    },
+    {
+      "FORMID": "0008C9",
+      "EDID": "sCWheelUseRanged",
+      "DATA": "Usar Armas de Fogo"
+    },
+    {
+      "FORMID": "0008C8",
+      "EDID": "sCWheelUseMelee",
+      "DATA": "Usar Corpo a Corpo"
+    },
+    {
+      "FORMID": "0008C7",
+      "EDID": "sCWheelTitle",
+      "DATA": "Comandos de Companhia"
+    },
+    {
+      "FORMID": "0008C6",
+      "EDID": "sCWheelTalkTo",
+      "DATA": "Falar com"
+    },
+    {
+      "FORMID": "0008C5",
+      "EDID": "sCWheelStayClose",
+      "DATA": "Fique Perto"
+    },
+    {
+      "FORMID": "0008C4",
+      "EDID": "sCWheelOpenInventory",
+      "DATA": "Abrir Inventário"
+    },
+    {
+      "FORMID": "0008C3",
+      "EDID": "sCWheelKeepDistance",
+      "DATA": "Mantenha Distância"
+    },
+    {
+      "FORMID": "0008C2",
+      "EDID": "sCWheelFollowMe",
+      "DATA": "Siga-me"
+    },
+    {
+      "FORMID": "0008C1",
+      "EDID": "sCWheelBePassive",
+      "DATA": "Seja Pacífico"
+    },
+    {
+      "FORMID": "0008C0",
+      "EDID": "sCWheelBeAggressive",
+      "DATA": "Seja Agressivo"
+    },
+    {
+      "FORMID": "0008BF",
+      "EDID": "sCWheelBackUp",
+      "DATA": "Me dê cobertura"
+    },
+    {
+      "FORMID": "0008BE",
+      "EDID": "sCurrentObjective",
+      "DATA": "OBJETIVO ATUAL"
+    },
+    {
+      "FORMID": "0008BD",
+      "EDID": "sCurrentBetText",
+      "DATA": "Aposta atual:"
+    },
+    {
+      "FORMID": "0008BC",
+      "EDID": "sCurrentAnteText",
+      "DATA": "Aposta Atual:"
+    },
+    {
+      "FORMID": "0008BB",
+      "EDID": "sCrosshair",
+      "DATA": "Mira"
+    },
+    {
+      "FORMID": "0008BA",
+      "EDID": "sCriticalStrike",
+      "DATA": "Ataque Crítico em"
+    },
+    {
+      "FORMID": "0008B9",
+      "EDID": "sCrimeTypeTrespass",
+      "DATA": "Invasão"
+    },
+    {
+      "FORMID": "0008B8",
+      "EDID": "sCrimeTypeSteal",
+      "DATA": "Roubar"
+    },
+    {
+      "FORMID": "0008B7",
+      "EDID": "sCrimeTypePickpocket",
+      "DATA": "Batedor de Carteira"
+    },
+    {
+      "FORMID": "0008B6",
+      "EDID": "sCrimeTypeMurder",
+      "DATA": "Assassinar"
+    },
+    {
+      "FORMID": "0008B5",
+      "EDID": "sCrimeTypeAttack",
+      "DATA": "Ataque"
+    },
+    {
+      "FORMID": "0008B4",
+      "EDID": "sCrew",
+      "DATA": "Equipe"
+    },
+    {
+      "FORMID": "0008B3",
+      "EDID": "sCorruptContentMessage",
+      "DATA": "Alguns de seus conteúdos baixados estão corrompidos e não podem ser carregados."
+    },
+    {
+      "FORMID": "0008B2",
+      "EDID": "sControls",
+      "DATA": "Controles"
+    },
+    {
+      "FORMID": "0008B1",
+      "EDID": "sControllerOption",
+      "DATA": "Desative o seu controle na seção Controles do menu de Configurações para voltar a usar teclado e mouse."
+    },
+    {
+      "FORMID": "0008B0",
+      "EDID": "sContractedDisease",
+      "DATA": "Você contraiu uma doença."
+    },
+    {
+      "FORMID": "0008AF",
+      "EDID": "sContinueText",
+      "DATA": "Continuar Executando o Executável?"
+    },
+    {
+      "FORMID": "0008AE",
+      "EDID": "sContinuePlayingAfterCredits",
+      "DATA": "Parabéns por completar Fallout: New Vegas! Você gostaria de carregar um jogo salvo anterior à Batalha da Represa Hoover? (Se selecionar que não, você será direcionado ao menu principal)."
+    },
+    {
+      "FORMID": "0008AD",
+      "EDID": "sContinue",
+      "DATA": "Continuar"
+    },
+    {
+      "FORMID": "0008AC",
+      "EDID": "sContainerItemsTitle",
+      "DATA": "Inventário"
+    },
+    {
+      "FORMID": "0008AB",
+      "EDID": "sConfirmWarning",
+      "DATA": "O progresso não salvo será perdido."
+    },
+    {
+      "FORMID": "0008AA",
+      "EDID": "sConfirmSave",
+      "DATA": "Sobrescrever este jogo?"
+    },
+    {
+      "FORMID": "0008A9",
+      "EDID": "sConfirmQuit",
+      "DATA": "Realmente deseja sair?"
+    },
+    {
+      "FORMID": "0008A8",
+      "EDID": "sConfirmNew",
+      "DATA": "Iniciar novo jogo? Isto irá\nsobrescrever o Salvamento Automático caso exista."
+    },
+    {
+      "FORMID": "0008A7",
+      "EDID": "sConfirmLoad",
+      "DATA": "Quer carregar este salvamento?"
+    },
+    {
+      "FORMID": "0008A6",
+      "EDID": "sConfirmDelete",
+      "DATA": "Apagar este jogo?"
+    },
+    {
+      "FORMID": "0008A5",
+      "EDID": "sConfirmContinue",
+      "DATA": "Deseja retomar do último salvamento?"
+    },
+    {
+      "FORMID": "0008A4",
+      "EDID": "sConfirmChoice2",
+      "DATA": "Você tem certeza que quer se tornar um"
+    },
+    {
+      "FORMID": "0008A3",
+      "EDID": "sConfirmChoice1",
+      "DATA": "Você tem certeza que quer se tornar um"
+    },
+    {
+      "FORMID": "0008A2",
+      "EDID": "sComputersWelcome",
+      "DATA": "Bem-vindo ao terminal de serviço do SERVIDOR 1"
+    },
+    {
+      "FORMID": "0008A1",
+      "EDID": "sComputersLogon",
+      "DATA": "LOGON ADMIN"
+    },
+    {
+      "FORMID": "0008A0",
+      "EDID": "sComputersHeader2",
+      "DATA": "COPYRIGHT 2075-2077 ROBCO INDÚSTRIAS"
+    },
+    {
+      "FORMID": "00089F",
+      "EDID": "sComputersHeader1",
+      "DATA": "SISTEMA OPERACIONAL UNIFICADO DA ROBCO INDÚSTRIAS"
+    },
+    {
+      "FORMID": "00089E",
+      "EDID": "sComputersBack",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "00089D",
+      "EDID": "sComputersAddedNote",
+      "DATA": "Nota Adicionada: %s"
+    },
+    {
+      "FORMID": "00089C",
+      "EDID": "sComplexion",
+      "DATA": "Tez"
+    },
+    {
+      "FORMID": "00089B",
+      "EDID": "sCommsTabText",
+      "DATA": "Rádio"
+    },
+    {
+      "FORMID": "00089A",
+      "EDID": "sColor",
+      "DATA": "Cor do Cabelo"
+    },
+    {
+      "FORMID": "000899",
+      "EDID": "sCloseButton",
+      "DATA": "Fechar"
+    },
+    {
+      "FORMID": "000898",
+      "EDID": "sChoose",
+      "DATA": "Escolher"
+    },
+    {
+      "FORMID": "000897",
+      "EDID": "sChipCountText",
+      "DATA": "Fichas:"
+    },
+    {
+      "FORMID": "000896",
+      "EDID": "sChinwide",
+      "DATA": "Queixo largo\/fino"
+    },
+    {
+      "FORMID": "000895",
+      "EDID": "sChintall",
+      "DATA": "Queixo comprido\/curto"
+    },
+    {
+      "FORMID": "000894",
+      "EDID": "sChinsmall",
+      "DATA": "Queixo pequeno\/grande"
+    },
+    {
+      "FORMID": "000893",
+      "EDID": "sChinshallow",
+      "DATA": "Queixo raso\/fundo"
+    },
+    {
+      "FORMID": "000892",
+      "EDID": "sChinretracted",
+      "DATA": "Queixo retraído\/avançado"
+    },
+    {
+      "FORMID": "000891",
+      "EDID": "sChinpronounced",
+      "DATA": "Queixo pronunciado\/retraído"
+    },
+    {
+      "FORMID": "000890",
+      "EDID": "sChinforward",
+      "DATA": "Queixo pra fora\/pra dentro"
+    },
+    {
+      "FORMID": "00088F",
+      "EDID": "sChin",
+      "DATA": "Queixo"
+    },
+    {
+      "FORMID": "00088E",
+      "EDID": "sChestDamagedMessage",
+      "DATA": "Seu peito agora está ferido."
+    },
+    {
+      "FORMID": "00088D",
+      "EDID": "sChemsWornOff",
+      "DATA": "%s esgotou."
+    },
+    {
+      "FORMID": "00088C",
+      "EDID": "sChemsWithdrawal",
+      "DATA": "Você está sofrendo abstinência de %s."
+    },
+    {
+      "FORMID": "00088B",
+      "EDID": "sChemsAddicted",
+      "DATA": "Você se tornou viciado em %s."
+    },
+    {
+      "FORMID": "00088A",
+      "EDID": "sCheeksround",
+      "DATA": "Bochechas redondas/magras"
+    },
+    {
+      "FORMID": "000889",
+      "EDID": "sCheeksconcave",
+      "DATA": "Bochechas côncavas/convexas"
+    },
+    {
+      "FORMID": "000888",
+      "EDID": "sCheeks",
+      "DATA": "Bochechas"
+    },
+    {
+      "FORMID": "000887",
+      "EDID": "sCheekbonesthin",
+      "DATA": "Maçãs do rosto finas/largas"
+    },
+    {
+      "FORMID": "000886",
+      "EDID": "sCheekbonesshallow",
+      "DATA": "Maçãs do rosto rasas/pronunciadas"
+    },
+    {
+      "FORMID": "000885",
+      "EDID": "sCheekboneslow",
+      "DATA": "Maçãs do rosto baixas/altas"
+    },
+    {
+      "FORMID": "000884",
+      "EDID": "sCheekblush",
+      "DATA": "Cor da bochecha clara\/vermelha"
+    },
+    {
+      "FORMID": "000883",
+      "EDID": "sChangeItemSelection",
+      "DATA": "Alterar Seleção de Item"
+    },
+    {
+      "FORMID": "000882",
+      "EDID": "sChallengeToggle",
+      "DATA": "Desafios"
+    },
+    {
+      "FORMID": "000881",
+      "EDID": "sChallengeProgress",
+      "DATA": "Progresso do Desafio"
+    },
+    {
+      "FORMID": "000880",
+      "EDID": "sChallengeOther",
+      "DATA": "Desafios Diversos"
+    },
+    {
+      "FORMID": "00087F",
+      "EDID": "sChallengeKill",
+      "DATA": "Desafios de Eliminações"
+    },
+    {
+      "FORMID": "00087E",
+      "EDID": "sChallengeDamage",
+      "DATA": "Desafios de Dano Causado"
+    },
+    {
+      "FORMID": "00087D",
+      "EDID": "sChallengeComplete",
+      "DATA": "Desafio Completado"
+    },
+    {
+      "FORMID": "00087C",
+      "EDID": "sCauterize",
+      "DATA": "Ferramenta de Cauterização"
+    },
+    {
+      "FORMID": "00087B",
+      "EDID": "sCasinoEarningsText",
+      "DATA": "Ganhos:"
+    },
+    {
+      "FORMID": "00087A",
+      "EDID": "sCasinoChipText",
+      "DATA": "ficha"
+    },
+    {
+      "FORMID": "000879",
+      "EDID": "sCardsInDeckText",
+      "DATA": "Cartas no Baralho:"
+    },
+    {
+      "FORMID": "000878",
+      "EDID": "sCardCountText",
+      "DATA": "Você precisa ter ao menos 30 cartas para jogar Caravana."
+    },
+    {
+      "FORMID": "000877",
+      "EDID": "sCaravanYouWinText",
+      "DATA": "Você ganhou!"
+    },
+    {
+      "FORMID": "000876",
+      "EDID": "sCaravanYouLoseText",
+      "DATA": "Você perdeu!"
+    },
+    {
+      "FORMID": "000875",
+      "EDID": "sCaravanWinningsText",
+      "DATA": "Ganhos até Hoje:"
+    },
+    {
+      "FORMID": "000874",
+      "EDID": "sCaravanWinLossText",
+      "DATA": "Totais Ganho\/Perda:"
+    },
+    {
+      "FORMID": "000873",
+      "EDID": "sCaravanPressAnyKeyText",
+      "DATA": "Pressione qualquer botão para continuar."
+    },
+    {
+      "FORMID": "000872",
+      "EDID": "sCaravanLossesText",
+      "DATA": "Perdas até Hoje:"
+    },
+    {
+      "FORMID": "000871",
+      "EDID": "sCaravanDeckText",
+      "DATA": "Baralho de Caravana"
+    },
+    {
+      "FORMID": "000870",
+      "EDID": "sCaravanBiggestAnteText",
+      "DATA": "Maior Aposta Vencedora:"
+    },
+    {
+      "FORMID": "00086F",
+      "EDID": "sCantUnequipGeneric",
+      "DATA": "Você não pode desequipar este item."
+    },
+    {
+      "FORMID": "00086E",
+      "EDID": "sCantSaveNow",
+      "DATA": "Você não pode salvar neste momento."
+    },
+    {
+      "FORMID": "00086D",
+      "EDID": "sCantRepairPastMax",
+      "DATA": "NÃO PODE REPARAR MAIS QUE %.0f%s"
+    },
+    {
+      "FORMID": "00086C",
+      "EDID": "sCantRemoveWornItem",
+      "DATA": "Não é possível remover item em uso."
+    },
+    {
+      "FORMID": "00086B",
+      "EDID": "sCantQuickSave",
+      "DATA": "Você não pode Salvar Rápido enquanto o jogo está pausado."
+    },
+    {
+      "FORMID": "00086A",
+      "EDID": "sCantQuickLoad",
+      "DATA": "Você não pode Carregar Rápido enquanto o jogo está pausado."
+    },
+    {
+      "FORMID": "000869",
+      "EDID": "sCantHotkeyItem",
+      "DATA": "Você não pode criar atalho para este item."
+    },
+    {
+      "FORMID": "000868",
+      "EDID": "sCantHotkeyBrokenItem",
+      "DATA": "Você não pode criar atalhos para itens quebrados."
+    },
+    {
+      "FORMID": "000867",
+      "EDID": "sCantEquipPowerArmor",
+      "DATA": "Você precisa ter o treinamento de Armadura Potente para vestir este item."
+    },
+    {
+      "FORMID": "000866",
+      "EDID": "sCantEquipGeneric",
+      "DATA": "Você não pode equipar este item."
+    },
+    {
+      "FORMID": "000865",
+      "EDID": "sCantEquipBrokenItem",
+      "DATA": "Itens quebrados não podem ser equipados até serem consertados."
+    },
+    {
+      "FORMID": "000864",
+      "EDID": "sCantChangeResolution",
+      "DATA": "Você precisa fechar seu jogo atual para trocar a resolução."
+    },
+    {
+      "FORMID": "000863",
+      "EDID": "sCanNotTrainHigher",
+      "DATA": "Este NPC não pode lhe ajudar a treinar mais alto."
+    },
+    {
+      "FORMID": "000862",
+      "EDID": "sCanNotTrainAnymore",
+      "DATA": "Você atingiu seu limite de treino para o nível atual."
+    },
+    {
+      "FORMID": "000861",
+      "EDID": "sCanNotReadBook",
+      "DATA": "Você não pode ler um livro durante um combate!"
+    },
+    {
+      "FORMID": "000860",
+      "EDID": "sCanNotEquipWornEnchantment",
+      "DATA": "Você não pode equipar este item agora."
+    },
+    {
+      "FORMID": "00085F",
+      "EDID": "sCancelRecipe",
+      "DATA": "Cancelar Receita?"
+    },
+    {
+      "FORMID": "00085E",
+      "EDID": "sCancelBarter",
+      "DATA": "Cancelar transação?"
+    },
+    {
+      "FORMID": "00085D",
+      "EDID": "sCancel",
+      "DATA": "Cancelar"
+    },
+    {
+      "FORMID": "00085C",
+      "EDID": "sCameraPitch",
+      "DATA": "Inverter botão Y"
+    },
+    {
+      "FORMID": "00085B",
+      "EDID": "sBuy",
+      "DATA": "COMPRAR"
+    },
+    {
+      "FORMID": "00085A",
+      "EDID": "sButtonLocked",
+      "DATA": "Este botão não pode ser reatribuído"
+    },
+    {
+      "FORMID": "000859",
+      "EDID": "sButton",
+      "DATA": "Botão"
+    },
+    {
+      "FORMID": "000858",
+      "EDID": "sBrowRidgeOuter",
+      "DATA": "Arco superciliar externo alto/baixo"
+    },
+    {
+      "FORMID": "000857",
+      "EDID": "sBrowRidgeInner",
+      "DATA": "Arco superciliar interno alto/baixo"
+    },
+    {
+      "FORMID": "000856",
+      "EDID": "sBrowRidge",
+      "DATA": "Arco superciliar alto/baixo"
+    },
+    {
+      "FORMID": "000855",
+      "EDID": "sBrow",
+      "DATA": "Sobrancelhas"
+    },
+    {
+      "FORMID": "000854",
+      "EDID": "sBroken",
+      "DATA": "[Travado - Quebrado]"
+    },
+    {
+      "FORMID": "000853",
+      "EDID": "sBrightness",
+      "DATA": "Brilho"
+    },
+    {
+      "FORMID": "000852",
+      "EDID": "sBlue",
+      "DATA": "Azul"
+    },
+    {
+      "FORMID": "000851",
+      "EDID": "sBlacktext",
+      "DATA": "Preto"
+    },
+    {
+      "FORMID": "000850",
+      "EDID": "sBlackjackAntiCheatText",
+      "DATA": "O crupiê está trocando os baralhos como medida de segurança contra trapaças."
+    },
+    {
+      "FORMID": "00084F",
+      "EDID": "sBetText",
+      "DATA": "Apostar"
+    },
+    {
+      "FORMID": "00084E",
+      "EDID": "sBetMax",
+      "DATA": "Apostar tudo"
+    },
+    {
+      "FORMID": "00084D",
+      "EDID": "sBeardmoustache",
+      "DATA": "Bigode da Barba claro\/escuro"
+    },
+    {
+      "FORMID": "00084C",
+      "EDID": "sBeardlight",
+      "DATA": "Barba clara\/escura"
+    },
+    {
+      "FORMID": "00084B",
+      "EDID": "sBeardgoatee",
+      "DATA": "Cavanhaque claro\/escuro"
+    },
+    {
+      "FORMID": "00084A",
+      "EDID": "sBeardflushed",
+      "DATA": "Barba corada/pálida"
+    },
+    {
+      "FORMID": "000849",
+      "EDID": "sBeardcircle",
+      "DATA": "Barba circular clara/escura"
+    },
+    {
+      "FORMID": "000848",
+      "EDID": "sBeardcheeks",
+      "DATA": "Barba das bochechas clara/escura"
+    },
+    {
+      "FORMID": "000847",
+      "EDID": "sBeard",
+      "DATA": "Barba"
+    },
+    {
+      "FORMID": "000846",
+      "EDID": "sBald",
+      "DATA": "Calvo"
+    },
+    {
+      "FORMID": "000845",
+      "EDID": "sBack",
+      "DATA": "Voltar"
+    },
+    {
+      "FORMID": "000844",
+      "EDID": "sAutoSaving",
+      "DATA": "Salvamento automático..."
+    },
+    {
+      "FORMID": "000843",
+      "EDID": "sAutoSaveDisabledLoadAnyways",
+      "DATA": "O dispositivo de armazenamento não tem \nespaço suficiente para salvar o progresso. O Salvamento Automático será \ndesabilitado. Tem certeza que deseja continuar?"
+    },
+    {
+      "FORMID": "000842",
+      "EDID": "sAutoSaveDisabledDueToLackOfSpace",
+      "DATA": "O dispositivo de armazenamento selecionado não possui espaço livre suficiente. Escolha outro dispositivo ou exclua alguns arquivos salvos."
+    },
+    {
+      "FORMID": "000841",
+      "EDID": "sAutosaveCorruptMessage",
+      "DATA": "O arquivo de salvamento automático está corrompido. Deseja sobrescrevê-lo?"
+    },
+    {
+      "FORMID": "000840",
+      "EDID": "sAutosaveAbbrev",
+      "DATA": "#AUTO"
+    },
+    {
+      "FORMID": "00083F",
+      "EDID": "sAutoMatchText",
+      "DATA": "Cobrir Automaticamente"
+    },
+    {
+      "FORMID": "00083E",
+      "EDID": "sAutoLoading",
+      "DATA": "Carregamento automático..."
+    },
+    {
+      "FORMID": "00083D",
+      "EDID": "sAutoAttempt",
+      "DATA": "Tentativa Automática"
+    },
+    {
+      "FORMID": "00083C",
+      "EDID": "sAudioNote",
+      "DATA": "Arquivo de Áudio"
+    },
+    {
+      "FORMID": "00083B",
+      "EDID": "sAudio",
+      "DATA": "Áudio"
+    },
+    {
+      "FORMID": "00083A",
+      "EDID": "sAttributesTitle",
+      "DATA": "ATRIBUTOS: %d\/%d Pontos Assinalados"
+    },
+    {
+      "FORMID": "000839",
+      "EDID": "sAttributesCount",
+      "DATA": "Distribuir %d Pontos"
+    },
+    {
+      "FORMID": "000838",
+      "EDID": "sAttributeDrained",
+      "DATA": "está sendo drenada"
+    },
+    {
+      "FORMID": "000837",
+      "EDID": "sAttributeDamaged",
+      "DATA": "foi quebrado."
+    },
+    {
+      "FORMID": "000836",
+      "EDID": "sArmorWeightMedium",
+      "DATA": "MÉDIO"
+    },
+    {
+      "FORMID": "000835",
+      "EDID": "sArmorWeightLight",
+      "DATA": "LEVE"
+    },
+    {
+      "FORMID": "000834",
+      "EDID": "sArmorWeightHeavy",
+      "DATA": "PESADO"
+    },
+    {
+      "FORMID": "000833",
+      "EDID": "sArmorLowCond",
+      "DATA": "Sua armadura está prestes a quebrar."
+    },
+    {
+      "FORMID": "000832",
+      "EDID": "sAreaText",
+      "DATA": "Área"
+    },
+    {
+      "FORMID": "000831",
+      "EDID": "sAntiCheatTimeRemainingText",
+      "DATA": "Tempo Restante:"
+    },
+    {
+      "FORMID": "000830",
+      "EDID": "sAntePotText",
+      "DATA": "Aposta Anterior:"
+    },
+    {
+      "FORMID": "00082F",
+      "EDID": "sAnimationCanNotUnequip",
+      "DATA": "Você não pode trocar de armas enquanto ataca."
+    },
+    {
+      "FORMID": "00082E",
+      "EDID": "sAnimationCanNotEquipWeapon",
+      "DATA": "Você não pode trocar de armas enquanto ataca."
+    },
+    {
+      "FORMID": "00082D",
+      "EDID": "sAnimationCanNotEquipArmor",
+      "DATA": "Você não pode trocar de armadura enquanto luta."
+    },
+    {
+      "FORMID": "00082C",
+      "EDID": "sAMTime",
+      "DATA": "AM"
+    },
+    {
+      "FORMID": "00082B",
+      "EDID": "sAmmoEffectSpread",
+      "DATA": "Dispersão da Arma"
+    },
+    {
+      "FORMID": "00082A",
+      "EDID": "sAmmoEffectFatigue",
+      "DATA": "Exaustão do Alvo"
+    },
+    {
+      "FORMID": "000829",
+      "EDID": "sAmmoEffectDT",
+      "DATA": "Limiar de Dano do Alvo"
+    },
+    {
+      "FORMID": "000828",
+      "EDID": "sAmmoEffectDR",
+      "DATA": "Resist. a Dano do Alvo"
+    },
+    {
+      "FORMID": "000827",
+      "EDID": "sAmmoEffectDAM",
+      "DATA": "DAN"
+    },
+    {
+      "FORMID": "000826",
+      "EDID": "sAmmoEffectCondition",
+      "DATA": "Condição da Arma"
+    },
+    {
+      "FORMID": "000825",
+      "EDID": "sAmber",
+      "DATA": "ÂMBAR"
+    },
+    {
+      "FORMID": "000824",
+      "EDID": "sAlreadyPlacedMine",
+      "DATA": "Uma mina ativa já foi colocada neste inimigo."
+    },
+    {
+      "FORMID": "000823",
+      "EDID": "sAllCardsText",
+      "DATA": "Todas as Cartas"
+    },
+    {
+      "FORMID": "000822",
+      "EDID": "sAlignVeryGood",
+      "DATA": "Muito Bom"
+    },
+    {
+      "FORMID": "000821",
+      "EDID": "sAlignVeryEvil",
+      "DATA": "Muito Mau"
+    },
+    {
+      "FORMID": "000820",
+      "EDID": "sAlignNeutral",
+      "DATA": "Neutro"
+    },
+    {
+      "FORMID": "00081F",
+      "EDID": "sAlignGood",
+      "DATA": "Bom"
+    },
+    {
+      "FORMID": "00081E",
+      "EDID": "sAlignEvil",
+      "DATA": "Mau"
+    },
+    {
+      "FORMID": "00081D",
+      "EDID": "sAge",
+      "DATA": "Idade"
+    },
+    {
+      "FORMID": "00081C",
+      "EDID": "sAddText",
+      "DATA": "Adicionar"
+    },
+    {
+      "FORMID": "00081B",
+      "EDID": "sAddItemtoSpellList",
+      "DATA": "adicionado."
+    },
+    {
+      "FORMID": "00081A",
+      "EDID": "sAddItemtoInventory",
+      "DATA": "adicionado."
+    },
+    {
+      "FORMID": "000819",
+      "EDID": "sAddedEffects",
+      "DATA": "Efeitos Adicionados"
+    },
+    {
+      "FORMID": "000818",
+      "EDID": "sActorFade",
+      "DATA": "Rend. de NPCs"
+    },
+    {
+      "FORMID": "000817",
+      "EDID": "sActiveMineDescription",
+      "DATA": "Ativa"
+    },
+    {
+      "FORMID": "000816",
+      "EDID": "sActivationChoiceMessage",
+      "DATA": "O que gostaria de fazer?"
+    },
+    {
+      "FORMID": "000815",
+      "EDID": "sActivateNPCCalmed",
+      "DATA": "está calma e não consegue reagir."
+    },
+    {
+      "FORMID": "000814",
+      "EDID": "sActivateCreatureCalmed",
+      "DATA": "A criatura está calma e não consegue reagir."
+    },
+    {
+      "FORMID": "000813",
+      "EDID": "sActionPointsToggleWeaponDrawn",
+      "DATA": "Alternar para Arma Empunhada"
+    },
+    {
+      "FORMID": "000812",
+      "EDID": "sActionPointsThrow",
+      "DATA": "Lançar"
+    },
+    {
+      "FORMID": "000811",
+      "EDID": "sActionPointsSwitchWeapon",
+      "DATA": "Trocar de Arma"
+    },
+    {
+      "FORMID": "000810",
+      "EDID": "sActionPointsStand",
+      "DATA": "Ficar em Pé"
+    },
+    {
+      "FORMID": "00080F",
+      "EDID": "sActionPointsShort",
+      "DATA": "PA"
+    },
+    {
+      "FORMID": "00080E",
+      "EDID": "sActionPointsShoot",
+      "DATA": "Atirar"
+    },
+    {
+      "FORMID": "00080D",
+      "EDID": "sActionPointsReload",
+      "DATA": "Recarregar"
+    },
+    {
+      "FORMID": "00080C",
+      "EDID": "sActionPointsPunch",
+      "DATA": "Socar"
+    },
+    {
+      "FORMID": "00080B",
+      "EDID": "sActionPointsHeal",
+      "DATA": "Curar"
+    },
+    {
+      "FORMID": "00080A",
+      "EDID": "sActionPointsDrop",
+      "DATA": "Largar"
+    },
+    {
+      "FORMID": "000809",
+      "EDID": "sActionPointsCrouch",
+      "DATA": "Agachar"
+    },
+    {
+      "FORMID": "000808",
+      "EDID": "sActionPointsAttack",
+      "DATA": "Atacar"
+    },
+    {
+      "FORMID": "000807",
+      "EDID": "sActionMapping",
+      "DATA": "Mapeamento de Controles"
+    },
+    {
+      "FORMID": "000806",
+      "EDID": "sAchieveSMMenaceName",
+      "DATA": "Ameaça Mutante"
+    },
+    {
+      "FORMID": "000805",
+      "EDID": "sAchieveSMMenaceDesc",
+      "DATA": "Você se especializou em matar Supermutantes e agora tem bônus de dano contra eles."
+    },
+    {
+      "FORMID": "000804",
+      "EDID": "sAchieveSMMasterName",
+      "DATA": "Mestre Mutante"
+    },
+    {
+      "FORMID": "000803",
+      "EDID": "sAchieveSMMasterDesc",
+      "DATA": "Você matou muitos Supermutantes."
+    },
+    {
+      "FORMID": "000802",
+      "EDID": "sAcceptText",
+      "DATA": "Aceitar"
+    },
+    {
+      "FORMID": "000801",
+      "EDID": "sAccept",
+      "DATA": "Aceitar"
+    },
+    {
+      "FORMID": "000800",
+      "EDID": "sAbortText",
+      "DATA": "&Abortar"
+    },
+    {
+      "FORMID": "17B37C",
+      "EDID": "sPoisonNoWeaponMessage",
+      "DATA": "Primeiro, você deve equipar uma arma que possa ser envenenada."
+    },
+    {
+      "FORMID": "17B362",
+      "EDID": "sSleepDeprevationNotSick",
+      "DATA": "Você não se sente mais sonolento."
+    },
+    {
+      "FORMID": "17B361",
+      "EDID": "sSleepDeprevationIncrease",
+      "DATA": "Seu nível de sono aumentou."
+    },
+    {
+      "FORMID": "17B360",
+      "EDID": "sSleepDeprevationDecrease",
+      "DATA": "Seu nível de sono diminuiu."
+    },
+    {
+      "FORMID": "174778",
+      "EDID": "sKBCapital",
+      "DATA": "Caps Lock"
+    },
+    {
+      "FORMID": "174427",
+      "EDID": "sNoFastTravelScriptBlock",
+      "DATA": "A viagem rápida não está disponível a partir deste local no momento."
+    },
+    {
+      "FORMID": "173F92",
+      "EDID": "sTraitMenuTitleText",
+      "DATA": "ESCOLHA ATÉ %d CARACTERÍSTICAS (OU NENHUMA)"
+    },
+    {
+      "FORMID": "173F91",
+      "EDID": "sRestartBecauseContentRemoved",
+      "DATA": "Um dispositivo de armazenamento que contém conteúdo adicional foi removido. Retornando à tela de título."
+    },
+    {
+      "FORMID": "173F90",
+      "EDID": "sLoadingContentMessage",
+      "DATA": "Carregando conteúdo adicional. Aguarde."
+    },
+    {
+      "FORMID": "17370D",
+      "EDID": "sXBDPadY",
+      "DATA": "Direcional Superior/Inferior"
+    },
+    {
+      "FORMID": "17370C",
+      "EDID": "sXBDPadX",
+      "DATA": "Direcional Esquerdo/Direito"
+    },
+    {
+      "FORMID": "17370B",
+      "EDID": "sXBDPadUp",
+      "DATA": "Direcional Superior"
+    },
+    {
+      "FORMID": "17370A",
+      "EDID": "sXBDPadRight",
+      "DATA": "Direcional Direito"
+    },
+    {
+      "FORMID": "173709",
+      "EDID": "sXBDPadLeft",
+      "DATA": "Direcional Esquerdo"
+    },
+    {
+      "FORMID": "173708",
+      "EDID": "sXBDPadDown",
+      "DATA": "Direcional Inferior"
+    },
+    {
+      "FORMID": "173707",
+      "EDID": "sPS3DPadY",
+      "DATA": "Botão Direcional Superior\/Inferior"
+    },
+    {
+      "FORMID": "173706",
+      "EDID": "sPS3DPadX",
+      "DATA": "Botão Direcional Esquerdo\/Direito"
+    },
+    {
+      "FORMID": "173705",
+      "EDID": "sPS3DPadUp",
+      "DATA": "Botão Direcional Superior"
+    },
+    {
+      "FORMID": "173704",
+      "EDID": "sPS3DPadRight",
+      "DATA": "Botão Direcional Direito"
+    },
+    {
+      "FORMID": "173703",
+      "EDID": "sPS3DPadLeft",
+      "DATA": "Botão Direcional Esquerdo"
+    },
+    {
+      "FORMID": "173702",
+      "EDID": "sPS3DPadDown",
+      "DATA": "Botão Direcional Inferior"
+    },
+    {
+      "FORMID": "16951C",
+      "EDID": "sRepTitlePosTwoNegThreeDesc",
+      "DATA": "A maioria diz que você é o próprio demônio, mas também admite que você fez algum bem."
+    },
+    {
+      "FORMID": "1690FD",
+      "EDID": "sRepNegativeGain",
+      "DATA": "Sua má fama aumentou!"
+    },
+    {
+      "FORMID": "1690FC",
+      "EDID": "sRepNegativeLoss",
+      "DATA": "Sua má fama diminuiu!"
+    },
+    {
+      "FORMID": "1690FB",
+      "EDID": "sRepPositiveGain",
+      "DATA": "Sua fama aumentou!"
+    },
+    {
+      "FORMID": "1690FA",
+      "EDID": "sRepPositiveLoss",
+      "DATA": "Sua fama diminuiu!"
+    },
+    {
+      "FORMID": "161FE8",
+      "EDID": "sDehydrationNotSick",
+      "DATA": "Você não está mais sofrendo de desidratação."
+    },
+    {
+      "FORMID": "161FE7",
+      "EDID": "sDehydrationIncrease",
+      "DATA": "Seu nível de desidratação aumentou."
+    },
+    {
+      "FORMID": "161FE6",
+      "EDID": "sDehydrationDecrease",
+      "DATA": "Seu nível de desidratação diminuiu."
+    },
+    {
+      "FORMID": "12716B",
+      "EDID": "sCWheelUseStimPack",
+      "DATA": "Usar Estimulante"
+    },
+    {
+      "FORMID": "11EC24",
+      "EDID": "sKarmicTitleNeutral30",
+      "DATA": "Verdadeiro Mortal"
+    },
+    {
+      "FORMID": "11EC23",
+      "EDID": "sKarmicTitleGood30",
+      "DATA": "Messias"
+    },
+    {
+      "FORMID": "11EC22",
+      "EDID": "sKarmicTitleEvil30",
+      "DATA": "Demônio"
+    },
+    {
+      "FORMID": "11EC21",
+      "EDID": "sKarmicTitleEvil28",
+      "DATA": "Devorador de Almas"
+    },
+    {
+      "FORMID": "11EC20",
+      "EDID": "sKarmicTitleEvil27",
+      "DATA": "Instrumento da Ruína"
+    },
+    {
+      "FORMID": "11EC1F",
+      "EDID": "sKarmicTitleEvil26",
+      "DATA": "Agente do Caos"
+    },
+    {
+      "FORMID": "11EC1E",
+      "EDID": "sKarmicTitleEvil25",
+      "DATA": "Pesadelo Vivo"
+    },
+    {
+      "FORMID": "11EC1D",
+      "EDID": "sKarmicTitleEvil24",
+      "DATA": "Arauto da Discórdia"
+    },
+    {
+      "FORMID": "11EC1C",
+      "EDID": "sKarmicTitleEvil23",
+      "DATA": "Enganador"
+    },
+    {
+      "FORMID": "11EC1B",
+      "EDID": "sKarmicTitleEvil22",
+      "DATA": "Arauto da Tristeza"
+    },
+    {
+      "FORMID": "11EC1A",
+      "EDID": "sKarmicTitleEvil21",
+      "DATA": "Arquiteto do Caos"
+    },
+    {
+      "FORMID": "11EC19",
+      "EDID": "sKarmicTitleGood27",
+      "DATA": "Arauto da Tranquilidade"
+    },
+    {
+      "FORMID": "11EC18",
+      "EDID": "sKarmicTitleGood26",
+      "DATA": "Símbolo da Ordem"
+    },
+    {
+      "FORMID": "11EC17",
+      "EDID": "sKarmicTitleGood25",
+      "DATA": "Campeão da Justiça"
+    },
+    {
+      "FORMID": "11EC16",
+      "EDID": "sKarmicTitleGood24",
+      "DATA": "Amigo do Povo"
+    },
+    {
+      "FORMID": "11EC15",
+      "EDID": "sKarmicTitleGood23",
+      "DATA": "Pastor"
+    },
+    {
+      "FORMID": "11EC14",
+      "EDID": "sKarmicTitleGood22",
+      "DATA": "Modelo de Altruísmo"
+    },
+    {
+      "FORMID": "11EC13",
+      "EDID": "sKarmicTitleGood21",
+      "DATA": "Restaurador da Fé"
+    },
+    {
+      "FORMID": "11EC12",
+      "EDID": "sKarmicTitleNeutral29",
+      "DATA": "Estranho Cinzento"
+    },
+    {
+      "FORMID": "11EC11",
+      "EDID": "sKarmicTitleNeutral28",
+      "DATA": "Avarento"
+    },
+    {
+      "FORMID": "11EC10",
+      "EDID": "sKarmicTitleNeutral27",
+      "DATA": "Pessoa Refinada"
+    },
+    {
+      "FORMID": "11EC0F",
+      "EDID": "sKarmicTitleNeutral26",
+      "DATA": "Modelo de Apatia"
+    },
+    {
+      "FORMID": "11EC0E",
+      "EDID": "sKarmicTitleNeutral25",
+      "DATA": "Herói de Aluguel"
+    },
+    {
+      "FORMID": "11EC0D",
+      "EDID": "sKarmicTitleNeutral24",
+      "DATA": "Solitário"
+    },
+    {
+      "FORMID": "11EC0C",
+      "EDID": "sKarmicTitleNeutral23",
+      "DATA": "Egocêntrico"
+    },
+    {
+      "FORMID": "11EC0B",
+      "EDID": "sKarmicTitleNeutral22",
+      "DATA": "Aproveitador"
+    },
+    {
+      "FORMID": "11EC0A",
+      "EDID": "sKarmicTitleNeutral21",
+      "DATA": "Soldado da Fortuna"
+    },
+    {
+      "FORMID": "11EC09",
+      "EDID": "sKarmicTitleNeutral15",
+      "DATA": "Mito de Vegas"
+    },
+    {
+      "FORMID": "11EC07",
+      "EDID": "sKarmicTitleEvil29",
+      "DATA": "Cria do Demônio"
+    },
+    {
+      "FORMID": "11EC06",
+      "EDID": "sKarmicTitleEvil20",
+      "DATA": "Flagelo dos Ermos"
+    },
+    {
+      "FORMID": "11EC05",
+      "EDID": "sKarmicTitleEvil15",
+      "DATA": "Bicho-papão de Vegas"
+    },
+    {
+      "FORMID": "11EC04",
+      "EDID": "sKarmicTitleEvil14",
+      "DATA": "Espada do Desespero"
+    },
+    {
+      "FORMID": "11EC03",
+      "EDID": "sKarmicTitleEvil13",
+      "DATA": "Bicho-papão do Mojave"
+    },
+    {
+      "FORMID": "11EC02",
+      "EDID": "sKarmicTitleEvil11",
+      "DATA": "Chefão do Crime de Vegas"
+    },
+    {
+      "FORMID": "11EC01",
+      "EDID": "sKarmicTitleEvil09",
+      "DATA": "Terror do Mojave"
+    },
+    {
+      "FORMID": "11EC00",
+      "EDID": "sKarmicTitleEvil08",
+      "DATA": "Traidor"
+    },
+    {
+      "FORMID": "11EBFF",
+      "EDID": "sKarmicTitleEvil02",
+      "DATA": "Fora da Lei"
+    },
+    {
+      "FORMID": "11EBFE",
+      "EDID": "sKarmicTitleEvil01",
+      "DATA": "Trambiqueiro"
+    },
+    {
+      "FORMID": "11EBFD",
+      "EDID": "sKarmicTitleGood29",
+      "DATA": "Salvador dos Condenados"
+    },
+    {
+      "FORMID": "11EBFC",
+      "EDID": "sKarmicTitleGood20",
+      "DATA": "Guardião dos Ermos"
+    },
+    {
+      "FORMID": "11EBFB",
+      "EDID": "sKarmicTitleGood15",
+      "DATA": "Lenda de Vegas"
+    },
+    {
+      "FORMID": "11EBFA",
+      "EDID": "sKarmicTitleGood14",
+      "DATA": "Protetor da Esperança"
+    },
+    {
+      "FORMID": "11EBF9",
+      "EDID": "sKarmicTitleGood13",
+      "DATA": "A Lenda do Mojave"
+    },
+    {
+      "FORMID": "11EBF8",
+      "EDID": "sKarmicTitleGood11",
+      "DATA": "Cruzado de Vegas"
+    },
+    {
+      "FORMID": "11EBF7",
+      "EDID": "sKarmicTitleGood09",
+      "DATA": "Justiceiro dos Ermos"
+    },
+    {
+      "FORMID": "11EBF6",
+      "EDID": "sKarmicTitleGood02",
+      "DATA": "Mártir"
+    },
+    {
+      "FORMID": "11EBF5",
+      "EDID": "sKarmicTitleGood01",
+      "DATA": "Samaritano"
+    },
+    {
+      "FORMID": "11EBF4",
+      "EDID": "sKarmicTitleNeutral20",
+      "DATA": "Renegado dos Ermos"
+    },
+    {
+      "FORMID": "11EBF3",
+      "EDID": "sKarmicTitleNeutral13",
+      "DATA": "O Mito do Mojave"
+    },
+    {
+      "FORMID": "11EBF2",
+      "EDID": "sKarmicTitleNeutral11",
+      "DATA": "Conselheiro de Vegas"
+    },
+    {
+      "FORMID": "11EBF1",
+      "EDID": "sKarmicTitleNeutral09",
+      "DATA": "Saqueador dos Ermos"
+    },
+    {
+      "FORMID": "11EBF0",
+      "EDID": "sKarmicTitleNeutral02",
+      "DATA": "Renegado"
+    },
+    {
+      "FORMID": "11EBEF",
+      "EDID": "sKarmicTitleNeutral01",
+      "DATA": "Andarilho"
+    },
+    {
+      "FORMID": "116897",
+      "EDID": "sDefaultPlayerName",
+      "DATA": "Mensageiro"
+    },
+    {
+      "FORMID": "0B8A9F",
+      "EDID": "sHairColor5",
+      "DATA": "Camurça"
+    },
+    {
+      "FORMID": "0B8A9E",
+      "EDID": "sHairColor15",
+      "DATA": "Champanhe"
+    },
+    {
+      "FORMID": "0B8A9D",
+      "EDID": "sHairColor1",
+      "DATA": "Castanho"
+    },
+    {
+      "FORMID": "0B8A9C",
+      "EDID": "sHairColor9",
+      "DATA": "Mel"
+    },
+    {
+      "FORMID": "0B8A9B",
+      "EDID": "sHairColor8",
+      "DATA": "Ruivo-avermelhado"
+    },
+    {
+      "FORMID": "0B8A9A",
+      "EDID": "sHairColor6",
+      "DATA": "Pecã"
+    },
+    {
+      "FORMID": "0B8A99",
+      "EDID": "sHairColor4",
+      "DATA": "Palha"
+    },
+    {
+      "FORMID": "0B8A98",
+      "EDID": "sHairColor2",
+      "DATA": "Chocolate"
+    },
+    {
+      "FORMID": "0B8A97",
+      "EDID": "sHairColor12",
+      "DATA": "Preto"
+    },
+    {
+      "FORMID": "0B8A96",
+      "EDID": "sHairColor11",
+      "DATA": "Castanho-avermelhado"
+    },
+    {
+      "FORMID": "0B8A95",
+      "EDID": "sHairColor13",
+      "DATA": "Castanho"
+    },
+    {
+      "FORMID": "0B8A94",
+      "EDID": "sHairColor10",
+      "DATA": "Loiro"
+    },
+    {
+      "FORMID": "0B8A93",
+      "EDID": "sHairColor7",
+      "DATA": "Ruivo"
+    },
+    {
+      "FORMID": "0B8A92",
+      "EDID": "sHairColor3",
+      "DATA": "Platinado"
+    },
+    {
+      "FORMID": "0B8A91",
+      "EDID": "sHairColor0",
+      "DATA": "Descolorido"
+    },
+    {
+      "FORMID": "0B8A90",
+      "EDID": "sHairColor14",
+      "DATA": "Aço"
+    },
+    {
+      "FORMID": "0B75EE",
+      "EDID": "sTerminalServerText10",
+      "DATA": "-Servidor 10-"
+    },
+    {
+      "FORMID": "0ABF6B",
+      "EDID": "sKarmaMinorLost",
+      "DATA": "Você perdeu Karma!"
+    },
+    {
+      "FORMID": "0ABF6A",
+      "EDID": "sKarmaMinorGained",
+      "DATA": "Você ganhou Karma!"
+    },
+    {
+      "FORMID": "0ABF69",
+      "EDID": "sKarmaMajorLost",
+      "DATA": "Você perdeu Karma!"
+    },
+    {
+      "FORMID": "0ABF68",
+      "EDID": "sKarmaMajorGained",
+      "DATA": "Você ganhou Karma!"
+    },
+    {
+      "FORMID": "0ABE4A",
+      "EDID": "sPCControlsTextPrefix",
+      "DATA": "pressione"
+    },
+    {
+      "FORMID": "0A9D13",
+      "EDID": "sNoTalkUnConscious",
+      "DATA": "está inconsciente."
+    },
+    {
+      "FORMID": "0A9D12",
+      "EDID": "sNoPickPocketAgain",
+      "DATA": "já pegou você."
+    },
+    {
+      "FORMID": "0A9D11",
+      "EDID": "sKBSpace",
+      "DATA": "Espaço"
+    },
+    {
+      "FORMID": "0A79A8",
+      "EDID": "sOverEncumbered",
+      "DATA": "Você está sobrecarregado e não pode correr!"
+    },
+    {
+      "FORMID": "07EA19",
+      "EDID": "sDownloadsNotAvail",
+      "DATA": "Ver conteúdo adicional"
+    },
+    {
+      "FORMID": "07E95A",
+      "EDID": "sMorphine",
+      "DATA": "Med-X"
+    },
+    {
+      "FORMID": "073D5F",
+      "EDID": "sNoWaitHostilActorsNear",
+      "DATA": "Você não pode esperar enquanto houver inimigos por perto."
+    },
+    {
+      "FORMID": "073D59",
+      "EDID": "sNoSleepHostileActorsNear",
+      "DATA": "Você não pode dormir enquanto houver inimigos por perto."
+    },
+    {
+      "FORMID": "05AC38",
+      "EDID": "sPlayerLeavingBorderRegion",
+      "DATA": "Você não pode seguir por aí. Dê meia-volta."
+    },
+    {
+      "FORMID": "02A6FC",
+      "EDID": "sNoTalkFleeing",
+      "DATA": "está fugindo."
+    }
+  ]
+}

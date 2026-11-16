@@ -1,0 +1,354 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@FalloutNV.esm:0EEA70",
+      "FORMID": "0EEA70",
+      "EDID": "ModNVTrailCarbineScope",
+      "FULL": "Mira de Carabina de Trilha",
+      "DESC": "Adiciona mira de médio alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEA72",
+      "FORMID": "0EEA72",
+      "EDID": "ModNVBrushGunForgedReceiver",
+      "FULL": "Receptor Forjado para Rifle de Combate",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED39",
+      "FORMID": "0EED39",
+      "EDID": "ModNVCowboyRepeaterCustomAction",
+      "FULL": "Ação Personalizada do Rep. Cby.",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3A",
+      "FORMID": "0EED3A",
+      "EDID": "ModNVCowboyRepeaterLongTube",
+      "FULL": "Cby. Rep. Tubo Longo",
+      "DESC": "Aumenta a capacidade de munição (+4)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3B",
+      "FORMID": "0EED3B",
+      "EDID": "ModNVCowboyRepeaterMapleStock",
+      "FULL": "Rep. de Cby. Maple Stock",
+      "DESC": "Diminui o peso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3C",
+      "FORMID": "0EED3C",
+      "EDID": "ModNV9mmPistolScope",
+      "FULL": "Mira de Pistola 9mm",
+      "DESC": "Adiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EED3D",
+      "FORMID": "0EED3D",
+      "EDID": "ModNV9mmPistolExtMags",
+      "FULL": "Carregadores Estendidos de 9mm",
+      "DESC": "Aumenta a capacidade de munição (+7)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED7",
+      "FORMID": "0EEED7",
+      "EDID": "ModNVVarmintRifleSilencer",
+      "FULL": "Silenciador para Rifle de Pragas",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED8",
+      "FORMID": "0EEED8",
+      "EDID": "ModNVVarmintRifleExtMags",
+      "FULL": "Carregadores Estendidos para Rifle de Pragas",
+      "DESC": "Aumenta a capacidade de munição (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEED9",
+      "FORMID": "0EEED9",
+      "EDID": "ModNV357RevolverHDCylinder",
+      "FULL": "Cilindro HD do Revólver .357",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEEDA",
+      "FORMID": "0EEEDA",
+      "EDID": "ModNV357RevolverLongBarrel",
+      "FULL": "Revólver .357 Cano Longo",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EEEDB",
+      "FORMID": "0EEEDB",
+      "EDID": "ModNVVarmintRifleNightScope",
+      "FULL": "Mira Noturna de Rifle Varmint",
+      "DESC": "Adiciona mira noturna de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0FE8",
+      "FORMID": "0F0FE8",
+      "EDID": "ModNVHuntingShotgunLongTube",
+      "FULL": "Espingarda de Caça Tubo Longo",
+      "DESC": "Aumenta a capacidade de munição (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F0FE9",
+      "FORMID": "0F0FE9",
+      "EDID": "ModNVHuntingShotgunChoke",
+      "FULL": "Choke para Espingarda de Caça",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F18FC",
+      "FORMID": "0F18FC",
+      "EDID": "ModNV9mmSMGDrums",
+      "FULL": "Tambores de SMG 9mm",
+      "DESC": "Aumenta a capacidade de munição (+30)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B968",
+      "FORMID": "10B968",
+      "EDID": "ModNV9mmSMGLightBolt",
+      "FULL": "Parafuso Leve da SMG 9mm",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C1AD",
+      "FORMID": "10C1AD",
+      "EDID": "ModNVFatManLittleBoyKit",
+      "FULL": "Kit Fat Man Little Boy",
+      "DESC": "Diminui o peso (50%)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C850",
+      "FORMID": "10C850",
+      "EDID": "ModNVServiceRifleUpgradedSprings",
+      "FULL": "Molas do Rifle de Serviço Aprimoradas",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C851",
+      "FORMID": "10C851",
+      "EDID": "ModNVServiceRifleForgedReceiver",
+      "FULL": "Receptor Forjado de Rifle de Serviço",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C852",
+      "FORMID": "10C852",
+      "EDID": "ModNVLightMGExpandedDrums",
+      "FULL": "Tambores Ampliados da Light MG",
+      "DESC": "Aumenta a capacidade de munição (+110)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C854",
+      "FORMID": "10C854",
+      "EDID": "ModNVLaserRCWRecycler",
+      "FULL": "Reciclador RCW a Laser",
+      "DESC": "Recarrega a munição (1\/4 de tiros)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C855",
+      "FORMID": "10C855",
+      "EDID": "ModNVPlasmaCasterHSElectrode",
+      "FULL": "Eletrodo HS do Lançador de Plasma",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C856",
+      "FORMID": "10C856",
+      "EDID": "ModNVGrenadeRifleLongBarrel",
+      "FULL": "Lança-granadas com cano longo",
+      "DESC": "Aumenta o alcance (+100%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C857",
+      "FORMID": "10C857",
+      "EDID": "ModNVGrenadeMachinegunHSKit",
+      "FULL": "Kit de Alta Velocidade para Metralhadora de Granadas",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C858",
+      "FORMID": "10C858",
+      "EDID": "ModNV10mmPistolExtMags",
+      "FULL": "Carregadores Estendidos de Pistola 10mm",
+      "DESC": "Aumenta a capacidade de munição (+4)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C859",
+      "FORMID": "10C859",
+      "EDID": "ModNV10mmPistolLaserSight",
+      "FULL": "Mira Laser para Pistola de 10mm",
+      "DESC": "Diminui a dispersão, adiciona efeito de mira laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85B",
+      "FORMID": "10C85B",
+      "EDID": "ModNV44RevolverScope",
+      "FULL": "Mira para Revólver .44",
+      "DESC": "Adiciona mira de curto alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85C",
+      "FORMID": "10C85C",
+      "EDID": "ModNV44RevolverHeavyFrame",
+      "FULL": ".44 Revolver com Armação Reforçada",
+      "DESC": "Aumenta a condição (+50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85D",
+      "FORMID": "10C85D",
+      "EDID": "ModNV10mmSMGExtMags",
+      "FULL": "Carregadores Estendidos da SMG de 10mm",
+      "DESC": "Aumenta a capacidade de munição (+10)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85E",
+      "FORMID": "10C85E",
+      "EDID": "ModNV10mmSMGRecoilCompensator",
+      "FULL": "Compensador de Recuo da SMG 10mm",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C85F",
+      "FORMID": "10C85F",
+      "EDID": "ModNVFlamerExpandedTanks",
+      "FULL": "Tanques Estendidos do Lança-chamas",
+      "DESC": "Aumenta a capacidade de munição (+60)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C860",
+      "FORMID": "10C860",
+      "EDID": "ModNVHuntingRifleScope",
+      "FULL": "Mira de Rifle de Caça",
+      "DESC": "Adiciona mira de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C861",
+      "FORMID": "10C861",
+      "EDID": "ModNVHuntingRifleCustomAction",
+      "FULL": "Ação Customizada do Rifle de Caça",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C862",
+      "FORMID": "10C862",
+      "EDID": "ModNVHuntingRifleExtMag",
+      "FULL": "Carregador Estendido de Rifle de Caça",
+      "DESC": "Aumenta a capacidade de munição (+5)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C863",
+      "FORMID": "10C863",
+      "EDID": "ModNVAssaultCarbineExtMags",
+      "FULL": "Carregadores Estendidos de Carabina de Assalto",
+      "DESC": "Aumenta a capacidade de munição (+6)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C864",
+      "FORMID": "10C864",
+      "EDID": "ModNVSniperRifleSuppressor",
+      "FULL": "Supressor de Rifle de Precisão",
+      "DESC": "Reduz o ruído da arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C865",
+      "FORMID": "10C865",
+      "EDID": "ModNVSniperRifleCarbonFiberParts",
+      "FULL": "Peças de Fibra de Carbono para Rifle de Precisão",
+      "DESC": "Diminui o peso (-5)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C866",
+      "FORMID": "10C866",
+      "EDID": "ModNVMinigunDampedSubframe",
+      "FULL": "Minigun com Estrutura Amortecida",
+      "DESC": "Reduz a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C867",
+      "FORMID": "10C867",
+      "EDID": "ModNVMinigunHighSpeedMotor",
+      "FULL": "Motor de Alta Velocidade da Minigun",
+      "DESC": "Aumenta a cadência de tiro."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C868",
+      "FORMID": "10C868",
+      "EDID": "ModNVLaserRifleScope",
+      "FULL": "Mira de Rifle a Laser",
+      "DESC": "Adiciona mira de longo alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C869",
+      "FORMID": "10C869",
+      "EDID": "ModNVLaserRifleFocusOptics",
+      "FULL": "Mira de Precisão para Rifle Laser",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86A",
+      "FORMID": "10C86A",
+      "EDID": "ModNVLaserRifleBeamSplitter",
+      "FULL": "Divisor de Feixe de Rifle Laser",
+      "DESC": "Cria dois feixes que juntos causam dano aumentado (+30%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86B",
+      "FORMID": "10C86B",
+      "EDID": "ModNVPlasmaRifleMagneticAccelerator",
+      "FULL": "Acelerador de Carregador de Rifle de Plasma",
+      "DESC": "Aumenta a velocidade do projétil de plasma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86C",
+      "FORMID": "10C86C",
+      "EDID": "ModNVGatlingLaserFocusOptics",
+      "FULL": "Gat. Ótica de Foco Laser",
+      "DESC": "Aumenta o dano (+3)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86D",
+      "FORMID": "10C86D",
+      "EDID": "ModNVGatlingLaserCFFrame",
+      "FULL": "Armação de CF de Gat. Laser",
+      "DESC": "Diminui o peso (50%)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86E",
+      "FORMID": "10C86E",
+      "EDID": "ModNVMissileLauncherGuidanceSys",
+      "FULL": "Sist. de Orientação de Míssil",
+      "DESC": "Diminui a dispersão."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C86F",
+      "FORMID": "10C86F",
+      "EDID": "ModNVSilenced22SMGDrums",
+      "FULL": "Sil. Carregadores Expansivos de SMG .22",
+      "DESC": "Aumenta a capacidade de munição (+60)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:129878",
+      "FORMID": "129878",
+      "EDID": "ModNV10mmPistolSilencer",
+      "FULL": "Silenciador para Pistola de 10mm",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:147620",
+      "FORMID": "147620",
+      "EDID": "ModNV127mmPistolSilencer",
+      "FULL": "Silenciador para Pistola 12,7mm",
+      "DESC": "Silencia a arma."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1476B0",
+      "FORMID": "1476B0",
+      "EDID": "ModNV127mmSubmachinegunSilencer",
+      "FULL": "Silenciador para Submetralhadora de 12,7mm",
+      "DESC": "Silencia a arma."
+    }
+  ]
+}

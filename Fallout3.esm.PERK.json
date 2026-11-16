@@ -1,0 +1,95 @@
+{
+  "PERK": [
+    {
+      "FORM": "@Fallout3.esm:031DDB",
+      "FORMID": "031DDB",
+      "EDID": "IronFist",
+      "FULL": "Punho de Ferro",
+      "DESC": "Com o bônus Punho de Ferro, você dá 5 pontos adicionais de dano Desarmado por nível."
+    },
+    {
+      "FORM": "@Fallout3.esm:031DD6",
+      "FORMID": "031DD6",
+      "EDID": "Thief",
+      "FULL": "Ladrão",
+      "DESC": "A cada nível do bônus Ladrão, você ganha um bônus imediato de 5 pontos nas habilidades Furtivo e Arrombamento."
+    },
+    {
+      "FORM": "@Fallout3.esm:031DB8",
+      "FORMID": "031DB8",
+      "EDID": "MasterTrader",
+      "FULL": "Grande Comerciante",
+      "DESC": "Quando adquirir o bônus Grande Comerciante, o preço de todos os itens que comprar de um vendedor é reduzido em 25%."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CA6",
+      "FORMID": "044CA6",
+      "EDID": "Scoundrel",
+      "FULL": "Canalha",
+      "DESC": "Com o bônus Canalha você poderá usar seu charme para influenciar as pessoas, cada nível aumenta suas habilidades Diálogo e Negociar em 5 pontos."
+    },
+    {
+      "FORM": "@Fallout3.esm:04494E",
+      "FORMID": "04494E",
+      "EDID": "GunNut",
+      "FULL": "Louco por Armas",
+      "DESC": "Você é obcecado em usar e consertar uma grande variedade de armas de fogo convencionais. A cada nível do bônus Louco por Armas, você ganha 5 pontos adicionais para as habilidades de Armas Pequenas e Reparo."
+    },
+    {
+      "FORM": "@Fallout3.esm:044948",
+      "FORMID": "044948",
+      "EDID": "DaddysBoy",
+      "FULL": "Menino do Papai",
+      "DESC": "Assim como o velho Pai, você devotou seu tempo em buscas intelectuais. Você ganha 5 pontos adicionais para as habilidades de Ciência e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:069310",
+      "FORMID": "069310",
+      "EDID": "DaddysGirl",
+      "FULL": "Menina do Papai",
+      "DESC": "Assim como o velho Pai, você devotou seu tempo em buscas intelectuais. Você ganha 5 pontos adicionais para as habilidades de Ciência e Medicina."
+    },
+    {
+      "FORM": "@Fallout3.esm:09982E",
+      "FORMID": "09982E",
+      "EDID": "SizeMatters",
+      "FULL": "Tamanho importa",
+      "DESC": "Você é obcecado por armas realmente grandes. A cada nível você ganhará um adicional de 15 pontos de habilidade em Armas Grandes."
+    },
+    {
+      "FORM": "@Fallout3.esm:014B97",
+      "FORMID": "014B97",
+      "EDID": "LittleLeaguer",
+      "FULL": "Pequeno Lançador",
+      "DESC": "Tantos anos sendo um Pequeno Lançador da liga infantil do Vault afinaram seus golpes e lançamentos. Com cada nível, você ganha 5 pontos de habilidade em Armas Brancas e Explosivos."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CAD",
+      "FORMID": "044CAD",
+      "EDID": "ImpartialMediation",
+      "FULL": "Mediação Imparcial",
+      "DESC": "Com o bônus Mediação Imparcial você ganha 30 pontos em Diálogo... Contanto que você mantenha um nível de Karma Neutro."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CAC",
+      "FORMID": "044CAC",
+      "EDID": "Lawbringer",
+      "FULL": "Justiceiro",
+      "DESC": "Uma vez com o bônus Justiceiro, todo personagem mau que você matar terá um dedo em seu corpo. Esse dedo poderá ser vendido para certa pessoa (cuja identidade é revelada ao adquirir o bônus) em troca de tampas e Karma positivo."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CAB",
+      "FORMID": "044CAB",
+      "EDID": "Cyborg",
+      "FULL": "Ciborgue",
+      "DESC": "Você obteve aprimoramentos permanentes para seu corpo! O bônus Ciborgue adiciona instantaneamente 10% nas resistências de: Dano, Veneno e Radiação, e 10 pontos na habilidade Armas de Energia."
+    },
+    {
+      "FORM": "@Fallout3.esm:044CA8",
+      "FORMID": "044CA8",
+      "EDID": "ContractKiller",
+      "FULL": "Matador de Aluguel",
+      "DESC": "Com o bônus Matador de Aluguel, todo personagem bom que você matar terá uma orelha em seu corpo. Essa orelha poderá ser vendida para certa pessoa (cuja identidade é revelada ao adquirir o bônus) em troca de tampas e Karma negativo."
+    }
+  ]
+}

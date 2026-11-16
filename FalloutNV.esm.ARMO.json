@@ -1,0 +1,2254 @@
+{
+  "ARMO": [
+    {
+      "FORM": "@FalloutNV.esm:00431E",
+      "FORMID": "00431E",
+      "EDID": "VaultSuit101",
+      "FULL": "Macacão do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014C08",
+      "FORMID": "014C08",
+      "EDID": "ArmorPowerT45dHelmet",
+      "FULL": "Armadura Potente T-45d (Capacete)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:014E13",
+      "FORMID": "014E13",
+      "EDID": "ArmorPowerT45d",
+      "FULL": "Armadura Potente T-45d"
+    },
+    {
+      "FORM": "@FalloutNV.esm:015038",
+      "FORMID": "015038",
+      "EDID": "PipBoy",
+      "FULL": "Pip-Boy 3000"
+    },
+    {
+      "FORM": "@FalloutNV.esm:018DE5",
+      "FORMID": "018DE5",
+      "EDID": "OutfitWasteland01",
+      "FULL": "Traje de Pele de Brahmin"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01BA00",
+      "FORMID": "01BA00",
+      "EDID": "OutfitWasteland02",
+      "FULL": "Traje de Errante da Terra Desolada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CBDB",
+      "FORMID": "01CBDB",
+      "EDID": "OutfitWasteland03",
+      "FULL": "Traje de Colono do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01CBDC",
+      "FORMID": "01CBDC",
+      "EDID": "VaultLabCoat",
+      "FULL": "Uniforme de Laboratório do Vault"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01EA6D",
+      "FORMID": "01EA6D",
+      "EDID": "OutfitPrewarCasualwear",
+      "FULL": "Traje Casual Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020420",
+      "FORMID": "020420",
+      "EDID": "ArmorCombat",
+      "FULL": "Armadura de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020423",
+      "FORMID": "020423",
+      "EDID": "ArmorLeather",
+      "FULL": "Armadura de Couro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020426",
+      "FORMID": "020426",
+      "EDID": "ArmorCombatHelmet",
+      "FULL": "Capacete de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020429",
+      "FORMID": "020429",
+      "EDID": "OutfitLucasSimms",
+      "FULL": "Duster do Xerife"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02042E",
+      "FORMID": "02042E",
+      "EDID": "OutfitTunnelSnake01",
+      "FULL": "Traje dos Tunnel Snakes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02042F",
+      "FORMID": "02042F",
+      "EDID": "ArmorRaider01",
+      "FULL": "Armadura de Espinhos de Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:020432",
+      "FORMID": "020432",
+      "EDID": "ArmorRaider01Helmet",
+      "FULL": "Capacete Psicótico de Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0236D8",
+      "FORMID": "0236D8",
+      "EDID": "PipBoyNPC",
+      "FULL": "Pip-Boy 3000"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025083",
+      "FORMID": "025083",
+      "EDID": "ArmorPowerUnplayable",
+      "FULL": "Armadura Potente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:025B83",
+      "FORMID": "025B83",
+      "EDID": "PipBoyGlove",
+      "FULL": "Luva Pip-Boy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028EAD",
+      "FORMID": "028EAD",
+      "EDID": "ArmorReconHelmet",
+      "FULL": "Capacete da Armadura de Reconhecimento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02B385",
+      "FORMID": "02B385",
+      "EDID": "OutfitWastelandMerchant01",
+      "FULL": "Traje de Comerciante Itinerante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DC05",
+      "FORMID": "02DC05",
+      "EDID": "ArmorLeatherUnplayable",
+      "FULL": "Armadura de Couro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02DD80",
+      "FORMID": "02DD80",
+      "EDID": "OutfitLucasSimmsHat",
+      "FULL": "Chapéu de Xerife"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03064D",
+      "FORMID": "03064D",
+      "EDID": "ArmorRecon",
+      "FULL": "Armadura de Reconhecimento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033078",
+      "FORMID": "033078",
+      "EDID": "ArmorRadiationSuit",
+      "FULL": "Traje de Proteção contra Radiação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03307A",
+      "FORMID": "03307A",
+      "EDID": "ArmorRadiationSuitAdvanced",
+      "FULL": "Traje de Radiação Avançado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03307C",
+      "FORMID": "03307C",
+      "EDID": "ArmorRaider02",
+      "FULL": "Armadura de Saqueador Sádico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03307D",
+      "FORMID": "03307D",
+      "EDID": "ArmorRaider03",
+      "FULL": "Armadura de Saqueador dos Ermos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03307E",
+      "FORMID": "03307E",
+      "EDID": "ArmorRaider04",
+      "FULL": "Armadura de Saqueador Mestre em Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03307F",
+      "FORMID": "03307F",
+      "EDID": "ArmorMetal",
+      "FULL": "Armadura de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033080",
+      "FORMID": "033080",
+      "EDID": "ArmorMetalHelmet",
+      "FULL": "Capacete de Metal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:033598",
+      "FORMID": "033598",
+      "EDID": "HelmetHockeyMask",
+      "FULL": "Máscara de Hóquei"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340C1",
+      "FORMID": "0340C1",
+      "EDID": "KIDHatPrewarCapKid",
+      "FULL": "Boné de Beisebol Infantil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340C3",
+      "FORMID": "0340C3",
+      "EDID": "KIDOutfitPrewarChild",
+      "FULL": "Roupa Infantil Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340C4",
+      "FORMID": "0340C4",
+      "EDID": "KIDOutfitPrewarChildOld",
+      "FULL": "Roupa de Criança Suja de Antes da Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340C8",
+      "FORMID": "0340C8",
+      "EDID": "HatPrewarHat",
+      "FULL": "Chapéu de Antes da Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340CD",
+      "FORMID": "0340CD",
+      "EDID": "HatPrewarBonnet",
+      "FULL": "Gorro Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340CF",
+      "FORMID": "0340CF",
+      "EDID": "OutfitPrewarCasualwearDirty",
+      "FULL": "Roupa Casual Pré-Guerra Suja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340D0",
+      "FORMID": "0340D0",
+      "EDID": "OutfitPrewarSpring",
+      "FULL": "Roupa de Primavera Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340D1",
+      "FORMID": "0340D1",
+      "EDID": "OutfitPrewarSpringDirty",
+      "FULL": "Roupa de Primavera Suja do Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340D7",
+      "FORMID": "0340D7",
+      "EDID": "OutfitProjectPurityDoctor",
+      "FULL": "Roupa de Técnico de Laboratório"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340D9",
+      "FORMID": "0340D9",
+      "EDID": "OutfitRivetCityScientist",
+      "FULL": "Traje de Cientista"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340DE",
+      "FORMID": "0340DE",
+      "EDID": "OutfitEnclaveOfficer01",
+      "FULL": "Uniforme de Oficial da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340E1",
+      "FORMID": "0340E1",
+      "EDID": "KIDHatPoliceChild",
+      "FULL": "Chapéu de Polícia de Criança"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340E4",
+      "FORMID": "0340E4",
+      "EDID": "KIDOutfitLittleLamplighter01",
+      "FULL": "Roupa de Rato-de-Caverna Infantil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340E6",
+      "FORMID": "0340E6",
+      "EDID": "OutfitPrewarNegligee",
+      "FULL": "Traje de Dormir Sexy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340E7",
+      "FORMID": "0340E7",
+      "EDID": "KIDOutfitMayorMacCready",
+      "FULL": "Traje do Prefeito MacCready"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340ED",
+      "FORMID": "0340ED",
+      "EDID": "VaultSuit87",
+      "FULL": "Macacão do Vault 87"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340EF",
+      "FORMID": "0340EF",
+      "EDID": "VaultSuit112",
+      "FULL": "Macacão do Vault 112"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340F2",
+      "FORMID": "0340F2",
+      "EDID": "KIDVaultSuitChild101",
+      "FULL": "Macacão Infantil do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340F8",
+      "FORMID": "0340F8",
+      "EDID": "KIDOutfitWastelandChild01",
+      "FULL": "Traje de Maltrapilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340F9",
+      "FORMID": "0340F9",
+      "EDID": "KIDOutfitWastelandChild02",
+      "FULL": "Uniforme de Oficial Júnior"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340FA",
+      "FORMID": "0340FA",
+      "EDID": "KIDOutfitWastelandChild03",
+      "FULL": "Uniforme de Escoteiro do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340FB",
+      "FORMID": "0340FB",
+      "EDID": "KIDOutfitWastelandChild04",
+      "FULL": "Traje de Atleta dos Ermos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340FD",
+      "FORMID": "0340FD",
+      "EDID": "GlassesBlackrimmed",
+      "FULL": "Óculos de Grau"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340FE",
+      "FORMID": "0340FE",
+      "EDID": "OutfitWastelandDoctor01",
+      "FULL": "Fardas de Médico do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0340FF",
+      "FORMID": "0340FF",
+      "EDID": "OutfitWastelandDoctor02",
+      "FULL": "Traje de Cirurgião do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034105",
+      "FORMID": "034105",
+      "EDID": "MS18RangerHelmet",
+      "FULL": "Capacete de Combate de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03411A",
+      "FORMID": "03411A",
+      "EDID": "OutfitJumpsuitRobco",
+      "FULL": "Macacão RobCo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03411B",
+      "FORMID": "03411B",
+      "EDID": "OutfitJumpsuitRedRacer",
+      "FULL": "Macacão do Corredor Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034122",
+      "FORMID": "034122",
+      "EDID": "OutfitMerc01",
+      "FULL": "Traje de Encantador Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034123",
+      "FORMID": "034123",
+      "EDID": "OutfitMerc02",
+      "FULL": "Traje Encrenqueiro Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034124",
+      "FORMID": "034124",
+      "EDID": "OutfitMerc03",
+      "FULL": "Roupa de Aventureiro Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034125",
+      "FORMID": "034125",
+      "EDID": "OutfitEulogyJones",
+      "FULL": "Terno de Eulogy Jones"
+    },
+    {
+      "FORM": "@FalloutNV.esm:034126",
+      "FORMID": "034126",
+      "EDID": "OutfitEulogyJonesHat",
+      "FULL": "Chapéu de Eulogy Jones"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03D1FE",
+      "FORMID": "03D1FE",
+      "EDID": "MS13Collar",
+      "FULL": "Coleira de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01B5BD",
+      "FORMID": "01B5BD",
+      "EDID": "OutfitEnclaveScientist",
+      "FULL": "Traje de Cientista da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02F563",
+      "FORMID": "02F563",
+      "EDID": "SlaveCollar",
+      "FULL": "Coleira de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0425BA",
+      "FORMID": "0425BA",
+      "EDID": "VaultSuit101Utility",
+      "FULL": "Macacão de Utilidade do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04443E",
+      "FORMID": "04443E",
+      "EDID": "ArmorEnclave",
+      "FULL": "Armadura Potente da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04443F",
+      "FORMID": "04443F",
+      "EDID": "ArmorEnclaveHelmet",
+      "FULL": "Armadura Potente da Enclave (Capacete)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:04E6A0",
+      "FORMID": "04E6A0",
+      "EDID": "HelmetEyebot",
+      "FULL": "Capacete de Eyebot"
+    },
+    {
+      "FORM": "@FalloutNV.esm:050E44",
+      "FORMID": "050E44",
+      "EDID": "HatParty",
+      "FULL": "Chapéu de Festa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D11B",
+      "FORMID": "02D11B",
+      "EDID": "HelmetMayorMacCready",
+      "FULL": "Capacete do MacCready"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E54A",
+      "FORMID": "03E54A",
+      "EDID": "RegulatorDuster",
+      "FULL": "Casaco de Regulador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C99F",
+      "FORMID": "05C99F",
+      "EDID": "GlassesShades",
+      "FULL": "Óculos de Sol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C9A0",
+      "FORMID": "05C9A0",
+      "EDID": "GlassesDoctorLi",
+      "FULL": "Óculos da Dra. Li"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C9A1",
+      "FORMID": "05C9A1",
+      "EDID": "GlassesTortiseshell",
+      "FULL": "Óculos de Tartaruga"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06696D",
+      "FORMID": "06696D",
+      "EDID": "OutfitMysteriousStranger",
+      "FULL": "Traje do Estranho Misterioso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B464",
+      "FORMID": "06B464",
+      "EDID": "ArmorTeslaPower",
+      "FULL": "Armadura Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B465",
+      "FORMID": "06B465",
+      "EDID": "ArmorTeslaHelmet",
+      "FULL": "Capacete Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06B467",
+      "FORMID": "06B467",
+      "EDID": "OutfitMysteriousStrangerHat",
+      "FULL": "Chapéu do Misterioso Desconhecido"
+    },
+    {
+      "FORM": "@FalloutNV.esm:075201",
+      "FORMID": "075201",
+      "EDID": "ArmorPowerBrotherhoodOfSteelT45D",
+      "FULL": "Armadura Potente T-45d da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07836E",
+      "FORMID": "07836E",
+      "EDID": "MS14PowerArmorMorphine",
+      "FULL": "Armadura Potente Médica Prototípica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078643",
+      "FORMID": "078643",
+      "EDID": "KIDOutfitLittleLamplighter01Hat",
+      "FULL": "Chapéu de Toupeira Murray Infantil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078644",
+      "FORMID": "078644",
+      "EDID": "ArmorRaider02Helmet",
+      "FULL": "Máscara de Solda de Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078645",
+      "FORMID": "078645",
+      "EDID": "ArmorRaider03Helmet",
+      "FULL": "Capacete de Vira-Lata de Saqueador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078647",
+      "FORMID": "078647",
+      "EDID": "OutfitEnclaveOfficer01Hat",
+      "FULL": "Chapéu de Oficial da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:078648",
+      "FORMID": "078648",
+      "EDID": "OutfitWastelandMerchantHat",
+      "FULL": "Chapéu de Comerciante Itinerante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:079F09",
+      "FORMID": "079F09",
+      "EDID": "VaultSuitUtilityDad",
+      "FULL": "Roupa de Ermo do Pai"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07C17D",
+      "FORMID": "07C17D",
+      "EDID": "MS03StealthHat",
+      "FULL": "Chapéu Sombrio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08198C",
+      "FORMID": "08198C",
+      "EDID": "KIDOutfitPrewarChildandWatch",
+      "FULL": "Roupa e Relógio de Antes da Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0854CF",
+      "FORMID": "0854CF",
+      "EDID": "OutfitBoSScribe",
+      "FULL": "Manto de Escriba da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:089B52",
+      "FORMID": "089B52",
+      "EDID": "Underwear",
+      "FULL": "Roupa íntima"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08C83C",
+      "FORMID": "08C83C",
+      "EDID": "OutfitMerc04",
+      "FULL": "Traje de Veterano Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F571",
+      "FORMID": "08F571",
+      "EDID": "ArmorTeslaPowerFX",
+      "FULL": "Armadura Tesla"
+    },
+    {
+      "FORM": "@FalloutNV.esm:08F775",
+      "FORMID": "08F775",
+      "EDID": "LLFFArmorRaider03Helmet",
+      "FULL": "Capuz do Bicho-Papão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:096CB7",
+      "FORMID": "096CB7",
+      "EDID": "OutfitTenpenny",
+      "FULL": "Traje do Tenpenny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B185",
+      "FORMID": "09B185",
+      "EDID": "KIDOutfitWastelandChild04Hat",
+      "FULL": "Boné Infantil com Óculos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B186",
+      "FORMID": "09B186",
+      "EDID": "OutfitWastelandHat01",
+      "FULL": "Capacete de Motoqueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B188",
+      "FORMID": "09B188",
+      "EDID": "OutfitWastelandHat03",
+      "FULL": "Óculos de Motoqueiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:09B189",
+      "FORMID": "09B189",
+      "EDID": "OutfitWastelandHat02",
+      "FULL": "Chapéu Perseguidor de Tempestades"
+    },
+    {
+      "FORM": "@FalloutNV.esm:023030",
+      "FORMID": "023030",
+      "EDID": "MS18RangerBattlearmor",
+      "FULL": "Armadura de Combate de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028FF8",
+      "FORMID": "028FF8",
+      "EDID": "KIDHatPartyChild",
+      "FULL": "Chapéu de Festa Infantil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028FF9",
+      "FORMID": "028FF9",
+      "EDID": "HatPrewarBaseballCap",
+      "FULL": "Boné de Beisebol Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:028FFA",
+      "FORMID": "028FFA",
+      "EDID": "OutfitWastelandHat04",
+      "FULL": "Boné com Óculos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6E8",
+      "FORMID": "05B6E8",
+      "EDID": "ArmorRaider04Helmet",
+      "FULL": "Capacete de Saqueador Mestre em Explosivos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05B6EA",
+      "FORMID": "05B6EA",
+      "EDID": "KIDOutfitWastelandChild05",
+      "FULL": "Pijamas Espaciais"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05C682",
+      "FORMID": "05C682",
+      "EDID": "OutfitPrewarBusinesswearDirty",
+      "FULL": "Roupa de Negócios Suja Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A6F77",
+      "FORMID": "0A6F77",
+      "EDID": "ArmorPowerT51b",
+      "FULL": "Armadura Potente T-51b"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A6F78",
+      "FORMID": "0A6F78",
+      "EDID": "ArmorPowerT51bHelmet",
+      "FULL": "Armadura Potente T-51b (Capacete)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0AB491",
+      "FORMID": "0AB491",
+      "EDID": "HatPoliceAdult",
+      "FULL": "Chapéu de Polícia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ABBE2",
+      "FORMID": "0ABBE2",
+      "EDID": "MQ04PlayerOutfit",
+      "FULL": "Roupa e Relógio de Antes da Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACDA4",
+      "FORMID": "0ACDA4",
+      "EDID": "GlassesThreeDog",
+      "FULL": "Óculos de Sol"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B73F1",
+      "FORMID": "0B73F1",
+      "EDID": "VaultSuit108",
+      "FULL": "Macacão do Vault 108"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B73F2",
+      "FORMID": "0B73F2",
+      "EDID": "VaultSuit106",
+      "FULL": "Macacão do Vault 106"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B73F3",
+      "FORMID": "0B73F3",
+      "EDID": "VaultSuit92",
+      "FULL": "Macacão do Vault 92"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C295",
+      "FORMID": "01C295",
+      "EDID": "GlassesReadingClr",
+      "FULL": "Óculos de Leitura Coloridos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:01C296",
+      "FORMID": "01C296",
+      "EDID": "GlassesReading",
+      "FULL": "Óculos de Leitura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:023B62",
+      "FORMID": "023B62",
+      "EDID": "RavenRockCorpseArmorEnclave",
+      "FULL": "Armadura Potente da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:03E591",
+      "FORMID": "03E591",
+      "EDID": "MS03SurgicalMask",
+      "FULL": "Máscara Cirúrgica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB63",
+      "FORMID": "05BB63",
+      "EDID": "OutfitPrewarCasualwear2",
+      "FULL": "Roupa Relaxante Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB66",
+      "FORMID": "05BB66",
+      "EDID": "OutfitPrewarSpring2",
+      "FULL": "Traje de Passeio do Parque Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB6F",
+      "FORMID": "05BB6F",
+      "EDID": "OutfitPrewarCasualwear2Dirty",
+      "FULL": "Roupa Relaxada Pré-Guerra Suja"
+    },
+    {
+      "FORM": "@FalloutNV.esm:05BB70",
+      "FORMID": "05BB70",
+      "EDID": "OutfitPrewarSpring2Dirty",
+      "FULL": "Roupa de Passeio Suja de Antes da Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:073D57",
+      "FORMID": "073D57",
+      "EDID": "OutfitWastelandHat05",
+      "FULL": "Bandana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074296",
+      "FORMID": "074296",
+      "EDID": "HeadWrap01",
+      "FULL": "Bandana de Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074334",
+      "FORMID": "074334",
+      "EDID": "HeadWrap04",
+      "FULL": "Bandana de Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074335",
+      "FORMID": "074335",
+      "EDID": "HeadWrap03",
+      "FULL": "Bandana de Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074336",
+      "FORMID": "074336",
+      "EDID": "HeadWrap02",
+      "FULL": "Bandana de Cabeça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A3045",
+      "FORMID": "0A3045",
+      "EDID": "OutfitMerc05",
+      "FULL": "Traje Básico de Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B1056",
+      "FORMID": "0B1056",
+      "EDID": "OutfitPrewarBusinesswearDirtyDARK",
+      "FULL": "Roupa de Negócios Suja Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B17A0",
+      "FORMID": "0B17A0",
+      "EDID": "HelmetEyebotCaravanSpecial",
+      "FULL": "Capacete de Eyebot do Corvo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BF6FD",
+      "FORMID": "0BF6FD",
+      "EDID": "OutfitJumpsuitTLHandyman",
+      "FULL": "Macacão de Faz-Tudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C09D4",
+      "FORMID": "0C09D4",
+      "EDID": "MS03EnvironmentSuit",
+      "FULL": "Traje Ambiental"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C111A",
+      "FORMID": "0C111A",
+      "EDID": "Vault106GasMask",
+      "FULL": "Máscara de Gás Improvisada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C24F9",
+      "FORMID": "0C24F9",
+      "EDID": "MS04LeskosLabCoat",
+      "FULL": "Jaleco de Lesko"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C5D34",
+      "FORMID": "0C5D34",
+      "EDID": "OutfitMerc06",
+      "FULL": "Traje de Cruzador Mercante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C71E1",
+      "FORMID": "0C71E1",
+      "EDID": "RedRacerLabCoat",
+      "FULL": "O Jaleco de Cirurgião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C72FB",
+      "FORMID": "0C72FB",
+      "EDID": "HatTakomaBaseballCap",
+      "FULL": "Boné da Liga Infantil de Takoma Park"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C7C4E",
+      "FORMID": "0C7C4E",
+      "EDID": "ArmorTorcherMask",
+      "FULL": "Máscara do Torcionário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C7C54",
+      "FORMID": "0C7C54",
+      "EDID": "ArmorWanderersLeather",
+      "FULL": "Armadura de Couro de Errante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C8E07",
+      "FORMID": "0C8E07",
+      "EDID": "MS04AmorousAttire",
+      "FULL": "Roupa de Dormir Sexy"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CAFBE",
+      "FORMID": "0CAFBE",
+      "EDID": "VaultSuit77",
+      "FULL": "Macacão do Vault 77"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB543",
+      "FORMID": "0CB543",
+      "EDID": "UniqueArmorDefender",
+      "FULL": "Armadura de Defensor"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB544",
+      "FORMID": "0CB544",
+      "EDID": "UniqueArmorCommando",
+      "FULL": "Armadura de Comando"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB545",
+      "FORMID": "0CB545",
+      "EDID": "ArmorUniqueWastelander",
+      "FULL": "Equipamento do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB549",
+      "FORMID": "0CB549",
+      "EDID": "ArmorUniqueExplorer",
+      "FULL": "Equipamento de Explorador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB54B",
+      "FORMID": "0CB54B",
+      "EDID": "UniqueGlassesLuckyShades",
+      "FULL": "Óculos da Sorte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5EF",
+      "FORMID": "0CB5EF",
+      "EDID": "ArmorUniqueCombat",
+      "FULL": "Armadura de Combate Abalada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F0",
+      "FORMID": "0CB5F0",
+      "EDID": "ArmorUniqueCombatHelmet",
+      "FULL": "Capacete de Combate Abalado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F3",
+      "FORMID": "0CB5F3",
+      "EDID": "ArmorUniqueEnclave",
+      "FULL": "Armadura de Choque da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F4",
+      "FORMID": "0CB5F4",
+      "EDID": "ArmorUniqueEnclaveHelmet",
+      "FULL": "Capacete de Shocktrooper da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F5",
+      "FORMID": "0CB5F5",
+      "EDID": "ArmorUniqueLeather",
+      "FULL": "Armadura de Couro Vagabundo da Estrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F6",
+      "FORMID": "0CB5F6",
+      "EDID": "ArmorUniqueMetal",
+      "FULL": "Armadura de Gladiador do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5F7",
+      "FORMID": "0CB5F7",
+      "EDID": "ArmorUniqueMetalHelmet",
+      "FULL": "Capacete de Gladiador do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FA",
+      "FORMID": "0CB5FA",
+      "EDID": "ArmorUniqueRecon",
+      "FULL": "Armadura de Reconhecimento Composta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FB",
+      "FORMID": "0CB5FB",
+      "EDID": "ArmorUniqueReconHelmet",
+      "FULL": "Capacete de Reconhecimento Composto"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FC",
+      "FORMID": "0CB5FC",
+      "EDID": "ArmorUniqueRaider01",
+      "FULL": "Armadura de Saqueador Alinhado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FD",
+      "FORMID": "0CB5FD",
+      "EDID": "ArmorUniqueRaider01Helmet",
+      "FULL": "As Tranças do Diabo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FE",
+      "FORMID": "0CB5FE",
+      "EDID": "ArmorUniqueRaider02",
+      "FULL": "Armadura de Saqueador de Segunda Mão"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB5FF",
+      "FORMID": "0CB5FF",
+      "EDID": "ArmorUniqueRaider04",
+      "FULL": "Armadura Cicatriz da Rodovia"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB600",
+      "FORMID": "0CB600",
+      "EDID": "ArmorUniqueRaider04Helmet",
+      "FULL": "Capacete Pyro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB605",
+      "FORMID": "0CB605",
+      "EDID": "OutfitUniqueEnclaveScientist",
+      "FULL": "Traje Científico Multiuso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB606",
+      "FORMID": "0CB606",
+      "EDID": "OutfitUniqueMerc01",
+      "FULL": "Traje de Encantador Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB607",
+      "FORMID": "0CB607",
+      "EDID": "OutfitUniqueMerc02",
+      "FULL": "Traje Encrenqueiro Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB608",
+      "FORMID": "0CB608",
+      "EDID": "OutfitUniqueMerc03",
+      "FULL": "Roupa de Aventureiro Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB609",
+      "FORMID": "0CB609",
+      "EDID": "OutfitUniqueMerc04",
+      "FULL": "Traje de Lenda do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60A",
+      "FORMID": "0CB60A",
+      "EDID": "OutfitUniqueMerc05",
+      "FULL": "Traje Básico de Mercenário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60B",
+      "FORMID": "0CB60B",
+      "EDID": "OutfitUniqueMerc06",
+      "FULL": "Traje de Cruzador Mercante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60C",
+      "FORMID": "0CB60C",
+      "EDID": "OutfitUniquePrewarBusinesswearDirtyDARK",
+      "FULL": "Armadura de Traje Energético"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60D",
+      "FORMID": "0CB60D",
+      "EDID": "OutfitUniquePrewarCasualwear",
+      "FULL": "Traje Casual Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60E",
+      "FORMID": "0CB60E",
+      "EDID": "OutfitUniquePrewarNegligee",
+      "FULL": "Roupa de Dormir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CB60F",
+      "FORMID": "0CB60F",
+      "EDID": "OutfitUniquePrewarSpring2",
+      "FULL": "Traje de Passeio do Parque Pré-Guerra"
+    },
+    {
+      "FORM": "@FalloutNV.esm:06C587",
+      "FORMID": "06C587",
+      "EDID": "MountedVaultSuit101Armored",
+      "FULL": "Macacão Blindado do Vault 101"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07494C",
+      "FORMID": "07494C",
+      "EDID": "KIDOutfitWastelandChild05Hat",
+      "FULL": "Capacete de Decolagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074950",
+      "FORMID": "074950",
+      "EDID": "KIDOutfitWastelandChild01Hat",
+      "FULL": "Cartola de Maltrapilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:074952",
+      "FORMID": "074952",
+      "EDID": "KIDOutfitWastelandChild03Hat",
+      "FULL": "Chapéu de Escoteiro do Ermo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:081792",
+      "FORMID": "081792",
+      "EDID": "OutfitRepconCult",
+      "FULL": "Manto da Irmandade Radiante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0B7F53",
+      "FORMID": "0B7F53",
+      "EDID": "HatNCRBoonesBeret",
+      "FULL": "Boina de Boone"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CCEBF",
+      "FORMID": "0CCEBF",
+      "EDID": "HatNCR1stReconBeret",
+      "FULL": "Boina do 1º de Reconhecimento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD270",
+      "FORMID": "0CD270",
+      "EDID": "HatNCRBeret",
+      "FULL": "Boina"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDF63",
+      "FORMID": "0CDF63",
+      "EDID": "HatPartyDestroyed",
+      "FULL": "Chapéu de Festa Destruído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE26D",
+      "FORMID": "0CE26D",
+      "EDID": "HatNVNCRRanger",
+      "FULL": "Chapéu de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE552",
+      "FORMID": "0CE552",
+      "EDID": "ArmorNVSpaceSuit",
+      "FULL": "Traje Espacial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CE553",
+      "FORMID": "0CE553",
+      "EDID": "ArmorNVNCRRangerPatrol",
+      "FULL": "Armadura de Patrulha dos Rangers da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CEE21",
+      "FORMID": "0CEE21",
+      "EDID": "HelmetNVSpaceSuit",
+      "FULL": "Capacete de Traje Espacial"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2DD0",
+      "FORMID": "0E2DD0",
+      "EDID": "CowboyHat01",
+      "FULL": "Chapéu de Cowboy Desperado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2F40",
+      "FORMID": "0E2F40",
+      "EDID": "HatVanceHat",
+      "FULL": "Chapéu da Sorte de Vance"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E32F1",
+      "FORMID": "0E32F1",
+      "EDID": "HatVikkiBonnet",
+      "FULL": "Bonnet da Vikki"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A472E",
+      "FORMID": "0A472E",
+      "EDID": "ArmorNVPGSoldier",
+      "FULL": "Traje de Soldado da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A472F",
+      "FORMID": "0A472F",
+      "EDID": "ArmorNVPGPlain",
+      "FULL": "Traje Simples da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4730",
+      "FORMID": "0A4730",
+      "EDID": "ArmorNVPGGuardArmor",
+      "FULL": "Armadura de Guarda da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A4731",
+      "FORMID": "0A4731",
+      "EDID": "ArmorNVPGSimple",
+      "FULL": "Roupa Simples da Gangue da Pólvora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ACD5A",
+      "FORMID": "0ACD5A",
+      "EDID": "OutfitElderMcNamara",
+      "FULL": "Manto do Ancião da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D7779",
+      "FORMID": "0D7779",
+      "EDID": "HVBrokenArmorPowerHelmet",
+      "FULL": "Capacete de Energia Quebrado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D777A",
+      "FORMID": "0D777A",
+      "EDID": "HVBrokenArmorRecon",
+      "FULL": "Armadura de Recon Quebrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0D777B",
+      "FORMID": "0D777B",
+      "EDID": "HVArmorPowerBroken",
+      "FULL": "Armadura Potente Quebrada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E3791",
+      "FORMID": "0E3791",
+      "EDID": "HVExplosiveCollar",
+      "FULL": "Colar Explosivo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E6749",
+      "FORMID": "0E6749",
+      "EDID": "ArmorNVGKSoldier",
+      "FULL": "Armadura de Soldado Great Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E674A",
+      "FORMID": "0E674A",
+      "EDID": "ArmorNVGKSuit",
+      "FULL": "Armadura de Combate dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E674B",
+      "FORMID": "0E674B",
+      "EDID": "ArmorNVGKArmored",
+      "FULL": "Couro Blindado dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E674C",
+      "FORMID": "0E674C",
+      "EDID": "ArmorNVGKSimple",
+      "FULL": "Armadura Simples dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E7091",
+      "FORMID": "0E7091",
+      "EDID": "HelmetNVGKSpike",
+      "FULL": "Capacete de Espinho dos Grandes Khans"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E78C6",
+      "FORMID": "0E78C6",
+      "EDID": "HatConstruction",
+      "FULL": "Capacete de Construção"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E89F3",
+      "FORMID": "0E89F3",
+      "EDID": "ArmorFiendHelmet01",
+      "FULL": "Capacete de Batalha dos Demônios"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EADDF",
+      "FORMID": "0EADDF",
+      "EDID": "HatNVPsychicNullifier",
+      "FULL": "Nullificador Psíquico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE47B",
+      "FORMID": "0EE47B",
+      "EDID": "ArmorNVCLExplorer",
+      "FULL": "Armadura de Explorador da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE47C",
+      "FORMID": "0EE47C",
+      "EDID": "ArmorNVCLRecruit",
+      "FULL": "Armadura de Recruta da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE47D",
+      "FORMID": "0EE47D",
+      "EDID": "ArmorNVCLPrime",
+      "FULL": "Armadura Prime da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE47E",
+      "FORMID": "0EE47E",
+      "EDID": "ArmorNVCLVeteran",
+      "FULL": "Armadura de Veterano da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE47F",
+      "FORMID": "0EE47F",
+      "EDID": "ArmorNVCLVexillarius",
+      "FULL": "Armadura de Vexillarius da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE480",
+      "FORMID": "0EE480",
+      "EDID": "ArmorNVCLPraetorian",
+      "FULL": "Armadura Pretoriana da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE481",
+      "FORMID": "0EE481",
+      "EDID": "ArmorNVCLCenturion",
+      "FULL": "Armadura de Centurião da Legião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE482",
+      "FORMID": "0EE482",
+      "EDID": "HelmetNVCLExplorer",
+      "FULL": "Capuz de Explorador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE483",
+      "FORMID": "0EE483",
+      "EDID": "HelmetNVCLCenturion",
+      "FULL": "Capacete de Centurião"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE484",
+      "FORMID": "0EE484",
+      "EDID": "HelmetNVCLVexillarius",
+      "FULL": "Capacete de Vexillarius"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE485",
+      "FORMID": "0EE485",
+      "EDID": "HelmetNVCLRecruit",
+      "FULL": "Capacete de Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE486",
+      "FORMID": "0EE486",
+      "EDID": "HelmetNVCLRecruitDecanus",
+      "FULL": "Capacete de Decanus Recruta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE487",
+      "FORMID": "0EE487",
+      "EDID": "HelmetNVCLPrime",
+      "FULL": "Capacete Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE488",
+      "FORMID": "0EE488",
+      "EDID": "HelmetNVCLPrimeDecanus",
+      "FULL": "Capacete de Decanus Prime"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE489",
+      "FORMID": "0EE489",
+      "EDID": "HelmetNVCLVeteran",
+      "FULL": "Capacete de Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE48A",
+      "FORMID": "0EE48A",
+      "EDID": "HelmetNVCLVeteranDecanus",
+      "FULL": "Capacete de Decanus Veterano"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE68D",
+      "FORMID": "0EE68D",
+      "EDID": "ArmorPowerBrotherhoodOfSteelT51B",
+      "FULL": "Armadura Potente T-51b da Irmandade do Aço"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE68E",
+      "FORMID": "0EE68E",
+      "EDID": "HelmetNVNCRTrooperGoggles",
+      "FULL": "Capacete com Óculos"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE68F",
+      "FORMID": "0EE68F",
+      "EDID": "HelmetNVNCRTrooper",
+      "FULL": "Capacete de Soldado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE690",
+      "FORMID": "0EE690",
+      "EDID": "ArmorNVNCRTrooperFaceWrap",
+      "FULL": "Armadura de Envolvimento Facial da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE691",
+      "FORMID": "0EE691",
+      "EDID": "ArmorNVNCRTrooperBandoleer",
+      "FULL": "Armadura de Bandoleira da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE692",
+      "FORMID": "0EE692",
+      "EDID": "ArmorNVNCRTrooper",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EE693",
+      "FORMID": "0EE693",
+      "EDID": "ArmorNVNCRTrooperMantle",
+      "FULL": "Armadura de Manto da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF1CB",
+      "FORMID": "0EF1CB",
+      "EDID": "OutfitRepublican01",
+      "FULL": "Traje de Caravana"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF1CC",
+      "FORMID": "0EF1CC",
+      "EDID": "OutfitRepublican02",
+      "FULL": "Traje de Trabalhador Braçal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF1CD",
+      "FORMID": "0EF1CD",
+      "EDID": "OutfitRepublican03",
+      "FULL": "Traje de Colono"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EF1CE",
+      "FORMID": "0EF1CE",
+      "EDID": "OutfitRepublican04",
+      "FULL": "Traje de Garimpeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0EFB23",
+      "FORMID": "0EFB23",
+      "EDID": "VaultSuit3",
+      "FULL": "Macacão do Vault 3"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0F3797",
+      "FORMID": "0F3797",
+      "EDID": "ArmorFiendHelmetRare",
+      "FULL": "Capacete do Motor-Runner"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCEBB",
+      "FORMID": "0FCEBB",
+      "EDID": "ArmorFiendHelmet02",
+      "FULL": "Capacete de Guerreiro Demônio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FCEBC",
+      "FORMID": "0FCEBC",
+      "EDID": "ArmorFiendHelmet03",
+      "FULL": "Capacete de Demônio"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD175",
+      "FORMID": "0FD175",
+      "EDID": "VaultSuit22",
+      "FULL": "Macacão do Vault 22"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD561",
+      "FORMID": "0FD561",
+      "EDID": "OutfitNVJumpsuitRaulPetroChico",
+      "FULL": "Macacão Petro-Chico do Raul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0FD771",
+      "FORMID": "0FD771",
+      "EDID": "VaultSuit3Utility",
+      "FULL": "Vault 3 Macacão Utilitário"
+    },
+    {
+      "FORM": "@FalloutNV.esm:100633",
+      "FORMID": "100633",
+      "EDID": "VMS15Rebreather",
+      "FULL": "Rebreather"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104184",
+      "FORMID": "104184",
+      "EDID": "VaultSuit21",
+      "FULL": "Macacão do Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1046F8",
+      "FORMID": "1046F8",
+      "EDID": "MS03VaultSuit21Armored",
+      "FULL": "Macacão Blindado do Vault 21"
+    },
+    {
+      "FORM": "@FalloutNV.esm:104C23",
+      "FORMID": "104C23",
+      "EDID": "OutfitBennySuit",
+      "FULL": "Terno do Benny"
+    },
+    {
+      "FORM": "@FalloutNV.esm:107AF2",
+      "FORMID": "107AF2",
+      "EDID": "VMS15BoomerOutfitWearable",
+      "FULL": "Roupa de Boomer da Janet"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1083E0",
+      "FORMID": "1083E0",
+      "EDID": "CowboyHat02",
+      "FULL": "Chapéu de Cowboy Cattleman"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1083E1",
+      "FORMID": "1083E1",
+      "EDID": "CowboyHat03",
+      "FULL": "Chapéu de Cowboy de Couro Cru"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A92",
+      "FORMID": "109A92",
+      "EDID": "OutfitBoomer1",
+      "FULL": "Macacão dos Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:109A93",
+      "FORMID": "109A93",
+      "EDID": "OutfitBoomer2",
+      "FULL": "Macacão de Voo Boomer"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A0D0",
+      "FORMID": "10A0D0",
+      "EDID": "ArmorBoomerWeldingHelmet",
+      "FULL": "Capacete de Soldagem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A427",
+      "FORMID": "10A427",
+      "EDID": "CowboyHat04",
+      "FULL": "Chapéu de Cowboy de Rattan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10A428",
+      "FORMID": "10A428",
+      "EDID": "CowboyHat05",
+      "FULL": "Chapéu de Cowboy Velho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3E7",
+      "FORMID": "10B3E7",
+      "EDID": "OutfitBoomersCap",
+      "FULL": "Boné dos Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3E8",
+      "FORMID": "10B3E8",
+      "EDID": "OutfitBoomersHat",
+      "FULL": "Chapéu dos Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10B3E9",
+      "FORMID": "10B3E9",
+      "EDID": "OutfitBoomersHelmet",
+      "FULL": "Capacete dos Boomers"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10BEE9",
+      "FORMID": "10BEE9",
+      "EDID": "HelmetNVNCRTrooperMP",
+      "FULL": "Capacete de Soldado da PM"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C67C",
+      "FORMID": "10C67C",
+      "EDID": "OutfitJailhouseRocker",
+      "FULL": "Arrombador de Cadeias"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C876",
+      "FORMID": "10C876",
+      "EDID": "OutfitFollowersDoctor",
+      "FULL": "Capa de Médico dos Seguidores"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10CDA4",
+      "FORMID": "10CDA4",
+      "EDID": "OutfitGannonArcadesDoctor",
+      "FULL": "Jaleco de Laboratório do Arcade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D2CD",
+      "FORMID": "10D2CD",
+      "EDID": "OutfitTrooperFatigues",
+      "FULL": "Fatigues de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D8DB",
+      "FORMID": "10D8DB",
+      "EDID": "BountyHunterDuster",
+      "FULL": "Casaco de Caçador de Recompensas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10D8DC",
+      "FORMID": "10D8DC",
+      "EDID": "ArmorCombatBlack",
+      "FULL": "Armadura de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DD",
+      "FORMID": "10E1DD",
+      "EDID": "OutfitGambler01",
+      "FULL": "Traje de Apostador Elegante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DE",
+      "FORMID": "10E1DE",
+      "EDID": "OutfitGambler02",
+      "FULL": "Traje de Apostador Abastado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1DF",
+      "FORMID": "10E1DF",
+      "EDID": "OutfitGambler03",
+      "FULL": "Traje de Apostador Elegante"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10E1E0",
+      "FORMID": "10E1E0",
+      "EDID": "OutfitGambler04",
+      "FULL": "Traje de Jogador Maltrapilho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10EA7F",
+      "FORMID": "10EA7F",
+      "EDID": "GamblerMHat01",
+      "FULL": "Chapéu de Jogador Esnobe"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10EA80",
+      "FORMID": "10EA80",
+      "EDID": "GamblerFHat01",
+      "FULL": "Chapéu de Apostador Estiloso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10EA81",
+      "FORMID": "10EA81",
+      "EDID": "GamblerFHat02",
+      "FULL": "Chapéu de Jogador Chique"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110A71",
+      "FORMID": "110A71",
+      "EDID": "OutfitProstitute01",
+      "FULL": "Traje de Prostituta Acorrentada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110A72",
+      "FORMID": "110A72",
+      "EDID": "OutfitProstitute02",
+      "FULL": "Roupa de Prostituta Exposta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110A73",
+      "FORMID": "110A73",
+      "EDID": "OutfitProstitute03",
+      "FULL": "Roupa de Prostituta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:110A74",
+      "FORMID": "110A74",
+      "EDID": "OutfitKings",
+      "FULL": "Traje dos Kings"
+    },
+    {
+      "FORM": "@FalloutNV.esm:112DAF",
+      "FORMID": "112DAF",
+      "EDID": "OutfitMemphisKid",
+      "FULL": "Traje do Garoto Memphis"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11689A",
+      "FORMID": "11689A",
+      "EDID": "OutfitTrenchcoat",
+      "FULL": "Sobretudo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11689B",
+      "FORMID": "11689B",
+      "EDID": "OutfitFedoraHat",
+      "FULL": "Fedora"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1168A4",
+      "FORMID": "1168A4",
+      "EDID": "VMS18WhiteGloveMask",
+      "FULL": "Máscara da Sociedade da Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:116E26",
+      "FORMID": "116E26",
+      "EDID": "VFSCalebMcCafferyHat",
+      "FULL": "Chapéu de Caleb McCaffery"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1176E3",
+      "FORMID": "1176E3",
+      "EDID": "OutfitVivaVegas",
+      "FULL": "Viva Las Vegas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11A970",
+      "FORMID": "11A970",
+      "EDID": "ArmorMask",
+      "FULL": "Máscara Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BACB",
+      "FORMID": "11BACB",
+      "EDID": "PimpBoy",
+      "FULL": "Pimp-Boy 3 Bilhões"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BCF8",
+      "FORMID": "11BCF8",
+      "EDID": "PimpBoyNPC",
+      "FULL": "PimpBoy 3 Bilhões"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11BEE2",
+      "FORMID": "11BEE2",
+      "EDID": "OutfitAmbassadorCrocker",
+      "FULL": "Traje do Embaixador Crocker"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F87B",
+      "FORMID": "11F87B",
+      "EDID": "OutfitNCRRangerCivilian01",
+      "FULL": "Traje de Ranger com Cachecol Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F87C",
+      "FORMID": "11F87C",
+      "EDID": "OutfitNCRRangerCivilian02",
+      "FULL": "Traje de Colete de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F87D",
+      "FORMID": "11F87D",
+      "EDID": "OutfitNCRRangerCivilian03",
+      "FULL": "Traje Casual de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F87E",
+      "FORMID": "11F87E",
+      "EDID": "OutfitNCRRangerHat01",
+      "FULL": "Chapéu de Ranger Brown"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F87F",
+      "FORMID": "11F87F",
+      "EDID": "OutfitNCRRangerHat02",
+      "FULL": "Ranger Chapéu Cinzento"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F880",
+      "FORMID": "11F880",
+      "EDID": "OutfitNCRRangerHat03",
+      "FULL": "Chapéu de Ranger Tan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11F881",
+      "FORMID": "11F881",
+      "EDID": "GlassesNCRRangerCivilian",
+      "FULL": "Óculos de Autoridade"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120853",
+      "FORMID": "120853",
+      "EDID": "OutfitProstitute03Wearable",
+      "FULL": "Roupa de Prostituta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120854",
+      "FORMID": "120854",
+      "EDID": "OutfitProstitute01Wearable",
+      "FULL": "Traje de Prostituta Acorrentada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:120855",
+      "FORMID": "120855",
+      "EDID": "OutfitProstitute02Wearable",
+      "FULL": "Roupa de Prostituta Exposta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12116A",
+      "FORMID": "12116A",
+      "EDID": "ArmorNVNCRTrooperMP",
+      "FULL": "Armadura da Polícia Militar da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1251C9",
+      "FORMID": "1251C9",
+      "EDID": "VFSArmorCombatBlackVanGraff",
+      "FULL": "Armadura de Combate Van Graff"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1258C2",
+      "FORMID": "1258C2",
+      "EDID": "OutfitFormalWear",
+      "FULL": "Traje Formal"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1258C3",
+      "FORMID": "1258C3",
+      "EDID": "FormalWearHat",
+      "FULL": "Chapéu de Smoking"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1264FE",
+      "FORMID": "1264FE",
+      "EDID": "ArmorLeatherReinforced",
+      "FULL": "Armadura de Couro Reforçada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1264FF",
+      "FORMID": "1264FF",
+      "EDID": "ArmorMetalReinforced",
+      "FULL": "Armadura de Metal, Reforçada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:126500",
+      "FORMID": "126500",
+      "EDID": "ArmorCombatReinforced",
+      "FULL": "Armadura de Combate, Reforçada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:127C6A",
+      "FORMID": "127C6A",
+      "EDID": "NVSlaveBackpack",
+      "FULL": "Mochila de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:129254",
+      "FORMID": "129254",
+      "EDID": "ArmorNVNCRRangerCombat",
+      "FULL": "Armadura de Combate dos Rangers da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B86D",
+      "FORMID": "12B86D",
+      "EDID": "GamblerMHat02",
+      "FULL": "Chapéu de Jogador Tranquilo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B86E",
+      "FORMID": "12B86E",
+      "EDID": "GamblerMHat03",
+      "FULL": "Chapéu de Jogador Abastado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B965",
+      "FORMID": "12B965",
+      "EDID": "VaultSuit34",
+      "FULL": "Macacão do Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:12B966",
+      "FORMID": "12B966",
+      "EDID": "VaultSuit11",
+      "FULL": "Roupa de Salto do Vault 11"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13002C",
+      "FORMID": "13002C",
+      "EDID": "OutfitKimballSuit",
+      "FULL": "Terno do Presidente Kimball"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300AF",
+      "FORMID": "1300AF",
+      "EDID": "VaultSuit19",
+      "FULL": "Macacão do Vault 19"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1300B0",
+      "FORMID": "1300B0",
+      "EDID": "VaultSuit24",
+      "FULL": "Macacão do Vault 24"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133166",
+      "FORMID": "133166",
+      "EDID": "ArmorPowerRemnants",
+      "FULL": "Armadura Potente dos Remanescentes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133167",
+      "FORMID": "133167",
+      "EDID": "ArmorPowerRemnantsHelmet",
+      "FULL": "Capacete de Combate Remanescente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133168",
+      "FORMID": "133168",
+      "EDID": "ArmorGannonTesla",
+      "FULL": "Armadura Tesla da Família Gannon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133169",
+      "FORMID": "133169",
+      "EDID": "ArmorGannonTeslaHelmet",
+      "FULL": "Capacete Tesla da Família Gannon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13316A",
+      "FORMID": "13316A",
+      "EDID": "ArmorPowerNCRSalvaged",
+      "FULL": "Armadura Potente Remendada da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13316B",
+      "FORMID": "13316B",
+      "EDID": "ArmorPowerNCRHelmet",
+      "FULL": "Capacete de Energia Recuperado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:133F31",
+      "FORMID": "133F31",
+      "EDID": "ArmorRemnantsTesla",
+      "FULL": "Armadura Tesla dos Remanescentes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134094",
+      "FORMID": "134094",
+      "EDID": "ArmorRemnantsTeslaHelm",
+      "FULL": "Capacete Tesla dos Remanescentes"
+    },
+    {
+      "FORM": "@FalloutNV.esm:134490",
+      "FORMID": "134490",
+      "EDID": "NVGenOliverCap",
+      "FULL": "Quepe do General Oliver"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1350EF",
+      "FORMID": "1350EF",
+      "EDID": "OutfitCass",
+      "FULL": "Roupa da Cass"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370D6",
+      "FORMID": "1370D6",
+      "EDID": "OutfitNVSlave1",
+      "FULL": "Trapos de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370D7",
+      "FORMID": "1370D7",
+      "EDID": "OutfitNVSlave2",
+      "FULL": "Trapos de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370FD",
+      "FORMID": "1370FD",
+      "EDID": "NVSlaveHat01",
+      "FULL": "Echarpe de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1370FE",
+      "FORMID": "1370FE",
+      "EDID": "NVSlaveHat02",
+      "FULL": "Echarpe de Escravo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138DC2",
+      "FORMID": "138DC2",
+      "EDID": "ArmorVault34Security",
+      "FULL": "Armadura de Segurança do Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:138DC3",
+      "FORMID": "138DC3",
+      "EDID": "ArmorVault34SecurityHelmet",
+      "FULL": "Capacete de Segurança do Vault 34"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13B1A8",
+      "FORMID": "13B1A8",
+      "EDID": "NVLegionExplorerAuraToken",
+      "FULL": "Chutador de Fichas de Aura"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13BF53",
+      "FORMID": "13BF53",
+      "EDID": "ArmorNVCaesar",
+      "FULL": "Armadura de Caesar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13E25A",
+      "FORMID": "13E25A",
+      "EDID": "HelmetNVLegate",
+      "FULL": "Capacete de Legado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC03",
+      "FORMID": "13EC03",
+      "EDID": "ArmorNVNCRDeadTrooper01",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC04",
+      "FORMID": "13EC04",
+      "EDID": "ArmorNVNCRDeadTrooper02",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC05",
+      "FORMID": "13EC05",
+      "EDID": "ArmorNVNCRDeadTrooper03",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC06",
+      "FORMID": "13EC06",
+      "EDID": "ArmorNVNCRDeadTrooper04",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13EC07",
+      "FORMID": "13EC07",
+      "EDID": "ArmorNVNCRDeadTrooper05",
+      "FULL": "Armadura de Soldado da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A2",
+      "FORMID": "13F3A2",
+      "EDID": "DamWarPowerArmor",
+      "FULL": "Armadura Potente DamWar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A3",
+      "FORMID": "13F3A3",
+      "EDID": "DamWarEnclaveOfficer",
+      "FULL": "DamWar Oficial do Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A4",
+      "FORMID": "13F3A4",
+      "EDID": "DamWarLegion",
+      "FULL": "Legião da Guerra da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A5",
+      "FORMID": "13F3A5",
+      "EDID": "DamWarCenturion",
+      "FULL": "Centurião da Guerra da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A6",
+      "FORMID": "13F3A6",
+      "EDID": "DamWarEnclaveScientist",
+      "FULL": "DamWar Cientista da Enclave"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A7",
+      "FORMID": "13F3A7",
+      "EDID": "DamWarRanger",
+      "FULL": "Ranger da Guerra da Represa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A8",
+      "FORMID": "13F3A8",
+      "EDID": "DamWarCombatRanger",
+      "FULL": "Ranger de Combate da Guerra da Represa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3A9",
+      "FORMID": "13F3A9",
+      "EDID": "DamWarGreatKhan",
+      "FULL": "DamWar Grande Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3AA",
+      "FORMID": "13F3AA",
+      "EDID": "DamWarTrooper",
+      "FULL": "Soldado da Guerra da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3AC",
+      "FORMID": "13F3AC",
+      "EDID": "DamWarCombatRangerHelm",
+      "FULL": "DamWar Capacete de Ranger de Combate"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3AD",
+      "FORMID": "13F3AD",
+      "EDID": "DamWarLegionHelm",
+      "FULL": "Capacete da Legião da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F3AE",
+      "FORMID": "13F3AE",
+      "EDID": "DamWarFaceMask",
+      "FULL": "Máscara Facial de Guerra da Barragem"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F80E",
+      "FORMID": "13F80E",
+      "EDID": "OutfitJumpsuitHooverDamCivilian",
+      "FULL": "Macacão de Engenheiro Civil"
+    },
+    {
+      "FORM": "@FalloutNV.esm:13F80F",
+      "FORMID": "13F80F",
+      "EDID": "OutfitJumpsuitHooverDamNCR",
+      "FULL": "Macacão de Engenheiro da NCR"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C38",
+      "FORMID": "140C38",
+      "EDID": "ArmorNVBoone01",
+      "FULL": "Armadura de Sobrevivência do 1º Recon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140C39",
+      "FORMID": "140C39",
+      "EDID": "ArmorNVBoone02",
+      "FULL": "Armadura de Assalto da 1ª Recon"
+    },
+    {
+      "FORM": "@FalloutNV.esm:140D46",
+      "FORMID": "140D46",
+      "EDID": "ArmorMetalHelmetReinforced",
+      "FULL": "Capacete de Metal, Reforçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1428EC",
+      "FORMID": "1428EC",
+      "EDID": "JasonBrightoutfit",
+      "FULL": "Roupa de Jason Bright"
+    },
+    {
+      "FORM": "@FalloutNV.esm:145EC5",
+      "FORMID": "145EC5",
+      "EDID": "HelmetNVNCRRangerCombat",
+      "FULL": "Capacete de Ranger"
+    },
+    {
+      "FORM": "@FalloutNV.esm:146F23",
+      "FORMID": "146F23",
+      "EDID": "Firehelmet",
+      "FULL": "Capacete de Bombeiro"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14722A",
+      "FORMID": "14722A",
+      "EDID": "ArmorCombatHelmetReinforced",
+      "FULL": "Capacete de Combate, Reforçado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14823E",
+      "FORMID": "14823E",
+      "EDID": "OutfitVeronicaRobes",
+      "FULL": "Vestes Blindadas de Veronica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B053",
+      "FORMID": "14B053",
+      "EDID": "OutfitRaul",
+      "FULL": "Armadura do Raul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14B054",
+      "FORMID": "14B054",
+      "EDID": "HatRaul",
+      "FULL": "Chapéu do Raul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:14E834",
+      "FORMID": "14E834",
+      "EDID": "VMS49ExplosiveCollar",
+      "FULL": "Colar Destruído"
+    },
+    {
+      "FORM": "@FalloutNV.esm:153A0E",
+      "FORMID": "153A0E",
+      "EDID": "OutfitJumpsuitRepconn",
+      "FULL": "Macacão da Repconn"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157CD2",
+      "FORMID": "157CD2",
+      "EDID": "ArmorLeatherGladiator",
+      "FULL": "Armadura de Gladiador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:158615",
+      "FORMID": "158615",
+      "EDID": "OutfitFollowersDoctorUnique",
+      "FULL": "Capa de Laboratório dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A935",
+      "FORMID": "15A935",
+      "EDID": "ArmorNVpapakhanHelmet",
+      "FULL": "Capacete do Papa Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15A937",
+      "FORMID": "15A937",
+      "EDID": "NVPapaKhanArmor",
+      "FULL": "Armadura de Papa Khan"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15E35D",
+      "FORMID": "15E35D",
+      "EDID": "OutfitGeneralOliver",
+      "FULL": "Uniforme do General Oliver"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EA6D",
+      "FORMID": "15EA6D",
+      "EDID": "OutfitRaulJumpsuitArmor",
+      "FULL": "Armadura de Macacão do Raul"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF66",
+      "FORMID": "15EF66",
+      "EDID": "ArmorCombatReinforcedMark2",
+      "FULL": "Armadura de Combate, Reforçada Marca 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF67",
+      "FORMID": "15EF67",
+      "EDID": "ArmorCombatHelmetReinforcedmark2",
+      "FULL": "Capacete de Combate Reforçado, Marca 2"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EF8B",
+      "FORMID": "15EF8B",
+      "EDID": "CassHat",
+      "FULL": "Chapéu da Cass"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD5C",
+      "FORMID": "15FD5C",
+      "EDID": "ChineseStealthArmor",
+      "FULL": "Armadura Stealth Chinesa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15FD5D",
+      "FORMID": "15FD5D",
+      "EDID": "ChineseStealthHelmet",
+      "FULL": "Capacete Stealth Chinês"
+    },
+    {
+      "FORM": "@FalloutNV.esm:163119",
+      "FORMID": "163119",
+      "EDID": "ArmorWhiteGloveSociety",
+      "FULL": "Traje da Sociedade da Luva Branca"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1649DD",
+      "FORMID": "1649DD",
+      "EDID": "ArmorLegate",
+      "FULL": "Armadura do Legado Lanius"
+    },
+    {
+      "FORM": "@FalloutNV.esm:16A26F",
+      "FORMID": "16A26F",
+      "EDID": "OutfitVeronicaHood",
+      "FULL": "Capuz da Veronica"
+    },
+    {
+      "FORM": "@FalloutNV.esm:17409D",
+      "FORMID": "17409D",
+      "EDID": "OutfitJessupBandana",
+      "FULL": "Bandana de Jessup"
+    }
+  ]
+}

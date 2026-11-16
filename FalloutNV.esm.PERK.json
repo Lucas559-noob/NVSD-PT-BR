@@ -1,0 +1,1219 @@
+{
+  "PERK": [
+    {
+      "FORM": "@FalloutNV.esm:003131",
+      "FORMID": "003131",
+      "EDID": "MS09Hematophage",
+      "FULL": "Hematófago",
+      "DESC": "Esta vantagem permite que você recupere saúde ao consumir Pacotes de Sangue."
+    },
+    {
+      "FORM": "@FalloutNV.esm:003142",
+      "FORMID": "003142",
+      "EDID": "ChildAtHeart",
+      "FULL": "Criança Interior",
+      "DESC": "A vantagem \"Criança de Coração\" melhora muito suas interações com crianças, geralmente na forma de opções de diálogo únicas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:024D5C",
+      "FORMID": "024D5C",
+      "EDID": "MS08RewardPerk",
+      "FULL": "Reflexos Aprimorados",
+      "DESC": "Tecnologia avançada da Commonwealth aumentou sua velocidade de reação, dando a você uma chance maior de acertar no V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A0",
+      "FORMID": "02D3A0",
+      "EDID": "MS03Perk3A",
+      "FULL": "Guru de Sobrevivência",
+      "DESC": "Você escreveu o livro sobre como sobreviver no Ermo e compartilhou seus segredos com a humanidade. Você ganhou +6% de bônus à Resistência a Veneno e Resistência à Radiação, e +15 pontos à Saúde máxima."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A1",
+      "FORMID": "02D3A1",
+      "EDID": "MS03Perk2A",
+      "FULL": "Especialista em Sobrevivência",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e não apenas sobreviveu, você aprendeu algumas coisas. Você ganhou +4% de bônus para Resistência a Veneno e Resistência à Radiação, e +10 pontos para a Saúde máxima."
+    },
+    {
+      "FORM": "@FalloutNV.esm:02D3A2",
+      "FORMID": "02D3A2",
+      "EDID": "MS03Perk1A",
+      "FULL": "Sobrevivente Júnior",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos e ainda está vivo para contar a história. Você ganhou +2% de bônus para Resistência a Veneno e Resistência à Radiação, e +5 pontos para a Saúde máxima."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03066B",
+      "FORMID": "03066B",
+      "EDID": "MS03MutationPerk",
+      "FULL": "Regeneração por Radiação",
+      "DESC": "Após um tratamento experimental, a radiação intensa mantém seu corpo operando com desempenho máximo, independentemente de ferimentos incapacitantes... até a morte. Quando você sofre de Envenenamento Avançado por Radiação, membros aleijados se regeneram automaticamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:030FEB",
+      "FORMID": "030FEB",
+      "EDID": "MS03DreamCrusherPerk",
+      "FULL": "Destruidor de Sonhos",
+      "DESC": "Algo sobre sua presença diminui o desejo dos outros de se superarem. A chance de um inimigo acertar golpes críticos em você é reduzida em 50%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DA9",
+      "FORMID": "031DA9",
+      "EDID": "RadResistance",
+      "FULL": "Resistência à Radiação",
+      "DESC": "Resistência à Radiação permite que você o quê mais? resista à radiação. Essa habilidade concede 25% adicionais à Resistência à Radiação."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAA",
+      "FORMID": "031DAA",
+      "EDID": "Scrounger",
+      "FULL": "Catador",
+      "DESC": "Com a vantagem \"Catador\", você encontrará consideravelmente mais munição em contêineres do que normalmente encontraria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAB",
+      "FORMID": "031DAB",
+      "EDID": "DemolitionExpert",
+      "FULL": "Especialista em Demolição",
+      "DESC": "Com cada nível desta vantagem, todas as suas armas explosivas causam 20% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAC",
+      "FORMID": "031DAC",
+      "EDID": "HereandNow",
+      "FULL": "Aqui e Agora",
+      "DESC": "A vantagem \"Aqui e Agora\" concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAD",
+      "FORMID": "031DAD",
+      "EDID": "MisterSandman",
+      "FULL": "Sr. Sandman",
+      "DESC": "Com a vantagem \"Sr. Sandman\", quando estiver em modo Furtivo, você ganha a opção de matar silenciosamente qualquer humano ou Necrótico enquanto eles estão dormindo. E, todas as mortes de Sr. Sandman ganham XP bônus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB1",
+      "FORMID": "031DB1",
+      "EDID": "LifeGiver",
+      "FULL": "Doador de Vida",
+      "DESC": "Com a vantagem \"Doador de Vida\", você ganha 30 PV adicionais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB2",
+      "FORMID": "031DB2",
+      "EDID": "Pyromaniac",
+      "FULL": "Piromaníaco",
+      "DESC": "Com a vantagem \"Piromaníaco\", você causa +50% de dano com armas de fogo, como o Lança-chamas e o Shishkebab."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB3",
+      "FORMID": "031DB3",
+      "EDID": "SilentRunning",
+      "FULL": "Corrida Silenciosa",
+      "DESC": "Com a vantagem \"Corrida Silenciosa\", correr não afeta mais o sucesso de uma tentativa de furtividade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB4",
+      "FORMID": "031DB4",
+      "EDID": "Sniper",
+      "FULL": "Franco-atirador",
+      "DESC": "Com a vantagem \"Atirador\", sua chance de acertar a cabeça de um oponente no V.A.T.S. aumenta significativamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB5",
+      "FORMID": "031DB5",
+      "EDID": "AnimalFriend",
+      "FULL": "Amigo dos Animais",
+      "DESC": "No primeiro nível desta habilidade, animais simplesmente não atacam. No segundo nível, eles realmente virão em seu auxílio em combate, mas nunca contra outro animal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DB7",
+      "FORMID": "031DB7",
+      "EDID": "LightStep",
+      "FULL": "Passo Leve",
+      "DESC": "Com a vantagem \"Passos Leves\", você nunca ativará minas ou armadilhas de chão inimigas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DBA",
+      "FORMID": "031DBA",
+      "EDID": "ActionBoy",
+      "FULL": "Garoto de Ação",
+      "DESC": "Com a vantagem \"Garoto de Ação\", você ganha 15 Pontos de Ação adicionais para usar no V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DBB",
+      "FORMID": "031DBB",
+      "EDID": "BetterCriticals",
+      "FULL": "Críticos Aprimorados",
+      "DESC": "Com a vantagem \"Críticos Aprimorados\", você ganha um bônus de dano de 50% toda vez que um acerto crítico é realizado em um oponente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DBC",
+      "FORMID": "031DBC",
+      "EDID": "MysteriousStranger",
+      "FULL": "Estranho Misterioso",
+      "DESC": "Você ganhou seu próprio anjo da guarda... armado com um .44 Magnum totalmente carregado. Com essa vantagem, o Misterioso Estranho aparecerá ocasionalmente no modo V.A.T.S. para dar uma mão, com eficiência mortal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DBD",
+      "FORMID": "031DBD",
+      "EDID": "Tag",
+      "FULL": "Etiqueta",
+      "DESC": "A vantagem Etiqueta! permite que você selecione uma quarta Perícia para ser uma Perícia de Etiqueta, que a aumenta instantaneamente em 15 pontos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DC2",
+      "FORMID": "031DC2",
+      "EDID": "RoboticsExpert",
+      "FULL": "Especialista em Robótica",
+      "DESC": "Com a vantagem \"Especialista em Robótica\", você causa 25% de dano adicional a qualquer robô. Mas, melhor ainda, aproximar-se sorrateiramente de um robô hostil sem ser detectado e ativá-lo fará com que ele entre em estado de desligamento permanente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DC4",
+      "FORMID": "031DC4",
+      "EDID": "ComputerWhiz",
+      "FULL": "Gênio da Computação",
+      "DESC": "Falhou em uma tentativa de hackear e foi bloqueado de um computador? Não se você for um Gênio da Computação! Com essa vantagem, você pode tentar re-hackear qualquer computador do qual foi bloqueado anteriormente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DC5",
+      "FORMID": "031DC5",
+      "EDID": "SolarPowered",
+      "FULL": "Energia Solar",
+      "DESC": "Com a vantagem \"Energia Solar\", você ganha 2 pontos adicionais de Força quando estiver sob luz solar direta e regenera lentamente a Saúde perdida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DCC",
+      "FORMID": "031DCC",
+      "EDID": "Ninja",
+      "FULL": "Ninja",
+      "DESC": "A vantagem Ninja concede a você o poder dos lendários guerreiros das sombras. Ao atacar com Combate Corpo a Corpo ou Desarmado, você ganha +15% de chance de crítico a cada golpe. Acertos críticos de ataques furtivos causam 25% mais dano que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DD3",
+      "FORMID": "031DD3",
+      "EDID": "SwiftLearner",
+      "FULL": "Aprendiz Rápido",
+      "DESC": "Com cada nível na vantagem Aprendiz Rápido, você ganha 10% adicionais ao total de Pontos de Experiência sempre que ganhar Pontos de Experiência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DD8",
+      "FORMID": "031DD8",
+      "EDID": "Educated",
+      "FULL": "Instruído",
+      "DESC": "Com a vantagem \"Educado\", você ganha dois pontos de habilidade extras toda vez que avança de nível. Essa vantagem é melhor aproveitada no início, para maximizar sua eficácia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DD9",
+      "FORMID": "031DD9",
+      "EDID": "Entomologist",
+      "FULL": "Entomologista",
+      "DESC": "Com a vantagem \"Entomologista\", você causa +50% de dano adicional toda vez que atacar um inseto mutante, como a Barataradia, o Louva-a-deus-gigante ou o Escorpião Radioativo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DDE",
+      "FORMID": "031DDE",
+      "EDID": "StrongBack",
+      "FULL": "Costas Fortes",
+      "DESC": "Com a vantagem \"Costas Fortes\", você pode carregar 25 quilos a mais de equipamento."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE0",
+      "FORMID": "031DE0",
+      "EDID": "Toughness",
+      "FULL": "Robustez",
+      "DESC": "Com a vantagem \"Robustez\", você ganha +3 no Limiar de Dano geral. Essa vantagem pode ser escolhida duas vezes, com a segunda patente concedendo +3 adicionais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE1",
+      "FORMID": "031DE1",
+      "EDID": "Comprehension",
+      "FULL": "Compreensão",
+      "DESC": "Com a vantagem \"Compreensão\", você ganha o dobro do bônus ao ler revistas e um ponto adicional de livros de perícia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE3",
+      "FORMID": "031DE3",
+      "EDID": "FortuneFinder",
+      "FULL": "Caçador de Fortunas",
+      "DESC": "Com a vantagem \"Caçador de Fortunas\", você encontrará muito mais tampinhas em recipientes do que normalmente encontraria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DE5",
+      "FORMID": "031DE5",
+      "EDID": "Explorer",
+      "FULL": "Explorador",
+      "DESC": "Quando você escolhe a perk Explorador, todos os locais no mundo são revelados no seu mapa. Então, saia por aí e explore!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D4",
+      "FORMID": "0331D4",
+      "EDID": "MS03Perk1B",
+      "FULL": "Sobrevivente Júnior",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos e ainda está vivo para contar a história. Você ganhou +2% de bônus para Resistência a Veneno e Resistência à Radiação, e 2 pontos nas habilidades Medicina e Ciência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D5",
+      "FORMID": "0331D5",
+      "EDID": "MS03Perk1C",
+      "FULL": "Sobrevivente Júnior",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e ainda está vivo para contar a história. Você ganhou +2% de bônus para Resistência a Veneno, Resistência à Radiação e Resistência a Dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D6",
+      "FORMID": "0331D6",
+      "EDID": "MS03Perk1D",
+      "FULL": "Sobrevivente Júnior",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos e ainda está vivo para contar a história. Você ganhou +2% de bônus para Resistência a Veneno e Resistência à Radiação, e 2 pontos para as habilidades de Oratória e Furtividade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D7",
+      "FORMID": "0331D7",
+      "EDID": "MS03Perk1E",
+      "FULL": "Sobrevivente Júnior",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e ainda está vivo para contar a história. Você ganhou +2% de bônus para Resistência a Veneno e Resistência à Radiação, e um bônus de +1% para Chance de Acerto Crítico."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D8",
+      "FORMID": "0331D8",
+      "EDID": "MS03Perk2B",
+      "FULL": "Especialista em Sobrevivência",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e não só sobreviveu, como também aprendeu algumas coisas. Você ganhou +4% de bônus na Resistência a Veneno e Resistência à Radiação, e 4 pontos nas habilidades Medicina e Ciência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331D9",
+      "FORMID": "0331D9",
+      "EDID": "MS03Perk2C",
+      "FULL": "Especialista em Sobrevivência",
+      "DESC": "Você foi testado em algumas das partes mais perigosas do ermo, e não só sobreviveu, como também aprendeu algumas coisas. Você ganhou +4% de bônus para Resistência a Veneno, Resistência à Radiação e Resistência a Dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DA",
+      "FORMID": "0331DA",
+      "EDID": "MS03Perk2D",
+      "FULL": "Especialista em Sobrevivência",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e não apenas sobreviveu, como também aprendeu algumas coisas. Você ganhou +4% de bônus em Resistência a Veneno e Resistência à Radiação, e 4 pontos nas habilidades de Oratória e Furtividade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DB",
+      "FORMID": "0331DB",
+      "EDID": "MS03Perk2E",
+      "FULL": "Especialista em Sobrevivência",
+      "DESC": "Você foi testado em algumas das partes mais perigosas dos ermos, e não apenas sobreviveu, como também aprendeu algumas coisas. Você ganhou +4% de bônus para Resistência a Veneno e Resistência à Radiação, e um bônus de +2% para Chance Crítica."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DC",
+      "FORMID": "0331DC",
+      "EDID": "MS03Perk3B",
+      "FULL": "Guru de Sobrevivência",
+      "DESC": "Você escreveu o livro sobre como sobreviver no Ermo e compartilhou seus segredos com a humanidade. Você ganhou +6% de bônus à Resistência a Veneno e Resistência à Radiação, e 6 pontos nas habilidades Medicina e Ciência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DD",
+      "FORMID": "0331DD",
+      "EDID": "MS03Perk3C",
+      "FULL": "Guru de Sobrevivência",
+      "DESC": "Você escreveu o livro sobre como sobreviver na Wasteland e compartilhou seus segredos com a humanidade. Você ganhou +6% de bônus em Resistência a Veneno, Resistência à Radiação e Resistência a Dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DE",
+      "FORMID": "0331DE",
+      "EDID": "MS03Perk3D",
+      "FULL": "Guru de Sobrevivência",
+      "DESC": "Você escreveu o livro sobre como sobreviver no Ermo e compartilhou seus segredos com a humanidade. Você ganhou +6% de bônus na Resistência a Veneno e Resistência à Radiação, e 6 pontos nas habilidades Oratória e Furtividade."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0331DF",
+      "FORMID": "0331DF",
+      "EDID": "MS03Perk3E",
+      "FULL": "Guru de Sobrevivência",
+      "DESC": "Você escreveu o livro sobre como sobreviver na Wasteland e compartilhou seus segredos com a humanidade. Você ganhou +6% de bônus na Resistência a Veneno e Resistência à Radiação, e +3% de bônus na Chance de Acerto Crítico."
+    },
+    {
+      "FORM": "@FalloutNV.esm:035E04",
+      "FORMID": "035E04",
+      "EDID": "MS10Barkskin",
+      "FULL": "Pelescama",
+      "DESC": "Você foi exposto à mutação de Harold e sua pele agora está tão dura quanto casca de árvore. Como resultado, você ganhou +5% de Resistência a Dano permanente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA7",
+      "FORMID": "044CA7",
+      "EDID": "NerdRage",
+      "FULL": "Fúria Nerd!",
+      "DESC": "Já te sacanearam o bastante! Com a vantagem \"Fúria Nerd\"!, sua Força aumenta para 10 e você ganha +15 de Limite de Dano sempre que sua Saúde cair para 20% ou menos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CA9",
+      "FORMID": "044CA9",
+      "EDID": "LeadBelly",
+      "FULL": "Barriga de Chumbo",
+      "DESC": "Com a vantagem \"Barriga de Chumbo\", você recebe 50% menos radiação ao consumir comida e bebida irradiadas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CAA",
+      "FORMID": "044CAA",
+      "EDID": "ParalyzingPalm",
+      "FULL": "Palma Paralisante",
+      "DESC": "Com Palma Paralisante, você às vezes executará um golpe especial de palma no V.A.T.S. que paralisa seu oponente por 30 segundos. Note que, para executar a Palma Paralisante, você deve estar completamente sem armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CAF",
+      "FORMID": "044CAF",
+      "EDID": "ConcentratedFire",
+      "FULL": "Fogo Concentrado",
+      "DESC": "Com Fogo Concentrado, sua precisão de acertar qualquer parte do corpo no V.A.T.S. aumenta ligeiramente a cada acerto subsequente naquela parte do corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CB0",
+      "FORMID": "044CB0",
+      "EDID": "Infiltrator",
+      "FULL": "Infiltrador",
+      "DESC": "Com Infiltrador, se uma fechadura for arrombada e normalmente não puder ser destrancada novamente, você pode tentar destrancá-la mais uma vez. Isso inclui fechaduras arrombadas anteriormente por uma tentativa de \"Forçar Fechadura\"."
+    },
+    {
+      "FORM": "@FalloutNV.esm:044CB1",
+      "FORMID": "044CB1",
+      "EDID": "IntenseTraining",
+      "FULL": "Treinamento Intenso",
+      "DESC": "Com a vantagem \"Treinamento Intenso\", você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L."
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B202",
+      "FORMID": "07B202",
+      "EDID": "ActionGirl",
+      "FULL": "Garota Durona",
+      "DESC": "Com a vantagem \"Garota Durona\", você ganha 15 Pontos de Ação adicionais para usar no V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EB8",
+      "FORMID": "094EB8",
+      "EDID": "BlackWidow",
+      "FULL": "Viúva Negra",
+      "DESC": "Em combate, você causa +10% de dano contra oponentes do sexo masculino. Fora de combate, você às vezes terá acesso a opções de diálogo únicos ao lidar com o sexo oposto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EB9",
+      "FORMID": "094EB9",
+      "EDID": "LadyKiller",
+      "FULL": "Matador de Damas",
+      "DESC": "Em combate, você causa +10% de dano contra oponentes do sexo feminino. Fora de combate, você terá acesso a opções de diálogo únicos ao lidar com o sexo oposto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBA",
+      "FORMID": "094EBA",
+      "EDID": "BloodyMess",
+      "FULL": "Carnificina Sangrenta",
+      "DESC": "Com a vantagem \"Carnificina Sangrenta\", personagens e criaturas que você matar frequentemente explodirão em uma pasta vermelha, cheia de tripas e olhos espalhados. Que divertido! Ah, e você causará 5% de dano extra com todas as armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBB",
+      "FORMID": "094EBB",
+      "EDID": "Gunslinger",
+      "FULL": "Pistoleiro",
+      "DESC": "Ao usar uma pistola (ou arma de uma mão similar), sua precisão no V.A.T.S. aumenta consideravelmente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBC",
+      "FORMID": "094EBC",
+      "EDID": "Cannibal",
+      "FULL": "Canibal",
+      "DESC": "Com a vantagem \"Canibal\", quando você está no modo Furtivo, você ganha a opção de comer um cadáver para recuperar Saúde. Mas toda vez que você se alimenta, você perde Karma, e se o ato for testemunhado, é considerado um crime contra a natureza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBD",
+      "FORMID": "094EBD",
+      "EDID": "NightPerson",
+      "FULL": "Pessoa Noturna",
+      "DESC": "Quando o sol se põe, uma Pessoa Noturna ganha +2 em Inteligência e Percepção (até um máximo de 10). Essa vantagem afeta diretamente seu \"relógio interno\" e permanece ativa tanto dentro quanto fora."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EBF",
+      "FORMID": "094EBF",
+      "EDID": "FastMetabolism",
+      "FULL": "Metabolismo Acelerado",
+      "DESC": "Com a vantagem \"Metabolismo Acelerado\", você ganha um bônus de 20% de Saúde ao usar Stimpaks."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC1",
+      "FORMID": "094EC1",
+      "EDID": "Finesse",
+      "FULL": "Sutileza",
+      "DESC": "Com a vantagem \"Sutileza\", você tem uma chance maior de acertar um golpe crítico em um oponente em combate, equivalente a 5 pontos extras de Sorte."
+    },
+    {
+      "FORM": "@FalloutNV.esm:094EC4",
+      "FORMID": "094EC4",
+      "EDID": "AdamantiumSkeleton",
+      "FULL": "Esqueleto de Adamantium",
+      "DESC": "Com a vantagem \"Esqueleto de Adamantium\", seus membros recebem apenas 50% do dano que normalmente receberiam."
+    },
+    {
+      "FORM": "@FalloutNV.esm:099827",
+      "FORMID": "099827",
+      "EDID": "ChemResistant",
+      "FULL": "Resistência Química",
+      "DESC": "Ter a vantagem Resistência Química significa que você tem 50% menos chances de desenvolver um vício em drogas, como o Psycho ou o Jet."
+    },
+    {
+      "FORM": "@FalloutNV.esm:099828",
+      "FORMID": "099828",
+      "EDID": "Commando",
+      "FULL": "Comando",
+      "DESC": "Ao usar um rifle (ou arma similar de duas mãos), sua precisão no V.A.T.S. aumenta consideravelmente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:09982D",
+      "FORMID": "09982D",
+      "EDID": "Chemist",
+      "FULL": "Químico",
+      "DESC": "Com a vantagem \"Químico\", quaisquer drogas que você usar duram o dobro do tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:099834",
+      "FORMID": "099834",
+      "EDID": "GrimReaperSprint",
+      "FULL": "Ímpeto do Ceifador",
+      "DESC": "Se você matar um alvo no V.A.T.S., 20 Pontos de Ação são restaurados ao sair do V.A.T.S."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C1A6B",
+      "FORMID": "0C1A6B",
+      "EDID": "MS04StrengthPerk",
+      "FULL": "Poder de Formiga",
+      "DESC": "Seu corpo foi geneticamente aprimorado com a força e resistência ao fogo das Formigas de Fogo de Grayditch! Sua Força aumentou em 1 e agora você tem 25% de resistência ao fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0C1A6C",
+      "FORMID": "0C1A6C",
+      "EDID": "MS04PerceptionPerk",
+      "FULL": "Mira de Formiga",
+      "DESC": "Seu corpo foi geneticamente aprimorado com a percepção e resistência a chamas das Formigas de Fogo de Grayditch! Sua Percepção aumentou em 1 e agora você tem 25% de resistência ao fogo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:058FDF",
+      "FORMID": "058FDF",
+      "EDID": "PowerArmorTraining",
+      "FULL": "Treinamento em Armadura Potente",
+      "DESC": "Você recebeu o treinamento especializado necessário para usar qualquer tipo de Armadura Potente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:061822",
+      "FORMID": "061822",
+      "EDID": "WellRestedPerk",
+      "FULL": "Bem Descansado",
+      "DESC": "Depois de dormir em uma cama segura, você acordará bem descansado. Você ganha 10% a mais de pontos de experiência por algumas horas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CED89",
+      "FORMID": "0CED89",
+      "EDID": "NVSteadyChemPerk",
+      "FULL": "Steady Químico"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C49",
+      "FORMID": "0E2C49",
+      "EDID": "DLC03NervesOfSteel",
+      "FULL": "Nervos de Aço",
+      "DESC": "Com a vantagem \"Nervos de Aço\", você regenera Pontos de Ação muito mais rápido do que normalmente faria."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E2C4A",
+      "FORMID": "0E2C4A",
+      "EDID": "DLC03RadAbsorption",
+      "FULL": "Absorção de Radiação",
+      "DESC": "Com a vantagem \"Absorção de Radiação\", seu nível de radiação diminui lentamente sozinho com o tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0A9016",
+      "FORMID": "0A9016",
+      "EDID": "NVWeaponSpreadPenalty1",
+      "FULL": "Falha na Força da Arma"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0ED568",
+      "FORMID": "0ED568",
+      "EDID": "WildWasteland",
+      "FULL": "Ermo Selvagem",
+      "DESC": "Ermo Selvagem libera os elementos mais bizarros e tolos da América pós-apocalíptica. Não é para os fracos de coração ou os de temperamento sério."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10C6CD",
+      "FORMID": "10C6CD",
+      "EDID": "NVTerrifyingPresence",
+      "FULL": "Presença Aterrorizante",
+      "DESC": "Em algumas conversas, você ganha a habilidade de iniciar combate enquanto aterroriza uma multidão de oponentes, fazendo com que fujam para se proteger."
+    },
+    {
+      "FORM": "@FalloutNV.esm:10F09E",
+      "FORMID": "10F09E",
+      "EDID": "Retention",
+      "FULL": "Retenção",
+      "DESC": "Com a vantagem \"Retenção\", os bônus concedidos por revistas de perícia duram três vezes mais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC3",
+      "FORMID": "135EC3",
+      "EDID": "MathWrath",
+      "FULL": "Fúria Matemática",
+      "DESC": "Você consegue otimizar a lógica do V.A.T.S. do seu Pip-Boy, reduzindo todos os custos de PA em 10%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC4",
+      "FORMID": "135EC4",
+      "EDID": "FourEyes",
+      "FULL": "Quatro Olhos",
+      "DESC": "Enquanto estiver usando qualquer tipo de óculos, você tem +1 PER. Sem óculos, você tem -1 PER."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC5",
+      "FORMID": "135EC5",
+      "EDID": "HeavyHanded",
+      "FULL": "Mão Pesada",
+      "DESC": "Seus ataques corpo a corpo e desarmados causam mais dano, mas menos dano de acerto crítico."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC6",
+      "FORMID": "135EC6",
+      "EDID": "SmallFrame",
+      "FULL": "Estatura Delicada",
+      "DESC": "Devido ao seu tamanho pequeno, você tem +1 AGL, mas seus membros são mais facilmente aleijados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC7",
+      "FORMID": "135EC7",
+      "EDID": "FastShot",
+      "FULL": "Tiro Rápido",
+      "DESC": "Ao usar Armas de Fogo e Armas de Energia, você atira 20% mais rápido, mas seus tiros são 20% menos precisos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC8",
+      "FORMID": "135EC8",
+      "EDID": "TriggerDiscipline",
+      "FULL": "Disciplina no Gatilho",
+      "DESC": "Ao usar Armas de Fogo e Armas de Energia, você atira 20% mais lentamente, mas é 20% mais preciso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135EC9",
+      "FORMID": "135EC9",
+      "EDID": "GhastlyScavenger",
+      "FULL": "Abutre Horripilante",
+      "DESC": "Com Abutre Horripilante, quando estiver em modo Furtivo, você ganha a opção de comer um cadáver de Supermutante ou Necrótico Feral para recuperar Saúde. Toda vez que se alimenta, você perde Karma e, se o ato for testemunhado, é considerado um crime contra a natureza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F05",
+      "FORMID": "135F05",
+      "EDID": "Kamikaze",
+      "FULL": "Kamikaze",
+      "DESC": "Você tem +10 Pontos de Ação, mas sua natureza imprudente faz com que você tenha -2 de Resistência a Dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F18",
+      "FORMID": "135F18",
+      "EDID": "Hunter",
+      "FULL": "Caçador",
+      "DESC": "Em combate, você causa +75% de Dano Crítico contra animais e animais mutantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:135F75",
+      "FORMID": "135F75",
+      "EDID": "Purifier",
+      "FULL": "Purificador",
+      "DESC": "Como um purificador do ermo, você causa +50% de dano com armas de combate corpo a corpo e desarmado contra Centauros, Predadores Noturnos, Plantas de Esporos, Carregadores de Esporos, Destroçadores, Supermutantes e Carniçais Selvagens."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1361B3",
+      "FORMID": "1361B3",
+      "EDID": "CherchezLaFemme",
+      "FULL": "Procure a Mulher",
+      "DESC": "Em combate, você causa +10% de dano contra oponentes do sexo feminino. Fora de combate, às vezes você terá acesso a opções de diálogo exclusivos ao lidar com pessoas do mesmo sexo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1361B4",
+      "FORMID": "1361B4",
+      "EDID": "ConfirmedBachelor",
+      "FULL": "Solteirão Convencido",
+      "DESC": "Em combate, você causa +10% de dano contra oponentes do sexo masculino. Fora de combate, você terá acesso a opções de diálogo únicos ao lidar com pessoas do mesmo sexo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:136E14",
+      "FORMID": "136E14",
+      "EDID": "DeathclawOmelet",
+      "FULL": "Omelete de Destroçador",
+      "DESC": "Esta receita permite que você faça o famoso omelete de Destroçador da Rose!"
+    },
+    {
+      "FORM": "@FalloutNV.esm:1377FD",
+      "FORMID": "1377FD",
+      "EDID": "RapidReload",
+      "FULL": "Recarga Rápida",
+      "DESC": "Recarga Rápida faz com que todas as recargas de suas armas sejam 25% mais rápidas que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1377FE",
+      "FORMID": "1377FE",
+      "EDID": "QuickDraw",
+      "FULL": "Saque Rápido",
+      "DESC": "Saque Rápido faz com que equipar e guardar suas armas seja 50% mais rápido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:137800",
+      "FORMID": "137800",
+      "EDID": "MissFortunePerk",
+      "FULL": "Dama do Infortúnio",
+      "DESC": "Bem quando seus inimigos acham que estão levando a melhor, A Dama do Infortúnio aparece para virar o mundo deles de cabeça para baixo. Aparecendo apenas no V.A.T.S., ela tem a habilidade de tomar a derrota das garras da vitória."
+    },
+    {
+      "FORM": "@FalloutNV.esm:137AFE",
+      "FORMID": "137AFE",
+      "EDID": "GoodNatured",
+      "FULL": "Gentil",
+      "DESC": "Você é Bondoso de coração, mais propenso a resolver problemas com a mente do que com violência. Você ganha +5 em Troca, Medicina, Reparo, Ciência e Oratória, mas tem -5 em Armas de Energia, Explosivos, Armas de Fogo, Armas Brancas e Desarmado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:137B02",
+      "FORMID": "137B02",
+      "EDID": "BuiltToDestroy",
+      "FULL": "Feito para Destruir",
+      "DESC": "A Lança-chamas que queima duas vezes mais forte queima pela metade do tempo. Todas as armas têm +3% de chance de Acerto Crítico, mas a condição do equipamento se deteriora 15% mais rápido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:138562",
+      "FORMID": "138562",
+      "EDID": "Cowboy",
+      "FULL": "Cowboy",
+      "DESC": "Você causa 25% a mais de dano ao usar qualquer revólver, arma de ação por alavanca, dinamite, faca ou machado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:146096",
+      "FORMID": "146096",
+      "EDID": "TravelLight",
+      "FULL": "Viajem Leve",
+      "DESC": "Enquanto estiver usando armadura leve ou nenhuma armadura, você corre 10% mais rápido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:146097",
+      "FORMID": "146097",
+      "EDID": "WeaponHandling",
+      "FULL": "Manejo de Armas",
+      "DESC": "Os requisitos de Força para armas agora são 2 pontos menores do que o normal para você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:146098",
+      "FORMID": "146098",
+      "EDID": "LongHaul",
+      "FULL": "Viagem Longa",
+      "DESC": "Você aprendeu a carregar montanhas de equipamentos para a Longa Jornada. Estar sobrecarregado não impede mais que você use a Viagem Rápida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:146099",
+      "FORMID": "146099",
+      "EDID": "LivingAnatomy",
+      "FULL": "Anatomia Viva",
+      "DESC": "Anatomia Viva permite que você veja a Saúde e o Limiar de Dano de qualquer alvo. Também concede um bônus de +5% de dano contra Humanos e Necrófagos não-ferais."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609A",
+      "FORMID": "14609A",
+      "EDID": "Meltdown",
+      "FULL": "Desintegração",
+      "DESC": "Desintegração faz com que inimigos mortos por suas Armas de Energia emitam uma aura de energia nociva. Observação: isso pode causar uma reação em cadeia."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609B",
+      "FORMID": "14609B",
+      "EDID": "PackRat",
+      "FULL": "Roedor de Carga",
+      "DESC": "Você aprendeu o valor de embalar com cuidado. Itens com peso de 2 ou menos pesam metade do peso para você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609C",
+      "FORMID": "14609C",
+      "EDID": "HeaveHo",
+      "FULL": "Iça, ô!",
+      "DESC": "Que braço forte você tem. Todas as armas de arremesso voam mais longe e mais rápido para você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609D",
+      "FORMID": "14609D",
+      "EDID": "RunNGun",
+      "FULL": "Correr e Atirar",
+      "DESC": "A vantagem \"Correr e Atirar\" reduz as penalidades de precisão com armas de fogo de uma mão e armas de energia ao andar ou correr."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609E",
+      "FORMID": "14609E",
+      "EDID": "SuperSlam",
+      "FULL": "Super Pancada",
+      "DESC": "Todos os ataques Corpo a Corpo (exceto arremessáveis) e Desarmado têm uma chance de derrubar seu alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14609F",
+      "FORMID": "14609F",
+      "EDID": "PiercingStrike",
+      "FULL": "Ataque Perfurante",
+      "DESC": "Golpe Perfurante faz com que todas as suas armas de Desarmado e Corpo a Corpo (incluindo as arremessadas) ignorem 15 pontos de Limite de Dano do alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C069",
+      "FORMID": "14C069",
+      "EDID": "ImplantStrengthPerk",
+      "FULL": "Implante de Força",
+      "DESC": "Sua massa muscular foi aprimorada com o Acelerador de Hipertrofia, aumentando sua Força em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12A",
+      "FORMID": "14C12A",
+      "EDID": "ImplantAgilityPerk",
+      "FULL": "Implante de Agilidade",
+      "DESC": "Seu nó nervoso central foi aprimorado com o Reforço de Reflexos, aumentando sua Agilidade em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12D",
+      "FORMID": "14C12D",
+      "EDID": "ImplantPerceptionPerk",
+      "FULL": "Implante de Percepção",
+      "DESC": "Seu nervo óptico foi aprimorado com o Aprimorador Óptico, aumentando sua Percepção em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C12E",
+      "FORMID": "14C12E",
+      "EDID": "ImplantEndurancePerk",
+      "FULL": "Implante de Resistência",
+      "DESC": "Seu sistema nervoso foi aprimorado com o Regulador de Nocicepção, aumentando sua Resistência em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C130",
+      "FORMID": "14C130",
+      "EDID": "ImplantCharismaPerk",
+      "FULL": "Implante de Carisma",
+      "DESC": "Seu córtex pré-frontal foi aprimorado com o Sintetizador de Empatia, aumentando seu Carisma em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C132",
+      "FORMID": "14C132",
+      "EDID": "ImplantIntelligencePerk",
+      "FULL": "Implante de Inteligência",
+      "DESC": "Seu córtex cerebral foi aprimorado com o Coprocessador Lógico, aumentando sua Inteligência em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14C134",
+      "FORMID": "14C134",
+      "EDID": "ImplantLuckPerk",
+      "FULL": "Implante da Sorte",
+      "DESC": "Seu lobo frontal foi aprimorado com a Calculadora de Probabilidade, aumentando sua Sorte em 1."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CCDF",
+      "FORMID": "14CCDF",
+      "EDID": "ImplantDTPerk",
+      "FULL": "Armadura Subdérmica",
+      "DESC": "Sua pele foi fortalecida pela Armadura Subdérmica NEMEAN, aumentando seu Limiar de Dano total em 4."
+    },
+    {
+      "FORM": "@FalloutNV.esm:14CCE1",
+      "FORMID": "14CCE1",
+      "EDID": "ImplantRegenPerk",
+      "FULL": "Criador de Monócitos",
+      "DESC": "Sua capacidade regenerativa foi aprimorada pelo implante Criador de Monócitos PHOENIX, fazendo com que você regenere lentamente os pontos de vida perdidos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B8E7",
+      "FORMID": "15B8E7",
+      "EDID": "KhanTrick",
+      "FULL": "Truque de Khan",
+      "DESC": "Ao depender dos truques sujos de luta desarmada dos Grandes Khans, você pode jogar poeira nos olhos dos olhos dos seus inimigos, atordoando-os temporariamente. Execute um Ataque Poderoso enquanto se move para a esquerda ou direita para executar o Truque Khan."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B8E8",
+      "FORMID": "15B8E8",
+      "EDID": "RangerTakedown",
+      "FULL": "Derrubada de Ranger",
+      "DESC": "Quando pegos sem suas armas, os rangers da NCR confiam na Derrubada Ranger para incapacitar rapidamente os oponentes. Execute um Ataque Poderoso enquanto se move para trás para executar uma Derrubada Ranger."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B8E9",
+      "FORMID": "15B8E9",
+      "EDID": "LegionAssault",
+      "FULL": "Ataque da Legião",
+      "DESC": "O grupo de elite de guarda-costas de Caesar, os lendários pretorianos, usam um Assalto da Legião agressivo para brutalizar os inimigos. Execute um Ataque Poderoso enquanto corre para frente para executar o Assalto da Legião."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15B8EA",
+      "FORMID": "15B8EA",
+      "EDID": "ScribeCounter",
+      "FULL": "Contador de Escriba",
+      "DESC": "Os escribas da Irmandade do Aço geralmente não são bem treinados no uso em combate do equipamento de alta tecnologia empregado pelos Paladinos. Eles confiam em movimentos defensivos desarmados como o Contra-Ataque de Escriba para manter os inimigos à distância. Execute um ataque padrão após uma reação de bloqueio para executar um Contra-Ataque de Escriba."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C571",
+      "FORMID": "15C571",
+      "EDID": "CompanionSuite",
+      "FULL": "Suíte de Companheiro",
+      "DESC": "APENAS COMPANHEIROS\n* Multiplicador de Dano de Arma 0,75\n* Multiplicador de DR do Alvo 0,75\n* Diminuir Peso Máximo 75\n* Aumentar RD 33%"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60B",
+      "FORMID": "15C60B",
+      "EDID": "BetterHealing",
+      "FULL": "Cura Aprimorada",
+      "DESC": "Enquanto Arcade for um companheiro, o jogador recupera mais saúde de todas as fontes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60C",
+      "FORMID": "15C60C",
+      "EDID": "Spotting",
+      "FULL": "Observador",
+      "DESC": "Enquanto Boone for um companheiro, alvos hostis são destacados sempre que o jogador estiver mirando ativamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60D",
+      "FORMID": "15C60D",
+      "EDID": "WhiskeyRose",
+      "FULL": "Uísque Rose",
+      "DESC": "Enquanto Cass for uma companheira, ela e o jogador ganham Limiar de Dano quando bebem Uísque. Além disso, o jogador não sofre perda de inteligência por consumir álcool e ignora os efeitos negativos do vício em álcool."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60E",
+      "FORMID": "15C60E",
+      "EDID": "EnhancedSensors",
+      "FULL": "Sensores Aprimorados",
+      "DESC": "Enquanto ED-E for um companheiro, o jogador pode detectar inimigos a uma distância maior. Além disso, inimigos aparecerão na bússola do jogador e podem ser alvejados no V.A.T.S. mesmo quando estiverem camuflados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C60F",
+      "FORMID": "15C60F",
+      "EDID": "StealthGirl",
+      "FULL": "Garota Furtiva",
+      "DESC": "Enquanto Lily for sua companheira, a duração dos Stealth Boys aumenta em 200% e todos os Ataques Furtivos Críticos causam 10% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C610",
+      "FORMID": "15C610",
+      "EDID": "RegularMaintenance",
+      "FULL": "Manutenção Regular",
+      "DESC": "Enquanto Raul for um companheiro, a Condição de armas e armaduras se deteriora mais lentamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C611",
+      "FORMID": "15C611",
+      "EDID": "SearchAndMark",
+      "FULL": "Buscar e Marcar",
+      "DESC": "Enquanto Rex for um companheiro, drogas, armas de fogo e munição não equipadas por perto são destacadas ao usar o zoom da câmera."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15C613",
+      "FORMID": "15C613",
+      "EDID": "ScribeAssistant",
+      "FULL": "Assistente do Escriba",
+      "DESC": "Enquanto Veronica for uma companheira, o jogador pode fabricar itens de Bancada através do diálogo de Veronica."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D2BC",
+      "FORMID": "15D2BC",
+      "EDID": "FullMaintenance",
+      "FULL": "Manutenção Total",
+      "DESC": "Enquanto Raul for um companheiro, a Condição de armas e armaduras se deteriora 75% mais lentamente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D2BE",
+      "FORMID": "15D2BE",
+      "EDID": "OldVaquero",
+      "FULL": "Cowboy Ancião",
+      "DESC": "A velocidade de disparo de Raul com revólveres e rifles de ação por alavanca é 33% maior que o normal."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAD6",
+      "FORMID": "15EAD6",
+      "EDID": "SelfLimbDamageChallengePerk",
+      "FULL": "Macho Alfa",
+      "DESC": "Quebrar os ossos repetidamente os tornou mais fortes (de alguma forma)."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAD7",
+      "FORMID": "15EAD7",
+      "EDID": "InsectChallengePerk",
+      "FULL": "Esmaga-Insetos",
+      "DESC": "Arrancar as pernas das formigas te cai bem. Você ganha um bônus de dano contra insetos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAD8",
+      "FORMID": "15EAD8",
+      "EDID": "ChemChallengePerk",
+      "FULL": "Viajante de Primeira",
+      "DESC": "Você usou drogas o bastante para saber como prolongar os efeitos por mais um pouco."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAD9",
+      "FORMID": "15EAD9",
+      "EDID": "TurboChallengePerk",
+      "FULL": "Tempos Rápidos",
+      "DESC": "Você diminuiu as coisas o suficiente para ganhar tempo adicional ao usar o Turbo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADA",
+      "FORMID": "15EADA",
+      "EDID": "RadAwayChallengePerk",
+      "FULL": "Radical Livre",
+      "DESC": "Você ganha efeitos aprimorados do Rad-Away."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADB",
+      "FORMID": "15EADB",
+      "EDID": "AbominationChallengePerk",
+      "FULL": "Abominável",
+      "DESC": "Não há nada de abominável no seu bônus de dano contra Abominações."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADC",
+      "FORMID": "15EADC",
+      "EDID": "RobotChallengePerk",
+      "FULL": "Cabeça de Máquina",
+      "DESC": "Você range as engrenagens das máquinas e ganha um bônus de dano contra robôs."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADD",
+      "FORMID": "15EADD",
+      "EDID": "SetLasersForFunPerk",
+      "FULL": "Configure os Lasers para a Diversão",
+      "DESC": "Você é louco por lasers e isso fica claro! Bônus menor para acertos críticos com todas as armas laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADE",
+      "FORMID": "15EADE",
+      "EDID": "MeleeWeaponsChallengePerk",
+      "FULL": "Hacker de Combate Corpo a Corpo",
+      "DESC": "Você hackeia só um pouco mais rápido."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EADF",
+      "FORMID": "15EADF",
+      "EDID": "UnarmedChallengePerk",
+      "FULL": "Surra Bonita",
+      "DESC": "Reduz o Custo de PA de Ataques Desarmados no VATS."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE0",
+      "FORMID": "15EAE0",
+      "EDID": "AnimalChallengePerk",
+      "FULL": "Controle Animal",
+      "DESC": "Você lida muito bem com animais quando estão mortos e recebe um bônus de dano contra os vivos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE1",
+      "FORMID": "15EAE1",
+      "EDID": "CannibalChallengePerk",
+      "FULL": "Coma e Vaze",
+      "DESC": "Com a vantagem \"Larica e Fuga\", quando você estiver em modo Furtivo, você ganha a opção de pegar partes de cadáveres para comer mais tarde."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE2",
+      "FORMID": "15EAE2",
+      "EDID": "MutantChallengePerk",
+      "FULL": "Massacre Mutante",
+      "DESC": "Sua perícia em matar Mutantes concede a você um bônus de dano ao matá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE3",
+      "FORMID": "15EAE3",
+      "EDID": "VATSHelperChallengePerk",
+      "FULL": "Ajuda Amigável",
+      "DESC": "Seus amigos especiais do VATS se acostumaram a te ajudar e se esforçarão para fazer isso com mais frequência."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15EAE4",
+      "FORMID": "15EAE4",
+      "EDID": "LordDeathChallengePerk",
+      "FULL": "Lorde Morte",
+      "DESC": "Você recebe um bônus de dano contra tudo, porque você gosta de matar tudo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1613BE",
+      "FORMID": "1613BE",
+      "EDID": "SpicyCasserole",
+      "FULL": "Caçarola Apimentada",
+      "DESC": "Esta receita permite que você faça a caçarola apimentada da Ruby."
+    },
+    {
+      "FORM": "@FalloutNV.esm:163349",
+      "FORMID": "163349",
+      "EDID": "HandOfVengeance",
+      "FULL": "Mão da Vingança",
+      "DESC": "Cass causa 15% a mais de dano com todas as armas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16334B",
+      "FORMID": "16334B",
+      "EDID": "CalmHeart",
+      "FULL": "Coração Calmo",
+      "DESC": "Cass tem +50 pontos de vida."
+    },
+    {
+      "FORM": "@FalloutNV.esm:164AFB",
+      "FORMID": "164AFB",
+      "EDID": "MeatOfChampionsPerk",
+      "FULL": "Carne dos Campeões",
+      "DESC": "A essência dos campeões corre pelas suas veias. Quando você canibaliza cadáveres, você temporariamente ganha a inteligência de Caesar, a sorte de Sr. House, o carisma do King e a força do Presidente Kimball."
+    },
+    {
+      "FORM": "@FalloutNV.esm:164ED1",
+      "FORMID": "164ED1",
+      "EDID": "LooseCannon",
+      "FULL": "Canhão Solto",
+      "DESC": "De granadas de fragmentação a lanças de arremesso, você pode arremessar armas 30% mais rápido, mas com 25% menos alcance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165118",
+      "FORMID": "165118",
+      "EDID": "FriendOfTheNight",
+      "FULL": "Amigo da Noite",
+      "DESC": "Você é um verdadeiro amigo da noite. Seus olhos se adaptam rapidamente a condições de pouca luz em ambientes fechados e quando a escuridão cai sobre o deserto."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165180",
+      "FORMID": "165180",
+      "EDID": "FerociousLoyalty",
+      "FULL": "Lealdade Feroz",
+      "DESC": "O poder da sua personalidade inspira uma lealdade ferrenha dos seus seguidores. Quando sua saúde cai abaixo de 50%, seus companheiros ganham temporariamente uma resistência muito maior a dano."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165181",
+      "FORMID": "165181",
+      "EDID": "SprayAndPray",
+      "FULL": "Atirar e Rezar!",
+      "DESC": "Seus ataques causam muito menos dano a companheiros, permitindo que você espalhe balas em uma área com abandono imprudente."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165182",
+      "FORMID": "165182",
+      "EDID": "CenterOfMass",
+      "FULL": "Centro de Massa",
+      "DESC": "Você não perde tempo com truques elaborados. Vai direto no meio e derruba. No VATS, você causa 15% de dano adicional com ataques que miram o torso."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1651B6",
+      "FORMID": "1651B6",
+      "EDID": "HitTheDeck",
+      "FULL": "Abaixar",
+      "DESC": "Seu extenso conhecimento de Explosivos permite que você ignore uma parte do dano deles. Sua Tolerância a Dano aumenta em 25 contra todos os Explosivos, até mesmo os seus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165446",
+      "FORMID": "165446",
+      "EDID": "Slayer",
+      "FULL": "O Matador",
+      "DESC": "O Matador caminha pela terra! A velocidade de todas as Armas Brancas e ataques Desarmados aumenta em 30%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165447",
+      "FORMID": "165447",
+      "EDID": "UnstoppableForce",
+      "FULL": "Força Incontrolável",
+      "DESC": "Sua força marcial é verdadeiramente lendária. Você causa uma grande quantidade de dano adicional através dos bloqueios inimigos com todas as Armas de Combate Corpo a Corpo e ataques Desarmados."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165449",
+      "FORMID": "165449",
+      "EDID": "Stonewall",
+      "FULL": "Paredão",
+      "DESC": "Você ganha +5 de Limite de Dano contra todas as Armas Brancas e ataques Desarmados e não pode ser derrubado em combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:1656FD",
+      "FORMID": "1656FD",
+      "EDID": "RadChild",
+      "FULL": "Filho do Átomo",
+      "DESC": "Você é mesmo uma criança radioativa. Conforme você passa pelos estágios cada vez mais devastadores da doença da radiação, você regenerará cada vez mais saúde."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165789",
+      "FORMID": "165789",
+      "EDID": "LaserCommander",
+      "FULL": "Comandante Laser",
+      "DESC": "Da humilde Pistola a Laser a poderoso Minigun a Laser, você causa +15% de dano e tem +10% de chance de acerto crítico com qualquer arma a laser."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16578B",
+      "FORMID": "16578B",
+      "EDID": "ShotgunSurgeon",
+      "FULL": "Cirurgião de Escopeta",
+      "DESC": "Sua precisão com uma escopeta é algo de se admirar. Ao usar escopetas, independente da munição usada, você ignora 10 pontos adicionais da Resistência a Dano do alvo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165815",
+      "FORMID": "165815",
+      "EDID": "JuryRigging",
+      "FULL": "Gambiarra",
+      "DESC": "Você possui a incrível habilidade de consertar qualquer item usando um item similar. Conserte uma Trail Carbine com um Rifle de Caça, uma Pistola de Plasma com uma Pistola a Laser, ou até mesmo uma Armadura Potente com uma Armadura de Metal. Como isso funciona? Ninguém sabe... exceto você."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165816",
+      "FORMID": "165816",
+      "EDID": "VigilantRecycler",
+      "FULL": "Vigilante Reciclador",
+      "DESC": "Não desperdice, não fará falta. Ao usar Armas de Energia, você tem mais chances de recuperar munição gasta. Você também tem receitas de reciclagem mais eficientes disponíveis na Bancada."
+    },
+    {
+      "FORM": "@FalloutNV.esm:16581B",
+      "FORMID": "16581B",
+      "EDID": "HandLoader",
+      "FULL": "Carregador Manual",
+      "DESC": "Você sabe usar uma bancada de recarga e não deixa bons estojos e cápsulas irem para o lixo. Ao usar Armas, é mais provável que você recupere estojos e cápsulas. Você também tem todas as receitas de recarga manual desbloqueadas na Bancada de Recarga."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AE6",
+      "FORMID": "165AE6",
+      "EDID": "NukaChemist",
+      "FULL": "Químico da Nuka-Cola",
+      "DESC": "Você desvendou alguns dos maiores mistérios dos mestres do Pré-Guerra: fórmulas para desenvolver Nuka-Colas especiais! Essa perk desbloqueia receitas especiais de Nuka-Cola na Bancada de Trabalho."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AEC",
+      "FORMID": "165AEC",
+      "EDID": "TheProfessional",
+      "FULL": "O Profissional",
+      "DESC": "De perto e pessoal, é assim que você gosta. Seus Ataques Furtivos Críticos com pistolas, revólveres e submetralhadoras, sejam Armas ou Armas de Energia, causam 20% de dano adicional."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AEF",
+      "FORMID": "165AEF",
+      "EDID": "PlasmaSpaz",
+      "FULL": "Espasmo de Plasma",
+      "DESC": "Você está tão empolgado com plasma que não consegue se conter (magneticamente)! O custo de PA de todas as armas de plasma (incluindo Granadas de Plasma) é reduzido em 20%."
+    },
+    {
+      "FORM": "@FalloutNV.esm:165AF0",
+      "FORMID": "165AF0",
+      "EDID": "SplashDamage",
+      "FULL": "Dano por Área",
+      "DESC": "Quando você está em território inimigo, é só começar a jogar granadas e torcer para dar certo. Todas as armas de Explosivos têm uma área de efeito 25% maior."
+    },
+    {
+      "FORM": "@FalloutNV.esm:167723",
+      "FORMID": "167723",
+      "EDID": "CalmHeartPerk",
+      "FULL": "Coração Calmo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:167E26",
+      "FORMID": "167E26",
+      "EDID": "WaterChallengePerk",
+      "FULL": "Camelo do Mojave",
+      "DESC": "Seu consumo frequente de água resultou em benefícios aprimorados ao beber fluidos hidratantes."
+    },
+    {
+      "FORM": "@FalloutNV.esm:17714E",
+      "FORMID": "17714E",
+      "EDID": "BondsOfSteel",
+      "FULL": "Laços de Aço",
+      "DESC": "SOMENTE PARA ACOMPANHANTE - Veronica ganha +4 DR."
+    },
+    {
+      "FORM": "@FalloutNV.esm:17714F",
+      "FORMID": "17714F",
+      "EDID": "CauselessRebel",
+      "FULL": "Rebelde Sem Causa",
+      "DESC": "SOMENTE PARA ACOMPANHANTE - A velocidade de ataque desarmado de Veronica aumenta em 30%."
+    }
+  ]
+}
