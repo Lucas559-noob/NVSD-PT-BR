@@ -1,0 +1,365 @@
+{
+  "REFR": [
+    {
+      "FORM": "@LonesomeRoad.esm:00C480",
+      "FORMID": "00C480",
+      "RXATO": "Viaje para a Estrada Solitária"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C481",
+      "FORMID": "00C481",
+      "EDID": "NVDLC04NukedSilo2MapMarkerREF",
+      "XMRK": "A Milha do Mensageiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BA55",
+      "FORMID": "00BA55",
+      "RXATO": "Pegar Balsa para Cottonwood Cove"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C46D",
+      "FORMID": "00C46D",
+      "EDID": "NVDLC04NukedLegionMapMarkerREF",
+      "XMRK": "Poços Secos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C474",
+      "FORMID": "00C474",
+      "EDID": "NVDLC04NukedNCRMapMarkerREF",
+      "XMRK": "Longo 15"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003300",
+      "FORMID": "003300",
+      "RXATO": "Saída para o Ermos de Mojave"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007EFD",
+      "FORMID": "007EFD",
+      "EDID": "NVDLC04VistaToSilo01DoorREF",
+      "RXATO": "Viajar para o Silo de Mísseis de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009142",
+      "FORMID": "009142",
+      "EDID": "NVDLC04DVworldWreckageMapMarkerREF",
+      "XMRK": "Ir para os Destroços do Cânion"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009143",
+      "FORMID": "009143",
+      "EDID": "NVDLC04DVWorldBunkerMapMarkerREF",
+      "XMRK": "Entrada do Bunker do Silo de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2A7",
+      "FORMID": "00D2A7",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2A3",
+      "FORMID": "00D2A3",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0083A0",
+      "FORMID": "0083A0",
+      "EDID": "NVDLC04HighRoadMapMarker01REF",
+      "XMRK": "Entrada da Estrada Principal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0083CD",
+      "FORMID": "0083CD",
+      "EDID": "NVDLC04Silo02MapMarkerREF",
+      "XMRK": "Estação de Controle do Silo Ashton"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0083FA",
+      "FORMID": "0083FA",
+      "RXATO": "Entrar no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009504",
+      "FORMID": "009504",
+      "EDID": "NVDLC04Road02InterchangeMapMarkerREF",
+      "XMRK": "Viaduto Rodoviário Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009507",
+      "FORMID": "009507",
+      "EDID": "NVDLC04Junction7MapMarkerREF",
+      "XMRK": "Posto de Descanso Entroncamento 7"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB7D",
+      "FORMID": "00CB7D",
+      "EDID": "NVDLC04Road02ToSilo02DoorREF",
+      "RXATO": "Pegar Elevador para o Silo de Mísseis Ashton"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0B5",
+      "FORMID": "00D0B5",
+      "EDID": "NVDLC04Road02CrowsNestMapMarkerREF",
+      "XMRK": "O Ninho do Corvo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEB3",
+      "FORMID": "00DEB3",
+      "EDID": "NVDLC04EDETerminalLeverLaunch01REF",
+      "RXATO": "Abrir Silo Ashton"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2A0",
+      "FORMID": "00D2A0",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076F9",
+      "FORMID": "0076F9",
+      "EDID": "NVDLC04DivideMunicipalMapMarkerREF",
+      "XMRK": "Prédio Municipal da Third Street"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076FB",
+      "FORMID": "0076FB",
+      "EDID": "NVDLC04UlyssesTempleMarkerREF",
+      "XMRK": "Templo de Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076FC",
+      "FORMID": "0076FC",
+      "EDID": "NVDLC04DivideSunstoneMapMarkerREF",
+      "XMRK": "Telhado da Torre Sunstone"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007956",
+      "FORMID": "007956",
+      "EDID": "NVDLC04DivideBoxwoodMapMarkerREF",
+      "XMRK": "Telhado do Hotel Boxwood"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007957",
+      "FORMID": "007957",
+      "EDID": "NVDLC04DivideCaveMarkerREF",
+      "XMRK": "Caverna do Abaddon"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007C3B",
+      "FORMID": "007C3B",
+      "EDID": "NVDCL04DivideWastewaterMapMarkerREF",
+      "XMRK": "Estação de Tratamento de Água Residual"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D119",
+      "FORMID": "00D119",
+      "EDID": "NVDLC04DivideWasteDisposalMapMarkerREF",
+      "XMRK": "Estação de Eliminação de Resíduos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C610",
+      "FORMID": "00C610",
+      "RXATO": "Pegar Sinalizador Vermelho"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EE",
+      "FORMID": "0039EE",
+      "RXATO": "Entrar no Túnel do Viaduto Desmoronado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090F7",
+      "FORMID": "0090F7",
+      "EDID": "NVDLC04Road01BunkerMapMarkerREF",
+      "XMRK": "Bunker do Silo de Mísseis de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090F8",
+      "FORMID": "0090F8",
+      "EDID": "NVDLC04Road01BaseWestMapMarkerREF",
+      "XMRK": "Base de Mísseis de Hopeville - Entrada Oeste"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090F9",
+      "FORMID": "0090F9",
+      "EDID": "NVDLC04Road01BaseEastMapMarkerREF",
+      "XMRK": "Base de Mísseis de Hopeville - Entrada Leste"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FA",
+      "FORMID": "0090FA",
+      "EDID": "NVDLC04Road01HQMapMarkerREF",
+      "XMRK": "Quartel-general da Base de Mísseis de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FB",
+      "FORMID": "0090FB",
+      "EDID": "NVDLC04Road01Camp01MapMarkerREF",
+      "XMRK": "Acampamento dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FC",
+      "FORMID": "0090FC",
+      "EDID": "NVDLC04Road01BossCampMapMarkerREF",
+      "XMRK": "Base dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FD",
+      "FORMID": "0090FD",
+      "EDID": "NVDLC04Road01Camp02MapMarkerREF",
+      "XMRK": "Posto Avançado da Guarda dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FE",
+      "FORMID": "0090FE",
+      "EDID": "NVDLC04Road01Camp03MapMarkerREF",
+      "XMRK": "Posto de Suprimentos dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090FF",
+      "FORMID": "0090FF",
+      "EDID": "NVDLC04Road01BaseLoadMapMarkerREF",
+      "XMRK": "Base de Mísseis de Hopeville - Estação de Carregamento"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009100",
+      "FORMID": "009100",
+      "EDID": "NVDLC04Road01TunnelMapMarkerREF",
+      "XMRK": "Entrada do Túnel do Viaduto Desabado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C47F",
+      "FORMID": "00C47F",
+      "EDID": "NVDLC04CouriersMileDoorREF",
+      "RXATO": "Viajar para a Milha do Mensageiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C482",
+      "FORMID": "00C482",
+      "EDID": "NVDLC04NukedSilo2DoorMapMarkerREF",
+      "XMRK": "Caminho para a Milha do Mensageiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D773",
+      "FORMID": "00D773",
+      "EDID": "NVDLC04LaserDetonatorActivatorREF",
+      "RXATO": "Pegar Detonador a Laser"
+    },
+    {
+      "FORM": "@FalloutNV.esm:10063C",
+      "FORMID": "10063C",
+      "EDID": "VMS15BallastDeployerREF",
+      "RXATO": "Ativar Lastro Remotamente"
+    },
+    {
+      "FORM": "@FalloutNV.esm:157F7E",
+      "FORMID": "157F7E",
+      "EDID": "CanyonWreckageMapMarker",
+      "XMRK": "Destroços do Canyon"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EB",
+      "FORMID": "0039EB",
+      "RXATO": "Viajar para A Divisão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C46E",
+      "FORMID": "00C46E",
+      "EDID": "NVDLC04CCBoatREF",
+      "RXATO": "Pegar Barco para Dry Wells"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C470",
+      "FORMID": "00C470",
+      "EDID": "NVDLC04CCBoatMarkerREF",
+      "XMRK": "Balsa para Dry Wells"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C473",
+      "FORMID": "00C473",
+      "EDID": "NVDLC04NukedNCRGateMapMarkerREF",
+      "XMRK": "Portão para Long 15"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D299",
+      "FORMID": "00D299",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D295",
+      "FORMID": "00D295",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D294",
+      "FORMID": "00D294",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008481",
+      "FORMID": "008481",
+      "EDID": "TempleEntrance",
+      "RXATO": "Elevador para o Templo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D20C",
+      "FORMID": "00D20C",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D214",
+      "FORMID": "00D214",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007F23",
+      "FORMID": "007F23",
+      "EDID": "NVDLC04Silo01FromVistaDoorREF",
+      "RXATO": "Viajar para A Divisão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BF38",
+      "FORMID": "00BF38",
+      "EDID": "NVDLC04EDETerminalSilo01ButtonREF",
+      "RXATO": "Restaurar a energia do Silo de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D0",
+      "FORMID": "00D3D0",
+      "RXATO": "Puxar Alavanca"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C2D",
+      "FORMID": "009C2D",
+      "EDID": "NVDLC04Silo2ElevatorControlsREF",
+      "RXATO": "Ativar Elevador para o Silo de Mísseis Ashton"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D28E",
+      "FORMID": "00D28E",
+      "RXATO": "Vasculhar Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB7A",
+      "FORMID": "00CB7A",
+      "EDID": "NVDLC04Silo02ToRoad02DoorREF",
+      "RXATO": "Pegue o Elevador para a Estrada Alta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466A",
+      "FORMID": "00466A",
+      "EDID": "NVDLC04RoadTunnelDoor01REF",
+      "RXATO": "Sair do Túnel do Viaduto Desabado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466B",
+      "FORMID": "00466B",
+      "EDID": "NVDLC04RoadTunnelDoor02REF",
+      "RXATO": "Pegue a Estrada Alta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003D1B",
+      "FORMID": "003D1B",
+      "EDID": "TempleExit",
+      "RXATO": "Elevador para Manutenção"
+    }
+  ]
+}

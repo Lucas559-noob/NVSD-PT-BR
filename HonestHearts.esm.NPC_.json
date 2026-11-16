@@ -1,0 +1,892 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@HonestHearts.esm:00DA46",
+      "FORMID": "00DA46",
+      "EDID": "NVDLC02Sorrow3MDead",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA47",
+      "FORMID": "00DA47",
+      "EDID": "NVDLC02DeadHorse3MDEAD",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E886",
+      "FORMID": "00E886",
+      "EDID": "NVDLC02DeadHorseAnimTest",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E887",
+      "FORMID": "00E887",
+      "EDID": "NVDLC02DeadHorseAnimTestShaman",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E931",
+      "FORMID": "00E931",
+      "EDID": "NVDLC02DeadHorseEV05",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E932",
+      "FORMID": "00E932",
+      "EDID": "NVDLC02DeadHorseEV06",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB78",
+      "FORMID": "00EB78",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummerFem01",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB79",
+      "FORMID": "00EB79",
+      "EDID": "NVDLC02WhiteLegTypePainMakerFem02",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7A",
+      "FORMID": "00EB7A",
+      "EDID": "NVDLC02WhiteLegTypePainMakerFem01",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7B",
+      "FORMID": "00EB7B",
+      "EDID": "NVDLC02WhiteLegTypeLightBringerFem02",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7C",
+      "FORMID": "00EB7C",
+      "EDID": "NVDLC02WhiteLegTypeLightBringerFem01",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7D",
+      "FORMID": "00EB7D",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreakerFem02",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7E",
+      "FORMID": "00EB7E",
+      "EDID": "NVDLC02WhiteLegTypePainMaker02",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB7F",
+      "FORMID": "00EB7F",
+      "EDID": "NVDLC02WhiteLegTypePainMaker01",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB80",
+      "FORMID": "00EB80",
+      "EDID": "NVDLC02WhiteLegTypeLightBringer02",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB81",
+      "FORMID": "00EB81",
+      "EDID": "NVDLC02WhiteLegTypeLightBringer01",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB82",
+      "FORMID": "00EB82",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreaker02",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EB83",
+      "FORMID": "00EB83",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreaker01",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBCF",
+      "FORMID": "00EBCF",
+      "EDID": "NVDLC02EveSpawnSorrow",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD0",
+      "FORMID": "00EBD0",
+      "EDID": "NVDLC02EveSorrowFem05",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD1",
+      "FORMID": "00EBD1",
+      "EDID": "NVDLC02EveSorrowFem04",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD2",
+      "FORMID": "00EBD2",
+      "EDID": "NVDLC02EveSorrowFem03",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD3",
+      "FORMID": "00EBD3",
+      "EDID": "NVDLC02EveSorrowFem02",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD4",
+      "FORMID": "00EBD4",
+      "EDID": "NVDLC02EveSorrowFem01",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD5",
+      "FORMID": "00EBD5",
+      "EDID": "NVDLC02EveSorrow05",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD6",
+      "FORMID": "00EBD6",
+      "EDID": "NVDLC02EveSorrow04",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD7",
+      "FORMID": "00EBD7",
+      "EDID": "NVDLC02EveSorrow03",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD8",
+      "FORMID": "00EBD8",
+      "EDID": "NVDLC02EveSorrow02",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBD9",
+      "FORMID": "00EBD9",
+      "EDID": "NVDLC02EveSorrow01",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDA",
+      "FORMID": "00EBDA",
+      "EDID": "NVDLC02DeadHorseTypeWarriorFem02",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDB",
+      "FORMID": "00EBDB",
+      "EDID": "NVDLC02DeadHorseTypeWarriorFem01",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDC",
+      "FORMID": "00EBDC",
+      "EDID": "NVDLC02DeadHorseTypeStalkerFem02",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDD",
+      "FORMID": "00EBDD",
+      "EDID": "NVDLC02DeadHorseTypeStalkerFem01",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDE",
+      "FORMID": "00EBDE",
+      "EDID": "NVDLC02DeadHorseTypeDiscipleFem02",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBDF",
+      "FORMID": "00EBDF",
+      "EDID": "NVDLC02DeadHorseTypeWarrior02",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBE0",
+      "FORMID": "00EBE0",
+      "EDID": "NVDLC02DeadHorseTypeWarrior01",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBE1",
+      "FORMID": "00EBE1",
+      "EDID": "NVDLC02DeadHorseTypeStalker02",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBE2",
+      "FORMID": "00EBE2",
+      "EDID": "NVDLC02DeadHorseTypeStalker01",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EBE3",
+      "FORMID": "00EBE3",
+      "EDID": "NVDLC02DeadHorseTypeDisciple02",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EEAE",
+      "FORMID": "00EEAE",
+      "EDID": "NVDLC02SorrowMarysFollower",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F083",
+      "FORMID": "00F083",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummerFem",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F084",
+      "FORMID": "00F084",
+      "EDID": "NVDLC02WhiteLegTypePainMakerFem",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F085",
+      "FORMID": "00F085",
+      "EDID": "NVDLC02WhiteLegTypeLightBringerFem",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F086",
+      "FORMID": "00F086",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreakerFem",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F087",
+      "FORMID": "00F087",
+      "EDID": "NVDLC02DeadHorseTypeWarriorFem",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F088",
+      "FORMID": "00F088",
+      "EDID": "NVDLC02DeadHorseTypeStalkerFem",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F089",
+      "FORMID": "00F089",
+      "EDID": "NVDLC02DeadHorseTypeDiscipleFem",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08A",
+      "FORMID": "00F08A",
+      "EDID": "NVDLC02DeadHorseTypeDisciple",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08B",
+      "FORMID": "00F08B",
+      "EDID": "NVDLC02DeadHorseTypeWarrior",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08C",
+      "FORMID": "00F08C",
+      "EDID": "NVDLC02DeadHorseTypeStalker",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08D",
+      "FORMID": "00F08D",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummer",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08E",
+      "FORMID": "00F08E",
+      "EDID": "NVDLC02WhiteLegTypePainMaker",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F08F",
+      "FORMID": "00F08F",
+      "EDID": "NVDLC02WhiteLegTypeLightBringer",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F090",
+      "FORMID": "00F090",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreaker",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F093",
+      "FORMID": "00F093",
+      "EDID": "NVDLC02Sorrow3M",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F19B",
+      "FORMID": "00F19B",
+      "EDID": "NVDLC02HappyTrailsCaravanGuardAF",
+      "FULL": "Guarda da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F19C",
+      "FORMID": "00F19C",
+      "EDID": "NVDLC02HappyTrailsCaravanGuardCM",
+      "FULL": "Guarda da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F19D",
+      "FORMID": "00F19D",
+      "EDID": "NVDLC02Ricky",
+      "FULL": "Ricky"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F19E",
+      "FORMID": "00F19E",
+      "EDID": "NVDLC02Stella",
+      "FULL": "Stella"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1C9",
+      "FORMID": "00F1C9",
+      "EDID": "NVDLC02WhiteLegTypeBoneBreakerFem01",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1CA",
+      "FORMID": "00F1CA",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummer01",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1CB",
+      "FORMID": "00F1CB",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummer02",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1CC",
+      "FORMID": "00F1CC",
+      "EDID": "NVDLC02WhiteLegTypeStormDrummerFem02",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1CD",
+      "FORMID": "00F1CD",
+      "EDID": "NVDLC02DeadHorseTypeDisciple01",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1CE",
+      "FORMID": "00F1CE",
+      "EDID": "NVDLC02DeadHorseTypeDiscipleFem01",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F1E7",
+      "FORMID": "00F1E7",
+      "EDID": "NVDLC02WhiteLeg3WeapState01",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F37A",
+      "FORMID": "00F37A",
+      "EDID": "NVDLC02SorrowJFollower",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F37B",
+      "FORMID": "00F37B",
+      "EDID": "NVDLC02DeadHorseJFollower",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F386",
+      "FORMID": "00F386",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01b2",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F387",
+      "FORMID": "00F387",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01a2",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F38D",
+      "FORMID": "00F38D",
+      "EDID": "NVDLC02WhiteLegsTribalMQ03c",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F38E",
+      "FORMID": "00F38E",
+      "EDID": "NVDLC02WhiteLegsTribalMQ03d",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8A9",
+      "FORMID": "00F8A9",
+      "EDID": "NVDLC02DeadHorseWW",
+      "FULL": "Dois-Ursos-Cumprimentando"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010046",
+      "FORMID": "010046",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01c",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010050",
+      "FORMID": "010050",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01f",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010064",
+      "FORMID": "010064",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01g",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010135",
+      "FORMID": "010135",
+      "EDID": "NVDLC02Narrator",
+      "FULL": "Bob da Contabilidade"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010149",
+      "FORMID": "010149",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01g2",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01014A",
+      "FORMID": "01014A",
+      "EDID": "NVDLC02WhiteLegsTribalMQ01h",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010241",
+      "FORMID": "010241",
+      "EDID": "NVDLC02HappyTrailsCaravanGuardCM2",
+      "FULL": "Guarda da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010947",
+      "FORMID": "010947",
+      "EDID": "NVDLC02JoshuaYoung",
+      "FULL": "Joshua Graham"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010948",
+      "FORMID": "010948",
+      "EDID": "NVDLC02CaesarYounger",
+      "FULL": "Caesar"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BF5",
+      "FORMID": "010BF5",
+      "EDID": "NVDLC02WhiteLegsTribalMQ04a",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BF6",
+      "FORMID": "010BF6",
+      "EDID": "NVDLC02WhiteLegsTribalMQ04b",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CEA",
+      "FORMID": "010CEA",
+      "EDID": "NVDLC02WhiteLegMQ01Victim",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D1E",
+      "FORMID": "010D1E",
+      "EDID": "NVDLC02WhiteLegsGuardMQ03",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EAA",
+      "FORMID": "010EAA",
+      "EDID": "NVDLC02SorrowPineCreekWave03",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0099C3",
+      "FORMID": "0099C3",
+      "EDID": "NVDLC02WhiteLegsVictim01",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0099C7",
+      "FORMID": "0099C7",
+      "EDID": "NVDLC02DeadHorse3M",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E7B",
+      "FORMID": "009E7B",
+      "EDID": "NVDLC02Jed",
+      "FULL": "Jed Masterson"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3F4",
+      "FORMID": "00A3F4",
+      "EDID": "NVDLC02SorrowNarrowsCave",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A6",
+      "FORMID": "00A4A6",
+      "EDID": "NVDLC02WhiteLeg3MAAM",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A7",
+      "FORMID": "00A4A7",
+      "EDID": "NVDLC02WhiteLeg3MCM",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A8",
+      "FORMID": "00A4A8",
+      "EDID": "NVDLC02WhiteLeg3MAAMF",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A9",
+      "FORMID": "00A4A9",
+      "EDID": "NVDLC02WhiteLeg3MCMF",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4AA",
+      "FORMID": "00A4AA",
+      "EDID": "NVDLC02WhiteLeg3MSCMF",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4AB",
+      "FORMID": "00A4AB",
+      "EDID": "NVDLC02WhiteLeg3SMAAMF",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A60E",
+      "FORMID": "00A60E",
+      "EDID": "NVDLC02WhiteLegNarrows",
+      "FULL": "Tribo White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A639",
+      "FORMID": "00A639",
+      "EDID": "NVDLC02WhiteLeg3MAAMState01",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A63A",
+      "FORMID": "00A63A",
+      "EDID": "NVDLC02WhiteLeg3MCMFState01",
+      "FULL": "Arauto da Luz dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A63B",
+      "FORMID": "00A63B",
+      "EDID": "NVDLC02WhiteLeg3MCMState01",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A63C",
+      "FORMID": "00A63C",
+      "EDID": "NVDLC02WhiteLeg3MAAMFState01",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A854",
+      "FORMID": "00A854",
+      "EDID": "NVDLC02WhiteLegsSapperMQ03",
+      "FULL": "Sapeador dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A933",
+      "FORMID": "00A933",
+      "EDID": "NVDLC02WhiteLegDEAD",
+      "FULL": "Tribal dos White Legs Morto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A934",
+      "FORMID": "00A934",
+      "EDID": "NVDLC02DeadHorseNarrowsNightShift",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AAD5",
+      "FORMID": "00AAD5",
+      "EDID": "NVDLC02WhiteLegCMPool",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AAD6",
+      "FORMID": "00AAD6",
+      "EDID": "NVDLC02WhiteLegAAMFPool",
+      "FULL": "Fabricante de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AAD7",
+      "FORMID": "00AAD7",
+      "EDID": "NVDLC02WhiteLegCMFPool",
+      "FULL": "Batedor de Trovão dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AECC",
+      "FORMID": "00AECC",
+      "EDID": "NVDLC02DeadHorseCMF3M",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AECD",
+      "FORMID": "00AECD",
+      "EDID": "NVDLC02DeadHorseCM3M",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B256",
+      "FORMID": "00B256",
+      "EDID": "NVDLC02DeadHorseNarrowsDayShift",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3DA",
+      "FORMID": "00B3DA",
+      "EDID": "NVDLC02DeadhorseAAMF3MFollower",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3DB",
+      "FORMID": "00B3DB",
+      "EDID": "NVDLC02DeadHorseCMF3MFollower",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3DC",
+      "FORMID": "00B3DC",
+      "EDID": "NVDLC02DeadhorseAAM3MFollower",
+      "FULL": "Discípulo do Dead Horse de Canaan"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4CC",
+      "FORMID": "00B4CC",
+      "EDID": "NVDLC02SorrowMQ05b",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4CF",
+      "FORMID": "00B4CF",
+      "EDID": "NVDLC02SorrowMQ05c",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4D0",
+      "FORMID": "00B4D0",
+      "EDID": "NVDLC02MQ05bDancingFlame",
+      "FULL": "Chama Dançarina"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B5EA",
+      "FORMID": "00B5EA",
+      "EDID": "NVDLC02FollowsChalkTest",
+      "FULL": "Follows-Chalk"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B6A3",
+      "FORMID": "00B6A3",
+      "EDID": "NVDLC02SorrowPineCreek",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B6A4",
+      "FORMID": "00B6A4",
+      "EDID": "NVDLC02SorrowDEAD",
+      "FULL": "Tribal dos Sorrows morto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A5",
+      "FORMID": "00B7A5",
+      "EDID": "NVDLC02DeadhorseEVGuard01",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A6",
+      "FORMID": "00B7A6",
+      "EDID": "NVDLC02DeadHorseEVGuard02",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A7",
+      "FORMID": "00B7A7",
+      "EDID": "NVDLC02DeadhorseEV01",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A8",
+      "FORMID": "00B7A8",
+      "EDID": "NVDLC02DeadhorseEV02",
+      "FULL": "Guerreiro Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A9",
+      "FORMID": "00B7A9",
+      "EDID": "NVDLC02DeadHorseEV03",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7AA",
+      "FORMID": "00B7AA",
+      "EDID": "NVDLC02DeadHorseEV04",
+      "FULL": "Perseguidor de Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0096DC",
+      "FORMID": "0096DC",
+      "EDID": "NVDLC02SorrowMQ05",
+      "FULL": "Tribal das Mágoas Cativas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0096D7",
+      "FORMID": "0096D7",
+      "EDID": "NVDLC02WhiteLegsTribalMQ05a1",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009665",
+      "FORMID": "009665",
+      "EDID": "NVDLC02WakingCloud",
+      "FULL": "Nuvenzinha Acordada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D0",
+      "FORMID": "0094D0",
+      "EDID": "NVDLC02FollowsChalk",
+      "FULL": "Follows-Chalk"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CF",
+      "FORMID": "0094CF",
+      "EDID": "NVDLC02SorrowCMF",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CE",
+      "FORMID": "0094CE",
+      "EDID": "NVDLC02WhiteLegCMF",
+      "FULL": "Tribo White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CD",
+      "FORMID": "0094CD",
+      "EDID": "NVDLC02WhiteLegAAMF",
+      "FULL": "Tribo White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CC",
+      "FORMID": "0094CC",
+      "EDID": "NVDLC02DeadHorseCMF",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CB",
+      "FORMID": "0094CB",
+      "EDID": "NVDLC02DeadhorseAAMF",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094CA",
+      "FORMID": "0094CA",
+      "EDID": "NVDLC02SorrowAAMF",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094B9",
+      "FORMID": "0094B9",
+      "EDID": "NVDLC02SorrowShaman",
+      "FULL": "Pássaro Branco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009488",
+      "FORMID": "009488",
+      "EDID": "NVDLC02WhiteLegCM",
+      "FULL": "Tribo White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009487",
+      "FORMID": "009487",
+      "EDID": "NVDLC02WhiteLegAAM",
+      "FULL": "Tribo White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009484",
+      "FORMID": "009484",
+      "EDID": "NVDLC02DeadHorseCM",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009482",
+      "FORMID": "009482",
+      "EDID": "NVDLC02DeadhorseAAM",
+      "FULL": "Tribo do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009480",
+      "FORMID": "009480",
+      "EDID": "NVDLC02SorrowAAM",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00947F",
+      "FORMID": "00947F",
+      "EDID": "NVDLC02SorrowAM",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00947D",
+      "FORMID": "00947D",
+      "EDID": "NVDLC02SorrowCM",
+      "FULL": "Tribo dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093D9",
+      "FORMID": "0093D9",
+      "EDID": "NVDLC02WhiteLegsTribalMQ04",
+      "FULL": "Quebra-ossos dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A3A",
+      "FORMID": "008A3A",
+      "EDID": "NVDLC02SaltUponWounds",
+      "FULL": "Sal Sobre as Feridas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A39",
+      "FORMID": "008A39",
+      "EDID": "NVDLC02Joshua",
+      "FULL": "Joshua Graham"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A38",
+      "FORMID": "008A38",
+      "EDID": "NVDLC02Daniel",
+      "FULL": "Daniel"
+    }
+  ]
+}

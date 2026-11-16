@@ -1,0 +1,533 @@
+{
+  "MESG": [
+    {
+      "FORM": "@HonestHearts.esm:00CCF9",
+      "FORMID": "00CCF9",
+      "EDID": "NVDLC02WeapBindRitualEndMSG",
+      "DESC": "O Ritual de Ligação de Arma some da sua mente."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCFA",
+      "FORMID": "00CCFA",
+      "EDID": "NVDLC02WeapBindRitualMSG",
+      "FULL": "Ritual de Ligação de Arma",
+      "DESC": "Você sacrificou uma porção do sangue da sua vida para se tornar um com sua arma.\n\nSeus olhos serão perspicazes, seus membros não quebrarão e suas garras atacarão como um trovão.\n\nLute apenas com suas mãos ou com as armas de suas mãos para conhecer essa glória em combate."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D297",
+      "FORMID": "00D297",
+      "EDID": "NVDLC02ZionSCaveSElectricGeneratorMsg",
+      "FULL": "Gerador de Eletricidade",
+      "DESC": "Este gerador alimenta a carga elétrica da porta conectada.\n\nVocê não consegue destruir o gerador.\n\n[Armas Brancas ou Desarmado 50+]"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D299",
+      "FORMID": "00D299",
+      "EDID": "NVDLC02ZionSCaveSElectricGeneratorUMsg",
+      "FULL": "Gerador de Eletricidade",
+      "DESC": "Este gerador alimenta a carga elétrica da porta conectada.\n\nTalvez você consiga destruir o gerador.\n\n[Desarmado 50 ou superior necessário]",
+      "ITXT": [
+        "Deixe o gerador em paz.",
+        "Destrua o gerador."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D29A",
+      "FORMID": "00D29A",
+      "EDID": "NVDLC02ZionSCaveSElectricGeneratorMWMsg",
+      "FULL": "Gerador de Eletricidade",
+      "DESC": "Este gerador alimenta a carga elétrica da porta conectada.\n\nVocê pode conseguir destruir o gerador.\n\n[Armas Brancas 50 ou mais necessário]",
+      "ITXT": [
+        "Deixe o gerador em paz.",
+        "Destrua o gerador."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D331",
+      "FORMID": "00D331",
+      "EDID": "NVDLC02ZionSCaveSElectricSwitchMsg",
+      "FULL": "Fiação do Gerador de Eletricidade",
+      "DESC": "Esta fiação está preparada para descarregar eletricidade pela porta.\n\nVocê não consegue desarmar a fiação.\n\n[Reparo 50 ou mais necessário]"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D332",
+      "FORMID": "00D332",
+      "EDID": "NVDLC02ZionSCaveSElectricSwitchRMsg",
+      "FULL": "Fiação do Gerador de Eletricidade",
+      "DESC": "Esta fiação está preparada para descarregar eletricidade pela porta.\n\nVocê pode conseguir desarmar a fiação.\n\n[Reparo 50 ou mais necessário]",
+      "ITXT": [
+        "Deixe a fiação elétrica em paz.",
+        "Desarme a fiação elétrica."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D699",
+      "FORMID": "00D699",
+      "EDID": "NVDLC02JedDeathMessage",
+      "FULL": "Jed Morreu, Querida!",
+      "DESC": "Você matou Jed Masterson! Sem seus mapas e experiência em montanhismo, você nunca chegará a Zion!\n\n(Matar Jed tornou a DLC Corações Honestos inacessível. Por favor, recarregue seu último salvamento se quiser jogar a DLC Corações Honestos.)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DAAF",
+      "FORMID": "00DAAF",
+      "EDID": "NVDLC02WakingCloudAggroMessage",
+      "FULL": "Esmaga, Nuvem Desperta!",
+      "DESC": "< Algo em Nuvem Despertar muda e ela luta contra os White Legs com mais afinco agora. >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD60",
+      "FORMID": "00DD60",
+      "EDID": "NVDLC02WellStackedCairnsEffectActive",
+      "DESC": "Seus sentidos já estão aguçados por essa grande vista."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD61",
+      "FORMID": "00DD61",
+      "EDID": "NVDLC02WellStackedCairnsAddingEffect",
+      "DESC": "Aprimoramento \"Pilhas de Pedras Bem Empilhadas\" ativado pelo cume de Zion. Adicionando Sentidos Aguçados (+3 PER)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F078",
+      "FORMID": "00F078",
+      "EDID": "NVDLC02FollowsChalkPerkAddMsgFirst",
+      "DESC": "Follows-Chalk te deu a vantagem Montículos Bem Empilhados.\n\nEnquanto Follows-Chalk estiver no seu grupo, alcançar qualquer cume no Vale de Zion (como postos de patrulha) revelará todos os marcadores de mapa próximos e inspirará um estado de alerta elevado (+3 PER) por três minutos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F079",
+      "FORMID": "00F079",
+      "EDID": "NVDLC02WakingCloudPerkAddMsgFirst",
+      "DESC": "Waking Cloud concedeu a você a vantagem Silêncio como as Águas.\n\nEnquanto Waking Cloud estiver no seu grupo, é muito mais fácil se esgueirar pelos White Legs (a PER deles é diminuída)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F371",
+      "FORMID": "00F371",
+      "EDID": "NVDLC02LodgeCabinetKeyMessage",
+      "FULL": "Você encontrou uma chave!",
+      "DESC": "Você encontrou a chave do armário trancado na Cabana de Pesca de Zion!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F373",
+      "FORMID": "00F373",
+      "EDID": "NVDLC02StoreDeskKeyMessage",
+      "FULL": "Você encontrou uma chave!",
+      "DESC": "Você encontrou a chave da escrivaninha trancada na Loja Geral de Zion!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F374",
+      "FORMID": "00F374",
+      "EDID": "NVDLC02MorningGloryKeyMessage",
+      "FULL": "Você encontrou uma chave!",
+      "DESC": "Você encontrou a chave da porta na Caverna Glória da Manhã!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6FD",
+      "FORMID": "00F6FD",
+      "EDID": "NVDLC02MedicalKitMessage",
+      "FULL": "Kit Médico Contaminado",
+      "DESC": "Este kit médico está quase intacto, mas várias das bandagens esterilizadas foram abertas e o frasco de desinfetante está vazando. Você pode tentar aproveitar o que sobrou, ou pode encontrar substitutos para os componentes contaminados. Alternativamente, você pode usar álcool para reesterilizar as bandagens.\n\n[Medicina 30 ou mais necessária.]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Recupere o kit de suprimentos médicos.",
+        "Substitua os componentes contaminados.",
+        "Esterilize o kit com álcool.",
+        "Leve o kit médico incompleto com você."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6FF",
+      "FORMID": "00F6FF",
+      "EDID": "NVDLC02MedicalKitPartsMessage",
+      "FULL": "Kit Médico Contaminado",
+      "DESC": "Ao encontrar substituições para os componentes contaminados do kit, você pode colocá-lo em ordem de funcionamento com muito mais facilidade. \n[Requer uma Fita Isolante e uma Aguarrás]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Substituir componentes.",
+        "Esterilize o kit com álcool.",
+        "Recuperar sem substituições.",
+        "Leve o kit médico incompleto com você."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F700",
+      "FORMID": "00F700",
+      "EDID": "NVDLC02MedicalKitBoozeMessage",
+      "FULL": "Kit Médico Contaminado",
+      "DESC": "Com um álcool forte, você poderia esterilizar o kit em vez de substituir os componentes.\n\n[Requer um Scotch, um Vodka ou um Uísque\n.]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Substitua os componentes contaminados.",
+        "Esterilize o kit com álcool.",
+        "Recuperar sem substituições.",
+        "Leve o kit médico incompleto com você."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F701",
+      "FORMID": "00F701",
+      "EDID": "NVDLC02MedicalKitTakeMessage",
+      "FULL": "Recuperando Kits de Médico",
+      "DESC": "Se você não tiver as peças ou as habilidades para fazer reparos em campo, pode levar o kit médico contaminado para uma fogueira e reaproveitá-lo lá."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8BF",
+      "FORMID": "00F8BF",
+      "EDID": "NVDLC02JoshuaGrahamPerkAddMsgFirst",
+      "DESC": "Joshua Graham concedeu a você a habilidade O Caminho do Cananeu.\n\nEnquanto Joshua Graham estiver no seu grupo, qualquer pistola automática calibre .45 que você usar terá menos dispersão e terá o dobro de chances de acertar golpes críticos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8C0",
+      "FORMID": "00F8C0",
+      "EDID": "NVDLC02JoshuaGrahamLeaveMsg",
+      "DESC": "Joshua Graham deixou sua companhia."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8C1",
+      "FORMID": "00F8C1",
+      "EDID": "NVDLC02JoshuaGrahamPerkRemoveMsg",
+      "DESC": "Você perdeu a vantagem Caminho do Canaanita de Joshua Graham."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F905",
+      "FORMID": "00F905",
+      "EDID": "NVDLC02JoshuaGrahamPerkRemoveMsgDUPLICATE000",
+      "DESC": "Você perdeu a vantagem Caminho do Canaanita de Joshua Graham."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F906",
+      "FORMID": "00F906",
+      "EDID": "NVDLC02JoshuaGrahamPerkAddMsgFirstDUPLICATE000",
+      "DESC": "Joshua Graham concedeu a você a habilidade O Caminho do Cananeu.\n\nEnquanto Joshua Graham estiver no seu grupo, qualquer pistola automática calibre .45 que você usar terá menos dispersão e terá o dobro de chances de acertar golpes críticos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F907",
+      "FORMID": "00F907",
+      "EDID": "NVDLC02JoshuaGrahamLeaveMsgDUPLICATE000",
+      "DESC": "Joshua Graham deixou sua companhia."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01006B",
+      "FORMID": "01006B",
+      "EDID": "NVDLC02BighornerDead01",
+      "DESC": "Carneiros-Selvagens mortos 1\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01006C",
+      "FORMID": "01006C",
+      "EDID": "NVDLC02BighornerDead02",
+      "DESC": "Carneiros-Selvagens Mortos 2\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01006D",
+      "FORMID": "01006D",
+      "EDID": "NVDLC02BighornerDead03",
+      "DESC": "Carneiros-Selvagens mortos 3\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01006E",
+      "FORMID": "01006E",
+      "EDID": "NVDLC02BighornerDead04",
+      "DESC": "Carneiros-Selvagens Mortos 4\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01006F",
+      "FORMID": "01006F",
+      "EDID": "NVDLC02BighornerDead05",
+      "DESC": "Carneiros-Selvagens mortos 5\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010070",
+      "FORMID": "010070",
+      "EDID": "NVDLC02BighornerDead06",
+      "DESC": "Carneiros-Selvagens mortos 6\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010071",
+      "FORMID": "010071",
+      "EDID": "NVDLC02BighornerDead07",
+      "DESC": "Carneiros-Selvagens Mortos 7\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010072",
+      "FORMID": "010072",
+      "EDID": "NVDLC02BighornerCalfScaredMsg",
+      "DESC": "O filhote de Carneiro-Selvagem da Montanha está assustado, dê uma Fruta de Iúca-banana para ele?",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Dê uma Fruta de Iuca-banana."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:010073",
+      "FORMID": "010073",
+      "EDID": "NVDLC02BighornerDead08",
+      "DESC": "Carneiros-Selvagens Mortos 8\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010074",
+      "FORMID": "010074",
+      "EDID": "NVDLC02BighornerDead09",
+      "DESC": "Carneiro-Selvagems da Montanha Mortos 9\/9"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0101B6",
+      "FORMID": "0101B6",
+      "EDID": "NVDLC02NoCaravanMsg",
+      "DESC": "Você precisa viajar com a Caravana Trilhas Felizes na sua primeira jornada para o Vale de Zion."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0108A6",
+      "FORMID": "0108A6",
+      "EDID": "NVDLC02MQ03cC4Message",
+      "DESC": "Você precisa de explosivos de mineração para armar esta bomba."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0108A7",
+      "FORMID": "0108A7",
+      "EDID": "NVDLC02MQ02MedKitRepairMessage",
+      "FULL": "Como Consertar Coisas",
+      "DESC": "Se você não tiver as peças ou as habilidades para fazer reparos em campo, pode levar o kit médico para uma bancada e consertá-lo lá."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0108C0",
+      "FORMID": "0108C0",
+      "EDID": "NVDLC02CampfireNoActivateMSG",
+      "DESC": "Você não pode usar a fogueira em combate."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BEC",
+      "FORMID": "010BEC",
+      "EDID": "NVDLC02MQ05cDetonatorMSG",
+      "DESC": "Você precisa estar fora da caverna para detonar os explosivos de mineração com segurança."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C04",
+      "FORMID": "010C04",
+      "EDID": "NVDLC02FollowsChalkDeadMsg",
+      "DESC": "Follows-Chalk morreu."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C05",
+      "FORMID": "010C05",
+      "EDID": "NVDLC02WakingCloudDeadMsg",
+      "DESC": "Waking Cloud morreu."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D74",
+      "FORMID": "010D74",
+      "EDID": "NVDLC02MedicalKitNoQuestMessage",
+      "FULL": "Kit Médico Contaminado",
+      "DESC": "Este kit de suprimentos médicos está quase intacto, mas várias das bandagens esterilizadas foram abertas e o frasco de desinfetante está vazando."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D75",
+      "FORMID": "010D75",
+      "EDID": "NVDLC02BrokenCompassNoQuestMsg",
+      "FULL": "Bússola Quebrada",
+      "DESC": "Esta bússola está quebrada."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D9B",
+      "FORMID": "010D9B",
+      "EDID": "NVDLC02CaravanDeathMessage",
+      "FULL": "Caravaneiro Morto, Cara!",
+      "DESC": "Você matou um membro da Caravana Trilhas Felizes! Sem seus mapas e experiência em montanhismo, você nunca chegará a Zion!\n\n(Tornar-se inimigo da Caravana Trilhas Felizes tornou a DLC Corações Honestos inacessível. Por favor, recarregue seu último save se desejar jogar a DLC Corações Honestos.)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EA8",
+      "FORMID": "010EA8",
+      "EDID": "NVDLC02WhiteLegKeyMessage",
+      "FULL": "Você encontrou uma chave!",
+      "DESC": "Você encontrou a chave da prisão dos White Legs!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011203",
+      "FORMID": "011203",
+      "EDID": "NVDLC02NoWaitMsg",
+      "FULL": "Aviso!",
+      "DESC": "Esperar fará você perder eventos importantes - sua missão irá falhar."
+    },
+    {
+      "FORM": "@HonestHearts.esm:011206",
+      "FORMID": "011206",
+      "EDID": "NVDLC02BlackCoffeeCupBreakMSG",
+      "DESC": "Xícara de café preta quebrou"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011690",
+      "FORMID": "011690",
+      "EDID": "NVDLC02SnowGlobeMsg",
+      "DESC": "Esta bola de neve foi adicionada à coleção no Lucky 38."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117D4",
+      "FORMID": "0117D4",
+      "EDID": "NVDLC02MQ03cMSG",
+      "FULL": "Explosivos São Sempre Úteis",
+      "DESC": "Daniel te deu alguns explosivos de mineração pré-guerra e um detonador especial para eles. Eles não são úteis como armas, mas podem ser usados para desmoronar certas cavernas, se isso for necessário na sua exploração."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117E9",
+      "FORMID": "0117E9",
+      "EDID": "NVDLC02MQ05TunnelMSG",
+      "FULL": "Desabando o Túnel",
+      "DESC": "Daniel te deu um detonador programado para detonar o C4 posicionado acima da entrada do Túnel de Pine Creek. Acionar este detonador fará a passagem desabar e impedirá que os White Legs sigam Daniel e os Sorrows para fora de Zion."
+    },
+    {
+      "FORM": "@HonestHearts.esm:011800",
+      "FORMID": "011800",
+      "EDID": "NVDLC02SideQuestWarningMSG",
+      "FULL": "Sem Volta!",
+      "DESC": "Se você decidir se os Sorrows devem lutar ou fugir, sua decisão colocará o destino deles em movimento irrevogavelmente. Você não poderá concluir nenhuma missão restante em Zion depois de tomar sua decisão, então escolha sabiamente."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CA52",
+      "FORMID": "00CA52",
+      "EDID": "NVDLC02MQ02RepairMessage",
+      "FULL": "Como Consertar Coisas",
+      "DESC": "Se você não tiver as peças ou as habilidades para fazer reparos em campo, pode levar a bússola quebrada para uma bancada e consertá-la lá."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4AA",
+      "FORMID": "00B4AA",
+      "EDID": "NVDLC02HomeOnTheRangeMessage",
+      "DESC": "Você gostaria de fabricar ou dormir?",
+      "ITXT": [
+        "Fabricar",
+        "Dormir"
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB06",
+      "FORMID": "00AB06",
+      "EDID": "NVDLC02RepairCombatMsg",
+      "FULL": "Você está em Combate!",
+      "DESC": "Você não tem tempo para examinar este objeto no calor da batalha."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB05",
+      "FORMID": "00AB05",
+      "EDID": "NVDLC02BrokenWalkieTalkiePartsMsg",
+      "FULL": "Walkie-Talkie Quebrado",
+      "DESC": "Os eletrônicos deste walkie-talkie estão muito danificados. Se você os substituir, o processo será bem mais simples. Requer um monte de Sucata Eletrônica.",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Reparar com peças.",
+        "Reparar sem peças."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB04",
+      "FORMID": "00AB04",
+      "EDID": "NVDLC02BrokenCompassPartsMsg",
+      "FULL": "Bússola Quebrada",
+      "DESC": "Ao substituir o módulo de sensor queimado desta bússola em vez de ignorá-lo, você pode tornar o processo de reparo muito mais fácil.\n\n[Requer um Módulo Sensor de Bússola.]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Reparar com peças.",
+        "Reparar sem peças."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB02",
+      "FORMID": "00AB02",
+      "EDID": "NVDLC02BrokenWalkieTalkieMsg",
+      "FULL": "Walkie-Talkie Quebrado",
+      "DESC": "Este walkie-talkie está quebrado, mas pode possivelmente ser restaurado para um estado totalmente funcional.\n\n[Requer Reparo de 30 ou maior.]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Consertar o walkie-talkie.",
+        "Reparar com peças.",
+        "Leve o walkie-talkie quebrado com você."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB01",
+      "FORMID": "00AB01",
+      "EDID": "NVDLC02BrokenCompassMsg",
+      "FULL": "Bússola Quebrada",
+      "DESC": "Esta bússola está quebrada, mas pode ser restaurada para um estado totalmente funcional.\n\n[Requer reparo de 30 ou mais.]",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Consertar a bússola.",
+        "Reparar com peças.",
+        "Leve a bússola quebrada com você."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A6E3",
+      "FORMID": "00A6E3",
+      "EDID": "NVDLC02BighornerCalfDropMsg",
+      "DESC": "Devolver o filhote de Carneiro-Selvagem da Montanha?",
+      "ITXT": [
+        "Fique com o Bezerro",
+        "Devolver o Bezerro"
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A6DF",
+      "FORMID": "00A6DF",
+      "EDID": "NVDLC02BighornerCalfMsg",
+      "DESC": "Você encontrou o filhote de Bighorn Montanhês perdido. Parece faminto, quer dar uma Fruta-Iuca Banana para ele?",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Dê uma Fruta de Iuca-banana."
+      ]
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A671",
+      "FORMID": "00A671",
+      "EDID": "NVDLC02NoMapMsg",
+      "DESC": "Sem um mapa ou um guia, você não tem esperança de achar o caminho de volta para o Mojave Wasteland."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A2DC",
+      "FORMID": "00A2DC",
+      "EDID": "NVDLC02WakingCloudPerkAddMsg",
+      "DESC": "Waking Cloud concedeu a você a vantagem Silêncio como as Águas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A2DB",
+      "FORMID": "00A2DB",
+      "EDID": "NVDLC02WakingCloudPerkRemoveMsg",
+      "DESC": "Você perdeu a vantagem Calmaria das Águas de Nuvem Despertar."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A2DA",
+      "FORMID": "00A2DA",
+      "EDID": "NVDLC02WakingCloudLeaveMsg",
+      "DESC": "Waking Cloud voltou ao acampamento dos Sorrows."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FE9",
+      "FORMID": "009FE9",
+      "EDID": "NVDLC02FollowsChalkPerkRemoveMsg",
+      "DESC": "Você perdeu a vantagem Montículos Bem Empilhados de Follows-Chalk."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FE8",
+      "FORMID": "009FE8",
+      "EDID": "NVDLC02FollowsChalkPerkAddMsg",
+      "DESC": "Follows-Chalk concedeu a você a vantagem Cairns Bem Empilhados."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FE7",
+      "FORMID": "009FE7",
+      "EDID": "NVDLC02FollowsChalkLeaveMsg",
+      "DESC": "Follows-Chalk voltou para o acampamento dos Dead Horses."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A34",
+      "FORMID": "008A34",
+      "EDID": "NVDLC02LoadMessage02",
+      "FULL": "Corações Honestos",
+      "DESC": "A DLC \"Corações Honestos\" foi carregada. Seu limite de nível foi aumentado em 5."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A33",
+      "FORMID": "008A33",
+      "EDID": "NVDLC02LoadMessage01",
+      "FULL": "Expedição Trilhas Felizes",
+      "DESC": "Seu Pip-Boy captou uma transmissão de rádio da Companhia de Caravanas Trilhas Felizes. Eles estão procurando mais um membro para uma expedição ao Zion."
+    }
+  ]
+}

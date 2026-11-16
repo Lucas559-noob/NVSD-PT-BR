@@ -1,0 +1,190 @@
+{
+  "EXPL": [
+    {
+      "FORM": "@LonesomeRoad.esm:007484",
+      "FORMID": "007484",
+      "EDID": "NVDLC04FlashBangExplosion",
+      "FULL": "Explosão Ofuscante"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00748A",
+      "FORMID": "00748A",
+      "EDID": "NVDLC04LargeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007DAD",
+      "FORMID": "007DAD",
+      "EDID": "NVDLC04DivideRumble",
+      "FULL": "Tumulto em Divide"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007DAE",
+      "FORMID": "007DAE",
+      "EDID": "NVDLC04DivideCaveInRumble",
+      "FULL": "Tumulto em Divide"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00935F",
+      "FORMID": "00935F",
+      "EDID": "NVDLC04RedGlareMissileExplosion",
+      "FULL": "Explosão do Míssil Red Glare"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00938A",
+      "FORMID": "00938A",
+      "EDID": "NVDLC04EyebotSpawnExplosion",
+      "FULL": "Explosão de Surgimento de Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00973E",
+      "FORMID": "00973E",
+      "EDID": "NVDLC04Silo02ElevatorExplosionBig",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C9E",
+      "FORMID": "009C9E",
+      "EDID": "NVDLC04Silo02LaunchExplosionBig",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C9F",
+      "FORMID": "009C9F",
+      "EDID": "NVDLC04Silo02LaunchExplosionSmall",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7BF",
+      "FORMID": "00A7BF",
+      "EDID": "NVDLC04EDEReleaseExplosion",
+      "FULL": "Faísca Vital"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A8DF",
+      "FORMID": "00A8DF",
+      "EDID": "NVDLC04WarheadNukeExplosion",
+      "FULL": "Explosão da Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD11",
+      "FORMID": "00AD11",
+      "EDID": "NVDLC04Silo02ElevatorExplosionSpecial",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD4B",
+      "FORMID": "00AD4B",
+      "EDID": "NVDLC04EDEZapExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B4EC",
+      "FORMID": "00B4EC",
+      "EDID": "NVDLC04WarheadExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6BF",
+      "FORMID": "00B6BF",
+      "EDID": "NVDLC04Silo02Explosion",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B997",
+      "FORMID": "00B997",
+      "EDID": "NVDLC04MissileExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BE00",
+      "FORMID": "00BE00",
+      "EDID": "NVDLC04TempleRumble",
+      "FULL": "Estrondo no Templo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C229",
+      "FORMID": "00C229",
+      "EDID": "NVDLC04TempleExplosion",
+      "FULL": "Explosão no Túnel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C364",
+      "FORMID": "00C364",
+      "EDID": "NVDLC04CarSmallNukeExplosion",
+      "FULL": "Explosão Nuclear"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C76B",
+      "FORMID": "00C76B",
+      "EDID": "NVDLC04Silo01MaintBotExplosion",
+      "FULL": "Explosão do Olho-Robô de Manutenção"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CAA1",
+      "FORMID": "00CAA1",
+      "EDID": "NVDLC0440mmGrenadeExplosionCustom",
+      "FULL": "Explosão de Granada 40mm"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CFE0",
+      "FORMID": "00CFE0",
+      "EDID": "DLC04EDEArcExplosionSmall",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D271",
+      "FORMID": "00D271",
+      "EDID": "NVDLC04DivideRumbleNoSound",
+      "FULL": "Tumulto em Divide"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D27A",
+      "FORMID": "00D27A",
+      "EDID": "NVDLC04MissileRobotExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D7AE",
+      "FORMID": "00D7AE",
+      "EDID": "NVDLC04TempleMMExplosion",
+      "FULL": "Explosão dos Homens Marcados do Templo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DBEE",
+      "FORMID": "00DBEE",
+      "EDID": "NVDLC04ArcWelderExplosion",
+      "FULL": "Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DBF0",
+      "FORMID": "00DBF0",
+      "EDID": "NVDLC04FlashBangExplosionNoDMG",
+      "FULL": "Explosão Ofuscante"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DC00",
+      "FORMID": "00DC00",
+      "EDID": "NVDLC04TunnelerPoisonExplosion",
+      "FULL": "Explosão da Morte do Escavador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DCDA",
+      "FORMID": "00DCDA",
+      "EDID": "NVDLC04SatchelChargeExplosion",
+      "FULL": "Explosão de Fragmentação"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DFDA",
+      "FORMID": "00DFDA",
+      "EDID": "NVDLC04RedGlareMissileExplosionIncendiary",
+      "FULL": "Explosão do Míssil Red Glare"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DFDB",
+      "FORMID": "00DFDB",
+      "EDID": "NVDLC04RedGlareMissileExplosionHE",
+      "FULL": "Explosão do Míssil Red Glare"
+    }
+  ]
+}

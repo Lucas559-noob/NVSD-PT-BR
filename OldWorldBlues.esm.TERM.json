@@ -1,0 +1,845 @@
+{
+  "TERM": [
+    {
+      "FORM": "@OldWorldBlues.esm:003E36",
+      "FORMID": "003E36",
+      "EDID": "NVDLC03X8Terminal01",
+      "FULL": "Terminal de Testes X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Inserir Recuperação de Dados Institucionais",
+          "Entrar no Teste do Cão-Guarda Cibernético Residencial",
+          "Entrar no Teste do Cão-Guarda Cibernético Residencial",
+          "Resultados do Teste do Espécime Incomum"
+        ],
+        "RNAM": [
+          "Area Loaded...",
+          "Abnormal Readings... Caution When Entering",
+          "Retrieving Results..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004902",
+      "FORMID": "004902",
+      "EDID": "NVDLC03SinkResearchTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Projetos de Pesquisa",
+          "Entradas de Registro",
+          "Requisitar Suprimentos e Equipamentos"
+        ],
+        "RNAM": [
+          "Acessando projetos de pesquisa atuais...",
+          "Acessando registros...",
+          "Acessando suprimentos disponíveis..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009797",
+      "FORMID": "009797",
+      "EDID": "NVDLC03X8Terminal02",
+      "FULL": "Terminal do Canil X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Liberar Cães Cibernéticos",
+          "Soltar Espécime Incomum",
+          "Departamento de Expedição: Remessa Incomum",
+          "Departamento de Remessas: Favor Informar",
+          "Departamento de Expedição em Bloqueio",
+          "Sobre o Bloqueio do Departamento de Remessas"
+        ],
+        "RNAM": [
+          "Soltando Cães...",
+          "Liberando Espécime..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D44",
+      "FORMID": "009D44",
+      "EDID": "NVDLC03X8Terminal03",
+      "FULL": "Terminal Principal X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Informações do Sujeito de Teste X-8",
+          "Memorando Interno de Teste Institucional X-8",
+          "Memorando Interno de Teste Residencial X-8"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D46",
+      "FORMID": "009D46",
+      "EDID": "NVDLC03X8Terminal04",
+      "FULL": "Terminal da Instalação de Emenda X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Regras de Enxerto Biomecânico",
+          "Misturar Robô e Cão",
+          "Misturar Robô e Cão",
+          "Misturar Robô e Cão",
+          "Enxerto de Lobotomizado e Robô",
+          "Enxerto de Lobotomizado e Robô",
+          "Enxertar Lobotomizado e Cão",
+          "Enxertar Lobotomizado e Cão",
+          "Robô de Emenda e Espécime Incomum",
+          "Robô de Emenda e Espécime Incomum",
+          "Limpar Área de Emenda",
+          "Desativar a Segurança da Sala de Emendas"
+        ],
+        "RNAM": [
+          "Initiating Splicing Procedure...",
+          "Insufficient Supplies",
+          "Restocking...",
+          "Initiating Splicing Procedure...",
+          "Restocking...",
+          "Initiating Splicing Procedure...",
+          "Restocking...",
+          "Initiating Splicing Procedure...",
+          "Restocking...",
+          "Initiating Clean Up...",
+          "Security Disabled..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB58",
+      "FORMID": "00BB58",
+      "EDID": "NVDLC03X13TestNotesTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Boas-vindas, Assistente Paris.",
+      "MENU": {
+        "ITXT": [
+          "Parabéns!",
+          "RE: Observações do Sujeito de Teste",
+          "RE: RE: RE: Observações do Sujeito de Teste",
+          "Enc: Re: Protótipo de Canhão de Campanha"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB59",
+      "FORMID": "00BB59",
+      "EDID": "NVDLC03X13TestTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": ">\\ Bem-vindo, Dra. Calis",
+      "MENU": {
+        "ITXT": [
+          "Pesquisa sobre Perseguidor Noturnos",
+          "Farejador de Servidor - FW: RE: Teste de RV",
+          "Aviso de Envio X-13",
+          "Observações do Sujeito de Teste",
+          "RE: RE: Observações do Sujeito de Teste"
+        ],
+        "RNAM": [
+          "Exibindo Anotações de Pesquisa",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB5A",
+      "FORMID": "00BB5A",
+      "EDID": "NVDLC03X13TestParametersTerminal",
+      "FULL": "Terminal",
+      "DESC": "Por favor, selecione uma das seguintes opções:",
+      "MENU": {
+        "ITXT": [
+          "Iniciar Teste Básico de Infiltração",
+          "Repetir Teste Básico de Infiltração",
+          "Repetir Teste Básico de Infiltração",
+          "Iniciar Teste de Infiltração Avançado",
+          "Repetir Teste Avançado de Infiltração",
+          "Repetir Teste Avançado de Infiltração",
+          "Começar Teste de Infiltração de Especialista",
+          "Repetir Teste de Infiltração de Especialista",
+          "Repetir Teste de Infiltração de Especialista",
+          "Iniciar Teste de Conformidade Robótica",
+          "Refazer Teste de Conformidade do Robô",
+          "Refazer Teste de Conformidade do Robô"
+        ],
+        "RNAM": [
+          "Grade de Detecção Simples X-13 Online.",
+          "Grade de Detecção Simples X-13 Online.",
+          "Grade de Detecção Simples X-13 Online.",
+          "Grade de Detecção X-13 Online.",
+          "Grade de Detecção X-13 Online.",
+          "Grade de Detecção X-13 Online.",
+          "Grade de Detecção Avançada X-13 Online.",
+          "Grade de Detecção Avançada X-13 Online.",
+          "Grade de Detecção Avançada X-13 Online.",
+          "Robocérebros Táticos Implantados.",
+          "Robocérebros Táticos Implantados.",
+          "Robocérebros Táticos Implantados."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB61",
+      "FORMID": "00BB61",
+      "EDID": "NVDLC03X8TurretTermSchool02",
+      "FULL": "Sistema de Controle da Torre X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB62",
+      "FORMID": "00BB62",
+      "EDID": "NVDLC03X8TurretTermSchool01",
+      "FULL": "Sistema de Controle da Torre X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Reconfigurar Parâmetros de Alvo",
+          "<!>AVISO: Sem Dados de Mira<!>",
+          "Ativar Sistema de Torreta",
+          "Desativar Sistema de Torreta"
+        ],
+        "RNAM": [
+          "Dados do Alvo apagados. Tenha Cuidado.",
+          "<!>Tenha Cautela<!>",
+          "Iniciando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E0DC",
+      "FORMID": "00E0DC",
+      "EDID": "NVDLC03X8SchoolTerminal02",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede de Ensino Médio Americana ****",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Registros de Alunos"
+        ],
+        "RNAM": [
+          "Obtendo Registros..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E0DD",
+      "FORMID": "00E0DD",
+      "EDID": "NVDLC03X8SchoolTerminal03",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede de Ensino Médio Americana ****",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Registros de Alunos"
+        ],
+        "RNAM": [
+          "Obtendo Registros..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E0DE",
+      "FORMID": "00E0DE",
+      "EDID": "NVDLC03X8SchoolTerminal01",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede de Ensino Médio Americana ****",
+      "MENU": {
+        "ITXT": [
+          "Recuperar Registros de Alunos"
+        ],
+        "RNAM": [
+          "Obtendo Registros..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E23F",
+      "FORMID": "00E23F",
+      "EDID": "NVDLC03X8TunnelTerminal",
+      "FULL": "Terminal do Observatório X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Pedido de Assistência X-12",
+          "Assistência concedida",
+          "K9000 Cybercão Selada em X-12"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E36E",
+      "FORMID": "00E36E",
+      "EDID": "NVDLC03X13ElevatorDoorTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Instalação X-13, Projeto 'Sangue Azul'\n\n>\\ Verificando assinaturas de trajes autorizados...",
+      "MENU": {
+        "ITXT": [
+          "Destravar Elevador para Câmara de Teste",
+          "Destravar Elevador para Câmara de Teste"
+        ],
+        "RNAM": [
+          "Acesso Negado.",
+          "Porta do Elevador Destrancada."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E641",
+      "FORMID": "00E641",
+      "EDID": "NVDLC03X42TurretTerminal",
+      "FULL": "Sistema de Controle de Torreta",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Novo Alvo: Robo-Escorpião Gigante X-42"
+        ],
+        "RNAM": [
+          "Alterando os parâmetros do alvo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F086",
+      "FORMID": "00F086",
+      "EDID": "NVDLC03X8Terminal01Sub",
+      "FULL": "Terminal de Testes X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Teste Básico",
+          "Repetir Teste Básico",
+          "Teste Avançado",
+          "Teste Avançado",
+          "Repetir Teste Avançado",
+          "Repetir Teste Avançado"
+        ],
+        "RNAM": [
+          "Área Carregada...",
+          "Área Carregada...",
+          "Área Carregada...",
+          "Sujeito de Teste Equipado Incorretamente...",
+          "Área Carregada...",
+          "Sujeito de Teste Equipado Incorretamente..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F444",
+      "FORMID": "00F444",
+      "EDID": "NVDLC03X42DroneTerminal",
+      "FULL": "Terminal de Controle de Drone",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Registro de Teste do Robo-Escorpião Gigante X-42",
+          "Registro de Eficácia de Drones-Alvo",
+          "Ativar Drones Alvo"
+        ],
+        "RNAM": [
+          "Acessando o registro...",
+          "Acessando o registro...",
+          "Ligando os drones..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F447",
+      "FORMID": "00F447",
+      "EDID": "NVDLC03X42PowerTerminal",
+      "FULL": "Terminal de Regulagem de Energia",
+      "DESC": "**** Rede de Pesquisa Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Registro do Gerador de Emergência",
+          "Ativar Gerador Reserva"
+        ],
+        "RNAM": [
+          "Acessando o registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F448",
+      "FORMID": "00F448",
+      "EDID": "NVDLC03X42PowerTerminalSub",
+      "FULL": "Terminal",
+      "DESC": "AVISO: Ativar a energia de reserva nesta fase pode danificar ou destruir o protótipo.\n\nTem certeza de que deseja prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim"
+        ],
+        "RNAM": [
+          "Ativando energia de reserva..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F993",
+      "FORMID": "00F993",
+      "EDID": "NVDLC03X42ShutdownTerminal",
+      "FULL": "Terminal de Desativação de Emergência",
+      "DESC": "**** Rede de Pesquisa Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Registro de Procedimento de Desligamento de Emergência",
+          "Iniciar Desligamento de Emergência"
+        ],
+        "RNAM": [
+          "Acessando o registro...",
+          "Iniciando desligamento de emergência..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA9",
+      "FORMID": "012BA9",
+      "EDID": "NVDLC03X13RepconTerminalC",
+      "FULL": "Terminal do Técnico",
+      "DESC": ">\\ Boas-vindas, Técnico Skinner.",
+      "MENU": {
+        "ITXT": [
+          "Enc: Re: Protótipo de Canhão de Campanha",
+          "Sugestão."
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAA",
+      "FORMID": "012BAA",
+      "EDID": "NVDLC03X13RepconTerminalB",
+      "FULL": "Terminal",
+      "DESC": ">\\ Boas-vindas, Técnico Slough.",
+      "MENU": {
+        "ITXT": [
+          "Sugestão.",
+          "Enc: Re: Protótipo de Canhão de Campanha"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAB",
+      "FORMID": "012BAB",
+      "EDID": "NVDLC03X13RepconTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Pesquisador Mendoza.",
+      "MENU": {
+        "ITXT": [
+          "Que merda é essa...?!",
+          "Dá uma olhada nessa modificação em que tenho trabalhado!",
+          "Enc: Re: Protótipo de Canhão de Campanha"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAC",
+      "FORMID": "012BAC",
+      "EDID": "NVDLC03X13LabTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo, Pesquisador Butz.",
+      "MENU": {
+        "ITXT": [
+          "Tira a bunda da cadeira, Butz!",
+          "Enc: Re: Protótipo de Canhão de Campanha"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAD",
+      "FORMID": "012BAD",
+      "EDID": "NVDLC03X13SuitChestTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": ">\\ Bem-vindo, Pesquisador Mori.",
+      "MENU": {
+        "ITXT": [
+          "Enc: Re: Protótipo de Canhão de Campanha",
+          "Pesquisa de Torso Mk II"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Anotação..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAE",
+      "FORMID": "012BAE",
+      "EDID": "NVDLC03X13SuitBootsTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": ">\\ Bem-vindo, Pesquisador Redding.",
+      "MENU": {
+        "ITXT": [
+          "Enc: Re: Protótipo de Canhão de Campanha",
+          "Pesquisa de Bota Mk II"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Anotação..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BAF",
+      "FORMID": "012BAF",
+      "EDID": "NVDLC03X13SuitArmsTerminal",
+      "FULL": "Terminal de Pesquisa",
+      "DESC": ">\\ Bem-vindo, Pesquisador Brazos.",
+      "MENU": {
+        "ITXT": [
+          "Enc: Re: Protótipo de Canhão de Campanha",
+          "Pesquisa da Luva Mk II"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Anotação..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BB0",
+      "FORMID": "012BB0",
+      "EDID": "NVDLC03X13TestObservationTerminalA",
+      "FULL": "Terminal de Gravação de Teste",
+      "DESC": ">\\ Bem-vindo, Assistente Mendoza.",
+      "MENU": {
+        "ITXT": [
+          "Área de Teste A - Revisão",
+          "Que merda é essa...?!"
+        ],
+        "RNAM": [
+          "Exibindo Dados...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BB1",
+      "FORMID": "012BB1",
+      "EDID": "NVDLC03X13FieldGunTerminal",
+      "FULL": "Terminal de Segurança",
+      "DESC": "Instalação X-13, Projeto 'Sangue Azul'\n\n>\\ Bem-vindo, Capitão Hamm.",
+      "MENU": {
+        "ITXT": [
+          "RE: Aviso de Remessa X-13",
+          "Enc: Re: Protótipo de Canhão de Campanha"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C79",
+      "FORMID": "012C79",
+      "EDID": "NVDLC03X13RepconTerminalD",
+      "FULL": "Terminal do Técnico",
+      "DESC": ">\\ Bem-vindo, Pesquisador Chayanov.",
+      "MENU": {
+        "ITXT": [
+          "Enc: Re: Protótipo de Canhão de Campanha",
+          "Observações do Teste"
+        ],
+        "RNAM": [
+          "Exibindo Mensagem...",
+          "Exibindo Mensagem..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141F2",
+      "FORMID": "0141F2",
+      "EDID": "NVDLC03WeatherStationTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Iniciar Teste de Clima",
+          "Fim do Teste Climático"
+        ],
+        "RNAM": [
+          "Iniciando...",
+          "Desligando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142C7",
+      "FORMID": "0142C7",
+      "EDID": "NVDLC03X8SchoolTerminal01Sub",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede da Escola Secundária Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Recupere as notas do meio de período de Richie Marcus"
+        ],
+        "RNAM": [
+          "Registros Adquiridos..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142C8",
+      "FORMID": "0142C8",
+      "EDID": "NVDLC03X8SchoolTerminal02Sub",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede do Ensino Médio de Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Recupere a agenda de Cherie O'Bannon"
+        ],
+        "RNAM": [
+          "Registros Adquiridos..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142C9",
+      "FORMID": "0142C9",
+      "EDID": "NVDLC03X8SchoolTerminal03Sub",
+      "FULL": "Terminal de Testes Institucionais X-8",
+      "DESC": "**** Rede do Ensino Médio de Grande Montanha ****",
+      "MENU": {
+        "ITXT": [
+          "Recupere os Registros de Betsy Bright"
+        ],
+        "RNAM": [
+          "Registros Adquiridos..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014EA7",
+      "FORMID": "014EA7",
+      "EDID": "NVDLC03X8SchoolTerminalTest2",
+      "FULL": "Terminal de Download do Disruptor de Campo",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Dados do Emissor Sônico",
+          "Dados do Emissor Sônico"
+        ],
+        "RNAM": [
+          "Baixando...",
+          "Módulo Baixado Anteriormente..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014EA8",
+      "FORMID": "014EA8",
+      "EDID": "NVDLC03X8SchoolTerminalTest2Sub",
+      "FULL": "Terminal de Download do Disruptor de Campo",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Download do Módulo de Onda de Pulso EM"
+        ],
+        "RNAM": [
+          "Módulo Baixado..."
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015322",
+      "FORMID": "015322",
+      "EDID": "NVDLC03X13TestSelectionTerminal",
+      "FULL": "Terminal de Teste",
+      "DESC": "Por favor, selecione uma das seguintes opções:",
+      "MENU": {
+        "ITXT": [
+          "Começar Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Exibir Status do Teste",
+          "Seleção de Teste"
+        ],
+        "RNAM": [
+          "Por favor, equipe o Traje Furtivo Mk II.",
+          "Teste Básico de Infiltração em Andamento...",
+          "Teste Básico de Infiltração em Andamento",
+          "Teste de Infiltração Avançado em Andamento...",
+          "Teste de Infiltração Avançado em Andamento",
+          "Teste de Infiltração de Especialista em Andamento...",
+          "Teste de Infiltração Perito em Andamento",
+          "Teste de Conformidade Robótica em Andamento...",
+          "Teste de Conformidade Robótica em Andamento"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015908",
+      "FORMID": "015908",
+      "EDID": "NVDLC03SLYOTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Ordem de Requisição: Distribuidores",
+          "Atualização de Financiamento do Dispensador"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015909",
+      "FORMID": "015909",
+      "EDID": "NVDLC03SLY17Terminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Sierra Madre: Caso de Teste?",
+          "Resultados dos Testes do Arnês de Trauma Y-17",
+          "Itens de Ação do Arnês de Trauma Y-17"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01590A",
+      "FORMID": "01590A",
+      "EDID": "NVDLC03SLHologramTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Ordem de Requisição: Hologramas",
+          "Relatório de Progresso do Holograma de Vera Keyes"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01590B",
+      "FORMID": "01590B",
+      "EDID": "NVDLC03SLChemicalTerminal",
+      "FULL": "Terminal",
+      "DESC": ">\\ Bem-vindo(a), USUÁRIO(A)",
+      "MENU": {
+        "ITXT": [
+          "Ordem de Requisição: Trajes Químicos"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015CC6",
+      "FORMID": "015CC6",
+      "EDID": "NVDLC03X8Terminal05",
+      "FULL": "Terminal Principal X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Módulo de Onda de Pulso EM Emprestado",
+          "Projeto: Burke e Projeto: Hare",
+          "Lembrete Importante para Mim Mesmo"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015CC7",
+      "FORMID": "015CC7",
+      "EDID": "NVDLC03X8TunnelTerminal02",
+      "FULL": "Terminal do Observatório X-8",
+      "DESC": "**** Rede de Pesquisa de Grande Montanha ****\n Instalação de Testes Biomecânicos X-8",
+      "MENU": {
+        "ITXT": [
+          "Departamento de Expedição: Remessa Incomum",
+          "Departamento de Remessas: Favor Informar",
+          "Departamento de Expedição em Bloqueio",
+          "Sobre o Bloqueio do Departamento de Remessas"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016051",
+      "FORMID": "016051",
+      "EDID": "NVDLC03YangtzeTerminal",
+      "FULL": "Terminal de Registros de Little Yangtze",
+      "MENU": {
+        "ITXT": [
+          "Registro 01",
+          "Entrada do Registro 02",
+          "Entrada do Diário 03",
+          "Diário de Elijah - Dia 2",
+          "Diário de Elijah - Dia 3",
+          "Diário de Elijah - Dia 4",
+          "Diário de Elijah - Dia 4 - Adendo"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01688F",
+      "FORMID": "01688F",
+      "EDID": "NVDLC03X12Terminal",
+      "FULL": "Terminal X-12",
+      "DESC": "**** Rede de Pesquisa Grande Montanha ****\n Centro de Pesquisa X-12",
+      "MENU": {
+        "ITXT": [
+          "Pedido de Assistência X-12",
+          "Assistência concedida",
+          "K9000 Cybercão Selada em X-12"
+        ]
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015810",
+      "FORMID": "015810",
+      "EDID": "NVDLC03X13DoorTerminal",
+      "FULL": "Terminal",
+      "DESC": "SoftLock Solutions, Inc\n\"Sua Segurança é Nossa Segurança\"\n>\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@LonesomeRoad.esm:003E28",
+      "FORMID": "003E28",
+      "EDID": "NVDLC04MQ02aTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0046E8",
+      "FORMID": "0046E8",
+      "EDID": "NVDLC04SiloBlastDoorControls",
+      "FULL": "Controles da Porta Antiexplosão do Silo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007486",
+      "FORMID": "007486",
+      "EDID": "NVDLC04Warhead",
+      "FULL": "Ogiva",
+      "XATO": "Examinar Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008470",
+      "FORMID": "008470",
+      "EDID": "NVDLC04Silo1EDETrigger01",
+      "FULL": "Silo de Energia do EDE"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00868D",
+      "FORMID": "00868D",
+      "EDID": "NVDLC04LaunchControlActivator",
+      "FULL": "Estação de Controle"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008690",
+      "FORMID": "008690",
+      "EDID": "NVDLC04MQ01cTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087E0",
+      "FORMID": "0087E0",
+      "EDID": "NVDLC04UlyssesTrigger1",
+      "FULL": "Gatilho EDE Ulysses da Estrada01"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087E3",
+      "FORMID": "0087E3",
+      "EDID": "NVDLC04UlyssesTrigger2",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00891D",
+      "FORMID": "00891D",
+      "EDID": "NVDLC04Road01ExitCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00894D",
+      "FORMID": "00894D",
+      "EDID": "NVDLC04Silo01Floor02AwakenBotTrigger",
+      "FULL": "Ativar Robô"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00894E",
+      "FORMID": "00894E",
+      "EDID": "NVDLC04Silo01MainframeONOFF",
+      "FULL": "Controles do Mainframe do Silo de Hopeville"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00894F",
+      "FORMID": "00894F",
+      "EDID": "NVDLC04Silo1EDEMainframeActivateTrigger",
+      "FULL": "Gatilho AddScriptPackage EDE"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089F1",
+      "FORMID": "0089F1",
+      "EDID": "NVDLC04Road01MMCamp01GuardsAwakenTrigger",
+      "FULL": "Guarda Duadz, acorde."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089F2",
+      "FORMID": "0089F2",
+      "EDID": "NVDLC04Road01Camp01CodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089F3",
+      "FORMID": "0089F3",
+      "EDID": "NVDLC04Road01MMCamp01Scout01AwakenTrigger",
+      "FULL": "Acorde, Escoteiro Dood"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008BA5",
+      "FORMID": "008BA5",
+      "EDID": "NVDLC04Silo01RevealCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E0E",
+      "FORMID": "008E0E",
+      "EDID": "NVDLC04Silo01CodeHolder",
+      "FULL": "Show do Silo Direto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008EF0",
+      "FORMID": "008EF0",
+      "EDID": "NVDLC04Road01EDEWarheadRevealTrigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008EF1",
+      "FORMID": "008EF1",
+      "EDID": "NVDLC04Road01StartCodeHolder",
+      "FULL": "Exibir Hopeville Direto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008FA7",
+      "FORMID": "008FA7",
+      "EDID": "NVDLC04DivideSniperWarhead01",
+      "FULL": "Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008FA8",
+      "FORMID": "008FA8",
+      "EDID": "NVDLC04DivideSniperWarhead03",
+      "FULL": "Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008FA9",
+      "FORMID": "008FA9",
+      "EDID": "NVDLC04DivideSniperWarhead02",
+      "FULL": "Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008FE7",
+      "FORMID": "008FE7",
+      "EDID": "NVDLC04Road01MidCodeHolder",
+      "FULL": "Exibir Hopeville Direto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008FE8",
+      "FORMID": "008FE8",
+      "EDID": "NVDLC04Road01MMCamp02Scout01AwakenTrigger",
+      "FULL": "Acorde, Escoteiro Dood"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009144",
+      "FORMID": "009144",
+      "EDID": "NVDLC04WarheadSide",
+      "FULL": "Ogiva",
+      "XATO": "Examinar Ogiva"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00923B",
+      "FORMID": "00923B",
+      "EDID": "NVDLC04SlideShowTrigger",
+      "FULL": "Gatilho de Apresentação de Slides"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009301",
+      "FORMID": "009301",
+      "EDID": "NVDLC04Silo01MaintenanceBot01",
+      "FULL": "Robô de Manutenção"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009302",
+      "FORMID": "009302",
+      "EDID": "NVDLC04Silo01MaintenanceBot02",
+      "FULL": "Robô de Manutenção"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009383",
+      "FORMID": "009383",
+      "EDID": "NVDLC04TempleEyebotControl01",
+      "FULL": "Console de Controle do Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009384",
+      "FORMID": "009384",
+      "EDID": "NVDLC04TempleEyebotControl02",
+      "FULL": "Console de Controle do Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00941A",
+      "FORMID": "00941A",
+      "EDID": "NVDLC04Silo01BowieKnifeCodeHolder",
+      "FULL": "Diversão com Faca Bowie"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00941B",
+      "FORMID": "00941B",
+      "EDID": "NVDLC04TunnelTunnelerScareTrigger",
+      "FULL": "Despertar Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00941C",
+      "FORMID": "00941C",
+      "EDID": "NVDLC04TunnelSoundScareTrigger",
+      "FULL": "Dar Nos Nervos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00941D",
+      "FORMID": "00941D",
+      "EDID": "NVDLC04TunnelCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009493",
+      "FORMID": "009493",
+      "EDID": "NVDLC04TunnelSoundScare02Trigger",
+      "FULL": "Dar Nos Nervos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009494",
+      "FORMID": "009494",
+      "EDID": "NVDLC04TunnelSoundCreepTrigger",
+      "FULL": "Dar Nos Nervos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009495",
+      "FORMID": "009495",
+      "EDID": "NVDLC04TunnelFinaleTrigger",
+      "FULL": "Dar Nos Nervos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950C",
+      "FORMID": "00950C",
+      "EDID": "NVDLC04EDEAccessPoint",
+      "FULL": "Ponto de Acesso ED-E"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00974A",
+      "FORMID": "00974A",
+      "EDID": "NVDLC04Silo02ElevatorExplosionsCodeHolder",
+      "FULL": "Explosões Diretas de Elevador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00974B",
+      "FORMID": "00974B",
+      "EDID": "NVDLC04Silo02ElevatorCodeHolder",
+      "FULL": "Mostrar Elevador Direto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099FF",
+      "FORMID": "0099FF",
+      "EDID": "NVDLC04Silo02EntranceTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C2C",
+      "FORMID": "009C2C",
+      "EDID": "NVDLC04Silo2ElevatorControls",
+      "FULL": "Controles do Elevador do Silo Ashton"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C94",
+      "FORMID": "009C94",
+      "EDID": "NVDLC04TempleLaunchTerminal",
+      "FULL": "Terminal de Lançamento de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009FEA",
+      "FORMID": "009FEA",
+      "EDID": "NVDLC04DyingBreathNote",
+      "FULL": "Nota do Último Suspiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A32B",
+      "FORMID": "00A32B",
+      "EDID": "NVDLC04TunnelSoundScare03Trigger",
+      "FULL": "Dar Nos Nervos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A386",
+      "FORMID": "00A386",
+      "EDID": "NVDLC04Road02DeathclawTrigger",
+      "FULL": "Gatilho de Destroçador da Estrada 02"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A673",
+      "FORMID": "00A673",
+      "EDID": "NVDLC04UlyssesGrenadeTrigger",
+      "FULL": "Gatilho de Granada Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7D3",
+      "FORMID": "00A7D3",
+      "EDID": "NVDLC04Silo01EDEReleaseCodeHolder",
+      "FULL": "Mostrar Liberação Direta do EDE"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A826",
+      "FORMID": "00A826",
+      "EDID": "NVDLC04TrapLaserTripwire",
+      "FULL": "Cabo de Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A82A",
+      "FORMID": "00A82A",
+      "EDID": "NVDLC04TrapLaserTripwireEmitter",
+      "FULL": "Emissor de Cabo de Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A870",
+      "FORMID": "00A870",
+      "EDID": "NVDLC04EDECommissary",
+      "FULL": "Terminal do Comissariado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A90B",
+      "FORMID": "00A90B",
+      "EDID": "NVDLC04Silo01Floor01AwakenBotTrigger",
+      "FULL": "Ativar Robô"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AB52",
+      "FORMID": "00AB52",
+      "EDID": "NVDLC04EDECommissaryAccessTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC94",
+      "FORMID": "00AC94",
+      "EDID": "NVDLC04TunnelDeathclawRushTrigger",
+      "FULL": "Corre, Destroçador, corre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B06E",
+      "FORMID": "00B06E",
+      "EDID": "NVDLC04UlyssesLootTrigger",
+      "FULL": "Gatilho de Saque de Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B648",
+      "FORMID": "00B648",
+      "EDID": "NVDLC04Road02TunnelerTrigger",
+      "FULL": "Gatilho de Surgimento de Escavador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B658",
+      "FORMID": "00B658",
+      "EDID": "NVDLC04TempleKillTrigger",
+      "FULL": "Gatilho de Morte do Templo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F6",
+      "FORMID": "00B8F6",
+      "EDID": "NVDLC04EDECommissaryDirty",
+      "FULL": "Terminal do Comissariado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BCFA",
+      "FORMID": "00BCFA",
+      "EDID": "NVDLC04Road01MMCamp03CodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1EE",
+      "FORMID": "00C1EE",
+      "EDID": "NVDLC04EDEMissileLaunchTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C46B",
+      "FORMID": "00C46B",
+      "EDID": "NVDLC04NukedLegionBoat",
+      "FULL": "Barco para o Acampamento Legionário Detonado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C60F",
+      "FORMID": "00C60F",
+      "EDID": "NVDLC04RedGlareStatic",
+      "FULL": "Clarão Vermelho"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7F4",
+      "FORMID": "00C7F4",
+      "EDID": "NVDLC04SunstoneTriggerREF",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7F8",
+      "FORMID": "00C7F8",
+      "EDID": "NVDLC04MaintenanceTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C828",
+      "FORMID": "00C828",
+      "EDID": "NVDLC04SLWasteDisposalTrigger",
+      "FULL": "Gatilho da Estação de Eliminação de Resíduos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA79",
+      "FORMID": "00CA79",
+      "EDID": "NVDLC04EDETempleRevealCodeHolder",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB76",
+      "FORMID": "00CB76",
+      "EDID": "NVDLC04Silo02DoorSwapCodeHolder",
+      "FULL": "Sem Mais Carona Pra Você"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB77",
+      "FORMID": "00CB77",
+      "EDID": "NVDLC04Silo01WelcomeDoorTrigger",
+      "FULL": "Bem-vindo ao Silo01"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CBD3",
+      "FORMID": "00CBD3",
+      "EDID": "NVDLC04AutoDoc",
+      "FULL": "Auto-Doc"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD4A",
+      "FORMID": "00CD4A",
+      "EDID": "NVDLC04EDEHireTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDB0",
+      "FORMID": "00CDB0",
+      "EDID": "NVDLC04UlyssesVistaCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF1C",
+      "FORMID": "00CF1C",
+      "EDID": "NVDLC04NukeLegionSwimTrigger",
+      "FULL": "NVDLC04 Gatilho de Nado da Legião da Bomba Atômica"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D12A",
+      "FORMID": "00D12A",
+      "EDID": "NVDLC04EDETerminalLever",
+      "FULL": "Alavanca do Terminal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B3",
+      "FORMID": "00D2B3",
+      "EDID": "NVDLC04Road01WomenBarracksCodeHolder",
+      "FULL": "Dirigir o Show"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2DA",
+      "FORMID": "00D2DA",
+      "EDID": "NVDLC04EDETerminalLeverLaunch",
+      "FULL": "Alavanca do Terminal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2DB",
+      "FORMID": "00D2DB",
+      "EDID": "NVDLC04EDETerminalLeverTemple",
+      "FULL": "Alavanca do Terminal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D783",
+      "FORMID": "00D783",
+      "EDID": "NVDLC04Divide2Ambush01",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D784",
+      "FORMID": "00D784",
+      "EDID": "NVDLC04DivideBladeGrenade",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D785",
+      "FORMID": "00D785",
+      "EDID": "NVDLC04Divide2Ambush02",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D793",
+      "FORMID": "00D793",
+      "EDID": "NVDLC04LaserDetonatorActivator",
+      "FULL": "Detonador a Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D90F",
+      "FORMID": "00D90F",
+      "EDID": "NVDLC04SunstoneWave2Trigger",
+      "FULL": "Gatilho da Onda 2 de Sunstone"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D95C",
+      "FORMID": "00D95C",
+      "EDID": "NVDLC04Road01MMRushEVPTrigger",
+      "FULL": "Acorda pra vida."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DBF1",
+      "FORMID": "00DBF1",
+      "EDID": "NVDLC04UlyssesTrigger4",
+      "FULL": "Gatilho EDE Ulysses da Estrada01"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DC64",
+      "FORMID": "00DC64",
+      "EDID": "NVDLC04RALPHIEPosterActivator",
+      "FULL": "Cartaz do Ralphie",
+      "XATO": "Examinar pôster"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DDC4",
+      "FORMID": "00DDC4",
+      "EDID": "NVDLC04TunnelCodeSupport",
+      "FULL": "Apoie o Programa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DDD1",
+      "FORMID": "00DDD1",
+      "EDID": "NVDLC04Road02AmbushTrigger",
+      "FULL": "Gatilho de Emboscada de Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00E0F7",
+      "FORMID": "00E0F7",
+      "EDID": "NVDLC04Road01MMBossCampRavagerAttackTrigger",
+      "FULL": "Acorda pra vida."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00E105",
+      "FORMID": "00E105",
+      "EDID": "NVDLC04BowieKnifeUniqueStatic",
+      "FULL": "Sesta de Sangue",
+      "XATO": "Tirar Soneca de Sangue"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00E10A",
+      "FORMID": "00E10A",
+      "EDID": "NVDLC04Silo02Floor01AwakenBotTrigger",
+      "FULL": "Ativar Robô"
+    }
+  ]
+}

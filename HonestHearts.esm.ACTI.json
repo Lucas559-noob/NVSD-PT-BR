@@ -1,0 +1,687 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@HonestHearts.esm:0093C0",
+      "FORMID": "0093C0",
+      "EDID": "NVDLC02EasternVirginTrigger",
+      "FULL": "Gatilho da Virgem Oriental"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093C8",
+      "FORMID": "0093C8",
+      "EDID": "NVDLC02PlayerStartTrigger",
+      "FULL": "Gatilho de Início do Jogador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093CC",
+      "FORMID": "0093CC",
+      "EDID": "NVDLC02BighornBluffTrigger",
+      "FULL": "Gatilho do Blefe do Carneiro Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093D0",
+      "FORMID": "0093D0",
+      "EDID": "NVDLC02PineCreekTrigger",
+      "FULL": "Gatilho de Pine Creek"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093D3",
+      "FORMID": "0093D3",
+      "EDID": "NVDLC02VirginRiverTrigger",
+      "FULL": "Gatilho do Rio Virgin"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094B7",
+      "FORMID": "0094B7",
+      "EDID": "NVDLC02SacredDaturaPlantLarge",
+      "FULL": "Datura Sagrada",
+      "XATO": "Pegar Raiz de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094B8",
+      "FORMID": "0094B8",
+      "EDID": "NVDLC02SacredDaturaPlant",
+      "FULL": "Datura Sagrada",
+      "XATO": "Pegar Raiz de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0096D2",
+      "FORMID": "0096D2",
+      "EDID": "NVDLC02PineCreekTunnelTrigger",
+      "FULL": "Disparador do Túnel de Pine Creek"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009946",
+      "FORMID": "009946",
+      "EDID": "NVDLC02Campfire01",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009947",
+      "FORMID": "009947",
+      "EDID": "NVDLC02Campfire02",
+      "FULL": "Fogueira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0099AC",
+      "FORMID": "0099AC",
+      "EDID": "NVDLC02SaltUponWoundsTrigger",
+      "FULL": "Gatilho de Sal nas Feridas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B80",
+      "FORMID": "009B80",
+      "EDID": "NVDLC02EncCodeHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009ECC",
+      "FORMID": "009ECC",
+      "EDID": "NVDLC02Massacre02Trigger",
+      "FULL": "Gatilho Massacre02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FE2",
+      "FORMID": "009FE2",
+      "EDID": "NVDLC02HireTrigger",
+      "FULL": "Acionador de Contratação de Seguidor"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FE6",
+      "FORMID": "009FE6",
+      "EDID": "NVDLC02FireTrigger",
+      "FULL": "Gatilho de Disparo do Seguidor"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A2E9",
+      "FORMID": "00A2E9",
+      "EDID": "NVDLC02EncListCodeHolder",
+      "FULL": "Escolha o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A362",
+      "FORMID": "00A362",
+      "EDID": "NVDLC02Massacre03Trigger",
+      "FULL": "Gatilho Massacre03"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A5",
+      "FORMID": "00A4A5",
+      "EDID": "NVDLC023MarysBattleTrigger",
+      "FULL": "Gatilho da Batalha da Mary"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A7C3",
+      "FORMID": "00A7C3",
+      "EDID": "NVDLC02JedBarkTrigger",
+      "FULL": "Gatilho do Jed Bark"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A7C9",
+      "FORMID": "00A7C9",
+      "EDID": "NVDLC02AmbushAvoidedTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A866",
+      "FORMID": "00A866",
+      "EDID": "NVDLC023MarysCaveBox",
+      "FULL": "Caixa de Códigos da Caverna das 3 Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AE9A",
+      "FORMID": "00AE9A",
+      "EDID": "NVDLC02MQ03MineDetector",
+      "FULL": "Detector de Minas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B353",
+      "FORMID": "00B353",
+      "EDID": "NVDLC02MQ03BearTrap",
+      "FULL": "Armadilha para Ursos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3D8",
+      "FORMID": "00B3D8",
+      "EDID": "NVDLC02MarysFollowTriggerEnd",
+      "FULL": "Gatilho de Seguir da Mary 2"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3D9",
+      "FORMID": "00B3D9",
+      "EDID": "NVDLC02MarysFollowTrigger",
+      "FULL": "Gatilho de Seguir da Mary"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4CB",
+      "FORMID": "00B4CB",
+      "EDID": "NVDLC02MQ05FadeTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B652",
+      "FORMID": "00B652",
+      "EDID": "NVDLC02MQ05cDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B656",
+      "FORMID": "00B656",
+      "EDID": "NVDLC02MQ05bDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B65C",
+      "FORMID": "00B65C",
+      "EDID": "NVDLC02MQ05aDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B666",
+      "FORMID": "00B666",
+      "EDID": "NVDLC02MQ05CodeHolder",
+      "FULL": "Controlador de Objetivo MQ03"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B6A2",
+      "FORMID": "00B6A2",
+      "EDID": "NVDLC02PineCreekEscape01",
+      "FULL": "Primeiro gatilho"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B753",
+      "FORMID": "00B753",
+      "EDID": "NVDLC02PineCreekEscape02",
+      "FULL": "2º gatilho"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BB45",
+      "FORMID": "00BB45",
+      "EDID": "NVDLC02NarrowsEnableTrigger02",
+      "FULL": "Habilitar geckos acima do Lago dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BB46",
+      "FORMID": "00BB46",
+      "EDID": "NVDLC02NarrowsEnableTrigger01",
+      "FULL": "Habilitar Geckos acima do Acampamento Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7C3",
+      "FORMID": "00C7C3",
+      "EDID": "NVDLC02C4Marker",
+      "FULL": "Marcador de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7D1",
+      "FORMID": "00C7D1",
+      "EDID": "NVDLC02MQ03cCaveTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7D3",
+      "FORMID": "00C7D3",
+      "EDID": "NVDLC02MQ03cDetonationTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CC84",
+      "FORMID": "00CC84",
+      "EDID": "NVDLC02BearTrap",
+      "FULL": "Armadilha para Ursos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D28F",
+      "FORMID": "00D28F",
+      "EDID": "NVDLC02ZionSCaveSGenerator",
+      "FULL": "Gerador Elétrico"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D32E",
+      "FORMID": "00D32E",
+      "EDID": "NVDLC02ZionSCaveSElectricWire",
+      "FULL": "Fiação do Gerador Elétrico"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E866",
+      "FORMID": "00E866",
+      "EDID": "NVDLC02EveListCodeHolder",
+      "FULL": "Escolha o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E869",
+      "FORMID": "00E869",
+      "EDID": "NVDLC02EveCodeHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E8FE",
+      "FORMID": "00E8FE",
+      "EDID": "NVDLC02FollowsChalkTeleportTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2BA",
+      "FORMID": "00F2BA",
+      "EDID": "NVDLC02MQ04JoshuaTeleportTrigger",
+      "FULL": "Preparativos para o final de MQ04"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2C6",
+      "FORMID": "00F2C6",
+      "EDID": "NVDLC02MQ04FinaleTrigger",
+      "FULL": "Gatilho do Final"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F370",
+      "FORMID": "00F370",
+      "EDID": "NVDLC02WhiteLegTotemActivator",
+      "FULL": "Totem de Guerra dos White Legs",
+      "XATO": "Pegar Totem de Guerra dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F3F4",
+      "FORMID": "00F3F4",
+      "EDID": "NVDLC02FollowsChalkLogBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6FE",
+      "FORMID": "00F6FE",
+      "EDID": "NVDLC02MedicalSupplyKitActivator",
+      "FULL": "Kit Médico Contaminado"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F869",
+      "FORMID": "00F869",
+      "EDID": "NVDLC02FollowsChalkPineCreekBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F86D",
+      "FORMID": "00F86D",
+      "EDID": "NVDLC02FollowsChalkNarrowsBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F871",
+      "FORMID": "00F871",
+      "EDID": "NVDLC02FollowsChalkMarysBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F874",
+      "FORMID": "00F874",
+      "EDID": "NVDLC02FollowsChalkTabooBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F879",
+      "FORMID": "00F879",
+      "EDID": "NVDLC02EncSpecialSporeCamp02Trigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8A0",
+      "FORMID": "00F8A0",
+      "EDID": "NVDLC02WWTwoBearsTrigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8C7",
+      "FORMID": "00F8C7",
+      "EDID": "NVDLC02JoshuaGrahamLeaveForceGreetTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8CB",
+      "FORMID": "00F8CB",
+      "EDID": "NVDLC02MQ05JoshuaForceGreetTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8CF",
+      "FORMID": "00F8CF",
+      "EDID": "NVDLC02AmbushTrigger",
+      "FULL": "Gatilho de Emboscada NVDLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8D4",
+      "FORMID": "00F8D4",
+      "EDID": "NVDLC02MQ05SUWTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8F3",
+      "FORMID": "00F8F3",
+      "EDID": "NVDLC02JoshuaGrahamLeaveForceGreetTriggerDUPLICATE000",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8F4",
+      "FORMID": "00F8F4",
+      "EDID": "NVDLC02AmbushTriggerDUPLICATE000",
+      "FULL": "Gatilho de Emboscada NVDLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8F5",
+      "FORMID": "00F8F5",
+      "EDID": "NVDLC02MQ05SUWTriggerDUPLICATE000",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8F6",
+      "FORMID": "00F8F6",
+      "EDID": "NVDLC02MQ05JoshuaForceGreetTriggerDUPLICATE000",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010007",
+      "FORMID": "010007",
+      "EDID": "NVDLC02ZionArrivalCodeHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010132",
+      "FORMID": "010132",
+      "EDID": "NVDLC02SlideShowTrigger",
+      "FULL": "Gatilho de Apresentação de Slides NVDLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01014B",
+      "FORMID": "01014B",
+      "EDID": "NVDLC02ZionArrivalFailSafeTrigger",
+      "FULL": "Ajustar o Espetáculo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010342",
+      "FORMID": "010342",
+      "EDID": "NVDLC02DrinkToiletMetalR",
+      "FULL": "Privada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0108C4",
+      "FORMID": "0108C4",
+      "EDID": "NVDLC02BrokenCompassActivator",
+      "FULL": "Bússola Quebrada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BCB",
+      "FORMID": "010BCB",
+      "EDID": "NVDLC02RickyDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C68",
+      "FORMID": "010C68",
+      "EDID": "NVDLC02FollowsChalkGuideBark1Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C69",
+      "FORMID": "010C69",
+      "EDID": "NVDLC02FollowsChalkGuideBark2Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6A",
+      "FORMID": "010C6A",
+      "EDID": "NVDLC02FollowsChalkGuideBarkWrongWayTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6B",
+      "FORMID": "010C6B",
+      "EDID": "NVDLC02FollowsChalkGuideBark3Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6C",
+      "FORMID": "010C6C",
+      "EDID": "NVDLC02FollowsChalkGuideBark4Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6D",
+      "FORMID": "010C6D",
+      "EDID": "NVDLC02FollowsChalkGuideBark5Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6E",
+      "FORMID": "010C6E",
+      "EDID": "NVDLC02FollowsChalkGuideBark6Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C6F",
+      "FORMID": "010C6F",
+      "EDID": "NVDLC02FollowsChalkGuideBark7Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C70",
+      "FORMID": "010C70",
+      "EDID": "NVDLC02FollowsChalkGuideBark8Trigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB0",
+      "FORMID": "010CB0",
+      "EDID": "NVDLC02FollowsChalkAerieBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB1",
+      "FORMID": "010CB1",
+      "EDID": "NVDLC02FollowsChalkBusBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB2",
+      "FORMID": "010CB2",
+      "EDID": "SCNNVDLC02FollowsChalkPlaneBarkTriggerSCRIPT",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB3",
+      "FORMID": "010CB3",
+      "EDID": "NVDLC02FollowsChalkEasternVirginBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB4",
+      "FORMID": "010CB4",
+      "EDID": "NVDLC02FollowsChalkVault22BarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB5",
+      "FORMID": "010CB5",
+      "EDID": "NVDLC02FollowsChalkCampgroundBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB6",
+      "FORMID": "010CB6",
+      "EDID": "NVDLC02FollowsChalkAntBurrowBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CB7",
+      "FORMID": "010CB7",
+      "EDID": "SCNNVDLC02FollowsChalkOverlookBarkTriggerSCRIPT",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CEB",
+      "FORMID": "010CEB",
+      "EDID": "NVDLC02WakingCloudBurialMoundsBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CEC",
+      "FORMID": "010CEC",
+      "EDID": "NVDLC02WakingCloudDocksBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CED",
+      "FORMID": "010CED",
+      "EDID": "NVDLC02WakingCloudGhostofSheBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D5D",
+      "FORMID": "010D5D",
+      "EDID": "NVDLC02ZionArrivalBridgeAvoidTrigger",
+      "FULL": "Ajustar o Espetáculo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DA8",
+      "FORMID": "010DA8",
+      "EDID": "NVDLC02YaoGuaiIntroCodeHolder",
+      "FULL": "Dirija o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EAD",
+      "FORMID": "010EAD",
+      "EDID": "NVDLC02MQ05SUWDisableTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EB6",
+      "FORMID": "010EB6",
+      "EDID": "NVDLC02LunchboxActivator",
+      "FULL": "Marmita do Escoteirinho",
+      "XATO": "Levar Lancheira do Escoteirinho"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EFE",
+      "FORMID": "010EFE",
+      "EDID": "NVDLC02EncSafeGuardTrigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011039",
+      "FORMID": "011039",
+      "EDID": "NVDLC02WakingCloudSurvivalistCaveBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011160",
+      "FORMID": "011160",
+      "EDID": "NVDLC02FollowsChalkMuralBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011161",
+      "FORMID": "011161",
+      "EDID": "NVDLC02NarrowsFastTravelEnabler",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011162",
+      "FORMID": "011162",
+      "EDID": "NVDLC02FollowsChalkTabooMarksBarkTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011181",
+      "FORMID": "011181",
+      "EDID": "NVDLC02ZionArrivalForceStartTrigger",
+      "FULL": "Ajustar o Espetáculo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0112F8",
+      "FORMID": "0112F8",
+      "EDID": "CaveFungusPlant",
+      "FULL": "Fungo da Caverna",
+      "XATO": "Escolher o Fungo da Caverna"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011304",
+      "FORMID": "011304",
+      "EDID": "NVDLC02CraftingOven01",
+      "FULL": "Chapa Quente"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0114F6",
+      "FORMID": "0114F6",
+      "EDID": "NVDLC02TrapTripwire01",
+      "FULL": "Cabo de Aço"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0114F7",
+      "FORMID": "0114F7",
+      "EDID": "NVDLC02TrapPressurePlate",
+      "FULL": "Placa de Pressão"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011601",
+      "FORMID": "011601",
+      "EDID": "NVDLC02EncToggleCodeHolder",
+      "FULL": "Alternar Exibição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011673",
+      "FORMID": "011673",
+      "EDID": "NVDLC02ZionArrivalWaitWarnCodeHolder",
+      "FULL": "Segure o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116DF",
+      "FORMID": "0116DF",
+      "EDID": "NVDLC02MQ04MarkerTrigger",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01170C",
+      "FORMID": "01170C",
+      "EDID": "NVDLC02ZionArrivalRickyBarkTrigger",
+      "FULL": "Barkie"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01170D",
+      "FORMID": "01170D",
+      "EDID": "NVDLC02ZionArrivalStellaBarkTrigger",
+      "FULL": "Barkie"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117D6",
+      "FORMID": "0117D6",
+      "EDID": "NVDLC02YaoGuaiIntroForceTrigger",
+      "FULL": "Ajustar o Espetáculo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117F2",
+      "FORMID": "0117F2",
+      "EDID": "NVDLC02GhostOfSheShaderCodeHolder",
+      "FULL": "Shader Tyme"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011983",
+      "FORMID": "011983",
+      "EDID": "NVDLC02EndingMarkerTrigger",
+      "FULL": "Gatilho Marcador de Finalização"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01198F",
+      "FORMID": "01198F",
+      "EDID": "NVDLC02MQ05PeaceCodeHolder",
+      "FULL": "Válvula de Gás"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0119A0",
+      "FORMID": "0119A0",
+      "EDID": "NVDLC02EncSpecialSporeCamp01Trigger",
+      "FULL": "Começar o Show"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0119C7",
+      "FORMID": "0119C7",
+      "EDID": "NVDLC02JoshuaNarrowsForceGreetTrigger",
+      "FULL": "Válvula de Gás"
+    }
+  ]
+}

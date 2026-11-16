@@ -1,0 +1,256 @@
+{
+  "WEAP": [
+    {
+      "FORM": "@GunRunnersArsenal.esm:000800",
+      "FORMID": "000800",
+      "EDID": "WeapNVDLC00Faderator",
+      "FULL": "O Faderator"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000802",
+      "FORMID": "000802",
+      "EDID": "NVDLC05WeapNVRechargerPistolUnique",
+      "FULL": "MF Hipergerador Alfa (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000803",
+      "FORMID": "000803",
+      "EDID": "NVDLC05WeapGatlingLaserUnique",
+      "FULL": "Sprtel-Wood 9700 (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000804",
+      "FORMID": "000804",
+      "EDID": "NVDLC05WeapFatmanUnique",
+      "FULL": "Esther (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000805",
+      "FORMID": "000805",
+      "EDID": "NVDLC05WeapNV127mmPistolUnique",
+      "FULL": "Diabinho (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000806",
+      "FORMID": "000806",
+      "EDID": "NVDLC05WeapNVLightMachineGunUnique",
+      "FULL": "Bozar (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000807",
+      "FORMID": "000807",
+      "EDID": "NVDLC05WeapNVRebarClubUnique",
+      "FULL": "Quebra-Nuka (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000808",
+      "FORMID": "000808",
+      "EDID": "NVDLC05WeapNVMantisGauntletUnique",
+      "FULL": "Abraço do King Louva-a-Deus! (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000809",
+      "FORMID": "000809",
+      "EDID": "NVDLC05WeapNVBallisticFistUnique",
+      "FULL": "Adeus em Duas Etapas (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080A",
+      "FORMID": "00080A",
+      "EDID": "NVDLC05WeapNVPlasmaCasterUnique",
+      "FULL": "A Smitty Especial (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080B",
+      "FORMID": "00080B",
+      "EDID": "NVDLC05WeapFlamerUnique",
+      "FULL": "Chama Purificadora (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080C",
+      "FORMID": "00080C",
+      "EDID": "NVDLC05WeapHuntingRifleUnique",
+      "FULL": "Paciência (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080D",
+      "FORMID": "00080D",
+      "EDID": "NVDLC05Weap10mmSubmachineGunUnique",
+      "FULL": "Último Sonho (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080E",
+      "FORMID": "00080E",
+      "EDID": "NVDLC05WeapNVBrushGunUnique",
+      "FULL": "Cajado Medicinal (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00080F",
+      "FORMID": "00080F",
+      "EDID": "NVDLC05WeapShishkebabUnique",
+      "FULL": "Geena (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000810",
+      "FORMID": "000810",
+      "EDID": "NVDLC05WeapPowerFistUnique",
+      "FULL": "Relâmpago Lubrificado (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000811",
+      "FORMID": "000811",
+      "EDID": "NVDLC05WeapNVTimeBombCustom",
+      "FULL": "Bomba-relógio, Alto Rendimento (Mad Bomber) (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000812",
+      "FORMID": "000812",
+      "EDID": "NVDLC05WeapNVBattleRifleCustom",
+      "FULL": "Fuzil de Batalha (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000813",
+      "FORMID": "000813",
+      "EDID": "NVDLC05WeapNV556mmPistolCustom",
+      "FULL": "Pistola 5,56 mm (Mod. Avançado)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000814",
+      "FORMID": "000814",
+      "EDID": "NVDLC05WeapGrenadeTin",
+      "FULL": "Granada de Estanho (Bomba Maluca) (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000815",
+      "FORMID": "000815",
+      "EDID": "NVDLC05WeapMineFat",
+      "FULL": "Fat Mine (Bombardeiro Maluco) (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000817",
+      "FORMID": "000817",
+      "EDID": "NVDLC05WeapKatanaCustom",
+      "FULL": "Katana (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000818",
+      "FORMID": "000818",
+      "EDID": "NVDLC05WeapGrenadeNuka",
+      "FULL": "Granada Nuka (Bombardeiro Maluco) (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00081B",
+      "FORMID": "00081B",
+      "EDID": "NVDLC05Weap25mmGrenadeAPWCustom",
+      "FULL": "Granada APW 25mm (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084C",
+      "FORMID": "00084C",
+      "EDID": "NVDLC05WeapBaseballBatCustom",
+      "FULL": "Bastão de Beisebol (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084D",
+      "FORMID": "00084D",
+      "EDID": "NVDLC05WeapLaserPistolCustom",
+      "FULL": "Pistola Laser (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084E",
+      "FORMID": "00084E",
+      "EDID": "NVDLC05WeapNV127mmSubmachineGunCustom",
+      "FULL": "Submetralhadora 12,7mm (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:00084F",
+      "FORMID": "00084F",
+      "EDID": "NVDLC05WeapNVAntiMaterielRifleCustom",
+      "FULL": "Fuzil Anti-Material (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000850",
+      "FORMID": "000850",
+      "EDID": "NVDLC05WeapNVAssaultCarbineCustom",
+      "FULL": "Carabina de Assalto (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000851",
+      "FORMID": "000851",
+      "EDID": "NVDLC05WeapNVChainsawCustom",
+      "FULL": "Motosserra (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000852",
+      "FORMID": "000852",
+      "EDID": "NVDLC05WeapNVHuntingRevolverCustom",
+      "FULL": "Revólver de Caça (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000853",
+      "FORMID": "000853",
+      "EDID": "NVDLC05WeapNVPlasmaDefenderCustom",
+      "FULL": "Defensor de Plasma (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000854",
+      "FORMID": "000854",
+      "EDID": "NVDLC05WeapNVTriBeamLaserRifleCustom",
+      "FULL": "Rifle Laser Triplo (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000855",
+      "FORMID": "000855",
+      "EDID": "NVDLC05WeapPlasmaPistolCustom",
+      "FULL": "Pistola de Plasma (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000856",
+      "FORMID": "000856",
+      "EDID": "NVDLC05WeapPowerFistCustom",
+      "FULL": "Punho da Força (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000857",
+      "FORMID": "000857",
+      "EDID": "NVDLC05WeapRipperCustom",
+      "FULL": "Estripador (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:0008C8",
+      "FORMID": "0008C8",
+      "EDID": "NVDLC05WeapGrenadeMFC",
+      "FULL": "Granada MFC (Mad Bomber) (GRA)"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:0008C9",
+      "FORMID": "0008C9",
+      "EDID": "NVDLC05WeapMineMFCCluster",
+      "FULL": "Carga de MFC (Bombardeiro Maluco) (GRA)"
+    },
+    {
+      "FORM": "@FalloutNV.esm:004330",
+      "FORMID": "004330",
+      "EDID": "WeapGrenadeFrag",
+      "FULL": "Granada de Fragmentação"
+    },
+    {
+      "FORM": "@FalloutNV.esm:121154",
+      "FORMID": "121154",
+      "EDID": "WeapNVRechargerRifle",
+      "FULL": "Rifle Recarregador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:00434F",
+      "FORMID": "00434F",
+      "EDID": "Weap10mmPistol",
+      "FULL": "Pistola 10mm"
+    },
+    {
+      "FORM": "@GunRunnersArsenal.esm:000AC3",
+      "FORMID": "000AC3",
+      "EDID": "NVDLC05WeapFatmanCustom",
+      "FULL": "Fat Man (GRA)"
+    }
+  ]
+}

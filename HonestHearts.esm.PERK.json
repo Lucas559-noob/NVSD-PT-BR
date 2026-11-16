@@ -1,0 +1,74 @@
+{
+  "PERK": [
+    {
+      "FORM": "@HonestHearts.esm:00F67C",
+      "FORMID": "00F67C",
+      "EDID": "NVDLC02FightThePower",
+      "FULL": "Lutem contra o Poder!",
+      "DESC": "Você já se cansou das tais \"autoridades\" oprimindo os pobres! Você ganha +2 de Limite de Dano e +5% de Chance Crítica contra qualquer um que esteja usando a armadura da facção da NCR, da Legião ou da Irmandade do Aço."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F67B",
+      "FORMID": "00F67B",
+      "EDID": "NVDLC02SneeringImperialist",
+      "FULL": "Imperialista Zombeteiro",
+      "DESC": "Você não gosta de invasores, viciados ou tribais tentando \"se estabelecer\" ou \"sobreviver\" em terras civilizadas. Contra invasores e viciados imundos, bem como os tribais de Zion, você causa +15% de dano e tem um bônus para acertar no V.A.T.S."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F679",
+      "FORMID": "00F679",
+      "EDID": "NVDLC02TribalWisdom",
+      "FULL": "Sabedoria Tribal",
+      "DESC": "Seus membros sofrem 50% menos dano de Animais, Animais Mutantes e Insetos Mutantes, você ganha +25% de resistência a Dano de Veneno e pode comer Insetos Mutantes quando estiver no modo Furtivo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F677",
+      "FORMID": "00F677",
+      "EDID": "NVDLC02Grunt",
+      "FULL": "Soldado Raso",
+      "DESC": "Só trabalho bom e honesto de infantaria! Você causa 25% a mais de dano com pistolas 9mm e .45 Auto e SMGs, Fuzis de Serviço, Carabinas de Assalto e de Atirador, Metralhadoras Leves, Granadas de Fragmentação, Lança-granadas e Fuzis de Combate, e Facas de Combate."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F7",
+      "FORMID": "00B2F7",
+      "EDID": "NVDLC02QuietAsTheWaters",
+      "FULL": "Silencioso como as Águas",
+      "DESC": "Enquanto Nuvens Despertas estiver no seu grupo, é muito mais fácil passar pelos White Legs sem ser visto (o PER deles é diminuído)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F6",
+      "FORMID": "00B2F6",
+      "EDID": "NVDLC02WellStackedCairns",
+      "FULL": "Cairns Bem Empilhados",
+      "DESC": "Enquanto Segue-o-Giz estiver no seu grupo, alcançar qualquer cume no Vale de Zion (como postos de rangers) revelará todos os marcadores de mapa próximos e inspirará um estado de alerta elevado (+3 PER) por três minutos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F5",
+      "FORMID": "00B2F5",
+      "EDID": "NVDLC02WayOfTheCanaanite",
+      "FULL": "Caminho do Cananeu",
+      "DESC": "Você aprendeu as técnicas avançadas de manuseio de armas dos New Canaanites. Para você, todos os tiros com pistolas .45 Auto têm menos dispersão e têm duas vezes mais chances de obter um acerto crítico."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F4",
+      "FORMID": "00B2F4",
+      "EDID": "NVDLC02EyeForEye",
+      "FULL": "Olho Por Olho",
+      "DESC": "Para cada membro aleijado que você tiver, você causa 10% de dano adicional."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B2F3",
+      "FORMID": "00B2F3",
+      "EDID": "NVDLC02HomeOnTheRange",
+      "FULL": "Lar, Doce Lar",
+      "DESC": "Sempre que você interagir com uma fogueira, você tem a opção de dormir, com todos os benefícios que o sono proporciona."
+    },
+    {
+      "FORM": "@FalloutNV.esm:031DAC",
+      "FORMID": "031DAC",
+      "EDID": "HereandNow",
+      "FULL": "Aqui e Agora",
+      "DESC": "A vantagem \"Aqui e Agora\" concede imediatamente um nível de experiência adicional, completo com todas as vantagens que isso traz."
+    }
+  ]
+}

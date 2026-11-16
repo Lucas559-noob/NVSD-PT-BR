@@ -1,0 +1,322 @@
+{
+  "WEAP": [
+    {
+      "FORM": "@LonesomeRoad.esm:000800",
+      "FORMID": "000800",
+      "EDID": "WeapNVDLC00Faderator",
+      "FULL": "O Faderator"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0046C3",
+      "FORMID": "0046C3",
+      "EDID": "NVDLC04WeapGrenadeRifleRED",
+      "FULL": "Fuzil de Granadas da Vitória Vermelha"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0046C4",
+      "FORMID": "0046C4",
+      "EDID": "NVDLC04WeapGrenadeRifleBLUE",
+      "FULL": "Rifle de Granadas do Urso Grande"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0046C7",
+      "FORMID": "0046C7",
+      "EDID": "NVDLC04WeapBowieKnife",
+      "FULL": "Faca Bowie"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C35",
+      "FORMID": "004C35",
+      "EDID": "NVDLC04WeapGrenadeFlashBang",
+      "FULL": "Granada de Luz"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C3C",
+      "FORMID": "004C3C",
+      "EDID": "NVDLC04WeapRedGlare",
+      "FULL": "Clarão Vermelho"
+    },
+    {
+      "FORM": "@FalloutNV.esm:090A6A",
+      "FORMID": "090A6A",
+      "EDID": "WeapNVGrenadeMachinegun",
+      "FULL": "Lança-granadas Automático"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C4E",
+      "FORMID": "004C4E",
+      "EDID": "NVDLC04weapflaregun",
+      "FULL": "Pistola de Sinalização"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00766B",
+      "FORMID": "00766B",
+      "EDID": "NVDLC04WeapArcWelder",
+      "FULL": "Arco de Solda"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007670",
+      "FORMID": "007670",
+      "EDID": "NVDLC04WeapSonicDetonator",
+      "FULL": "Detonador a Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076A9",
+      "FORMID": "0076A9",
+      "EDID": "NVDLC04WeapEDEArcWelder",
+      "FULL": "ED-E: Solda a Arco"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076E0",
+      "FORMID": "0076E0",
+      "EDID": "NVDLC04WeapFlagpole",
+      "FULL": "Velha Glória"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0076E3",
+      "FORMID": "0076E3",
+      "EDID": "NVDLC04WeapSatchelCharge",
+      "FULL": "Carga de Saturação"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008858",
+      "FORMID": "008858",
+      "EDID": "NVDLC04WeapSMMG",
+      "FULL": "Metralhadora Montada no Ombro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008B05",
+      "FORMID": "008B05",
+      "EDID": "NVDLC04WeapBladeWest",
+      "FULL": "Lâmina do Oeste"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB9",
+      "FORMID": "008CB9",
+      "EDID": "NVDLC04WeapIndustrialHand",
+      "FULL": "Mão Industrial"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925E",
+      "FORMID": "00925E",
+      "EDID": "NVDLC04WeapNailGun",
+      "FULL": "Pistola de Pregos H&H Tools"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009750",
+      "FORMID": "009750",
+      "EDID": "NVDLC04WeapFlagpoleNPC20",
+      "FULL": "Velha Glória"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009751",
+      "FORMID": "009751",
+      "EDID": "NVDLC04WeapFlagpoleNPC30",
+      "FULL": "Velha Glória"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009752",
+      "FORMID": "009752",
+      "EDID": "NVDLC04WeapFlagpoleNPC40",
+      "FULL": "Velha Glória"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009753",
+      "FORMID": "009753",
+      "EDID": "NVDLC04WeapFlagpoleNPC50",
+      "FULL": "Velha Glória"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099A8",
+      "FORMID": "0099A8",
+      "EDID": "NVDLC04WeapUlyssesEyebotGun",
+      "FULL": "Raio de Energia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F0",
+      "FORMID": "0099F0",
+      "EDID": "NVDLC04TurretMarkIILaser2HR20",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F1",
+      "FORMID": "0099F1",
+      "EDID": "NVDLC04TurretMarkIILaser2HR30",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F2",
+      "FORMID": "0099F2",
+      "EDID": "NVDLC04TurretMarkIILaser2HR40",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F3",
+      "FORMID": "0099F3",
+      "EDID": "NVDLC04TurretMarkIILaser2HR50",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F4",
+      "FORMID": "0099F4",
+      "EDID": "NVDLC04TurretMarkIVLaser2HR20",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F5",
+      "FORMID": "0099F5",
+      "EDID": "NVDLC04TurretMarkIVLaser2HR30",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F6",
+      "FORMID": "0099F6",
+      "EDID": "NVDLC04TurretMarkIVLaser2HR40",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F7",
+      "FORMID": "0099F7",
+      "EDID": "NVDLC04TurretMarkIVLaser2HR50",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F8",
+      "FORMID": "0099F8",
+      "EDID": "NVDLC04TurretMarkVILaser2HR20",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099F9",
+      "FORMID": "0099F9",
+      "EDID": "NVDLC04TurretMarkVILaser2HR30",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099FA",
+      "FORMID": "0099FA",
+      "EDID": "NVDLC04TurretMarkVILaser2HR40",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0099FB",
+      "FORMID": "0099FB",
+      "EDID": "NVDLC04TurretMarkVILaser2HR50",
+      "FULL": "Laser"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE2",
+      "FORMID": "009AE2",
+      "EDID": "NVDLC04SentryBotGatling2HH20",
+      "FULL": "Minigun a Laser de Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE3",
+      "FORMID": "009AE3",
+      "EDID": "NVDLC04SentryBotGatling2HH30",
+      "FULL": "Minigun a Laser de Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE4",
+      "FORMID": "009AE4",
+      "EDID": "NVDLC04SentryBotGatling2HH40",
+      "FULL": "Minigun a Laser de Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE5",
+      "FORMID": "009AE5",
+      "EDID": "NVDLC04SentryBotGatling2HH50",
+      "FULL": "Minigun a Laser de Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE7",
+      "FORMID": "009AE7",
+      "EDID": "NVDLC04SentryBotMissileLauncher2HL20",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE8",
+      "FORMID": "009AE8",
+      "EDID": "NVDLC04SentryBotMissileLauncher2HL30",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AE9",
+      "FORMID": "009AE9",
+      "EDID": "NVDLC04SentryBotMissileLauncher2HL40",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AEA",
+      "FORMID": "009AEA",
+      "EDID": "NVDLC04SentryBotMissileLauncher2HL50",
+      "FULL": "Lançador de Mísseis"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AEC",
+      "FORMID": "009AEC",
+      "EDID": "NVDLC04SentryBotMinigun2HR20",
+      "FULL": "Minigun de SentryBot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AED",
+      "FORMID": "009AED",
+      "EDID": "NVDLC04SentryBotMinigun2HR30",
+      "FULL": "Minigun de SentryBot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AEE",
+      "FORMID": "009AEE",
+      "EDID": "NVDLC04SentryBotMinigun2HR40",
+      "FULL": "Minigun de SentryBot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AEF",
+      "FORMID": "009AEF",
+      "EDID": "NVDLC04SentryBotMinigun2HR50",
+      "FULL": "Minigun de SentryBot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A606",
+      "FORMID": "00A606",
+      "EDID": "NVDLC04WeapBowieKnifeUnique",
+      "FULL": "Sesta de Sangue"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A864",
+      "FORMID": "00A864",
+      "EDID": "NVDLC04WeapUlyssesEyebotHealGun",
+      "FULL": "Curar Zap"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AB55",
+      "FORMID": "00AB55",
+      "EDID": "NVDLC04WeapEDEUnlockZapper",
+      "FULL": "ED-E: Solda a Arco"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA88",
+      "FORMID": "00CA88",
+      "EDID": "NVDLC04WeapDeathclawGauntletUniqueWildWasteland",
+      "FULL": "Punho do Norte de Rawr"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA89",
+      "FORMID": "00CA89",
+      "EDID": "NVDLC04WeapDeathclawGauntletUnique",
+      "FULL": "Punho de Rawr"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CDA5C",
+      "FORMID": "0CDA5C",
+      "EDID": "HVWeapPlasmaRifleWeak",
+      "FULL": "Rifle de Plasma"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00E1F7",
+      "FORMID": "00E1F7",
+      "EDID": "NVDLC04WeapTrailCarbineNoDrop",
+      "FULL": "Carabina de Trilha"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "FACT": [
+    {
+      "FORM": "@HonestHearts.esm:009F66",
+      "FORMID": "009F66",
+      "EDID": "NVDLC02HappyTrailsCaravanFaction",
+      "FULL": "Facção Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A2",
+      "FORMID": "00A4A2",
+      "EDID": "NVDLC02WhiteLegsFaction",
+      "FULL": "White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A4A3",
+      "FORMID": "00A4A3",
+      "EDID": "NVDLC02WhiteLegsAggressiveFaction",
+      "FULL": "Inimigo dos White Legs do Jogador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A925",
+      "FORMID": "00A925",
+      "EDID": "NVDLC02SorrowsFaction",
+      "FULL": "Facção Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A926",
+      "FORMID": "00A926",
+      "EDID": "NVDLC02DeadHorseFaction",
+      "FULL": "Facção do Dead Horse"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B42C",
+      "FORMID": "00B42C",
+      "EDID": "NVDLC02CrMantisFaction",
+      "FULL": "Facção Louva-a-deus Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B42D",
+      "FORMID": "00B42D",
+      "EDID": "NVDLC02CrGeckoFaction",
+      "FULL": "Facção dos Geckos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B42E",
+      "FORMID": "00B42E",
+      "EDID": "NVDLC02PlayerFaction",
+      "FULL": "NVDLC02 Facção do Jogador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B44B",
+      "FORMID": "00B44B",
+      "EDID": "NVDLC02CrAntFaction",
+      "FULL": "Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B44C",
+      "FORMID": "00B44C",
+      "EDID": "NVDLC02CrDogFaction",
+      "FULL": "Cães"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B44D",
+      "FORMID": "00B44D",
+      "EDID": "NVDLC02CrMoleRatFaction",
+      "FULL": "Ratos-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B44E",
+      "FORMID": "00B44E",
+      "EDID": "NVDLC02CrRadscorpionFaction",
+      "FULL": "Radscorpiões"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B44F",
+      "FORMID": "00B44F",
+      "EDID": "NVDLC02CrRavenFaction",
+      "FULL": "Facção Corvo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B450",
+      "FORMID": "00B450",
+      "EDID": "NVDLC02CrSporeFaction",
+      "FULL": "Facção Planta Esporo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B451",
+      "FORMID": "00B451",
+      "EDID": "NVDLC02CrBigHornerFaction",
+      "FULL": "Facção Big Horner"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B452",
+      "FORMID": "00B452",
+      "EDID": "NVDLC02CrCazadorFaction",
+      "FULL": "Facção Cazador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B453",
+      "FORMID": "00B453",
+      "EDID": "NVDLC02CrCoyoteFaction",
+      "FULL": "Facção Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B454",
+      "FORMID": "00B454",
+      "EDID": "NVDLC02CrGiantRadscorpionFaction",
+      "FULL": "Facção Escorpião-Radiante Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B455",
+      "FORMID": "00B455",
+      "EDID": "NVDLC02CrGiantRatFaction",
+      "FULL": "Facção dos Ratos Gigantes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B456",
+      "FORMID": "00B456",
+      "EDID": "NVDLC02CrVoidCritterFaction",
+      "FULL": "Facção para Criaturas do Vazio Usada em Aparições Aleatórias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B457",
+      "FORMID": "00B457",
+      "EDID": "NVDLC02CrYaoGuaiFaction",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B458",
+      "FORMID": "00B458",
+      "EDID": "NVDLC02CrGreenGeckoFaction",
+      "FULL": "Facção dos Geckos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B459",
+      "FORMID": "00B459",
+      "EDID": "NVDLC02CrBloatflyFaction",
+      "FULL": "Facção Mosca-mutante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E6F6",
+      "FORMID": "00E6F6",
+      "EDID": "NVDLC02ShamanFaction",
+      "FULL": "Facção Animação Xamã"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F232",
+      "FORMID": "00F232",
+      "EDID": "NVDLC02CrWhiteLegMongrel",
+      "FULL": "Facção Cão Branco Mestiço"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F675",
+      "FORMID": "00F675",
+      "EDID": "NVDLC02TribalsFaction",
+      "FULL": "Facção Tribal DLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EA9",
+      "FORMID": "010EA9",
+      "EDID": "NVDLC02SorrowsPrisonerFaction",
+      "FULL": "Facção Prisioneiros do Luto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010F00",
+      "FORMID": "010F00",
+      "EDID": "NVDLC02CrYaoGuaiIntroFaction",
+      "FULL": "[Yao Guai]"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011523",
+      "FORMID": "011523",
+      "EDID": "NVDLC02FollowsChalkBighornerFaction",
+      "FULL": "Facção para impedir que a FC ataque os Carneiro-Selvagems"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01172E",
+      "FORMID": "01172E",
+      "EDID": "NVDLC02BoneBreakersFaction",
+      "FULL": "Fabricantes de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01172F",
+      "FORMID": "01172F",
+      "EDID": "NVDLC02PainMakersFaction",
+      "FULL": "Fabricantes de Dor dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011756",
+      "FORMID": "011756",
+      "EDID": "NVDLC02NPCWeaponFaction",
+      "FULL": "Usuários de Armas Exclusivas de NPCs"
+    }
+  ]
+}

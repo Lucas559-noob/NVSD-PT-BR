@@ -1,0 +1,478 @@
+{
+  "CREA": [
+    {
+      "FORM": "@HonestHearts.esm:00D663",
+      "FORMID": "00D663",
+      "EDID": "NVDLC02CrGreenGecko",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD6C",
+      "FORMID": "00DD6C",
+      "EDID": "NVDLC02CrTier5GreenGeckoLarge",
+      "FULL": "Lagarto-Gecko Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD6D",
+      "FORMID": "00DD6D",
+      "EDID": "NVDLC02CrTier5SporeCarrierFD4",
+      "FULL": "Besta Transportadora de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD6E",
+      "FORMID": "00DD6E",
+      "EDID": "NVDLC02CrTier5YaoGuaiLarge",
+      "FULL": "Urso-pardo gigante Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD6F",
+      "FORMID": "00DD6F",
+      "EDID": "NVDLC02CrTier5CazadorLarge",
+      "FULL": "Cazador Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F07F",
+      "FORMID": "00F07F",
+      "EDID": "NVDLC02CrTier3GreenGeckoSmallRanged",
+      "FULL": "Jovem Gecko Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F080",
+      "FORMID": "00F080",
+      "EDID": "NVDLC02CrGreenGeckoRanged",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F081",
+      "FORMID": "00F081",
+      "EDID": "NVDLC02CrTier5GreenGeckoLargeRanged",
+      "FULL": "Lagarto-Gecko Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F082",
+      "FORMID": "00F082",
+      "EDID": "NVDLC02CrTier4GreenGeckoMedRanged",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F238",
+      "FORMID": "00F238",
+      "EDID": "NVDLC02CrTier3WhiteLegMongrel",
+      "FULL": "Grande Cão-Mestiço Perna Branca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F23A",
+      "FORMID": "00F23A",
+      "EDID": "NVDLC02CrTier2WhiteLegMongrel",
+      "FULL": "Cachorro-quente da Perna Branca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87A",
+      "FORMID": "00F87A",
+      "EDID": "NVDLC02CrTier2SporeCarrierFDNR",
+      "FULL": "Portador de Esporos Runt"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87B",
+      "FORMID": "00F87B",
+      "EDID": "NVDLC02CrTier2SporePlantNR",
+      "FULL": "Planta Esporo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87C",
+      "FORMID": "00F87C",
+      "EDID": "NVDLC02CrTier3SporeCarrierFD2NR",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87D",
+      "FORMID": "00F87D",
+      "EDID": "NVDLC02CrTier3SporePlantNR",
+      "FULL": "Planta Gigante de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87E",
+      "FORMID": "00F87E",
+      "EDID": "NVDLC02CrTier4SporeCarrierFD3NR",
+      "FULL": "Portador de Esporos Bruto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F87F",
+      "FORMID": "00F87F",
+      "EDID": "NVDLC02CrTier5SporeCarrierFD4NR",
+      "FULL": "Besta Transportadora de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01014E",
+      "FORMID": "01014E",
+      "EDID": "NVDLC02CrCaravanBrahminPack",
+      "FULL": "Brahmin"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B60",
+      "FORMID": "010B60",
+      "EDID": "NVDLC02GhostOfSheDupe",
+      "FULL": "O Fantasma de She"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CAF",
+      "FORMID": "010CAF",
+      "EDID": "NVDLC02SpawnSpecialMQ02Crawlie",
+      "FULL": "Escorpião Casca-dura (Predador)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D9F",
+      "FORMID": "010D9F",
+      "EDID": "NVDLC02CrSpecialGreenGeckoIntro01",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DAC",
+      "FORMID": "010DAC",
+      "EDID": "NVDLC02CrSpecialYaoGuaiIntro01",
+      "FULL": "Urso-pardo gigante Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EFD",
+      "FORMID": "010EFD",
+      "EDID": "NVDLC02CrSpecialYaoGuaiIntro02",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116AB",
+      "FORMID": "0116AB",
+      "EDID": "NVDLC02CrSpecialYaoGuaiSmall05",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116AC",
+      "FORMID": "0116AC",
+      "EDID": "NVDLC02CrSpecialYaoGuaiSmall10",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0116AD",
+      "FORMID": "0116AD",
+      "EDID": "NVDLC02CrSpecialYaoGuaiMed18",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117F3",
+      "FORMID": "0117F3",
+      "EDID": "NVDLC02GhostOfSheCub",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B624",
+      "FORMID": "00B624",
+      "EDID": "NVDLC02CrTier3YaoGuaiSmall",
+      "FULL": "Filhote de Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A935",
+      "FORMID": "00A935",
+      "EDID": "NVDLC02CrTier2GeckoNarrows",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E6",
+      "FORMID": "00A3E6",
+      "EDID": "NVDLC02EVBighornerSpecial02",
+      "FULL": "Carneiro-Selvagem Matriarca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E5",
+      "FORMID": "00A3E5",
+      "EDID": "NVDLC02EVBighornerSpecial01",
+      "FULL": "Filhote de Carneiro-Selvagem da Montanha Perdida"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E4",
+      "FORMID": "00A3E4",
+      "EDID": "NVDLC02EVBigHornerLarge",
+      "FULL": "Bode Montês Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E3",
+      "FORMID": "00A3E3",
+      "EDID": "NVDLC02EVBighornerMed",
+      "FULL": "Bode-das-Montanhas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E2",
+      "FORMID": "00A3E2",
+      "EDID": "NVDLC02EVBighornerSmall",
+      "FULL": "Filhote de Carneiro-Selvagem da Montanha"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3E1",
+      "FORMID": "00A3E1",
+      "EDID": "NVDLC02CrYaoGuai",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F65",
+      "FORMID": "009F65",
+      "EDID": "NVDLC02CrTier3SporePlant",
+      "FULL": "Planta Gigante de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F64",
+      "FORMID": "009F64",
+      "EDID": "NVDLC02CrTier2SporePlant",
+      "FULL": "Planta Esporo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F63",
+      "FORMID": "009F63",
+      "EDID": "NVDLC02CrTier4SporeCarrierFU3",
+      "FULL": "Portador de Esporos Bruto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F62",
+      "FORMID": "009F62",
+      "EDID": "NVDLC02CrTier4SporeCarrierFD3",
+      "FULL": "Portador de Esporos Bruto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F61",
+      "FORMID": "009F61",
+      "EDID": "NVDLC02CrTier3SporeCarrierFU2",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F60",
+      "FORMID": "009F60",
+      "EDID": "NVDLC02CrTier3SporeCarrierFD2",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5F",
+      "FORMID": "009F5F",
+      "EDID": "NVDLC02CrTier2SporeCarrierFU",
+      "FULL": "Portador de Esporos Runt"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5E",
+      "FORMID": "009F5E",
+      "EDID": "NVDLC02CrTier2SporeCarrierFD",
+      "FULL": "Portador de Esporos Runt"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5D",
+      "FORMID": "009F5D",
+      "EDID": "NVDLC02CrTier4GreenGeckoMed",
+      "FULL": "Gecko-verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5C",
+      "FORMID": "009F5C",
+      "EDID": "NVDLC02CrTier4CazadorMed",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5B",
+      "FORMID": "009F5B",
+      "EDID": "NVDLC02CrTier4YaoGuaiMed",
+      "FULL": "Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F5A",
+      "FORMID": "009F5A",
+      "EDID": "NVDLC02CrTier3GiantRadscorpionMed",
+      "FULL": "Escorpião-Rádio Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F59",
+      "FORMID": "009F59",
+      "EDID": "NVDLC02CrTier3GiantAntQueen",
+      "FULL": "Rainha Gigante das Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F58",
+      "FORMID": "009F58",
+      "EDID": "NVDLC02CrTier3CazadorSmall",
+      "FULL": "Jovem Cazador"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F57",
+      "FORMID": "009F57",
+      "EDID": "NVDLC02CrTier3BigHornerLarge",
+      "FULL": "Carneiro-Selvagem Touro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F56",
+      "FORMID": "009F56",
+      "EDID": "NVDLC02CrTier2RadscorpionMed",
+      "FULL": "Radscorpião"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F55",
+      "FORMID": "009F55",
+      "EDID": "NVDLC02CrTier2MoleRatLarge",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F54",
+      "FORMID": "009F54",
+      "EDID": "NVDLC02CrTier3GreenGeckoSmall",
+      "FULL": "Jovem Gecko Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F53",
+      "FORMID": "009F53",
+      "EDID": "NVDLC02CrTier2GeckoMed",
+      "FULL": "Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F52",
+      "FORMID": "009F52",
+      "EDID": "NVDLC02CrTier2BigHornerMed",
+      "FULL": "Carneiro-Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F51",
+      "FORMID": "009F51",
+      "EDID": "NVDLC02CrTier2AntSoldierMed",
+      "FULL": "Formiga-Soldado Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F50",
+      "FORMID": "009F50",
+      "EDID": "NVDLC02CrTier1RadscorpionSmall",
+      "FULL": "Pequeno Radscorpião"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4F",
+      "FORMID": "009F4F",
+      "EDID": "NVDLC02CrTier1MoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4E",
+      "FORMID": "009F4E",
+      "EDID": "NVDLC02CrTier1MoleRatMed",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4D",
+      "FORMID": "009F4D",
+      "EDID": "NVDLC02CrTier1GiantRatSmall",
+      "FULL": "Filhote de Rato Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4C",
+      "FORMID": "009F4C",
+      "EDID": "NVDLC02CrTier1GiantRatMed",
+      "FULL": "Rato Gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4B",
+      "FORMID": "009F4B",
+      "EDID": "NVDLC02CrTier1GeckoSmall",
+      "FULL": "Jovem Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F4A",
+      "FORMID": "009F4A",
+      "EDID": "NVDLC02CrTier1DogWildMed",
+      "FULL": "Cachorro Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F49",
+      "FORMID": "009F49",
+      "EDID": "NVDLC02CrTier1DogWildLarge",
+      "FULL": "Cachorro Selvagem Grande"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F48",
+      "FORMID": "009F48",
+      "EDID": "NVDLC02CrTier1DogMed",
+      "FULL": "Cachorro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F47",
+      "FORMID": "009F47",
+      "EDID": "NVDLC02CrTier1DogLarge",
+      "FULL": "Cachorro Grande"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F46",
+      "FORMID": "009F46",
+      "EDID": "NVDLC02CrTier1CoyoteSmall",
+      "FULL": "Filhote de Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F45",
+      "FORMID": "009F45",
+      "EDID": "NVDLC02CrTier1CoyoteMed",
+      "FULL": "Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F44",
+      "FORMID": "009F44",
+      "EDID": "NVDLC02CrTier1CoyoteDenMother",
+      "FULL": "Mãe da Toca do Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F43",
+      "FORMID": "009F43",
+      "EDID": "NVDLC02CrTier1BloatFlyMed",
+      "FULL": "Mosca-mutante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F42",
+      "FORMID": "009F42",
+      "EDID": "NVDLC02CrTier1BigHornerSmall",
+      "FULL": "Carneiro-Selvagem Filhote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F41",
+      "FORMID": "009F41",
+      "EDID": "NVDLC02CrTier1BarkScorpionPackMed",
+      "FULL": "Escorpião Casca-dura (Predador)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F40",
+      "FORMID": "009F40",
+      "EDID": "NVDLC02CrTier1BarkScorpionMed",
+      "FULL": "Escorpião Casca-dura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F3F",
+      "FORMID": "009F3F",
+      "EDID": "NVDLC02CrTier1AntWorkerMed",
+      "FULL": "Formiga-operária gigante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009F3E",
+      "FORMID": "009F3E",
+      "EDID": "NVDLC02CrTier0Raven",
+      "FULL": "Corvo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B7E",
+      "FORMID": "009B7E",
+      "EDID": "NVDLC02CrTier2GiantMantisSmall",
+      "FULL": "Ninfa Mantis de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B7D",
+      "FORMID": "009B7D",
+      "EDID": "NVDLC02CrTier4GiantMantisLarge",
+      "FULL": "Louva-a-deus Gigante de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B7C",
+      "FORMID": "009B7C",
+      "EDID": "NVDLC02CrTier3GiantMantisMed",
+      "FULL": "Mantis de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094BA",
+      "FORMID": "0094BA",
+      "EDID": "NVDLC02GhostOfShe",
+      "FULL": "O Fantasma de She"
+    }
+  ]
+}

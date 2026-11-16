@@ -1,0 +1,214 @@
+{
+  "PERK": [
+    {
+      "FORM": "@OldWorldBlues.esm:008011",
+      "FORMID": "008011",
+      "EDID": "NVDLC03AtomicPerk",
+      "FULL": "Atômico!",
+      "DESC": "Com a vantagem \"Atômico!\", você fica 25% mais rápido e forte sempre que estiver aproveitando o brilho quente da radiação. Fora das áreas irradiadas, seus Pontos de Ação (PA) se regeneram cada vez mais rápido quanto maior for o seu nível de doença por radiação."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009614",
+      "FORMID": "009614",
+      "EDID": "NVDLC03ImplantM5Perk",
+      "FULL": "Implante M-5",
+      "DESC": "Você pode ser feito... melhor... mais rápido... mais forte... Na verdade, só mais rápido. O implante M-5 aumenta sua velocidade de movimento agachado em 20%, para maior eficiência como cobaia."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009615",
+      "FORMID": "009615",
+      "EDID": "NVDLC03ImplantY3Perk",
+      "FULL": "Implante Y-3",
+      "DESC": "O Implante Y-3 coloca um sistema interno de filtragem no trato digestivo que remove todas as partículas radioativas de qualquer líquido consumido antes de ser processado pelo corpo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009616",
+      "FORMID": "009616",
+      "EDID": "NVDLC03ImplantC13Perk",
+      "FULL": "Implante C-13",
+      "DESC": "O implante C-13 foi originalmente projetado como uma sub-rotina de defesa de torreta para ajudar a eliminar Cazadores caso eles escapassem de seu confinamento, mas foi reaproveitado para testes em cobaias humanas. (+10% de dano a Cazadores)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009617",
+      "FORMID": "009617",
+      "EDID": "NVDLC03DNAgentPerk",
+      "FULL": "DNAgent",
+      "DESC": "Estudar esquemas sobre as abominações criadas no Big MT concedeu a você um bônus de dano (+10%) contra os Perseguidor Noturnos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009619",
+      "FORMID": "009619",
+      "EDID": "NVDLC03MileInTheirShoesPerk",
+      "FULL": "Um Dia na Pele Deles",
+      "DESC": "Você passou a entender os Perseguidor Noturnos. Consumir Perseguidor Noturno Squeezin's agora concede bônus em Percepção (+1 PER), Resistência a Veneno (+5) e furtividade (+5 Sneak), além dos benefícios normais."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00961A",
+      "FORMID": "00961A",
+      "EDID": "NVDLC03ImplantY7Perk",
+      "FULL": "Implante Y-7",
+      "DESC": "O Implante Y-7 é um intensificador de enzimas que aumenta a Vida (PV) ganha com alimentos e recupera Pontos de Ação (PA) adicionais por item de comida consumido."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098BC",
+      "FORMID": "0098BC",
+      "EDID": "NVDLC03SpinelessPerk",
+      "FULL": "Sem coluna",
+      "DESC": "Sua coluna foi substituída por tecnologias avançadas: Seu tronco não pode mais ser aleijado e sua Força (FOR) e Limiar de Dano (Diretor de Design) foram aumentados (+1)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098BE",
+      "FORMID": "0098BE",
+      "EDID": "NVDLC03BrainlessPerk",
+      "FULL": "Descerebrado",
+      "DESC": "Seu cérebro foi substituído por tecnologias avançadas: Sua cabeça não pode mais ser aleijada e é resistente ao vício em drogas (+25% de resistência) e a choque por dano corporal (+5% de Limiar de Dano, mínimo de +1)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C2",
+      "FORMID": "0098C2",
+      "EDID": "NVDLC03HeartlessPerk",
+      "FULL": "Sem Coração",
+      "DESC": "Seu coração foi substituído por tecnologias avançadas: você não pode ser envenenado, e filtros no seu coração também regularão sangramento e cura, permitindo que todos os itens de cura (químicos) funcionem em um nível mais alto. Robôs agora ficam confusos com você e têm 50% menos chances de acertar um ataque crítico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C9",
+      "FORMID": "0098C9",
+      "EDID": "NVDLC03ThemsGoodEatingPerk",
+      "FULL": "Bons Tempos Gastronômicos",
+      "DESC": "Qualquer criatura viva que você matar tem 50% de chance de ter os itens de cura potentes Pasta Vermelha Rala ou Salsicha de Sangue ao ser saqueada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D48",
+      "FORMID": "009D48",
+      "EDID": "NVDLC03ImplantGRXPerk",
+      "FULL": "Implante GRX",
+      "DESC": "Você ganha um injetor subdermal de Turbo (químico) não viciante. Esta habilidade pode ser escolhida duas vezes, com a segunda melhorando o efeito de 2 para 3 segundos e os usos por dia de 5 para 10. [Ativado no inventário do Pip-Boy.]"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C88F",
+      "FORMID": "00C88F",
+      "EDID": "NVDLC03X13RobotCompliance",
+      "FULL": "Conformidade Robótica",
+      "DESC": "Com a vantagem \"Conformidade Robótica\", aproximar-se sorrateiramente de um robô hostil sem ser detectado e ativá-lo fará com que o robô entre em estado de desligamento permanente."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DA28",
+      "FORMID": "00DA28",
+      "EDID": "NVDLC03DNAvengerPerk",
+      "FULL": "DNAvenger",
+      "DESC": "Estudar as abominações criadas no Big MT concedeu a você um bônus de dano (+10% por nível, até três níveis) contra Cazadores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E845",
+      "FORMID": "00E845",
+      "EDID": "NVDLC03AuralStealthSuitPerk",
+      "FULL": "Traje Furtivo Mk II",
+      "DESC": "A atualização de software mais recente para o Traje Furtivo Mk II.\nV1.1: Sensores de Amortecimento (+10 de Furtividade)\nV1.2: Sub-rede Auditiva (+1 de PER)\nV1.3: Ajuste Sincronizado (+1 de AGI)\nV1.4: Acelerador de Impulso (Velocidade de esgueirar-se aumentada)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012767",
+      "FORMID": "012767",
+      "EDID": "NVDLC03TraitEarlyBird",
+      "FULL": "Madrugador",
+      "DESC": "E aí, madrugadores! Aproveitem +2 em cada um dos seus atributos S.P.E.C.I.A.L. das 6h às 12h, mas sofram -1 das 18h às 6h, quando não estiverem no seu melhor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276B",
+      "FORMID": "01276B",
+      "EDID": "NVDLC03TraitHotBlooded",
+      "FULL": "Sangue Quente",
+      "DESC": "Quando sua saúde cair abaixo de 50%, você ganha +10% de dano, mas também sofre -2 nos seus atributos de Agilidade e Percepção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276D",
+      "FORMID": "01276D",
+      "EDID": "NVDLC03TraitHoarder",
+      "FULL": "Acumulador",
+      "DESC": "Você ganha +25 kg na sua capacidade de carga, mas sofre -1 em todos os atributos sempre que o peso que estiver carregando cair abaixo de 160 kg"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276E",
+      "FORMID": "01276E",
+      "EDID": "NVDLC03TraitLogansLoophole",
+      "FULL": "Brecha de Logan",
+      "DESC": "Ninguém vai te mandar para o pasto, porque você vai continuar jovem (e no nível 30) para sempre! Você nunca mais vai ficar viciado em drogas, e elas vão durar o dobro do tempo... mas, depois dos 30, pode dar adeus à experiência, aos perks e aos pontos de habilidade!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B86",
+      "FORMID": "012B86",
+      "EDID": "NVDLC03TraitSkilled",
+      "FULL": "Perito",
+      "DESC": "Você é habilidoso, mas não experiente. Você ganha +5 pontos em cada habilidade, mas sofre -10% na experiência ganha a partir de agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133AE",
+      "FORMID": "0133AE",
+      "EDID": "NVDLC03TraitClaustrophobia",
+      "FULL": "Claustrofobia",
+      "DESC": "Você tem medo de lugares fechados (provavelmente por causa dos mutantes que vivem lá). Você ganha +1 em atributos S.P.E.C.I.A.L. quando está ao ar livre, mas sofre -1 quando em ambientes fechados."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BB0",
+      "FORMID": "015BB0",
+      "EDID": "NVDLC03SpinefulPerk",
+      "FULL": "Cheio de espinhos",
+      "DESC": "É bom ter sua própria espinha de volta. Você está mais ágil agora (+1 AGL), um pouco mais sorrateiro (+5 na perícia Furtividade) e ganhou mais confiança em sua postura e movimentos (+1 CHA)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BB1",
+      "FORMID": "015BB1",
+      "EDID": "NVDLC03BrainfullPerk",
+      "FULL": "Cérebro Cheio",
+      "DESC": "Seu cérebro voltou para o seu corpo! E agora está mais esperto! Agora você ganha experiência em uma taxa maior (+10%). Você ganha uma habilidade adicional por nível. Sua Inteligência está maior (+1 INT) e sua perícia em Ciência aumentou em 10."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BB2",
+      "FORMID": "015BB2",
+      "EDID": "NVDLC03HeartfullPerk",
+      "FULL": "Cheio de coração",
+      "DESC": "Seu corpo bombeia sangue e paixão mais uma vez. Suas habilidades de Troca e Oratória aumentaram em 5. E sua capacidade de acertar o coração de um inimigo aumentou (+10% VATS no torso)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBA",
+      "FORMID": "015BBA",
+      "EDID": "NVDLC03BigBrainedPerk",
+      "FULL": "Mente Brilhante",
+      "DESC": "Seu cérebro está de volta ao seu corpo, mas algumas das tecnologias avançadas permanecem: sua cabeça ainda não pode ser aleijada, mas você é apenas 10% mais resistente ao vício agora. Surpreendentemente, sua resistência a dano melhorou em 10% (mínimo de +1 RD)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBB",
+      "FORMID": "015BBB",
+      "EDID": "NVDLC03CardiacArrestPerk",
+      "FULL": "Parada Cardíaca",
+      "DESC": "Seu coração voltou para o corpo, mas algumas tecnologias avançadas permanecem: você é menos resistente a veneno (50%) e robôs ficam apenas um pouco confusos com você (25% menos chances de causar um acerto crítico) agora. Mas, pelo lado bom, itens de cura (chems) são ainda mais eficazes!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBC",
+      "FORMID": "015BBC",
+      "EDID": "NVDLC03ReinforcedSpinePerk",
+      "FULL": "Coluna Reforçada",
+      "DESC": "Sua coluna voltou para o seu corpo, mas algumas tecnologias avançadas permanecem: Seu torso pode ser aleijado de novo, mas seus bônus de Força (FOR) e Limiar de Dano (Diretor de Design) dobraram! (+2)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016049",
+      "FORMID": "016049",
+      "EDID": "NVDLC03BigBrainMirrorPerk",
+      "FULL": "Mente Sagaz",
+      "DESC": "Seu cérebro foi aprimorado com tecnologias avançadas: Sua cabeça não pode mais ser aleijada e é resistente ao vício em drogas (25% de resistência) e ao choque por dano corporal (5% de Resistência a Dano)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01604A",
+      "FORMID": "01604A",
+      "EDID": "NVDLC03CardiacArrestMirrorPerk",
+      "FULL": "Parada Cardíaca",
+      "DESC": "Seu coração foi aumentado com tecnologias avançadas: você não pode ser envenenado, e filtros no seu coração também regularão sangramento e cura, permitindo que todos os itens de cura (químicos) funcionem em um nível mais alto (+25%). Robôs agora ficam confusos com você e têm 50% menos chances de acertar um ataque crítico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01604B",
+      "FORMID": "01604B",
+      "EDID": "NVDLC03ReinforcedSpineMirrorPerk",
+      "FULL": "Coluna Reforçada",
+      "DESC": "Sua coluna foi aprimorada com tecnologias avançadas: seu tronco não pode mais ser aleijado e sua Força (FOR) e Limiar de Dano (Diretor de Design) foram aumentados (+1)."
+    }
+  ]
+}

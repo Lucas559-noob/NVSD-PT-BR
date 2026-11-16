@@ -1,0 +1,622 @@
+{
+  "CREA": [
+    {
+      "FORM": "@LonesomeRoad.esm:0045A8",
+      "FORMID": "0045A8",
+      "EDID": "NVDLC04TunnelerTest",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004689",
+      "FORMID": "004689",
+      "EDID": "NVDLC04Tunneler01",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C3F",
+      "FORMID": "004C3F",
+      "EDID": "NVDLC04Tunneler20",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C40",
+      "FORMID": "004C40",
+      "EDID": "NVDLC04Tunneler30",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C41",
+      "FORMID": "004C41",
+      "EDID": "NVDLC04Tunneler40",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C42",
+      "FORMID": "004C42",
+      "EDID": "NVDLC04Tunneler50",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C45",
+      "FORMID": "004C45",
+      "EDID": "NVDLC04TunnelerAmbusher01",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C47",
+      "FORMID": "004C47",
+      "EDID": "NVDLC04TunnelerAmbusher20",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C48",
+      "FORMID": "004C48",
+      "EDID": "NVDLC04TunnelerAmbusher30",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C49",
+      "FORMID": "004C49",
+      "EDID": "NVDLC04TunnelerAmbusher40",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004C4A",
+      "FORMID": "004C4A",
+      "EDID": "NVDLC04TunnelerAmbusher50",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CDA",
+      "FORMID": "004CDA",
+      "EDID": "NVDLC04EDE",
+      "FULL": "ED-E"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007D22",
+      "FORMID": "007D22",
+      "EDID": "NVDLC04DeathclawBoss",
+      "FULL": "Rawr"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086C9",
+      "FORMID": "0086C9",
+      "EDID": "NVDLC04CrDeathClawYoung20",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CA",
+      "FORMID": "0086CA",
+      "EDID": "NVDLC04CrDeathClaw20",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CB",
+      "FORMID": "0086CB",
+      "EDID": "NVDLC04CrDeathClawAlpha20",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CC",
+      "FORMID": "0086CC",
+      "EDID": "NVDLC04TunnelerBrute01",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CE",
+      "FORMID": "0086CE",
+      "EDID": "NVDLC04TunnelerBrute20",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086CF",
+      "FORMID": "0086CF",
+      "EDID": "NVDLC04TunnelerBrute30",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D0",
+      "FORMID": "0086D0",
+      "EDID": "NVDLC04TunnelerBrute40",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D1",
+      "FORMID": "0086D1",
+      "EDID": "NVDLC04TunnelerBrute50",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D4",
+      "FORMID": "0086D4",
+      "EDID": "NVDLC04TunnelerVenom01",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D6",
+      "FORMID": "0086D6",
+      "EDID": "NVDLC04TunnelerVenom20",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D7",
+      "FORMID": "0086D7",
+      "EDID": "NVDLC04TunnelerVenom30",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D8",
+      "FORMID": "0086D8",
+      "EDID": "NVDLC04TunnelerVenom40",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086D9",
+      "FORMID": "0086D9",
+      "EDID": "NVDLC04TunnelerVenom50",
+      "FULL": "Tunelador Venenoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DC",
+      "FORMID": "0086DC",
+      "EDID": "NVDLC04TunnelerBoss",
+      "FULL": "Rainha Tuneladora"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DD",
+      "FORMID": "0086DD",
+      "EDID": "NVDLC04CrMoleRat20",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DE",
+      "FORMID": "0086DE",
+      "EDID": "NVDLC04CrMoleRatPup20",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086DF",
+      "FORMID": "0086DF",
+      "EDID": "NVDLC04CrSentryBotGLArmy01",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E0",
+      "FORMID": "0086E0",
+      "EDID": "NVDLC04CrSentryBotMGArmy01",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E1",
+      "FORMID": "0086E1",
+      "EDID": "NVDLC04CrSentryBotGLArmy30",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E2",
+      "FORMID": "0086E2",
+      "EDID": "NVDLC04CrSentryBotGLArmy20",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E3",
+      "FORMID": "0086E3",
+      "EDID": "NVDLC04CrSentryBotGLArmy40",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E4",
+      "FORMID": "0086E4",
+      "EDID": "NVDLC04CrSentryBotGLArmy50",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E5",
+      "FORMID": "0086E5",
+      "EDID": "NVDLC04CrSentryBotMGArmy20",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E6",
+      "FORMID": "0086E6",
+      "EDID": "NVDLC04CrSentryBotMGArmy30",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E7",
+      "FORMID": "0086E7",
+      "EDID": "NVDLC04CrSentryBotMGArmy40",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086E8",
+      "FORMID": "0086E8",
+      "EDID": "NVDLC04CrSentryBotMGArmy50",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F6",
+      "FORMID": "0086F6",
+      "EDID": "NVDLC04CrTurretMarkII20",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F7",
+      "FORMID": "0086F7",
+      "EDID": "NVDLC04CrTurretMarkIV20",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F8",
+      "FORMID": "0086F8",
+      "EDID": "NVDLC04CrTurretMarkVI20",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008976",
+      "FORMID": "008976",
+      "EDID": "NVDLC04DivideMoleRatSmall",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008978",
+      "FORMID": "008978",
+      "EDID": "NVDLC04DivideMoleRatMed",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090A6",
+      "FORMID": "0090A6",
+      "EDID": "NVDLC04CrSentryBotMGArmySilo01DeadBot",
+      "FULL": "Robô Sentinela"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009149",
+      "FORMID": "009149",
+      "EDID": "NVDLC04EyebotRepair20",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00914A",
+      "FORMID": "00914A",
+      "EDID": "NVDLC04EyebotMedical20",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009418",
+      "FORMID": "009418",
+      "EDID": "NVDLC04CrDeathClawTunnel",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009419",
+      "FORMID": "009419",
+      "EDID": "NVDLC04TunnelTunnelerScare",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009457",
+      "FORMID": "009457",
+      "EDID": "NVDLC04TunnelTunnelerScare02",
+      "FULL": "Tunelador Enorme"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950E",
+      "FORMID": "00950E",
+      "EDID": "NVDLC04CrDeathClawYoung01",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950F",
+      "FORMID": "00950F",
+      "EDID": "NVDLC04CrDeathClawYoung30",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009510",
+      "FORMID": "009510",
+      "EDID": "NVDLC04CrDeathClawYoung40",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009511",
+      "FORMID": "009511",
+      "EDID": "NVDLC04CrDeathClawYoung50",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009512",
+      "FORMID": "009512",
+      "EDID": "NVDLC04CrDeathClaw01",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009513",
+      "FORMID": "009513",
+      "EDID": "NVDLC04CrDeathClaw30",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009514",
+      "FORMID": "009514",
+      "EDID": "NVDLC04CrDeathClaw40",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009515",
+      "FORMID": "009515",
+      "EDID": "NVDLC04CrDeathClaw50",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009516",
+      "FORMID": "009516",
+      "EDID": "NVDLC04CrDeathClawYoungLVL",
+      "FULL": "Destroçador Jovem"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951A",
+      "FORMID": "00951A",
+      "EDID": "NVDLC04CrMoleRatPup01",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951B",
+      "FORMID": "00951B",
+      "EDID": "NVDLC04CrMoleRatPup30",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951C",
+      "FORMID": "00951C",
+      "EDID": "NVDLC04CrMoleRatPup40",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951D",
+      "FORMID": "00951D",
+      "EDID": "NVDLC04CrMoleRatPup50",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00951E",
+      "FORMID": "00951E",
+      "EDID": "NVDLC04CrMoleRatPupLVL",
+      "FULL": "Filhote de Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009520",
+      "FORMID": "009520",
+      "EDID": "NVDLC04CrDeathClawAlpha01",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009521",
+      "FORMID": "009521",
+      "EDID": "NVDLC04CrDeathClawAlpha30",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009522",
+      "FORMID": "009522",
+      "EDID": "NVDLC04CrDeathClawAlpha40",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009523",
+      "FORMID": "009523",
+      "EDID": "NVDLC04CrDeathClawAlpha50",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009524",
+      "FORMID": "009524",
+      "EDID": "NVDLC04CrDeathClawAlphaLVL",
+      "FULL": "Destroçador Alfa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009526",
+      "FORMID": "009526",
+      "EDID": "NVDLC04CrMoleRat01",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009527",
+      "FORMID": "009527",
+      "EDID": "NVDLC04CrMoleRat30",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009528",
+      "FORMID": "009528",
+      "EDID": "NVDLC04CrMoleRat40",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009529",
+      "FORMID": "009529",
+      "EDID": "NVDLC04CrMoleRat50",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952A",
+      "FORMID": "00952A",
+      "EDID": "NVDLC04CrMoleRatLVL",
+      "FULL": "Rato-toupeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952C",
+      "FORMID": "00952C",
+      "EDID": "NVDLC04CrTurretMarkII01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952D",
+      "FORMID": "00952D",
+      "EDID": "NVDLC04CrTurretMarkII30",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952E",
+      "FORMID": "00952E",
+      "EDID": "NVDLC04CrTurretMarkII40",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00952F",
+      "FORMID": "00952F",
+      "EDID": "NVDLC04CrTurretMarkII50",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009531",
+      "FORMID": "009531",
+      "EDID": "NVDLC04CrTurretMarkIV01",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009532",
+      "FORMID": "009532",
+      "EDID": "NVDLC04CrTurretMarkIV30",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009533",
+      "FORMID": "009533",
+      "EDID": "NVDLC04CrTurretMarkIV40",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009534",
+      "FORMID": "009534",
+      "EDID": "NVDLC04CrTurretMarkIV50",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009535",
+      "FORMID": "009535",
+      "EDID": "NVDLC04CrTurretMarkVI01",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009536",
+      "FORMID": "009536",
+      "EDID": "NVDLC04CrTurretMarkVI30",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009537",
+      "FORMID": "009537",
+      "EDID": "NVDLC04CrTurretMarkVI40",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009538",
+      "FORMID": "009538",
+      "EDID": "NVDLC04CrTurretMarkVI50",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009810",
+      "FORMID": "009810",
+      "EDID": "NVDLC04Road02DeathClawDEAD",
+      "FULL": "Destroçador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD0E",
+      "FORMID": "00AD0E",
+      "EDID": "NVDLC04Tunneler",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD12",
+      "FORMID": "00AD12",
+      "EDID": "NVDLC04Silo02ElevTunnelerVictim",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B3E4",
+      "FORMID": "00B3E4",
+      "EDID": "NVDLC04Silo02ElevTunnelerVictim02",
+      "FULL": "Tunelador"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C22D",
+      "FORMID": "00C22D",
+      "EDID": "NVDLC04DeathclawNuked",
+      "FULL": "Destroçador Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF86",
+      "FORMID": "00CF86",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul20",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D5C3",
+      "FORMID": "00D5C3",
+      "EDID": "NVDLC04DeathclawBossDead",
+      "FULL": "Rawr"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BB",
+      "FORMID": "00D8BB",
+      "EDID": "NVDLC04EyebotRepair30",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BC",
+      "FORMID": "00D8BC",
+      "EDID": "NVDLC04EyebotRepair40",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8BD",
+      "FORMID": "00D8BD",
+      "EDID": "NVDLC04EyebotRepair50",
+      "FULL": "Reparar Eyebot"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C0",
+      "FORMID": "00D8C0",
+      "EDID": "NVDLC04EyebotMedical30",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C1",
+      "FORMID": "00D8C1",
+      "EDID": "NVDLC04EyebotMedical40",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C2",
+      "FORMID": "00D8C2",
+      "EDID": "NVDLC04EyebotMedical50",
+      "FULL": "Eyebot Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C4",
+      "FORMID": "00D8C4",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul30",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C5",
+      "FORMID": "00D8C5",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul40",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8C6",
+      "FORMID": "00D8C6",
+      "EDID": "NVDLC04NukeNCRGlowingGhoul50",
+      "FULL": "Soldado Necrótico Luminescente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEE2",
+      "FORMID": "00DEE2",
+      "EDID": "NVDLC04TunnelerAlt",
+      "FULL": "Tunelador"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "KEYM": [
+    {
+      "FORM": "@LonesomeRoad.esm:00A905",
+      "FORMID": "00A905",
+      "EDID": "NVDLC04Road01MM03StashKey",
+      "FULL": "Chave do Depósito do Armazém"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C02F",
+      "FORMID": "00C02F",
+      "EDID": "NVDLC04Road01ServiceKey",
+      "FULL": "Chave do Portão de Serviço da Base"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2A9",
+      "FORMID": "00D2A9",
+      "EDID": "NVDLC04NukeLegionCrateKey",
+      "FULL": "Chave do Caixote de Tributo"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@OldWorldBlues.esm:003737",
+      "FORMID": "003737",
+      "EDID": "NVDLC03Narrator",
+      "FULL": "Narrador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A37F",
+      "FORMID": "00A37F",
+      "EDID": "NVDLC03X8ExperimentHusk",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A40E",
+      "FORMID": "00A40E",
+      "EDID": "dalptest",
+      "FULL": "dalptest"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A93E",
+      "FORMID": "00A93E",
+      "EDID": "NVDLC03Lobotomite01Avg",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A93F",
+      "FORMID": "00A93F",
+      "EDID": "NVDLC03Lobotomite01Easy",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A940",
+      "FORMID": "00A940",
+      "EDID": "NVDLC03Lobotomite01Hard",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CE75",
+      "FORMID": "00CE75",
+      "EDID": "NVDLC03CorpseSuitAvg",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CE76",
+      "FORMID": "00CE76",
+      "EDID": "NVDLC03CorpseSuitEasy",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CE77",
+      "FORMID": "00CE77",
+      "EDID": "NVDLC03CorpseSuitHard",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D4C0",
+      "FORMID": "00D4C0",
+      "EDID": "NVDLC03X13Fenix",
+      "FULL": "Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D8AA",
+      "FORMID": "00D8AA",
+      "EDID": "NVDLC03FollowersDoctorDead",
+      "FULL": "Dr. dos Seguidores do Apocalipse"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5CA",
+      "FORMID": "00E5CA",
+      "EDID": "NVDLC03X8CountdownNPC",
+      "FULL": "Contagem regressiva"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F059",
+      "FORMID": "00F059",
+      "EDID": "NVDLC03SinkBioResearchLabTalker",
+      "FULL": "Voz da Estação de Pesquisa Biológica (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F05C",
+      "FORMID": "00F05C",
+      "EDID": "NVDLC03SinkSinkTalker",
+      "FULL": "Voz da Cuba (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F05F",
+      "FORMID": "00F05F",
+      "EDID": "NVDLC03SinkToasterTalker",
+      "FULL": "Voz de Torradeira (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F061",
+      "FORMID": "00F061",
+      "EDID": "NVDLC03SinkMainComputerTalker",
+      "FULL": "CIU da Pia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F062",
+      "FORMID": "00F062",
+      "EDID": "NVDLC03SinkLightSwitch01Talker",
+      "FULL": "Interruptor de Luz 01 (Voz) (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F063",
+      "FORMID": "00F063",
+      "EDID": "NVDLC03SinkLightSwitch02Talker",
+      "FULL": "Interruptor de Luz 02 (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F064",
+      "FORMID": "00F064",
+      "EDID": "NVDLC03SinkJukeboxTalker",
+      "FULL": "Voz da Jukebox (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F065",
+      "FORMID": "00F065",
+      "EDID": "NVDLC03SinkBookChuteTalker",
+      "FULL": "Voz do Ejetor de Livros (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F066",
+      "FORMID": "00F066",
+      "EDID": "NVDLC03SinkAutoDocTalker",
+      "FULL": "Voz do Auto-Doc (NÃO USADO NO JOGO)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F42A",
+      "FORMID": "00F42A",
+      "EDID": "VVCorpse08",
+      "FULL": "Morador do Ermo 1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0E8609",
+      "FORMID": "0E8609",
+      "EDID": "VVCorpse01",
+      "FULL": "Habitante de Mojave"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012034",
+      "FORMID": "012034",
+      "EDID": "NVDLC03HologramFriendTemplate",
+      "FULL": "Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013202",
+      "FORMID": "013202",
+      "EDID": "NVDLC03SkeletonAvg",
+      "FULL": "Esqueleto do Laboratório Animatrônico Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013203",
+      "FORMID": "013203",
+      "EDID": "NVDLC03SkeletonEasy",
+      "FULL": "Esqueleto do Laboratório Animatrônico Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013204",
+      "FORMID": "013204",
+      "EDID": "NVDLC03SkeletonHard",
+      "FULL": "Esqueleto do Laboratório Animatrônico Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5B",
+      "FORMID": "013A5B",
+      "EDID": "NVDLC03RefugeeLvl",
+      "FULL": "Sobrevivente do Acampamento Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5C",
+      "FORMID": "013A5C",
+      "EDID": "NVDLC03RefugeeAvg",
+      "FULL": "Sobrevivente do Acampamento Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5D",
+      "FORMID": "013A5D",
+      "EDID": "NVDLC03RefugeeEasy",
+      "FULL": "Sobrevivente do Acampamento Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5E",
+      "FORMID": "013A5E",
+      "EDID": "NVDLC03RefugeeHard",
+      "FULL": "Sobrevivente do Acampamento Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0143F5",
+      "FORMID": "0143F5",
+      "EDID": "NVDLC03Ulysses",
+      "FULL": "Ulysses"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0143F8",
+      "FORMID": "0143F8",
+      "EDID": "NVDLC03Christine",
+      "FULL": "Christine"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445E",
+      "FORMID": "01445E",
+      "EDID": "NVDLC03SkeletonBoss",
+      "FULL": "Esqueleto animatrônico avançado Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445F",
+      "FORMID": "01445F",
+      "EDID": "NVDLC03RefugeeBoss1",
+      "FULL": "Número 34"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014460",
+      "FORMID": "014460",
+      "EDID": "NVDLC03RefugeeBoss2",
+      "FULL": "Número 27"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014461",
+      "FORMID": "014461",
+      "EDID": "NVDLC03LobotomiteBoss",
+      "FULL": "Sujeito de Teste 1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014462",
+      "FORMID": "014462",
+      "EDID": "NVDLC03CorpseSuitBoss",
+      "FULL": "Cinto de Trauma Mestre Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D82",
+      "FORMID": "014D82",
+      "EDID": "NVDLC03DeadGhoul",
+      "FULL": "Sobrevivente Morto do Acampamento Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D83",
+      "FORMID": "014D83",
+      "EDID": "NVDLC03CorpseSuitAvgRespawn",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D84",
+      "FORMID": "014D84",
+      "EDID": "NVDLC03CorpseSuitEasyRespawn",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D85",
+      "FORMID": "014D85",
+      "EDID": "NVDLC03CorpseSuitHardRespawn",
+      "FULL": "Colete Neutralizador de Trauma Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D87",
+      "FORMID": "014D87",
+      "EDID": "NVDLC03Lobotomite01AvgRespawn",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D88",
+      "FORMID": "014D88",
+      "EDID": "NVDLC03Lobotomite01EasyRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D89",
+      "FORMID": "014D89",
+      "EDID": "NVDLC03Lobotomite01HardRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015504",
+      "FORMID": "015504",
+      "EDID": "NVDLC03X8LobotomiteDEAD",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01199A",
+      "FORMID": "01199A",
+      "EDID": "NVDLC03LobotomiteFace04",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01199B",
+      "FORMID": "01199B",
+      "EDID": "NVDLC03LobotomiteFace02",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01199C",
+      "FORMID": "01199C",
+      "EDID": "NVDLC03LobotomiteFace03",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F4E",
+      "FORMID": "012F4E",
+      "EDID": "NVDLC03Lobotomite02Avg",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F8E",
+      "FORMID": "012F8E",
+      "EDID": "NVDLC03Lobotomite03Avg",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F8F",
+      "FORMID": "012F8F",
+      "EDID": "NVDLC03Lobotomite04Avg",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAB",
+      "FORMID": "012FAB",
+      "EDID": "NVDLC03Lobotomite02AvgRespawn",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAC",
+      "FORMID": "012FAC",
+      "EDID": "NVDLC03Lobotomite03AvgRespawn",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAD",
+      "FORMID": "012FAD",
+      "EDID": "NVDLC03Lobotomite04AvgRespawn",
+      "FULL": "Lobotomite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FAE",
+      "FORMID": "012FAE",
+      "EDID": "NVDLC03Lobotomite02EasyRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FB7",
+      "FORMID": "012FB7",
+      "EDID": "NVDLC03Lobotomite02HardRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FB8",
+      "FORMID": "012FB8",
+      "EDID": "NVDLC03Lobotomite03EasyRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FB9",
+      "FORMID": "012FB9",
+      "EDID": "NVDLC03Lobotomite03HardRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBA",
+      "FORMID": "012FBA",
+      "EDID": "NVDLC03Lobotomite04EasyRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBB",
+      "FORMID": "012FBB",
+      "EDID": "NVDLC03Lobotomite04HardRespawn",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBC",
+      "FORMID": "012FBC",
+      "EDID": "NVDLC03Lobotomite02Easy",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBD",
+      "FORMID": "012FBD",
+      "EDID": "NVDLC03Lobotomite03Easy",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBE",
+      "FORMID": "012FBE",
+      "EDID": "NVDLC03Lobotomite04Easy",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FBF",
+      "FORMID": "012FBF",
+      "EDID": "NVDLC03Lobotomite02Hard",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FC0",
+      "FORMID": "012FC0",
+      "EDID": "NVDLC03Lobotomite03Hard",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FC1",
+      "FORMID": "012FC1",
+      "EDID": "NVDLC03Lobotomite04Hard",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FC2",
+      "FORMID": "012FC2",
+      "EDID": "NVDLC03Lobotomite01AvgF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FC3",
+      "FORMID": "012FC3",
+      "EDID": "NVDLC03Lobotomite01AvgRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FCA",
+      "FORMID": "012FCA",
+      "EDID": "NVDLC03Lobotomite01EasyF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FCD",
+      "FORMID": "012FCD",
+      "EDID": "NVDLC03Lobotomite01EasyRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FCF",
+      "FORMID": "012FCF",
+      "EDID": "NVDLC03Lobotomite01HardF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FD6",
+      "FORMID": "012FD6",
+      "EDID": "NVDLC03Lobotomite01HardRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FD7",
+      "FORMID": "012FD7",
+      "EDID": "NVDLC03Lobotomite02AvgF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FD8",
+      "FORMID": "012FD8",
+      "EDID": "NVDLC03Lobotomite02AvgRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FF9",
+      "FORMID": "012FF9",
+      "EDID": "NVDLC03Lobotomite02EasyF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FFA",
+      "FORMID": "012FFA",
+      "EDID": "NVDLC03Lobotomite02EasyRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012FFD",
+      "FORMID": "012FFD",
+      "EDID": "NVDLC03Lobotomite02HardF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013015",
+      "FORMID": "013015",
+      "EDID": "NVDLC03Lobotomite02HardRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013016",
+      "FORMID": "013016",
+      "EDID": "NVDLC03LobotomiteFace02F",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013017",
+      "FORMID": "013017",
+      "EDID": "NVDLC03LobotomiteFace03F",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01301B",
+      "FORMID": "01301B",
+      "EDID": "NVDLC03LobotomiteFace04F",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01301D",
+      "FORMID": "01301D",
+      "EDID": "NVDLC03Lobotomite03AvgF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01301E",
+      "FORMID": "01301E",
+      "EDID": "NVDLC03Lobotomite03AvgRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01301F",
+      "FORMID": "01301F",
+      "EDID": "NVDLC03Lobotomite03EasyF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013020",
+      "FORMID": "013020",
+      "EDID": "NVDLC03Lobotomite03EasyRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013021",
+      "FORMID": "013021",
+      "EDID": "NVDLC03Lobotomite03HardF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013024",
+      "FORMID": "013024",
+      "EDID": "NVDLC03Lobotomite03HardRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013025",
+      "FORMID": "013025",
+      "EDID": "NVDLC03Lobotomite04AvgF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01304B",
+      "FORMID": "01304B",
+      "EDID": "NVDLC03Lobotomite04AvgRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01304C",
+      "FORMID": "01304C",
+      "EDID": "NVDLC03Lobotomite04EasyF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01304D",
+      "FORMID": "01304D",
+      "EDID": "NVDLC03Lobotomite04EasyRespawnF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013051",
+      "FORMID": "013051",
+      "EDID": "NVDLC03Lobotomite04HardF",
+      "FULL": "Lobotomita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013057",
+      "FORMID": "013057",
+      "EDID": "NVDLC03Lobotomite04HardRespawnF",
+      "FULL": "Lobotomita"
+    }
+  ]
+}

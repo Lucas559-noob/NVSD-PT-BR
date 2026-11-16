@@ -1,0 +1,493 @@
+{
+  "REFR": [
+    {
+      "FORM": "@HonestHearts.esm:008884",
+      "FORMID": "008884",
+      "EDID": "ThreeMarysMarker",
+      "XMRK": "Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008885",
+      "FORMID": "008885",
+      "EDID": "SouthernPassageMapMarker",
+      "XMRK": "Passagem Sul"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008886",
+      "FORMID": "008886",
+      "EDID": "EasternVirginMapMarker",
+      "XMRK": "Acampamento dos Dead Horses"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008887",
+      "FORMID": "008887",
+      "EDID": "PineCreekMapMarker",
+      "XMRK": "Túnel de Pine Creek"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008889",
+      "FORMID": "008889",
+      "EDID": "TheNarrowsMapMarker",
+      "XMRK": "Acampamento dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E07",
+      "FORMID": "008E07",
+      "RXATO": "Entre na Caverna Crossroads"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E08",
+      "FORMID": "008E08",
+      "RXATO": "Entre na Caverna do Sino de Vidro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E0A",
+      "FORMID": "008E0A",
+      "RXATO": "Entre na Caverna da Flor Doutore"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E0B",
+      "FORMID": "008E0B",
+      "RXATO": "Entre na Caverna da Meia Rata"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E6A",
+      "FORMID": "008E6A",
+      "EDID": "NVDLC023MarysExtDoor02",
+      "RXATO": "Entrar na Caverna das Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E6B",
+      "FORMID": "008E6B",
+      "EDID": "NVDLC023MarysExtDoor01",
+      "RXATO": "Entrar na Caverna das Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E0D",
+      "FORMID": "008E0D",
+      "RXATO": "Entre na Caverna da Encruzilhada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093CB",
+      "FORMID": "0093CB",
+      "EDID": "BighornBluffMapMarker",
+      "XMRK": "Blefe do Carneiro Selvagem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093D2",
+      "FORMID": "0093D2",
+      "EDID": "VirginRiverMapMarker",
+      "XMRK": "Rio Virgem"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009470",
+      "FORMID": "009470",
+      "RXATO": "Entre na Caverna Ossos de Pedra"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009471",
+      "FORMID": "009471",
+      "RXATO": "Entre na Caverna da Meia Rata"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094C1",
+      "FORMID": "0094C1",
+      "RXATO": "Entre na Caverna do Pássaro Branco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D2",
+      "FORMID": "0094D2",
+      "EDID": "PatriarchsCampgroundMarker",
+      "XMRK": "Acampamento dos Patriarcas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D3",
+      "FORMID": "0094D3",
+      "EDID": "RangerStationMapMarker",
+      "XMRK": "Posto de Patrulha de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D4",
+      "FORMID": "0094D4",
+      "EDID": "SorrowsForkCampgroundMarker",
+      "XMRK": "Acampamento de Sorrows Fork"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D5",
+      "FORMID": "0094D5",
+      "EDID": "ZionFishingLodgeMarker",
+      "XMRK": "Cabana de Pesca de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D6",
+      "FORMID": "0094D6",
+      "EDID": "VirginForkCampgroundMarker",
+      "XMRK": "Acampamento Virgin Fork"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D7",
+      "FORMID": "0094D7",
+      "XMRK": "Posto de Guarda Peregrine"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094D9",
+      "FORMID": "0094D9",
+      "EDID": "NVDLC02BusMapMarker",
+      "XMRK": "Ônibus de Reconhecimento Acidentado"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094FB",
+      "FORMID": "0094FB",
+      "XMRK": "Posto Avançado Ranger Eagle"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094FC",
+      "FORMID": "0094FC",
+      "XMRK": "Posto de Guarda-florestal Osprey"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094FD",
+      "FORMID": "0094FD",
+      "EDID": "GhostOfSheDenMapMarker",
+      "XMRK": "Covil Fantasma"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094FE",
+      "FORMID": "0094FE",
+      "EDID": "CrossroadCavernMapMarker",
+      "XMRK": "Caverna da Encruzilhada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094FF",
+      "FORMID": "0094FF",
+      "EDID": "ThreeMarysCaveMarker",
+      "XMRK": "Caverna das Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009500",
+      "FORMID": "009500",
+      "EDID": "CourtForkOverlookMarker",
+      "XMRK": "Mirante da Curva do Tribunal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009501",
+      "FORMID": "009501",
+      "EDID": "EastForkCampgroundMarker",
+      "XMRK": "Acampamento North Fork"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009502",
+      "FORMID": "009502",
+      "XMRK": "Vale de Zion - Posto de Boas-Vindas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009660",
+      "FORMID": "009660",
+      "EDID": "WhiteLegsCampMarker",
+      "XMRK": "Acampamento dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0098E7",
+      "FORMID": "0098E7",
+      "EDID": "WhiteBirdsCaveMapMarker",
+      "XMRK": "Caverna do Pássaro Branco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0098E8",
+      "FORMID": "0098E8",
+      "XMRK": "Caverna Flor Doutore"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0098E9",
+      "FORMID": "0098E9",
+      "EDID": "HalfMouseCaveMapMarker",
+      "XMRK": "Caverna do Rato Meio a Meio"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0098EA",
+      "FORMID": "0098EA",
+      "EDID": "StoneBonesCaveMapMarker",
+      "XMRK": "Caverna Stone Bones"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0098EB",
+      "FORMID": "0098EB",
+      "XMRK": "Caverna da Rocha Caída"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A66E",
+      "FORMID": "00A66E",
+      "EDID": "NVDLC02ZionToMojaveDoorREF",
+      "RXATO": "Jornada para a Caverna da Passagem do Norte"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B245",
+      "FORMID": "00B245",
+      "RXATO": "Entre na Caverna Ossos de Pedra"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B246",
+      "FORMID": "00B246",
+      "EDID": "GlassChimeCaveMapMarker",
+      "XMRK": "Caverna do Sino de Vidro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3CE",
+      "FORMID": "00B3CE",
+      "EDID": "AngelCaveMapMarkerREF",
+      "XMRK": "Caverna Angel"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B3CF",
+      "FORMID": "00B3CF",
+      "EDID": "EasternVirginMarker",
+      "XMRK": "Virgem Oriental"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BBFC",
+      "FORMID": "00BBFC",
+      "EDID": "NVDLC02ZionSCaveWDoor01REF",
+      "RXATO": "Entrar na Caverna Morning Glory"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BBFD",
+      "FORMID": "00BBFD",
+      "EDID": "NVDLC02ZionSCaveSDoor01REF",
+      "RXATO": "Entrar na Caverna Two Skies"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF30",
+      "FORMID": "00BF30",
+      "EDID": "NVDLC02ZionSporeCaveDoor01REF",
+      "RXATO": "Entre na Cueva Guarache"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF33",
+      "FORMID": "00BF33",
+      "XMRK": "Cache do Sobrevivente"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF34",
+      "FORMID": "00BF34",
+      "EDID": "CuevadelaRamaNegraMarker",
+      "XMRK": "Acampamento dos Perseguidores"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF35",
+      "FORMID": "00BF35",
+      "EDID": "TwoSkiesCaveMarker",
+      "XMRK": "Caverna Dois Céus"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF36",
+      "FORMID": "00BF36",
+      "XMRK": "Caverna Yao Guai"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF37",
+      "FORMID": "00BF37",
+      "EDID": "MorningGloryMapMarker",
+      "XMRK": "Caverna da Glória da Manhã"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BF38",
+      "FORMID": "00BF38",
+      "EDID": "CuevaGuaracheMarker",
+      "XMRK": "Cueva Guarache"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7E6",
+      "FORMID": "00C7E6",
+      "EDID": "AerieCaveMarker",
+      "XMRK": "Depósito de Sobrevivência Aerie"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C975",
+      "FORMID": "00C975",
+      "EDID": "AntBurrowMarker",
+      "XMRK": "Toca de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D26D",
+      "FORMID": "00D26D",
+      "EDID": "OldRockvilleBridgeMarker",
+      "XMRK": "Ponte Antiga de Rockville"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D26E",
+      "FORMID": "00D26E",
+      "XMRK": "Ponte do Garfo Leste"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4C8",
+      "FORMID": "00D4C8",
+      "XMRK": "Cais de Red Rapids"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4C9",
+      "FORMID": "00D4C9",
+      "EDID": "TheBendBridgeMarker",
+      "XMRK": "A Ponte da Curva"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CA",
+      "FORMID": "00D4CA",
+      "XMRK": "Cais da Muralha do Vento"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CB",
+      "FORMID": "00D4CB",
+      "XMRK": "Cais da Água Clara"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CC",
+      "FORMID": "00D4CC",
+      "EDID": "ZionGeneralStoreMarker",
+      "XMRK": "Armazém Geral"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CD",
+      "FORMID": "00D4CD",
+      "EDID": "EastForkBridgeMarker",
+      "XMRK": "Ponte de North Fork"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CE",
+      "FORMID": "00D4CE",
+      "XMRK": "Sentinelas Solares"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4CF",
+      "FORMID": "00D4CF",
+      "XMRK": "A Aerie"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D50A",
+      "FORMID": "00D50A",
+      "XMRK": "Túmulos Funerários"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D675",
+      "FORMID": "00D675",
+      "EDID": "CaterpillarsMoundMarker",
+      "XMRK": "Montículo da Lagarta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD6B",
+      "FORMID": "00DD6B",
+      "XMRK": "A Coluna Vertebral"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F582",
+      "FORMID": "00F582",
+      "XMRK": "Ponta da Adaga"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F672",
+      "FORMID": "00F672",
+      "XMRK": "Acampamento da Guarda dos Moradores do Vault 22"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011078",
+      "FORMID": "011078",
+      "XMRK": "O Portão Vermelho"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BBC6",
+      "FORMID": "00BBC6",
+      "EDID": "NVDLC02ZionSCaveWIntDoor01REF",
+      "RXATO": "Saída para o Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C5D7",
+      "FORMID": "00C5D7",
+      "EDID": "NVDLC02ZionSporeCaveIntDoor01REF",
+      "RXATO": "Saída para o Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B756",
+      "FORMID": "00B756",
+      "EDID": "NVDLC02YaouGuaiCaveIntExitDoor01Ref",
+      "RXATO": "Saída para o Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7CD",
+      "FORMID": "00C7CD",
+      "RXATO": "Plantar Explosivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7CE",
+      "FORMID": "00C7CE",
+      "RXATO": "Plantar Explosivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7CF",
+      "FORMID": "00C7CF",
+      "RXATO": "Plantar Explosivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BB95",
+      "FORMID": "00BB95",
+      "EDID": "NVDLC02ZionSCaveSIntDoor01REF",
+      "RXATO": "Saída para o Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0097B7",
+      "FORMID": "0097B7",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A44",
+      "FORMID": "008A44",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0101B8",
+      "FORMID": "0101B8",
+      "EDID": "NVDLC02MojaveToZionDoorREF",
+      "RXATO": "Jornada ao Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008AEF",
+      "FORMID": "008AEF",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008BF3",
+      "FORMID": "008BF3",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009122",
+      "FORMID": "009122",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008CF3",
+      "FORMID": "008CF3",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00975A",
+      "FORMID": "00975A",
+      "RXATO": "Saída para Zion Canyon"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E1D",
+      "FORMID": "008E1D",
+      "EDID": "NVDLC023MarysIntDoor01",
+      "RXATO": "Saída para As Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E1E",
+      "FORMID": "008E1E",
+      "EDID": "NVDLC023MarysIntDoor02",
+      "RXATO": "Saída para As Três Marias"
+    },
+    {
+      "FORM": "@HonestHearts.esm:008DB6",
+      "FORMID": "008DB6",
+      "RXATO": "Saída para Zion Canyon"
+    }
+  ]
+}

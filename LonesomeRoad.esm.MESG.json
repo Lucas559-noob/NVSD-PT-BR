@@ -1,0 +1,642 @@
+{
+  "MESG": [
+    {
+      "FORM": "@LonesomeRoad.esm:003605",
+      "FORMID": "003605",
+      "EDID": "NVDLC04LoadMessage01",
+      "FULL": "A Reunião",
+      "DESC": "Seu Pip-Boy recebeu um sinal - coordenadas que levam aos Destroços do Cânion a oeste de Primm. Seguindo as coordenadas estão as palavras \"Mensageiro 6\". Assinado, \"Ulysses\"."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003606",
+      "FORMID": "003606",
+      "EDID": "NVDLC04LoadMessage02",
+      "FULL": "A Estrada Solitária",
+      "DESC": "A DLC \"A Estrada Solitária\" foi carregada. Seu limite de nível foi aumentado em 5."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039E5",
+      "FORMID": "0039E5",
+      "EDID": "NVDLC04CompanionMSG",
+      "FULL": "A Estrada Solitária",
+      "DESC": "Você não pode levar outros com você para o Divide. Essa estrada é uma que você deve trilhar sozinho."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004682",
+      "FORMID": "004682",
+      "EDID": "NVDLC04SnowGlobeMsg",
+      "DESC": "Esta bola de neve foi adicionada à coleção no Lucky 38."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008465",
+      "FORMID": "008465",
+      "EDID": "NVDLC04EDEMessage",
+      "DESC": "Este console controla o acesso ao silo em si, mas está criptografado além da sua capacidade de hackear. Você precisará encontrar algo que possa quebrar a criptografia para prosseguir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00846E",
+      "FORMID": "00846E",
+      "EDID": "NVDLC04EDEGoneMessage",
+      "DESC": "Ulysses tomou o controle de ED-E. Você perdeu ED-E como companheiro, e tudo que ele estava carregando foi transferido para você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00868A",
+      "FORMID": "00868A",
+      "EDID": "NVDLC04ElevatorNoResponseMSG",
+      "DESC": "Não há resposta do elevador."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008692",
+      "FORMID": "008692",
+      "EDID": "NVDLC04Silo02LockdownMSG",
+      "FULL": "Porta do Silo Selada",
+      "DESC": "Este silo está em modo de bloqueio em preparação para o lançamento. Nenhuma entrada ou saída é permitida até que a sequência de lançamento seja concluída."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FB",
+      "FORMID": "0092FB",
+      "EDID": "NVDLC04Silo01TerminalSecurityTurretMSG",
+      "FULL": "Terminal de Segurança da Torreta do Silo de Hopeville",
+      "DESC": "Este terminal está danificado.\n\nTalvez você consiga consertá-lo. [50 Reparo]\n\nO que você gostaria de fazer?",
+      "ITXT": [
+        "Deixe o terminal em paz.",
+        "Conserte o terminal."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FC",
+      "FORMID": "0092FC",
+      "EDID": "NVDLC04Silo01MainframeMSG",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "O mainframe está bloqueado com uma sequência de criptografia segura de nível militar. Você precisará encontrar os códigos de segurança e carregá-los no ED-E para obter acesso ao mainframe.",
+      "ITXT": [
+        "Deixe o mainframe em paz."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FD",
+      "FORMID": "0092FD",
+      "EDID": "NVDLC04Silo01MainframeMSG02",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "O mainframe está bloqueado com uma sequência de criptografia segura de nível militar. Você precisará encontrar os códigos de segurança e carregá-los no ED-E para obter acesso ao mainframe."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FE",
+      "FORMID": "0092FE",
+      "EDID": "NVDLC04Silo01MainframeAccessMSG",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "Você agora pode acessar o mainframe do silo.\n\nO que você gostaria de fazer?",
+      "ITXT": [
+        "Deixe o mainframe em paz.",
+        "Abra as portas do bunker do silo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092FF",
+      "FORMID": "0092FF",
+      "EDID": "NVDLC04Silo01MainframeOpenMSG",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "Você já abriu a porta do bunker."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009300",
+      "FORMID": "009300",
+      "EDID": "NVDLC04Silo01MainframeEDEMSG",
+      "FULL": "ED-E Conectado ao Mainframe do Silo",
+      "DESC": "ED-E usou os códigos de segurança para destravar o mainframe."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00938B",
+      "FORMID": "00938B",
+      "EDID": "NVDLC04TempleEyebotControlMsgR00",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Bem-vindo à Estação de Controle de Eyebot",
+      "ITXT": [
+        "Deixe em paz.",
+        "Desconectar Energia do Eyebot (Conserto)",
+        "Enviar Comando de Desligamento do Olho-Robô (Ciência)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0094EF",
+      "FORMID": "0094EF",
+      "EDID": "NVDLC04WarheadMSG",
+      "FULL": "Ogiva",
+      "DESC": "Esta é uma ogiva nuclear intacta. Se o que Ulysses disse for verdade, o Detonador a Laser em Hopeville deve ser capaz de detoná-las."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009508",
+      "FORMID": "009508",
+      "EDID": "NVDLC04Silo01PowerEDEMSG",
+      "FULL": "ED-E Conectado ao Mainframe do Silo",
+      "DESC": "ED-E restaurou a energia dos controles de acesso do silo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950A",
+      "FORMID": "00950A",
+      "EDID": "NVDLC04EDETerminalPlayerMSG",
+      "DESC": "Este terminal só pode ser acessado por um Eyebot.",
+      "ITXT": [
+        "Deixe o terminal em paz.",
+        "Peça para o ED-E destravar o terminal para você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00950B",
+      "FORMID": "00950B",
+      "EDID": "NVDLC04EDETerminalMSG",
+      "DESC": "ED-E desbloqueou um terminal para você!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009695",
+      "FORMID": "009695",
+      "EDID": "NVDLC04TempleEyebotControlMsgR01",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Desconecte o Eyebot da fonte de energia.\n(Reparo 100 necessário)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Desconectar Energia do Eyebot",
+        "Enviar Comando de Desligamento do Olho-Robô (Ciência)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009696",
+      "FORMID": "009696",
+      "EDID": "NVDLC04TempleEyebotControlMsgR02",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Envie ao Eyebot um comando de desligamento.\n(Ciência 100 Necessária)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Enviar Comando de Desligamento do Eyebot",
+        "Desconectar Energia do Eyebot (Conserto)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009697",
+      "FORMID": "009697",
+      "EDID": "NVDLC04TempleEyebotControlMsgR03",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Eyebot desligado com sucesso. Reconfigurar os sistemas de mira do Eyebot?\n(Reparo 100 necessário)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Reconfigurar Sistemas de Mira do Olho-Robô"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009698",
+      "FORMID": "009698",
+      "EDID": "NVDLC04TempleEyebotControlMsgL00",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Bem-vindo à Estação de Controle de Eyebot",
+      "ITXT": [
+        "Deixe em paz.",
+        "Desconectar Energia do Eyebot (Conserto)",
+        "Enviar Comando de Desligamento do Olho-Robô (Ciência)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009699",
+      "FORMID": "009699",
+      "EDID": "NVDLC04TempleEyebotControlMsgL01",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Desconecte o Eyebot da fonte de energia.\n(Reparo 100 necessário)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Desconectar Energia do Eyebot",
+        "Enviar Comando de Desligamento do Olho-Robô (Ciência)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00969A",
+      "FORMID": "00969A",
+      "EDID": "NVDLC04TempleEyebotControlMsgL02",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Envie ao Eyebot um comando de desligamento.\n(Ciência 100 Necessária)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Enviar Comando de Desligamento do Eyebot",
+        "Desconectar Energia do Eyebot (Conserto)"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00969B",
+      "FORMID": "00969B",
+      "EDID": "NVDLC04TempleEyebotControlMsgL03",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Eyebot desligado com sucesso. Reconfigurar os sistemas de mira do Eyebot?\n(Reparo 100 necessário)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Reconfigurar Sistemas de Mira do Olho-Robô"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009A0C",
+      "FORMID": "009A0C",
+      "EDID": "NVDLC04ReloadMessage",
+      "FULL": "Morte",
+      "DESC": "Pare de pular de prédios."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C95",
+      "FORMID": "009C95",
+      "EDID": "NVDLC04TempleLaunchMSG",
+      "FULL": "Terminal de Controle de Lançamento",
+      "DESC": "Este terminal já está envolvido em sua sequência de contagem regressiva e o código de aborto foi substituído. Você pode ser capaz de mudar o alvo dos mísseis, ou acelerar a contagem regressiva e lançar os mísseis imediatamente.",
+      "ITXT": [
+        "Deixe o console em paz.",
+        "Tentar cancelar o lançamento.",
+        "Redirecione os mísseis para alvejar tanto a NCR quanto a Legião de Caesar.",
+        "Redirecione os mísseis para o território de Caesar.",
+        "Acelerar a contagem regressiva e lançar os mísseis contra a NCR."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C96",
+      "FORMID": "009C96",
+      "EDID": "NVDLC04TempleLaunchCodesMSG",
+      "FULL": "Terminal de Controle de Lançamento",
+      "DESC": "O código de aborto está criptografado com uma sequência de criptografia militar pré-guerra incrivelmente avançada. Você teria que ser um robô especialista em quebrar códigos para decifrá-lo a tempo.",
+      "ITXT": [
+        "Tente outra coisa.",
+        "Pedir ajuda ao ED-E."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C98",
+      "FORMID": "009C98",
+      "EDID": "NVDLC04TempleNCRConfirmMSG",
+      "FULL": "Terminal de Controle de Lançamento",
+      "DESC": "Isso lançará os mísseis de Ulysses contra alvos no coração da NCR, fazendo chover fogo nuclear sobre suas cidades e seu povo. Tem certeza de que deseja continuar?",
+      "ITXT": [
+        "Não.",
+        "Sim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C99",
+      "FORMID": "009C99",
+      "EDID": "NVDLC04TempleCaesarConfirmMSG",
+      "FULL": "Terminal de Controle de Lançamento",
+      "DESC": "Isso lançará os mísseis de Ulysses contra alvos nas terras a leste do Colorado controladas pela Legião de Caesar, fazendo chover fogo nuclear sobre suas cidades e suas tribos. Tem certeza de que deseja continuar?",
+      "ITXT": [
+        "Não.",
+        "Sim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A549",
+      "FORMID": "00A549",
+      "EDID": "NVDLC04BowieKnifeVATSFailedMSG",
+      "DESC": "Jogador não está em modo furtivo! Ataque \"Vamos Dançar\" falhou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A54A",
+      "FORMID": "00A54A",
+      "EDID": "NVDLC04BowieKnifeVATSHitMSG",
+      "DESC": "Derrubada de inimigo! Ataque Vamos Dançar acertou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A54B",
+      "FORMID": "00A54B",
+      "EDID": "NVDLC04BowieKnifeVATSNoBloodMSG",
+      "DESC": "Inimigo não pode sangrar! Sem finalização."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6B5",
+      "FORMID": "00A6B5",
+      "EDID": "NVDLC04TempleEyebotControlMsgL04",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Eyebot desligado com sucesso. Reconfigurar os sistemas de mira do Eyebot?\n(Ciência 100 necessária)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Reconfigurar Sistemas de Mira do Olho-Robô"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6B6",
+      "FORMID": "00A6B6",
+      "EDID": "NVDLC04TempleEyebotControlMsgR04",
+      "FULL": "Estação de Controle Eyebot",
+      "DESC": "Eyebot desligado com sucesso. Reconfigurar os sistemas de mira do Eyebot?\n(Ciência 100 necessária)",
+      "ITXT": [
+        "Deixe em paz.",
+        "Reconfigurar Sistemas de Mira do Olho-Robô"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A82E",
+      "FORMID": "00A82E",
+      "EDID": "NVDLC04LaserTripwireEmitterMSG",
+      "DESC": "Você pode desativar este emissor (e o raio que se origina dele) se tiver habilidade suficiente com eletrônica.\n\n(Reparo de 90 ou superior necessário.)",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Desative o feixe do sensor laser."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A838",
+      "FORMID": "00A838",
+      "EDID": "NVDLC04LaserTripwireEmitterHarmlessMSG",
+      "DESC": "Com seu feixe ativado, este emissor não está mais funcional."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A86E",
+      "FORMID": "00A86E",
+      "EDID": "NVDLC04EDECommissaryLockedMSG",
+      "DESC": "Este terminal só pode ser destravado por um Eyebot.",
+      "ITXT": [
+        "Deixe o terminal em paz.",
+        "Peça para o ED-E destravar o terminal para você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A86F",
+      "FORMID": "00A86F",
+      "EDID": "NVDLC04EDECommissaryUnlockedMSG",
+      "DESC": "Bem-vindo(a) ao Posto Automatizado Conjunto de Reparos e Comissariado das Forças Armadas dos Estados Unidos! Por favor, insira sua seleção abaixo.",
+      "ITXT": [
+        "Deixe o terminal em paz.",
+        "Acessar o Depósito.",
+        "Acessar Interface Universal de Reparos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B06D",
+      "FORMID": "00B06D",
+      "EDID": "NVDLC04UlyssesPackageMSG",
+      "FULL": "Uma Entrega Final",
+      "DESC": "Parece que Ulysses deixou um último pacote para você..."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BF02",
+      "FORMID": "00BF02",
+      "EDID": "NVDLC04TempleNukeAllConfirmMSG",
+      "FULL": "Terminal de Controle de Lançamento",
+      "DESC": "Isso lançará os mísseis de Ulysses contra alvos no coração da NCR e nas terras controladas pela Legião de Caesar, fazendo chover fogo nuclear sobre ambas as facções. Tem certeza de que deseja continuar?",
+      "ITXT": [
+        "Não.",
+        "Sim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C138",
+      "FORMID": "00C138",
+      "EDID": "NVDLC04EDEUpgrade02Message",
+      "DESC": "Você ganhou a Vantagem Camarada-E (Nível 2), permitindo que ED-E fabrique Células de Energia Pequenas ou Células de Microfusão uma vez por dia."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C139",
+      "FORMID": "00C139",
+      "EDID": "NVDLC04EDEUpgradeMessage",
+      "DESC": "Você encontrou um módulo neste Eyebot quebrado que pode aprimorar ED-E. Instalar este módulo concede a você o primeiro nível da Vantagem Camarada-E, permitindo que ED-E conserte sua arma atualmente equipada uma vez por dia.\n\nEsta vantagem é acessada através do diálogo de ED-E. \n\nSe você encontrar mais módulos de aprimoramento, poderá desbloquear níveis adicionais desta Vantagem. Quando você retornar a Mojave, estes aprimoramentos também serão transferidos para o ED-E original."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C43F",
+      "FORMID": "00C43F",
+      "EDID": "NVDLC04JustLuckyImAlivePerkMSG",
+      "DESC": "É Uma Sorte Danada Você Estar Vivo! (+4 em Sorte por 3 minutos)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C475",
+      "FORMID": "00C475",
+      "EDID": "NVDLC04NukedLegionMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Seu ataque nuclear impiedoso à Legião de Caesar devastou as terras a leste do Colorado e alcançou até as fronteiras de Mojave. Em Cottonwood Cove, agora você pode fazer uma jornada de rio até o local de Dry Wells, um acampamento da Legião devastado. Esteja preparado: a área é altamente irradiada e infestada de necróticos da Legião.\n\nVocê também desbloqueou a Vantagem Flagelo do Leste, permitindo que você coloque um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com a NCR por quebrar a espinha dorsal da Legião de Caesar, mas perde reputação com a Legião de Caesar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C476",
+      "FORMID": "00C476",
+      "EDID": "NVDLC04NukedNCRMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Seu ataque nuclear impiedoso à NCR devastou as terras da Califórnia e chegou até as fronteiras do Mojave. No Posto Avançado do Mojave, você pode agora viajar pelo portão oeste para Long 15, o local de um posto avançado da NCR devastado. Esteja preparado: a área é altamente irradiada e infestada de antigos necróticos da NCR.\n\nVocê também desbloqueou a Vantagem Matador de Ursos, permitindo que você coloque um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com a Legião de Caesar por aniquilar a terra natal da NCR, mas perde reputação com a NCR."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C477",
+      "FORMID": "00C477",
+      "EDID": "NVDLC04NukedBothMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "Seu ataque nuclear impiedoso às nações do Mojave devastou as terras da Legião e da NCR e alcançou até as fronteiras do Mojave. No Posto Avançado do Mojave, você agora pode viajar pelo portão oeste para Long 15, o local de um posto avançado da NCR devastado. Em Cottonwood Cove, você agora pode fazer uma viagem de rio para Dry Wells, o local de um acampamento da Legião devastado. Esteja preparado: ambas as áreas são altamente irradiadas e infestadas de necróticos selvagens.\n\nVocê também desbloqueou a Vantagem Fardo do Morto, permitindo que você coloque um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com os Boomers e os Gangsters da Pólvora por suas... tendências destrutivas, mas perde reputação com a NCR e a Legião de Caesar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C47C",
+      "FORMID": "00C47C",
+      "EDID": "NVDLC04NukedNoOneMSG",
+      "FULL": "Os Fogos do Armagedom",
+      "DESC": "A Divisão destruiu cidades, arrancou a pele dos ossos e ameaçou destruir o mundo, mas você sobreviveu – e impediu isso. Você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com os Seguidores do Apocalipse e a Irmandade do Aço por impedir outro Armageddon."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C485",
+      "FORMID": "00C485",
+      "EDID": "NVDLC04NukeSilo2MSG",
+      "FULL": "Milha do Mensageiro",
+      "DESC": "Parece que o míssil atingiu algum lugar do outro lado da Divisa. Acha que conseguiria chegar ao local da explosão a partir de Hopeville... isto é, se tiver coragem de explorar o marco zero de uma explosão nuclear."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C534",
+      "FORMID": "00C534",
+      "EDID": "NVDLC04LonesomeRoadPerkMSG",
+      "FULL": "Vantagem obtida: A Estrada Solitária",
+      "DESC": "Você deixou ED-E para trás no Templo de Ulysses, não que precisasse de ajuda. Enquanto não tiver acompanhantes, seus ataques infligem +10% de dano e você tem +10% de precisão no VATS."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C6A5",
+      "FORMID": "00C6A5",
+      "EDID": "NVDLC04Silo01ReactorDoorClosedMessage",
+      "DESC": "Esta porta está trancada e precisa de eletricidade para abrir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C76F",
+      "FORMID": "00C76F",
+      "EDID": "NVDLC04MarkedPerkMSG",
+      "DESC": "Você recebeu a Vantagem Marcado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7EF",
+      "FORMID": "00C7EF",
+      "EDID": "NVDLC04EDEUpgrade03Message",
+      "DESC": "Você recebeu a vantagem Camarada-E (Nível 3), dando a você e ao ED-E +2 RD."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7F0",
+      "FORMID": "00C7F0",
+      "EDID": "NVDLC04EDEUpgrade04Message",
+      "DESC": "Você ganhou a Vantagem Camarada-E (Nível 4), aumentando seu dano com armas de raio em +5. ED-E também ganha +5 de dano enquanto for seu companheiro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7F1",
+      "FORMID": "00C7F1",
+      "EDID": "NVDLC04EDEUpgrade05Message",
+      "DESC": "Você ganhou a Vantagem Camarada-E (Nível 5), aumentando sua precisão no V.A.T.S. enquanto ED-E for seu companheiro. ED-E também ganha um bônus de precisão enquanto ele for seu companheiro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7F2",
+      "FORMID": "00C7F2",
+      "EDID": "NVDLC04EndgameNoReturnMSG",
+      "FULL": "Ulysses",
+      "DESC": "Depois que subir neste elevador, não poderá voltar até terminar isso. Se tiver mais alguma coisa que queira fazer antes de prosseguir, trate de fazer agora.",
+      "ITXT": [
+        "Dê um passo para trás.",
+        "Pegue o elevador."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA7C",
+      "FORMID": "00CA7C",
+      "EDID": "NVDLC04UniqueDeathclawGauntletMSG",
+      "DESC": "Essa garra é maior e mais impressionante do que as de Destroçadores inferiores. Talvez você consiga transformá-la em uma arma se encontrar uma bancada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CBD7",
+      "FORMID": "00CBD7",
+      "EDID": "NVDLC04AutoDocMSG",
+      "DESC": "Este Auto-Doc é capaz de realizar um exame físico completo e curar o paciente de todas as doenças comuns: envenenamento por radiação, lacerações, ossos quebrados e até dependências químicas.",
+      "ITXT": [
+        "Não fazer nada",
+        "Realizar exame físico."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD4C",
+      "FORMID": "00CD4C",
+      "EDID": "NVDLC04RoughinItClosePipBoyMSG",
+      "FULL": "Apagão!",
+      "DESC": "Ei, cambada, apaguem as luzes! (Feche o Pip-Boy para começar a dormir.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD4E",
+      "FORMID": "00CD4E",
+      "EDID": "NVDLC04RoughinItOutsideOnlyMSG",
+      "FULL": "Isso não é \"Vida Dura\"!",
+      "DESC": "E aí, campistas! O Kit de Saco de Dormir \"Vida Dura!\" só é aprovado para atividades ao ar livre, então saia e experimente por lá."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD50",
+      "FORMID": "00CD50",
+      "EDID": "NVDLC04RoughinItBedrollKitMSG",
+      "FULL": "Kit de Cama Rústica!",
+      "DESC": "O Kit de Saco de Dormir \"Vida Dura!\" permite que você durma em praticamente qualquer lugar sob as estrelas. Selecione-o no seu Pip-Boy e durma para esquecer seus problemas!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDCF",
+      "FORMID": "00CDCF",
+      "EDID": "NVDLC04AutoInjectStimpakUsedMSG",
+      "DESC": "Stimpak automático usado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDD3",
+      "FORMID": "00CDD3",
+      "EDID": "NVDLC04AutoInjectSuperStimpakUsedMSG",
+      "DESC": "Superestimulante Auto-Injetável usado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CEEA",
+      "FORMID": "00CEEA",
+      "EDID": "NVDLC04RushingWaterInEffectMSG",
+      "DESC": "Rushing Water aumentou sua velocidade de ataque."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF1F",
+      "FORMID": "00CF1F",
+      "EDID": "NVDLC04NukeLegionNoGoMSG",
+      "DESC": "Você não pode nadar mais nessa direção."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CFF0",
+      "FORMID": "00CFF0",
+      "EDID": "NVDLC04BlankMagazinePickupMSG",
+      "FULL": "Ei, Leitor Insaciável!",
+      "DESC": "Você conseguiu sua primeira Revista em Branco! Sempre que pegar um livro danificado, ele será transformado em uma dessas a partir de agora. Elas valem mais do que livros normais e você pode usá-las para fazer Revistas de Habilidade! Qualquer Revista de Habilidade que tiver pode ser copiada usando uma em branco em uma Bancada. Tem até uma receita para transformá-la de volta em livro, se quiser!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CFF5",
+      "FORMID": "00CFF5",
+      "EDID": "NVDLC04EDECommissaryMSG",
+      "DESC": "ED-E desbloqueou um rancho para você!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D068",
+      "FORMID": "00D068",
+      "EDID": "NVDLC04TourniquetUsedMSG",
+      "DESC": "Torniquete Boca de Cobra usado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1C5",
+      "FORMID": "00D1C5",
+      "EDID": "NVDLC04EDELeverOnMSG",
+      "DESC": "Este terminal já foi usado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1C6",
+      "FORMID": "00D1C6",
+      "EDID": "NVDLC04EDELeverOffMSG",
+      "DESC": "Esta alavanca ainda não pode ser ativada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D269",
+      "FORMID": "00D269",
+      "EDID": "NVDLC04TunnelerFrenzyMSG",
+      "DESC": "A luz forte deixa o tunneler frenético!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D26A",
+      "FORMID": "00D26A",
+      "EDID": "NVDLC04AbominationFearMSG",
+      "DESC": "A abominação entra em pânico e foge!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6DB",
+      "FORMID": "00D6DB",
+      "EDID": "NVDLC04NoSleepMSG",
+      "DESC": "Você não pode dormir enquanto estiver em combate."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D84E",
+      "FORMID": "00D84E",
+      "EDID": "NVDLC04LevelWarningMSG",
+      "FULL": "A Estrada Solitária",
+      "DESC": "As coordenadas que você recebeu levam a este cânion cheio de destroços devastados pela tempestade. Além fica o Divide.\n\nA DLC \"A Estrada Solitária\" é recomendada para mensageiros experientes (nível 25 ou superior). Você não pode levar companheiros na Estrada Solitária (nem trazer nenhum que encontrar). Você pode carregar qualquer equipamento que tiver sem restrição.\n\nSe a jornada for difícil demais, ou precisar reabastecer, você pode voltar para o Mojave a qualquer momento. Se estiver preparado, siga para as tempestades da Divisão... a história o aguarda.",
+      "ITXT": [
+        "Vá embora.",
+        "Siga a Estrada Solitária."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D878",
+      "FORMID": "00D878",
+      "EDID": "NVDLC04DetonatorMSG",
+      "DESC": "Você encontrou o Detonador a Laser que Ulysses mencionou, uma peça de tecnologia Pré-Guerra que pode detonar as ogivas nucleares espalhadas pela Estrada Solitária. Você pode usá-lo para abrir novos caminhos, matar seus inimigos de longe ou até descobrir esconderijos secretos de saque. É só apontar para uma ogiva, segurar o gatilho e ver a explosão.\n\nSe o que Ulysses disse for verdade, você vai precisar disso para avançar, o que significa que deve haver uma ogiva bloqueando o caminho. Você vai precisar encontrar a ogiva certa e detoná-la."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8F4",
+      "FORMID": "00D8F4",
+      "EDID": "NVDLC04Silo01MainframeCodesMSG",
+      "FULL": "Mainframe do Silo de Hopeville",
+      "DESC": "O mainframe está bloqueado com uma sequência de criptografia segura de nível militar. Os códigos que você enviou para o sistema do ED-E devem ser capazes de desbloqueá-lo.",
+      "ITXT": [
+        "Deixe o mainframe em paz.",
+        "Peça para o ED-E destravar o mainframe."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEB5",
+      "FORMID": "00DEB5",
+      "EDID": "NVDLC04Silo01PowerUseLeverMSG",
+      "FULL": "Controles da Porta Antiexplosão do Silo",
+      "DESC": "Use a alavanca dos controles para restaurar a energia do silo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEB6",
+      "FORMID": "00DEB6",
+      "EDID": "NVDLC04AshtonLaunchUseLeverMSG",
+      "FULL": "Estação de Controle",
+      "DESC": "Use a alavanca da estação de controle para abrir o silo de Ashton."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DF49",
+      "FORMID": "00DF49",
+      "EDID": "NVDLC04FlashbangAbilitiesMSG",
+      "FULL": "Granada de Luz",
+      "DESC": "Você encontrou uma granada de luz e som! Granadas de luz e som são granadas especiais que:\n\n- Causam dano de Fadiga.\n- Reduzem as habilidades de armas do inimigo.\n- Têm chance de enfurecer tunneleres."
+    }
+  ]
+}

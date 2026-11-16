@@ -1,0 +1,4474 @@
+{
+  "INFO": [
+    {
+      "FORM": "@LonesomeRoad.esm:00E128",
+      "RESP": [
+        "{Enquanto o jogador está prestes a sair}Dá pra sentir o peso nos seus pés... você está indo para aquela muralha do Velho Mundo. Hoover Dam. Talvez não agora, mas um dia."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6E",
+      "RESP": [
+        "{Ecoando, zombando, balançando a cabeça} Mesmo depois da estrada que você trilhou, você só vê um traidor {Ênfase}diante de si."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6F",
+      "RESP": [
+        "Nem todo o Leste vai queimar. A Legião não precisa ser destruída, apenas... contida dentro de novas fronteiras.",
+        "Depois disso, ruirá como qualquer cultura criada na guerra, no ímpeto de seguir em frente. Vacilará, entrará em colapso.",
+        "Começarei com o acampamento deles em Dry Wells... que já foi minha terra natal. Uma espécie de justiça."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA72",
+      "RESP": [
+        "Não posso voltar. Vaguei longe demais, longe o suficiente para saber que meu lar se perdeu para mim.",
+        "{Resignado, um pouco triste}Eu não poderia voltar mais do que você poderia retornar ao Oeste. {Nojo}Para a NCR e toda a sua podridão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA69",
+      "RESP": [
+        "{Ênf}A Legião também morreu aqui. {Pausa, mas...}O que você fez... não é {Ênfase}tudo que me afeta."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA68",
+      "RESP": [
+        "{DUPLICADO}RaivaAcidente? Ignorância é uma {Ênfase}escolha. O Chip... uma escolha.",
+        "{DUPLICADO}{Mais para si}Quanto à raiva... é o que carrego pelos mortos e por todos que vêm aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA65",
+      "RESP": [
+        "Sim. E já aconteceu com você também, tenho certeza."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA67",
+      "RESP": [
+        "{Irritado}Não, é um título que {Ênfase}você mereceu. Legião ou não, você traiu mais do que imagina."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA66",
+      "RESP": [
+        "Se é só isso que te move, não vai durar. A Legião... também não vai durar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5F",
+      "RESP": [
+        "{DUPLICADO}{Sorri\/zomba}Que tipo de mundo seria este se o Courier matasse o Courier.",
+        "{DUPLICADO}Você tem distância suficiente pela frente. Guarde o fôlego para a estrada, não o gaste com palavras."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5E",
+      "RESP": [
+        "{Franzindo a testa, leve teste} Você atacou primeiro. Não só a mim... mas a Legião. Ou era o que eu pensava. Não tenho certeza da história agora.",
+        "Seja qual for a bandeira que você segue, ou seguiu... de qualquer forma, você tem doença demais do Urso em você para viver. Divide é a prova disso.",
+        "Quer mais do que isso, siga a estrada. As respostas virão, quanto mais perto você chegar de casa... você e aquela máquina."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5A",
+      "RESP": [
+        "A Legião usa muitas cores, Leste e Oeste. Você... talvez esteja cego pela luz de Vegas, ou pela promessa daquele Chip.",
+        "Ou talvez você tenha andado tanto para o Oeste que a doença do Urso se arrastou para dentro de você. Veremos. Suas ofensas perante Caesar, o menor dos crimes aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA59",
+      "RESP": [
+        "Você já tentou uma vez, não vou te dar outra chance."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5B",
+      "RESP": [
+        "Máquinas... bombas, coisas da NCR, são suas ferramentas, não as minhas. Quando nos encontrarmos, essa máquina não vai me impedir de chegar até você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4E",
+      "RESP": [
+        "A máquina feita com as peças de Navarro? Ela tinha apenas uma mensagem em seu núcleo: voltar para casa, a qualquer custo.",
+        "Ele ecoa seu mestre... e em breve os mísseis aqui também o farão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA51",
+      "RESP": [
+        "{Ligeira raiva, que absurdo é esse}Não há nada dentro da máquina, exceto os meios de despertar os mísseis na Fenda. {Ênf}Essa é sua única mensagem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA52",
+      "RESP": [
+        "{Franze a testa, desconfiado} Você mente. Só havia uma mensagem na máquina, só uma mensagem no pacote que você trouxe.",
+        "A Divide ostentava o símbolo da América... assim como o pacote de Navarro. As origens da máquina não têm... importância."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA50",
+      "RESP": [
+        "{Irritado}O que você espera ganhar me contando isso? Se acha que o símbolo que uso é uma fraqueza..."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4F",
+      "RESP": [
+        "Se devemos sobreviver para carregar sua mensagem... então é isso que será feito. Não deixarei a América morrer aqui.",
+        "Mas... talvez não importe. Mesmo que deponhamos nossas armas, a Divisa... ainda está contra nós."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA44",
+      "RESP": [
+        "[FALHOU] Se essas são suas últimas palavras, são bem fracas. Ações teriam tido mais peso.",
+        "Não há mais nada a ser dito entre nós. Palavras suas não mudarão o que está prestes a acontecer."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA43",
+      "RESP": [
+        "[FUNCIONOU] {leve confusão} Nossa história... {franzindo a testa} o Divide. Essa história foi escrita, suas lições foram aprendidas.",
+        "Não há mais nada a ser escavado dessas rachaduras na terra, nem mais fúria a ser arrancada de seu céu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA40",
+      "RESP": [
+        "{Franzindo a testa}Se você quer me irritar, palavras não serão suficientes. Seu senso moral não tem força aqui no Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA41",
+      "RESP": [
+        "{Frio}Minha casa no Leste, Dry Wells, não existe mais. Faz parte da Legião.",
+        "O único outro lar... a chance de um lar... foi o que você construiu em Divide. Aí você destruiu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA45",
+      "RESP": [
+        "{Pesando as palavras do jogador} Há verdade nisso. A história provou isso.",
+        "{Franzindo a testa, o jogador está jogando palavras de volta nele} Mas Mojave é a prova de que nenhuma pátria é sagrada... até que os símbolos maiores sejam destruídos.",
+        "O que quer que seja construído, o Urso, o Touro... até mesmo Vegas... vai destruir, converter, seja com um propósito ou por acidente."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA42",
+      "RESP": [
+        "{Franzindo a testa}Que me importa a sua perspectiva? Você caminha às cegas, tolamente, para a morte, a sua e a dos outros.",
+        "Você não controla minhas ações e não confunda meus atos com os seus."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3C",
+      "RESP": [
+        "{DUPLICADO}Nada pode impedir o que está por vir. Os mísseis serão lançados. {Pausa}Essas perguntas... suas palavras ou as minhas... que importância têm para você?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3E",
+      "RESP": [
+        "Não. Você está errado. Palavras não vão superar isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3F",
+      "RESP": [
+        "{Debocha, raiva, o jogador está chegando nele} Você foi enganado. Mesmo assim, você se orgulha disso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3B",
+      "RESP": [
+        "{DUPLICADO}Nada pode impedir o que está por vir. Os mísseis serão lançados. {Pausa}Essas perguntas... suas palavras ou as minhas... que importância têm para você?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3D",
+      "RESP": [
+        "{Frio}Então, lutaremos para ver como seremos lembrados."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2A",
+      "RESP": [
+        "Não se você acreditar no que segue. Não mate nenhum Courier, palavras de Caesar. Eu as honrei.",
+        "Outros mensageiros poderiam ter sido da Legião, como eu. A verdade é que você não serve para nada, não acredita em nada. Matar você... não tem sentido."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA70",
+      "RESP": [
+        "Eu acreditava no que eu seguia, naquela época. Não matar o Courier, palavras de Caesar. Eu as honrei.",
+        "Outros mensageiros poderiam ter sido da Legião, como eu. Agora, nossas lealdades se inverteram."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA29",
+      "RESP": [
+        "{Mastigando, uma leve esperança aqui} Pode ser... que tanta destruição tenha sido escrita na terra aqui...",
+        "Um enterrou este lugar, mas ele sobreviveu entre nós. Um pode construí-lo de novo... construir outros. Sua história provou isso, aqui.",
+        "Há verdade em suas palavras. Mas mesmo que haja esperança na mudança... talvez não importe. O Divide ainda se ergue contra nós."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA26",
+      "RESP": [
+        "{Frio}Você respondeu à sua própria pergunta. E vai morrer com essa pergunta nos lábios."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA15",
+      "RESP": [
+        "<Nó de Espaço Reservado. Não Traduzir.>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA13",
+      "RESP": [
+        "{Slow, surpresa}Minhas palavras? {Pausa, desprezo}E o que {Ênfase}minhas palavras ensinam a você?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA09",
+      "RESP": [
+        "{Surpreso}Essa pergunta... {Pausa, mastigando}ou você andou pelo Grande Vazio... {pausa, concorda com a cabeça}ou achou as últimas fitas.",
+        "{Frio, não tenho certeza de onde o jogador quer chegar com isso}As palavras são minhas. Que seja... Seja qual for a \"resposta\" que você acha que elas guardam, você está enganado. Era uma pergunta, nada mais."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA18",
+      "RESP": [
+        "Minha tribo? Aquele tronco... {enojado com as White Legs} não, dizia respeito aos White Legs, treinando-os para matar. Para Caesar.",
+        "Não há significado ali além da estrada para Nova Canaã. A história do assassinato de seu povo. E o passado de Caesar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA22",
+      "RESP": [
+        "{Derisivo, o jogador falhou}Se você ouviu minhas palavras e foi só isso que absorveu delas, então eu estava certo em descartá-las.",
+        "{Nojo}Se você alguma vez teve a capacidade de ouvir algo além dos seus próprios passos... a Divisão silenciou isso. Agora, a voz dela vai acabar com você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA21",
+      "RESP": [
+        "Medo? Não. Raiva."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA0D",
+      "RESP": [
+        "Quando fiz essa pergunta, a morte era certa. Eu não estava implorando por misericórdia."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA19",
+      "RESP": [
+        "Eu nunca tentei escapar. Fui até eles para obter uma resposta ou morrer."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA12",
+      "RESP": [
+        "{Frio, avaliando}Eu disse essas palavras com raiva e não esperava uma resposta. Tudo estava perdido... Achei que era o fim.",
+        "{Reflexivo}Além de seus túmulos de tecnologia falida, eles se importavam com a bandeira que seguiam... e com as pessoas sob ela. Mesmo com eles mortos e desaparecidos.",
+        "{Incentivando}Mas não há resposta nisso. Eu faço isso porque me importo, porque acredito que tem que ser feito."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA14",
+      "RESP": [
+        "Matá-los, não. O símbolo que eles seguem? Sim, com a mesma certeza que você seguiu em Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1E",
+      "RESP": [
+        "{Raiva, \"Justiça\"}Justo? {Pausa, cospe isso}Não houve justiça nisso, foi um ato de descuido, uma covardia. Matando uma ideia antes que ela tivesse uma chance...",
+        "{Para, percebendo}Entendo o que quer dizer. Você está ligando isso à {Ênfase}nossa história... mas é diferente. O símbolo que destruo já provou estar errado."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA17",
+      "RESP": [
+        "Essas são as minhas palavras. Depois do que aconteceu com a Irmandade do Aço... conversar com eles.",
+        "Então, com os governantes do Big Empty. {Pausa, incentivando} Mas é a filosofia deles que era falha - suas armas, usadas com uma nova perspectiva...",
+        "Essas armas podem ser usadas para matar um símbolo que já provou estar errado."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA11",
+      "RESP": [
+        "Ambos. {Rosna} Por que você se importa?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA24",
+      "RESP": [
+        "Nada pode impedir o que está por vir. Os mísseis serão lançados. {Pausa}Essas perguntas... suas palavras ou as minhas... o que elas importam para você?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA23",
+      "RESP": [
+        "Teste isso. Como se estivesse me testando? Como se acreditasse que existe outro caminho aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA0E",
+      "RESP": [
+        "Como você o defende agora?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA0A",
+      "RESP": [
+        "{Desdém, o jogador está errado}Nova Canaã? Minha tribo?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1B",
+      "RESP": [
+        "{Desdém, o jogador está errado}Os White Legs? Dizer que eram sombras dos Cabelos Torcidos...",
+        "Não, quaisquer palavras que você ouviu não foram minhas."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA0B",
+      "RESP": [
+        "{Ligeira confusão, não entende o que o jogador quis dizer} Respeito...?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2B",
+      "RESP": [
+        "{Reconhecimento}As tranças que eu usava. Tiraram isso de mim, achando que as deixava mais parecidas comigo, mais dispostas a que Caesar as ouvisse.",
+        "Eles não sabiam o que as tranças significavam, a marca da minha tribo antes de Caesar chegar... antes de Vulpes vir atrás deles em Dry Wells.",
+        "Houve morte naquela reunião, mesmo enquanto Vulpes sorria, pedindo nossa ajuda contra as outras tribos.",
+        "Enquanto isso, eles queriam jogar nossa história na fogueira. E jogaram. Outra tribo, consumida pelo Touro. Nada restou."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1A",
+      "RESP": [
+        "{Desdém}Respeitar os White Legs? Aquela tribo de chacais? Nunca."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA10",
+      "RESP": [
+        "Se você acha que há algum significado nos White Legs pegando as tranças da minha tribo... o que eles fizeram... foi um insulto, não respeito."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA0F",
+      "RESP": [
+        "Não, não foram. Eles foram aniquilados, completamente. Viraram parte da marcha da história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1F",
+      "RESP": [
+        "{Franzindo a testa}Ambos... ambos sobreviveram, em pedaços deles. Remanescentes, nada mais."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1D",
+      "RESP": [
+        "Você está dizendo que quando o significado se perde - é isso que acontece aqui, pode piorar as coisas. {Pausa}Aconteceu na Mojave. Bandeiras do Urso e do Touro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA1C",
+      "RESP": [
+        "De volta aos símbolos e à história, então. Difícil de matar... como os mensageiros."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E1",
+      "RESP": [
+        "{Provocação, zombeteiro} É um mensageiro. Como nós... e compartilha da nossa história.",
+        "{Provocação, então frio, ele está gostando disso}Se sente essa perda... lembre-se que poderia ter ido embora a qualquer momento. Voltado para casa, e nada disso teria acontecido.",
+        "{Provocação, afiado}Mas você tinha que fazer uma última entrega, e é por isso que eu sabia que você viria, Courier. Não conseguiu ficar longe, é quem você é."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E2",
+      "RESP": [
+        "O que tem {Ênfase}dentro daquela máquina - era tudo o que importava. Todas as máquinas aqui, feitas de destroços do A Divisão... e tudo o que foi trazido para cá.",
+        "Dentro de sua estrutura, ela carrega a mensagem que você trouxe... e vai fazer o que foi programada para fazer: {lento, marque o passo}o que for possível para voltar para casa.",
+        "Os gigantes aqui vão ouvi-la. Eu vou levar a Divisa para sua casa, sua nação. Deixarei sua bandeira queimar, assim como você deixou a Divisa queimar.",
+        "{Falando ao console}Código de acesso de Grande Montanha... Ulysses. Comando de substituição...",
+        "{Batida, suave, como dizer \"lançar\" mísseis}Navarro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DC",
+      "RESP": [
+        "{DUPLICADO}Eu sei disso agora. Não muda o que foi feito. A Legião que morreu aqui.",
+        "{Leve ameaça}A Legião não sabe da sua história. Eu sei. Se descobrirem o que aconteceu aqui, quantos dos seus morreram... {\"vão querer justiça\"}vão querer uma resposta."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DB",
+      "RESP": [
+        "{Nojo}Aí a Legião mata a Legião. Quanto mais longe você anda da bandeira do Touro, mais o Oeste entra em você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C6",
+      "RESP": [
+        "{Raiva lenta, sendo evasivo aqui, não quer mostrar as cartas}Quero ouvir a resposta. Não só a resposta da história... sua resposta para o que aconteceu aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CE",
+      "RESP": [
+        "RaivaAcidente? Ignorância é uma {Ênfase}escolha. O Chip... uma escolha.",
+        "{Mais para si mesmo} Quanto à raiva... é o que carrego pelos mortos e por todos que vêm para cá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C9",
+      "RESP": [
+        "{Deboche, ecoa o comentário do jogador}Minha família? Minha tribo vive... {mas}a história dela? Morreu há muito tempo, caiu sob a sombra do Touro... consumida por outro símbolo.",
+        "Não, não se trata de família, nem de laços sanguíneos. É o sangue compartilhado por {Ênfase}atos, não por acaso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CD",
+      "RESP": [
+        "{DUPLICADO}{Derisivo}Os soldados do Urso? Já estavam mortos, seu símbolo... doentio. Mereceram morrer como meus irmãos morreram em Boulder City, minas, bombas.",
+        "{DUPLICADO}{Debocha}Não carrego nada para eles. As mortes deles aqui foram uma misericórdia... comparadas às daqueles que ainda vagueiam pelo Divide.",
+        "{Quieto, respeitoso}Quanto aos meus irmãos da Legião... eles mereceram morrer em batalha, como todos sob a bandeira do Touro.",
+        "{DUPLICADO}{Silêncio}Mas não... os mortos são mais numerosos que meus irmãos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C8",
+      "RESP": [
+        "{Derisório}Os soldados do Urso? Já estavam mortos, o símbolo deles... doentio. Mereciam morrer como meus irmãos morreram em Boulder City, minas, bombas.",
+        "{Debocha}Eu não carrego nada para eles. As mortes deles aqui foram uma misericórdia... comparadas às daqueles que ainda vagueiam pelo Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CB",
+      "RESP": [
+        "{Respeitoso pelos mortos}A Legião que morreu aqui... eles não mereciam morrer, como aqueles que morreram nas chamas de Boulder City... {zombando de si mesmo}bombas, os presentes de Hanlon.",
+        "{Respeitoso}As mortes deles foram uma misericórdia comparadas àqueles que ainda caminham. Qualquer um que morrer sob a bandeira do Touro... sua morte deve ser em batalha.",
+        "{Quieto}Mas não... o número de mortos é maior que o dos meus irmãos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CF",
+      "RESP": [
+        "{Ecoando o jogador}A linha de suprimentos... a artéria do Oeste? {Desdém, o jogador não entendeu}Eu já vi o sangue da NCR nas mãos da Legião muitas vezes.",
+        "{DUPLICADO}{Calmo, acusatório}Não tenho ódio pelo dever... se era isso. A Divisa foi mais do que isso. Seu povo, mais do que isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9D1",
+      "RESP": [
+        "{Ecoando a declaração do jogador}Serve a Legião?",
+        "{Quieto, acusando}Não odeio o dever... se era isso. A Divisa foi mais que isso. Seu povo, mais que isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C7",
+      "RESP": [
+        "{Reflexivo, Ulysses está chegando ao cerne do motivo pelo qual está fazendo tudo isso}A comunidade que um dia esteve aqui... e o pacote que você trouxe... ambos tinham as marcas do Divide. Marcas da América.",
+        "{Quieto, lembrando o jogador} Você viu as marcas, o símbolo. Já no silo de Hopeville, talvez. Carregou-o gravado em suas armas.",
+        "A Fenda, seus prédios, seu povo, foram construídos em volta dessas mesmas marcas, cercados por elas aqui...",
+        "...marcas como a bandeira nas minhas costas. Quando eu {Ênfase}segui sua estrada para a Divisão anos atrás, eu vi o símbolo que eu usava por toda parte.",
+        "Um símbolo do Velho Mundo. Forte, para sobreviver aqui... seu povo, forte. {\"Talvez,\" baixo}Superar o Urso, superar o Touro. Promessa de algo melhor.",
+        "Caesar estava certo em querer vê-la morta. A NCR estava certa em querer cravar suas garras nela.",
+        "Ver aquilo... me mudou, assim como ver a Represa Hoover mudou Caesar e a NCR.",
+        "{Quieto}Ver o fim daquilo também me mudou."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CA",
+      "RESP": [
+        "AmargoHavia esperança aqui, outra chance. Uma nova nação, começando a ganhar vida. {Pausa}Um lugar onde eu poderia ter fincado minha bandeira.",
+        "Não a América de antigamente. Mas algo maior que as tribos do Leste, algo maior que as casas do Oeste. Algo melhor.",
+        "A Divisão... poderia ter ligado os dois, como a Represa Hoover. {Raiva, desdenhoso} Agora, como a Represa, está coberta de sangue demais para ver o que poderia ter sido.",
+        "{Lento, acusando}Você deu vida a este lugar. Eu segui sua estrada até aqui, vi a Divisa. Você {Ênfase}me guiou até aqui, para que eu pudesse ver.",
+        "{Acabe com isso}Então, você pôs um fim nisso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9CC",
+      "RESP": [
+        "{Ligeira simpatia pelo jogador, não entende} Minha história não é sobre vingança, nem ódio. A estrada que nos trouxe {Ênfase}ambos aqui - não é sobre isso.",
+        "É sobre a {Ênfase}mensagem que você carregava. Aquela no pacote, sabendo ou não.",
+        "{Slow, ameaçador}A mensagem de que {Ênfase}se pode matar uma nação. Pode-se matar um símbolo. E tudo que se reúne sob sua bandeira.",
+        "{Lento}Não te culpo pelo Divide. {Pausa, piada final}Eu te culpo pelo que você me fez ver.",
+        "{Sentença de morte}Agora você vai ver o que você trouxe para Mojave, e essa será {Ênfase}minha mensagem {Ênfase}para você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9D0",
+      "RESP": [
+        "As nações de Mojave. Rachadas e destruídas como o Divide... seu povo, igualmente.",
+        "Eu caminhei sob o comando de Caesar, pelo Leste, até o Oeste. Longe o bastante para saber que a palavra de Caesar não me moveu. Longe o bastante para ver o fim.",
+        "Você viu. Nenhum Courier, seja qual for sua bandeira, consegue ignorar isso. Por que você não ficou no Oeste. Por que você vagou.",
+        "Não há futuro no Urso ou no Touro. O Urso está doente, mal se agarra à vida.",
+        "E o Touro... quando a Legião alcançar o mar, ela se voltará contra si mesma e morrerá.",
+        "Matar um vai acabar com os dois. E você me fez ver como se pode fazer isso. Sua ignorância, seu descuido... podem ser usados com um propósito."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D983",
+      "RESP": [
+        "[FALHOU] {Nojo}Quando eu falar com raiva, {Ênfase}Courier, você vai saber. {Desdenhoso, tentando minimizar}Sua máquina? Não merece mais ódio do que qualquer {Ênfase}outra máquina."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D982",
+      "RESP": [
+        "[FUNCIONOU] Ódio? Não. Não há nada para odiar em metal... aço, ouro. {Audacioso}Ou platina.",
+        "{Desdém}Sua máquina... é só uma ferramenta, feita dos destroços do Divide... {para si mesmo}tudo que foi trazido pra cá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D981",
+      "RESP": [
+        "Não podíamos deixar o Urso, a NCR, chegar lá facilmente. Long 15... Canaan... ambos já são ruins o bastante.",
+        "NojoKimball, Caesar, House... diria que o mundo deles inteiro é aquela muralha, cortando o Colorado. {Para si mesmo}Se eu nunca tivesse posto os olhos nela, nunca falado dela...",
+        "...mas, uma vez encontrada, era tudo que Caesar conseguia ver. Aquilo, e a bandeira além, outro símbolo, grande o suficiente para desafiá-lo.",
+        "E a Divisa, uma das estradas para ela... a Legião foi encarregada de cortar essa artéria. Se não puder matar o Urso de uma vez, sangre-o, mate-o de fome.",
+        "Esse tipo de assassinato... é o que qualquer um da {Ênfase}Legião teria feito. Agora... a Divisa é história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D980",
+      "RESP": [
+        "O porquê disso. A Represa Hoover."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97F",
+      "RESP": [
+        "{DUPLICADO}{Concordando}A Barragem. Aquela muralha do Velho Mundo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97E",
+      "RESP": [
+        "{DUPLICADO}{Concordando}A Barragem. Aquela muralha do Velho Mundo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97D",
+      "RESP": [
+        "{Concordando}A Barragem. Aquela Muralha do Mundo Antigo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73F",
+      "RESP": [
+        "{Desgosto, amargo, a implicação é que ele queria morrer lá}Devia ter morrido lá... mas agora que sei que você vive... {amargo}as máquinas aqui... {aspas implícitas}me salvaram. Eu era o único sobrevivente, {para si mesmo}ou achava que era.",
+        "Seu pacote, a mensagem dentro, despertou máquinas médicas... perto daquela que te acompanha... começaram a se construir, e depois outras.",
+        "Eles só pegam as peças que encontram no Divide, nunca vagam além dele, nem sequer conseguem sair dos silos sem um humano para os guiar, como cães de caça.",
+        "Talvez tenham visto a bandeira na minha jaqueta e achado que eu era dos Estados Unidos. Se for o caso, a história me salvou. Um sinal."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73C",
+      "RESP": [
+        "{Raiva, escárnio}Culpa? Acidente? Os nomes que você dá pra isso... Courier... você carrega a morte aonde quer que vá, Mojave sabe... ou saberá.",
+        "Eu vou ver você pagar por isso. A estrada não termina aqui, ainda tem mais por vir, eu juro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73E",
+      "RESP": [
+        "Não é o nome que eu daria. Não é o nome que os mortos dariam.",
+        "Soldados do Urso morreram aqui... A Legião também morreu, meus irmãos. Ainda morrendo, ambos, por toda parte.",
+        "Nenhuma das pessoas que vivia aqui sobreviveu... mas todo o Oeste e o Leste se agarram enquanto a Divisa os despedaça.",
+        "Vingança não é a mensagem que tenho para você. Mais do que isso... Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D740",
+      "RESP": [
+        "Maquinário. Simples por fora, peças de computador. Por dentro... mais complicado.",
+        "Foi a única vez que ouvi uma máquina falar em Divide, a única máquina com voz."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73D",
+      "RESP": [
+        "Eu caminhei pelo Leste. {Acusatório} Você caminhou pelo Oeste, mais do que eu.",
+        "Circle Junction. Reno. Vault City. Notícias suas em Fort Aradesh... Fort Abandon. Até mais a oeste que isso, comboios de brahmin no Grande Círculo.",
+        "O que quer que tenha visto lá fora, não foi o bastante para fazer você ficar. {Pausa}Talvez as marcas no pacote tenham te lembrado do caminho de casa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73B",
+      "RESP": [
+        "{Ligeiramente manhoso, sabe onde está}Enterrado no Divide. Parte dele agora.",
+        "Onde quer que esteja, tem estado em silêncio... se falasse de novo, saberíamos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D719",
+      "RESP": [
+        "{Debocha}Culpar você? Não, {Ênfase}aprendi com você. Tanto a arma para matar uma nação quanto a força para fazê-lo.",
+        "Você me mostrou uma estrada, uma forma de levar minha mensagem. {Pausa, tom levemente zombeteiro} Você já respondeu pelo que fez. {Frio} Agora, a bandeira que você segue vai pagar por isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D717",
+      "RESP": [
+        "{Furioso, baixo}Não, agora há {ênfase}propósito. {Nojo}Eu acredito em você quando diz que foi... descuidado. A Divisão... o Chip... a máquina que você trouxe para cá...",
+        "{Ênf}Muitas mensagens podem ser tiradas disso, intencionais ou não. O que eu faço agora é um ato de convicção."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA74",
+      "RESP": [
+        "Você andou pelo Oeste, não ficou. Sabe o motivo... o Urso cresce sem estrutura, segue um símbolo sem conhecer sua história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D712",
+      "RESP": [
+        "Não, não o Mojave. O Oeste, tudo que foi construído desde que a América morreu. Os mesmos símbolos de antes da guerra, agora uma bandeira carregada por uma tribo de crianças."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA71",
+      "RESP": [
+        "Não, o Oeste. O Leste. Não importa, a morte de um deles mata o outro, Vegas junto. {Pausa}O Oeste responderá primeiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D711",
+      "RESP": [
+        "Não... os caminhos que trilhamos. As estradas e as bandeiras acima delas carregam a mesma culpa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA76",
+      "RESP": [
+        "Você não vê, escuta... mesmo quando está tudo à sua volta, não importa se eu cravei isso na sua cabeça como um presente de Caesar.",
+        "Você deu vida ao Divide, mensageiro. Você trilhou a estrada. Trouxe o Urso, depois o Touro, me trouxe, seguindo seus rastros.",
+        "E quando eu vi a Divisão que você fez, eu vi uma segunda chance, uma nova forma de pensar. {Pausa}Meu mundo... não mais o Leste.",
+        "Então você trouxe o Oeste naquele pacote. Destruiu tudo. Quase me matou, na carne e no espírito.",
+        "Você destruiu algo maior que o Urso, maior que o Touro. E mesmo quando podia ter ido embora, você o trouxe de volta, naquela máquina.",
+        "Você destruiu uma nação que dava seu primeiro suspiro. {Baixo}Um lugar que poderia ter sido meu {Ênfase}lar. {Pausa}Agora, vou destruir o seu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D725",
+      "RESP": [
+        "Depois disso, só uma bandeira vai tremular sobre o Mojave. Deixe-a tremular ou se destruir."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D724",
+      "RESP": [
+        "Sem a NCR para apoiá-la, Vegas cairá para a Legião. Aquele túmulo de luzes, de volta ao pó e aos fantasmas, como era para ser."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D723",
+      "RESP": [
+        "A doença do Urso já reside em você, mesmo que defenda o Leste. Se houvesse tempo, eu deixaria você matar a Legião.",
+        "Mas não, a Legião também vai queimar. Sem o Oeste para desafiá-la... sua costa estará mais próxima do que antes. Ela se consumirá e morrerá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D722",
+      "RESP": [
+        "E saber que você acredita na doença do Urso e a fortaleceu... então isso me dá mais motivos para devastar sua terra natal."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D720",
+      "RESP": [
+        "{Debocha} Não precisa destruir o Urso, só cortar a garganta dele.",
+        "Você me ensinou isso no Divide. Basta cortar a linha de suprimentos, a estrada, para ver algo maior morrer.",
+        "Vou transformar a Long 15 em quilômetros de fogo, isolar o Mojave. A NCR vai recuar, perder a Represa Hoover... e deixar suas gargantas expostas à Legião."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D727",
+      "RESP": [
+        "Você destruiu sua própria terra natal. Ver uma nação queimar? Não pensei que isso importasse mais para você.",
+        "Há uma força nessa... falta de apego. Mas você está aqui agora. Se não tiver mais respostas que queira, então vamos acabar com isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72C",
+      "RESP": [
+        "[FALHOU] No... your answer is not enough.",
+        "{Frio}Eles merecem o que está por vir... e devem responder por isso, assim como você. O Urso é uma criação do povo que se une a ele, assim como todos os símbolos.",
+        "Você acredita. Mas... você acredita no símbolo errado. {Um pouco solidário} Que ele te dê a força que puder... em breve, ele não existirá mais."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72B",
+      "RESP": [
+        "[FUNCIONOU] {Relutante}A história provou isso. Nossa história.",
+        "{Leve desdém}E você acha que tem essa força? O bastante para {Ênfase}toda a NCR?",
+        "{Prove isso}O Oeste não é o Divide, e nada que você possa fazer impedirá o lançamento do míssil. {Testando, lento no meio}Me convencer não muda nada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D730",
+      "RESP": [
+        "{Frio, o jogador estragou tudo}Sua nação vai queimar, como era a intenção, e as últimas palavras de seu mensageiro não foram para seu povo, mas para implorar por misericórdia."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72F",
+      "RESP": [
+        "{Frio, o jogador estragou tudo} fez merda}O Oeste vai queimar, como planejado, e Vegas irá junto. As últimas palavras do mensageiro não foram para o povo da cidade, mas sim mentiras e engano."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72E",
+      "RESP": [
+        "{Frio, o jogador estragou tudo} fez merda}Fogo cairá sobre o Oeste e o Leste, como era a intenção, e as últimas palavras do mensageiro do Touro: nada além de mentiras."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72D",
+      "RESP": [
+        "{Frio}Então... você recorre à trapaça. Estava esperando que pudesse me enganar, revelar que de alguma forma posso {Ênfase}impedir tudo isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D71F",
+      "RESP": [
+        "{Mastigando, uma leve esperança aqui} Pode ser... que, por mais destruição que tenha sido escrita na terra aqui... você possa construir algo mais, como você construiu o Divide.",
+        "Você falou a verdade. Há a sombra de uma nação atrás de você, a esperança de um povo... mas pode não importar. A Divisão ainda está contra nós."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D718",
+      "RESP": [
+        "{Jogador o convenceu, acena com a cabeça, lento, quieto} É... o bastante."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D71A",
+      "RESP": [
+        "{Pensando, resolvido a morrer}Nossos inimigos se reúnem lá fora... sombras do Urso e do Touro... eles vão ter achado um jeito de entrar, assim como você achou.",
+        "{Quieto, arrependido} Sempre foi minha intenção... caso eu não pudesse te matar, os Homens Marcados inundariam este lugar e cortariam sua rota de fuga.",
+        "{Esta é a sequência final}Se não pudermos impedir o que está por vir, então vamos nos posicionar aqui. {Beat, final, sombrio}Dois mensageiros, juntos, na Divisão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D71E",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] Não... sua resposta não basta.",
+        "{Frio}Eles merecem o que está por vir. Vegas nasceu dos corruptos, dos cegos, dos perdidos que se juntam a ela. Sem eles... ela cairia na escuridão.",
+        "Você acredita. Mas... foi cegado pelo símbolo errado. {Um pouco compadecido}Que sua luz lhe dê a força que puder... hoje marca o fim dela."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D71D",
+      "RESP": [
+        "{DUPLICADO}[FUNCIONOU] {Relutante}A história provou isso. Nossa história.",
+        "{Leve desdém}E você acha que tem essa força? O bastante para segurar a NCR, tempo suficiente para que Vegas possa viver de novo?",
+        "{Prove isso}Mesmo que você fale por Vegas e seus fantasmas, nada que você possa fazer pode impedir o lançamento do míssil. {Testando, lento no meio}Me convencer não muda nada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D716",
+      "RESP": [
+        "[FALHOU] {Debocha} Você me responde com perguntas. {Desdenha} Dúvida. Você foi forte o bastante para vir até aqui, mas não forte o bastante para falar por toda a Legião.",
+        "{Frio}Este é o fim que eles merecem... uma bandeira é algo do povo que se reúne a ela, assim como todos os símbolos.",
+        "{Reconhecendo a força do jogador, mas...}Você acredita. Mas não vê que matar um símbolo com sua própria arma traz sua própria justiça... assim como trará quando o Leste também morrer."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D715",
+      "RESP": [
+        "{DUPLICADO}[FUNCIONOU] {Relutante}A história provou isso. Nossa história.",
+        "{Lento, considerando} Você busca usar seus próprios crimes para impedir os meus. Há... uma estranha honra nisso. Talvez a sombra do Touro caminhe com você.",
+        "{Prove isso}O Oeste, o Leste - eles não são o Divide, e nada que você possa fazer pode impedir o lançamento do míssil. {Testando, lento no meio}Me convencer não muda nada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F5",
+      "RESP": [
+        "{Derisão}Você deu um nome a ele. O que ele era para você? Companheiro? Escravo... arma? Tudo isso, nada comparado à sua função primária."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F6",
+      "RESP": [
+        "{Frio}A máquina que você trouxe é minha agora, está voltando para casa. {Rosnando, falando sobre torturar o robô}Vou reduzi-la a pedaços, só o suficiente para funcionar, para ter consciência do que está acontecendo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6EE",
+      "RESP": [
+        "Muitos no Mojave acham que a Divisa é só cânion e tempestade. {Pausa} Nem sempre foi assim.",
+        "{Começa a ficar nostálgico} Havia vida, uma cidade, mais a oeste... não estou falando de uma cidade do Velho Mundo como Hopeville... mais recente. Algo que você viu em sua vida.",
+        "{Nostalgia aumenta}Também tinha o nome de \"a Divisão\". Mas, em vez de rachaduras na terra, era uma estrada do Oeste para o Mojave, uma linha de suprimentos.",
+        "{Voltando ao presente}Foi preciso um(a) Courier para fazer essa estrada. {Pausa}Você. Naquela época, você via a estrada com os olhos voltados para o Leste. Desta vez... o Divide está na outra direção.",
+        "E se seus olhos tentarem entender quando você chegar lá... {frio, nota baixa}o lar não é o que era."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6ED",
+      "RESP": [
+        "Todos os caminhos levam de volta para casa. Talvez não ao seu local de nascimento, mas para casa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A6",
+      "RESP": [
+        "Se os fantasmas de Vegas saíram de trás dos muros para falar pelo Oeste, ouvirei suas palavras.",
+        "Se você acredita que Vegas não merece morrer como o Urso... então me responda o porquê."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A5",
+      "RESP": [
+        "{Desconfiado}Se acha que não conheço a força da Legião... então ouvirei."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A4",
+      "RESP": [
+        "Se você fala pelo Urso de Duas Cabeças, ouvirei suas palavras. Mesmo que eu seja o único a ouvi-las.",
+        "Se você acha que não deveria morrer hoje... então me responda o porquê."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D72A",
+      "RESP": [
+        "[FALHOU] {Frio}Mas você não segue nada.",
+        "Você andou pelo Mojave, deixou a sombra das bandeiras cair sobre você, mas anda sem cuidado, sem lealdade. Suas palavras são tão vazias quanto suas ações."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D729",
+      "RESP": [
+        "[FALHOU] Vocês servem aos fantasmas de Vegas, não às tribos que Vegas devorou. House não é o povo de Vegas. Vocês andaram pela Strip, mas não viram nada.",
+        "Sua falta de cuidado com os caminhos que pisa destruiu a cidade que você serve. {Pausa}A NCR vai queimar. E as muralhas de Vegas cairão em seguida."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D728",
+      "RESP": [
+        "[FALHOU] Você veio do Oeste, caminhou até aqui. Você traz a doença deles para o Leste, para a Legião... e não acredita na causa deles o bastante para honrá-los.",
+        "O que eu dou para a Legião é uma morte mais rápida do que a doença que você traz. Você não tem força para carregar um estandarte da Legião."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A0",
+      "RESP": [
+        "[FALHOU] Palavras não são o bastante para suportar o peso da sua bandeira... {desdém} se é que você segue alguma coisa.",
+        "Discursos são coisas da NCR, palavras sem força. Suas ações não mostraram nada. {Pausa} Sua bandeira vai queimar. O Mojave vai seguir."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A3",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Suas ações demonstraram força. Mais importante, não para House, mas para as famílias da Strip."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A2",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Há convicção em suas palavras, o suficiente para rivalizar com um Legado, talvez com Caesar. Você acredita no que diz."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4A1",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Suas ações demonstraram força."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D491",
+      "RESP": [
+        "{Presunçoso, confiante}Sério. Quem vai dizer qual é a verdade? Você? Não. Você se afastou {Ênfase}disso, virou as costas. Agora você e outros vão pagar por isso.",
+        "Começarei pelo Oeste. Queime tudo. Então... se o Leste vacilar depois, levarei a Divisa para lá também.",
+        "{Quieto}Queimem as bandeiras. {Pausa}Comecem de novo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D486",
+      "RESP": [
+        "Como eu disse antes... não tem consequência. Nunca quis que você os encontrasse, nunca quis que você os {Ênfase}ouvisse.",
+        "As perguntas nessas fitas ainda não foram respondidas. E não será você quem vai respondê-las."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D481",
+      "RESP": [
+        "Eu sei disso agora. Não muda o que foi feito. A Legião que morreu aqui.",
+        "Mesmo que você fosse da Legião, responderia por essas mortes perante a lei de Caesar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D477",
+      "RESP": [
+        "{Um pouco desconfortável}Você vasculha palavras. Coisas que não preciso, nenhuma história ali que valha a pena contar.",
+        "Vasculhe o Divide, agarre-se a ele em busca de significado, mas minhas palavras não lhe darão resposta."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D476",
+      "RESP": [
+        "{DUPLICADO}As fitas... {Encolhe os ombros} Não achei que fossem encontradas... não valiam a pena, de qualquer forma, não é como se eu fosse esquecer o que aconteceu.",
+        "{DUPLICADO}Tinha a tecnologia do Big Empty, um gravador que uma mulher me deu... já estava nas últimas, não sobreviveu à viagem. Joguei ele e as fitas fora.",
+        "{DUPLICADO}Se você os ouviu... não têm importância. Divagações, lembretes para um homem que não precisa deles."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D46E",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] {Desdenhoso}Palavras perdidas na história. {Pausa, para si mesmo, como se estivesse tentando se convencer disso}Não as teria deixado na estrada, caso contrário."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D46D",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Talvez não. {Pausa} Quem pode dizer.",
+        "{Responde à sua própria pergunta, mais para si mesmo} Você, talvez. Encontrei-os, ouvi-os depois que os deixei de lado... talvez houvesse um propósito nisso.",
+        "{Quieto, tom grave}Se eles importam... se a história importa... veremos no fim da picada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D479",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] {Desdenhoso}Palavras perdidas na história. {Pausa, para si mesmo, como se estivesse tentando se convencer disso}Não as teria deixado na estrada, caso contrário."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D478",
+      "RESP": [
+        "[FUNCIONOU] {Frio, final}Eles não vão te ajudar a entender o que aconteceu aqui.",
+        "{Quieto, leve raiva}E eles não vão te ajudar a me entender. {Desdém}Fique com eles, ouça, estude-os. Eles não vão te ajudar aqui no Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D47F",
+      "RESP": [
+        "{Franzindo a testa}Se eu tenho as respostas, você as mereceu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D47E",
+      "RESP": [
+        "{Reconhecendo, lento}Você viu o Divide, andou por ele... mais do que eu achei que faria. {Pausa, para si}Não sei quanto mais você aguenta.",
+        "Se precisa de respostas, fale. Você as conquistou... {para si mesmo} mesmo que só você e eu possamos carregá-las daqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D475",
+      "RESP": [
+        "{Desdém}Você sabe o que era. LembrandoTinha os símbolos da América. Marcas novas. De depois da Grande Guerra.",
+        "{Para si mesmo}Achei que podia ser a América renascendo. {Pausa}A promessa de outro futuro. Outra bandeira."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D482",
+      "RESP": [
+        "Eu sabia {Ênfase}de você, seu nome. Sua estrada, de e para o Divide, o que isso significava para a Legião.",
+        "Nunca nos falamos, conheci você pelas suas ações. Sabia que você trilhou o Oeste como eu trilhei o Leste. Aprendemos lições diferentes.",
+        "E eu nunca teria descoberto a Divisão sem você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DD",
+      "RESP": [
+        "{Para si mesmo}Promessas a cumprir. \"O mensageiro não matará o mensageiro.\" Sempre: deixe-os viver, espalhem a palavra."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D483",
+      "RESP": [
+        "Ordens de Caesar. Algum tempo antes de eu entender o porquê disso. {Pausa}Não era só você. {Ênf}Todos os correios.",
+        "Não dá pra saber quantos eram da Legião. Talvez todos eles.",
+        "Não tinha certeza sobre você. Até o Divide... toda a NCR queimando... tanta morte, isso carrega a marca da Legião.",
+        "{Franzindo a testa}Mas você matou como a NCR. Como Hanlon, com minas, bombas... mísseis. Matou a Legião junto com o Urso. Que nem um covarde, que mata de longe.",
+        "Se você fosse da Legião, então a NCR te venceu, o Oeste te mudou."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6A",
+      "RESP": [
+        "{Para si mesmo}Promessas a cumprir. \"O mensageiro não matará o mensageiro.\" Sempre: deixe-os viver, espalhem a palavra."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D470",
+      "RESP": [
+        "{Ligeiramente desdenhoso, como se não fosse importante} Era um pedaço de maquinário... militar, guardando memórias, códigos, talvez. {Franze a testa} Quando acordou, fez esses sons... palavras.",
+        "{Lembrando sombriamente}Quando falou, o Divide virou fogo, o chão... se rasgou como os céus. {Pausa, essa é a piada}Em meio a tudo isso, continuou chamando... talvez chamando para casa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D46F",
+      "RESP": [
+        "A máquina não conseguia falar sozinha. Precisava de um terminal para acessá-la... como os terminais nos silos aqui, ou a máquina com você.",
+        "{Quieto}Quando foi conectado, começou a falar. E a Fenda respondeu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D458",
+      "RESP": [
+        "{Sorri com desdém, desprezo}Não vou {Ênfase}aguentar. Divide me ensinou que você não precisa — é só cortar fora.",
+        "Então Mojave cairá, o Urso passará fome, sua bandeira queimará. Já faz tempo demais que ele está morrendo, a Long 15 vai acabar com isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D456",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] {Desdenhoso}Palavras perdidas na história. {Pausa, para si mesmo, como se estivesse tentando se convencer disso}Não as teria deixado na estrada, caso contrário."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D455",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Talvez não. {Pausa} Quem pode dizer.",
+        "{Responde à sua própria pergunta, mais para si mesmo} Você, talvez. Encontrei-os, ouvi-os depois que os deixei de lado... talvez houvesse um propósito nisso.",
+        "{Quieto, tom grave}Se eles importam... se a história importa... veremos no fim da picada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D454",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] {Desdenhoso}Palavras perdidas na história. {Pausa, para si mesmo, como se estivesse tentando se convencer disso}Não as teria deixado na estrada, caso contrário."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D453",
+      "RESP": [
+        "[FUNCIONOU] {Frio, final}Eles não vão te ajudar a entender o que aconteceu aqui.",
+        "{Quieto, leve raiva}E eles não vão te ajudar a me entender. {Desdém}Fique com eles, ouça, estude-os. Eles não vão te ajudar aqui no Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D450",
+      "RESP": [
+        "{Um pouco desconfortável}Você vasculha palavras. Coisas que não preciso, nenhuma história ali que valha a pena contar.",
+        "Vasculhe o Divide, agarre-se a ele em busca de significado, mas minhas palavras não lhe darão resposta."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44E",
+      "RESP": [
+        "[FALHOU] {Desdenhoso} Palavras perdidas na história. {Pausa, para si mesmo, como se estivesse tentando se convencer disso} Não as teria deixado na estrada, senão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44D",
+      "RESP": [
+        "[FUNCIONOU] {Hesitante} Talvez não. {Pausa} Quem pode dizer.",
+        "{Responde à sua própria pergunta, mais para si mesmo} Você, talvez. Encontrei-os, ouvi-os depois que os deixei de lado... talvez houvesse um propósito nisso.",
+        "{Quieto, tom grave}Se eles importam... se a história importa... veremos no fim da picada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44B",
+      "RESP": [
+        "{Franzindo a testa, leve teste} Você sabe o porquê disso. Se não sabe, eu sei, e isso basta. {Para si mesmo, mais baixo} A confiança só vai até certo ponto no Oeste.",
+        "{Pausa, cede}Ganhei mais do que isso, no entanto, chegando até aqui. {Pausa}Nós trilhamos o mesmo caminho, vestimos as mesmas cores. Não posso manchar o caminho com sangue.",
+        "Quer mais do que isso, siga pelo Divide. As respostas virão, quanto mais perto de casa... você e aquela máquina."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D445",
+      "RESP": [
+        "{Surpreso}As fitas... {levemente impressionado}não achei que seriam encontradas... você conhece a Divisa melhor do que eu imaginava.",
+        "Tinha tecnologia do Big Empty, gravador que uma mulher me deu... não sobreviveu à estrada, tá no fim da vida.",
+        "Jogue isso e as fitas fora... não valiam as palavras de qualquer jeito, não como se eu fosse esquecer o que aconteceu.",
+        "Se você os ouvisse... só divagações, lembretes para um homem que não precisa deles. {Para si mesmo} Provavelmente muito mais, mentindo daqui até o Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D444",
+      "RESP": [
+        "{Ligeiramente divertido}Não achei que estaria respirando para te ouvir dizer isso. {Pausa, \"Ainda...\"}A mensagem não é importante, o significado, sim.",
+        "Tive que falar sobre isso, caso as palavras se perdessem no papel, na tinta ou nas vozes dos outros. Talvez até na sua, com o tempo.",
+        "Ainda assim, era pra você. De mensageiro pra mensageiro. {Pausa}Agora é seu, ou história. Tanto faz."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D742",
+      "RESP": [
+        "{Rosna}Claro que foi sua escolha. {Pausa}Você podia ter ficado no Mojave. Mas você {ênfase}escolheu vir, não conseguiu deixar pra lá, não é do seu feitio.",
+        "Veio por pura curiosidade, inquieto... sempre foi assim. {Pausa}Precisava saber o porquê... {Pausa}agora, eu vou te mostrar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43B",
+      "RESP": [
+        "{Slow, raiva crescente}Todas essas estradas, {Ênfase}você trilhou. Todos esses pacotes que você carregou. Acha que não foi sua escolha?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D435",
+      "RESP": [
+        "Passei anos te procurando. Se você voltar para Mojave, é como se nada tivesse mudado. Dá pra viver com isso. Tive que viver.",
+        "Não tinha certeza se a história importaria para você. Se não importar, isso responde à minha pergunta.",
+        "Se você virar as costas para seu lar, que seja. Eu permanecerei aqui na Fenda para você retornar. E você retornará."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D432",
+      "RESP": [
+        "O Urso de duas cabeças fez sua reivindicação, cravou suas garras na trilha que você fez. Pela primeira vez, pareceu que ele poderia ter sucesso - abrir uma rota para o Mojave.",
+        "Não podia deixar a NCR ficar em A Divisão. Rota comercial, estrada que os militares poderiam usar... não pode ter duas estradas para Mojave.",
+        "{Para si mesmo}Não depois do trabalho que fizemos para isolar Nova Canaã, outras rotas, matando caravanas... tudo que fizemos para fazer o Oeste sangrar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43D",
+      "RESP": [
+        "{Para si mesmo, ecoando as ordens de Caesar}Ordens de Caesar. {Ênf}Toda linha de suprimentos deve ser cortada, toda comunidade que alimenta o Urso... corte sua garganta, mate Mojave de fome."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D436",
+      "RESP": [
+        "{Eco, insultado}Assassino? {Beat, raiva baixa}Se precisar matar, eu encaro minhas vítimas... não mato de longe, como você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43F",
+      "RESP": [
+        "{Mais quieto}Os que vieram... estavam seguindo ordens."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43E",
+      "RESP": [
+        "Não, quando chegam tão longe, não são da Legião. Andam como mensageiros. Como nós.",
+        "E a Divisa é a razão pela qual nenhuma Legião foi vista. Nenhum pertence a Caesar. Não neste lugar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D439",
+      "RESP": [
+        "O Urso fez sua sombra ser sentida aqui, mais do que eu podia suportar. Guarda pesada, vigilante. Eu observei, esperei.",
+        "E enquanto eu observava, estudava as pessoas. A bandeira, as marcações. Pensei talvez... se eu me livrasse do Urso... aquilo a que você deu vida pudesse voltar.",
+        "Esperou demais. Hesitou. Um Courier não foi feito pra ficar muito tempo em um lugar só. E então você veio, com o pacote. História."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D437",
+      "RESP": [
+        "Muito bem. Chega de palavras, então, não vão te levar aonde você precisa ir."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D433",
+      "RESP": [
+        "Não, eles não sabem a história disso. Então mande outros descobrir, mais para morrer... nas mãos de seus irmãos que o Divide reivindicou.",
+        "{Amargo}Não importa, o alcance do Urso foi cortado. Agora só restam os 15 Longos. Assim que isso terminar, Mojave estará sob a bandeira do Touro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D438",
+      "RESP": [
+        "Não sabia, mas os Correios podem viajar para qualquer lugar. Eles abrem estradas para lugares onde ninguém mais vai, com guarda ou não. Ia ficar olhando, pra ver.",
+        "A Legião... achou que poderia entrar na comunidade por meu intermédio, assim como eu encontrei o caminho seguindo você.",
+        "Mas você atacou primeiro, estilhaçou o chão e deixou sua casa queimar. Quase me matou. E a todos aqui, vivos ou mortos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43A",
+      "RESP": [
+        "{DUPLICADO}As fitas... {Encolhe os ombros} Não achei que fossem encontradas... não valiam a pena, de qualquer forma, não é como se eu fosse esquecer o que aconteceu.",
+        "{DUPLICADO}Tinha a tecnologia do Big Empty, um gravador que uma mulher me deu... já estava nas últimas, não sobreviveu à viagem. Joguei ele e as fitas fora.",
+        "{DUPLICADO}Se você os ouviu... não têm importância. Divagações, lembretes para um homem que não precisa deles."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D43C",
+      "RESP": [
+        "RaivaCabelos Retorcidos estão mortos, perdidos em Dry Wells, morreram no sorriso de Vulpes. Não vou discutir o destino deles com você, não agora. O passado deles é {Ênfase}meu para guardar.",
+        "Ande mais um pouco, me veja cara a cara. Talvez ganhe mais. Agora, deixe as palavras te manterem sem que eu precise acrescentar nada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D434",
+      "RESP": [
+        "{Slow, relembrando} Eu tinha, tive. Foi uma loucura... fiz uma pergunta com raiva. {Pausa} Tive uma resposta, mais do que esperava.",
+        "{Quieto, para si mesmo} Answer me disse o que aconteceu aqui na Divisão, o como daquilo, e isso foi o bastante.",
+        "{Resolvido, encerrando isto} A fita conta tudo, não preciso adicionar mais perguntas às que já existem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D743",
+      "RESP": [
+        "{Deixe um pouco de raiva entrar aqui, é isso que ele odeia}Era um dispositivo, um detonador. Um que eu nunca tinha visto antes... {um pouco mais baixo, para si mesmo}ou ouvido antes.",
+        "{Ênf}Você carregou aquela coisa até o Divide. Eu sei porque eu segui você enquanto andava pela estrada, observei você fazer isso.",
+        "Você trouxe isso aqui, para a comunidade que construiu. E você é responsável pelo que aconteceu depois: quando o dispositivo abriu e começou a falar.",
+        "Quando aconteceu, o Divide respondeu à altura. {Pausa}Aqueles mísseis que você viu, enterrados nos seus silos.",
+        "Eles explodiram sob o chão, racharam a paisagem. Areia, cinzas... os mortos... os céus de Divide viraram um cemitério."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41E",
+      "RESP": [
+        "Veio do Oeste. Das profundezas da NCR. Feito por eles ou não... chegou aqui. Através das suas mãos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41D",
+      "RESP": [
+        "{Ênf}Se você estivesse lá quando aconteceu. {Beat, mais baixo}Se você tivesse {Ênfase}visto a Divisa ruir, você saberia.",
+        "Você leva a morte aonde quer que vá. Se a Mojave ainda não sabe, vai saber."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D422",
+      "RESP": [
+        "Não... Tenho certeza. O que eu não sabia era que você ainda {Ênfase}estava vivo depois do Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41B",
+      "RESP": [
+        "O que aconteceu aqui... pode acontecer de novo. {Calmo, com um leve ar de convencimento} Você já provou isso, o que fez em Ashton. O silo lá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41A",
+      "RESP": [
+        "Você vai. Vou mostrar a Mojave, o Urso e o Touro como é a parada. Como os mensageiros podem acabar com nações."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D419",
+      "RESP": [
+        "Mas não te impediu, né? Que nem levar o Chip pra Vegas, a morte do Velho Mundo na sua mão.",
+        "Pedaços do Mundo Antigo como esse só precisam de alguém descuidado o bastante para levá-los aonde precisam ir, para fazer a matança."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D421",
+      "RESP": [
+        "O caminho à frente e abaixo leva ao coração do Divide.",
+        "E ali... você e eu daremos um fim a tudo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D420",
+      "RESP": [
+        "{Frio}Não, {Ênfase}você é. Cortou sua retirada, {Ênfase}sua linha de suprimentos. Míssil Ashton, transformou Hopeville numa fornalha.",
+        "Você pode voltar. Ainda pode... {lento}Mas a Divisão vai te marcar, a doença vai te pegar.",
+        "Não de imediato, talvez, mas com o tempo. Queima lenta, um pouco mais rápido do que antes."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41C",
+      "RESP": [
+        "Sua jornada não acabou. Você não a percorreu por inteiro, nem de longe."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D41F",
+      "RESP": [
+        "Já te ouvi uma vez, há muito tempo e alto o suficiente para a história ouvir. Cansado das suas mensagens.",
+        "{Leve maldoso}Ainda assim, a curiosidade te trouxe até aqui. Vamos ver o que mais ela pode fazer."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3FB",
+      "RESP": [
+        "Lar não é onde você nasce neste mundo. Você me ensinou isso. Parte da sua mensagem, quer você quisesse ou não.",
+        "{Reflexivo}Pode ser um lugar da mente, um momento em que você sabe quem você é, a história disso. {Pausa, volta-se para o jogador}E podem ser lugares nos quais você injeta vida."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D402",
+      "RESP": [
+        "Nunca teria conhecido o Divide se não fosse por você. {Deliberado, lento, pouca raiva aqui} A estrada que você abriu com seus rastros, repetidas vezes.",
+        "{Pensando} Você foi o único disposto a fazer a jornada de ida e volta... uma estrada difícil. Manteve a terra antes da Divisão viva através de estações, tempestades...",
+        "{tentando se convencer}{ênfase}...não pode ter sido só um trabalho. AcusandoEra algo mais pra você. Ninguém se apega tanto a um lugar a não ser que seja o lar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3FA",
+      "RESP": [
+        "RaivaSignifica {Ênfase}tudo. Mesmo que você {Ênfase}negue, ignore, isso diz muito sobre você, {Ênfase}prova o que aconteceu aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3FD",
+      "RESP": [
+        "{Frio, julgando, baixo}E você se esqueceu. Esqueceu de tudo. {Pausa, ênfase}Descuidado, tão descuidado com futuros naquela época quanto é agora no Mojave."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D404",
+      "RESP": [
+        "Foi você que, ao andar por aquela estrada, manteve o Divide vivo. Ele cresceu a partir do que você fez. Colonos... acampamentos... tomando aquela cidade do Mundo Antigo.",
+        "{Para si mesmo}Chance de uma nova nação, um novo começo. Uma nova forma de pensar.",
+        "AmargoPoderia ter dado nova vida ao Mojave, ligando Leste e Oeste. Como a Represa Hoover... mas não do Velho Mundo, algo que {Ênfase}você fez. A estrada era uma linha de suprimentos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D403",
+      "RESP": [
+        "{Levanta uma sobrancelha, desprezo}Errado? {Silêncio}Não, eu sei a verdade."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3F6",
+      "RESP": [
+        "Não, recontando a história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3FE",
+      "RESP": [
+        "{Debocha} Não mais. Se existisse, o Urso de duas cabeças já teria tomado posse. E tentou."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D400",
+      "RESP": [
+        "A NCR viu o valor naquela estrada que você fez. NojoReivindicaram o lugar, quer quisessem ou não — {assim como é} verdade em outros lugares de Mojave.",
+        "E onde o Urso tenta se agarrar à vida, a Legião chega... trazendo mensagens. Algumas trazidas pela lâmina. Outras... por mensageiros.",
+        "Você sabia o que estava por vir, tão certo quanto eu sei o que está vindo para você.",
+        "Dessa vez, {Ênfase}você carrega o fardo.{Pausa}Caminhe para o oeste, em direção ao sol, e continue caminhando até ele morrer.{Pausa}Lá, eu estarei esperando."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3FC",
+      "RESP": [
+        "{DUPLICADO}Mojave e a Divisa não são os únicos lugares por onde andei."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E1",
+      "RESP": [
+        "Eles começarão a surgir por toda a Mojave com o tempo, pode levar anos. Provavelmente menos.{Sem arquivo de som}",
+        "Eles se reproduzem rápido, caçam em grupos, mais do que o suficiente para derrubar o mais forte em Mojave. Uma vez que sentem o cheiro de sangue...",
+        "Já os vi despedaçar Destroçadores... Destroçador pode até pegar uns, mas o resto vai cair em cima, despedaçar, que nem cães de Denver."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E0",
+      "RESP": [
+        "Mojave e a Divide não são os únicos lugares por onde andei."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E5",
+      "RESP": [
+        "[FALHOU] Mais uma cidade que caiu para as nações, no leste... não importa. {Desdenhoso, o jogador não é muito chegado a atividades ao ar livre} Duvido que você chegue tão longe a pé, precisaria que a terra te sustentasse."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E6",
+      "RESP": [
+        "[FUNCIONOU] Mojave e a Divisa não são os únicos lugares por onde andei."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DF",
+      "RESP": [
+        "Andei pelo Leste também, antes do Touro chegar. Então... muito parecido com Mojave antes do Urso... tribos, cidades, agarrando-se à vida. O Touro fez um trabalho melhor."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E8",
+      "RESP": [
+        "[FALHOU] {Desdenhoso}Não sei a história deles, só seus padrões e como caçam.",
+        "{Desprezível}Ainda assim, leva muito tempo para esses padrões se desenvolverem. Uma história mais longa do que o que aconteceu aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E7",
+      "RESP": [
+        "[FUNCIONOU] {Aceno}Faz sentido. A verdade favorece isso, combina com a história deste lugar.",
+        "{Reflexivo}Havia sinais de que estiveram aqui por muito tempo, antes dos Homens Marcados, antes do que aconteceu com a Divisão rachar o céu deles.",
+        "Se for o caso, foram enterrados bem fundo. Devem ter nascido no dia em que as brasas da América começaram a se apagar. {Para si mesmo} Já vi coisas piores distorcidas pela radiação."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D8",
+      "RESP": [
+        "[FALHOU] {Desdenhoso}Quer saber mais, continue andando.",
+        "Eu darei as respostas conforme você for. {Pausa, aviso} Não antes."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D7",
+      "RESP": [
+        "[FUNCIONOU] {Sorri} \"Quem é você, que não conhece a sua história?\"",
+        "Você veio até aqui por respostas. A única moeda que tenho, nada mais a ganhar - {você}pode dar meia-volta, ir embora a qualquer momento.",
+        "Se a história importa para você... vai ter que merecê-la. {Para si mesmo, isso é uma dica} Quaisquer registros meus já foram descartados no Divide, estão perdidos para você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D6",
+      "RESP": [
+        "{Comandando}Por enquanto, encontre o gatilho das ogivas, enterrado em Hopeville. Use-o para continuar se movendo... e continuar vivo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C9",
+      "RESP": [
+        "{Desdém}Seu futuro com House tem dois caminhos. O caminho que os tribais de Vegas trilharam... seus espíritos esmagados...",
+        "...ou sua cara num servo robô, sorrindo para sempre num cassino falido. Não há futuro em nenhum dos dois."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C7",
+      "RESP": [
+        "Vegas é do Mundo Antigo, cheio de fantasmas do Mundo Antigo. {Pausa, ligeiramente ameaçador} E fantasmas precisam dos vivos para fazer o trabalho deles.",
+        "É por isso que as famílias estão lá, por que o Urso tropeça lá para se perder. É uma dança, não sei qual é o propósito dela.",
+        "Você esteve lá, viu a Muralha. É o que tem dentro que me preocupa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C2",
+      "RESP": [
+        "{Franzindo a testa}Essa palavra não serve. \"Teatro\" é melhor... as famílias, o Urso, tudo num palco.",
+        "House. Ele é quem está observando. {Desconfiado} O porquê... você saberia melhor do que eu. Se não sabe... vai saber."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C3",
+      "RESP": [
+        "Você esteve, você viu o Muro. Seguro? Não... o que tem lá dentro... isso é o que me preocupa.",
+        "Lá dentro, o Mundo Antigo está acordando. Nenhum fato ou história que eu ouvi me diz que aquela cidade alguma vez dormiu, e isso me faz pensar.",
+        "O azul dos céus de Mojave não é como o resto do mundo. Não se ouve um Geiger ali, há mais o que temer de predadores do que radiação.",
+        "A cidade... todo o Mojave, não foi atingido por bombas. Se dependesse de mim, Vegas seria uma das primeiras partes do Velho Mundo a queimar.",
+        "Alguém protegeu. Não foi sorte, não foi acaso. Algo maior... mas deixaram o resto do mundo sofrer. E farão isso de novo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C5",
+      "RESP": [
+        "As famílias de Vegas já foram tribos. Se embebedaram com as luzes de Vegas, o espírito esvaiu-se delas. História do Mundo Antigo, sob uma bandeira diferente.",
+        "Quaisquer tradições ou rituais que eles tinham, muito provavelmente já foram esmagados, transformando-se em outra coisa.",
+        "{Para si mesmo}E se não, então tenho medo do que vai acontecer quando eles voltarem se arrastando."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C4",
+      "RESP": [
+        "{\"Eu\"}Eu acredito nisso. Acredito que Vegas manda, eu vi o que ela fez com quem se opõe a ela. E eu vi seus mensageiros."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3CC",
+      "RESP": [
+        "Mas tudo em Vegas fala de alguém que não consegue superar.",
+        "House pega uma pá nas covas da história, ergue os mortos e coloca palavras em suas bocas. As tribos nem sequer sabem como foram destruídas.",
+        "{Frio, ameaçador}Não é um mundo do qual eu queira fazer parte, seguindo em frente até que sejamos todos rostos sorrindo na tela de algum robô."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3CB",
+      "RESP": [
+        "Não... só vi as obras dele. Aquelas que ele destruiu com luz e ouro. Seus mensageiros."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C6",
+      "RESP": [
+        "A Estrada Alta... ainda não o Divide, muitos quilômetros a andar. Mas você chegou até aqui. {Nojo, odeia ED-E} Você e aquela máquina que te segue como uma sombra.",
+        "Não tinha certeza se os dois chegariam - acima e abaixo do viaduto.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39E",
+      "RESP": [
+        "Ouvi histórias de você andando pelo Mojave. Abandonando seu disfarce... mas você carregava aquele Chip, determinado a levá-lo para Vegas... não para Caesar. {Sem Arquivo de Som}",
+        "Você e aquele Chip se merecem, 29 moedas a menos do que outros traidores carregaram, pela marca da história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39F",
+      "RESP": [
+        "Considero a Legião como meus irmãos... mesmo tão equivocados quanto são. E você... mais do que a maioria.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A1",
+      "RESP": [
+        "Não é a Legion... não a Legion que eu conheço. Mas eles mudam, mesmo que pouco, conforme marcham para o Oeste, a cada tribo que subjugam.",
+        "{Desprezível}Mas sim... a última vez que ouvi, você precisava de uma arma entre as pernas para carregar uma para Caesar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A9",
+      "RESP": [
+        "{Leve surpresa}O que você q... {\"quer dizer,\" então ri}Entendi a jogada. Tem fibra, pelo menos. Guarde-a para o futuro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A0",
+      "RESP": [
+        "{Desprezível}Poder não é força. Poder pode isolar alguém, quando {ênfase leve}acreditam que os libertou.{Sem arquivo de som}",
+        "O poder do House... {Pausa, deixa pra lá}você viu a muralha em volta de Vegas. Quanto mais poder ele ganha, mais a muralha cresce. A Mojave vai virar Vegas.",
+        "{Um pouco quieto, como se estivesse falando de um cemitério assombrado} Mas é mais luzes do que força. Você vai entender logo, logo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A6",
+      "RESP": [
+        "Não... não é novo. E não é novo entre todos aqueles na sombra do Urso. {Sem arquivo de som}",
+        "{Franzindo a testa}Sabe a bandeira deles, um urso com duas cabeças. O símbolo é do Velho Mundo, tinha uma cabeça antes, era melhor assim.",
+        "A bandeira deles diz muito sobre o espírito deles. São divididos como qualquer animal de duas cabeças, tentando ir em direções diferentes, acabando em lugar nenhum.",
+        "No Mojave, isso só vai te dar areia entre os dedos... ou sobre o túmulo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A2",
+      "RESP": [
+        "Sim. E qualquer Courier diria o mesmo, vê isso em todo lugar. O Urso...{Sem arquivo de som}",
+        "...O Urso está ocupado demais esculpindo o Mojave com facas, estradas, fronteiras e como as coisas {Ênfase}deveriam ser para ver como elas {Ênfase}são.",
+        "Estão com as forças dispersas, não conseguem proteger suas linhas de frente, suas cidades, acham que o poder do papel, o rádio significa controle... tudo inútil."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D492",
+      "RESP": [
+        "Não importa mais. O Urso não conseguiu segurar a Fenda.",
+        "Você e aquela máquina são tudo o que restou da NCR por aqui... {mais baixo, para si mesmo} O resto sucumbiu à radiação, ao fogo... e ao que se esconde lá embaixo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A7",
+      "RESP": [
+        "Tentar não tem muita importância para mim. A Legião não {Ênfase}tenta{\/emph} matar pessoas, ela mata. O Urso mata pessoas tentando {Ênfase}protegê-las{\/emph}.",
+        "A ironia é cruel. E a Legião... a bandeira deles pode ser velha, mas não está em guerra consigo mesma."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3AD",
+      "RESP": [
+        "Talvez não. Talvez seja por isso que você se juntou ao Urso em primeiro lugar: não consegue ver o que está seguindo.",
+        "Não vai convencer um surdo com palavras. Demonstrou força ao vir até aqui. Se é força que você respeita, então seu lugar é a leste do Colorado."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3CA",
+      "RESP": [
+        "{Julgando}Talvez seja por isso que você escolheu Vegas... as luzes podem cegar, fazer as pessoas se esquecerem. Suas convicções... seus votos. {Sem arquivo de som}",
+        "Não vou perder tempo tentando fazer cego enxergar. {Pausa}Arrisquei vir aqui - igual você fez. Agora vamos ver no que vai dar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D353",
+      "RESP": [
+        "{Sorriso\/escárnio}Que tipo de mundo seria este se o Courier matasse o Courier.{Sem arquivo de som}",
+        "Você tem distância suficiente pela frente. Guarde o fôlego para a estrada, não o gaste com palavras."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D352",
+      "RESP": [
+        "{Desdém, desdenhoso}Tudo bem... Courier. Se o motivo disso importa para você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D34D",
+      "RESP": [
+        "{Concedendo ao pedido do jogador, um pouco menos desafiador. \"Meu nome é...\"}Não é meu nome de batismo, mas serve.{Sem arquivo de som}",
+        "Peguei da história, achei num livro. É um nome do Velho Mundo.",
+        "Ulysses viveu há muito tempo, muito antes do Velho Mundo pegar fogo. Ele deixou sua marca sem ser um mito.",
+        "Teve que lutar numa época em que o mundo dele tinha duas bandeiras e ele teve que uni-las."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D34A",
+      "RESP": [
+        "[FALHOU] {Desdém}Pesquise o histórico, pode encontrar algum significado nele.{Sem arquivo de som}",
+        "É só um nome - você não faz a {Ênfase}menor ideia de quem eu sou. {Beat, dismissivo}Vai saber no final."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D349",
+      "RESP": [
+        "[FUNCIONOU] {Cedendo ao pedido do jogador, um pouco menos desafiador. \"É sobre história?\"}História. Sim.",
+        "Ulysses trilhou um caminho difícil. Um general, como Caesar e Oliver. Era teimoso como um brahmin, o que lhe dava força no campo de batalha.",
+        "Ele liderou seu lado à vitória, transformou duas bandeiras em uma. {Franzindo a testa}Foi aí que {Ênfase}ele perdeu - quando a luta acabou, a doença o dominou.",
+        "Lição a ser aprendida, se a história servir de lição. Uma que você deveria seguir."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D348",
+      "RESP": [
+        "[FALHOU] {Ênf}Lutando? {Desdém}Sim... mas com armas diferentes das que você está acostumado.",
+        "Está perdendo tempo. Enrolando. Não vai te ajudar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D347",
+      "RESP": [
+        "[FUNCIONOU] {Cedendo ao pedido do(a) jogador(a), um pouco menos desafiador. \"É sobre a guerra, certo?\"}Guerra. Chame do que quiser. {Corrigindo, Enf}Nossa parte nela.{Sem arquivo de som}",
+        "Ulysses não foi feito para a bandeira que ele seguia. Ele não foi feito para a paz. Essa é a lição.",
+        "Se você seguir um símbolo até o fim, pergunte-se o que isso significa. Mais importante, pergunte o que acontece {Ênfase}depois do fim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D34C",
+      "RESP": [
+        "[FALHOU] {Nojo, dispensa o jogador} Conversa... palavras não vão resolver isso. A Estrada vai. E o fim. {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D34B",
+      "RESP": [
+        "[FUNCIONOU] {Leve desdémio}Não... não, eu não conseguiria. E acho que você também não pode me matar. Se fizesse isso, teria que responder por isso, assim como eu teria.{Sem arquivo de som}",
+        "{Frio}Deixe a terra matar por você, foi uma das coisas que você me ensinou.",
+        "Matar é pessoal, assim como votos e promessas. A última parte é mais importante pra mim do que a primeira."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32E",
+      "RESP": [
+        "{Reflexivo}Urso e Touro derramaram sangue demais ali para deixar isso passar. {Pausa, \"mas...\"}Não posso te impedir de ir, nem quero.",
+        "Um aviso, porém: o Legado, Lanius. Quer Caesar se mantenha ou não, Lanius virá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32F",
+      "RESP": [
+        "Lanius... o \"Açougueiro\". {Sombrio, reconhece o nome} Monstro, Terror do Leste.",
+        "Nem mesmo seus escravos viram o rosto dele - ele os cegou para que não pudessem ver. Usa uma máscara, nem sei se é o mesmo homem.",
+        "Ele passou Colorado na espada, quebrou os Hangdogs jogando seus cães nas chamas, para que pudessem queimar para sempre na vida após a morte."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00E12C",
+      "RESP": [
+        "{DUPLICADO}{Despedida}O Divide agora pertence à história. {Pausa}A Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D447",
+      "RESP": [
+        "{DUPLICADO}{Despedida}O Divide agora pertence à história. {Pausa}A Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D333",
+      "RESP": [
+        "{Despedida}Então não há mais nada a ser feito. {Pausa}Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D330",
+      "RESP": [
+        "Lanius carrega consigo todos os terrores do Leste. Ele é o mito, a arma que a Legião precisa.",
+        "Quando ele chegar, vai cair na Represa Hoover como um martelo, {quieto}e partir o Urso em dois."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D337",
+      "RESP": [
+        "Para tomar a Represa Hoover, a Legião vai precisar de algo tão grande quanto o Velho Mundo em si: outro símbolo, forjado pela história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D332",
+      "RESP": [
+        "{Slow, reflexivo}Dezenove tribos não conseguiram. Nem todas as luzes de Vegas."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D339",
+      "RESP": [
+        "A força dele reside no título, e essa é sua fraqueza. Ele não lutará uma batalha perdida e destruirá o que representa.",
+        "Plante nele a ideia da derrota. Convença-o de que o Urso não será a vigésima tribo sob seu domínio, isso o fará hesitar como nada mais.",
+        "Você não precisa convencê-lo sozinho. Recorra à história. O passado de outros Legados não é repleto de vitórias. Lembre Lanius disso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32D",
+      "RESP": [
+        "{DUPLICADO}Existem outros Legados, e o anterior a Lanius não conseguiu tomar a Represa Hoover para Caesar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D334",
+      "RESP": [
+        "Sim. Graham foi destroçado no muro da Represa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D331",
+      "RESP": [
+        "Existem outros Legados, e o anterior a Lanius não conseguiu tomar a Represa Hoover para Caesar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D336",
+      "RESP": [
+        "Caesar o queimou e o jogou na terra, no maior desfiladeiro que você já viu. Viu as chamas irem até o fundo.",
+        "De alguma forma, Joshua escapou daquilo, foi além do olhar de Caesar. Seus passos deixando um rastro de fogo, caminhando de um inferno... talvez para outro.",
+        "{Pensando em si mesmo e no jogador}Quando alguém está arruinado como Graham estava... às vezes, o lar é o único lugar que resta. Se for o caso, ele foi para New Canaan, com a ira de Caesar escrita nele como um livro.",
+        "As ordens de Caesar aos Frumentarii eram para procurá-lo, encontrar Graham. Matá-lo. {Pausa} Não tentei. Poderia ter tentado, mas não teria adiantado nada.",
+        "{Quieto, introspectivo} Graham conquistou sua vida, e sua natureza... isso o matará mais seguramente do que qualquer lâmina da Legião.",
+        "{Silêncio, como se deixasse descansar}Então, se ouviu falar dele ou viu algum sinal dele, guarde pra você. {Beat, nota baixa}Que a história dele fique guardada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D335",
+      "RESP": [
+        "O erro daquele Legado é que ele não morreu tentando. O nome dele era Joshua - Joshua Graham. Respondeu por sua falha... duas vezes, alguns dizem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D446",
+      "RESP": [
+        "{DUPLICADO}{Despedida}O Divide agora pertence à história. {Pausa}A Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D448",
+      "RESP": [
+        "{DUPLICADO}{Despedida}O Divide agora pertence à história. {Pausa}A Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D304",
+      "RESP": [
+        "{Escolhendo suas palavras com cuidado} House falava, agia por meio de máquinas. Às vezes, dá pra julgar um homem pelos seus mensageiros. {Referindo-se ao jogador} Às vezes, os mensageiros o julgam.",
+        "Imagino o que vai acontecer com Vegas agora. As tribos... as famílias. Veremos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D307",
+      "RESP": [
+        "{Balança a cabeça, arrependido, mas o jogador fez a coisa certa, \"Não...\"} O que você fez foi o melhor. O Velho Mundo morreu há muito tempo. Qualquer um que acredite que pode fazê-lo retornar e tudo será como era...",
+        "...é uma crença perigosa. {Pausa}Precisa ser silenciada antes que essa crença se espalhe."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D306",
+      "RESP": [
+        "{Silêncio, reverente, encerrando isto}Deixe House dormir em sua câmara. Deixe-o sonhar com o Velho Mundo {Ênfase}que ele se lembra, e mantenha essas memórias onde elas pertencem, em sua cabeça."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D305",
+      "RESP": [
+        "{Silêncio, encerrando isto}Se você viu House, não viu um homem. Um espírito do Velho Mundo, talvez... imundo, doente. Se for o caso, matá-lo foi misericórdia, não crueldade."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FB",
+      "RESP": [
+        "{Pensando, lentamente}O nome morreu duas vezes para a história. Se o Oeste te agradecer... o Leste não vai, com o tempo. Desmoronar, voltar para as tribos, talvez."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F8",
+      "RESP": [
+        "{DUPLICADO}{Pensando, devagar}O nome morreu duas vezes na história. Se o Oeste te agradecer... o Leste não vai, com o tempo. Desmoronar, voltar para as tribos, talvez."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FA",
+      "RESP": [
+        "{Entregue como se \"ainda\" estivesse no começo}A menos que faça o mesmo pelo Legado que vier, não terá meus agradecimentos. Quando {Ênfase}aquele Monstro chegar, ele não terá coleira.",
+        "{Quieto}Caesar podia comandá-lo. Não agora. O Urso vai queimar, e queimar lentamente."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F9",
+      "RESP": [
+        "{Ligeiramente duvidoso}Cedo demais para dizer o que vai acontecer, deixe a história pesar o que você fez, se chegar a tanto."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FE",
+      "RESP": [
+        "{Ênf}Caesar seria o hipócrita da história se ficasse puto com o que aconteceu. Eu também não sou fã disso.",
+        "Parece que você acabou de provar a filosofia dele para ele. Se ele fosse mais forte, estaria vivo, e não estaríamos conversando."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FD",
+      "RESP": [
+        "{Encolhe os ombros} Ele deixou outro segurar uma faca no pescoço dele. Se ele era fraco o bastante para deixar a faca tão perto do pescoço, talvez precisasse ser o fim dele."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F7",
+      "RESP": [
+        "{Encolhe os ombros} Chega de culpar, e Caesar era fã da força que faz o direito. Me parece que você provou essa filosofia pra ele.",
+        "Se ele era fraco demais para te impedir, fraco demais para se defender, então ele precisava morrer com suas crenças."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FC",
+      "RESP": [
+        "Não era a hora dele, e ele não gostaria de ter morrido assim.",
+        "{Ele Mesmo}Também não era assim que a maioria gostaria que ele morresse, Urso ou Touro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D5",
+      "RESP": [
+        "Pelo Urso de duas cabeças... NCR... eles não têm símbolos da mesma forma que a Legião tem. {Sem arquivo de som}",
+        "Eles veneram suas minas e explosivos, armas... {Ênfase}essa é a religião deles - {desgosto}morte de longe, se orgulham disso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CF",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] Nem sempre foi assim. Destroços do Mundo Antigo não são novidade... depois disso, algo em que você meteu a mão... você vai andar por ele em breve.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CE",
+      "RESP": [
+        "{DUPLICADO}[FUNCIONOU] A América dorme na Fenda - gigantes, sob a terra. Você viu um trancado no silo abaixo de você. {Pausa, frieza}Tem mais.{Sem arquivo de som}",
+        "{DUPLICADO}Só precisa de alguns deles, trancados no subsolo, para despedaçar a terra... e lançar poeira, areia... cinzas... nos céus."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D0",
+      "RESP": [
+        "Por agora, olhos atentos, observe as ruas abaixo. Ainda há vida em Divide - ameaças além das tempestades e do vento... novos habitantes. {Sem Arquivo de Som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C3",
+      "RESP": [
+        "Talvez não reconheça a minha voz, mas trilhamos os mesmos caminhos. A Long 15 até Primm... essa não foi a única estrada que você já trilhou. {Sem Arquivo de Som}",
+        "Eu estive na sua casa, o lugar para onde você sempre voltava... pode não ser o lugar onde você nasceu, mas foi o lugar ao qual você deu vida, a mesma coisa.",
+        "As pessoas esquecem que os mensageiros podem manter as comunidades vivas... até o dia em que eles se vão, e a respiração lhes falta na garganta."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C1",
+      "RESP": [
+        "Um fim. Para essa estrada, você e eu. Primeiro, você precisa encontrar seu caminho. No fim, estarei esperando.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C5",
+      "RESP": [
+        "Esses novos habitantes... não nativos... a maioria deles. Vieram com dever, propósito... prontos para se matar. {Pausa, um pouco mais baixo} A Divisão era mais forte.",
+        "{Introspectivo, cont}Deixei marcas neles também. Não Urso, não Touro... agora... a radiação os marcou, os igualou aos olhos da história.",
+        "Tão cruéis quanto as tempestades, essas sombras da Legião, da RNC - {\"elas são\"} silhuetas de coisas que estão por vir."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C2",
+      "RESP": [
+        "Mesmo enquanto os fogos aqui os queimavam por dentro... os ventos da Divisão rasgavam sua pele, os expunham... gritando... para o céu. {Sem arquivo de som}",
+        "E assim como a Divisa os dilacera, eles se dilaceram, por esporte - como alguma escarificação tribal. {Pausa, para si mesmo, referindo-se às origens da Legião} Talvez estejam voltando à história deles.",
+        "{Mais quieto}Não importa o que sofram... {Reflexivo}a radiação, o fogo do Divide, os sustenta. Os torna mais fortes."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C8",
+      "RESP": [
+        "{DUPLICADO}[FALHOU] São mais bestas do que homens agora. Eles se agarram à dor como se agarram às armas... isso os ancora."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C7",
+      "RESP": [
+        "{DUPLICADO}[FUNCIONOU] {Concorda com a cabeça}Há verdade em suas palavras, {e}no que eu vi das táticas deles, movimentos... recuperação. Aqueles ferimentos... eles não sobreviveriam de outro jeito.",
+        "{DUPLICADO}Os ventos de A Divisão arrancaram a pele de muitos deles - {pausa}talvez a radiação seja a única coisa que os mantenha andando.",
+        "{DUPLICADO}Acampar perto dos silos... ogivas. {Pensando consigo mesmo}Impossível limpar a radiação. Fica difícil matá-los lá, tenho que atraí-los para fora."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CC",
+      "RESP": [
+        "[FALHOU] Agora são mais bestas do que homens. Eles se agarram à dor como se agarram às armas... isso os ancora.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CB",
+      "RESP": [
+        "[FUNCIONOU] {Assente, concordando} Há verdade em suas palavras, {e} no que eu vi de suas táticas, movimentos - recuperação. Aqueles ferimentos - eles não poderiam viver de outra forma.{Sem arquivo de som}",
+        "Os ventos da Divisa arrancaram a pele de muitos deles - {pausa}talvez a radiação seja a única coisa que os mantém andando.",
+        "Acampar perto dos silos... ogivas. {Pensando consigo mesmo} Sem chance de limpar a radiação... dificulta matá-los lá, preciso atraí-los para fora."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CA",
+      "RESP": [
+        "[FALHOU] Nem sempre foi assim. Destroços do Velho Mundo não são novidade... depois disso, algo em que você meteu a mão... você vai andar por ele em breve.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C9",
+      "RESP": [
+        "[FUNCIONOU] A América dorme em Divide - gigantes, sob a terra. Você viu um trancado no silo abaixo de você. {Pausa, frio} Há mais. {Sem arquivo de som}",
+        "Só precisa de uns poucos deles, trancados no subsolo, pra despedaçar a terra... e lançar poeira, areia... cinza... nos céus.",
+        "{Leve acusação}Você vai ver a extensão dela, os quilômetros dela, em breve. Precisa ver... andar por ela."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D137",
+      "RESP": [
+        "Pode ter sido. Uma vez. Eles vieram para a Divisão... na Divisão, eles descansam.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D132",
+      "RESP": [
+        "Pode ter sido. Uma vez. Para a Fenda eles vieram... na Fenda, eles descansam.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D134",
+      "RESP": [
+        "Pretendia? Não. Jamais. {Ênf}Seu fardo.{Sem arquivo de som}",
+        "Te derrubar por tempo suficiente para deixar a morte te alcançar... mas você sobreviveu.",
+        "Havia morte naquele pacote, e embora o Chip seja importante para os fantasmas do Mundo Antigo... não, você é mais perigoso do que aquele Chip jamais poderia ser.",
+        "{Reflexivo}Talvez seja por isso que vocês se encontraram, um pedacinho do Velho Mundo, falando com você, esperando que você desperte outra coisa com ele."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D133",
+      "RESP": [
+        "[FALHOU] {Nojo, levemente desdenhoso} Eu sei quem você é. Mas o que temos em comum não está nas palavras que trocamos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C6",
+      "RESP": [
+        "[FUNCIONOU] Palavras não são a única forma de mensageiros se encontrarem... às vezes são os caminhos que trilhamos. Mas não... nunca nos falamos antes. {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D135",
+      "RESP": [
+        "{Frio}Todos nós temos a morte nos seguindo, só uma questão de quão perto ela está. Você a evitou... por um tempo. {Desdém}Você é bom nisso, tem talento pra isso.",
+        "Com esse Chip te afogando... um fardo, deixe a morte chegar um pouco mais rápido sem que eu precise puxar o gatilho."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D136",
+      "RESP": [
+        "Promessas a cumprir. Aos outros. E o Mojave já é perigoso o bastante - deixado à própria sorte, a terra segue seu rumo.{Sem arquivo de som}",
+        "Se eu quisesse você morto, teríamos nos encontrado antes. Não tenho certeza se é assim que isso termina.",
+        "{Mais quieto}Talvez a história precise ter sua vez. Se não, mensagens servem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A8",
+      "RESP": [
+        "[FALHOU] <Bipes confusos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A7",
+      "RESP": [
+        "[FUNCIONOU] <Bipes contentes>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09E",
+      "RESP": [
+        "[FALHOU] <Bipes confusos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09D",
+      "RESP": [
+        "[FUNCIONOU] <Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A6",
+      "RESP": [
+        "[FALHOU] <Bipes confusos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A5",
+      "RESP": [
+        "[FUNCIONOU] <Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A2",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A1",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0AC",
+      "RESP": [
+        "[FALHOU] <Bipes confusos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0AB",
+      "RESP": [
+        "[FUNCIONOU] <Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0AA",
+      "RESP": [
+        "[FALHOU] <Bipes confusos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A9",
+      "RESP": [
+        "[FUNCIONOU] <Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A4",
+      "RESP": [
+        "[FALHOU] <Bipes alegres>{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A3",
+      "RESP": [
+        "[FUNCIONOU] <Bipando feliz>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D0A0",
+      "RESP": [
+        "[FALHOU] <Bipes alegres>{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09F",
+      "RESP": [
+        "[FUNCIONOU] <Bipando feliz>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08A",
+      "RESP": [
+        "{Narração}{Alvo: Legion}...mísseis caíram no leste e no acampamento da Legion em Dry Wells... onde os Cabelos Torcidos se aliaram e, então, foram traídos por Vulpes e Caesar.",
+        "{Narração}Soldados da Legião morreram, suas silhuetas explodidas no chão e na terra, a última palavra do último dos Cabelos Trançados."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D089",
+      "RESP": [
+        "{Narração}{Alvo: NCR}...mísseis caíram na NCR e na rota de caravanas da Long 15, depois do Posto Avançado Mojave, a estrada que o Courier estava percorrendo quando a história começou.",
+        "{Narração}Caravanas e postos avançados da NCR ao longo da rota foram reduzidos a cinzas, uma dádiva do Velho Mundo vinda do Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D090",
+      "RESP": [
+        "{DUPLICADO}{Narração}{Alvo: Legion}Foi um fim para as coisas, uma forma de apagar a estrada que levou a este ponto e a história que caminhou com ela."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08F",
+      "RESP": [
+        "{Narração}{Alvo: NCR}Por mais catastróficos que tenham sido os danos para a NCR, o ato fortaleceu o mensageiro por não ter história e nem recuo.",
+        "{Narração}Era um fim para as coisas - uma forma de apagar a estrada que levara a este ponto e a história que caminhara com ela."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D07C",
+      "RESP": [
+        "{Narração}{Feminino}A Courier caminhou até ficar novamente na beira do Divide, a última estrada que ela percorreria antes da segunda batalha pela Represa Hoover.",
+        "{Narração}{Feminino}Ali, ao lado dos pés dela, havia um último pacote, de um Courier para outro - um baú, contendo um presente e uma mensagem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D07B",
+      "RESP": [
+        "{Narração}{Masculino}O mensageiro caminhou até estar novamente à beira do Divide, a última estrada que trilharia antes da segunda batalha pela Represa Hoover.",
+        "{Narração}{Masculino}Ali, ao lado dos pés dele, havia um último pacote, de um Courier para outro: um baú, com um presente e uma mensagem."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D081",
+      "RESP": [
+        "{Narração}{Confiante, sabendo de algo}Mas essa mensagem... é algo para mensageiros carregarem, e só para eles.",
+        "{Narração}{Encerrando}As luzes tremeluziam pelo Divide, lembranças de que as histórias do Velho Mundo persistem e encontram significado no presente."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08B",
+      "RESP": [
+        "{Narração}No fim da luta, apenas um Courier permaneceu no coração do Divide. O {Ênfase}verdadeiro Courier, Courier Six.",
+        "{Narração}O mensageiro rasgou a antiga bandeira da Commonwealth de seus cabos e a jogou sobre o cadáver..."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08C",
+      "RESP": [
+        "{Narração}...embora feito como um sinal de respeito, ou com raiva pelo que foi suportado para chegar a este momento... isso é desconhecido.",
+        "{Narração}A interpretação é algo melhor deixado para a história, e apenas o Courier sobrevivente saberia ao certo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08D",
+      "RESP": [
+        "{Narração}Hopeville queimava sem luz na noite, com fogos invisíveis de radiação a devastando por dentro e por fora.",
+        "{Narração}Dizem que um homem ainda andava por suas ruas, com uma jaqueta esfarrapada, uma bandeira do Mundo Antigo gravada nas costas..."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D085",
+      "RESP": [
+        "{Narração}Ele permaneceu ali, talvez como punição pelas cicatrizes que deixou nos ermos... ou uma lembrança de uma história que não podia esquecer.",
+        "{Narração}Para Ulysses... sua jornada havia terminado. O Courier tinha sido o fim do {\"emph\" se refere a Ulysses}caminho dele."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D086",
+      "RESP": [
+        "{Narração}ED-E, tendo recebido uma segunda vida das máquinas do Divide, libertado pelo Courier, continuou sua jornada para o oeste, para Navarro...",
+        "{Narração}...ou o que restou do que o Olho-robô considerava \"lar\". Tendo encontrado ou não sua terra natal, seu caminho é desconhecido.",
+        "{Narração}Talvez a jornada tenha significado mais do que o destino, assim como seu equivalente em Mojave havia aprendido."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D080",
+      "RESP": [
+        "{Narração}Antes de partir, ele enviou um sinal codificado para seu original no Mojave, transmitindo o que o Courier havia lhe ensinado na Divisa.",
+        "{Narração}Com esse último adeus, ele partiu, levando consigo a canção da esperança do Velho Mundo, que lhe deu força e propósito em sua jornada.",
+        "{Narração}{Nota baixa}E não importa o que acontecesse, ele sabia que haveria um segundo lar para retornar, Navarro ou não... e que seu criador estaria orgulhoso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D091",
+      "RESP": [
+        "{Narração} ED-E, a versão trazida à vida pelas máquinas do Divide, permaneceu congelado na instalação militar onde Ulysses o convocou.",
+        "{Narração}A última transmissão codificada do robô para sua contraparte em Mojave falava de melhorias, memórias desbloqueadas... então silêncio.",
+        "{Narração}Não muito depois que o Courier deixou a instalação, os bancos de dados do Eyebot foram apagados, e ele foi desmontado tão rapidamente quanto foi construído."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D088",
+      "RESP": [
+        "{Narração}Quando os circuitos de ED-E queimaram nas chamas da Divisão, houve uma pequena parte que resistiu até o fim.",
+        "{Narração}Era o fragmento que continha as memórias do Mundo Antigo e as palavras de seu criador em seus últimos momentos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D087",
+      "RESP": [
+        "{Narração}Como seu último gesto, ele enviou um último sinal para sua contraparte em Mojave, transmitindo o que o Courier havia ensinado a ele em Divide.",
+        "{Narração}Existia a chance... sempre, de que a jornada de ED-E continuasse, talvez carregada por outro Eyebot no Mojave...",
+        "{Narração}... aquela da qual o ED-E do Divide foi moldado.",
+        "{Narração}Por ora, o mensageiro sabia a história de ED-E e podia carregá-la, mesmo que o Eyebot tivesse esquecido."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D07E",
+      "RESP": [
+        "{Narração}{Feminino}Quanto à Courier... ela virou as costas para seu lar pela segunda vez e retornou, navegando pela traição do Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D07D",
+      "RESP": [
+        "{Narração}{Masculino}Quanto ao Courier... ele virou as costas para seu lar pela segunda vez e retornou, navegando pela traição do Divide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D07F",
+      "RESP": [
+        "{Narração}Os Escavadores e os Homens Marcados... evitaram a figura solitária, como se reconhecessem o direito de passagem do Courier... ou por medo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D08E",
+      "RESP": [
+        "{Narração}Dizem que a guerra... a guerra nunca muda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D083",
+      "RESP": [
+        "{Narração}{Feminino - corrigindo a declaração anterior - a guerra nunca muda}Mulheres mudam, pelas estradas que trilham."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D082",
+      "RESP": [
+        "{Narração}{Male - corrigindo a afirmação anterior}Homens fazem, pelas estradas que trilham."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF63",
+      "RESP": [
+        "<Bipes esperançosos>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF5F",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF5D",
+      "RESP": [
+        "<Bipes de desculpas>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF36",
+      "RESP": [
+        "{Reflexivo}Às vezes caminho por lá, mas as caminhadas são curtas. Mesmo assim... é importante ver. Mais uma coisa pela qual terei que responder.",
+        "Às vezes, vasculho a poeira, os prédios... pra ver se acho um pouco de história. Vestígios da América.",
+        "Se quiser, fique com eles... você mereceu. Não ganho nada em guardá-los, e mais aparecerão com o tempo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF33",
+      "RESP": [
+        "{Sorri, \"você quer saber a história disso?\"}História? Cura um ferimento, deixa a amargura que o causou. {Para si mesmo, com escárnio}As Mães Gêmeas sempre foram sobre lições.",
+        "Caesar ensinou a última, então acabou pra eles. A receita ainda existe, a Legião usa em marchas forçadas com soldados feridos.",
+        "Não teria sobrevivido à Trilha do Rio Crimson uns anos atrás sem ela. Perdi muito sangue logo de cara, ia virar banquete de cazadores.",
+        "Raiz de Xander e flor de Broc não faltaram na trilha, então a Legião conseguiu manter o ritmo e chegar aonde queria."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF32",
+      "RESP": [
+        "Dá pra fazer isso e até melhor... {olhando em volta}tem o suficiente pra misturar. Aqui, pode fazer a história das Twin Mothers durar um pouco mais, com você carregando.",
+        "{Aviso}Quando você beber, vire tudo de uma vez, senão seu estômago não vai querer continuar depois do segundo gole."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA75",
+      "RESP": [
+        "{DUPLICADO}Eu vou terminar o trabalho da história. Se a Divisa não conseguiu te matar... talvez estas lanças do Velho Mundo consigam.",
+        "{DUPLICADO}Vamos acabar com isso, Courier, você e eu. Aqui, com a bandeira do Velho Mundo como testemunha."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDAC",
+      "RESP": [
+        "[FALHOU] Sim, foi isso que você me provou em Divide. O que está aqui, o que você me mostrou... é o suficiente.",
+        "Você não entende. {Pausa}Você vai entender."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDAB",
+      "RESP": [
+        "[FUNCIONOU] {Pensando}O porquê disso... você me ensinou o porquê disso.",
+        "Se você acredita em algo com força suficiente, deve estar disposto a deixá-lo queimar, para que não o consuma.",
+        "Esses governos do urso de duas cabeças... a Legião... eles carregam ideias do Velho Mundo para uma era que não precisa mais delas, onde elas não podem viver."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDCB",
+      "RESP": [
+        "Depende da perspectiva, o quanto se caminhou e o que se deixou para trás.",
+        "{Desafiando}Se você desafiar este momento, diga o que pensa. Se minhas palavras são tudo que você tem, que as ouça."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA4",
+      "RESP": [
+        "Meu nome para isso. Se tiver um melhor, você concede - minha escolha de nomes não vai além de você e mim.",
+        "Mente na estrada, correndo do silo de Hopeville... direto para onde o chão queima, e o vento uiva ainda mais forte do que aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9F",
+      "RESP": [
+        "É parte do motivo de eu estar aqui. Observe-os - se eles me atacarem, tentarem entrar no Mojave, eu respondo. {Um pouco mais baixo} Não quero matá-los... salvá-los, se puder.",
+        "Pode ser que tenha algo salvo neles. {Mais baixo, para si mesmo} Se não, então o que eu faço é misericórdia, não assassinato."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9D",
+      "RESP": [
+        "Os fogos invisíveis queimam aqui, é verdade. Mas... ter ajudado a realizar tal ato, e depois não encarar as consequências...",
+        "Não é a minha praia. Se minha vida acabar aqui, que seja... até lá, eu espero e observo, vejo o que a estrada traz."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9B",
+      "RESP": [
+        "{Objetivo}Perguntas têm a mania de gerar outras."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF35",
+      "RESP": [
+        "Nada além do que eu já compartilhei. Teremos que nos ater ao que sabemos. {Pausa}Cansado das lições da história, de qualquer forma."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D268",
+      "RESP": [
+        "{Pensando}Antiveneno é útil no Mojave por causa dos escorpiões-da-casca. Uma picada pode te matar. {Pausa}A mordida de um tunelador pode ser tão ruim.",
+        "Minha tribo, Cabelos Torcidos, tinha um jeito melhor que Antiveneno, se você agir rápido.",
+        "Torniquete de Mordida de Cobra - corta o veneno, sem precisar ficar catando glândulas e sangue. {Ele mesmo, levemente enojado} Ou beber aquela gororoba.",
+        "Parte da razão de usarmos o cabelo como usávamos, {corrige-se} como eu uso agora.",
+        "Aqui está um pouco para a estrada - o truque para fazer isso não é difícil. {Pausa} Seja mordido, enganche e torça. Rápido como piscar, não dá tempo para o veneno penetrar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF34",
+      "RESP": [
+        "Depende do que a história tem a dizer sobre eles. Há muito que a terra pode oferecer... se você conhecer a estrada que a trouxe até aqui.",
+        "O Mojave tem seus jeitos de curar a maioria dos males. Se não, alguma tribo geralmente encontra uma forma que você não esperava.",
+        "Tipo os pós de cura. As tribos do Oeste só usam Xander e flor de Broc. Mas tem um jeito que as Mães Gêmeas do Leste usavam pra preparar, também.",
+        "Chamei de Bebida Amarga, misturei Xander e Broc numa garrafa, dei uma turbinada pra não te deixar com a cabeça toda nublada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9C",
+      "RESP": [
+        "Não é um acampamento, mais uma vigília. Nunca disse que era meu. {Mais uma pergunta}Se alguém é dono do Divide... {\"bem...\"} sua reivindicação é mais forte que a minha.",
+        "Não quero adicionar uma fogueira às que já queimam lá embaixo. {Pausa, fazendo uma oferta} Se você trouxe presentes de Mojave, talvez eu consiga moldar algo para a estrada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA1",
+      "RESP": [
+        "O vento e o sangue revelaram mais sob o solo.",
+        "Se quer essas relíquias do Mundo Antigo, são suas... melhor você carregá-las do que os Homens Marcados."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA0",
+      "RESP": [
+        "Só vento, areia... cinzas. Mais coisas podem se revelar com o tempo, mas não agora.",
+        "Se estiver determinado, volte, pode ser que algo novo apareça."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD92",
+      "RESP": [
+        "Os White Legs... queriam mostrar respeito, me subornar para ter o favor de Caesar, imitando trejeitos e palavras...",
+        "Mostrei a eles esconderijos de tecnologia, ensinei como funcionam a câmara e a pólvora, falei do {Ênfase}orgulho de Caesar naqueles que usavam tais coisas... mentiras. E...",
+        "{quiet disgust}...e então... tentaram me honrar {Ênfase}a mim - não à Legião.",
+        "Eles me levaram para perto da fogueira uma noite, me mostraram como eles se transformaram, como usavam o cabelo agora.",
+        "Era como se toda a minha tribo morta estivesse na luz da fogueira, dentes sorrindo vermelhos no escuro - cadáveres ávidos, fantasmas cobertos de sangue.",
+        "Eles... tinham levado minhas tranças, o costume dos Cabelos Trançados, como se isso mostrasse que eles eram {Ênfase}como eu, {Ênfase}parte de mim...",
+        "...enquanto cada nó em suas tranças falava de estupro, violência... e ignorância do que os nós {Ênfase}significavam. Eles pensaram que estavam mostrando respeito... profanaram.",
+        "Me perdi tentando ler as tranças que teceram, quando me lembrei que não tinham posto significado nelas. Elas não tinham história do que aquilo significava.",
+        "Eles nem sabiam o insulto nas voltas, nos nós... e Dry Wells voltou correndo, os White Legs cercando daquele jeito...",
+        "Era como olhar para os mortos da minha tribo, renascidos como fantasmas - odiosos, famintos, curvando-se a Caesar. {Silêncio, encerrar}Outra história... perdida, carregada só por mim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD8F",
+      "RESP": [
+        "Última fita, última mensagem. Caso... você me vença. Se estiver ouvindo isso, conseguiu, por sangue ou palavra.",
+        "Esta mensagem, e tudo que está nela, é para você, Courier. Se quer saber o... porquê das coisas.",
+        "Este mundo, eu já caminhei por boa parte dele... Só parei por sua causa. O que você fez me fez parar para pensar.",
+        "Há muito tempo, cruzei o Colorado, o primeiro da Legião a ver a Represa Hoover em toda a sua glória... uma muralha do Velho Mundo, mas ligando dois lados.",
+        "{Mais quieto}E além dele, um símbolo de um Urso de duas cabeças, uma ideia grandiosa o bastante para desafiar o próprio Caesar.",
+        "Pode matá-lo, pegando-o, quer ele ganhe ou perca. O Bull precisa lutar, precisa do desafio, sem isso... ele fraqueja, morre na poeira.",
+        "{Para si mesmo}Talvez haja uma lição nisso, em você e em mim. {\"Eu vou\"}Deixar o pensamento para trás da mensagem para você.",
+        "Minha mensagem é esta: a destruição que foi causada, no Divide... ou em outro lugar, se você não conseguiu me impedir...",
+        "Pode acontecer de novo. Vai {Ênfase}continuar acontecendo.",
+        "Se a guerra não muda, os homens devem mudar, e seus símbolos também. {Pausa, quieto} Mesmo que não seja nada, saiba o que você segue, Courier...",
+        "...assim como eu segui você, até o fim. Seja qual for seu símbolo...",
+        "...carregue-a nas costas e use-a com orgulho quando estiver na Barragem Hoover."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD6D",
+      "RESP": [
+        "Big Empty - tem algo escondido lá, uma cratera, além do vento e da areia - tão no fundo do deserto, que não há como voltar.",
+        "Encontrar a cratera foi um acidente, estava seguindo os padrões climáticos; o céu do Divide rasgado daquele jeito é violência humana, não da natureza.",
+        "Aquela violência no céu tinha uma fonte. Rastreiei ela. Como seguir a corrente de um rio.",
+        "Deixei as cores para marcar meu caminho, como sempre, caso alguém as encontre, aprenda o padrão... o Mensageiro pode.",
+        "Quando achei que areia e vento nunca teriam fim... cheguei à cratera.",
+        "E ali... ali havia uma instalação do Velho Mundo, uma estação meteorológica, na borda, ainda varrendo o céu com eletricidade e geradores.",
+        "E além... vi o resto do inferno do Velho Mundo ali, todo retalhado como canteiros. Tive que ver o que tinha lá, não podia deixar pra lá.",
+        "{Leve irritação}As coisas dormem no Big Empty, a Irmandade do Aço as acordou. Não dá pra se mover em silêncio, mais do que o Urso de duas cabeças consegue.",
+        "E quando acordaram, foi como se toda a história acordasse de uma vez. Quase não consegui sair. {Pausa, silêncio}Quase. Saí com respostas que eu nunca quis."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD6B",
+      "RESP": [
+        "Você já quis falar com a história... só para saber o porquê dela? {Pausa} Eu não. Não mais.",
+        "Existem histórias antigas sobre deuses e homens, história antiga que virou mito... onde os deuses são como crianças... petulantes, cruéis.",
+        "{Ênf}Essas eram as vozes do Big Empty, o passado. Não consegui deixar as coisas como estavam, tive que perguntar. Tive que perguntar o porquê disso.",
+        "{Leve frustração}As respostas deles eram uma loucura. E poder, mais forte que eu, precisaria de cem Elijahs... alguém mais durão que ele ou eu para vencê-los em seu Domo.",
+        "Eles não sabiam por que estavam ali, o que os tinha levado àquele ponto, seus nomes... como serpentes se devorando, canibalizando seus próprios pensamentos.",
+        "Quando tudo parecia perdido, achei que era o fim... minha raiva me deu forças para fazer minha última pergunta.",
+        "{Ecoando a pergunta que ele fez ao Think Tank} \"Quem é você, que não conhece sua história?\"",
+        "{Leve reverência} E eles despertaram. Por... um breve momento.",
+        "A bandeira que você veste, eles disseram. Nós lembramos. América.",
+        "Não era só uma bandeira para eles... era um lugar, uma ideia pela qual eles {Ênfase}se importaram. Uma vez.",
+        "Eles me contaram como era crescer naquele mundo... tudo o que fizeram para reerguê-lo... protegê-lo. Eles... não sabiam que ele tinha sumido, que...",
+        "...mas eles se importaram um dia. Antes de esquecerem sua história.",
+        "Enquanto conversavam... continuavam vendo a sombra do Mensageiro atrás deles, dando peso a cada palavra. A história deixada de lado... um lar, abandonado.",
+        "Eu ouvi. Eu perguntei. Sobrou alguma coisa? {Ênf}Alguma coisa que ainda carrega a voz da América?",
+        "E me disseram que eu já tinha estado lá. Eu e mais um, saindo direto da história, mais fundo do que sabíamos.",
+        "Eles me disseram o que reside no coração do Divide, o que pode ser encontrado lá. E as palavras para despertá-lo... e quem deve dizê-las."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD6E",
+      "RESP": [
+        "{Estudando o clima, registrando para si mesmo, pensando no passado} Vazio aqui... como as areias do Grande Lago Salgado, ecoando. {Pausa} A pulsação no céu do Divide... como os tambores de tempestade dos White Legs.",
+        "{Introspectivo}Corri com eles nos leitos de sal, sob as ordens de Caesar... {relembrando as ordens de Caesar, ecoando-as} Cortar as gargantas do Urso de Duas Cabeças, isolar todas as comunidades.",
+        "Use a tempestade, o céu. Doença. Fogo, fome... e a violência dos ignorantes para arruinar todos que {Ênfase}pudessem... pudessem se opor a ele.",
+        "Mas os White Legs... eles não conseguiam viver sozinhos, como a maioria dos catadores. Então lhes dei um propósito – transformei a fome deles em uma arma.",
+        "A muralha de Nova {CANE-in}Canaã... alta demais para Caesar. Orgulhosa demais, talvez - {quieto}ou talvez algo lá, do passado dele, que precisava ser morto. Lembrança de Graham.",
+        "Ajudou-os a desenterrar os depósitos de suprimentos de Canaã e outros segredos que as areias escondiam: bunkers cheios de armas energéticas que até a Irmandade do Aço cobiçaria.",
+        "Eles chamavam essas novas armas de \"tambores da tempestade\" no disparo de projéteis. Ensinaram a eles o poder nos estojos... a canalizar os espíritos em suas armas.",
+        "Eu... me chamavam de Porta-Estandarte. Glória na minha mão, no meu bastão que ainda carregava o peso do Mundo Antigo, assim como o símbolo nas minhas costas.",
+        "Aprendi sobre as armas deles como uma forma de respeito. E quando chegou a vez de eles me demonstrarem respeito... a história voltou com tudo.",
+        "{Silêncio, encerrando}Não dá para escapar do que foi feito. A história está lá... não importa o quão longe você vá."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD6C",
+      "RESP": [
+        "Eu caminhei pelo Grande Lago Salgado como o olho de Caesar, depois sua mão.",
+        "Vira-latas lá, de duas e quatro patas. Viram as muralhas de New Canaan, os saqueadores cercaram... não tinham força ou poder de fogo para tomar. Altas demais, fortes demais.",
+        "White Legs, eles nasceram para a guerra, correm para ela, famintos por batalha... mas sua fome é fazer parte da história, algo maior.",
+        "Como a Legião. Como sempre, trouxe uma mensagem... de Caesar.",
+        "{Parafraseando a mensagem de Caesar}Se Nova Canaã queimar, Caesar talvez {Ênfase}os veja. {Debocha} \"Talvez.\" Até mesmo a chance era uma mentira.",
+        "Para honrar Caesar, destrua a {Ênfase}história de Nova Canaã e a forma como eles a {Ênfase}carregam{\/emph} em suas gerações e famílias.",
+        "Caesar respeita essa força, eu disse a eles. Isso - isso era verdade, mesmo que \"força\" não fosse a palavra. {Corrigindo} Obediência.",
+        "Você deve estar disposto a matar {Ênfase}qualquer um, crianças, mães, os fracos, anciãos... se esses New Canaanites valorizam as gerações, é isso que você deve matar.",
+        "Era como se Vulpes estivesse falando por mim. Use a noite, o silêncio e o fogo para transformar as palavras deles em súplicas, em gritos.",
+        "Não precisa de bombas quando o ódio resolve.",
+        "Eu... pedi para os White Legs destruírem um povo com ancestralidade que remonta a milhares de anos... outra morte da história, perdida no tempo.",
+        "Os Novos Canaanitas... eles forneciam remédios. Comida, negociavam com outros. Civilização, uma mão do passado, não história...",
+        "...mas talvez um passado mais profundo, mais distante do que isso, para um lugar onde este... {pausa}Deus realmente exista.",
+        "{Desprezível}Se for, a obra e o povo dele pertencem a outro lugar, não aqui. Outro símbolo, como Urso e Touro, sem sentido no presente."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD62",
+      "RESP": [
+        "...de volta de novo. Deixei aquela cratera para trás. Tenho algumas fitas restantes, umas do centro médico.",
+        "A mulher... ela consertou o gravador. Disse que não ia durar, pagamento por eu tê-la consertado. Ela não gosta de dívidas, dá pra respeitar isso.",
+        "Pagamento suficiente só de ouvir alguém que acredita na Irmandade do Aço. Não Elijah. Visão diferente. Mesma loucura.",
+        "Ela me respondeu sobre a filosofia deles, a maneira como veem as coisas - os caminhos que trilham. {Nojo}Becos sem saída. Vazio... como se a tecnologia pudesse resolver tudo.",
+        "{Quieto, reflexivo}A prova do Big Empty de onde essa estrada leva. {Pausa}Assim como a Divisa, e todas as estradas que levam a ela."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD60",
+      "RESP": [
+        "No fim da Divisa, através das trincheiras e destroços, é lá que você vai me encontrar. Meu novo lar, aqui, entre os mortos.{Sem arquivo de som}",
+        "Você e aquela {leve desdém pela 'máquina'} máquina, fiquem de olho na torre que corta o horizonte... vocês vão achar o caminho. Chegou até aqui... não falta muito."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D417",
+      "RESP": [
+        "Você entregou um pacote. Tinha marcas que combinavam com as da Divisa. Nem todas... mas o bastante.",
+        "Marcas militares, de algum lugar que o Urso devastou no Oeste. {Pausa, tentando atrair o jogador} Talvez ver essas marcas nele te lembrou de casa... te fez carregá-lo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB0E",
+      "RESP": [
+        "Tuneladores. Predadores que fazem suas próprias estradas sob o chão aqui. {Sem arquivo de som}",
+        "{Sombrio}Divide rachou o céu deles, mostrou-lhes o mundo acima... e o cheiro de uma nova presa.",
+        "Será uma morte mais lenta para Mojave do que bombas e fogo... mas eles virão atrás de seu povo, de onde menos esperam: de baixo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB08",
+      "RESP": [
+        "Eles usam versões falsas da máscara do Legado Lanius, aquela que Caesar fez para ele. Achei que fosse um insulto no começo... {para si mesmo} sei mais agora.",
+        "É moldado com metal do Divide, não com cuidado e força, mas com ódio. Mantém eles ancorados.",
+        "Bruto, eficaz - como as lâminas que carregam, espelhos distantes de seu Legado. Um símbolo ao qual podem se apegar - enquanto a Divisão os dilacera."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3AC",
+      "RESP": [
+        "{Mais quieto}Você ainda não viu o bastante da Legião para saber o que eles veneram... o que eles se agarram, mesmo depois do que lhes aconteceu.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB0A",
+      "RESP": [
+        "A dor cria aliados estranhos... o ódio que o Urso e o Touro compartilhavam no campo de batalha, agora voltado contra a Divisão. Poucos sobreviveram... intactos. {Sem arquivo de som}",
+        "Muitos da NCR já estavam aqui quando a destruição aconteceu. Mantendo a rota Leste aberta, com medo de Caesar. Medo da Legião."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A8",
+      "RESP": [
+        "{Mais quieto}Você vê a verdade. Não são saqueadores... era o que eles vestiam {pausa leve}antes que tudo isso acontecesse."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB0C",
+      "RESP": [
+        "No fim da High Road fica Ashton: seu silo.",
+        "{Nojo, odeia ED-E}Aquela {Ênfase}máquina com você pode abrir, acordar, {mais quieto}como fez com a de Hopeville."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E4",
+      "RESP": [
+        "[FALHOU] O Mojave precisa sobreviver primeiro... depois disso, os Escavadores serão os próximos da lista."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E3",
+      "RESP": [
+        "[FUNCIONOU] {Aceno}A morte virá de baixo. {Franzindo a testa}No Divide, tem que ficar de olho no céu {Ênfase}e no chão... {Desdenhoso, balança a cabeça}Mojave vai ser presa fácil pra eles."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D266",
+      "RESP": [
+        "{Olhando para o inventário do jogador}Vamos criar algo novo a partir do velho."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA98",
+      "RESP": [
+        "{Acena}Vamos ver quais presentes o Mojave tem para nós."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF37",
+      "RESP": [
+        "Preciso estar aqui, ver o que foi feito. No Divide, em Hopeville... a Milha do Courier."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA95",
+      "RESP": [
+        "Uma pergunta que alguém poderia ter feito a você não muito tempo atrás, antes de seguir a estrada para o Oeste, em direção às tempestades.",
+        "Preciso estar aqui, ver o que foi feito. É costume do Urso nunca ver as marcas que deixa na terra... não é {Ênfase}meu costume.",
+        "Talvez seja por isso que você veio também: precisa ver onde o míssil de Ashton atingiu o chão lá embaixo, em Hopeville... a Milha do Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA96",
+      "RESP": [
+        "Muralha do Velho Mundo, banhada pelo sangue do Urso e do Touro. Vai sangrar mais antes do sol se pôr em Mojave.",
+        "Aquele lugar e eu temos um passado, devo uma dívida a ele... e ele me deve. Se seu caminho te levar para lá, saiba que não é o único.",
+        "É a muralha pela qual esta era será medida, a lápide de Mojave. O Mundo Antigo nunca quis que fosse assim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA9A",
+      "RESP": [
+        "Não, o oposto disso. É onde minha tribo foi levada. Onde outra história foi passada no fio da lâmina, lição ensinada.",
+        "É onde percebemos que Vulpes não nos abordou como iguais. Onde percebemos que o lobo tinha vindo, e assistimos nossa história morrer.",
+        "Agora pertence à Legião... e toda a morte ali agora pertence a eles também. Não é vingança... é só o jeito das coisas quando você os {Ênfase}possui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA9B",
+      "RESP": [
+        "Sem danos, ainda não. Talvez em anos. Mantém o Urso encurralado... se Caesar não conseguir expulsá-lo, o fogo pode conseguir.",
+        "Só atrasa o fim para o Touro, uma nova muralha para eles escalarem e atravessarem... quando terminarem com Mojave. E a Represa Hoover.",
+        "Que você ou qualquer outro mensageiro e caravana nunca mais precisem andar por essa rota. Deixe o Mojave respirar sem essa cicatriz de asfalto o ferindo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C825",
+      "RESP": [
+        "Nenhum Mensageiro iria para a Divisão... mas você vai. E é isso que nos diferencia - nós trilhamos estradas que nenhum outro Mensageiro trilhará.{Sem arquivo de som}",
+        "E para você... vai querer ver seu lar pela última vez, ver o que aconteceu.",
+        "Você é curioso. Você anda, deixa a ruína em seu caminho... você não consegue ficar sozinho. Mesmo assim, a escolha é sua... o que eu ofereço é a última coisa que lhe ofereço.",
+        "Eu não ligo se você for para o Divide. Se vire, ande pelo Mojave, lute sob as bandeiras... mas você vai se perguntar.",
+        "Se não, a Divisão virá até você, e até o Mojave. Essa será minha mensagem para você, como a mensagem que você tinha para mim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C824",
+      "RESP": [
+        "A Divisão enviará o pior contra você - pode te quebrar. Veremos se você é mais forte. {Sem arquivo de som}",
+        "A estrada fica mais difícil daqui... {leve desprezo} Mensageiro. Deixei marcas para você, as cores vão mostrar o caminho - se você for esperto.",
+        "Eles vão te levar pra casa mais uma vez, te levar ao fim dela - {lento, frio} talvez te lembre por que você vagueia."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C817",
+      "RESP": [
+        "A Divisão... este lugar é uma fatia dele. Militar antigo. Ainda consigo sentir o orgulho... e o medo. {Sem arquivo de som}",
+        "{Introspectivo}Esperança do Mundo Antigo, envolta em cercas, coberta pela tempestade. Tem novos habitantes agora além de fantasmas, recrutas mais... recentes."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C81E",
+      "RESP": [
+        "Se você viu os corpos deles, viu a misericórdia. Tiveram o que mereciam, vindo para a Divisão.{Sem arquivo de som}",
+        "O Urso e o Touro - NCR, Legion - vieram em ondas. Antes. E depois. Bem no meio dos fogos invisíveis... o vento, o chão... desabando sob eles.",
+        "Antes sob bandeiras diferentes, agora são iguais em seu ódio pelos invasores. Você e eu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C81F",
+      "RESP": [
+        "{Frio, introspectivo}A América dorme à sua frente, seus pesadelos repletos de tremores e tempestades. Você precisará encontrar seu próprio caminho.{Sem arquivo de som}",
+        "Isso significa despertar as lanças da América de seu sono. Há maneiras: ogivas deflagraram o colapso, {pausa}ogivas poderiam abrir os portões de novo.",
+        "{Desafio}Você é engenhoso. {Desprezo por máquinas}Aquela máquina, aquele robô com você, pode te ajudar a encontrar as ogivas que você precisa destruir... {um pouco mais lento, objeto de missão}e o gatilho delas, o detonador.",
+        "O caminho adiante é abaixo. As ferramentas estão lá. O resto - depende de você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C818",
+      "RESP": [
+        "{Slow, frio}Sou um entregador. {Pausa}Entregador Seis... era o Entregador Seis. Como você... e {ênfase}não como você, em tudo que importa. {Sem arquivo de som}",
+        "{Baixo, leve ameaça}Passei anos demais te procurando. Agora, deixo você vir até mim.",
+        "Achei que carregar aquele Chip ia te matar, não... você tem vidas dentro de você, difícil de matar. Tempestades, balas... areia e vento, e mesmo assim você anda. Por enquanto."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C806",
+      "RESP": [
+        "{Franzindo a testa}O robô com {Ênfase}você... {Beat, explica, nojo, odeia ED-E}todos eles são máquinas: rádios, tecnologia do Velho Mundo remodelada por novas mãos. Historiadores. Mensageiros, carregando mensagens.{Sem arquivo de som}",
+        "Vi eles enquanto andava pelo Divide, cuidando de outras máquinas. {Franzindo a testa} Aquela... selada dentro do silo de Hopeville. {Ritmo para si mesmo} Sinal de que a América está acordando.",
+        "{Frio, autoritário, odeia ED-E}Ele vai seguir você, obedecer você. {Pausa, baixo}Carregue-o até estarmos cara a cara, então não haverá mais necessidade de ele carregar {ênfase}minhas palavras."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A4",
+      "RESP": [
+        "{\"Você está se escondendo atrás de uma máquina,\" e Ulysses não tem certeza do que o jogador quer dizer a princípio}A máquina... o robô. Não, não a Legion... menos história que isso.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A3",
+      "RESP": [
+        "NojoA ideia de uma máquina trazendo uma mensagem nova para você? Achei que era assim que o House transmitia todas as mensagens dele... {desdém}através dos robôs dele."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C697",
+      "RESP": [
+        "{Desdenhoso\/desprezo}Destruir minhas máquinas não vai te ajudar. Esta instalação fará mais."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C695",
+      "RESP": [
+        "{Homens Marcados foram mortos, frio desprezo}Mate quantos quiser. O Divide dará à luz mais."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C690",
+      "RESP": [
+        "{Desprezo desdenhoso, em voz baixa} Não preciso de medicina do Velho Mundo pra te matar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69D",
+      "RESP": [
+        "{Homens Marcados foram mortos}Matá-los é uma demonstração de piedade."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C698",
+      "RESP": [
+        "{Provocação, rosnado} Acabarei com você... e com a sua história."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C693",
+      "RESP": [
+        "{Provocação, desdenhoso}Viajou tudo isso pra morrer sozinho."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C68E",
+      "RESP": [
+        "{Sombrio, provocação}O tempo está acabando, Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C699",
+      "RESP": [
+        "{Homens Marcados entram no Templo, o combate começa}Eles vêm nos buscar, do Leste e do Oeste."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C691",
+      "RESP": [
+        "{Um Homem Marcado está jogando cargas de demolição}Cuidado com o chão. Minas. {Para si mesmo}Táticas do Urso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69F",
+      "RESP": [
+        "{Desprezível}Bestas do Divide. Para o Divide, elas retornam."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69B",
+      "RESP": [
+        "Eutanásia: deixe-os descansar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C694",
+      "RESP": [
+        "Você se esqueceu de tudo que era, trocou a glória pela selvageria. {Pensativo} Faz sentido."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C68D",
+      "RESP": [
+        "{Para si mesmo, robô foi destruído} Outro soldado do Velho Mundo cai."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69A",
+      "RESP": [
+        "{Para si mesmo} O Mundo Antigo está ficando sem máquinas."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C692",
+      "RESP": [
+        "{Todos os Homens Marcados estão mortos, o combate acabou.}Nós os quebramos. O Urso e o Touro não têm mais sombras para nos atacar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69E",
+      "RESP": [
+        "{Um Marcado usa um stealthboy}Cuidado com as sombras. As bestas se camuflam com tecnologia do Velho Mundo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C696",
+      "RESP": [
+        "{Metade dos Homens Marcados morreram, o combate está pela metade}Mostramos o medo a eles, mas não o bastante. Mais virão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C68F",
+      "RESP": [
+        "{Eyebots de Cura de Ulysses foram desativados, desdenhoso}Não pode impedir o retorno do Velho Mundo, Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C69C",
+      "RESP": [
+        "{Eyebots de Cura de Ulysses foram virados contra ele, ligeira raiva} Máquinas podem te manter vivo, mas não vão te salvar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12D",
+      "RESP": [
+        "{Eyebots de Batalha de Ulysses foram desativados, como um fato}Só você e eu, então. {Pausa leve, firme}Sempre foi."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12B",
+      "RESP": [
+        "{Eyebots de Batalha de Ulysses foram virados contra ele, ligeira surpresa}Pegou minhas máquinas? {Para si mesmo}Hnh. Subestimei você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12E",
+      "RESP": [
+        "{Homens Marcados entram no templo, desdenhoso}Os homens mortos do Novo Mundo... vieram te buscar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12A",
+      "RESP": [
+        "{Ligeiramente surpreso, o jogador destruiu todos os seus robôs}Não achei que fosse durar mais que as máquinas. {Ligeiramente satisfeito, eles podem resolver as coisas pessoalmente}Bom."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12C",
+      "RESP": [
+        "{Todos os Homens Marcados morreram.} Chega de ecos do Touro e do Urso. O resto terá o mesmo destino."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BD31",
+      "RESP": [
+        "Mayday, mayday, mayday! Aqui é o soldado da NCR Gleeson chamando qualquer um que esteja escutando neste canal.",
+        "Meu pelotão foi dizimado, e estou encurralado por um Destroçador desgraçado enorme num lugar chamado Divide!",
+        "Até agora eu consegui espantá-lo com sinalizadores, mas não tenho explosivos para matar essa desgraça! Por favor, ajudem! Repito, por favor, ajudem!",
+        "{Dupe da primeira linha desta informação}Mayday, mayday, mayday! Aqui é o soldado da NCR Gleeson chamando qualquer um que esteja ouvindo neste canal."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F5",
+      "RESP": [
+        "<Bipes inquisitivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F7",
+      "RESP": [
+        "<Bipes de desculpa>{NPCRobotEdEAdeusTriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6FB",
+      "RESP": [
+        "<Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6FD",
+      "RESP": [
+        "[FALHOU] <Bipes preocupados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6FC",
+      "RESP": [
+        "[FUNCIONOU] <Bipes tristes>{NPCRobotEdEAdeusTriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F4",
+      "RESP": [
+        "<Bipes determinados>{NPCRobotEdEIrritado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F5",
+      "RESP": [
+        "<Bipes tristonhos>{NPCRobotEdEBipeDeRastreamento}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F9",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F6",
+      "RESP": [
+        "<Bipes confusos>{NPCRobotEdEPortaHidráulica}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F8",
+      "RESP": [
+        "<Bipes preocupados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD45",
+      "RESP": [
+        "Não! RALPHIE, voe longe! Voe rápido! {Sem Arquivo de Som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD44",
+      "RESP": [
+        "{Música, a versão completa da música tema de combate de ED-E}RALPHIE, depressa! Se o General Winters malvado te pegar, você nunca vai voltar para casa! {Sem Arquivo de Som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD40",
+      "RESP": [
+        "{Isso deve soar um pouco como o bipe de ED-E, mas não idêntico}<Bipes assustados>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD43",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD3E",
+      "RESP": [
+        "<Bipes melancólicos>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B91B",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD46",
+      "RESP": [
+        "<Bipes determinados>{NPCRobotEdEIrritado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD3D",
+      "RESP": [
+        "<Bipes eufóricos>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD3F",
+      "RESP": [
+        "<Bipes esperançosos>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD42",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD3B",
+      "RESP": [
+        "<Bipes melancólicos>{NPCRobotEdEBipeDeSonar}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A86A",
+      "RESP": [
+        "<Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D30C",
+      "RESP": [
+        "<Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E5",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E7",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E4",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D084",
+      "RESP": [
+        "{Narração}{Alvo: Uma Facção}O Divide entrou em erupção em chamas quando o rastro flamejante da última mensagem dos dois mensageiros cortou o céu..."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009233",
+      "RESP": [
+        "{Narração}{Alvo: Ambas as Facções}O Divide entrou em erupção em fogo, violento, vermelho, enquanto a última mensagem dos dois mensageiros descrevia um arco no céu...",
+        "{Narração}Os mísseis choveram como lanças sobre a terra, queimando bandeiras e comunidades... destruindo tudo que atingiram.",
+        "{Narração}A história do Oeste foi apagada pela segunda vez, completa e meticulosa... e a América dormiu mais uma vez."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D239",
+      "RESP": [
+        "{Narração}{Terras Ermas Selvagens}{Alvo: Ambas as Facções}Os mensageiros finalmente, de verdade, fizeram isso. Explodiram as terras a oeste e a leste do Mojave... condenando todos ao inferno.",
+        "{Narração}O ato foi descoberto 200 anos depois, quando outros mensageiros exploraram as terras devastadas de Mojave.",
+        "{Narração}Ali, eles viram relíquias da NCR, lembranças de sua história outrora orgulhosa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009234",
+      "RESP": [
+        "{Narração}{Traga para perto do fim}E essa estrada... chegou ao fim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E44",
+      "RESP": [
+        "<Bipes tristes>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E53",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E33",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E55",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E59",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E69",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5B",
+      "RESP": [
+        "[FALHOU] <Bipes tristes>{NPCRobotEdEBipeDeRastreamento}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5A",
+      "RESP": [
+        "[FUNCIONOU] <Bipando feliz>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4A",
+      "RESP": [
+        "<Bipes orgulhosos>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E54",
+      "RESP": [
+        "<Bipes determinados>{NPCRobotEdEPortaHidráulica}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A86C",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E57",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5F",
+      "RESP": [
+        "<Bipes expositivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3A",
+      "RESP": [
+        "<Bipes tristonhos>{NPCRobotEdEBipeDeSonar}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E31",
+      "RESP": [
+        "<Bipes de negação>{NPCRobotEdEFracasso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E48",
+      "RESP": [
+        "<Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E58",
+      "RESP": [
+        "<Bipes determinados>{NPCRobotEdEIrritado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3D",
+      "RESP": [
+        "<Bipes resignados>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E46",
+      "RESP": [
+        "{Versão completa da música tema RALPHIE, o Robô}<Música dramática>{MUSNVJingleJangleJingle}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4F",
+      "RESP": [
+        "ED-E? {Divertido} O que você está fazendo aqui sozinho? E quem deixou esses vídeos antigos tocando? Vamos, vou te levar para a sua baia de recarga. {Sem Arquivo de Som}",
+        "Amanhã vai ser um dia daqueles."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3B",
+      "RESP": [
+        "<Bipes explicativos>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E32",
+      "RESP": [
+        "<Bipes declaratórios>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5E",
+      "RESP": [
+        "[FALHOU] <Bipes de negação>{NPCRobotEdEFracasso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5D",
+      "RESP": [
+        "[FUNCIONOU] <Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E52",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E67",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E43",
+      "RESP": [
+        "<Bipes doloridos>{NPCRobotEdEAlertaPoucaSaúde}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E60",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E65",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E56",
+      "RESP": [
+        "<Bipes melancólicos>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E5C",
+      "RESP": [
+        "<Bipes melancólicos>{NPCRobotEdEFracasso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E6A",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB0",
+      "RESP": [
+        "[FUNCIONOU] <Bipando feliz>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAF",
+      "RESP": [
+        "[FALHOU] <Bipes preocupados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E51",
+      "RESP": [
+        "<Bipes expositivos>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB7",
+      "RESP": [
+        "<Bipes expositivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA1",
+      "RESP": [
+        "<Bipes expositivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB5",
+      "RESP": [
+        "<Bipes expositivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB6",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C9E",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAC",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB4",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAE",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA2",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA4",
+      "RESP": [
+        "<Bipes furiosos>{NPCRobotEdEIrritado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA5",
+      "RESP": [
+        "<Bipes tristes>{NPCRobotEdEAdeusTriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA9",
+      "RESP": [
+        "<Bip solitário>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB3",
+      "RESP": [
+        "<Bipes evasivos>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C9B",
+      "RESP": [
+        "<Bipes satisfeitos>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C9F",
+      "RESP": [
+        "<Bipes constrangidos>{NPCRobotEdEBipeDeRastreamento}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA7",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEPortaHidráulica}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA8",
+      "RESP": [
+        "<Sinal sonoro discreto>{NPCRobotEdEFracasso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB2",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D30D",
+      "RESP": [
+        "[FALHOU] <Bipes expositivos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA3",
+      "RESP": [
+        "[FUNCIONOU] <Bipes assustados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4E",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E30",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3E",
+      "RESP": [
+        "<Bipes doloridos>{NPCRobotEdEAlertaPoucaSaúde}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E50",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B91C",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E49",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdEAdeusTriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E66",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E42",
+      "RESP": [
+        "<Bipes melancólicos>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2F",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E47",
+      "RESP": [
+        "<Bipes de confirmação>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E64",
+      "RESP": [
+        "<Bipes tristes>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAD",
+      "RESP": [
+        "<Bipes orgulhosos>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAB",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CB1",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C9D",
+      "RESP": [
+        "<Bipes reconfortantes>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C9C",
+      "RESP": [
+        "<Bipes tímidos>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA6",
+      "RESP": [
+        "<Bipes orgulhosos>{NPCRobotEdETriunfante}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A94",
+      "RESP": [
+        "{Suspiro, cedendo ao seu filho}Tudo bem, garoto. Mas se ele quebrar alguma coisa, vai sair da sua mesada!"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A93",
+      "RESP": [
+        "Sei não, filho... e se alguém vier atrás dela? {Sem áudio}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A92",
+      "RESP": [
+        "{Cauteloso}Cuidado, Tommy. Nunca vi um robô como aquele antes. Pode ser perigoso. {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8F",
+      "RESP": [
+        "<Bipes confusos>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CA0",
+      "RESP": [
+        "<Bipes evasivos>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008CAA",
+      "RESP": [
+        "<Bipes de desculpas>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3F",
+      "RESP": [
+        "{NÃO GRAVAR - ED-E Emote bark topics.} {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A38",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEConfirmado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A37",
+      "RESP": [
+        "<Bipes felizes>{NPCRobotEdEAdeusFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A36",
+      "RESP": [
+        "<Bipes alegres>{NPCRobotEdEFeliz}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3B",
+      "RESP": [
+        "<Bipes tristonhos>{NPCRobotEdEBipeDeSonar}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3A",
+      "RESP": [
+        "<Bipes tristonhos>{NPCRobotEdEBipeDeRastreamento}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A39",
+      "RESP": [
+        "<Beep triste>{NPCRobotEdETriste}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A42",
+      "RESP": [
+        "<Bipes animados>{NPCRobotEdERiso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A41",
+      "RESP": [
+        "<Bipes animados>{NPCRobotEdEPortaHidráulica}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A40",
+      "RESP": [
+        "<Bipes animados>{NPCRobotEdECurioso}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3E",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdEIrritado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3D",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdENegado}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A3C",
+      "RESP": [
+        "<Bipes assustados>{NPCRobotEdEProcurando}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A8",
+      "RESP": [
+        "Registro de experimento 369248\/B – Sistema de substituição de interface universal Duraframe de Eyebot. Aqui é a Dra. Whitley falando.{Sem arquivo de som}",
+        "Aumentamos o ganho do sinal e expandimos o sistema de buffer de estouro. Isso deve garantir 100% de conectividade e controle. ED-E, quando estiver pronto.",
+        "{SFX - ED-E ativando um dos Pontos de Acesso ED-E}<Sons eletrônicos>",
+        "{Exultante}Sim! Sucesso! {Se recompondo}Hum, reportando sucesso total em 369248\/B. ED-E conseguiu interagir e substituir o painel de teste em menos de três segundos.",
+        "Ótimo trabalho, equipe. Agora, vamos começar a trabalhar na proposta para a implementação completa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AF",
+      "RESP": [
+        "FuriosoSaiam daqui, caralho!{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AE",
+      "RESP": [
+        "{Irritado}Você nem desativou os protocolos de evasão de dano dele! Está {Ênfase}machucando-o!"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AD",
+      "RESP": [
+        "{SFX - Algo como um soldador a arco seguido por ED-E bipando em aflição.}<Bipes de angústia>{NPCRobotEdEAlertaPoucaSaúde}",
+        "{Começando confuso, ficando irritado; ED-E está sendo torturado.}Dr. Grant? Que merda você acha que está fazendo?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AC",
+      "RESP": [
+        "{Fingindo pacificação}Beleza, Whitley, o laboratório é seu. {Ameaça vaga}Pelo menos até eu contar para o Coronel sobre isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AB",
+      "RESP": [
+        "Não seja ridículo, é só uma máquina. Veja aqui, eu já aumentei a eficiência do sistema de navegação em 65%.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088AA",
+      "RESP": [
+        "Ah, Whitley, está aí. Ordens do Coronel Autumn - ele acha que o projeto Eyebot Duraframe não está avançando rápido o suficiente. Devo-{melhorar este robô}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E68",
+      "RESP": [
+        "{Irritado}Não acredito! O Grant realmente foi falar com o Coronel Autumn e conseguiu aprovação para as malditas \"diretrizes de eficiência\" dela!{Sem arquivo de som}",
+        "{Lendo de um memorando} \"Todos os experimentos serão realizados com o sujeito de teste totalmente ativo, para reduzir o tempo de iteração.\" {nojo} Que barbaridade!",
+        "Eu expliquei isso para o Coronel. Só porque os Eyebots não têm IA de verdade não quer dizer que são só máquinas.",
+        "Acho que o que importa aqui são os resultados. Esqueça coisas como \"procedimentos éticos\" ou \"tratamento humano\".",
+        "Estou começando a ter sérias dúvidas sobre a liderança por aqui. {risada irônica} Pelo menos tenho você para conversar, hein, ED-E?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A2",
+      "RESP": [
+        "{O áudio deve cortar abruptamente aqui}Com todo o respeito, senhor, acho que está cometendo um erro. Estamos perto de uma descoberta com os Eyebots Duraframe, eu sinto isso! {Pausa, esta é uma metade de uma conversa telefônica}Sim, senhor.{Sem arquivo de som}",
+        "Sim, senhor, eu entendo que precisamos dos recursos Duraframe para a armadura Hellfire, mas... {interrompido pela pessoa do outro lado da linha} Não, senhor. Sim, senhor. Entendo, senhor.",
+        "Vou dizer para a equipe começar a desmontar os protótipos da série ED imediatamente.",
+        "{Mudança de tom; a chamada telefônica acabou e Whitley está percebendo ED-E ouvindo.} ED-E, seu safadinho. Estava bisbilhotando de novo? Acho que aqueles vídeos que você assiste são uma má influência. Quanto você ouviu?",
+        "<Bipes tristes>",
+        "Hmm... o Dr. Grant não disse que ela tinha atualizado seus sistemas de navegação? Acho que tenho uma ideia... Que tal ser igual ao RALPHIE?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A7",
+      "RESP": [
+        "{Sussurrado, tenso - tentando evitar ser ouvido}Bom, você voltou a funcionar. Me escute, ED-E: se você ficar aqui, eles vão te desmontar para pegar peças. Você tem que ir agora.{Sem arquivo de som}",
+        "Eu carreguei as coordenadas de destino para o nosso posto avançado em Navarro no seu sistema. Quero que você vá para o Enclave lá, ok?",
+        "{Ficando um pouco emocionado} Você me entende? Vai ser uma longa jornada, meu amiguinho. Você terá que voar muito longe e muito rápido. Consegue fazer isso?",
+        "<Bipes tristes>",
+        "Eu sei que você consegue. Tenha cuidado por aí, ED-E. Talvez eu te veja de novo algum dia."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A5",
+      "RESP": [
+        "{Áudio da porção cinemática do trailer da E3 de FNV}<Música, seguida por tiros.>{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF62",
+      "RESP": [
+        "Eba! Ele vai ser igualzinho ao RALPHIE, só que esse não é um brinquedo!{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A91",
+      "RESP": [
+        "ImplorandoPor favor? Ele parece tão sozinho! Talvez se a mamãe o consertar, ele pode ajudá-la na garagem?{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A90",
+      "RESP": [
+        "Ele não é perigoso! Olha, ele está machucado! Podemos levá-lo para casa, pai? Talvez a mãe possa consertá-lo!{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A9",
+      "RESP": [
+        "Pai! Ei, pai! Olha só esse robô que eu achei!{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD41",
+      "RESP": [
+        "Sintonize no próximo sábado para a emocionante conclusão! Só no Canal 9 da Vault-Tec!{Saída Musical}{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A3",
+      "RESP": [
+        "{Isso deve soar como um trailer para um programa de TV de ficção científica infantil}Na semana que vem em RALPHIE, a Incrível Odisseia do Robô!{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A6",
+      "RESP": [
+        "Registro de experimento 369248\/A - Sistema de substituição de interface universal Duraframe de Eyebot. Dra. Whitley falando.{Sem arquivo de som}",
+        "Os testes iniciais do sistema de substituição são promissores. Contra alvos não protegidos ou com criptografia leve, os Eyebots têm uma taxa de sucesso de 98%.",
+        "Sistemas com proteção mais pesada ainda são problemáticos. Criptografia de nível militar apresenta uma possibilidade muito real de sobrecarga crítica dos sistemas principais.",
+        "Paramos os testes antes que qualquer robô fosse destruído, mas se não resolvermos o problema, nossos Eyebots vão se fritar tentando invadir redes militares."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3AB",
+      "RESP": [
+        "{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2C4",
+      "RESP": [
+        "{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C81C",
+      "RESP": [
+        "{Abertura Normal}Aí está o seu sinal. Fraco, mas está lá. {Pausa, direto}Você veio, bom. Curioso, talvez. {Sem arquivo de som}",
+        "Você andou pelo Mojave sem uma bandeira nas costas. Isso vai acabar em breve, não dá pra andar pela Long 15 sem que a sombra de uma nação caia sobre você.",
+        "Talvez você só precise ser testado. Ou não acredita em nada. {Acusação fria} Veremos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C81A",
+      "RESP": [
+        "{Vegas Opening}Apostando as suas fichas, vindo para cá. NojoComo trazer o tributo para o rei de Vegas, dobrando o joelho para os fantasmas do Velho Mundo.{Sem arquivo de som}",
+        "Você e aquele Chip merecem um ao outro, vinte e nove moedas a menos do que outros traidores carregaram, se a história for verdadeira.",
+        "Agora veja a estrada que o Velho Mundo pavimenta... e o que as luzes de New Vegas prometem, se elas não cegaram seus olhos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C819",
+      "RESP": [
+        "{Abertura da Legion}Aí está o seu sinal... fraco, mas está lá. {Pausa, leve condenação}Avançando, como o resto dos nossos irmãos, com sangue nos olhos."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3AA",
+      "RESP": [
+        "{Abertura da Legion}Aí está o seu sinal... fraco, mas está lá. {Pausa, leve condenação}Uma mulher a serviço de Caesar. Parece que o Urso teve sua vitória, afinal.{Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087DC",
+      "RESP": [
+        "{Abertura [NCR]}Aí está o seu sinal... fraco, mas presente. {Pausa, leve condenação}Igual à NCR: voz sem fogo, sem força, doente.{Sem arquivo de som}",
+        "Ouvi contos de você vagando pelo Mojave. Dando força ao urso de duas cabeças. Dando a homens vazios como Kimball, como Crocker, metade da vida que Hanlon teve.",
+        "Agora... vamos testar essa força. Essa... \"convicção\". {Nojo}Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E2",
+      "RESP": [
+        "< Nó de Armazenamento para Testes de Habilidade. Não Traduzir. > {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087D8",
+      "RESP": [
+        "{Contatando o jogador via rádio}Aí está você, ficou quieto por um tempo. {Pausa, leve desgosto pela máquina}Então aquele sinal veio forte da sua máquina, como uma batida de coração.{Sem arquivo de som}",
+        "Abriu caminho pelas cidades do Mundo Antigo, os túneis que as unem... agora, a Estrada Alta.",
+        "Por tudo que você viu para trás - {mais quieto}há coisa pior ao longo desse trecho. Destroçadores - caçam os Homens Marcados, {ainda mais baixo, para ênfase}e também caçam o que se esconde embaixo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C8",
+      "RESP": [
+        "{Contatando o jogador via rádio}Aí está você, ficou quieto por um tempo... achei que pudesse ter voltado para Vegas, suas mordomias. {Leve desgosto}Talvez tenha levado aquela máquina com você.{Sem arquivo de som}",
+        "Há uma lição aqui, no Divide. História do Velho Mundo sobre se apegar a algo com tanta força que ele quebra... ou desmorona.",
+        "Pode ser que já tenham visto as rachaduras nas paredes de Vegas. Se viram, elas vão aumentar, com o tempo, não importa o quanto você apoie House."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D493",
+      "RESP": [
+        "{Contatando o jogador via rádio}Captando o sinal da sua máquina... ficou quieto por um tempo, achei que a Estrada tinha levado mais um da Legião.{Sem arquivo de som}",
+        "Muitos dos Touros já caíram aqui... por causa da radiação, do fogo... e do que se esconde nas profundezas."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3A5",
+      "RESP": [
+        "{Contatando o jogador via rádio}Aí está você, ficou quieto por um tempo... sabia que matar o Urso não seria fácil... {leve desgosto, odeia ED-E}você e sua máquina, sobreviveram.",
+        "Há uma lição aqui, no Divide. A história do Mundo Antigo sobre pavimentação e intenções poderia ensinar uma coisa ou duas à República, se eles dessem ouvidos.",
+        "Eles têm uma ideia de tentar fazer o que é certo, mas nunca chegam lá. Talvez você tenha visto isso: Nipton, outros lugares."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087DB",
+      "RESP": [
+        "Hopeville, Estrada Alta, Ashton... pequenas rachaduras na Terra, {Ênfase}nada comparado à estrada talhada à frente.{Sem arquivo de som}",
+        "Antes de você... esta é a {Ênfase}fronteira do Divide. Adiante está seu trabalho, a história que você queimou na terra. {Beat, ênfase}O que você trouxe para as pessoas daqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F7",
+      "RESP": [
+        "{Frio}Pensei que aquela explosão, aquele prédio desabando lá no Divide podia ter sido obra sua... não te mataria, talvez chegasse perto.",
+        "Sabia que ia sobreviver... mas não precisa ir mais longe. Você me trouxe o que eu preciso: aquela máquina com você, selada no silo de Hopeville.",
+        "Precisava de alguém para destravá-lo, trazê-lo para casa. {Frio}Agora o sinal está forte o suficiente, não precisa mais carregá-lo. Posso chamar sua máquina para mim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E7",
+      "RESP": [
+        "Você chegou tarde demais. O Divide está despertando - o pacote e a mensagem dentro dele completaram o ciclo.",
+        "A sequência começou, assim como antes. Só que desta vez, os mísseis vão tocar o céu em vez de ficarem trancados sob o chão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E6",
+      "RESP": [
+        "{Batida, nojo, um pouco mais baixo - percebe que o jogador está com ED-E}A julgar pela sua sombra... talvez não consiga se separar da sua máquina. Não importa mais.",
+        "De qualquer forma, os gigantes da Divide estão despertando. Os mísseis aqui, a caminho de casa. {Frio}Não há como impedi-los."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D71C",
+      "RESP": [
+        "{Irritado, o jogador não desistiu}Então você veio, {nojo} Courier, para quê? Ver sua terra natal queimar uma última vez? Me matar, talvez."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E5",
+      "RESP": [
+        "{Irritado, o jogador não desistiu - odeia Vegas}Sua cidade, Vegas, fica na outra direção... com o resto dos seus escravos. {Pausa}Ou será que é só você, {título da fala}Courier, sem as luzes e fantasmas."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E4",
+      "RESP": [
+        "{Irritado, o jogador não desistiu}Então você veio, {nojo}Frumentarii, {pausa, título}Courier - seja lá o que for agora. {Levemente zombeteiro}Veio para cumprir a lei de Caesar? A voz dele não tem peso aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9E3",
+      "RESP": [
+        "{Irritado, o jogador não desistiu}Mesmo neste lugar, a sombra da NCR paira. {Pausa} Ou é só você, {título da fala}Courier, sem o cadáver do Urso para te derrubar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E3E",
+      "RESP": [
+        "Vou terminar o trabalho da história. Se a Divisa não conseguiu te matar... talvez estas lanças do Mundo Antigo consigam.",
+        "Vamos acabar com isso, Mensageiro, você e eu. Aqui, com a bandeira do Velho Mundo como testemunha."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D11",
+      "RESP": [
+        "{quiet beep}<Bipes furtivos> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D04",
+      "RESP": [
+        "{beep triste}<Bipes tensos> {Sem arquivo de áudio}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CFD",
+      "RESP": [
+        "{bipe de sonar}<Bipes de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D13",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D0C",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC7",
+      "RESP": [
+        "Veremos o que você representa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC6",
+      "RESP": [
+        "{Para o jogador}Fim da picada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC5",
+      "RESP": [
+        "Vamos acabar com isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC4",
+      "RESP": [
+        "Entendi."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E37",
+      "RESP": [
+        "<Bipes de combate>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D09",
+      "RESP": [
+        "{beep feliz}<Bip feliz> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D02",
+      "RESP": [
+        "{beep feliz}<Bip feliz> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D08",
+      "RESP": [
+        "{faz sons de laser}<Bipes de confirmação> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D14",
+      "RESP": [
+        "{som de laser}<Bipes de confirmação> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D0D",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D07",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D00",
+      "RESP": [
+        "{beep risada}<Bipando negativamente> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CFF",
+      "RESP": [
+        "{beep feliz}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D10",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D06",
+      "RESP": [
+        "{bipe teleguiado}<Sinal sonoro de confirmação> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D0E",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D0A",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D03",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D12",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D15",
+      "RESP": [
+        "{som de abertura}<Bipes de confirmação> {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004D01",
+      "RESP": [
+        "{bipe de confirmação}<Beep de confirmação>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABD",
+      "RESP": [
+        "{Ele Mesmo}Não deve estar longe."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABC",
+      "RESP": [
+        "{Ele Mesmo}Não vejo nada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4B",
+      "RESP": [
+        "<Bipes de busca>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9C",
+      "RESP": [
+        "{Mantendo a voz baixa, para si mesmo}Verificando se há movimento."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9B",
+      "RESP": [
+        "{Para si mesmo}Tem algo aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E38",
+      "RESP": [
+        "<Bipes curiosos>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA5",
+      "RESP": [
+        "Não caminhei por cinzas e inferno pra te perder agora."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA4",
+      "RESP": [
+        "{Sombrio, determinado}Não vou te perder de novo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E61",
+      "RESP": [
+        "<Música de alerta>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACB",
+      "RESP": [
+        "{Quieto}Se voltar, lidaremos com isso então."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACA",
+      "RESP": [
+        "{Quieto}Seja o que for, sumiu."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E41",
+      "RESP": [
+        "<Bipes frustrados>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC1",
+      "RESP": [
+        "{Quieto, para si mesmo} Sumiu no mundo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC0",
+      "RESP": [
+        "{Quieto, para si mesmo} Deve ter se escondido."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E34",
+      "RESP": [
+        "<Bipes de escaneamento>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB3",
+      "RESP": [
+        "{Para si mesmo}Deve ter ido embora. Não vai embora... ainda não."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB2",
+      "RESP": [
+        "{Para si mesmo}Sumiram."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E45",
+      "RESP": [
+        "<Bipes triunfais>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA9",
+      "RESP": [
+        "O mensageiro já aparece."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA8",
+      "RESP": [
+        "Quando voltar, vou estar pronto."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E40",
+      "RESP": [
+        "<Bipes frustrados>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9A",
+      "RESP": [
+        "{Para si mesmo}Ouvindo algo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A99",
+      "RESP": [
+        "{Quieto}Algo por perto."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4D",
+      "RESP": [
+        "<Bipe de aviso>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACE",
+      "RESP": [
+        "{Spotted player}Ali."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACD",
+      "RESP": [
+        "{Spotted player}Achei você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACC",
+      "RESP": [
+        "{Spotted player}Movimento."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E6B",
+      "RESP": [
+        "<Música de alerta>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABB",
+      "RESP": [
+        "{Para si mesmo} Minha bandeira está aqui."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABA",
+      "RESP": [
+        "{Para si mesmo}Fim da picada."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB9",
+      "RESP": [
+        "{Para si mesmo}Então, este é o meu fim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB8",
+      "RESP": [
+        "{Som de Morte}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E39",
+      "RESP": [
+        "{Som de Morte do ED-E}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC9",
+      "RESP": [
+        "{Indo para}Acabar com você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC8",
+      "RESP": [
+        "{Tenho um alvo}Acertei você."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E35",
+      "RESP": [
+        "<Música de combate>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABF",
+      "RESP": [
+        "Explosivo!"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ABE",
+      "RESP": [
+        "{Desprezo}Bombas não vão te salvar."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E63",
+      "RESP": [
+        "<Bipe de aviso>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9F",
+      "RESP": [
+        "{Rosno}Presente da Divisão."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9E",
+      "RESP": [
+        "Vou responder fogo com fogo."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB7",
+      "RESP": [
+        "{Som de Ataque Poderoso 2}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB6",
+      "RESP": [
+        "{Som de Ataque Poderoso 1}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AD0",
+      "RESP": [
+        "{Firme}Então vamos resolver isso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008ACF",
+      "RESP": [
+        "{Irritado}Se é isso que você quer."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E36",
+      "RESP": [
+        "<Música agressiva>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC3",
+      "RESP": [
+        "Na próxima, não terá piedade."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AC2",
+      "RESP": [
+        "{Aviso}Se cuide."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E62",
+      "RESP": [
+        "<Bipes triunfais>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A9D",
+      "RESP": [
+        "{Nojo}Catador."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB5",
+      "RESP": [
+        "{Para si mesmo, sobre o jogador} Mais forte do que eu pensava."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB4",
+      "RESP": [
+        "{Para si mesmo} Preciso ganhar alguma distância."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3F",
+      "RESP": [
+        "<Bipes apavorados>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB1",
+      "RESP": [
+        "<Grunhido.>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AB0",
+      "RESP": [
+        "<Grunhido.>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E4C",
+      "RESP": [
+        "<Bipes de combate>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAF",
+      "RESP": [
+        "Que isso tenha um fim."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAE",
+      "RESP": [
+        "O Divide vai ser sua cova."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAD",
+      "RESP": [
+        "Vamos ver o que você representa."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAC",
+      "RESP": [
+        "{Grunhido de ataque}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E3C",
+      "RESP": [
+        "<Música violenta>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CFE",
+      "RESP": [
+        "{bipe de confirmação}<Bipagem feliz>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA99",
+      "RESP": [
+        "{Despedida}O Divide pertence à história agora. {Pausa}A Mojave aguarda."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA97",
+      "RESP": [
+        "{Reconhecendo}Mensageiro."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA1",
+      "RESP": [
+        "{Jogador apontando arma para ele, sombrio} É bom ter certeza."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA0",
+      "RESP": [
+        "{Jogador apontando arma para ele}Atire, e eu não vou aceitar isso deitado."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAB",
+      "RESP": [
+        "{Desdém, o jogador colocou uma mina, \"Hanlon's\" é um famoso lançador de minas}Digno de Hanlon."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AAA",
+      "RESP": [
+        "{Vê um jogador colocar uma mina, desdém} Uma tática do Urso."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA7",
+      "RESP": [
+        "Melhor economizar munição."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA6",
+      "RESP": [
+        "Limpando a câmara?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA3",
+      "RESP": [
+        "{DUPE de AvoidThreat: Jogador jogou uma granada}Explosivo!"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008AA2",
+      "RESP": [
+        "{Jogador jogou uma granada}Olha a explosão!"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A95",
+      "RESP": [
+        "{ DO NOT RECORD - ED-E Top-Level Topics } {Sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087DA",
+      "RESP": [
+        "{ DO NOT RECORD - ED-E Audio Log Topics } {sem arquivo de som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CD7",
+      "RESP": [
+        "<Bip feliz>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CD6",
+      "RESP": [
+        "{Isso deve soar como áudio com falhas, entrando e saindo, de múltiplas fontes}<Música{Reminiscente da música de luta do ED-E}>... RALPHIE... voe longe, voe rápido! {Sem arquivo de som}",
+        "{Ruído de feedback, então a distorção desaparece para o bipe normal de ED-E}<Bipes animados>"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0096FE",
+      "RESP": [
+        "<Bipes alarmantes> {Sem Arquivo de Som}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA9D",
+      "RESP": [
+        "< Debug: Tópicos de alto nível de Ulysses, não traduzir. >"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9E",
+      "RESP": [
+        "{Mantenha a discrição, esta linha será ouvida muito}Tem mais alguma coisa que você quer saber?"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA9C",
+      "RESP": [
+        "{Comentado}Um ciclo, trilhou seu caminho... e voltou."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6FA",
+      "RESP": [
+        "<Bip grato>{NPCRobotEdEBipeDeSonar}"
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D98B",
+      "RESP": [
+        "{Observando o perímetro do templo}Se terminamos por aqui, vamos deixar o Divide para trás. Se nos separarmos, encontro você acima de Hopeville, perto dos destroços do cânion."
+      ]
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D98A",
+      "RESP": [
+        "{Observando o perímetro do templo, em combate}Agora não. Vamos resolver as coisas aqui."
+      ]
+    }
+  ]
+}

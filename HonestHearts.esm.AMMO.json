@@ -1,0 +1,35 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@HonestHearts.esm:009E6C",
+      "FORMID": "009E6C",
+      "EDID": "NVDLC02Ammo45Super",
+      "FULL": ".45 Super (Recarga)",
+      "ONAM": ".45 Spr.",
+      "QNAM": "Spr."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E6B",
+      "FORMID": "009E6B",
+      "EDID": "NVDLC02Ammo45AutoP",
+      "FULL": ".45 Auto, +P",
+      "ONAM": ".45 Auto +P",
+      "QNAM": "+P"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E6A",
+      "FORMID": "009E6A",
+      "EDID": "NVDLC02Ammo45AutoHollowPoint",
+      "FULL": ".45 Auto, Ponta Oca",
+      "ONAM": ".45 Auto HP",
+      "QNAM": "HP"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00947B",
+      "FORMID": "00947B",
+      "EDID": "NVDLC02Ammo45Auto",
+      "FULL": ".45 Auto",
+      "ONAM": ".45 Auto"
+    }
+  ]
+}

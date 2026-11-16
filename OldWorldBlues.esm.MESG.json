@@ -1,0 +1,1085 @@
+{
+  "MESG": [
+    {
+      "FORM": "@OldWorldBlues.esm:002FD1",
+      "FORMID": "002FD1",
+      "EDID": "NVDLC03LoadMessage02",
+      "FULL": "A Melancolia Do Velho Mundo",
+      "DESC": "A DLC \"A Melancolia Do Velho Mundo\" foi carregada. Seu limite de nível foi aumentado em 5."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FD3",
+      "FORMID": "002FD3",
+      "EDID": "NVDLC03LoadMessage01",
+      "FULL": "A Melancolia Do Velho Mundo",
+      "DESC": "Você recebeu um sinal fragmentado no seu Pip-Boy - uma transmissão codificada de algum tipo com uma melodia triste e jazzística que faz sua cabeça doer. Pelo que você pode entender, parece ser um convite para a Sessão de Ficção Científica da Meia-Noite!! no Mojave Drive-In (chegue cedo para ver os trailers)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00416F",
+      "FORMID": "00416F",
+      "EDID": "NVDLC03RadarFenceMsg",
+      "DESC": "Aviso de Perímetro!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004530",
+      "FORMID": "004530",
+      "EDID": "NVDLC03HQAutoDocMsg",
+      "FULL": "Auto-Doc Prototípico",
+      "DESC": "Este protótipo de Auto-Doc é capaz de realizar um exame físico completo e curar o paciente de todas as doenças comuns: envenenamento por radiação, lacerações, ossos quebrados e até mesmo dependências químicas. Além disso, ele também pode cortar o cabelo e realizar cirurgias estéticas.",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Exame Físico Básico.",
+        "Iniciar Cirurgia Cosmética.",
+        "Cortar o Cabelo.",
+        "Trocar Partes do Corpo.",
+        "Instalar Implantes."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004900",
+      "FORMID": "004900",
+      "EDID": "NVDLC03HQHealthyMsg",
+      "DESC": "Você está completamente saudável agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008012",
+      "FORMID": "008012",
+      "EDID": "NVDLC03AtomicPerkActiveMSG",
+      "DESC": "Atômico! Vantagem energizada por radiação."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008014",
+      "FORMID": "008014",
+      "EDID": "NVDLC03AtomicPerkDisabledMSG",
+      "DESC": "Radiação saindo! Vantagem Atômica enfraquecida."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D4D",
+      "FORMID": "009D4D",
+      "EDID": "NVDLC03ImplantGRXDepletedMSG",
+      "DESC": "Implante GRX esgotado até as 24h00"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BE8F",
+      "FORMID": "00BE8F",
+      "EDID": "NVDLC03X13SuitCompleteMsg",
+      "FULL": "Traje Furtivo Experimental X-13 Completo",
+      "DESC": "Você obteve o Traje de Furtividade Aural! Ele não só pode ser aprimorado através de testes em X-13, como também tem reservas de Med-X e Stimpak para todas as suas necessidades de amortecimento da dor! (Med-X e Stimpaks não incluídos.)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D36C",
+      "FORMID": "00D36C",
+      "EDID": "NVDLC03HQJukeBoxMsg",
+      "FULL": "Recalibração de Onda Sonora",
+      "DESC": "Colocar Emissor Sônico no transdutor de ondas sonoras para recalibrar.",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "\"A Cantora de Ópera\"",
+        "\"Latido de Gabriel\"",
+        "\"Revelação\"",
+        "\"Robo-Escorpião\"",
+        "\"Tarântula\""
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D590",
+      "FORMID": "00D590",
+      "EDID": "NVDLC03HQNukaColaMachineMsg",
+      "FULL": "Máquina de Nuka-Cola Modificada",
+      "DESC": "Esta máquina antiga de Nuka-Cola foi modificada para aceitar tampinhas como pagamento. Parece que ela é reabastecida automaticamente a cada poucos dias.",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Nuka-Cola: 20 tampinhas.",
+        "Nuka-Cola Quantum: 30 tampinhas.",
+        "Nuka-Cola Quartz: 40 tampinhas.",
+        "Nuka-Cola Victory: 75 tampinhas."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D5D4",
+      "FORMID": "00D5D4",
+      "EDID": "NVDLC03NotEnoughCapsMsg",
+      "DESC": "Você não tem tampinhas suficientes para comprar esse item."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D6D3",
+      "FORMID": "00D6D3",
+      "EDID": "NVDLC03PacifyMsg",
+      "DESC": "Uma estranha sensação de pacifismo toma conta de você, e por alguma razão você não consegue sacar sua arma."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1AB",
+      "FORMID": "00E1AB",
+      "EDID": "NVDLC03TeleporterInCombatMsg",
+      "DESC": "O dispositivo não funcionará enquanto você estiver em combate."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1AC",
+      "FORMID": "00E1AC",
+      "EDID": "NVDLC03TeleporterInInteriorMsg",
+      "DESC": "O dispositivo não funciona em ambientes fechados."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1AD",
+      "FORMID": "00E1AD",
+      "EDID": "NVDLC03TeleporterToSinkMsg",
+      "DESC": "Tem certeza de que deseja se teletransportar para The Sink?",
+      "ITXT": [
+        "Deixa pra lá. Fique onde você está.",
+        "Me leve para a Pia."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1AE",
+      "FORMID": "00E1AE",
+      "EDID": "NVDLC03TeleporterToMojaveMsg",
+      "DESC": "Tem certeza de que deseja se teletransportar para Mojave?",
+      "ITXT": [
+        "Deixa pra lá. Fique onde você está.",
+        "Me leve para o Mojave."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1AF",
+      "FORMID": "00E1AF",
+      "EDID": "NVDLC03TeleporterNotMojaveMsg",
+      "DESC": "O dispositivo só funciona quando você estiver nas áreas externas dos Ermos de Mojave ou em Big MT. Certos locais em Mojave ainda impedirão o teletransporte, no entanto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E1B1",
+      "FORMID": "00E1B1",
+      "EDID": "NVDLC03TeleporterNoCompanionsMsg",
+      "DESC": "Você deve dispensar quaisquer seguidores antes que o dispositivo de teletransporte funcione."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E316",
+      "FORMID": "00E316",
+      "EDID": "NVDLC03HQAutoDocNoBarberMsg",
+      "DESC": "O módulo de Barbeiro do Auto-Doc está atualmente faltando e deve ser requisitado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E35F",
+      "FORMID": "00E35F",
+      "EDID": "NVDLC03X13NoSuitMsg",
+      "FULL": "Aviso do Programa RV X-13",
+      "DESC": "Para ativar este terminal, equipe o Traje Furtivo Mk II."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E38A",
+      "FORMID": "00E38A",
+      "EDID": "NVDLC03HQAutoDocNoSurgeryMsg",
+      "DESC": "O módulo de Cirurgia Estética do Auto-Doc está atualmente faltando e deve ser requisitado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F432",
+      "FORMID": "00F432",
+      "EDID": "NVDLC03BodyPartsRemovedMsg",
+      "DESC": "Você se sente estranhamente mais pesado. Uma inspeção rápida do seu corpo revela cicatrizes cirúrgicas fracas ao redor da sua cabeça, peito e costas..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F464",
+      "FORMID": "00F464",
+      "EDID": "NVDLC03X13TrapTripwireDisarmMsg",
+      "DESC": "Você hackeou o emissor com sucesso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F465",
+      "FORMID": "00F465",
+      "EDID": "NVDLC03X13TrapLaserOnDisarmDetectMsg",
+      "DESC": "Este Emissor de Fio-Armadilha a Laser está armado.\n\n(Reparo %.0f ou superior necessário) ou\n\n(Ciência %.0f ou superior necessário)",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Desarmar o Emissor de Laser com Sensor.",
+        "Hackear o circuito IFF do emissor da armadilha a laser."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F5B6",
+      "FORMID": "00F5B6",
+      "EDID": "NVDLC03X13SpottedMsg",
+      "DESC": "Teste falhou. Você foi avistado por uma patrulha."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F5B7",
+      "FORMID": "00F5B7",
+      "EDID": "NVDLC03X13TrippedMsg",
+      "DESC": "Teste falhou. Você tocou num fio-desencadeador."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F5F3",
+      "FORMID": "00F5F3",
+      "EDID": "NVDLC03RoboscorpionGiantAwakeMsg",
+      "DESC": "O sistema de energia do Robo-Escorpião Gigante se recuperou da sobrecarga que o desativou!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7E7",
+      "FORMID": "00F7E7",
+      "EDID": "NVDLC03X13MineMsg",
+      "DESC": "Teste falhou. Você foi detectado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F9FB",
+      "FORMID": "00F9FB",
+      "EDID": "NVDLC03X13AwardMsg",
+      "FULL": "Teste Concluído!",
+      "DESC": "Teste Concluído!\n\nSua bolsa de recompensa foi colocada no cofre de recompensas ao lado do terminal de teste. Parabéns!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104DA",
+      "FORMID": "0104DA",
+      "EDID": "NVDLC03CrashedSatelliteMsg",
+      "DESC": "O satélite que caiu parece ser a fonte da estranha transmissão que você recebeu.\n\nMelancolia do Velho Mundo é recomendado para mensageiros experientes (nível %.0f+).\n\nVocê tem a premonição de que, embora não possa retornar ao Mojave até resolver os mistérios do Big Empty, VOCÊ PODERÁ levar tudo o que puder carregar consigo, e VOCÊ PODERÁ retornar ao Big Empty a qualquer momento após completar Melancolia do Velho Mundo.\n\nSe estiver à altura do desafio (e tiver tudo o que quer levar consigo), examine o satélite um pouco mais de perto... as maravilhas atômicas da Ciência! aguardam.",
+      "ITXT": [
+        "Deixe pra lá.",
+        "Examine o satélite mais de perto."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104DB",
+      "FORMID": "0104DB",
+      "EDID": "NVDLC03CrashedSatelliteNoCombatMsg",
+      "DESC": "Você não pode investigar o satélite enquanto estiver em combate."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010914",
+      "FORMID": "010914",
+      "EDID": "NVDLC03X13LeftMsg",
+      "DESC": "Teste falhou. Você saiu da área de teste."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01126D",
+      "FORMID": "01126D",
+      "EDID": "NVDLC03DNAgentMsg",
+      "DESC": "DNAgent Perk Concedido\n\nSeu estudo das abominações criadas no Big MT concedeu a você um bônus de dano (+10%) contra os Perseguidor Noturnos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DBF",
+      "FORMID": "011DBF",
+      "EDID": "NVDLC03HQBioResearchStationMSG",
+      "FULL": "Estação de Pesquisa Biológica",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Processar Semente em Vaso.",
+        "Converter Matéria Vegetal em Verde Saliente."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01208B",
+      "FORMID": "01208B",
+      "EDID": "NVDLC03CrashedSatelliteNotMidnightMsg",
+      "DESC": "Nada acontece, já que a sessão da meia-noite no Drive-in Mojave ainda não começou."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012108",
+      "FORMID": "012108",
+      "EDID": "NVDLC03ChemistrySetMsg",
+      "DESC": "Você usa o suprimento de produtos químicos do conjunto para criar uma droga."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012725",
+      "FORMID": "012725",
+      "EDID": "NVDLC03SnowGlobeMessage",
+      "DESC": "Esta esfera de neve foi adicionada à coleção no Lucky 38."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133AF",
+      "FORMID": "0133AF",
+      "EDID": "NVDLC03HQAutodocImplantMSG",
+      "FULL": "Interface de Implante",
+      "DESC": "Realizar cirurgia para instalar implantes cibernéticos?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Instalar Implante C-13: +10% de dano contra Cazadores. (8.000 Tampinhas)",
+        "Instalar Implante M-5: Velocidade aumentada ao agachar. (10.000 tampinhas)",
+        "Instalar Implante Y-3: Remove radiação ao beber. (12.000 tampinhas)",
+        "Instalar Implante Y-7: Bônus de PV\/PA de comida. (20.000 Tampinhas)"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013463",
+      "FORMID": "013463",
+      "EDID": "NVDLC03HQLightSwitchesMSG",
+      "FULL": "Interruptor de Luz",
+      "ITXT": [
+        "Luzes Acessas",
+        "Luzes Acessas",
+        "Luzes Acessas",
+        "Luzes Apagadas",
+        "Iluminação Padrão",
+        "Luzes Inteligentes (+2 INT, +5 Reparo, +5 Ciência por 12 horas após a exposição inicial)",
+        "Iluminação Ambiente (+2 CHA, +5 Troca, +5 Oratória por 12 horas após a exposição inicial)"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013571",
+      "FORMID": "013571",
+      "EDID": "NVDLC03HQJukeboxLockedMSG",
+      "DESC": "Arquivos da jukebox danificados. Insira a holofita de backup para restaurar os arquivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013572",
+      "FORMID": "013572",
+      "EDID": "NVDLC03HQJukeboxUnlockMSG",
+      "DESC": "Restaurando arquivos de backup da Jukebox... reiniciando a Jukebox..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013576",
+      "FORMID": "013576",
+      "EDID": "NVDLC03HQLightSwitch01LockedBoxMSG",
+      "DESC": "Arquivo de funções avançadas danificado. Insira a holofita de backup para restaurar o arquivo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013577",
+      "FORMID": "013577",
+      "EDID": "NVDLC03HQLightSwitch01LockedNoBoxMSG",
+      "DESC": "Insira a holofita para restaurar as funções avançadas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013578",
+      "FORMID": "013578",
+      "EDID": "NVDLC03HQLightSwitch01UnlockMSG",
+      "DESC": "Fita holográfica de backup recebida, instalando arquivos... desbloqueando funções avançadas..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013579",
+      "FORMID": "013579",
+      "EDID": "NVDLC03HQLightSwitch02UnlockMSG",
+      "DESC": "Fita holográfica de backup recebida, instalando arquivos... desbloqueando funções avançadas..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01357A",
+      "FORMID": "01357A",
+      "EDID": "NVDLC03HQLightSwitch02LockedNoBoxMSG",
+      "DESC": "Insira a holofita para restaurar as funções avançadas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01357B",
+      "FORMID": "01357B",
+      "EDID": "NVDLC03HQLightSwitch02LockedBoxMSG",
+      "DESC": "Arquivo de funções avançadas danificado. Insira a holofita de backup para restaurar o arquivo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013581",
+      "FORMID": "013581",
+      "EDID": "NVDLC03HQBookChuteMSG",
+      "FULL": "Processar Materiais?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Processar Livros.",
+        "Processar Lápis.",
+        "Processar Pranchetas."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136E4",
+      "FORMID": "0136E4",
+      "EDID": "NVDLC03MQ02CompleteMsg",
+      "DESC": "Os esquemas da Antena X-2 foram enviados ao Think Tank."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136E5",
+      "FORMID": "0136E5",
+      "EDID": "NVDLC03MQ03CompleteMsg",
+      "DESC": "A amostra de áudio do Gabriel's Bark foi carregada no Think Tank."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136E6",
+      "FORMID": "0136E6",
+      "EDID": "NVDLC03MQ04CompleteMsg",
+      "DESC": "Os esquemas do Traje Furtivo Mk II foram enviados ao Tanque de Ideias."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0137E2",
+      "FORMID": "0137E2",
+      "EDID": "NVDLC03HQBuddiesNoTalkMSG",
+      "DESC": "Módulo de voz desativado na Unidade Central de Inteligência do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D46",
+      "FORMID": "013D46",
+      "EDID": "NVDLC03HQJukeboxNoEmitterMSG",
+      "FULL": "Emissor Sônico não detectado",
+      "DESC": "Transdutor de ondas sonoras restrito à recalibração do Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D47",
+      "FORMID": "013D47",
+      "EDID": "NVDLC03HQToasterMSG",
+      "FULL": "Precisa de uns tiros?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Processar Torradeiras e Aparelhos.",
+        "Manopla de Saturnita Superaquecida."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D48",
+      "FORMID": "013D48",
+      "EDID": "NVDLC03HQBuddyUnlockMSG",
+      "DESC": "Arquivos de personalidade detectados. Instalando..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D49",
+      "FORMID": "013D49",
+      "EDID": "NVDLC03HQBuddyLockedMSG",
+      "DESC": "Arquivos de personalidade danificados ou faltando. Insira a holofita de backup para restaurar os arquivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D4A",
+      "FORMID": "013D4A",
+      "EDID": "NVDLC03HQToasterNoItemsMSG",
+      "FULL": "Precisa de uns tiros?",
+      "DESC": "Você não tem nenhum Eletrodoméstico para destruir ou Punhos de Saturnite para superaquecer!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D4B",
+      "FORMID": "013D4B",
+      "EDID": "NVDLC03HQSinkBuddyMSG",
+      "FULL": "Precisa de água?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Encher Garrafas Vazias.",
+        "Beber."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D4C",
+      "FORMID": "013D4C",
+      "EDID": "NVDLC03HQSinkBuddyNoEmptiesMSG",
+      "DESC": "Você não tem nenhuma garrafa vazia para encher!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D74",
+      "FORMID": "013D74",
+      "EDID": "NVDLC03HQBioResearchStationNoItemsMSG",
+      "FULL": "Itens para processar?",
+      "DESC": "Você não tem nenhum item para processar!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013F04",
+      "FORMID": "013F04",
+      "EDID": "NVDLC03AcidWeapMSG",
+      "DESC": "Inimigo atingido por ácido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01423B",
+      "FORMID": "01423B",
+      "EDID": "NVDLC03HQAutoDocBarberUnlockMSG",
+      "DESC": "O módulo de barbeiro do Auto-Doc agora está disponível."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01423C",
+      "FORMID": "01423C",
+      "EDID": "NVDLC03HQAutoDocSurgeryUnlockMSG",
+      "DESC": "O módulo de Cirurgia Estética do Auto-Doc agora está disponível."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142A4",
+      "FORMID": "0142A4",
+      "EDID": "NVDLC03X13Perk13Msg",
+      "FULL": "Stealth Suit Mk II v1.3 Baixado!",
+      "DESC": "Stealth Suit Mk II v1.3 Baixado! (+1 AGL)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142A5",
+      "FORMID": "0142A5",
+      "EDID": "NVDLC03X13Perk14Msg",
+      "FULL": "Stealth Suit Mk II v1.4 Baixado!",
+      "DESC": "Stealth Suit Mk II v1.4 Baixado! (+ Velocidade de Furtividade)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142A6",
+      "FORMID": "0142A6",
+      "EDID": "NVDLC03X13Perk11Msg",
+      "FULL": "Stealth Suit Mk II v1.1 Baixado!",
+      "DESC": "Stealth Suit Mk II v1.1 Baixado! (+10 Furtividade)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142A7",
+      "FORMID": "0142A7",
+      "EDID": "NVDLC03X13Perk12Msg",
+      "FULL": "Stealth Suit Mk II v1.2 Baixado!",
+      "DESC": "Stealth Suit Mk II v1.2 Baixado! (+1 PER)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01494A",
+      "FORMID": "01494A",
+      "EDID": "NVDLC03BattleBrewCraftMsg",
+      "DESC": "Presa ao alambique há uma nota com os seguintes ingredientes: 1 Vodka, 1 Cogumelo Mutante da Caverna, 1 Verde Saliente.",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Fazer Bebida de Batalha. (1 Garrafa)",
+        "Fazer um Pack de 6 de Cerveja de Batalha. (6 Garrafas)",
+        "Faça um Engradado de Cerveja de Batalha. (12 Garrafas)"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01494B",
+      "FORMID": "01494B",
+      "EDID": "NVDLC03BattleBrewMissingItemsMsg",
+      "DESC": "Você não tem os itens necessários. (1 Vodka, 1 Cogumelo Mutante de Caverna, 1 Verde Saliente)",
+      "ITXT": [
+        "Não Fazer Nada."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AB9",
+      "FORMID": "014AB9",
+      "EDID": "NVDLC03X8Test2NoGunDoorMSG",
+      "DESC": "O Emissor Sônico é necessário para entrar neste teste."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B91",
+      "FORMID": "014B91",
+      "EDID": "NVDLC03SonicEmitterForceFieldMsg",
+      "DESC": "Onda de Pulso EM do Emissor Sônico Desbloqueada! O Emissor Sônico pode desativar campos de força."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0154FA",
+      "FORMID": "0154FA",
+      "EDID": "NVDLC03TeleporterAcquiredMsg",
+      "DESC": "Você adquiriu o Transportalizador de Grande Montanha! Ele é capaz de transportar você - e somente você - entre os Ermos de Mojave e Big MT.\n\nPara retornar ao Mojave (ou voltar para Big MT a partir do Mojave), simplesmente equipe o Transportalizador! como faria com qualquer arma, puxe o gatilho e lá se vai. Note que ele não funcionará em interiores ou em situações de combate, e é totalmente incapaz de ferir seus inimigos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015533",
+      "FORMID": "015533",
+      "EDID": "NVDLC03HQMuggyMSG",
+      "FULL": "O que Muggy pode fazer por você?",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Lavar Canecas e Pratos de Café.",
+        "Colete Componentes Eletrônicos."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015534",
+      "FORMID": "015534",
+      "EDID": "NVDLC03HQMuggyNoItemsMSG",
+      "FULL": "O que Muggy pode fazer por você?",
+      "DESC": "Você não tem Canecas de Café ou Pratos para Muggy!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015535",
+      "FORMID": "015535",
+      "EDID": "NVDLC03HQMuggyNoItemsServicesMSG",
+      "FULL": "O que Muggy pode fazer por você?",
+      "DESC": "Você não tem Canecas de Café ou Pratos para o Muggy e o Muggy não tem Componentes Eletrônicos para você!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155BF",
+      "FORMID": "0155BF",
+      "EDID": "NVDLC03HQBuddyLockedNoBoxMSG",
+      "DESC": "Arquivos de personalidade danificados ou faltando. Insira a holofita de backup para restaurar os arquivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C0",
+      "FORMID": "0155C0",
+      "EDID": "NVDLC03HQLightSwitch01UpgradeMSG",
+      "FULL": "Luzes Inteligentes",
+      "DESC": "Fita de atualização recebida... atualizando para a funcionalidade 'Luzes Inteligentes'... (+2 INT, +5 Reparo, +5 Ciência por 12 horas após a exposição inicial)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C1",
+      "FORMID": "0155C1",
+      "EDID": "NVDLC03HQLightSwitch02UpgradeMSG",
+      "FULL": "Iluminação Cênica",
+      "DESC": "Hologravador de atualização recebido... atualizando para a funcionalidade 'Iluminação Ambiente'. (+2 CHA, +5 Troca, +5 Oratória por 12 horas após a exposição inicial)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015612",
+      "FORMID": "015612",
+      "EDID": "NVDLC03HQMuggyUpgradeMSG",
+      "FULL": "Produção de Peças",
+      "DESC": "Holotape de melhoria recebida... melhorando a funcionalidade de \"Produção de Peças\" (fornecimento de Células de Energia, Células de Microfusão e Sucata Eletrônica disponível uma vez por dia)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015613",
+      "FORMID": "015613",
+      "EDID": "NVDLC03HQBookChuteUpgradeMSG",
+      "FULL": "Trituração de Materiais Secundários",
+      "DESC": "Hologravador de aprimoramento recebido... aprimorando a funcionalidade de \"Trituração de Materiais Secundários\". (Lápis e Pranchetas são processados em Chumbo, Peças Sobressalentes e Fita Isolante.)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01561A",
+      "FORMID": "01561A",
+      "EDID": "NVDLC03HQMainComputerUpgrade03MSG",
+      "FULL": "Mod LAER \"Carregador Auxiliar Recarregador\"",
+      "DESC": "Hologravador de aprimoramento recebido... adicionando modificação de arma LAER \"Carregador Auxiliar de Recarga\" ao inventário do vendedor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01561B",
+      "FORMID": "01561B",
+      "EDID": "NVDLC03HQMainComputerUpgrade04MSG",
+      "FULL": "Mod LAER \"Lente Prismática\"",
+      "DESC": "Hologravador de atualização recebido... adicionando modificação de arma LAER \"Lente Prismática\" ao inventário do vendedor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01561C",
+      "FORMID": "01561C",
+      "EDID": "NVDLC03HQMainComputerUpgrade01MSG",
+      "FULL": "Mod K9000 \"Ração Mentat\"",
+      "DESC": "Hologravador de atualização recebido... adicionando modificação de arma K9000 \"Chapa de Mentats\" ao inventário do vendedor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01561D",
+      "FORMID": "01561D",
+      "EDID": "NVDLC03HQMainComputerUpgrade02MSG",
+      "FULL": "Mod K9000 \"Turbilhão Resla\"",
+      "DESC": "Hologravador de aprimoramento recebido... adicionando modificação de arma K9000 \"Resla Roil\" ao inventário do vendedor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158B2",
+      "FORMID": "0158B2",
+      "EDID": "NVDLC03HQJukeboxUpgradeMSG",
+      "DESC": "Novo arquivo de som disponível para o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158B3",
+      "FORMID": "0158B3",
+      "EDID": "NVDLC03HQMainComputerUpgrade05MSG",
+      "FULL": "Emissor Sônico - Revelação",
+      "DESC": "Emissor Sônico - Revelação agora disponível na interface do vendedor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158B4",
+      "FORMID": "0158B4",
+      "EDID": "NVDLC03HQJukeBoxInputMSG",
+      "FULL": "Recalibração de Onda Sonora",
+      "DESC": "Me dê um dos seus Emissores Sônicos para recalibrar.",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "\"A Cantora de Ópera\"",
+        "\"Latido de Gabriel\"",
+        "\"Revelação\"",
+        "\"Robo-Escorpião\"",
+        "\"Tarântula\""
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158B5",
+      "FORMID": "0158B5",
+      "EDID": "NVDLC03HQJukeboxOutputMSG",
+      "FULL": "Recalibração de Onda Sonora",
+      "DESC": "Selecione a configuração de recalibração desejada para o Emissor Sônico.",
+      "ITXT": [
+        "<espaço reservado - não deve ser exibido>",
+        "\"A Cantora de Ópera\"",
+        "\"Latido de Gabriel\"",
+        "\"Revelação\"",
+        "\"Robo-Escorpião\"",
+        "\"Tarântula\""
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158B6",
+      "FORMID": "0158B6",
+      "EDID": "NVDLC03HQSinkBuddyUpgradeMSG",
+      "FULL": "Garrafas Vazias para Água Purificada",
+      "DESC": "Holotape de aprimoramento recebida... aprimorando a funcionalidade \"Purificação de Água\" (qualquer garrafa vazia é convertida em uma garrafa de Água Purificada)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A82",
+      "FORMID": "015A82",
+      "EDID": "NVDLC03HQAutoDocPlayerPartsMSG",
+      "FULL": "Trocar partes do corpo",
+      "DESC": "Selecione o órgão para substituir (as vantagens associadas também serão substituídas).",
+      "ITXT": [
+        "Não Fazer Nada.",
+        "Reinsira seu Cérebro de volta no seu crânio.",
+        "Coloque seu Coração de volta no peito.",
+        "Reconecte sua Coluna.",
+        "Substituir seu Cérebro pela versão sintética.",
+        "Troque seu coração pela versão sintética.",
+        "Troque sua Coluna pela versão sintética."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A83",
+      "FORMID": "015A83",
+      "EDID": "NVDLC03HQAutoDocInstalledC13MSG",
+      "DESC": "Implante C-13 instalado cirurgicamente (+10% de dano contra Cazadores)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A84",
+      "FORMID": "015A84",
+      "EDID": "NVDLC03HQAutoDocInstalledM5MSG",
+      "DESC": "Implante M-5 instalado cirurgicamente (aumenta a velocidade ao agachar)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A85",
+      "FORMID": "015A85",
+      "EDID": "NVDLC03HQAutoDocInstalledY3MSG",
+      "DESC": "Implante Y-3 instalado cirurgicamente (remove radiação ao beber)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A86",
+      "FORMID": "015A86",
+      "EDID": "NVDLC03HQJukeboxUpgradeGabrielMSG",
+      "DESC": "Arquivo de som \"Latido do Gabriel\" disponível para o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A87",
+      "FORMID": "015A87",
+      "EDID": "NVDLC03HQJukeboxUpgradeOperaMSG",
+      "DESC": "Arquivo de som \"Cantora de Ópera\" disponível para o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A88",
+      "FORMID": "015A88",
+      "EDID": "NVDLC03HQJukeboxUpgradeRoboScorpionMSG",
+      "DESC": "Arquivo de som \"Robo-Scorpion\" disponível para o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A89",
+      "FORMID": "015A89",
+      "EDID": "NVDLC03HQJukeboxUpgradeTarantulaMSG",
+      "DESC": "Arquivo de som \"Tarântula\" disponível para o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A8A",
+      "FORMID": "015A8A",
+      "EDID": "NVDLC03HQAutoDocInstalledY7MSG",
+      "DESC": "Implante Y-7 instalado cirurgicamente (bônus de PV\/PA de alimentos)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015AD3",
+      "FORMID": "015AD3",
+      "EDID": "NVDLC03X13TrapLaserOffMsg",
+      "DESC": "O Emissor de Sensor a Laser está desligado no momento."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBD",
+      "FORMID": "015BBD",
+      "EDID": "NVDLC03HQHeartJarMSG",
+      "DESC": "Este é o seu coração. Aparentemente, complicações na cirurgia craniana exigiram a remoção dele e, até que seu cérebro seja devolvido, não se pode confiar que seu coração continue batendo no seu corpo. Seu novo coração parece estar funcionando perfeitamente, no entanto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBE",
+      "FORMID": "015BBE",
+      "EDID": "NVDLC03HQSpineJarMSG",
+      "DESC": "Aqui está sua espinha. Sem uma haste encefálica para conectá-la, aqui ela flutua. Suas costas não parecem diferentes de quando sua espinha estava lá; na verdade, o que quer que tenha sido colocado ali faz você se sentir mais forte."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BBF",
+      "FORMID": "015BBF",
+      "EDID": "NVDLC03HQHeartJarReplaceMSG",
+      "DESC": "Substituir seu coração?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC0",
+      "FORMID": "015BC0",
+      "EDID": "NVDLC03HQHeartJarRemoveMSG",
+      "DESC": "Remover seu coração?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC1",
+      "FORMID": "015BC1",
+      "EDID": "NVDLC03HQBrainJarRemoveMSG",
+      "DESC": "Remover seu cérebro?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC2",
+      "FORMID": "015BC2",
+      "EDID": "NVDLC03HQBrainJarReplaceMSG",
+      "DESC": "Substituir seu cérebro?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC3",
+      "FORMID": "015BC3",
+      "EDID": "NVDLC03HQSpineJarRemoveMSG",
+      "DESC": "Remover sua espinha?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC4",
+      "FORMID": "015BC4",
+      "EDID": "NVDLC03HQSpineJarReplaceMSG",
+      "DESC": "Substituir sua coluna?",
+      "ITXT": [
+        "Sim",
+        "Não"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC8",
+      "FORMID": "015BC8",
+      "EDID": "NVDLC03FrenzyAttackMSG",
+      "DESC": "Inimigo frenético!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9B",
+      "FORMID": "015F9B",
+      "EDID": "NVDLC03HQBrainJarEmptyMSG",
+      "DESC": "Com base nos outros tanques na sala, você pode presumir com segurança que é aqui que seu cérebro estaria flutuando. Ele está faltando tanto no tanque quanto no lugar adequado em sua cabeça, mas você parece estar se virando muito bem sem ele."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9C",
+      "FORMID": "015F9C",
+      "EDID": "NVDLC03HQBrainJarFullMSG",
+      "DESC": "Seu cérebro flutua aqui. Parece que você está se virando muito bem sem ele."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9D",
+      "FORMID": "015F9D",
+      "EDID": "NVDLC03HQSpineJarEmptyMSG",
+      "DESC": "Sua coluna original costumava flutuar aqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9E",
+      "FORMID": "015F9E",
+      "EDID": "NVDLC03HQHeartJarEmptyMSG",
+      "DESC": "Seu coração original costumava flutuar aqui dentro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F9F",
+      "FORMID": "015F9F",
+      "EDID": "NVDLC03HQAutoDocPlayerPartsFailMSG",
+      "DESC": "Esta opção não parece estar disponível no momento. Algum tipo de substituição de controle deve estar em vigor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015FA0",
+      "FORMID": "015FA0",
+      "EDID": "NVDLC03HQBrainJarEmpty2MSG",
+      "DESC": "Seu cérebro costumava flutuar aqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0168D8",
+      "FORMID": "0168D8",
+      "EDID": "NVDLC03SonicEmitterRecalibrateMsg",
+      "DESC": "Você encontrou um arquivo de recalibração para o Emissor Sônico. Leve-o para a Jukebox na Pia para recalibrar o Emissor Sônico para novos efeitos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011303",
+      "FORMID": "011303",
+      "EDID": "NVDLC03BrainlessPerkGain",
+      "DESC": "\"Vantagem\" Descerebrado\n\nSeu cérebro foi substituído por tecnologias avançadas: Sua cabeça não pode mais ser aleijada e é resistente ao vício em drogas (+25%% de resistência) e choque por danos corporais (+5%% de Limiar de Dano, mínimo +1)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011304",
+      "FORMID": "011304",
+      "EDID": "NVDLC03SpinelessPerkGainMSG",
+      "DESC": "\"Vantagem\" Sem Coluna\n\nDevido a complicações no procedimento, sua coluna também foi substituída: seu torso não pode mais ser aleijado e sua Força (FOR) e Limiar de Dano (Diretor de Design) foram aumentados (+1)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011305",
+      "FORMID": "011305",
+      "EDID": "NVDLC03HeartlessPerkGain",
+      "DESC": "Sem Coração \"Vantagem\"\n\nAs cicatrizes no seu peito parecem confirmar o que o Think Tank está dizendo... você não pode ser envenenado, e filtros na sua bomba de sangue artificial regularão sangramento e cura, permitindo que todos os itens de cura (chems) funcionem em um nível maior (+25%). Robôs agora ficam confusos com você e têm 50% menos probabilidade de acertar um ataque crítico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012305",
+      "FORMID": "012305",
+      "EDID": "NVDLC03BrainlessPerkSwapInMSG",
+      "DESC": "Você recebeu a vantagem Descerebrado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012306",
+      "FORMID": "012306",
+      "EDID": "NVDLC03BrainlessPerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Descerebrado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012307",
+      "FORMID": "012307",
+      "EDID": "NVDLC03SpinelessPerkSwapInMSG",
+      "DESC": "Você ganhou a vantagem Sem Coluna."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012308",
+      "FORMID": "012308",
+      "EDID": "NVDLC03SpinelessPerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Covarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012309",
+      "FORMID": "012309",
+      "EDID": "NVDLC03HeartlessPerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Sem Coração."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230A",
+      "FORMID": "01230A",
+      "EDID": "NVDLC03HeartlessPerkSwapInMSG",
+      "DESC": "Você recebeu a vantagem Desalmado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230B",
+      "FORMID": "01230B",
+      "EDID": "NVDLC03BigBrainedPerkSwapInMSG",
+      "DESC": "Você ganhou a vantagem Cabeça de Gênio."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230C",
+      "FORMID": "01230C",
+      "EDID": "NVDLC03BigBrainedPerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Mente Brilhante."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230D",
+      "FORMID": "01230D",
+      "EDID": "NVDLC03BigBrainedPerkGainMSG",
+      "DESC": "\"Vantagem\" Cérebro Grande\n\nSeu cérebro voltou para o seu corpo, mas algumas das tecnologias avançadas permanecem: Sua cabeça ainda não pode ser aleijada, mas você é apenas 10% mais resistente ao vício agora. Surpreendentemente, sua resistência a dano melhorou em 10% (mínimo +1 RD)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230E",
+      "FORMID": "01230E",
+      "EDID": "NVDLC03CardiacArrestPerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Ataque Cardíaco."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01230F",
+      "FORMID": "01230F",
+      "EDID": "NVDLC03CardiacArrestPerkSwapInMSG",
+      "DESC": "Você recebeu a vantagem Parada Cardíaca."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012310",
+      "FORMID": "012310",
+      "EDID": "NVDLC03CardiacArrestPerkGainMSG",
+      "DESC": "Parada Cardíaca \"Vantagem\"\n\nSeu coração está de volta no corpo, mas algumas tecnologias avançadas permanecem: você é menos resistente a veneno (50%) e robôs ficam só um pouco confusos com você (25% menos chances de acertar um ataque crítico) agora. Mas, pelo lado bom, itens de cura (chems) são duas vezes mais eficazes! (+50%)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012311",
+      "FORMID": "012311",
+      "EDID": "NVDLC03ReinforcedSpinePerkSwapInMSG",
+      "DESC": "Você recebeu a vantagem Coluna Reforçada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012312",
+      "FORMID": "012312",
+      "EDID": "NVDLC03ReinforcedSpinePerkSwapOutMSG",
+      "DESC": "Você perdeu a vantagem Coluna Reforçada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012313",
+      "FORMID": "012313",
+      "EDID": "NVDLC03ReinforcedSpinePerkGainMSG",
+      "DESC": "Coluna Reforçada \"Vantagem\"\n\nSua coluna está de volta ao corpo, mas algumas tecnologias avançadas permanecem: seu torso pode ser aleijado de novo, mas seus bônus de Força (FOR) e Limite de Dano (Diretor de Design) dobraram! (+2)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012314",
+      "FORMID": "012314",
+      "EDID": "NVDLC03HQAutoDocImplantM5UnlockMSG",
+      "DESC": "O implante M-5 agora está disponível para instalação cirúrgica."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012315",
+      "FORMID": "012315",
+      "EDID": "NVDLC03HQAutoDocImplantY3UnlockMSG",
+      "DESC": "O implante Y-3 já está disponível para instalação cirúrgica."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01231B",
+      "FORMID": "01231B",
+      "EDID": "NVDLC03HQAutoDocImplantY7UnlockMSG",
+      "DESC": "O Implante Y-7 agora está disponível para instalação cirúrgica."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01231E",
+      "FORMID": "01231E",
+      "EDID": "NVDLC03HQAutoDocImplantC13UnlockMSG",
+      "DESC": "O implante C-13 agora está disponível para instalação cirúrgica."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C92",
+      "FORMID": "012C92",
+      "EDID": "NVDLC03HQBookChuteNoItemsMSG",
+      "FULL": "Processar Materiais?",
+      "DESC": "Você não tem materiais para processar!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F44",
+      "FORMID": "012F44",
+      "EDID": "NVDLC03HazmatPodMsg",
+      "DESC": "A Unidade de Contenção do Traje Hazmat requer um código de segurança para desativar o campo de força.",
+      "ITXT": [
+        "Vaza."
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013914",
+      "FORMID": "013914",
+      "EDID": "NVDLC03FinaleWarningMsg",
+      "DESC": "O Dr. Klein espera. Certifique-se de estar preparado para acabar com isso de uma vez por todas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01441D",
+      "FORMID": "01441D",
+      "EDID": "NVDLC03HQSpineJarPostMobiusMSG",
+      "DESC": "Aqui está sua coluna original. Felizmente, você parece estar se virando bem com a coluna substituta.\n\nGraças às informações transmitidas pelo seu próprio cérebro (por mais estranho que pareça), agora você pode colocar sua coluna original de volta no lugar usando o Auto-Doc do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01441E",
+      "FORMID": "01441E",
+      "EDID": "NVDLC03HQHeartJarPostMobiusMSG",
+      "DESC": "Este é o seu coração original. Seu novo coração parece estar funcionando bem, no entanto.\n\nGraças às informações transmitidas pelo seu próprio cérebro (por mais estranho que pareça), agora você pode colocar seu coração original de volta no lugar usando o Auto-Doc do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014BBE",
+      "FORMID": "014BBE",
+      "EDID": "NVDLC03SneakCantUseMSG",
+      "DESC": "Você não pode usar isso enquanto estiver agachado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015131",
+      "FORMID": "015131",
+      "EDID": "NVDLC03DNAvengerRankMsg",
+      "DESC": "DNAvenger Perk Rank Increased\n\nEstudos adicionais das abominações criadas no Big MT concederam a você um bônus de dano adicional (+10%%) contra Cazadores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015148",
+      "FORMID": "015148",
+      "EDID": "NVDLC03DNAvengerGrantedMsg",
+      "DESC": "DNAvenger Perk Concedido\n\nEstudar as abominações criadas no Big MT concedeu a você um bônus de dano (+10%) contra Cazadores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0152FE",
+      "FORMID": "0152FE",
+      "EDID": "NVDLC03Y3ImplantPerkRadRemovedMSG",
+      "DESC": "O implante Y-3 removeu a radiação ingerida."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015319",
+      "FORMID": "015319",
+      "EDID": "NVDLC03TraitRespecMSG",
+      "FULL": "Avaliação Psiquiátrica",
+      "DESC": "A Avaliação Psiquiátrica do Auto-Doc permitirá que você redefina as Características que selecionou quando criou seu personagem. Você só pode fazer isso uma vez. Tem certeza de que deseja prosseguir?",
+      "ITXT": [
+        "Não, obrigado, vou esperar.",
+        "Sim, distorça minha psique em novas e excitantes formas!"
+      ]
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01580F",
+      "FORMID": "01580F",
+      "EDID": "NVDLC03X13DestroyedMsg",
+      "DESC": "Teste falhou. Um robô foi destruído."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016958",
+      "FORMID": "016958",
+      "EDID": "NVDLC03HQAutodocImplantNoCapsMSG",
+      "FULL": "Interface de Implante",
+      "DESC": "Você não tem fichas para esse procedimento."
+    }
+  ]
+}

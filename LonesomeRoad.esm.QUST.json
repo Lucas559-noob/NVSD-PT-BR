@@ -1,0 +1,162 @@
+{
+  "QUST": [
+    {
+      "FORM": "@LonesomeRoad.esm:003603",
+      "FORMID": "003603",
+      "EDID": "NVDLC04MQ00",
+      "FULL": "A Reunião",
+      "NNAM": {
+        "10": "Viaje até os destroços do cânion perto de Primm e entre na Divisão."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00360E",
+      "FORMID": "00360E",
+      "EDID": "NVDLC04XPCalculator",
+      "FULL": "DLC04 Calculadora de EXP"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00360F",
+      "FORMID": "00360F",
+      "EDID": "NVDLC04MQ01",
+      "FULL": "O Serviço",
+      "NNAM": {
+        "10": "Encontre o Detonador a Laser.",
+        "20": "Fuja da caverna dos Tunnelers e chegue à High Road.",
+        "15": "Siga pela Estrada Solitária até o túnel do viaduto desabado.",
+        "12": "Use o Detonador a Laser na ogiva."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003610",
+      "FORMID": "003610",
+      "EDID": "NVDLC04MQ02",
+      "FULL": "A Divisão",
+      "NNAM": {
+        "20": "Atravesse a Divisa.",
+        "10": "Vá para o telhado do prédio de escritórios em ruínas e chegue à Divisão.",
+        "30": "Use as cavernas para desviar do prédio desabado.",
+        "50": "Viaje até o Templo de Ulysses.",
+        "5": "Ative o elevador do Silo de Mísseis Ashton e siga para o Divide.",
+        "7": "Sobreviva à viagem de elevador até o Silo de Mísseis Ashton."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003613",
+      "FORMID": "003613",
+      "EDID": "NVDLC04MQ02a",
+      "FULL": "Os Tuneladores",
+      "NNAM": {
+        "10": "Atravesse a Caverna do Abaddon e continue até o Templo."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003615",
+      "FORMID": "003615",
+      "EDID": "NVDLC04MQ03b",
+      "FULL": "O Fim",
+      "NNAM": {
+        "10": "Cancele o lançamento do míssil.",
+        "30": "Corra para os Destroços do Cânion.",
+        "40": "Opcional: Entregue a última mensagem de Ulysses."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003616",
+      "FORMID": "003616",
+      "EDID": "NVDLC04MQ03a",
+      "FULL": "O(A) Mensageiro(a)",
+      "NNAM": {
+        "30": "Lidar com Ulysses.",
+        "10": "Rastreie Ulysses em seu Templo.",
+        "20": "Opcional: Resgate ED-E.",
+        "40": "Opcional: Desative os Eyebots de Ulysses.",
+        "35": "Lute contra os Homens Marcados."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003617",
+      "FORMID": "003617",
+      "EDID": "NVDLC04MQ01a",
+      "FULL": "O Silo",
+      "NNAM": {
+        "10": "Navegue pelo Silo de Mísseis de Hopeville para alcançar a Estrada Solitária.",
+        "20": "Ache algo para quebrar a criptografia no terminal da porta blindada.",
+        "30": "Use ED-E para quebrar a criptografia no terminal da porta blindada.",
+        "50": "Use ED-E para destravar o mainframe.",
+        "40": "Encontre os códigos de segurança para a rede de silos de mísseis.",
+        "25": "Opcional: Peça para ED-E acessar o Depósito para você.",
+        "35": "Ligue a energia do silo novamente.",
+        "55": "Ative o mainframe para destravar as portas externas do silo."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039E3",
+      "FORMID": "0039E3",
+      "EDID": "NVDLC04MQ01c",
+      "FULL": "O Lançamento",
+      "NNAM": {
+        "20": "Ative o console para ter acesso ao Silo de Mísseis Ashton.",
+        "15": "Chegue à Estação de Controle do Silo Ashton no fim da Estrada Elevada."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E44",
+      "FORMID": "003E44",
+      "EDID": "NVDLC04DialogueUlysses",
+      "FULL": "\"Eu sou Ulysses. E eu não vou deixar você passar.\""
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:004CDB",
+      "FORMID": "004CDB",
+      "EDID": "NVDLC04DialogueEDE",
+      "FULL": "\"Eu sou ED-E. E sempre me lembrarei de você.\""
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007962",
+      "FORMID": "007962",
+      "EDID": "NVDLC04UlyssesCombatBarks",
+      "FULL": "\""
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD4A",
+      "FORMID": "00AD4A",
+      "EDID": "NVDLC04EDEFinaleQuest",
+      "FULL": "Quest de script para o sacrifício climático de ED-E."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B999",
+      "FORMID": "00B999",
+      "EDID": "NVDLC04MissileExplosionTimer",
+      "FULL": "Cronômetro de Explosão de Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BD34",
+      "FORMID": "00BD34",
+      "EDID": "NVDLC04AudioHolotapes",
+      "FULL": "Informações do Holodisco"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BF03",
+      "FORMID": "00BF03",
+      "EDID": "NVDLC04MQ04",
+      "FULL": "O Apocalipse",
+      "NNAM": {
+        "10": "Corra para os Destroços do Cânion.",
+        "20": "Opcional: Entregue a última mensagem de Ulysses."
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDCE",
+      "FORMID": "00CDCE",
+      "EDID": "NVDLC04AutoInjectQuest",
+      "FULL": "Missão de Autoinjeção"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D006",
+      "FORMID": "00D006",
+      "EDID": "NVDLC04DivideSupport",
+      "FULL": "Missão de Suporte à Divisão"
+    }
+  ]
+}

@@ -1,0 +1,1720 @@
+{
+  "CREA": [
+    {
+      "FORM": "@OldWorldBlues.esm:003250",
+      "FORMID": "003250",
+      "EDID": "NVDLC03BrainBot",
+      "FULL": "Modelo de Cérebro-Robô"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003255",
+      "FORMID": "003255",
+      "EDID": "NVDLC03DoctorKlein01",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003719",
+      "FORMID": "003719",
+      "EDID": "NVDLC03X13Nightstalker",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003732",
+      "FORMID": "003732",
+      "EDID": "NVDLC03DoctorMobius01",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DA3",
+      "FORMID": "006DA3",
+      "EDID": "NVDLC03X13CrRobobrainArmy",
+      "FULL": "Robocérebro de Teste"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098BA",
+      "FORMID": "0098BA",
+      "EDID": "NVDLC03CrSecuritronBerserk01",
+      "FULL": "Securitron Enlouquecido Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C8E",
+      "FORMID": "009C8E",
+      "EDID": "NVDLC03CrProtectron20",
+      "FULL": "Protectron Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C8F",
+      "FORMID": "009C8F",
+      "EDID": "NVDLC03CrProtectron10",
+      "FULL": "Protectron Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009C90",
+      "FORMID": "009C90",
+      "EDID": "NVDLC03CrProtectron01",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDD",
+      "FORMID": "009CDD",
+      "EDID": "NVDLC03CrCyberDogMilitary10",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDE",
+      "FORMID": "009CDE",
+      "EDID": "NVDLC03CrCyberDogMilitary20",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CDF",
+      "FORMID": "009CDF",
+      "EDID": "NVDLC03CrCyberDogMilitary30",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D3C",
+      "FORMID": "009D3C",
+      "EDID": "NVDLC03CrNightstalker01",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D3D",
+      "FORMID": "009D3D",
+      "EDID": "NVDLC03CrNightstalker10",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009D3E",
+      "FORMID": "009D3E",
+      "EDID": "NVDLC03CrNightstalker20",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009DF1",
+      "FORMID": "009DF1",
+      "EDID": "NVDLC03CrMisterHandyX8",
+      "FULL": "Mr. Handy"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009DF2",
+      "FORMID": "009DF2",
+      "EDID": "NVDLC03CrDogX8",
+      "FULL": "Cachorro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A108",
+      "FORMID": "00A108",
+      "EDID": "NVDLC03CrMisterGutsy01",
+      "FULL": "Mr. Gutsy Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A109",
+      "FORMID": "00A109",
+      "EDID": "NVDLC03CrMisterGutsy20",
+      "FULL": "Mr. Gutsy Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A10A",
+      "FORMID": "00A10A",
+      "EDID": "NVDLC03CrMisterGutsy10",
+      "FULL": "Mr. Gutsy Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A10C",
+      "FORMID": "00A10C",
+      "EDID": "NVDLC03CrMisterHandy01Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A10D",
+      "FORMID": "00A10D",
+      "EDID": "NVDLC03CrMisterHandy10Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A10E",
+      "FORMID": "00A10E",
+      "EDID": "NVDLC03CrMisterHandy20Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A110",
+      "FORMID": "00A110",
+      "EDID": "NVDLC03CrMisterHandyNeutralRespawn",
+      "FULL": "Mr. Handy"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A111",
+      "FORMID": "00A111",
+      "EDID": "NVDLC03CrSentryBot01",
+      "FULL": "Sentinela Robô Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A112",
+      "FORMID": "00A112",
+      "EDID": "NVDLC03CrSentryBot10",
+      "FULL": "Robô Sentinela Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A113",
+      "FORMID": "00A113",
+      "EDID": "NVDLC03CrSentryBot20",
+      "FULL": "Sentinela Robô Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A114",
+      "FORMID": "00A114",
+      "EDID": "NVDLC03CrSecuritronBerserk10",
+      "FULL": "Securitron Berserk Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A115",
+      "FORMID": "00A115",
+      "EDID": "NVDLC03CrSecuritronBerserk20",
+      "FULL": "Securitron Enlouquecido Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A117",
+      "FORMID": "00A117",
+      "EDID": "NVDLC03CrTurretAvg",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A118",
+      "FORMID": "00A118",
+      "EDID": "NVDLC03CrTurretEasy",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A119",
+      "FORMID": "00A119",
+      "EDID": "NVDLC03CrTurretHard",
+      "FULL": "Torreta Mark VI"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11A",
+      "FORMID": "00A11A",
+      "EDID": "NVDLC03CrRobobrain01",
+      "FULL": "Robocérebro Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11B",
+      "FORMID": "00A11B",
+      "EDID": "NVDLC03CrRobobrain10",
+      "FULL": "Robocérebro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11C",
+      "FORMID": "00A11C",
+      "EDID": "NVDLC03CrRobobrain30",
+      "FULL": "Robocérebro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11D",
+      "FORMID": "00A11D",
+      "EDID": "NVDLC03CrRobobrainNeutralRespawn",
+      "FULL": "Robocérebro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A11F",
+      "FORMID": "00A11F",
+      "EDID": "NVDLC03CrCazador01",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A120",
+      "FORMID": "00A120",
+      "EDID": "NVDLC03CrCazador20",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A121",
+      "FORMID": "00A121",
+      "EDID": "NVDLC03CrCazador30",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A122",
+      "FORMID": "00A122",
+      "EDID": "NVDLC03CrRoboScorpion01",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A123",
+      "FORMID": "00A123",
+      "EDID": "NVDLC03CrRoboScorpion10",
+      "FULL": "Robô-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A124",
+      "FORMID": "00A124",
+      "EDID": "NVDLC03CrRoboScorpion20",
+      "FULL": "Robô-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A380",
+      "FORMID": "00A380",
+      "EDID": "NVDLC03CrCyberDogX8Experiment",
+      "FULL": "Roxie"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A381",
+      "FORMID": "00A381",
+      "EDID": "NVDLC03X8ExperimentRobobrain01",
+      "FULL": "Robobrain"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AD04",
+      "FORMID": "00AD04",
+      "EDID": "NVDLC03CrX8CyberDogClassRoom",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00B9C2",
+      "FORMID": "00B9C2",
+      "EDID": "NVDLC03CrSewerRat01Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C129",
+      "FORMID": "00C129",
+      "EDID": "NVDLC03RoboScorpionSmall",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C212",
+      "FORMID": "00C212",
+      "EDID": "NVDLC03X8CrTurretLvl",
+      "FULL": "Monitor do Corredor"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB1C",
+      "FORMID": "00CB1C",
+      "EDID": "NVDLC03CrCazador10",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB1D",
+      "FORMID": "00CB1D",
+      "EDID": "NVDLC03CrCazador40",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB1E",
+      "FORMID": "00CB1E",
+      "EDID": "NVDLC03CrCazador50",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB1F",
+      "FORMID": "00CB1F",
+      "EDID": "NVDLC03CrCyberDogMilitary01",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB20",
+      "FORMID": "00CB20",
+      "EDID": "NVDLC03CrCyberDogMilitary40",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB21",
+      "FORMID": "00CB21",
+      "EDID": "NVDLC03CrCyberDogMilitary50",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB22",
+      "FORMID": "00CB22",
+      "EDID": "NVDLC03CrRoboScorpion30",
+      "FULL": "Robô-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB23",
+      "FORMID": "00CB23",
+      "EDID": "NVDLC03CrRoboScorpion40",
+      "FULL": "Robô-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB24",
+      "FORMID": "00CB24",
+      "EDID": "NVDLC03CrRoboScorpion50",
+      "FULL": "Robô-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB25",
+      "FORMID": "00CB25",
+      "EDID": "NVDLC03CrMisterGutsy30",
+      "FULL": "Mr. Gutsy Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB26",
+      "FORMID": "00CB26",
+      "EDID": "NVDLC03CrMisterGutsy40",
+      "FULL": "Mr. Gutsy Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB27",
+      "FORMID": "00CB27",
+      "EDID": "NVDLC03CrMisterGutsy50",
+      "FULL": "Mr. Gutsy Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB28",
+      "FORMID": "00CB28",
+      "EDID": "NVDLC03CrMisterHandy30Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB29",
+      "FORMID": "00CB29",
+      "EDID": "NVDLC03CrMisterHandy40Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2A",
+      "FORMID": "00CB2A",
+      "EDID": "NVDLC03CrMisterHandy50Respawn",
+      "FULL": "Mr. Handy Enlouquecido"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2B",
+      "FORMID": "00CB2B",
+      "EDID": "NVDLC03CrNightstalker30",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2C",
+      "FORMID": "00CB2C",
+      "EDID": "NVDLC03CrNightstalker40",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2D",
+      "FORMID": "00CB2D",
+      "EDID": "NVDLC03CrNightstalker50",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2E",
+      "FORMID": "00CB2E",
+      "EDID": "NVDLC03CrProtectron30",
+      "FULL": "Protectron Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB2F",
+      "FORMID": "00CB2F",
+      "EDID": "NVDLC03CrProtectron40",
+      "FULL": "Protectron Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB30",
+      "FORMID": "00CB30",
+      "EDID": "NVDLC03CrProtectron50",
+      "FULL": "Protectron Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB31",
+      "FORMID": "00CB31",
+      "EDID": "NVDLC03CrRobobrain20",
+      "FULL": "Robocérebro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB32",
+      "FORMID": "00CB32",
+      "EDID": "NVDLC03CrRobobrain40",
+      "FULL": "Robocérebro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB33",
+      "FORMID": "00CB33",
+      "EDID": "NVDLC03CrRobobrain50",
+      "FULL": "Robocérebro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB34",
+      "FORMID": "00CB34",
+      "EDID": "NVDLC03CrSecuritronBerserk30",
+      "FULL": "Securitron Enlouquecido Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB35",
+      "FORMID": "00CB35",
+      "EDID": "NVDLC03CrSecuritronBerserk40",
+      "FULL": "Securitron Enlouquecido Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB36",
+      "FORMID": "00CB36",
+      "EDID": "NVDLC03CrSecuritronBerserk50",
+      "FULL": "Securitron Enlouquecido Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB37",
+      "FORMID": "00CB37",
+      "EDID": "NVDLC03CrSentryBot30",
+      "FULL": "Robô Sentinela Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB38",
+      "FORMID": "00CB38",
+      "EDID": "NVDLC03CrSentryBot40",
+      "FULL": "Robô Sentinela Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CB39",
+      "FORMID": "00CB39",
+      "EDID": "NVDLC03CrSentryBot50",
+      "FULL": "Robô Sentinela Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D352",
+      "FORMID": "00D352",
+      "EDID": "NVDLC03X8Gabe10",
+      "FULL": "Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D353",
+      "FORMID": "00D353",
+      "EDID": "NVDLC03X8Gabe20",
+      "FULL": "Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D354",
+      "FORMID": "00D354",
+      "EDID": "NVDLC03X8Gabe30",
+      "FULL": "Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D355",
+      "FORMID": "00D355",
+      "EDID": "NVDLC03X8Gabe40",
+      "FULL": "Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D356",
+      "FORMID": "00D356",
+      "EDID": "NVDLC03X8Gabe50",
+      "FULL": "Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D61D",
+      "FORMID": "00D61D",
+      "EDID": "NVDLC03DoctorMobius10",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D61E",
+      "FORMID": "00D61E",
+      "EDID": "NVDLC03DoctorMobius20",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D61F",
+      "FORMID": "00D61F",
+      "EDID": "NVDLC03DoctorMobius30",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D620",
+      "FORMID": "00D620",
+      "EDID": "NVDLC03DoctorMobius40",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D621",
+      "FORMID": "00D621",
+      "EDID": "NVDLC03DoctorMobius50",
+      "FULL": "Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D623",
+      "FORMID": "00D623",
+      "EDID": "NVDLC03DoctorKlein10",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D624",
+      "FORMID": "00D624",
+      "EDID": "NVDLC03DoctorKlein20",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D625",
+      "FORMID": "00D625",
+      "EDID": "NVDLC03DoctorKlein30",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D626",
+      "FORMID": "00D626",
+      "EDID": "NVDLC03DoctorKlein40",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D627",
+      "FORMID": "00D627",
+      "EDID": "NVDLC03DoctorKlein50",
+      "FULL": "Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D95B",
+      "FORMID": "00D95B",
+      "EDID": "NVDLC03SecuritronDead",
+      "FULL": "Securitron Mk I"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DA22",
+      "FORMID": "00DA22",
+      "EDID": "NVDLC03StealthSuitVoiceCr",
+      "FULL": "Traje Furtivo Mk II"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E559",
+      "FORMID": "00E559",
+      "EDID": "NVDLC03RoboScorpionSmallMelee",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E55A",
+      "FORMID": "00E55A",
+      "EDID": "NVDLC03RoboScorpionSmallRanged",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E55B",
+      "FORMID": "00E55B",
+      "EDID": "NVDLC03RoboScorpionSmallSuicide",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E568",
+      "FORMID": "00E568",
+      "EDID": "NVDLC03CrRoboScorpionSuicide50",
+      "FULL": "Bombardeiro Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E569",
+      "FORMID": "00E569",
+      "EDID": "NVDLC03CrRoboScorpionSuicide40",
+      "FULL": "Bombardeiro Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56A",
+      "FORMID": "00E56A",
+      "EDID": "NVDLC03CrRoboScorpionSuicide30",
+      "FULL": "Bombardeiro Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56B",
+      "FORMID": "00E56B",
+      "EDID": "NVDLC03CrRoboScorpionSuicide20",
+      "FULL": "Bombardeiro Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56C",
+      "FORMID": "00E56C",
+      "EDID": "NVDLC03CrRoboScorpionSuicide10",
+      "FULL": "Bombardeiro Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56D",
+      "FORMID": "00E56D",
+      "EDID": "NVDLC03CrRoboScorpionSuicide01",
+      "FULL": "Bombardeiro Robo-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56E",
+      "FORMID": "00E56E",
+      "EDID": "NVDLC03CrRoboScorpionRanged50",
+      "FULL": "Lança-Raio Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E56F",
+      "FORMID": "00E56F",
+      "EDID": "NVDLC03CrRoboScorpionRanged40",
+      "FULL": "Lança-Raios Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E570",
+      "FORMID": "00E570",
+      "EDID": "NVDLC03CrRoboScorpionRanged30",
+      "FULL": "Lança-Raio Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E571",
+      "FORMID": "00E571",
+      "EDID": "NVDLC03CrRoboScorpionRanged20",
+      "FULL": "Lança-Raios Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E572",
+      "FORMID": "00E572",
+      "EDID": "NVDLC03CrRoboScorpionRanged10",
+      "FULL": "Lança-Raio Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E573",
+      "FORMID": "00E573",
+      "EDID": "NVDLC03CrRoboScorpionRanged01",
+      "FULL": "Lança-Raio Robo-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E574",
+      "FORMID": "00E574",
+      "EDID": "NVDLC03CrRoboScorpionMelee50",
+      "FULL": "Pinça de Robo-Escorpião Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E575",
+      "FORMID": "00E575",
+      "EDID": "NVDLC03CrRoboScorpionMelee40",
+      "FULL": "Garra de Robo-Escorpião Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E576",
+      "FORMID": "00E576",
+      "EDID": "NVDLC03CrRoboScorpionMelee30",
+      "FULL": "Pinça de Robo-Escorpião Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E577",
+      "FORMID": "00E577",
+      "EDID": "NVDLC03CrRoboScorpionMelee20",
+      "FULL": "Garra de Robo-Escorpião Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E578",
+      "FORMID": "00E578",
+      "EDID": "NVDLC03CrRoboScorpionMelee10",
+      "FULL": "Pinça de Robo-Escorpião Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E579",
+      "FORMID": "00E579",
+      "EDID": "NVDLC03CrRoboScorpionMelee01",
+      "FULL": "Pinça de Robo-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5D8",
+      "FORMID": "00E5D8",
+      "EDID": "NVDLC03DoctorDala01",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5D9",
+      "FORMID": "00E5D9",
+      "EDID": "NVDLC03DoctorDala10",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DA",
+      "FORMID": "00E5DA",
+      "EDID": "NVDLC03DoctorDala20",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DB",
+      "FORMID": "00E5DB",
+      "EDID": "NVDLC03DoctorDala30",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DC",
+      "FORMID": "00E5DC",
+      "EDID": "NVDLC03DoctorDala40",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DD",
+      "FORMID": "00E5DD",
+      "EDID": "NVDLC03DoctorDala50",
+      "FULL": "Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DE",
+      "FORMID": "00E5DE",
+      "EDID": "NVDLC03DoctorO01",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5DF",
+      "FORMID": "00E5DF",
+      "EDID": "NVDLC03DoctorO10",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5E0",
+      "FORMID": "00E5E0",
+      "EDID": "NVDLC03DoctorO20",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5E1",
+      "FORMID": "00E5E1",
+      "EDID": "NVDLC03DoctorO30",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5E2",
+      "FORMID": "00E5E2",
+      "EDID": "NVDLC03DoctorO40",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5E3",
+      "FORMID": "00E5E3",
+      "EDID": "NVDLC03DoctorO50",
+      "FULL": "Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E616",
+      "FORMID": "00E616",
+      "EDID": "NVDLC03X42Turret",
+      "FULL": "Torreta de Segurança X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6F9",
+      "FORMID": "00E6F9",
+      "EDID": "NVDLC03Muggy",
+      "FULL": "Muggy"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84A",
+      "FORMID": "00E84A",
+      "EDID": "NVDLC03RoboScorpionGiant01",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84B",
+      "FORMID": "00E84B",
+      "EDID": "NVDLC03RoboScorpionGiant10",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84C",
+      "FORMID": "00E84C",
+      "EDID": "NVDLC03RoboScorpionGiant20",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84D",
+      "FORMID": "00E84D",
+      "EDID": "NVDLC03RoboScorpionGiant30",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84E",
+      "FORMID": "00E84E",
+      "EDID": "NVDLC03RoboScorpionGiant40",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E84F",
+      "FORMID": "00E84F",
+      "EDID": "NVDLC03RoboScorpionGiant50",
+      "FULL": "Robo-Escorpião Gigante X-42"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F087",
+      "FORMID": "00F087",
+      "EDID": "NVDLC03CrX8ProtectronTunnel",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F088",
+      "FORMID": "00F088",
+      "EDID": "NVDLC03CrProtectronLvlX8Tunnel",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F47C",
+      "FORMID": "00F47C",
+      "EDID": "NVDLC03DoctorBorous01",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F47D",
+      "FORMID": "00F47D",
+      "EDID": "NVDLC03DoctorBorous10",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F47E",
+      "FORMID": "00F47E",
+      "EDID": "NVDLC03DoctorBorous20",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F47F",
+      "FORMID": "00F47F",
+      "EDID": "NVDLC03DoctorBorous30",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F480",
+      "FORMID": "00F480",
+      "EDID": "NVDLC03DoctorBorous40",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F481",
+      "FORMID": "00F481",
+      "EDID": "NVDLC03DoctorBorous50",
+      "FULL": "Dr. Borous"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F482",
+      "FORMID": "00F482",
+      "EDID": "NVDLC03Doctor801",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F483",
+      "FORMID": "00F483",
+      "EDID": "NVDLC03Doctor810",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F484",
+      "FORMID": "00F484",
+      "EDID": "NVDLC03Doctor820",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F485",
+      "FORMID": "00F485",
+      "EDID": "NVDLC03Doctor830",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F486",
+      "FORMID": "00F486",
+      "EDID": "NVDLC03Doctor840",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F487",
+      "FORMID": "00F487",
+      "EDID": "NVDLC03Doctor850",
+      "FULL": "Dr. Oito"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7B1",
+      "FORMID": "00F7B1",
+      "EDID": "NVDLC03RoboScorpionSmallSuicideTEST",
+      "FULL": "Robô-Escorpião Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F808",
+      "FORMID": "00F808",
+      "EDID": "NVDLC03CrProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104DE",
+      "FORMID": "0104DE",
+      "EDID": "NVDLC03CrCyberDog01TEST",
+      "FULL": "Cibercão"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01143B",
+      "FORMID": "01143B",
+      "EDID": "NVDLC03CrNightstalker10X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01143C",
+      "FORMID": "01143C",
+      "EDID": "NVDLC03CrNightstalker01X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01143E",
+      "FORMID": "01143E",
+      "EDID": "NVDLC03CrNightstalker50X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01143F",
+      "FORMID": "01143F",
+      "EDID": "NVDLC03CrNightstalker40X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011440",
+      "FORMID": "011440",
+      "EDID": "NVDLC03CrNightstalker30X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011441",
+      "FORMID": "011441",
+      "EDID": "NVDLC03CrNightstalker20X13",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0119CB",
+      "FORMID": "0119CB",
+      "EDID": "NVDLC03CrTurretHardX13",
+      "FULL": "Torreta Mark IV"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDA",
+      "FORMID": "011FDA",
+      "EDID": "NVDLC03CrCyberDogPolice01",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDB",
+      "FORMID": "011FDB",
+      "EDID": "NVDLC03CrCyberDogPolice10",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDC",
+      "FORMID": "011FDC",
+      "EDID": "NVDLC03CrCyberDogPolice20",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDD",
+      "FORMID": "011FDD",
+      "EDID": "NVDLC03CrCyberDogPolice30",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDE",
+      "FORMID": "011FDE",
+      "EDID": "NVDLC03CrCyberDogPolice40",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FDF",
+      "FORMID": "011FDF",
+      "EDID": "NVDLC03CrCyberDogPolice50",
+      "FULL": "Cão Cibernético da Polícia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE2",
+      "FORMID": "011FE2",
+      "EDID": "NVDLC03CrProtectronCS01Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE3",
+      "FORMID": "011FE3",
+      "EDID": "NVDLC03CrProtectronCS10Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE4",
+      "FORMID": "011FE4",
+      "EDID": "NVDLC03CrProtectronCS20Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE5",
+      "FORMID": "011FE5",
+      "EDID": "NVDLC03CrProtectronCS30Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE6",
+      "FORMID": "011FE6",
+      "EDID": "NVDLC03CrProtectronCS40Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FE7",
+      "FORMID": "011FE7",
+      "EDID": "NVDLC03CrProtectronCS50Respawn",
+      "FULL": "Drone de Construção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012946",
+      "FORMID": "012946",
+      "EDID": "NVDLC03CrMisterOrderly01Respawn",
+      "FULL": "Senhor Ajudante Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012947",
+      "FORMID": "012947",
+      "EDID": "NVDLC03CrMisterOrderly10Respawn",
+      "FULL": "Senhor Ordeiro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294A",
+      "FORMID": "01294A",
+      "EDID": "NVDLC03CrMisterOrderly20Respawn",
+      "FULL": "Senhor Ordeiro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294B",
+      "FORMID": "01294B",
+      "EDID": "NVDLC03CrMisterOrderly30Respawn",
+      "FULL": "Mister Ordeiro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294C",
+      "FORMID": "01294C",
+      "EDID": "NVDLC03CrMisterOrderly40Respawn",
+      "FULL": "Senhor Ordeiro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01294D",
+      "FORMID": "01294D",
+      "EDID": "NVDLC03CrMisterOrderly50Respawn",
+      "FULL": "Senhor Ordeiro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A1E",
+      "FORMID": "012A1E",
+      "EDID": "NVDLC03CrSporeCarrier01Respawn",
+      "FULL": "Filhote Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A1F",
+      "FORMID": "012A1F",
+      "EDID": "NVDLC03CrSporeCarrier10Respawn",
+      "FULL": "Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A20",
+      "FORMID": "012A20",
+      "EDID": "NVDLC03CrSporeCarrier20Respawn",
+      "FULL": "Bruto Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A21",
+      "FORMID": "012A21",
+      "EDID": "NVDLC03CrSporeCarrier30Respawn",
+      "FULL": "Selvagem Portador de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A22",
+      "FORMID": "012A22",
+      "EDID": "NVDLC03CrSporeCarrier40Respawn",
+      "FULL": "Catador de Esporos Portador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A23",
+      "FORMID": "012A23",
+      "EDID": "NVDLC03CrSporeCarrier50Respawn",
+      "FULL": "Portador de Esporos Alfa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01353A",
+      "FORMID": "01353A",
+      "EDID": "NVDLC03X8NightStalkerExp",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DB",
+      "FORMID": "0136DB",
+      "EDID": "NVDLC03CrRoboScorpion01b",
+      "FULL": "Robô-Escorpião Mk1b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DC",
+      "FORMID": "0136DC",
+      "EDID": "NVDLC03CrRoboScorpion10b",
+      "FULL": "Robô-Escorpião Mk2b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DD",
+      "FORMID": "0136DD",
+      "EDID": "NVDLC03CrRoboScorpion20b",
+      "FULL": "Robô-Escorpião Mk3b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DE",
+      "FORMID": "0136DE",
+      "EDID": "NVDLC03CrRoboScorpion30b",
+      "FULL": "Robô-Escorpião Mk4b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136DF",
+      "FORMID": "0136DF",
+      "EDID": "NVDLC03CrRoboScorpion40b",
+      "FULL": "Robô-Escorpião Mk5b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0136E0",
+      "FORMID": "0136E0",
+      "EDID": "NVDLC03CrRoboScorpion50b",
+      "FULL": "Robô-Escorpião Mk6b"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417A",
+      "FORMID": "01417A",
+      "EDID": "NVDLC03CrSporePlant10Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417B",
+      "FORMID": "01417B",
+      "EDID": "NVDLC03CrSporePlant20Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417C",
+      "FORMID": "01417C",
+      "EDID": "NVDLC03CrSporePlant30Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417D",
+      "FORMID": "01417D",
+      "EDID": "NVDLC03CrSporePlant40Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01417E",
+      "FORMID": "01417E",
+      "EDID": "NVDLC03CrSporePlant50Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014180",
+      "FORMID": "014180",
+      "EDID": "NVDLC03CrSecuritronDamaged01",
+      "FULL": "Securitron Mk1 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014181",
+      "FORMID": "014181",
+      "EDID": "NVDLC03CrSecuritronDamaged10",
+      "FULL": "Securitron Mk2 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014182",
+      "FORMID": "014182",
+      "EDID": "NVDLC03CrSecuritronDamaged20",
+      "FULL": "Securitron Mk3 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014183",
+      "FORMID": "014183",
+      "EDID": "NVDLC03CrSecuritronDamaged30",
+      "FULL": "Securitron Mk4 danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014184",
+      "FORMID": "014184",
+      "EDID": "NVDLC03CrSecuritronDamaged40",
+      "FULL": "Securitron Mk5 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014185",
+      "FORMID": "014185",
+      "EDID": "NVDLC03CrSecuritronDamaged50",
+      "FULL": "Securitron Mk6 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014188",
+      "FORMID": "014188",
+      "EDID": "NVDLC03CrSporePlant01Respawn",
+      "FULL": "Planta de Esporos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141FC",
+      "FORMID": "0141FC",
+      "EDID": "NVDLC03X42Protectron",
+      "FULL": "Drone-alvo Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014240",
+      "FORMID": "014240",
+      "EDID": "NVDLC03CrSecuritronBoss",
+      "FULL": "010011110110111001100101"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01425D",
+      "FORMID": "01425D",
+      "EDID": "NVDLC03CrCazador01Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01425E",
+      "FORMID": "01425E",
+      "EDID": "NVDLC03CrCazador10Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01425F",
+      "FORMID": "01425F",
+      "EDID": "NVDLC03CrCazador20Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014260",
+      "FORMID": "014260",
+      "EDID": "NVDLC03CrCazador30Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014261",
+      "FORMID": "014261",
+      "EDID": "NVDLC03CrCazador40Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014262",
+      "FORMID": "014262",
+      "EDID": "NVDLC03CrCazador50Respawn",
+      "FULL": "Cazador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014263",
+      "FORMID": "014263",
+      "EDID": "NVDLC03CrMisterGutsy01Respawn",
+      "FULL": "Mr. Gutsy Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014264",
+      "FORMID": "014264",
+      "EDID": "NVDLC03CrMisterGutsy10Respawn",
+      "FULL": "Mr. Gutsy Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014265",
+      "FORMID": "014265",
+      "EDID": "NVDLC03CrMisterGutsy20Respawn",
+      "FULL": "Mr. Gutsy Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014266",
+      "FORMID": "014266",
+      "EDID": "NVDLC03CrMisterGutsy30Respawn",
+      "FULL": "Mr. Gutsy Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014267",
+      "FORMID": "014267",
+      "EDID": "NVDLC03CrMisterGutsy50Respawn",
+      "FULL": "Mr. Gutsy Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014268",
+      "FORMID": "014268",
+      "EDID": "NVDLC03CrMisterGutsy40Respawn",
+      "FULL": "Mr. Gutsy Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014269",
+      "FORMID": "014269",
+      "EDID": "NVDLC03CrNightstalker01Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426A",
+      "FORMID": "01426A",
+      "EDID": "NVDLC03CrNightstalker10Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426B",
+      "FORMID": "01426B",
+      "EDID": "NVDLC03CrNightstalker20Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426C",
+      "FORMID": "01426C",
+      "EDID": "NVDLC03CrNightstalker30Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426D",
+      "FORMID": "01426D",
+      "EDID": "NVDLC03CrNightstalker40Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01426E",
+      "FORMID": "01426E",
+      "EDID": "NVDLC03CrNightstalker50Respawn",
+      "FULL": "Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014270",
+      "FORMID": "014270",
+      "EDID": "NVDLC03CrRobobrain01Respawn",
+      "FULL": "Robocérebro Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014271",
+      "FORMID": "014271",
+      "EDID": "NVDLC03CrRobobrain10Respawn",
+      "FULL": "Robocérebro Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014272",
+      "FORMID": "014272",
+      "EDID": "NVDLC03CrRobobrain20Respawn",
+      "FULL": "Robocérebro Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014273",
+      "FORMID": "014273",
+      "EDID": "NVDLC03CrRobobrain30Respawn",
+      "FULL": "Robocérebro Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014274",
+      "FORMID": "014274",
+      "EDID": "NVDLC03CrRobobrain40Respawn",
+      "FULL": "Robocérebro Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014275",
+      "FORMID": "014275",
+      "EDID": "NVDLC03CrRobobrain50Respawn",
+      "FULL": "Robocérebro Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014277",
+      "FORMID": "014277",
+      "EDID": "NVDLC03CrSecuritronBerserk01Respawn",
+      "FULL": "Securitron Enlouquecido Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014278",
+      "FORMID": "014278",
+      "EDID": "NVDLC03CrSecuritronBerserk10Respawn",
+      "FULL": "Securitron Berserk Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014279",
+      "FORMID": "014279",
+      "EDID": "NVDLC03CrSecuritronBerserk20Respawn",
+      "FULL": "Securitron Enlouquecido Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427A",
+      "FORMID": "01427A",
+      "EDID": "NVDLC03CrSecuritronBerserk30Respawn",
+      "FULL": "Securitron Enlouquecido Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427B",
+      "FORMID": "01427B",
+      "EDID": "NVDLC03CrSecuritronBerserk40Respawn",
+      "FULL": "Securitron Enlouquecido Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427C",
+      "FORMID": "01427C",
+      "EDID": "NVDLC03CrSecuritronBerserk50Respawn",
+      "FULL": "Securitron Enlouquecido Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427E",
+      "FORMID": "01427E",
+      "EDID": "NVDLC03CrSecuritronDamaged01Respawn",
+      "FULL": "Securitron Mk1 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01427F",
+      "FORMID": "01427F",
+      "EDID": "NVDLC03CrSecuritronDamaged10Respawn",
+      "FULL": "Securitron Mk2 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014280",
+      "FORMID": "014280",
+      "EDID": "NVDLC03CrSecuritronDamaged20Respawn",
+      "FULL": "Securitron Mk3 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014281",
+      "FORMID": "014281",
+      "EDID": "NVDLC03CrSecuritronDamaged30Respawn",
+      "FULL": "Securitron Mk4 danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014282",
+      "FORMID": "014282",
+      "EDID": "NVDLC03CrSecuritronDamaged40Respawn",
+      "FULL": "Securitron Mk5 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014283",
+      "FORMID": "014283",
+      "EDID": "NVDLC03CrSecuritronDamaged50Respawn",
+      "FULL": "Securitron Mk6 Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014286",
+      "FORMID": "014286",
+      "EDID": "NVDLC03CrSentryBot01Respawn",
+      "FULL": "Sentinela Robô Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014287",
+      "FORMID": "014287",
+      "EDID": "NVDLC03CrSentryBot10Respawn",
+      "FULL": "Robô Sentinela Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014288",
+      "FORMID": "014288",
+      "EDID": "NVDLC03CrSentryBot20Respawn",
+      "FULL": "Sentinela Robô Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014289",
+      "FORMID": "014289",
+      "EDID": "NVDLC03CrSentryBot30Respawn",
+      "FULL": "Robô Sentinela Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428A",
+      "FORMID": "01428A",
+      "EDID": "NVDLC03CrSentryBot40Respawn",
+      "FULL": "Robô Sentinela Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428B",
+      "FORMID": "01428B",
+      "EDID": "NVDLC03CrSentryBot50Respawn",
+      "FULL": "Robô Sentinela Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01428F",
+      "FORMID": "01428F",
+      "EDID": "NVDLC03CrProtectron01Respawn",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014290",
+      "FORMID": "014290",
+      "EDID": "NVDLC03CrProtectron10Respawn",
+      "FULL": "Protectron Mk2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014291",
+      "FORMID": "014291",
+      "EDID": "NVDLC03CrProtectron20Respawn",
+      "FULL": "Protectron Mk3"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014292",
+      "FORMID": "014292",
+      "EDID": "NVDLC03CrProtectron30Respawn",
+      "FULL": "Protectron Mk4"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014293",
+      "FORMID": "014293",
+      "EDID": "NVDLC03CrProtectron40Respawn",
+      "FULL": "Protectron Mk5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014294",
+      "FORMID": "014294",
+      "EDID": "NVDLC03CrProtectron50Respawn",
+      "FULL": "Protectron Mk6"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014308",
+      "FORMID": "014308",
+      "EDID": "NVDLC03CrGiantRatRADS",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01434B",
+      "FORMID": "01434B",
+      "EDID": "NVDLC03X8CrTurretTunnel",
+      "FULL": "Monitor do Corredor"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014452",
+      "FORMID": "014452",
+      "EDID": "NVDLC03CrTurretBoss",
+      "FULL": "Torreta com Overclock"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014453",
+      "FORMID": "014453",
+      "EDID": "NVDLC03CrSporePlantBoss",
+      "FULL": "Dionaea Muscipula"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014454",
+      "FORMID": "014454",
+      "EDID": "NVDLC03CrSporeCarrierBoss",
+      "FULL": "Paciente Zero"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014455",
+      "FORMID": "014455",
+      "EDID": "NVDLC03CrSentryBotBoss",
+      "FULL": "RY-589 Último Bot"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014456",
+      "FORMID": "014456",
+      "EDID": "NVDLC03CrRobobrainBoss",
+      "FULL": "Superego"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014457",
+      "FORMID": "014457",
+      "EDID": "NVDLC03CrProtectronCSBoss",
+      "FULL": "Supervisor de Construção de Drones"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014458",
+      "FORMID": "014458",
+      "EDID": "NVDLC03CrProtectronBoss",
+      "FULL": "O Guardião"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014459",
+      "FORMID": "014459",
+      "EDID": "NVDLC03CrNightstalkerBoss",
+      "FULL": "Shadis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445A",
+      "FORMID": "01445A",
+      "EDID": "NVDLC03CrMisterOrderlyBoss",
+      "FULL": "Dr. Ordeiro MD PHD DDS"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445B",
+      "FORMID": "01445B",
+      "EDID": "NVDLC03CrMisterHandyBoss",
+      "FULL": "Sparks"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445C",
+      "FORMID": "01445C",
+      "EDID": "NVDLC03CrMisterGutsyBoss",
+      "FULL": "Ironbelly"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01445D",
+      "FORMID": "01445D",
+      "EDID": "NVDLC03CrCazadorBoss",
+      "FULL": "Espécime 73"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014659",
+      "FORMID": "014659",
+      "EDID": "NVDLC03X8ExperimentRobobrain02",
+      "FULL": "Robobrain"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01471B",
+      "FORMID": "01471B",
+      "EDID": "NVDLC03CrConstructionProtectron",
+      "FULL": "Protectron"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D8B",
+      "FORMID": "014D8B",
+      "EDID": "NVDLC03CrSewerRat30Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D8C",
+      "FORMID": "014D8C",
+      "EDID": "NVDLC03CrSewerRat40Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D8D",
+      "FORMID": "014D8D",
+      "EDID": "NVDLC03CrSewerRat50Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D8E",
+      "FORMID": "014D8E",
+      "EDID": "NVDLC03CrSewerRat10Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D90",
+      "FORMID": "014D90",
+      "EDID": "NVDLC03CrSewerRat20Respawn",
+      "FULL": "Rato de Esgoto"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015274",
+      "FORMID": "015274",
+      "EDID": "NVDLC03LegendaryBloatfly",
+      "FULL": "Moscão Lendário"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015281",
+      "FORMID": "015281",
+      "EDID": "NVDLC03CrDeathclawBossWW",
+      "FULL": "Stripe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015506",
+      "FORMID": "015506",
+      "EDID": "NVDLC03X8CrProtectronDEAD",
+      "FULL": "Protectron Mk1"
+    },
+    {
+      "FORM": "@FalloutNV.esm:07B235",
+      "FORMID": "07B235",
+      "EDID": "CrTurret01",
+      "FULL": "Torreta Mark II"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F7E",
+      "FORMID": "015F7E",
+      "EDID": "NVDLC03BrainTank",
+      "FULL": "Tanque Cerebral"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141AB",
+      "FORMID": "0141AB",
+      "EDID": "NVDLC03HologramTemplate",
+      "FULL": "Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014DF2",
+      "FORMID": "014DF2",
+      "EDID": "NVDLC03X13CrRobobrain",
+      "FULL": "Robobrain"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015800",
+      "FORMID": "015800",
+      "EDID": "NVDLC03CrCyberDogMilitary01Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015801",
+      "FORMID": "015801",
+      "EDID": "NVDLC03CrCyberDogMilitary20Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015802",
+      "FORMID": "015802",
+      "EDID": "NVDLC03CrCyberDogMilitary30Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015803",
+      "FORMID": "015803",
+      "EDID": "NVDLC03CrCyberDogMilitary40Ranged",
+      "FULL": "Cão Cibernético Militar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015809",
+      "FORMID": "015809",
+      "EDID": "NVDLC03CrCyberDogMilitary50Ranged",
+      "FULL": "Cão Cibernético Militar"
+    }
+  ]
+}

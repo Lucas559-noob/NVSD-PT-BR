@@ -1,0 +1,3148 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@HonestHearts.esm:0119EF",
+      "FORMID": "0119EF",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic060",
+      "FULL": "Me conte um pouco sobre esta área. Alguma vida selvagem interessante?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011504",
+      "FORMID": "011504",
+      "EDID": "NVDLC02FollowsChalkFireForceGreet",
+      "FULL": "< Saudação da Força de Fogo de Segue-Giz >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0112BA",
+      "FORMID": "0112BA",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic005",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0112B9",
+      "FORMID": "0112B9",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic046",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01115C",
+      "FORMID": "01115C",
+      "EDID": "NVDLC02FollowsChalkMuralBark",
+      "FULL": "< Latido do Mural de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01115B",
+      "FORMID": "01115B",
+      "EDID": "NVDLC02FollowsChalkTabooMarksBark",
+      "FULL": "< Marcas de Tabu de Segue-o-Giz Fazem Latir >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0110D1",
+      "FORMID": "0110D1",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic080",
+      "FULL": "Como sabe tanto sobre o que me aconteceu?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010F4D",
+      "FORMID": "010F4D",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic093",
+      "FULL": "Aqui, tome três dos meus pós de cura."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010F4C",
+      "FORMID": "010F4C",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic094",
+      "FULL": "Aqui, pegue cinco dos meus pós de cura."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010F4B",
+      "FORMID": "010F4B",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic095",
+      "FULL": "O que você sabe sobre os White Legs?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010F4A",
+      "FORMID": "010F4A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic049",
+      "FULL": "O que você sabe sobre Sal-Sobre-Feridas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EEF",
+      "FORMID": "010EEF",
+      "EDID": "NVDLC02FollowsChalkYaoGuaiBark",
+      "FULL": "< Latido de Urso-Guará de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D6A",
+      "FORMID": "010D6A",
+      "EDID": "NVDLC02FollowsChalkPostAmbushForceGreet",
+      "FULL": "< Saudação de Follows-Chalk pós-emboscada >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D69",
+      "FORMID": "010D69",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic065",
+      "FULL": "Esquece, tô fora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D68",
+      "FORMID": "010D68",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic064",
+      "FULL": "Se estiver disposto, aceito a ajuda."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D67",
+      "FORMID": "010D67",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic063",
+      "FULL": "White Legs? Foram eles que nos atacaram?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D66",
+      "FORMID": "010D66",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic062",
+      "FULL": "Que lugar é esse \"onde os pequenos caíram?\""
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D65",
+      "FORMID": "010D65",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic058",
+      "FULL": "Por onde devemos começar a procurar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D64",
+      "FORMID": "010D64",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic057",
+      "FULL": "Que lugares tabu?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D63",
+      "FORMID": "010D63",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic056",
+      "FULL": "Alguma ideia de onde começar a procurar esses suprimentos pré-Guerra que o Daniel precisa?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D0C",
+      "FORMID": "010D0C",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic055",
+      "FULL": "Eu conheço esse cara! Eu consegui um emprego pra ele!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D0B",
+      "FORMID": "010D0B",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic039",
+      "FULL": "Hum, acho que conheço esse cara. Que mundo pequeno."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C7D",
+      "FORMID": "010C7D",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic007",
+      "FULL": "Desculpe, não entendi você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C7A",
+      "FORMID": "010C7A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic002",
+      "FULL": "Tenho uns equipamentos que precisam de reparos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C79",
+      "FORMID": "010C79",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic079",
+      "FULL": "Tenho uns equipamentos que precisam de reparos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C42",
+      "FORMID": "010C42",
+      "EDID": "NVDLC02FollowsChalkGuideBark1",
+      "FULL": "<Fala de Guia de Segue-Giz 1>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C41",
+      "FORMID": "010C41",
+      "EDID": "NVDLC02FollowsChalkGuideBark2",
+      "FULL": "<Fala de Guia de Segue-Giz 2>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C40",
+      "FORMID": "010C40",
+      "EDID": "NVDLC02FollowsChalkGuideBark3",
+      "FULL": "<Fala de Guia de Follows-Chalk 3>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3F",
+      "FORMID": "010C3F",
+      "EDID": "NVDLC02FollowsChalkGuideBark4",
+      "FULL": "<Fala do Guia Segue-Giz 4>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3E",
+      "FORMID": "010C3E",
+      "EDID": "NVDLC02FollowsChalkGuideBark5",
+      "FULL": "<Fala do Guia Segue-Giz 5>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3D",
+      "FORMID": "010C3D",
+      "EDID": "NVDLC02FollowsChalkGuideBark6",
+      "FULL": "<Fala do Guia Segue-Giz 6>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3C",
+      "FORMID": "010C3C",
+      "EDID": "NVDLC02FollowsChalkGuideBarkWrongWay",
+      "FULL": "<Falando para o Guia do Segue-Giz na Direção Errada>"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3B",
+      "FORMID": "010C3B",
+      "EDID": "NVDLC02FollowsChalkGuideBark7",
+      "FULL": "< Latido do Guia Segue-Giz 7 >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C3A",
+      "FORMID": "010C3A",
+      "EDID": "NVDLC02FollowsChalkGuideBark8",
+      "FULL": "< Fala do Guia Segue-Giz 8 >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C00",
+      "FORMID": "010C00",
+      "EDID": "NVDLC02WakingCloudSUW",
+      "FULL": "O que você sabe sobre Sal-Nas-Feridas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BCD",
+      "FORMID": "010BCD",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic042",
+      "FULL": "Voto de segredo? Que se foda, esquece essa merda."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BBD",
+      "FORMID": "010BBD",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic006",
+      "FULL": "Cai fora, selvagem. Só quero um mapa pra sair desse buraco de merda, não me curvar ao seu messias."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BBC",
+      "FORMID": "010BBC",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic005",
+      "FULL": "Umm... okay. Obrigado por isso. Eu odiaria que me mostrassem trovão e fogo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BBB",
+      "FORMID": "010BBB",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic004",
+      "FULL": "Então vou me comportar direitinho."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BBA",
+      "FORMID": "010BBA",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic003",
+      "FULL": "Sim, estou procurando por ele. Ele está aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BB9",
+      "FORMID": "010BB9",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic002",
+      "FULL": "Se você é burro demais pra falar a minha língua, é burro demais pra falar comigo. Suma daqui."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BB8",
+      "FORMID": "010BB8",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic001",
+      "FULL": "Eu... estou procurando Joshua? Sim, estou. Sabe onde ele está?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BB7",
+      "FORMID": "010BB7",
+      "EDID": "NVDLC02MQ01NVDLC02DeadHorseEV06Topic000",
+      "FULL": "Hum... o quê?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010BB6",
+      "FORMID": "010BB6",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic013",
+      "FULL": "Já tenho as raízes que você precisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B20",
+      "FORMID": "010B20",
+      "EDID": "NVDLC02FollowsChalkPerkBark",
+      "FULL": "< Latido da Vantagem Segue-Giz >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1F",
+      "FORMID": "010B1F",
+      "EDID": "NVDLC02FollowsChalkVault22Bark",
+      "FULL": "< Segue-Giz Casca da Vault 22 >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1E",
+      "FORMID": "010B1E",
+      "EDID": "NVDLC02FollowsChalkPlaneBark",
+      "FULL": "< Casca de Árvore do Segue-o-Giz >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1D",
+      "FORMID": "010B1D",
+      "EDID": "NVDLC02FollowsChalkBusBark",
+      "FULL": "< Latido do Ônibus de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1C",
+      "FORMID": "010B1C",
+      "EDID": "NVDLC02FollowsChalkAerieBark",
+      "FULL": "< Latido do Aerie de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1B",
+      "FORMID": "010B1B",
+      "EDID": "NVDLC02FollowsChalkOverlookBark",
+      "FULL": "< Latido do Mirante de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B1A",
+      "FORMID": "010B1A",
+      "EDID": "NVDLC02FollowsChalkCampgroundBark",
+      "FULL": "< Latido do Acampamento do Segue-Giz >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B19",
+      "FORMID": "010B19",
+      "EDID": "NVDLC02FollowsChalkAntBurrowBark",
+      "FULL": "< Casca do Formigueiro de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B18",
+      "FORMID": "010B18",
+      "EDID": "NVDLC02FollowsChalkGenericBarks",
+      "FULL": "< Falas Genéricas de Segue-o-Giz >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B17",
+      "FORMID": "010B17",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic015",
+      "FULL": "Quem ou o que é o Fantasma de She?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B16",
+      "FORMID": "010B16",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic023",
+      "FULL": "Me fale sobre o Fantasma de She."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B15",
+      "FORMID": "010B15",
+      "EDID": "NVDLC02WakingCloudTabooBark",
+      "FULL": "< Casca Tabu da Nuvem Desperta >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B14",
+      "FORMID": "010B14",
+      "EDID": "NVDLC02WakingCloudPineCreekBark",
+      "FULL": "< Casca de Pinheiro do Riacho Waking Cloud >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B13",
+      "FORMID": "010B13",
+      "EDID": "NVDLC02WakingCloudVirginBark",
+      "FULL": "< Casca de Álamo-tremedor Oriental da Nuvem Despertar >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B12",
+      "FORMID": "010B12",
+      "EDID": "NVDLC02WakingCloudNarrowsBark",
+      "FULL": "< Casca Estreita de Nuvem Desperta >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B11",
+      "FORMID": "010B11",
+      "EDID": "NVDLC02WakingCloudMarysBark",
+      "FULL": "< Nuvens Acordando Três Marias Latido >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B10",
+      "FORMID": "010B10",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic052",
+      "FULL": "Ele disse que tem dificuldade em ser objetivo sobre a ideia toda e que eu deveria te dar conselhos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0F",
+      "FORMID": "010B0F",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic059",
+      "FULL": "Você deveria ficar aqui com seu povo. Você tem um dever para com eles."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0E",
+      "FORMID": "010B0E",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic061",
+      "FULL": "A civilização não é perfeita, mas a vida tribal também não é. Você deveria ir ver com seus próprios olhos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0D",
+      "FORMID": "010B0D",
+      "EDID": "NVDLC02WakingCloudGhostofSheBark",
+      "FULL": "< Fantasma da Nuvem Desperta Casca Dela >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0C",
+      "FORMID": "010B0C",
+      "EDID": "NVDLC02WakingCloudBurialMoundsBark",
+      "FULL": "< Túmulos Funerários da Nuvem Desperta Casca >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0B",
+      "FORMID": "010B0B",
+      "EDID": "NVDLC02WakingCloudDocksBark",
+      "FULL": "< Latido dos Diques da Nuvem Desperta >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B0A",
+      "FORMID": "010B0A",
+      "EDID": "NVDLC02WakingCloudGenericBarks",
+      "FULL": "< Latidos Genéricos da Nuvem Desperta >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B09",
+      "FORMID": "010B09",
+      "EDID": "NVDLC02MQ05bNVDLC02MQ05bDancingFlameTopic000",
+      "FULL": "Não, eu esmago os White Legs sozinho. Vocês ficam aqui para não morrer."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B08",
+      "FORMID": "010B08",
+      "EDID": "NVDLC02MQ05bNVDLC02MQ05bDancingFlameTopic001",
+      "FULL": "Só vaza daqui, você não é páreo para os guerreiros White Leg experientes."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B07",
+      "FORMID": "010B07",
+      "EDID": "NVDLC02MQ05bNVDLC02MQ05bDancingFlameTopic002",
+      "FULL": "Beleza, mas pelo menos me deixe cuidar disso sozinho. Você não é páreo para os guerreiros Perna Branca experientes."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B06",
+      "FORMID": "010B06",
+      "EDID": "NVDLC02MQ05bNVDLC02MQ05bDancingFlameTopic003",
+      "FULL": "Claro, que seja. A gente vai esmagar os White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010B05",
+      "FORMID": "010B05",
+      "EDID": "NVDLC02MQ05bNVDLC02MQ05bDancingFlameTopic004",
+      "FULL": "Espere aqui alguns minutos. Não faça nenhuma loucura, porra."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010941",
+      "FORMID": "010941",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic045",
+      "FULL": "Eu sei qual é a sua, só isso. Só queria que soubesse."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01074F",
+      "FORMID": "01074F",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic000",
+      "FULL": "Eu conheci o Caesar, sabia? O que acha que ele diria se eu contasse que você está aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01074E",
+      "FORMID": "01074E",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic075",
+      "FULL": "Caesar está morto. Eu mesmo tratei disso. Achei que devia saber."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01074D",
+      "FORMID": "01074D",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic076",
+      "FULL": "Eles não vão. Vou garantir que a Legião tenha muito pouco para levar para casa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01074C",
+      "FORMID": "01074C",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic077",
+      "FULL": "Veremos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01074B",
+      "FORMID": "01074B",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic078",
+      "FULL": "Você não acha que Lanius consegue liderar a Legion?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010738",
+      "FORMID": "010738",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic003",
+      "FULL": "Espera, Joshua! Não!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010737",
+      "FORMID": "010737",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic058",
+      "FULL": "Se o que você acredita for verdade, ele vai pagar por isso mais tarde. Os Sorrows não precisam ver você fazer isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010736",
+      "FORMID": "010736",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic060",
+      "FULL": "Quem é você para decidir isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010735",
+      "FORMID": "010735",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic067",
+      "FULL": "Sabe que isso significa que vou incentivá-lo a ir embora, certo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010734",
+      "FORMID": "010734",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic072",
+      "FULL": "Hum. Ok."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010733",
+      "FORMID": "010733",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic073",
+      "FULL": "Por mim tudo bem. Prefiro o deserto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010732",
+      "FORMID": "010732",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic074",
+      "FULL": "O que você disse sobre um mensageiro? Quem você estava esperando?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01072E",
+      "FORMID": "01072E",
+      "EDID": "NVDLC02DanielFather",
+      "FULL": "O que você sabe sobre o Pai nas Cavernas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01072D",
+      "FORMID": "01072D",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic091",
+      "FULL": "É... talvez devesse conversar com eles. Acham que seu \"Lord\" e o \"Father\" são a mesma pessoa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01072C",
+      "FORMID": "01072C",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic092",
+      "FULL": "Eu tinha outras perguntas para você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010713",
+      "FORMID": "010713",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic055",
+      "FULL": "O que você faz aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010712",
+      "FORMID": "010712",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic065",
+      "FULL": "Você disse que \"costumava\" ajudar os Sorrows com problemas. O que você faz agora?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010711",
+      "FORMID": "010711",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic071",
+      "FULL": "Salvação? De quê, do ermo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010710",
+      "FORMID": "010710",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic072",
+      "FULL": "O que um bispo faz? Ele é seu chefe?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070F",
+      "FORMID": "01070F",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic073",
+      "FULL": "Já aconteceu isso antes, os White Legs atacando outras tribos?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070E",
+      "FORMID": "01070E",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic074",
+      "FULL": "Os White Legs já estão aqui, então qual é o seu plano?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070D",
+      "FORMID": "01070D",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic075",
+      "FULL": "O que aconteceu em New Canaan?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070C",
+      "FORMID": "01070C",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic076",
+      "FULL": "Você era próximo do Mordecai?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070B",
+      "FORMID": "01070B",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic077",
+      "FULL": "Se você não reconhecer seu passado agora, ele voltará para te assombrar mais tarde."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01070A",
+      "FORMID": "01070A",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic078",
+      "FULL": "Só isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010709",
+      "FORMID": "010709",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic079",
+      "FULL": "Interessante."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010708",
+      "FORMID": "010708",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic080",
+      "FULL": "Parece meio absurdo, mesmo para o ermo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010707",
+      "FORMID": "010707",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic081",
+      "FULL": "Por que você não ensina algo útil a eles em vez de encher a cabeça deles com besteiras?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010706",
+      "FORMID": "010706",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic082",
+      "FULL": "Você é o chefe. Se algo estiver te incomodando, pode afetar todos nós."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010705",
+      "FORMID": "010705",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic083",
+      "FULL": "Só estou curioso, é só isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010704",
+      "FORMID": "010704",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic084",
+      "FULL": "Entendo. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010703",
+      "FORMID": "010703",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic085",
+      "FULL": "Eu gostaria de falar com você sobre Mordecai."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010702",
+      "FORMID": "010702",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic086",
+      "FULL": "Por que você não vai me contar sobre o que aconteceu em New Canaan?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010701",
+      "FORMID": "010701",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic087",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010700",
+      "FORMID": "010700",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic088",
+      "FULL": "E você tem o direito de tirá-los de suas terras?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106FF",
+      "FORMID": "0106FF",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic089",
+      "FULL": "É assim que o mundo é. Eles fazem parte dele, quer você goste ou não."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D9",
+      "FORMID": "0106D9",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic034",
+      "FULL": "Joshua arranjou uma alternativa razoável. Por que não ajudá-los a lutar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D8",
+      "FORMID": "0106D8",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic035",
+      "FULL": "Isso faz sentido. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D7",
+      "FORMID": "0106D7",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic036",
+      "FULL": "O uso da violência só leva a mais violência."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D6",
+      "FORMID": "0106D6",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic037",
+      "FULL": "Ela disse que um dos partos dela foi difícil e você a ajudou."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D5",
+      "FORMID": "0106D5",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic038",
+      "FULL": "Você ajudou o resto da família dela a deixar Zion?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D4",
+      "FORMID": "0106D4",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic039",
+      "FULL": "Qual o problema? Aconteceu alguma coisa?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D3",
+      "FORMID": "0106D3",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic040",
+      "FULL": "O... ok, vamos falar sobre outra coisa, então."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D2",
+      "FORMID": "0106D2",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic041",
+      "FULL": "É o marido dela! Você não acha que ela tem o direito de saber?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D1",
+      "FORMID": "0106D1",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic042",
+      "FULL": "Acho que você não deveria esconder isso dela, mas entendo seu ponto. Não vou dizer nada."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106D0",
+      "FORMID": "0106D0",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic043",
+      "FULL": "Se acalma. Não vou contar nada pra ela."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CF",
+      "FORMID": "0106CF",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic044",
+      "FULL": "Você é o novo canaanita que deveria ajudar a liderar essas pessoas, não esconder as coisas delas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CE",
+      "FORMID": "0106CE",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic045",
+      "FULL": "Você não é o cara que manda por aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CD",
+      "FORMID": "0106CD",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic046",
+      "FULL": "Que pena, porque eu vou contar pra ela."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CC",
+      "FORMID": "0106CC",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic047",
+      "FULL": "Tudo bem. Esqueça."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CB",
+      "FORMID": "0106CB",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic048",
+      "FULL": "Preciso de ajuda médica. Pode ajudar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106CA",
+      "FORMID": "0106CA",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic049",
+      "FULL": "Eu tenho um problema com vício."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C9",
+      "FORMID": "0106C9",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic050",
+      "FULL": "Ah, o de sempre. Uns arranhões, queimaduras e ferimentos de bala."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C8",
+      "FORMID": "0106C8",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic051",
+      "FULL": "Doença por radiação."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C7",
+      "FORMID": "0106C7",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic052",
+      "FULL": "Eu preciso de suprimentos médicos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C6",
+      "FORMID": "0106C6",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic053",
+      "FULL": "Sim. Aqui estão 200 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C5",
+      "FORMID": "0106C5",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic054",
+      "FULL": "Hmm. Acho que não tenho 200 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C4",
+      "FORMID": "0106C4",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic056",
+      "FULL": "Aqui estão 150 tampinhas pelo problema."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C3",
+      "FORMID": "0106C3",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic057",
+      "FULL": "Com certeza. 300 tampinhas cobrem isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C2",
+      "FORMID": "0106C2",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic058",
+      "FULL": "Eu posso arcar com as despesas. 600 tampinhas devem cobrir tudo, não é?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C1",
+      "FORMID": "0106C1",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic059",
+      "FULL": "Acho que não tenho 150 tampinhas..."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106C0",
+      "FORMID": "0106C0",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic060",
+      "FULL": "Na verdade, acho que vou ficar bem. Obrigado de qualquer forma."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BF",
+      "FORMID": "0106BF",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic061",
+      "FULL": "Parece que estou um pouco abaixo de 300 tampinhas..."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BE",
+      "FORMID": "0106BE",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic062",
+      "FULL": "Hum... parece que eu não tenho bem 600 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BD",
+      "FORMID": "0106BD",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic063",
+      "FULL": "Aqui estão 300 tampinhas para cobrir as despesas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BC",
+      "FORMID": "0106BC",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic064",
+      "FULL": "Eu não tenho bem 300 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BB",
+      "FORMID": "0106BB",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic066",
+      "FULL": "Estou negociando bens e suprimentos pré-guerra dos Ermos de Mojave. Você também precisa disso, não é?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106BA",
+      "FORMID": "0106BA",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic067",
+      "FULL": "Mas eu tenho... tampinhas. Muitas delas. Deixe-me mostrar todas as minhas belas tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106B9",
+      "FORMID": "0106B9",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic068",
+      "FULL": "A maioria dos Sorrows e Dead Horses estão protegidos. Estou lá fora, levando tiro dos White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106B8",
+      "FORMID": "0106B8",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic069",
+      "FULL": "É, mas tô te ajudando, então... vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0106B7",
+      "FORMID": "0106B7",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic070",
+      "FULL": "Eu entendo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010499",
+      "FORMID": "010499",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic025",
+      "FULL": "Peço desculpas, Daniel. Acho que o estresse me dominou."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010498",
+      "FORMID": "010498",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic026",
+      "FULL": "Desculpa, eu... não queria te insultar nem nada."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010497",
+      "FORMID": "010497",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic027",
+      "FULL": "Beleza."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010496",
+      "FORMID": "010496",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic028",
+      "FULL": "Eu vou pegar o mapa agora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010495",
+      "FORMID": "010495",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic029",
+      "FULL": "Por que você está tão ansioso para evacuar Zion? Você não parece ser pacifista."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010494",
+      "FORMID": "010494",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic030",
+      "FULL": "Isso é muita responsabilidade para assumir."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010493",
+      "FORMID": "010493",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic031",
+      "FULL": "Você está certo em ir embora, mas não acho que deva matar nenhum dos White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010492",
+      "FORMID": "010492",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic032",
+      "FULL": "Se você está disposto a defender os Sorrows, por que não persegue os White Legs?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010491",
+      "FORMID": "010491",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic033",
+      "FULL": "Joshua é um novo canaanita e ele está obviamente disposto a atacar os White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01028E",
+      "FORMID": "01028E",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic019",
+      "FULL": "Eu cheguei com a Caravana Trilhas Felizes. Fomos atacados por tribais. Eu sou o único sobrevivente."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01028D",
+      "FORMID": "01028D",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic020",
+      "FULL": "Ah, hã. Eu só vim andando. Sem problemas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01028C",
+      "FORMID": "01028C",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic021",
+      "FULL": "Quem é você para me fazer perguntas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01028B",
+      "FORMID": "01028B",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic022",
+      "FULL": "Qualquer coisa para ajudar. Farei o que puder."
+    },
+    {
+      "FORM": "@HonestHearts.esm:01028A",
+      "FORMID": "01028A",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic023",
+      "FULL": "Se isso me tirar daqui, claro."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010289",
+      "FORMID": "010289",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic024",
+      "FULL": "Vamos lá. Eu te dei tudo que você precisava. Só me dê essa droga de mapa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0101BC",
+      "FORMID": "0101BC",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic051",
+      "FULL": "Eu tive que matar os Carneiro-Selvagems, mas salvei o filhote."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0101BA",
+      "FORMID": "0101BA",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic026",
+      "FULL": "Deixa pra lá. Continue vivendo a fantasia."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB4A",
+      "FORMID": "00FB4A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic052",
+      "FULL": "Você tem algo para trocar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB49",
+      "FORMID": "00FB49",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic053",
+      "FULL": "Beleza, vou ver de conseguir aqueles suprimentos para o Daniel."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB48",
+      "FORMID": "00FB48",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic054",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB47",
+      "FORMID": "00FB47",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic055",
+      "FULL": "Tenho algumas perguntas para você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB46",
+      "FORMID": "00FB46",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic056",
+      "FULL": "Posso te fazer algumas perguntas pessoais?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB45",
+      "FORMID": "00FB45",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic057",
+      "FULL": "Você sempre esteve com os New Canaanites?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB43",
+      "FORMID": "00FB43",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic059",
+      "FULL": "Para que servem essas bandagens?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB41",
+      "FORMID": "00FB41",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic061",
+      "FULL": "Um daqueles homens era Caesar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB40",
+      "FORMID": "00FB40",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic062",
+      "FULL": "Como você acabou como Legado de Caesar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB3F",
+      "FORMID": "00FB3F",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic063",
+      "FULL": "Como você sobreviveu?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB3E",
+      "FORMID": "00FB3E",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic064",
+      "FULL": "Você está sentindo muita dor? Há algo que eu possa fazer para ajudar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB3D",
+      "FORMID": "00FB3D",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic065",
+      "FULL": "O que você sabe sobre a guerra entre Caesar e a NCR?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB3C",
+      "FORMID": "00FB3C",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic066",
+      "FULL": "O que você acha da NCR?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB3A",
+      "FORMID": "00FB3A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic068",
+      "FULL": "Você sabe sobre o Sr. House?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB39",
+      "FORMID": "00FB39",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic069",
+      "FULL": "Imagino que você não goste muito de Caesar."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB38",
+      "FORMID": "00FB38",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic070",
+      "FULL": "O que tem na Fenda?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB37",
+      "FORMID": "00FB37",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic071",
+      "FULL": "O Divide bloqueou todas as rotas terrestres deles para o norte?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB2F",
+      "FORMID": "00FB2F",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic048",
+      "FULL": "Obrigado pela oferta, mas eu mesmo cuido disso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB2D",
+      "FORMID": "00FB2D",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic050",
+      "FULL": "Eles falam... a nossa língua?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB2C",
+      "FORMID": "00FB2C",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic051",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB21",
+      "FORMID": "00FB21",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic038",
+      "FULL": "Você que manda por aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB20",
+      "FORMID": "00FB20",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic039",
+      "FULL": "O que está acontecendo com todas essas... tribos?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1F",
+      "FORMID": "00FB1F",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic040",
+      "FULL": "Parece um bom negócio."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1E",
+      "FORMID": "00FB1E",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic041",
+      "FULL": "Hum. Se você diz."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1D",
+      "FORMID": "00FB1D",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic042",
+      "FULL": "Ha ha ha! Espera... você não acredita nisso de verdade, né?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1C",
+      "FORMID": "00FB1C",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic043",
+      "FULL": "Você alguma vez \"cai\"?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1B",
+      "FORMID": "00FB1B",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic044",
+      "FULL": "Por que os White Legs atacaram minha caravana?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB1A",
+      "FORMID": "00FB1A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic045",
+      "FULL": "O vale pertence aos Dead Horses?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB19",
+      "FORMID": "00FB19",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic046",
+      "FULL": "Por que eu não vi nenhum Pesar no vale?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB18",
+      "FORMID": "00FB18",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic047",
+      "FULL": "Os novos canaanitas são realmente uma tribo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA0A",
+      "FORMID": "00FA0A",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic021DUPLICATE000",
+      "FULL": "Bem, imagino que você esteja bem puto com alguma coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA09",
+      "FORMID": "00FA09",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic023",
+      "FULL": "Não, e eu não ligo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA08",
+      "FORMID": "00FA08",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic024",
+      "FULL": "Você não quer deixar Zion. Prefere matar até o último dos White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA07",
+      "FORMID": "00FA07",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic025",
+      "FULL": "Essa conversa ficou bem sombria. Que história foi essa de feliz... esmagar os pequenos?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA06",
+      "FORMID": "00FA06",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic026",
+      "FULL": "Por que está falando comigo sobre isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA05",
+      "FORMID": "00FA05",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic027",
+      "FULL": "Não vai me ouvir discordar. Esses White Legs são lixo humano."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA04",
+      "FORMID": "00FA04",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic028",
+      "FULL": "Vou falar com ele sobre isso. Talvez ele possa ser convencido."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA03",
+      "FORMID": "00FA03",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic029",
+      "FULL": "Preciso pensar nisso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA02",
+      "FORMID": "00FA02",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic030",
+      "FULL": "Sim, o que tem que ser feito é tirar essas tribos daqui."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA01",
+      "FORMID": "00FA01",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic031",
+      "FULL": "E que tipo de tribo é essa?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FA00",
+      "FORMID": "00FA00",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic032",
+      "FULL": "Eu faço. Não passam de meros saqueadores, isso quando não são piores."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F9FF",
+      "FORMID": "00F9FF",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic033",
+      "FULL": "Justo, eu acho."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F9FE",
+      "FORMID": "00F9FE",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic034",
+      "FULL": "Hum. Ok."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F9FD",
+      "FORMID": "00F9FD",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic035",
+      "FULL": "Eu não sei se você já percebeu, mas eu não acredito no que você acredita."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F9FC",
+      "FORMID": "00F9FC",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic036",
+      "FULL": "Justo. O que você quer que eu faça a respeito?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F9FB",
+      "FORMID": "00F9FB",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic037",
+      "FULL": "Chega de drama. Eu só quero ir para casa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F930",
+      "FORMID": "00F930",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic048",
+      "FULL": "O que Joshua acha disso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F92F",
+      "FORMID": "00F92F",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic049",
+      "FULL": "Sério? Talvez eu possa falar com ele sobre isso por você. Ser um mediador."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F92E",
+      "FORMID": "00F92E",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic053",
+      "FULL": "<Mentira> Que é um ninho de corrupção e vícios, e o modo de vida dos Dead Horses é superior."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F92D",
+      "FORMID": "00F92D",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic054",
+      "FULL": "<Mentira> Que um homem deve seguir seu coração, não importa aonde o leve."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F928",
+      "FORMID": "00F928",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic021",
+      "FULL": "Follows-Chalk parece interessado em conhecer mais do mundo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F927",
+      "FORMID": "00F927",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic054",
+      "FULL": "<Mentira> Daniel não está evitando falar sobre sua família. Ele só está preocupado com tudo isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F926",
+      "FORMID": "00F926",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic055",
+      "FULL": "Eu poderia falar com ele, talvez ele se abra mais comigo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8E2",
+      "FORMID": "00F8E2",
+      "EDID": "NVDLC02JoshuaMQ04LeaveForceGreetDUPLICATE000",
+      "FULL": "< Joshua Graham diz ao jogador que está procurando outra forma de SUW. >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8E1",
+      "FORMID": "00F8E1",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic020DUPLICATE000",
+      "FULL": "Te vejo do outro lado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8E0",
+      "FORMID": "00F8E0",
+      "EDID": "NVDLC02JoshuaMQ05ForceGreetDUPLICATE000",
+      "FULL": "< NVDLC02MQ05 Apresentação Forçada Intro >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8DE",
+      "FORMID": "00F8DE",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic047DUPLICATE000",
+      "FULL": "Problema com a vida selvagem? Que tipo de vida selvagem?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8DD",
+      "FORMID": "00F8DD",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic051DUPLICATE000",
+      "FULL": "Alguma ideia do que ele quer?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8DC",
+      "FORMID": "00F8DC",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic052DUPLICATE000",
+      "FULL": "Certo, eu falo com ele."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8DB",
+      "FORMID": "00F8DB",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic053DUPLICATE000",
+      "FULL": "Talvez mais tarde, se tiver tempo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8B2",
+      "FORMID": "00F8B2",
+      "EDID": "NVDLC02JoshuaMQ04LeaveForceGreet",
+      "FULL": "< Joshua Graham diz ao jogador que está procurando outra forma de SUW. >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8B1",
+      "FORMID": "00F8B1",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic020",
+      "FULL": "Te vejo do outro lado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8B0",
+      "FORMID": "00F8B0",
+      "EDID": "NVDLC02JoshuaMQ05ForceGreet",
+      "FULL": "< NVDLC02MQ05 Apresentação Forçada Intro >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AF",
+      "FORMID": "00F8AF",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic022",
+      "FULL": "Certo, vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AE",
+      "FORMID": "00F8AE",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic047",
+      "FULL": "Problema com a vida selvagem? Que tipo de vida selvagem?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AD",
+      "FORMID": "00F8AD",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic051",
+      "FULL": "Alguma ideia do que ele quer?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AC",
+      "FORMID": "00F8AC",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic052",
+      "FULL": "Certo, eu falo com ele."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AB",
+      "FORMID": "00F8AB",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic053",
+      "FULL": "Talvez mais tarde, se tiver tempo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F858",
+      "FORMID": "00F858",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic049",
+      "FULL": "Gosto da sua luva de urso. Onde consigo uma?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F857",
+      "FORMID": "00F857",
+      "EDID": "NVDLC02FollowsChalkPineCreekBark",
+      "FULL": "< Casca de Pinheiro de Pine Creek >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F856",
+      "FORMID": "00F856",
+      "EDID": "NVDLC02FollowsChalkVirginBark",
+      "FULL": "< Segue Chalk Eastern Virgin Bark >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F71A",
+      "FORMID": "00F71A",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic018",
+      "FULL": "Me diga sobre a família de Waking Cloud."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D5",
+      "FORMID": "00F6D5",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic044",
+      "FULL": "Você tem uma ideia engraçada de como é a Mojave, mas eu vou com você e ver seu chefe."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D4",
+      "FORMID": "00F6D4",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic045",
+      "FULL": "Espera, o quê? New Canaan foi dizimada? Como?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D3",
+      "FORMID": "00F6D3",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic046",
+      "FULL": "De onde eles vêm?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D2",
+      "FORMID": "00F6D2",
+      "EDID": "NVDLC02FollowsChalkMarysBark",
+      "FULL": "< Follows-Chalk Três Marias Cão >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D1",
+      "FORMID": "00F6D1",
+      "EDID": "NVDLC02FollowsChalkNarrowsBark",
+      "FULL": "< Segue o Latido de Chalk Narrows >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6D0",
+      "FORMID": "00F6D0",
+      "EDID": "NVDLC02FollowsChalkTabooBark",
+      "FULL": "< Rosnado da Área Tabu de Follows-Chalk >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6CF",
+      "FORMID": "00F6CF",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic050",
+      "FULL": "Qual é essa obsessão que você parece ter com \"civilização\"?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6CC",
+      "FORMID": "00F6CC",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic050",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6CB",
+      "FORMID": "00F6CB",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic000",
+      "FULL": "Espera aí, e se eu não quiser fazer nada disso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6CA",
+      "FORMID": "00F6CA",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic007",
+      "FULL": "Okay, então. Acho que eu só... vou indo, então."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6C9",
+      "FORMID": "00F6C9",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic009",
+      "FULL": "Velho maluco. Não vou fazer nada por você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6C8",
+      "FORMID": "00F6C8",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic012",
+      "FULL": "Certo, então... Acho que... Acho que não tenho mais perguntas, afinal."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6C7",
+      "FORMID": "00F6C7",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic014",
+      "FULL": "Hum... me conte sobre essa jornada de visão de novo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5D1",
+      "FORMID": "00F5D1",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic002",
+      "FULL": "Você faz alguma coisa por aqui, além de falar demais?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5D0",
+      "FORMID": "00F5D0",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic004",
+      "FULL": "\"Deadeye\", hein? Como você ganhou esse apelido?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CF",
+      "FORMID": "00F5CF",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic005",
+      "FULL": "Que história e tanta."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CE",
+      "FORMID": "00F5CE",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic006",
+      "FULL": "Teste de Sobrevivência sobre \"Deathjaws\""
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CD",
+      "FORMID": "00F5CD",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic000",
+      "FULL": "Você está dizendo que matou um Paladino da Irmandade do Aço?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CC",
+      "FORMID": "00F5CC",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic001",
+      "FULL": "Por favor, continue. Isso promete ser divertido."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CB",
+      "FORMID": "00F5CB",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic003",
+      "FULL": "Teste de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5CA",
+      "FORMID": "00F5CA",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic007",
+      "FULL": "Que monte de merda. As fendas oculares da armadura de combate T-series são à prova de balas!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C9",
+      "FORMID": "00F5C9",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic008",
+      "FULL": "Você tem alguma outra perícia ou capacidade especial?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C8",
+      "FORMID": "00F5C8",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic009",
+      "FULL": "Viúva Negra"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C7",
+      "FORMID": "00F5C7",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic010",
+      "FULL": "Armas de Fogo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C6",
+      "FORMID": "00F5C6",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic011",
+      "FULL": "Eca. Acho que vou deixar passar."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C5",
+      "FORMID": "00F5C5",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic012",
+      "FULL": "Vejo que você está usando um Pip-Boy e um macacão de Vault."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C4",
+      "FORMID": "00F5C4",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic013",
+      "FULL": "Teste de Medicina."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C3",
+      "FORMID": "00F5C3",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic014",
+      "FULL": "{Teste de Troca} por equipamento extra."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C2",
+      "FORMID": "00F5C2",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic015",
+      "FULL": "Quanto Psycho você tem escondido? Se acabar na trilha... a abstinência não é nada agradável."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C1",
+      "FORMID": "00F5C1",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic016",
+      "FULL": "Tenho Psycho para vender, mas não vai sair barato."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5C0",
+      "FORMID": "00F5C0",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic017",
+      "FULL": "Posso te vender uma dose de Fixer, mas não vai sair barato."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BF",
+      "FORMID": "00F5BF",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic018",
+      "FULL": "É, some daqui. Antes que a abstinência te pegue na estrada, sem Psycho por perto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BE",
+      "FORMID": "00F5BE",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic019",
+      "FULL": "Uma porrada por 30 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BD",
+      "FORMID": "00F5BD",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic020",
+      "FULL": "Duas doses por 60 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BC",
+      "FORMID": "00F5BC",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic021",
+      "FULL": "Três socos por 90 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BB",
+      "FORMID": "00F5BB",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic022",
+      "FULL": "Cinco doses por 150 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5BA",
+      "FORMID": "00F5BA",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic023",
+      "FULL": "Dez acertos por 300 tampinhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B9",
+      "FORMID": "00F5B9",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic024",
+      "FULL": "80 chapas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B8",
+      "FORMID": "00F5B8",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic025",
+      "FULL": "Deixa pra lá. O problema é seu, não meu."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B6",
+      "FORMID": "00F5B6",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic027",
+      "FULL": "Eu te dou 100 tampinhas pra garantir que o Jed deixe eu carregar mais equipamento."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B5",
+      "FORMID": "00F5B5",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic028",
+      "FULL": "Eu te dou 75 tampinhas pra garantir que o Jed deixe eu carregar mais equipamento."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B4",
+      "FORMID": "00F5B4",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic029",
+      "FULL": "Dou 50 tampinhas para garantir que Jed me deixe carregar mais equipamento."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B3",
+      "FORMID": "00F5B3",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic030",
+      "FULL": "Deixa pra lá, não quero gastar minhas tampinhas com isso agora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B2",
+      "FORMID": "00F5B2",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic031",
+      "FULL": "Onde você conseguiu o traje de Vault?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B1",
+      "FORMID": "00F5B1",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic032",
+      "FULL": "Para que você usa o seu Pip-Boy?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5B0",
+      "FORMID": "00F5B0",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic033",
+      "FULL": "Onde fica o Vault 22?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AF",
+      "FORMID": "00F5AF",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic034",
+      "FULL": "Ouvi falar de umas coisas estranhas acontecendo no Vault 22. Sabe de algum detalhe?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AE",
+      "FORMID": "00F5AE",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic035",
+      "FULL": "Você está mentindo. Eu estive no Vault 22. Ninguém vive lá há 150 anos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AD",
+      "FORMID": "00F5AD",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic036",
+      "FULL": "Percebeu que eu também estou usando um Pip-Boy?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AC",
+      "FORMID": "00F5AC",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic037",
+      "FULL": "Oratória"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AB",
+      "FORMID": "00F5AB",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic038",
+      "FULL": "Ciência"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5AA",
+      "FORMID": "00F5AA",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic039",
+      "FULL": "Eu sou convincente, você não. Ele vai acreditar em mim."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5A9",
+      "FORMID": "00F5A9",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic040",
+      "FULL": "O que eu quero é que você vaze. Essa expedição não precisa de você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5A8",
+      "FORMID": "00F5A8",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic041",
+      "FULL": "Carregue um pouco do meu equipamento, e eu fico de boca fechada."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5A6",
+      "FORMID": "00F5A6",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic043",
+      "FULL": "Teste de PER."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F5A5",
+      "FORMID": "00F5A5",
+      "EDID": "NVDLC02DialogueRickyNVDLC02RickyTopic044",
+      "FULL": "Teste de PER."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4D4",
+      "FORMID": "00F4D4",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic005",
+      "FULL": "Eu vim aqui com a Companhia de Caravana Trilhas Felizes para entrar em contato com os New Canaanites."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4D3",
+      "FORMID": "00F4D3",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic009",
+      "FULL": "Como eu saio daqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4D2",
+      "FORMID": "00F4D2",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic010",
+      "FULL": "Rezar? Deus? Do que você está falando?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4D1",
+      "FORMID": "00F4D1",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic011",
+      "FULL": "Boas armas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4D0",
+      "FORMID": "00F4D0",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic012",
+      "FULL": "Não vou partir sem oferecer ajuda. O que posso fazer?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CF",
+      "FORMID": "00F4CF",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic013",
+      "FULL": "Não tente me fazer te ajudar. Não estou interessado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CE",
+      "FORMID": "00F4CE",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic014",
+      "FULL": "Que tal eu ir atrás do querido Daniel e arrancar a informação dele?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CD",
+      "FORMID": "00F4CD",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic015",
+      "FULL": "Por que você ou Daniel não fazem isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CC",
+      "FORMID": "00F4CC",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic016",
+      "FULL": "Tabu?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CB",
+      "FORMID": "00F4CB",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic017",
+      "FULL": "Vou ver o que posso fazer."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4CA",
+      "FORMID": "00F4CA",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic018",
+      "FULL": "Desculpe, mas não vou sair numa caça ao tesouro para você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4C9",
+      "FORMID": "00F4C9",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic019",
+      "FULL": "Tudo bem. Do que você precisa?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F416",
+      "FORMID": "00F416",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic000",
+      "FULL": "O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F415",
+      "FORMID": "00F415",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic001",
+      "FULL": "Como foi crescer em New Reno?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F414",
+      "FORMID": "00F414",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic002",
+      "FULL": "Me fale sobre Caliente."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F413",
+      "FORMID": "00F413",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic003",
+      "FULL": "Os anos 80 eram uma gangue ou uma tribo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F412",
+      "FORMID": "00F412",
+      "EDID": "NVDLC02DialogueStellaNVDLC02StellaTopic004",
+      "FULL": "O que você sabe sobre os White Legs?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F3EF",
+      "FORMID": "00F3EF",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic043",
+      "FULL": "O que você sugere que eu faça em vez disso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F3EE",
+      "FORMID": "00F3EE",
+      "EDID": "NVDLC02FollowsChalkTreeTrunk",
+      "FULL": "< Follows-Chalk latir sobre contêineres de tronco de árvore >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2FF",
+      "FORMID": "00F2FF",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic047",
+      "FULL": "Parece bom. Vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2FE",
+      "FORMID": "00F2FE",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic048",
+      "FULL": "Prefiro viajar sozinho, obrigado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2A5",
+      "FORMID": "00F2A5",
+      "EDID": "NVDLC02JoshuaMQ04ForceGreet1",
+      "FULL": "< NVDLC02MQ04 Apresentação Forçada Intro >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2A4",
+      "FORMID": "00F2A4",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic004",
+      "FULL": "Bora nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2A3",
+      "FORMID": "00F2A3",
+      "EDID": "NVDLC02DialogueSaltUponWoundsTopic000",
+      "FULL": "Uau. Não foi pra isso que eu me candidatei. Deixa eu falar com Joshua sobre isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2A2",
+      "FORMID": "00F2A2",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic003",
+      "FULL": "Você tem razão. Vamos te matar, mas não desse jeito. Se defenda!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2A1",
+      "FORMID": "00F2A1",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic008",
+      "FULL": "Que seja. Joshua, manda bala no General Bla-blá-blá aqui."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F29F",
+      "FORMID": "00F29F",
+      "EDID": "NVDLC02JoshuaMQ04Finale",
+      "FULL": "< NVDLC02MQ04 Encontro Final Forçado >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F29E",
+      "FORMID": "00F29E",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic006",
+      "FULL": "Joshua, você já venceu. Olhe à sua volta. Não precisa matá-lo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F29D",
+      "FORMID": "00F29D",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic007",
+      "FULL": "Deixe que ele mantenha a dignidade. Dê a ele uma chance de lutar."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F29C",
+      "FORMID": "00F29C",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic008",
+      "FULL": "Sem objeções."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F18C",
+      "FORMID": "00F18C",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic026",
+      "FULL": "Que se dane. Vamos logo. Tô pronto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F18A",
+      "FORMID": "00F18A",
+      "EDID": "NVDLC02FollowsChalkVirginGreeting",
+      "FULL": "< Follows Chalk cumprimenta o jogador em Eastern Virgin. >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F189",
+      "FORMID": "00F189",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic033",
+      "FULL": "Que lugar é este?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F188",
+      "FORMID": "00F188",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic034",
+      "FULL": "Quem é você?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F187",
+      "FORMID": "00F187",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic035",
+      "FULL": "Espera aí, quero saber mais sobre o que está rolando."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F186",
+      "FORMID": "00F186",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic036",
+      "FULL": "Beleza, eu vou falar com ele."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F185",
+      "FORMID": "00F185",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic037",
+      "FULL": "Eu não tinha motivo para ficar para aquela briga."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F184",
+      "FORMID": "00F184",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic038",
+      "FULL": "White Legs? Quem são eles?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F182",
+      "FORMID": "00F182",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic040",
+      "FULL": "Quem é esse Joshua?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F181",
+      "FORMID": "00F181",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic041",
+      "FULL": "Eu podia usar um guia. Vamos lá."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F180",
+      "FORMID": "00F180",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic042",
+      "FULL": "De jeito nenhum, camarada. Não vou perambular pelo deserto com um bárbaro que não usa calças."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EF04",
+      "FORMID": "00EF04",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic030",
+      "FULL": "Tem certeza? Você tem sido um(a) companheiro(a) útil até agora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EF03",
+      "FORMID": "00EF03",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic031",
+      "FULL": "Mande lembranças minhas a Joshua, então."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EF02",
+      "FORMID": "00EF02",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic032",
+      "FULL": "Típico. Quando eu finalmente consigo um capanga útil..."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EE5E",
+      "FORMID": "00EE5E",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic026",
+      "FULL": "O que aconteceu com ele?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EE5D",
+      "FORMID": "00EE5D",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic027",
+      "FULL": "A única guerra recente que eu conheço é quando a Legião de Caesar atacou a Represa Hoover. Foi lá que ele lutou?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EE5C",
+      "FORMID": "00EE5C",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic028",
+      "FULL": "Pequeno? Já viu a Represa Hoover? É maior que algumas dessas montanhas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00EE5B",
+      "FORMID": "00EE5B",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic029",
+      "FULL": "Você se surpreenderia com o que tribos \"civilizadas\" brigam."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E8F9",
+      "FORMID": "00E8F9",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic025",
+      "FULL": "Certo, vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E733",
+      "FORMID": "00E733",
+      "EDID": "NVDLC02WakingCloudCamps",
+      "FULL": "< Waking Cloud fala sobre os Acampamentos da White Leg >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E732",
+      "FORMID": "00E732",
+      "EDID": "NVDLC02WakingCloudTraps",
+      "FULL": "< Nuvem Desperta fala sobre os sapadores \/ armadilhas >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E731",
+      "FORMID": "00E731",
+      "EDID": "NVDLC02WakingCloudYaoGuai",
+      "FULL": "< Nuvem Desperta fala sobre os Yao Guai >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E730",
+      "FORMID": "00E730",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic028",
+      "FULL": "Algum conselho de como lidar com a situação?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E72F",
+      "FORMID": "00E72F",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic029",
+      "FULL": "Então os totens são sagrados para eles de alguma forma? Bom saber."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E72E",
+      "FORMID": "00E72E",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic030",
+      "FULL": "Certo, vamos descer lá e cuidar do serviço."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E72C",
+      "FORMID": "00E72C",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic032",
+      "FULL": "O que devemos fazer a respeito?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E72B",
+      "FORMID": "00E72B",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic033",
+      "FULL": "Essas armadilhas devem ter vindo de algum lugar. Aposto que os White Legs que as colocaram ainda estão por perto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E729",
+      "FORMID": "00E729",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic035",
+      "FULL": "Então vamos cuidar disso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E728",
+      "FORMID": "00E728",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic036",
+      "FULL": "O que você propõe?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E727",
+      "FORMID": "00E727",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic037",
+      "FULL": "Grande coisa, já matei piores."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E726",
+      "FORMID": "00E726",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic038",
+      "FULL": "É melhor a gente ir trabalhar, então."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E725",
+      "FORMID": "00E725",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic039",
+      "FULL": "Vou avisar o Daniel para trazer uns petiscos de bicho-urso-monstro, então."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E724",
+      "FORMID": "00E724",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic040",
+      "FULL": "Como faríamos isso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E723",
+      "FORMID": "00E723",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic041",
+      "FULL": "< Waking Cloud fala sobre a caverna do Sobrevivencialista >"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E722",
+      "FORMID": "00E722",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic042",
+      "FULL": "Do que você está falando?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E721",
+      "FORMID": "00E721",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic043",
+      "FULL": "Não tenho tempo para suas superstições religiosas. É só uma caverna, só isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E720",
+      "FORMID": "00E720",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic044",
+      "FULL": "Ira sagrada. Beleza. Vou ficar de olho nisso. Aposto que se parece muito com uma armadilha de urso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E71F",
+      "FORMID": "00E71F",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic045",
+      "FULL": "O Pai nas Cavernas era só um homem que viveu há muito tempo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E71E",
+      "FORMID": "00E71E",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic046",
+      "FULL": "Entendo. Respeitarei suas crenças, então, mas precisamos revistar a caverna."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD3F",
+      "FORMID": "00DD3F",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic025",
+      "FULL": "É só por agora, mas eu volto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DD3E",
+      "FORMID": "00DD3E",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic016",
+      "FULL": "Falamos mais tarde."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DAA6",
+      "FORMID": "00DAA6",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic022",
+      "FULL": "Receio que sim. Daniel escondeu isso de você porque achou que o sofrimento iria te distrair."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DAA3",
+      "FORMID": "00DAA3",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic025",
+      "FULL": "Ele só estava fazendo o que achava ser o melhor para a tribo. Não foi uma escolha fácil para ele."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DAA2",
+      "FORMID": "00DAA2",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic026",
+      "FULL": "Concordo. Foi arrogante e cruel... não é exatamente o tipo de coisa que um amigo faria."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DAA1",
+      "FORMID": "00DAA1",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic027",
+      "FULL": "Você tem razão. E agora, o que vai fazer a respeito?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA2E",
+      "FORMID": "00DA2E",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic014",
+      "FULL": "Livros sagrados?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA2D",
+      "FORMID": "00DA2D",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic015",
+      "FULL": "Você o conhece há muito tempo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA2C",
+      "FORMID": "00DA2C",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic016",
+      "FULL": "Parteira? Não vi nenhuma criança por perto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA2B",
+      "FORMID": "00DA2B",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic017",
+      "FULL": "O que você faz quando não está entregando bebês?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA2A",
+      "FORMID": "00DA2A",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic018",
+      "FULL": "Seguros? Onde estão?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA29",
+      "FORMID": "00DA29",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic019",
+      "FULL": "Sobre seu marido... receio que ele tenha sido morto pelos White Legs durante a evacuação."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA28",
+      "FORMID": "00DA28",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic020",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DA27",
+      "FORMID": "00DA27",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic021",
+      "FULL": "Era só isso que eu queria saber por agora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D923",
+      "FORMID": "00D923",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic000",
+      "FULL": "Nada mais. Falo com você mais tarde."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D68F",
+      "FORMID": "00D68F",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic005",
+      "FULL": "Qual é a sua?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D68E",
+      "FORMID": "00D68E",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic006",
+      "FULL": "Me diga algo sobre este Daniel. Quem é ele?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D68D",
+      "FORMID": "00D68D",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic007",
+      "FULL": "Quem ou o que é o Pai na Caverna?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D68C",
+      "FORMID": "00D68C",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic008",
+      "FULL": "Conte-me mais sobre sua tribo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D68B",
+      "FORMID": "00D68B",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic009",
+      "FULL": "Você tem família?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D689",
+      "FORMID": "00D689",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic011",
+      "FULL": "Espera, você acha que o sobrevivencialista é... Deus?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D688",
+      "FORMID": "00D688",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic012",
+      "FULL": "Isso não soa como o que eu ouvi sobre os New Canaanites..."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D687",
+      "FORMID": "00D687",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic013",
+      "FULL": "Entendo. Fascinante."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCBC",
+      "FORMID": "15BCBC",
+      "EDID": "Poisoned",
+      "FULL": "Veneno"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCBA",
+      "FORMID": "15BCBA",
+      "EDID": "OnFire",
+      "FULL": "Em Chamas"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB9",
+      "FORMID": "15BCB9",
+      "EDID": "Regenerating",
+      "FULL": "Regenerando"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB8",
+      "FORMID": "15BCB8",
+      "EDID": "KnockedBack",
+      "FULL": "Recuado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB7",
+      "FORMID": "15BCB7",
+      "EDID": "KOed",
+      "FULL": "Nocauteado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB6",
+      "FORMID": "15BCB6",
+      "EDID": "Crippled",
+      "FULL": "Aleijado"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB5",
+      "FORMID": "15BCB5",
+      "EDID": "UsedDoctorBag",
+      "FULL": "Maleta de Médico Usada"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB4",
+      "FORMID": "15BCB4",
+      "EDID": "NoAmmo",
+      "FULL": "Sem Munição"
+    },
+    {
+      "FORM": "@FalloutNV.esm:15BCB0",
+      "FORMID": "15BCB0",
+      "EDID": "Wake",
+      "FULL": "Acordar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCD",
+      "FORMID": "11EBCD",
+      "EDID": "FollowersTacticsCombatAggressive",
+      "FULL": "Quero que você ataque os inimigos assim que os vir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCC",
+      "FORMID": "11EBCC",
+      "EDID": "FollowersTacticsCombatPassive",
+      "FULL": "Quero que você não ataque os inimigos a menos que eu já os tenha enfrentado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03F",
+      "FORMID": "0BD03F",
+      "EDID": "FollowersFiredYes",
+      "FULL": "Sim, tenho certeza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03E",
+      "FORMID": "0BD03E",
+      "EDID": "FollowersFiredNo",
+      "FULL": "Pensando bem, fique comigo por mais um tempo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037084",
+      "FORMID": "037084",
+      "EDID": "FollowersHired",
+      "FULL": "Acho que deveríamos viajar juntos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037083",
+      "FORMID": "037083",
+      "EDID": "FollowersFired",
+      "FULL": "É hora de nos separarmos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037082",
+      "FORMID": "037082",
+      "EDID": "FollowersLetsGo",
+      "FULL": "Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707F",
+      "FORMID": "03707F",
+      "EDID": "FollowersTactics",
+      "FULL": "Vamos falar sobre suas táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707E",
+      "FORMID": "03707E",
+      "EDID": "FollowersTacticsCombat",
+      "FULL": "Quero que você mude seu estilo de combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707D",
+      "FORMID": "03707D",
+      "EDID": "FollowersTacticsCombatGOODBYE",
+      "FULL": "É isso. Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707C",
+      "FORMID": "03707C",
+      "EDID": "FollowersTacticsCombatEND",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707B",
+      "FORMID": "03707B",
+      "EDID": "FollowersTacticsCombatMelee",
+      "FULL": "Mude para uma arma de combate corpo a corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707A",
+      "FORMID": "03707A",
+      "EDID": "FollowersTacticsCombatRanged",
+      "FULL": "Quero que você use armas de ataque à distância."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037079",
+      "FORMID": "037079",
+      "EDID": "FollowersTacticsDistance",
+      "FULL": "Vamos falar sobre o quão perto você está me seguindo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037078",
+      "FORMID": "037078",
+      "EDID": "FollowersTacticsDistanceClose",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037077",
+      "FORMID": "037077",
+      "EDID": "FollowersTacticsDistanceDefault",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037076",
+      "FORMID": "037076",
+      "EDID": "FollowersTacticsDistanceEND",
+      "FULL": "Sua distância está boa. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037075",
+      "FORMID": "037075",
+      "EDID": "FollowersTacticsDistanceGOODBYE",
+      "FULL": "Tudo bem, você está bem. Vamos sair daqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037074",
+      "FORMID": "037074",
+      "EDID": "FollowersTacticsDistanceLong",
+      "FULL": "Mantenha distância. Tente flanqueá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037073",
+      "FORMID": "037073",
+      "EDID": "FollowersTacticsEnd",
+      "FULL": "Chega de táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037072",
+      "FORMID": "037072",
+      "EDID": "FollowersTrade",
+      "FULL": "Vamos trocar equipamentos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037071",
+      "FORMID": "037071",
+      "EDID": "FollowersWait",
+      "FULL": "Espere aqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000F2",
+      "FORMID": "0000F2",
+      "EDID": "GuardTrespass",
+      "FULL": "Intrusão do Guarda"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EC",
+      "FORMID": "0000EC",
+      "EDID": "FireExplosive",
+      "FULL": "Explosivo de Fogo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E6",
+      "FORMID": "0000E6",
+      "EDID": "PowerAttack",
+      "FULL": "Ataque Poderoso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E5",
+      "FORMID": "0000E5",
+      "EDID": "Murder",
+      "FULL": "Assassinato"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Ataque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Acertar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD40",
+      "FORMID": "00BD40",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic010",
+      "FULL": "Que tatuagens são essas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3F",
+      "FORMID": "00BD3F",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic011",
+      "FULL": "Me conte sobre sua tribo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3E",
+      "FORMID": "00BD3E",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic012",
+      "FULL": "O que o Joshua fez por você?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3D",
+      "FORMID": "00BD3D",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic013",
+      "FULL": "Você se lembra de alguma coisa sobre Joshua antes dele se tornar seu líder?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3C",
+      "FORMID": "00BD3C",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic015",
+      "FULL": "O que você sabe sobre os New Canaanites?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3B",
+      "FORMID": "00BD3B",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic016",
+      "FULL": "O que tem as cápsulas de balas no seu clube?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD3A",
+      "FORMID": "00BD3A",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic023",
+      "FULL": "Por que é tão importante lutarmos contra os White Legs?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00BD39",
+      "FORMID": "00BD39",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic024",
+      "FULL": "Espera, e o Caesar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B8C1",
+      "FORMID": "00B8C1",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic007",
+      "FULL": "Quem é esse Joshua?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B8C0",
+      "FORMID": "00B8C0",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic008",
+      "FULL": "Terras civilizadas? O que você quer dizer?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B8BF",
+      "FORMID": "00B8BF",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic009",
+      "FULL": "Não tenho tempo para isso. Vá embora."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4C0",
+      "FORMID": "00B4C0",
+      "EDID": "NVDLC02DialogueWakingCloudNVDLC02WakingCloudTopic000",
+      "FULL": "O que posso fazer para ajudar?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB07",
+      "FORMID": "00AB07",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic006",
+      "FULL": "Farei o que puder, mas preciso me defender se for atacado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA72",
+      "FORMID": "00AA72",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic014",
+      "FULL": "Me conte um pouco sobre esta área. Alguma vida selvagem interessante?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA71",
+      "FORMID": "00AA71",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic017",
+      "FULL": "Talvez eu possa ajudar com isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA70",
+      "FORMID": "00AA70",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic018",
+      "FULL": "Beleza, vou dar uma olhada nisso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA6F",
+      "FORMID": "00AA6F",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic019",
+      "FULL": "Parece trabalho demais. Talvez depois."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA6E",
+      "FORMID": "00AA6E",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic020",
+      "FULL": "Bem, eu devolvi o bezerro para a mãe dele e nem sequer matei nenhum dos Carneiro-Selvagems."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA6D",
+      "FORMID": "00AA6D",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic021",
+      "FULL": "Bem, eu devolvi o bezerro ao rebanho. Tive que matar uns Carneiro-Selvagems pra fazer isso, no entanto."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AA6C",
+      "FORMID": "00AA6C",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic022",
+      "FULL": "Bem, todos os Carneiro-Selvagems estão mortos. Problema resolvido!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A844",
+      "FORMID": "00A844",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic004",
+      "FULL": "Já esmaguei seus guerreiros. Recuem agora e reconstruam sua tribo, ou morram na obscuridade."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A843",
+      "FORMID": "00A843",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic005",
+      "FULL": "Daniel e os Sorrows são presas fracas, não dignas de guerreiros tão poderosos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A842",
+      "FORMID": "00A842",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic006",
+      "FULL": "Então veja a força das minhas lanças, guerreiro."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A841",
+      "FORMID": "00A841",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic007",
+      "FULL": "Então vamos acabar com isso."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A669",
+      "FORMID": "00A669",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic012",
+      "FULL": "Você mencionou que precisa de pó de cura. Eu tenho um pouco, se ainda estiver interessado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A668",
+      "FORMID": "00A668",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic013",
+      "FULL": "Há alguma outra maneira que eu possa ajudar os Sorrows?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A667",
+      "FORMID": "00A667",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic014",
+      "FULL": "Aqui está um pó de cura."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A666",
+      "FORMID": "00A666",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic015",
+      "FULL": "Leve tudo o que eu tenho."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A49D",
+      "FORMID": "00A49D",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic011",
+      "FULL": "Por que você precisa de um mapa da Grand Staircase?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A49C",
+      "FORMID": "00A49C",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic004",
+      "FULL": "Me diga mais sobre Joshua Graham."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A49B",
+      "FORMID": "00A49B",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic005",
+      "FULL": "Quem eram aqueles tribais que me atacaram?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A107",
+      "FORMID": "00A107",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic023",
+      "FULL": "{Força de Emboscada}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0EE",
+      "FORMID": "00A0EE",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic006",
+      "FULL": "{Vantagem Mochila Reforçada}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0ED",
+      "FORMID": "00A0ED",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic007",
+      "FULL": "{Vantagem Acumulador}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0EC",
+      "FORMID": "00A0EC",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic008",
+      "FULL": "Fale-me sobre a Companhia de Caravanas Trilhas Felizes."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0EB",
+      "FORMID": "00A0EB",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic009",
+      "FULL": "O que você pode me dizer sobre New Canaan?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0EA",
+      "FORMID": "00A0EA",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic010",
+      "FULL": "Eu sei que essa caravana está indo para Zion. O que você pode me dizer sobre a área?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E9",
+      "FORMID": "00A0E9",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic011",
+      "FULL": "Não passei por Utah recentemente. Como está a situação por lá?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E8",
+      "FORMID": "00A0E8",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic012",
+      "FULL": "Que tal uma partida de Caravan pra passar o tempo?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E7",
+      "FORMID": "00A0E7",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic013",
+      "FULL": "Me conte mais sobre o trabalho."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E6",
+      "FORMID": "00A0E6",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic014",
+      "FULL": "Quem é Joshua Graham, e por que eu não deveria falar sobre ele?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E5",
+      "FORMID": "00A0E5",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic015",
+      "FULL": "Beleza, eu volto quando estiver carregando menos de 34 quilos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E4",
+      "FORMID": "00A0E4",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic016",
+      "FULL": "Por que você não pode ir para Salt Lake City?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E3",
+      "FORMID": "00A0E3",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic017",
+      "FULL": "{Troca 45+}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E2",
+      "FORMID": "00A0E2",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic018",
+      "FULL": "Você sabe algo sobre a religião deles?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E1",
+      "FORMID": "00A0E1",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic019",
+      "FULL": "Você não sabe o que aconteceu com a missão deles?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0E0",
+      "FORMID": "00A0E0",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic020",
+      "FULL": "Me fala sobre os invasores."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0DF",
+      "FORMID": "00A0DF",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic021",
+      "FULL": "Tribos degeneradas?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0DE",
+      "FORMID": "00A0DE",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic022",
+      "FULL": "Chefes de guerra? Quão perigosos eles são?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A0DD",
+      "FORMID": "00A0DD",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic024",
+      "FULL": "Eu tinha algumas outras perguntas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FDE",
+      "FORMID": "009FDE",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic001",
+      "FULL": "Eu quero saber mais sobre você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FDD",
+      "FORMID": "009FDD",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic002",
+      "FULL": "Não tenho mais perguntas. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009FDC",
+      "FORMID": "009FDC",
+      "EDID": "NVDLC02DialogueFollowsChalkNVDLC02FollowsChalkTopic003",
+      "FULL": "Por que te chamam de Segue-Giz?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EFE",
+      "FORMID": "009EFE",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic005",
+      "FULL": "{Reatividade do Mestre da Caravana}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EB2",
+      "FORMID": "009EB2",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic000",
+      "FULL": "Sim, tenho certeza."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EB1",
+      "FORMID": "009EB1",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic001",
+      "FULL": "Na verdade, deixe-me cuidar de mais algumas coisas primeiro."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EB0",
+      "FORMID": "009EB0",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic002",
+      "FULL": "Por que o limite de peso?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EAF",
+      "FORMID": "009EAF",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic003",
+      "FULL": "{Sobrevivência 50+}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EAE",
+      "FORMID": "009EAE",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02JedTopic004",
+      "FULL": "{Oratória 75+}"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DD6",
+      "FORMID": "009DD6",
+      "EDID": "NVDLC02FollowersFired",
+      "FULL": "Volte para o acampamento do seu povo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DD5",
+      "FORMID": "009DD5",
+      "EDID": "NVDLC02FollowersFiredNo",
+      "FULL": "Não, mudei de ideia."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DD4",
+      "FORMID": "009DD4",
+      "EDID": "NVDLC02FollowersFiredYes",
+      "FULL": "Sim, tenho certeza."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DD3",
+      "FORMID": "009DD3",
+      "EDID": "NVDLC02FollowersHired",
+      "FULL": "Quero que viaje comigo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DD2",
+      "FORMID": "009DD2",
+      "EDID": "NVDLC02FollowersLetsGo",
+      "FULL": "Vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCF",
+      "FORMID": "009DCF",
+      "EDID": "NVDLC02FollowersTactics",
+      "FULL": "Vamos falar sobre suas táticas."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCE",
+      "FORMID": "009DCE",
+      "EDID": "NVDLC02FollowersTacticsCombat",
+      "FULL": "Quero que você mude seu estilo de combate."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCD",
+      "FORMID": "009DCD",
+      "EDID": "NVDLC02FollowersTacticsCombatAggressive",
+      "FULL": "Quero que você ataque os inimigos assim que os vir."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCC",
+      "FORMID": "009DCC",
+      "EDID": "NVDLC02FollowersTacticsCombatEND",
+      "FULL": "É isso sobre suas táticas. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCB",
+      "FORMID": "009DCB",
+      "EDID": "NVDLC02FollowersTacticsGOODBYE",
+      "FULL": "É isso. Vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DCA",
+      "FORMID": "009DCA",
+      "EDID": "NVDLC02FollowersTacticsCombatMelee",
+      "FULL": "Mude para uma arma de combate corpo a corpo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC9",
+      "FORMID": "009DC9",
+      "EDID": "NVDLC02FollowersTacticsCombatPassive",
+      "FULL": "Eu não quero que você ataque inimigos a menos que eu já os tenha enfrentado."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC8",
+      "FORMID": "009DC8",
+      "EDID": "NVDLC02FollowersTacticsCombatRanged",
+      "FULL": "Quero que você use armas de ataque à distância."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC7",
+      "FORMID": "009DC7",
+      "EDID": "NVDLC02FollowersTrade",
+      "FULL": "Quero trocar equipamentos."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC6",
+      "FORMID": "009DC6",
+      "EDID": "NVDLC02FollowersWait",
+      "FULL": "Espere aqui."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC5",
+      "FORMID": "009DC5",
+      "EDID": "NVDLC02FollowersTacticsDistance",
+      "FULL": "Vamos falar sobre o quão perto você está me seguindo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC4",
+      "FORMID": "009DC4",
+      "EDID": "NVDLC02FollowersTacticsDistanceDefault",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC3",
+      "FORMID": "009DC3",
+      "EDID": "NVDLC02FollowersTacticsDistanceLong",
+      "FULL": "Espalhem-se e mantenham distância de mim."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC2",
+      "FORMID": "009DC2",
+      "EDID": "NVDLC02FollowersTacticsDistanceEND",
+      "FULL": "Sua distância está boa. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC1",
+      "FORMID": "009DC1",
+      "EDID": "NVDLC02FollowersTacticsDistanceGOODBYE",
+      "FULL": "Você é bom. Vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DC0",
+      "FORMID": "009DC0",
+      "EDID": "NVDLC02FollowersTacticsEND",
+      "FULL": "Chega de táticas. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009DBF",
+      "FORMID": "009DBF",
+      "EDID": "NVDLC02FollowersTacticsCombatGOODBYE",
+      "FULL": "É isso. Vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009848",
+      "FORMID": "009848",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic000",
+      "FULL": "Espere! Não há razão para isso acabar em banho de sangue!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009847",
+      "FORMID": "009847",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic001",
+      "FULL": "Hora de morrer, General Gobbledegook!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009846",
+      "FORMID": "009846",
+      "EDID": "NVDLC02DialogueSaltUponWoundsNVDLC02SaltUponWoundsTopic002",
+      "FULL": "Seu poder está quebrado. Não pode ter esperança de prevalecer aqui. Deixe este vale em paz."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0096CB",
+      "FORMID": "0096CB",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic008",
+      "FULL": "Sim, vá!"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0096CA",
+      "FORMID": "0096CA",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic009",
+      "FULL": "Não, ainda não."
+    },
+    {
+      "FORM": "@HonestHearts.esm:009655",
+      "FORMID": "009655",
+      "EDID": "NVDLC02DialogueCaravanMasterNVDLC02CaravanMasterTopic000",
+      "FULL": "Eu estou pronto para ir para Zion."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A7",
+      "FORMID": "0094A7",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic001",
+      "FULL": "Eu tenho a datura sagrada aqui."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A6",
+      "FORMID": "0094A6",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic002",
+      "FULL": "Ainda não. Eu tinha algumas perguntas antes."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A5",
+      "FORMID": "0094A5",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic003",
+      "FULL": "Muito bem, vamos nessa."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A4",
+      "FORMID": "0094A4",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic004",
+      "FULL": "Ainda não. Preciso de um momento."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A3",
+      "FORMID": "0094A3",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic005",
+      "FULL": "Está feito."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A2",
+      "FORMID": "0094A2",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic006",
+      "FULL": "Ainda não. Eu tinha algumas perguntas antes."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A1",
+      "FORMID": "0094A1",
+      "EDID": "NVDLC02DialogueShamanTopic001",
+      "FULL": "Umm... Adeus."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094A0",
+      "FORMID": "0094A0",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic008",
+      "FULL": "Quê? Eu não sei o que \"visões da verdade\" quer dizer."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00949F",
+      "FORMID": "00949F",
+      "EDID": "NVDLC02DialogueShamanNVDLC02SorrowShamanTopic010",
+      "FULL": "(fazer perguntas)"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A8",
+      "FORMID": "0093A8",
+      "EDID": "NVDLC02DialogueJoshuaNVDLC02JoshuaTopic001",
+      "FULL": "[DEBUG] Acampamento Nice Dead Horses. E agora?"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A7",
+      "FORMID": "0093A7",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic000",
+      "FULL": "Joshua me disse que você precisava de algumas coisas. Acho que isso é tudo."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A6",
+      "FORMID": "0093A6",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic001",
+      "FULL": "Eu verifiquei tudo no vale e consegui o mapa da Grand Staircase para você."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A5",
+      "FORMID": "0093A5",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic002",
+      "FULL": "Acho que o Joshua está certo. Deveríamos lutar contra os White Legs."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A4",
+      "FORMID": "0093A4",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic003",
+      "FULL": "Não se preocupe. Acho que deixar Zion é o melhor a fazer."
+    },
+    {
+      "FORM": "@HonestHearts.esm:0093A3",
+      "FORMID": "0093A3",
+      "EDID": "NVDLC02DialogueDanielNVDLC02DanielTopic004",
+      "FULL": "Eu preciso pensar sobre isso."
+    }
+  ]
+}

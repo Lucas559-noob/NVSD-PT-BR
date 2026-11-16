@@ -1,0 +1,220 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@LonesomeRoad.esm:0039E7",
+      "FORMID": "0039E7",
+      "EDID": "NVDLC04Road1Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EA",
+      "FORMID": "0039EA",
+      "EDID": "NVDLC04WreckageDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039EC",
+      "FORMID": "0039EC",
+      "EDID": "NVDLC04MojaveDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039ED",
+      "FORMID": "0039ED",
+      "EDID": "NVDLC04Road2Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039F0",
+      "FORMID": "0039F0",
+      "EDID": "NVDLC04Silo1Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039F2",
+      "FORMID": "0039F2",
+      "EDID": "NVDLC04Road01ToTunnelDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039F5",
+      "FORMID": "0039F5",
+      "EDID": "NVDLC04Silo2Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0039FA",
+      "FORMID": "0039FA",
+      "EDID": "NVDLC04DivideDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E2B",
+      "FORMID": "003E2B",
+      "EDID": "NVDLC04DivideDoor2",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E2D",
+      "FORMID": "003E2D",
+      "EDID": "NVDLC04UlyssesTempleDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E36",
+      "FORMID": "003E36",
+      "EDID": "NVDLC04UltDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E49",
+      "FORMID": "003E49",
+      "EDID": "NVDLC04UlyssesTempleExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466C",
+      "FORMID": "00466C",
+      "EDID": "NVDLC04RoadTunnelDoor02",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00466D",
+      "FORMID": "00466D",
+      "EDID": "NVDLC04RoadTunnelDoor01",
+      "FULL": "Entrar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007933",
+      "FORMID": "007933",
+      "EDID": "NVDLC04PipesDoor01",
+      "FULL": "Grelha de Esgoto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007F26",
+      "FORMID": "007F26",
+      "EDID": "NVDLC04Silo01FromVistaDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007F27",
+      "FORMID": "007F27",
+      "EDID": "NVDLC04DivideVistaSiloDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008468",
+      "FORMID": "008468",
+      "EDID": "NVDLC04Silo01ReactorDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00846D",
+      "FORMID": "00846D",
+      "EDID": "NVDLC04CollapsedBuildingDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008688",
+      "FORMID": "008688",
+      "EDID": "NVDLC04UlyssesTempleDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00894B",
+      "FORMID": "00894B",
+      "EDID": "NVDLC04Silo01MainExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00930D",
+      "FORMID": "00930D",
+      "EDID": "NVDLC04Silo01SiloShaftDoorLow",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C91",
+      "FORMID": "009C91",
+      "EDID": "NVDLC04Silo01MaintenanceDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009C93",
+      "FORMID": "009C93",
+      "EDID": "NVDLC04TempleMaintenanceDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A962",
+      "FORMID": "00A962",
+      "EDID": "NVDLC04UDomeTempleDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC58",
+      "FORMID": "00AC58",
+      "EDID": "NVDLC04PipesDoor02",
+      "FULL": "Grelha de Esgoto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B341",
+      "FORMID": "00B341",
+      "EDID": "NVDLC04CaveDivideDoorDUPLICATE000",
+      "FULL": "Sair"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B343",
+      "FORMID": "00B343",
+      "EDID": "NVDLC04Road01DoorDUPLICATE000",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B9FD",
+      "FORMID": "00B9FD",
+      "EDID": "NVDLC04shackdoorbasement01DOOR",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C02D",
+      "FORMID": "00C02D",
+      "EDID": "NVDLC04Road01Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C471",
+      "FORMID": "00C471",
+      "EDID": "NVDLC04NukedNCRGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C47E",
+      "FORMID": "00C47E",
+      "EDID": "NVDLC04CouriersMileDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C741",
+      "FORMID": "00C741",
+      "EDID": "NVDLC04InvisibleCaveDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB78",
+      "FORMID": "00CB78",
+      "EDID": "NVDLC04Road02ToSilo02Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB79",
+      "FORMID": "00CB79",
+      "EDID": "NVDLC04Silo02ToRoad02Door",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DEC8",
+      "FORMID": "00DEC8",
+      "EDID": "NVDLC04SiloUtlDoor",
+      "FULL": "Porta"
+    }
+  ]
+}

@@ -1,0 +1,2266 @@
+{
+  "CONT": [
+    {
+      "FORM": "@LonesomeRoad.esm:003E38",
+      "FORMID": "003E38",
+      "EDID": "NVDLC04DeskSilo01BaseCommander",
+      "FULL": "Mesa do Comandante da Base"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00468B",
+      "FORMID": "00468B",
+      "EDID": "NVDLC04LootTEMP",
+      "FULL": "Sacola de Prêmios"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007B8F",
+      "FORMID": "007B8F",
+      "EDID": "NVDLC04ToolboxContainer",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007B90",
+      "FORMID": "007B90",
+      "EDID": "NVDLC04LockerVaultR01MED",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007B91",
+      "FORMID": "007B91",
+      "EDID": "NVDLC04DeskOfficeCornerMetalLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007B92",
+      "FORMID": "007B92",
+      "EDID": "NVDLC04FilingCabinetLOW",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007DB2",
+      "FORMID": "007DB2",
+      "EDID": "NVDLC04HotelWardrobe01LOW",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007DD6",
+      "FORMID": "007DD6",
+      "EDID": "NVDLC04DeskOfficeMetalLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007E45",
+      "FORMID": "007E45",
+      "EDID": "NVDLC04OvenRangeDirty",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007E46",
+      "FORMID": "007E46",
+      "EDID": "NVDLC04FridgeLOW",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:007E47",
+      "FORMID": "007E47",
+      "EDID": "NVDLC04NukaVendingMachine",
+      "FULL": "Máquina de Vendas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087FD",
+      "FORMID": "0087FD",
+      "EDID": "NVDLC04EDEUpgrade01SuitCase",
+      "FULL": "Maleta de Segurança"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008861",
+      "FORMID": "008861",
+      "EDID": "NVDLC04LootAmmoSatchelCharge",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008869",
+      "FORMID": "008869",
+      "EDID": "NVDLC04LootAmmoSatchelChargeLOCKED",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088E3",
+      "FORMID": "0088E3",
+      "EDID": "NVDLC04SLaserDetonatorCase",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008959",
+      "FORMID": "008959",
+      "EDID": "NVDLC04FilingCabinetMED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895A",
+      "FORMID": "00895A",
+      "EDID": "NVDLC04FilingCabinetHIGH",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895B",
+      "FORMID": "00895B",
+      "EDID": "NVDLC04FilingCabinetLOCKED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895C",
+      "FORMID": "00895C",
+      "EDID": "NVDLC04FridgeMED",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895D",
+      "FORMID": "00895D",
+      "EDID": "NVDLC04FridgeHIGH",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895E",
+      "FORMID": "00895E",
+      "EDID": "NVDLC04HotelWardrobe01MED",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00895F",
+      "FORMID": "00895F",
+      "EDID": "NVDLC04HotelWardrobe01HIGH",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008960",
+      "FORMID": "008960",
+      "EDID": "NVDLC04HotelWardrobe01LOCKED",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008961",
+      "FORMID": "008961",
+      "EDID": "NVDLC04LockerVaultR01LOW",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008962",
+      "FORMID": "008962",
+      "EDID": "NVDLC04LockerVaultR01HIGH",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008963",
+      "FORMID": "008963",
+      "EDID": "NVDLC04LockerVaultR01LOCKED",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008964",
+      "FORMID": "008964",
+      "EDID": "NVDLC04MetalBox01LOW",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008965",
+      "FORMID": "008965",
+      "EDID": "NVDLC04MetalBox01MED",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008966",
+      "FORMID": "008966",
+      "EDID": "NVDLC04MetalBox01HIGH",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008967",
+      "FORMID": "008967",
+      "EDID": "NVDLC04MetalBox01LOCK",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008968",
+      "FORMID": "008968",
+      "EDID": "NVDLC04SackLOW",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008969",
+      "FORMID": "008969",
+      "EDID": "NVDLC04SackMED",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896A",
+      "FORMID": "00896A",
+      "EDID": "NVDLC04SackHIGH",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896B",
+      "FORMID": "00896B",
+      "EDID": "NVDLC04LootDufflebagMED",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896C",
+      "FORMID": "00896C",
+      "EDID": "NVDLC04LootDufflebagLOW",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896D",
+      "FORMID": "00896D",
+      "EDID": "NVDLC04LootDufflebagHIGH",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896E",
+      "FORMID": "00896E",
+      "EDID": "NVDLC04DivideDuffle01",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00896F",
+      "FORMID": "00896F",
+      "EDID": "NVDLC04DeskOfficeCornerMetalMED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008970",
+      "FORMID": "008970",
+      "EDID": "NVDLC04DeskOfficeCornerMetalHIGH",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008971",
+      "FORMID": "008971",
+      "EDID": "NVDLC04DeskOfficeCornerMetalLOCKED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008972",
+      "FORMID": "008972",
+      "EDID": "NVDLC04DeskOfficeMetalMED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008973",
+      "FORMID": "008973",
+      "EDID": "NVDLC04DeskOfficeMetalHIGH",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008974",
+      "FORMID": "008974",
+      "EDID": "NVDLC04DeskOfficeMetalLOCKED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008D65",
+      "FORMID": "008D65",
+      "EDID": "NVDLC04LootEyebotBroken",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009108",
+      "FORMID": "009108",
+      "EDID": "NVDLC04DivideDuffle02",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092F1",
+      "FORMID": "0092F1",
+      "EDID": "NVDLC04DeskOfficeMetalSilo01Lvl2SecurityCode",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092F3",
+      "FORMID": "0092F3",
+      "EDID": "NVDLC04DeskOfficeMetalSilo01Lvl1SecurityCode",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931A",
+      "FORMID": "00931A",
+      "EDID": "NVDLC04ToolCabinetMetal",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931B",
+      "FORMID": "00931B",
+      "EDID": "NVDLC04ToolboxStash",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931C",
+      "FORMID": "00931C",
+      "EDID": "NVDLC04FilingCabinetBunch04",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931D",
+      "FORMID": "00931D",
+      "EDID": "NVDLC04FireHoseBox",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931E",
+      "FORMID": "00931E",
+      "EDID": "NVDLC04GarbageCanUrban03",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00931F",
+      "FORMID": "00931F",
+      "EDID": "NVDLC04FilingCabinetBunch02",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009321",
+      "FORMID": "009321",
+      "EDID": "NVDLC04DeskWoodTopRusty",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009322",
+      "FORMID": "009322",
+      "EDID": "NVDLC04GarbageCanUrban02",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009323",
+      "FORMID": "009323",
+      "EDID": "NVDLC04GarbageCanUrban01",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0094F8",
+      "FORMID": "0094F8",
+      "EDID": "NVDLC04FootlockerIndustrialHand",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0098ED",
+      "FORMID": "0098ED",
+      "EDID": "NVDLC04MetalBox01LOWFT",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0098F5",
+      "FORMID": "0098F5",
+      "EDID": "NVDLC04GarbageCanUrban03FT",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009A38",
+      "FORMID": "009A38",
+      "EDID": "NVDLC04LootEyebot",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009A47",
+      "FORMID": "009A47",
+      "EDID": "NVDLC04LootTruckCrateGeneric",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009A4F",
+      "FORMID": "009A4F",
+      "EDID": "NVDLC04LootDumpsterRecycling",
+      "FULL": "Lixeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF2",
+      "FORMID": "009AF2",
+      "EDID": "NVDLC04LootTruckCrateAmmo100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF3",
+      "FORMID": "009AF3",
+      "EDID": "NVDLC04LootTruckCrateMRE",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF4",
+      "FORMID": "009AF4",
+      "EDID": "NVDLC04LootTruckCrateAmmoALL",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF5",
+      "FORMID": "009AF5",
+      "EDID": "NVDLC04LootAmmoBoxEnergy",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF6",
+      "FORMID": "009AF6",
+      "EDID": "NVDLC04LootAmmoBoxGuns",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009AF7",
+      "FORMID": "009AF7",
+      "EDID": "NVDLC04LootTruckCrateNuka",
+      "FULL": "Caixote de Remessa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A1A8",
+      "FORMID": "00A1A8",
+      "EDID": "NVDLC04SuitCase",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A206",
+      "FORMID": "00A206",
+      "EDID": "NVDLC04LootTruckCrateMRE75",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A207",
+      "FORMID": "00A207",
+      "EDID": "NVDLC04LootTruckCrateAmmo75",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A208",
+      "FORMID": "00A208",
+      "EDID": "NVDLC04LootAmmoBoxElectronChargePacksLock",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A209",
+      "FORMID": "00A209",
+      "EDID": "NVDLC04LootCraftingStationContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20A",
+      "FORMID": "00A20A",
+      "EDID": "NVDLC04LootCraftingStationContainerLead",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20B",
+      "FORMID": "00A20B",
+      "EDID": "NVDLC04LootCraftingStationContainerLOCKED",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20C",
+      "FORMID": "00A20C",
+      "EDID": "NVDLC04LootTruckCrateAmmoRockets100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20D",
+      "FORMID": "00A20D",
+      "EDID": "NVDLC04FootlockerStrippedStuff",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20E",
+      "FORMID": "00A20E",
+      "EDID": "NVDLC04LootTruckCrateFood",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A20F",
+      "FORMID": "00A20F",
+      "EDID": "NVDLC04LootMetalBoxFood",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A210",
+      "FORMID": "00A210",
+      "EDID": "NVDLC04LootCraftingFootlockerFood",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A211",
+      "FORMID": "00A211",
+      "EDID": "NVDLC04LootFirstAidKit",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A2CE",
+      "FORMID": "00A2CE",
+      "EDID": "NVDLC04DivideCaveSuitCase",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A372",
+      "FORMID": "00A372",
+      "EDID": "NVDLC04LootTruckCrateSS",
+      "FULL": "Caixote de Remessa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A583",
+      "FORMID": "00A583",
+      "EDID": "NVDLC04SuitCase02",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A584",
+      "FORMID": "00A584",
+      "EDID": "NVDLC04SuitCaseAddict",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A585",
+      "FORMID": "00A585",
+      "EDID": "NVDLC04LootSmallCrateFood",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A586",
+      "FORMID": "00A586",
+      "EDID": "NVDLC04LootMetalBoxFood02",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A587",
+      "FORMID": "00A587",
+      "EDID": "NVDLC04LootFootlockerSurvivalist",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A588",
+      "FORMID": "00A588",
+      "EDID": "NVDLC04LootMetalBoxLead01",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A589",
+      "FORMID": "00A589",
+      "EDID": "NVDLC04LootMetalBoxLead02",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A58A",
+      "FORMID": "00A58A",
+      "EDID": "NVDLC04LootTruckCrateHealing",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A58B",
+      "FORMID": "00A58B",
+      "EDID": "NVDLC04LootFootlockerOfficeLock",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A58C",
+      "FORMID": "00A58C",
+      "EDID": "NVDLC04LootCraftingPartsCabinet",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A58D",
+      "FORMID": "00A58D",
+      "EDID": "NVDLC04LootFridgeRoad02Beer",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A60D",
+      "FORMID": "00A60D",
+      "EDID": "NVDLC04LootSilo02DeskMagazine",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A60E",
+      "FORMID": "00A60E",
+      "EDID": "NVDLC04LootCraftingStationLocker",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A60F",
+      "FORMID": "00A60F",
+      "EDID": "NVDLC04LootCraftingStationContainer02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A610",
+      "FORMID": "00A610",
+      "EDID": "NVDLC04LootNukeMetalBox02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A66F",
+      "FORMID": "00A66F",
+      "EDID": "NVDLC04LootDivideStartFilingCabinetLOCKED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A671",
+      "FORMID": "00A671",
+      "EDID": "NVDLC04WallSafe",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E8",
+      "FORMID": "00A6E8",
+      "EDID": "NVDLC04LootDuffleBagTier2Adventurer",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E9",
+      "FORMID": "00A6E9",
+      "EDID": "NVDLC04LootFilingCabinetDivideStartLOCKED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6EA",
+      "FORMID": "00A6EA",
+      "EDID": "NVDLC04LootAmmoBoxFlashbangs",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6EB",
+      "FORMID": "00A6EB",
+      "EDID": "NVDLC04LootAmmoBoxRockets",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6EC",
+      "FORMID": "00A6EC",
+      "EDID": "NVDLC04LootEyebotBrokenDivideEast",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6ED",
+      "FORMID": "00A6ED",
+      "EDID": "NVDLC04LootDividePhysicianDesk",
+      "FULL": "Guia Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6EE",
+      "FORMID": "00A6EE",
+      "EDID": "NVDLC04LootDivideCabinetBunch",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A771",
+      "FORMID": "00A771",
+      "EDID": "NVDLC04LootFilingCabinetDivideLOCKED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A90A",
+      "FORMID": "00A90A",
+      "EDID": "NVDLC04LootCraftingStationContainerRoad01MM03",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AB4C",
+      "FORMID": "00AB4C",
+      "EDID": "NVDLC04VendorContainerCommissary",
+      "FULL": "Inventário do Comissariado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC53",
+      "FORMID": "00AC53",
+      "EDID": "NVDLC04TempleMMScoutAshPile",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC54",
+      "FORMID": "00AC54",
+      "EDID": "NVDLC04TempleMMRavagerAshPile",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC55",
+      "FORMID": "00AC55",
+      "EDID": "NVDLC04TempleMMBomberAshPile",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC56",
+      "FORMID": "00AC56",
+      "EDID": "NVDLC04TempleMMHunterAshPile",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AC57",
+      "FORMID": "00AC57",
+      "EDID": "NVDLC04TempleMMMarauderAshPile",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B659",
+      "FORMID": "00B659",
+      "EDID": "NVDLC04TempleUlyssesFootlocker",
+      "FULL": "Baú de Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BFA2",
+      "FORMID": "00BFA2",
+      "EDID": "NVDLC04LootDufflebagNCRAudioLog",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C02E",
+      "FORMID": "00C02E",
+      "EDID": "NVDLC04ToolboxContainerRoad01ArmoryKey",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C130",
+      "FORMID": "00C130",
+      "EDID": "NVDLC04DivideDuffle04",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C131",
+      "FORMID": "00C131",
+      "EDID": "NVDLC04DivideDuffle03",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C535",
+      "FORMID": "00C535",
+      "EDID": "NVDLC04EndgameLootChest",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C627",
+      "FORMID": "00C627",
+      "EDID": "NVDLC04MetalBox01HIGHRoad01Key",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C64C",
+      "FORMID": "00C64C",
+      "EDID": "NVDLC04SafeRoad01HQLock",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C836",
+      "FORMID": "00C836",
+      "EDID": "NVDLC04ToolCabinetMetalSilo01",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C837",
+      "FORMID": "00C837",
+      "EDID": "NVDLC04ToolCabinetMetal2Silo01",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C838",
+      "FORMID": "00C838",
+      "EDID": "NVDLC04ToolCabinetMetal2",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C848",
+      "FORMID": "00C848",
+      "EDID": "NVDLC04LootAmmoBoxGunsMarkedMen",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C865",
+      "FORMID": "00C865",
+      "EDID": "NVDLC04LootAmmoBoxWithAmmoFlareGun",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C89B",
+      "FORMID": "00C89B",
+      "EDID": "NVDLC04LootDuffleBagAdventurerWaste",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C89C",
+      "FORMID": "00C89C",
+      "EDID": "NVDLC04LootEmergencyKitWaste",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C89D",
+      "FORMID": "00C89D",
+      "EDID": "NVDLC04LootMetalBoxLeadWaste",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C89E",
+      "FORMID": "00C89E",
+      "EDID": "NVDLC04LootEmergencyKitRawr",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C89F",
+      "FORMID": "00C89F",
+      "EDID": "NVDLC04HotelWardrobeEmpty",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A0",
+      "FORMID": "00C8A0",
+      "EDID": "NVDLC04LootHotelWardrobe04",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A1",
+      "FORMID": "00C8A1",
+      "EDID": "NVDLC04LootHotelWardrobe03",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A2",
+      "FORMID": "00C8A2",
+      "EDID": "NVDLC04LootHotelWardrobe02",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A3",
+      "FORMID": "00C8A3",
+      "EDID": "NVDLC04LootHotelWardrobe01",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A4",
+      "FORMID": "00C8A4",
+      "EDID": "NVDLC04ToolboxContainerEmpty",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A5",
+      "FORMID": "00C8A5",
+      "EDID": "NVDLC04ToolboxContainer04",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A6",
+      "FORMID": "00C8A6",
+      "EDID": "NVDLC04ToolboxContainer03",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A7",
+      "FORMID": "00C8A7",
+      "EDID": "NVDLC04ToolboxContainer02",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A8",
+      "FORMID": "00C8A8",
+      "EDID": "NVDLC04ToolboxContainer01",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8A9",
+      "FORMID": "00C8A9",
+      "EDID": "NVDLC04SuitCaseEmpty",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AA",
+      "FORMID": "00C8AA",
+      "EDID": "NVDLC04SuitCase04",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AB",
+      "FORMID": "00C8AB",
+      "EDID": "NVDLC04SuitCase03",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AC",
+      "FORMID": "00C8AC",
+      "EDID": "NVDLC04SuitCase01",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AD",
+      "FORMID": "00C8AD",
+      "EDID": "NVDLC04LootCraftingStationLockerEmpty",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AE",
+      "FORMID": "00C8AE",
+      "EDID": "NVDLC04LootCraftingStationLocker04",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8AF",
+      "FORMID": "00C8AF",
+      "EDID": "NVDLC04LootCraftingStationLocker03",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B0",
+      "FORMID": "00C8B0",
+      "EDID": "NVDLC04LootCraftingStationLocker02",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B1",
+      "FORMID": "00C8B1",
+      "EDID": "NVDLC04LootCraftingStationLocker01",
+      "FULL": "Armário de Suprimentos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B2",
+      "FORMID": "00C8B2",
+      "EDID": "NVDLC04LootFootlockerSurvivalist05",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B3",
+      "FORMID": "00C8B3",
+      "EDID": "NVDLC04LootFootlockerSurvivalist04",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B4",
+      "FORMID": "00C8B4",
+      "EDID": "NVDLC04LootFootlockerSurvivalist03",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B5",
+      "FORMID": "00C8B5",
+      "EDID": "NVDLC04LootFootlockerSurvivalist02",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B6",
+      "FORMID": "00C8B6",
+      "EDID": "NVDLC04LootFootlockerSurvivalist01",
+      "FULL": "Baú do(a) Sobrevivente"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B7",
+      "FORMID": "00C8B7",
+      "EDID": "NVDLC04ToolCabinetMetalEmpty",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B8",
+      "FORMID": "00C8B8",
+      "EDID": "NVDLC04ToolCabinetMetal04",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8B9",
+      "FORMID": "00C8B9",
+      "EDID": "NVDLC04ToolCabinetMetal03",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BA",
+      "FORMID": "00C8BA",
+      "EDID": "NVDLC04ToolCabinetMetal02",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BB",
+      "FORMID": "00C8BB",
+      "EDID": "NVDLC04ToolCabinetMetal01",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BC",
+      "FORMID": "00C8BC",
+      "EDID": "NVDLC04LootEmergencyKit01",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BD",
+      "FORMID": "00C8BD",
+      "EDID": "NVDLC04LootEmergencyKit02",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BE",
+      "FORMID": "00C8BE",
+      "EDID": "NVDLC04LootNukeEmergencyKit01",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8BF",
+      "FORMID": "00C8BF",
+      "EDID": "NVDLC04LootNukeEmergencyKit02",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C0",
+      "FORMID": "00C8C0",
+      "EDID": "NVDLC04LootEmergencyKitEmpty",
+      "FULL": "Kit de Emergência"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C1",
+      "FORMID": "00C8C1",
+      "EDID": "NVDLC04LootAmmoSatchelChargeEmpty",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C2",
+      "FORMID": "00C8C2",
+      "EDID": "NVDLC04LootAmmoSatchelCharge04",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C3",
+      "FORMID": "00C8C3",
+      "EDID": "NVDLC04LootAmmoSatchelCharge03",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C4",
+      "FORMID": "00C8C4",
+      "EDID": "NVDLC04LootAmmoSatchelCharge02",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C5",
+      "FORMID": "00C8C5",
+      "EDID": "NVDLC04LootAmmoSatchelCharge01",
+      "FULL": "Caixa de Carga Satchel"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C6",
+      "FORMID": "00C8C6",
+      "EDID": "NVDLC04LootSafeWallEmpty",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C7",
+      "FORMID": "00C8C7",
+      "EDID": "NVDLC04LootSafeWall04",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C8",
+      "FORMID": "00C8C8",
+      "EDID": "NVDLC04LootSafeWall03",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8C9",
+      "FORMID": "00C8C9",
+      "EDID": "NVDLC04LootSafeWall02",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CA",
+      "FORMID": "00C8CA",
+      "EDID": "NVDLC04LootSafeWall01",
+      "FULL": "Cofre de parede"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CB",
+      "FORMID": "00C8CB",
+      "EDID": "NVDLC04LootSafeFloor01",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CC",
+      "FORMID": "00C8CC",
+      "EDID": "NVDLC04LootSafeFloor02",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CD",
+      "FORMID": "00C8CD",
+      "EDID": "NVDLC04LootSafeFloor03",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CE",
+      "FORMID": "00C8CE",
+      "EDID": "NVDLC04LootSafeFloor04",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8CF",
+      "FORMID": "00C8CF",
+      "EDID": "NVDLC04LootSafeFloorEmpty",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D0",
+      "FORMID": "00C8D0",
+      "EDID": "NVDLC04LootSafeEmpty",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D1",
+      "FORMID": "00C8D1",
+      "EDID": "NVDLC04LootSafe04",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D2",
+      "FORMID": "00C8D2",
+      "EDID": "NVDLC04LootSafe03",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D3",
+      "FORMID": "00C8D3",
+      "EDID": "NVDLC04LootSafe02",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D4",
+      "FORMID": "00C8D4",
+      "EDID": "NVDLC04LootSafe01",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D5",
+      "FORMID": "00C8D5",
+      "EDID": "NVDLC04LootSackEmpty",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D6",
+      "FORMID": "00C8D6",
+      "EDID": "NVDLC04LootSack04",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D7",
+      "FORMID": "00C8D7",
+      "EDID": "NVDLC04LootSack03",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D8",
+      "FORMID": "00C8D8",
+      "EDID": "NVDLC04LootSack02",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8D9",
+      "FORMID": "00C8D9",
+      "EDID": "NVDLC04LootSack01",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DA",
+      "FORMID": "00C8DA",
+      "EDID": "NVDLC04FridgeEmpty",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DB",
+      "FORMID": "00C8DB",
+      "EDID": "NVDLC04LootFridge04",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DC",
+      "FORMID": "00C8DC",
+      "EDID": "NVDLC04LootFridge03",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DD",
+      "FORMID": "00C8DD",
+      "EDID": "NVDLC04LootFridge02",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DE",
+      "FORMID": "00C8DE",
+      "EDID": "NVDLC04LootFridge01",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8DF",
+      "FORMID": "00C8DF",
+      "EDID": "NVDLC04LootBLUEGrenadeRifle",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E0",
+      "FORMID": "00C8E0",
+      "EDID": "NVDLC04LootREDGrenadeRifle",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E1",
+      "FORMID": "00C8E1",
+      "EDID": "NVDLC04LootDividePhysicianDesk03",
+      "FULL": "Guia Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E2",
+      "FORMID": "00C8E2",
+      "EDID": "NVDLC04LootDividePhysicianDesk02",
+      "FULL": "Guia Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E3",
+      "FORMID": "00C8E3",
+      "EDID": "NVDLC04LootDividePhysicianDesk01",
+      "FULL": "Guia Médico"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E4",
+      "FORMID": "00C8E4",
+      "EDID": "NVDLC04LootFootlockerOfficeLock05",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E5",
+      "FORMID": "00C8E5",
+      "EDID": "NVDLC04LootFootlockerOfficeLock04",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E6",
+      "FORMID": "00C8E6",
+      "EDID": "NVDLC04LootFootlockerOfficeLock03",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E7",
+      "FORMID": "00C8E7",
+      "EDID": "NVDLC04LootFootlockerOfficeLock02",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E8",
+      "FORMID": "00C8E8",
+      "EDID": "NVDLC04LootFootlockerOfficeLock01",
+      "FULL": "Armário Pessoal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8E9",
+      "FORMID": "00C8E9",
+      "EDID": "NVDLC04LootCraftingPartsCabinet05",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8EA",
+      "FORMID": "00C8EA",
+      "EDID": "NVDLC04LootCraftingPartsCabinet04",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8EB",
+      "FORMID": "00C8EB",
+      "EDID": "NVDLC04LootCraftingPartsCabinet03",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8EC",
+      "FORMID": "00C8EC",
+      "EDID": "NVDLC04LootCraftingPartsCabinet02",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8ED",
+      "FORMID": "00C8ED",
+      "EDID": "NVDLC04LootCraftingPartsCabinet01",
+      "FULL": "Armário de Peças"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8EE",
+      "FORMID": "00C8EE",
+      "EDID": "NVDLC04OvenRangeDirtyEmpty",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8EF",
+      "FORMID": "00C8EF",
+      "EDID": "NVDLC04OvenRangeDirty04",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F0",
+      "FORMID": "00C8F0",
+      "EDID": "NVDLC04OvenRangeDirty03",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F1",
+      "FORMID": "00C8F1",
+      "EDID": "NVDLC04OvenRangeDirty02",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F2",
+      "FORMID": "00C8F2",
+      "EDID": "NVDLC04OvenRangeDirty01",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F3",
+      "FORMID": "00C8F3",
+      "EDID": "NVDLC04LootReloadingBenchContainer02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F4",
+      "FORMID": "00C8F4",
+      "EDID": "NVDLC04LootReloadingBenchContainer01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F5",
+      "FORMID": "00C8F5",
+      "EDID": "NVDLC04LootHotPlateContainer02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F6",
+      "FORMID": "00C8F6",
+      "EDID": "NVDLC04LootHotPlateContainer01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F7",
+      "FORMID": "00C8F7",
+      "EDID": "NVDLC04LootNukeMetalBox01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F8",
+      "FORMID": "00C8F8",
+      "EDID": "NVDLC04LootCampfireContainer01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8F9",
+      "FORMID": "00C8F9",
+      "EDID": "NVDLC04LootCampfireContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FA",
+      "FORMID": "00C8FA",
+      "EDID": "NVDLC04LootHotPlateContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FB",
+      "FORMID": "00C8FB",
+      "EDID": "NVDLC04LootReloadingBenchContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FC",
+      "FORMID": "00C8FC",
+      "EDID": "NVDLC04LootTruckCrateEmpty",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FD",
+      "FORMID": "00C8FD",
+      "EDID": "NVDLC04LootTruckCrate04",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FE",
+      "FORMID": "00C8FE",
+      "EDID": "NVDLC04LootTruckCrate03",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C8FF",
+      "FORMID": "00C8FF",
+      "EDID": "NVDLC04LootNukeTruckCrate01",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C900",
+      "FORMID": "00C900",
+      "EDID": "NVDLC04LootTruckCrate01",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C901",
+      "FORMID": "00C901",
+      "EDID": "NVDLC04MetalBoxEmpty",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C902",
+      "FORMID": "00C902",
+      "EDID": "NVDLC04MetalBox04",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C903",
+      "FORMID": "00C903",
+      "EDID": "NVDLC04MetalBox03",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C904",
+      "FORMID": "00C904",
+      "EDID": "NVDLC04MetalBox02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C905",
+      "FORMID": "00C905",
+      "EDID": "NVDLC04MetalBox01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C906",
+      "FORMID": "00C906",
+      "EDID": "NVDLC04LockerMilitaryEmpty",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C907",
+      "FORMID": "00C907",
+      "EDID": "NVDLC04LootLockerVault04",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C908",
+      "FORMID": "00C908",
+      "EDID": "NVDLC04LootLockerVault03",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C909",
+      "FORMID": "00C909",
+      "EDID": "NVDLC04LootLockerVault02",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90A",
+      "FORMID": "00C90A",
+      "EDID": "NVDLC04LootLockerVault01",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90B",
+      "FORMID": "00C90B",
+      "EDID": "NVDLC04LootNukeMetalBoxLead01",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90C",
+      "FORMID": "00C90C",
+      "EDID": "NVDLC04LootNukeMetalBoxLead02",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90D",
+      "FORMID": "00C90D",
+      "EDID": "NVDLC04LootMetalBoxLead03",
+      "FULL": "Caixa de Metal Forrada a Chumbo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90E",
+      "FORMID": "00C90E",
+      "EDID": "NVDLC04LootNukeGunCaseHighTech01",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C90F",
+      "FORMID": "00C90F",
+      "EDID": "NVDLC04LootNukeGunCaseHighTech02",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C910",
+      "FORMID": "00C910",
+      "EDID": "NVDLC04LootGunCaseHighTech03",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C911",
+      "FORMID": "00C911",
+      "EDID": "NVDLC04LootGunCaseHighTech02",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C912",
+      "FORMID": "00C912",
+      "EDID": "NVDLC04LootGunCaseHighTech01",
+      "FULL": "Maleta de Armas de Alta Tecnologia"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C913",
+      "FORMID": "00C913",
+      "EDID": "NVDLC04GarbageCanUrbanEmpty",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C914",
+      "FORMID": "00C914",
+      "EDID": "NVDLC04GarbageCanUrban04",
+      "FULL": "Lata de Lixo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C915",
+      "FORMID": "00C915",
+      "EDID": "NVDLC04LootFootlockerEmpty",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C916",
+      "FORMID": "00C916",
+      "EDID": "NVDLC04LootFootlocker04",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C917",
+      "FORMID": "00C917",
+      "EDID": "NVDLC04LootFootlocker02",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C918",
+      "FORMID": "00C918",
+      "EDID": "NVDLC04LootFootlocker03",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C919",
+      "FORMID": "00C919",
+      "EDID": "NVDLC04LootFootlocker01",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91A",
+      "FORMID": "00C91A",
+      "EDID": "NVDLC04LootFirstAidKitNVEmpty",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91B",
+      "FORMID": "00C91B",
+      "EDID": "NVDLC04LootFirstAidKitNV04",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91C",
+      "FORMID": "00C91C",
+      "EDID": "NVDLC04LootFirstAidKitNV03",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91D",
+      "FORMID": "00C91D",
+      "EDID": "NVDLC04LootFirstAidKitNV02",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91E",
+      "FORMID": "00C91E",
+      "EDID": "NVDLC04LootFirstAidKitNV01",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C91F",
+      "FORMID": "00C91F",
+      "EDID": "NVDLC04FireHoseBoxEmpty",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C920",
+      "FORMID": "00C920",
+      "EDID": "NVDLC04FireHoseBox04",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C921",
+      "FORMID": "00C921",
+      "EDID": "NVDLC04FireHoseBox03",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C922",
+      "FORMID": "00C922",
+      "EDID": "NVDLC04FireHoseBox02",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C923",
+      "FORMID": "00C923",
+      "EDID": "NVDLC04FireHoseBox01",
+      "FULL": "Caixa de Mangueira de Incêndio"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C924",
+      "FORMID": "00C924",
+      "EDID": "NVDLC04FilingCabinetBunchEmpty",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C925",
+      "FORMID": "00C925",
+      "EDID": "NVDLC04FilingCabinetBunch03",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C926",
+      "FORMID": "00C926",
+      "EDID": "NVDLC04FilingCabinetBunch01",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C927",
+      "FORMID": "00C927",
+      "EDID": "NVDLC04FilingCabinetEmpty",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C928",
+      "FORMID": "00C928",
+      "EDID": "NVDLC04FilingCabinet04",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C929",
+      "FORMID": "00C929",
+      "EDID": "NVDLC04FilingCabinet03",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92A",
+      "FORMID": "00C92A",
+      "EDID": "NVDLC04FilingCabinet02",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92B",
+      "FORMID": "00C92B",
+      "EDID": "NVDLC04FilingCabinet01",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92C",
+      "FORMID": "00C92C",
+      "EDID": "NVDLC04LootDufflebagEmpty",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92D",
+      "FORMID": "00C92D",
+      "EDID": "NVDLC04LootDufflebag04",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92E",
+      "FORMID": "00C92E",
+      "EDID": "NVDLC04LootDufflebag03",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C92F",
+      "FORMID": "00C92F",
+      "EDID": "NVDLC04LootDufflebag02",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C930",
+      "FORMID": "00C930",
+      "EDID": "NVDLC04LootDufflebag01",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C931",
+      "FORMID": "00C931",
+      "EDID": "NVDLC04LootSmallCrateEmpty",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C932",
+      "FORMID": "00C932",
+      "EDID": "NVDLC04LootNukeSmallCrate01",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C933",
+      "FORMID": "00C933",
+      "EDID": "NVDLC04LootNukeSmallCrate02",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C934",
+      "FORMID": "00C934",
+      "EDID": "NVDLC04LootSmallCrate02",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C935",
+      "FORMID": "00C935",
+      "EDID": "NVDLC04LootSmallCrate01",
+      "FULL": "Caixote Sujo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C936",
+      "FORMID": "00C936",
+      "EDID": "NVDLC04LootEyebotDestroyed05",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C937",
+      "FORMID": "00C937",
+      "EDID": "NVDLC04LootEyebotDestroyed04",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C938",
+      "FORMID": "00C938",
+      "EDID": "NVDLC04LootEyebotDestroyed03",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C939",
+      "FORMID": "00C939",
+      "EDID": "NVDLC04LootEyebotDestroyed02",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93A",
+      "FORMID": "00C93A",
+      "EDID": "NVDLC04LootEyebotDestroyed01",
+      "FULL": "Eyebot Destruído"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93B",
+      "FORMID": "00C93B",
+      "EDID": "NVDLC04DeskWoodTopRustyEmpty",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93C",
+      "FORMID": "00C93C",
+      "EDID": "NVDLC04DeskWoodTopRusty04",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93D",
+      "FORMID": "00C93D",
+      "EDID": "NVDLC04DeskWoodTopRusty03",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93E",
+      "FORMID": "00C93E",
+      "EDID": "NVDLC04DeskWoodTopRusty02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C93F",
+      "FORMID": "00C93F",
+      "EDID": "NVDLC04DeskWoodTopRusty01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C940",
+      "FORMID": "00C940",
+      "EDID": "NVDLC04DeskOfficeMetalEmpty",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C941",
+      "FORMID": "00C941",
+      "EDID": "NVDLC04DeskOfficeMetal04",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C942",
+      "FORMID": "00C942",
+      "EDID": "NVDLC04DeskOfficeMetal03",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C943",
+      "FORMID": "00C943",
+      "EDID": "NVDLC04DeskOfficeMetal02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C944",
+      "FORMID": "00C944",
+      "EDID": "NVDLC04DeskOfficeMetal01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C945",
+      "FORMID": "00C945",
+      "EDID": "NVDLC04DeskOfficeCornerMetalEmpty",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C946",
+      "FORMID": "00C946",
+      "EDID": "NVDLC04DeskOfficeCornerMetal04",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C947",
+      "FORMID": "00C947",
+      "EDID": "NVDLC04DeskOfficeCornerMetal03",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C948",
+      "FORMID": "00C948",
+      "EDID": "NVDLC04DeskOfficeCornerMetal02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C949",
+      "FORMID": "00C949",
+      "EDID": "NVDLC04DeskOfficeCornerMetal01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94A",
+      "FORMID": "00C94A",
+      "EDID": "NVDLC04LootCrateShippingDamaged05",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94B",
+      "FORMID": "00C94B",
+      "EDID": "NVDLC04LootCrateShippingDamaged04",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94C",
+      "FORMID": "00C94C",
+      "EDID": "NVDLC04LootCrateShippingDamaged03",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94D",
+      "FORMID": "00C94D",
+      "EDID": "NVDLC04LootCrateShippingDamaged02",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94E",
+      "FORMID": "00C94E",
+      "EDID": "NVDLC04LootCrateShippingDamaged01",
+      "FULL": "Caixa de Transporte Danificada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C94F",
+      "FORMID": "00C94F",
+      "EDID": "NVDLC04LootTruckCrateCaravanEmpty",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C950",
+      "FORMID": "00C950",
+      "EDID": "NVDLC04LootTruckCrateCaravan04",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C951",
+      "FORMID": "00C951",
+      "EDID": "NVDLC04LootTruckCrateCaravan03",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C952",
+      "FORMID": "00C952",
+      "EDID": "NVDLC04LootTruckCrateCaravan02",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C953",
+      "FORMID": "00C953",
+      "EDID": "NVDLC04LootTruckCrateCaravan01",
+      "FULL": "Caixote de Caravan"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C954",
+      "FORMID": "00C954",
+      "EDID": "NVDLC04LootFridgeBroken05",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C955",
+      "FORMID": "00C955",
+      "EDID": "NVDLC04LootFridgeBroken04",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C956",
+      "FORMID": "00C956",
+      "EDID": "NVDLC04LootFridgeBroken03",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C957",
+      "FORMID": "00C957",
+      "EDID": "NVDLC04LootFridgeBroken02",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C958",
+      "FORMID": "00C958",
+      "EDID": "NVDLC04LootFridgeBroken01",
+      "FULL": "Geladeira Quebrada"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C959",
+      "FORMID": "00C959",
+      "EDID": "NVDLC04LootEyebotBroken05",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95A",
+      "FORMID": "00C95A",
+      "EDID": "NVDLC04LootEyebotBroken04",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95B",
+      "FORMID": "00C95B",
+      "EDID": "NVDLC04LootEyebotBroken03",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95C",
+      "FORMID": "00C95C",
+      "EDID": "NVDLC04LootEyebotBroken02",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95D",
+      "FORMID": "00C95D",
+      "EDID": "NVDLC04LootEyebotBroken01",
+      "FULL": "Eyebot Defeituoso"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95E",
+      "FORMID": "00C95E",
+      "EDID": "NVDLC04LootAshPileEmpty",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C95F",
+      "FORMID": "00C95F",
+      "EDID": "NVDLC04LootNukeAshPile01",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C960",
+      "FORMID": "00C960",
+      "EDID": "NVDLC04LootNukeAshPile02",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C961",
+      "FORMID": "00C961",
+      "EDID": "NVDLC04LootAshPile02",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C962",
+      "FORMID": "00C962",
+      "EDID": "NVDLC04LootAshPile01",
+      "FULL": "Pilha de Cinzas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C963",
+      "FORMID": "00C963",
+      "EDID": "NVDLC04LootAmmoBoxEmpty",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C964",
+      "FORMID": "00C964",
+      "EDID": "NVDLC04LootNukeAmmoBox01",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C965",
+      "FORMID": "00C965",
+      "EDID": "NVDLC04LootNukeAmmoBox02",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C966",
+      "FORMID": "00C966",
+      "EDID": "NVDLC04LootAmmoBox02",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C967",
+      "FORMID": "00C967",
+      "EDID": "NVDLC04LootAmmoBox01",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C968",
+      "FORMID": "00C968",
+      "EDID": "NVDLC04LootDuffleBagAdventurer05",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C969",
+      "FORMID": "00C969",
+      "EDID": "NVDLC04LootDuffleBagAdventurer04",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C96A",
+      "FORMID": "00C96A",
+      "EDID": "NVDLC04LootDuffleBagAdventurer03",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C96B",
+      "FORMID": "00C96B",
+      "EDID": "NVDLC04LootDuffleBagAdventurer02",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C96C",
+      "FORMID": "00C96C",
+      "EDID": "NVDLC04LootDuffleBagAdventurer01",
+      "FULL": "Pacote do Aventureiro"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C96D",
+      "FORMID": "00C96D",
+      "EDID": "NVDLC04SuitCaseRawr",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9CE",
+      "FORMID": "00C9CE",
+      "EDID": "NVDLC04CraftingCampfireContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9CF",
+      "FORMID": "00C9CF",
+      "EDID": "NVDLC04CraftingReloadingBenchContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9D0",
+      "FORMID": "00C9D0",
+      "EDID": "NVDLC04CraftingWorkBenchContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9D1",
+      "FORMID": "00C9D1",
+      "EDID": "NVDLC04LootWorkBenchContainer",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9D3",
+      "FORMID": "00C9D3",
+      "EDID": "NVDLC04Road02Crate",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA57",
+      "FORMID": "00CA57",
+      "EDID": "NVDLC04LootAmmoBox308",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CAFA",
+      "FORMID": "00CAFA",
+      "EDID": "NVDLC04LootAmmoBoxAmmoFlareGun",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCB7",
+      "FORMID": "00CCB7",
+      "EDID": "NVDLC04ToolboxLiquor",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCB8",
+      "FORMID": "00CCB8",
+      "EDID": "NVDLC04ToolboxContainerWithGun",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCB9",
+      "FORMID": "00CCB9",
+      "EDID": "NVDLC04ToolboxChems",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBA",
+      "FORMID": "00CCBA",
+      "EDID": "NVDLC04LootTruckCrateMinesPulse100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBB",
+      "FORMID": "00CCBB",
+      "EDID": "NVDLC04LootTruckCrateMinesPlasma100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBC",
+      "FORMID": "00CCBC",
+      "EDID": "NVDLC04LootTruckCrateMinesFrag100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBD",
+      "FORMID": "00CCBD",
+      "EDID": "NVDLC04LootTruckCrateMines100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBE",
+      "FORMID": "00CCBE",
+      "EDID": "NVDLC04LootTruckCrateGrenadesPulse100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCBF",
+      "FORMID": "00CCBF",
+      "EDID": "NVDLC04LootTruckCrateGrenadesPlasma100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCC0",
+      "FORMID": "00CCC0",
+      "EDID": "NVDLC04LootTruckCrateGrenadesIncendiary100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCC1",
+      "FORMID": "00CCC1",
+      "EDID": "NVDLC04LootTruckCrateGrenadesFrag100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCC2",
+      "FORMID": "00CCC2",
+      "EDID": "NVDLC04LootTruckCrateGrenades100",
+      "FULL": "Caixote de Remessa Militar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCC3",
+      "FORMID": "00CCC3",
+      "EDID": "NVDLC04LootSafeFloorSilo02Rubble",
+      "FULL": "Cofre do Chão"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCC9",
+      "FORMID": "00CCC9",
+      "EDID": "NVDLC04LootAmmoBoxElectronChargePacks",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CCCA",
+      "FORMID": "00CCCA",
+      "EDID": "NVDLC04LootAmmoBox308LOCK",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D101",
+      "FORMID": "00D101",
+      "EDID": "NVDLC04LootFirstAidKitLock",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1BA",
+      "FORMID": "00D1BA",
+      "EDID": "NVDLC04LockerArmorLOCKED",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1BC",
+      "FORMID": "00D1BC",
+      "EDID": "NVDLC04LockerArmor",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1BE",
+      "FORMID": "00D1BE",
+      "EDID": "NVDLC04LockerRiotArmor",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1D7",
+      "FORMID": "00D1D7",
+      "EDID": "NVDLC04LockerRiotArmorLocked",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D211",
+      "FORMID": "00D211",
+      "EDID": "NVDLC04MarkedMenCorpse02Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D212",
+      "FORMID": "00D212",
+      "EDID": "NVDLC04MarkedMenCorpse01Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D213",
+      "FORMID": "00D213",
+      "EDID": "NVDLC04MarkedMenCorpse03Container",
+      "FULL": "Homem Marcado Morto"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D273",
+      "FORMID": "00D273",
+      "EDID": "NVDLC04NukeLegionCrate",
+      "FULL": "Caixa de Tributo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2DE",
+      "FORMID": "00D2DE",
+      "EDID": "NVDLC04FootlockerMilitaryLOW",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2E4",
+      "FORMID": "00D2E4",
+      "EDID": "NVDLC04LockerMilitary",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2E7",
+      "FORMID": "00D2E7",
+      "EDID": "NVDLC04LockerMilitaryLock",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D308",
+      "FORMID": "00D308",
+      "EDID": "NVDLC04LootAmmoBox10mm",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D354",
+      "FORMID": "00D354",
+      "EDID": "NVDLC04FootlockerMilitaryMED",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D355",
+      "FORMID": "00D355",
+      "EDID": "NVDLC04FootlockerMilitaryHIGH",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D356",
+      "FORMID": "00D356",
+      "EDID": "NVDLC04FootlockerMilitaryEmpty",
+      "FULL": "Baú"
+    }
+  ]
+}

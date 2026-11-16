@@ -1,0 +1,525 @@
+{
+  "ACTI": [
+    {
+      "FORM": "@OldWorldBlues.esm:00326E",
+      "FORMID": "00326E",
+      "EDID": "NVDLC03SlideshowTrigger",
+      "FULL": "Gatilho de Apresentação de Slides NVDLC03"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0038C6",
+      "FORMID": "0038C6",
+      "EDID": "NVDLC03PlayerStartTrigger",
+      "FULL": "Gatilho de Início do Jogador NVDLC03"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004521",
+      "FORMID": "004521",
+      "EDID": "NVDLC03AutoDoc",
+      "FULL": "Auto-Doc Prototípico"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006DA5",
+      "FORMID": "006DA5",
+      "EDID": "NVDLC03X13LaserTripwireEmitter01",
+      "FULL": "Emissor de Cabo de Laser"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00711E",
+      "FORMID": "00711E",
+      "EDID": "NVDLC03X8SchoolEntryTrigger",
+      "FULL": "Gatilho de Entrada da Escola"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00711F",
+      "FORMID": "00711F",
+      "EDID": "NVDLC03X8TunnelEntryTrigger",
+      "FULL": "Gatilho de Entrada do Túnel X-8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009796",
+      "FORMID": "009796",
+      "EDID": "NVDLC03X8MainCodeBox",
+      "FULL": "Caixa de Código Principal X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CE7",
+      "FORMID": "009CE7",
+      "EDID": "NVDLC03X8CaveExitTrigger",
+      "FULL": "Gatilho de Saída da Caverna X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A736",
+      "FORMID": "00A736",
+      "EDID": "NVDLC03EncCodeBox",
+      "FULL": "Caixa de Código de Encontro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A737",
+      "FORMID": "00A737",
+      "EDID": "NVDLC03EncList",
+      "FULL": "Lista de Geração de Encontros"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A930",
+      "FORMID": "00A930",
+      "EDID": "NVDLC03ForbiddenZoneTrigger",
+      "FULL": "Gatilho da Zona Proibida NVDLC03"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AC6C",
+      "FORMID": "00AC6C",
+      "EDID": "NVDLC03X8Trigger",
+      "FULL": "Gatilho X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00ACF9",
+      "FORMID": "00ACF9",
+      "EDID": "NVDLC03SatelliteStationTrigger",
+      "FULL": "Gatilho de Atualização da Missão da Estação de Satélite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AD01",
+      "FORMID": "00AD01",
+      "EDID": "NVDLC03X8CaveTrigger",
+      "FULL": "Gatilho da Caverna X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BEB6",
+      "FORMID": "00BEB6",
+      "EDID": "NVDLC03DrinkUrinal01Avg",
+      "FULL": "Mictório",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BEB7",
+      "FORMID": "00BEB7",
+      "EDID": "NVDLC03DrinkToilet01Avg",
+      "FULL": "Privada",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BEB8",
+      "FORMID": "00BEB8",
+      "EDID": "NVDLC03DrinkSink01Avg",
+      "FULL": "Pia",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BEB9",
+      "FORMID": "00BEB9",
+      "EDID": "NVDLC03DrinkWaterfountain01Avg",
+      "FULL": "Bebedouro",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C7DD",
+      "FORMID": "00C7DD",
+      "EDID": "NVDLC03HotPlate",
+      "FULL": "Chapa Quente"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C8C2",
+      "FORMID": "00C8C2",
+      "EDID": "NVDLC03SinkLightSwitch",
+      "FULL": "Interruptor de Luz"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C8DD",
+      "FORMID": "00C8DD",
+      "EDID": "NVDLC03MeetKleinTrigger",
+      "FULL": "Jogador Encontra o Gatilho de Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CA13",
+      "FORMID": "00CA13",
+      "EDID": "NVDLC03ArtilleryControls",
+      "FULL": "Controles de Artilharia",
+      "XATO": "Iniciar Teste de Disparo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D36D",
+      "FORMID": "00D36D",
+      "EDID": "NVDLC03SinkJukeBox",
+      "FULL": "Recalibrador de Ondas Sonoras"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D6CE",
+      "FORMID": "00D6CE",
+      "EDID": "NVDLC03ThinkTankPacifyTrigger",
+      "FULL": "Gatilho de Pacificação do Think Tank"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E0DA",
+      "FORMID": "00E0DA",
+      "EDID": "NVDLC03X8TurretKillVolume",
+      "FULL": "Volume de Morte da Torreta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F085",
+      "FORMID": "00F085",
+      "EDID": "NVDLC03X8ScorpionTrigger",
+      "FULL": "Gatilho de Escorpião X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F44A",
+      "FORMID": "00F44A",
+      "EDID": "NVDLC03ForbiddenScorpionTrigger",
+      "FULL": "Gatilho de Escorpião da Zona Proibida"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7F7",
+      "FORMID": "00F7F7",
+      "EDID": "NVDLC03X13ProximityMine",
+      "FULL": "Detector de Proximidade",
+      "XATO": "Desligar Detector de Proximidade"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104D7",
+      "FORMID": "0104D7",
+      "EDID": "NVDLC03CrashedSatelliteOld",
+      "FULL": "Satélite Caído"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D8C",
+      "FORMID": "011D8C",
+      "EDID": "NVDLC03Satellite",
+      "FULL": "Satélite Caído"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D8F",
+      "FORMID": "011D8F",
+      "EDID": "NVDLC03DriveInMovie",
+      "FULL": "Cinema Drive-in"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01208F",
+      "FORMID": "01208F",
+      "EDID": "NVDLC03ChemistrySet",
+      "FULL": "Kit de Química de Luxo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01213D",
+      "FORMID": "01213D",
+      "EDID": "NVDLC03CaveFungusACTIVATOR",
+      "FULL": "Fungo Mutante da Caverna",
+      "XATO": "Pegar Fungo Mutante da Caverna"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013574",
+      "FORMID": "013574",
+      "EDID": "NVDLC03SinkJukeBoxLockedA",
+      "FULL": "Jukebox Desativada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013586",
+      "FORMID": "013586",
+      "EDID": "NVDLC03VendingMachine",
+      "FULL": "Máquina de Venda Holográfica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A59",
+      "FORMID": "013A59",
+      "EDID": "NVDLC03EnableTrigger",
+      "FULL": "Ativar Vinculado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A5A",
+      "FORMID": "013A5A",
+      "EDID": "NVDLC03BombCollar",
+      "FULL": "Explosão de Cabeça",
+      "XATO": "Beber"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014177",
+      "FORMID": "014177",
+      "EDID": "NVDLC03HazmatField",
+      "FULL": "Unidade de Contenção para Traje Hazmat"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014178",
+      "FORMID": "014178",
+      "EDID": "NVDLC03HazmatSuit",
+      "FULL": "Traje Antirradiação",
+      "XATO": "Pegar Roupa de Proteção"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141CC",
+      "FORMID": "0141CC",
+      "EDID": "NVDLC03X8TunnelHoloBox",
+      "FULL": "Caixa de Código do Holograma do Túnel X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01474A",
+      "FORMID": "01474A",
+      "EDID": "NVDLC03JukeBoxDirty01",
+      "FULL": "Jukebox"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014961",
+      "FORMID": "014961",
+      "EDID": "NVDLC03BattleBrewStill",
+      "FULL": "Alambique Estranho"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014962",
+      "FORMID": "014962",
+      "EDID": "NVDLC03HangingMeatActivator",
+      "FULL": "Carne Pendurada",
+      "XATO": "Pegar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AAF",
+      "FORMID": "014AAF",
+      "EDID": "NVDLC03X8SchoolTrigger01",
+      "FULL": "Gatilho de Cão Escolar X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AB0",
+      "FORMID": "014AB0",
+      "EDID": "NVDLC03X8SchoolTrigger02",
+      "FULL": "Gatilho do Cão Escolar X8 2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014ABE",
+      "FORMID": "014ABE",
+      "EDID": "NVDLC03UlyssesMap",
+      "FULL": "Mapa de Ulysses"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014D81",
+      "FORMID": "014D81",
+      "EDID": "NVDLC03ElijahsJournal",
+      "FULL": "Diário de Elijah"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015285",
+      "FORMID": "015285",
+      "EDID": "NVDLC03StripeWildWastelandTrigger",
+      "FULL": "Acionador de Faixa do Ermo Selvagem"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01530F",
+      "FORMID": "01530F",
+      "EDID": "NVDLC03LegendaryBloatflyCodeBox",
+      "FULL": "Caixa de Código da Mosca-de-inchaço Lendária"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0154F7",
+      "FORMID": "0154F7",
+      "EDID": "NVDLC03SinkTrigger",
+      "FULL": "Gatilho da Pia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015502",
+      "FORMID": "015502",
+      "EDID": "NVDLC03x8GabesDeathCodeBox",
+      "FULL": "Caixa de Código da Morte do X8 Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015581",
+      "FORMID": "015581",
+      "EDID": "NVDLC03X8ControlPanel01",
+      "FULL": "Painel de Controle da Serra Cirúrgica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157AB",
+      "FORMID": "0157AB",
+      "EDID": "NVDLC03X8TunnelBarkTrigger03",
+      "FULL": "Gatilho de Latido do Túnel X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157AC",
+      "FORMID": "0157AC",
+      "EDID": "NVDLC03X8TunnelBarkTrigger04",
+      "FULL": "Gatilho de Latido do Túnel X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157AD",
+      "FORMID": "0157AD",
+      "EDID": "NVDLC03X8TunnelBarkTrigger02",
+      "FULL": "Gatilho de Latido do Túnel X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0157AE",
+      "FORMID": "0157AE",
+      "EDID": "NVDLC03X8TunnelBarkTrigger05",
+      "FULL": "Gatilho de Latido do Túnel X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015AB8",
+      "FORMID": "015AB8",
+      "EDID": "NVDLC03FakeCorrosiveGlove",
+      "FULL": "Luva Corrosiva",
+      "XATO": "Pegar Luva Corrosiva"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015AD5",
+      "FORMID": "015AD5",
+      "EDID": "NVDLC03HoloBaseCode01Activator",
+      "FULL": "Ativador do Código Base do Holo NVDLC03"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B07",
+      "FORMID": "015B07",
+      "EDID": "NVDLC03X2AntennaActivator",
+      "FULL": "Antena X-2",
+      "XATO": "Pegar Antena X-2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015DD5",
+      "FORMID": "015DD5",
+      "EDID": "NVDLC03BodyPartTankSpineActivator",
+      "FULL": "Tanque"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015DD6",
+      "FORMID": "015DD6",
+      "EDID": "NVDLC03BodyPartTankHeartActivator",
+      "FULL": "Tanque"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015DD7",
+      "FORMID": "015DD7",
+      "EDID": "NVDLC03BodyPartTankBrainActivator",
+      "FULL": "Tanque"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D38",
+      "FORMID": "012D38",
+      "EDID": "NVDLC03HQBuddySeedBox01",
+      "FULL": "Pacote de Sementes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D3A",
+      "FORMID": "012D3A",
+      "EDID": "NVDLC03HQBuddySeedBox02",
+      "FULL": "Pacote de Sementes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D3B",
+      "FORMID": "012D3B",
+      "EDID": "NVDLC03HQBuddySeedBox03",
+      "FULL": "Pacote de Sementes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D58",
+      "FORMID": "012D58",
+      "EDID": "NVDLC03BrainTankOpenTrigger",
+      "FULL": "Gatilho Abrir Tanque Cerebral"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F06",
+      "FORMID": "012F06",
+      "EDID": "NVDLC03FakeProtonicInversalAxe",
+      "FULL": "Machado Protônico Inversor"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F0B",
+      "FORMID": "012F0B",
+      "EDID": "NVDLC03FakeInversalAxeThrown",
+      "FULL": "Machado Inversor Arremessado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F0C",
+      "FORMID": "012F0C",
+      "EDID": "NVDLC03FakeSaturnitePowerFist",
+      "FULL": "Manopla de Força Saturnite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F0D",
+      "FORMID": "012F0D",
+      "EDID": "NVDLC03FakeChristineRifle",
+      "FULL": "Fuzil de Precisão Silenciado COS da Christine",
+      "XATO": "Pegar o Rifle Silenciador COS de Christine"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F1D",
+      "FORMID": "012F1D",
+      "EDID": "NVDLC03FakeElijahLAER",
+      "FULL": "LAER Avançada de Elijah",
+      "XATO": "Pegue o LAER Avançado de Elijah"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F1E",
+      "FORMID": "012F1E",
+      "EDID": "NVDLC03FakeElijahTeslaCannon",
+      "FULL": "Canhão de Tesla Gambiarrado do Elijah",
+      "XATO": "Pegue o Canhão de Tesla Gambiarra do Elijah"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F1F",
+      "FORMID": "012F1F",
+      "EDID": "NVDLC03FakeLAER",
+      "FULL": "LAER"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F20",
+      "FORMID": "012F20",
+      "EDID": "NVDLC03FakeSterilizerGlove",
+      "FULL": "Luva Esterilizadora",
+      "XATO": "Pegar Luva Esterilizadora"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F21",
+      "FORMID": "012F21",
+      "EDID": "NVDLC03FakeKleinGlove",
+      "FULL": "Luva do Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012F29",
+      "FORMID": "012F29",
+      "EDID": "NVDLC03FakeMobiusGlove",
+      "FULL": "Luva do Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01307E",
+      "FORMID": "01307E",
+      "EDID": "NVDLC03CrashedSatelliteTrigger",
+      "FULL": "Gatilho de Satélite"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01363B",
+      "FORMID": "01363B",
+      "EDID": "NVDLC03X8BarkTrigger",
+      "FULL": "Gatilho de Falas do Enredo X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013641",
+      "FORMID": "013641",
+      "EDID": "NVDLC03X2BarkTrigger",
+      "FULL": "Gatilho de Enredo X2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0137D8",
+      "FORMID": "0137D8",
+      "EDID": "NVDLC03EnableControlsTrigger",
+      "FULL": "Ativar Acionador de Controles"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014373",
+      "FORMID": "014373",
+      "EDID": "NVDLC03GenereicWildWasteland",
+      "FULL": "Ermo Selvagem Genérico"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014ED9",
+      "FORMID": "014ED9",
+      "EDID": "NVDLC03PitOfDoom",
+      "FULL": "Fosso da Perdição"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015104",
+      "FORMID": "015104",
+      "EDID": "NVDLC03X13StealthArmorPants",
+      "FULL": "Protótipo Danificado",
+      "XATO": "Protótipo Danificado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016A82",
+      "FORMID": "016A82",
+      "EDID": "NVDLC03EncCodeBox02",
+      "FULL": "Caixa de Código de Encontro para Caixa #7"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "PERK": [
+    {
+      "FORM": "@LonesomeRoad.esm:00A602",
+      "FORMID": "00A602",
+      "EDID": "NVDLC04CamaraderEPerk",
+      "FULL": "Camarada-E",
+      "DESC": "Viajar com ED-E deu a você uma chance de criar laços com ele, desbloqueando cinco níveis de bônus potenciais. Enquanto ED-E estiver no seu grupo, ambos ganham:\n\nNível 1 - Bônus de Condição de Arma (opção de diálogo diária de reparo de condição de arma de 25%)\nNível 2 - Fabricação de Células de Energia (opção de diálogo diária de criação de Células de Energia ou Microfusão)\nNível 3 - DR Aumentado (+2 DR)\nNível 4 - Bônus de Dano (+5 de dano com armas de raio)\nNível 5 - Bônus de Ataque V.A.T.S. (+5% de mira no V.A.T.S.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DC",
+      "FORMID": "00A6DC",
+      "EDID": "NVDLC04LonesomeRoadPerk",
+      "FULL": "A Estrada Solitária",
+      "DESC": "Você deixou ED-E para trás no Templo de Ulysses, não que precisasse de ajuda de qualquer forma. Enquanto não tiver companheiros, seus ataques infligem +10% de dano e você tem +10% de precisão no VATS."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DD",
+      "FORMID": "00A6DD",
+      "EDID": "NVDLC04MarkedPerk",
+      "FULL": "Marcado",
+      "DESC": "Você sofreu tortura nas mãos dos Homens Marcados... agora é hora do troco. (+10% de Resistência a Dano e +10% de Dano contra os Homens Marcados)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DE",
+      "FORMID": "00A6DE",
+      "EDID": "NVDLC04CertifiedTechPerk",
+      "FULL": "Técnico Certificado",
+      "DESC": "Seu conhecimento de componentes robóticos permite que você os quebre mais facilmente e salve seus cadáveres mecânicos. Você tem +25% de chance de acertar golpes críticos em robôs e também encontrará componentes mais úteis nos robôs que destruir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6DF",
+      "FORMID": "00A6DF",
+      "EDID": "NVDLC04BroadDaylightPerk",
+      "FULL": "Em Plena Luz do Dia",
+      "DESC": "Você é tão sorrateiro que consegue se esgueirar mesmo com a luz do seu Pip-Boy acesa! Sempre que a luz do Pip-Boy estiver acesa, você recebe um bônus de esgueirar para compensar a penalidade de esgueirar da luz."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A749",
+      "FORMID": "00A749",
+      "EDID": "NVDLC04AintLikeThatNowPerk",
+      "FULL": "Não Sou Mais o Mesmo",
+      "DESC": "Talvez você tenha sido mau uma vez, mas não é mais assim. Seu Karma foi reiniciado para 0, você regenera PA 25% mais rápido e sua velocidade de ataque aumenta em 20%. Você também é imune a acertos críticos. (Requer Karma Ruim.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C24E",
+      "FORMID": "00C24E",
+      "EDID": "NVDLC04ThoughtYouForDeadPerk",
+      "FULL": "Achou que Eu Estava Morto?",
+      "DESC": "Seu passado lendário caiu no esquecimento, porque todos acharam que você morreu. Seu Karma é reiniciado, você inflige +10% de dano e, a cada 100 pontos de Karma, você ganha 10 de Saúde. Você também é imune a acertos críticos. (Requer Bom Karma.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C24F",
+      "FORMID": "00C24F",
+      "EDID": "NVDLC04JustLuckyImAlivePerk",
+      "FULL": "Ainda Bem que Estou Vivo",
+      "DESC": "Você já passou por poucas e boas. Sempre que terminar uma luta com menos de 25% de Saúde, sua Sorte aumenta em +4 por 3 minutos. Você também fica imune a acertos críticos, e seus próprios acertos críticos infligem +50% de dano. (Requer Karma Neutro.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C250",
+      "FORMID": "00C250",
+      "EDID": "NVDLC04BurdenToBearPerk",
+      "FULL": "Fardo a Carregar",
+      "DESC": "O andarilho com mais equipamento vence! (... ou pelo menos sobrevive.) Agora você pode carregar 22 quilos de equipamento adicional (acumula com a vantagem Costas Fortes)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C251",
+      "FORMID": "00C251",
+      "EDID": "NVDLC04RoughinItPerk",
+      "FULL": "Vida Dura",
+      "DESC": "Você se sente mais em casa sob as estrelas do que sob um teto. Sempre que você dorme ao ar livre, você ganha os benefícios de Estar Bem Descansado, mesmo que não possua a cama."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C252",
+      "FORMID": "00C252",
+      "EDID": "NVDLC04AlertnessPerk",
+      "FULL": "Estado de Alerta",
+      "DESC": "Você aprendeu a manter seus sentidos alertas a qualquer perigo. Quando agachado e sem se mover, você ganha +2 no seu atributo Percepção para ajudar a encontrar inimigos antes que eles encontrem você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C253",
+      "FORMID": "00C253",
+      "EDID": "NVDLC04VoraciousReaderPerk",
+      "FULL": "Leitor Voraz",
+      "DESC": "Você não só lê livros, você os devora. Livros danificados que você pega viram revistas em branco, que você pode usar para copiar suas revistas de habilidade existentes em uma bancada (ou converter revistas em branco de volta para livros)."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C254",
+      "FORMID": "00C254",
+      "EDID": "NVDLC04WalkerInstinctPerk",
+      "FULL": "Instinto do Andarilho",
+      "DESC": "Seus sentidos se tornaram tão aguçados que você consegue sentir a menor vibração no chão. Você ganha +1 nos atributos Percepção e Agilidade enquanto estiver ao ar livre."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C255",
+      "FORMID": "00C255",
+      "EDID": "NVDLC04IrradiatedBeautyPerk",
+      "FULL": "Beleza Irradiada",
+      "DESC": "Toda vez que você dormir, você removerá toda a sua Radiação, além de recuperar toda a sua Saúde. (No Modo Hardcore, você ainda não recupera a Saúde, mas perde 100 Rads.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C256",
+      "FORMID": "00C256",
+      "EDID": "NVDLC04LessonsLearnedPerk",
+      "FULL": "Lições Aprendidas",
+      "DESC": "O ermo te ensinou algumas lições duras, mas você se lembrou de todas elas. Você ganha +1% de experiência obtida por nível ganho. (Por exemplo, +25% de experiência no nível 25.)"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C258",
+      "FORMID": "00C258",
+      "EDID": "NVDLC04TunnelRunnerPerk",
+      "FULL": "Corredor de Túnel",
+      "DESC": "Os labirintos de A Divisão ensinaram você a abaixar a cabeça. Sua velocidade de movimento aumenta muito ao se esgueirar com armadura leve."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C259",
+      "FORMID": "00C259",
+      "EDID": "NVDLC04ScourgeOfTheEastPerk",
+      "FULL": "Flagelo do Leste",
+      "DESC": "Sic semper tyrannis! Você pode colocar um ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com a NCR por quebrar a espinha dorsal da Caesar's Legion, mas perde reputação com a Caesar's Legion."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C25A",
+      "FORMID": "00C25A",
+      "EDID": "NVDLC04DeadMansBurdenPerk",
+      "FULL": "Fardo do Defunto",
+      "DESC": "É o fardo dos mortos lembrar aos vivos o que eles perderam... Você pode colocar um ponto em qualquer um dos seus atributos S.P.E.C.I.A.L. e também ganha reputação com os Boomers e os Gangsters da Pólvora pelas suas... tendências destrutivas, mas perde reputação com a NCR e a Legião de Caesar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C25B",
+      "FORMID": "00C25B",
+      "EDID": "NVDLC04BearSlayerPerk",
+      "FULL": "O Mata-ursos",
+      "DESC": "A NCR não continuará mais sua campanha agressiva de expansão para o Leste. Você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L.. Você também ganha reputação com a Legião de Caesar por aniquilar a terra natal da NCR, mas perde reputação com a NCR."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C25C",
+      "FORMID": "00C25C",
+      "EDID": "NVDLC04DivideSurvivorPerk",
+      "FULL": "Sobrevivente de Divide",
+      "DESC": "A Divisão destruiu cidades, esfolou a pele dos ossos e ameaçou destruir o mundo, mas você sobreviveu e o impediu. Você pode colocar um único ponto em qualquer um dos seus atributos S.P.E.C.I.A.L. e também ganha reputação com os Seguidores do Apocalipse e a Irmandade do Aço por impedir outro Armageddon."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C61F",
+      "FORMID": "00C61F",
+      "EDID": "NVDLC04CamaraderECompanionPerk",
+      "FULL": "Camarada-E",
+      "DESC": "Versão de companheiro do Camarader-E."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D4E3",
+      "FORMID": "00D4E3",
+      "EDID": "NVDLC04EDENoMines",
+      "FULL": "Passo Leve",
+      "DESC": "ED-E não detona minas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DF65",
+      "FORMID": "00DF65",
+      "EDID": "NVDLC04EnhancedSensors",
+      "FULL": "Sensores Aprimorados",
+      "DESC": "Enquanto ED-E for um companheiro, o jogador pode detectar inimigos a uma distância maior. Além disso, inimigos aparecerão na bússola do jogador e podem ser alvejados no V.A.T.S. mesmo quando estiverem camuflados."
+    }
+  ]
+}

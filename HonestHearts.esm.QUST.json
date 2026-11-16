@@ -1,0 +1,367 @@
+{
+  "QUST": [
+    {
+      "FORM": "@HonestHearts.esm:00CC5A",
+      "FORMID": "00CC5A",
+      "EDID": "NVDLC02MQ04Timer",
+      "FULL": "Cronômetro para NVDLC02MQ04"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E74B",
+      "FORMID": "00E74B",
+      "EDID": "NVDLC02RadioMessage",
+      "FULL": "Transmissão da Rádio da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E862",
+      "FORMID": "00E862",
+      "EDID": "NVDLC02Eve",
+      "FULL": "Script Mestre de Eventos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F2C8",
+      "FORMID": "00F2C8",
+      "EDID": "NVDLC02MQ04Timer2",
+      "FULL": "Segundo cronômetro para o final de MQ04"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F304",
+      "FORMID": "00F304",
+      "EDID": "NVDLC02MQ03d",
+      "FULL": "Tempestades se Aproximando",
+      "NNAM": {
+        "10": "Volte para Daniel em The Narrows.",
+        "20": "Diga ao Daniel se os Sorrows devem lutar ou fugir."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F411",
+      "FORMID": "00F411",
+      "EDID": "NVDLC02DialogueStella",
+      "FULL": "NVDLC02 Diálogo da Stella"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F454",
+      "FORMID": "00F454",
+      "EDID": "NVDLC02DialogueRicky",
+      "FULL": "NVDLC02 Diálogo do Ricky"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6EE",
+      "FORMID": "00F6EE",
+      "EDID": "NVDLC02MQ02a",
+      "FULL": "Atração à Beira da Estrada",
+      "NNAM": {
+        "10": "Procure nas ruínas do ônibus de reconhecimento destruído por uma bússola.",
+        "20": "Conserte a bússola danificada em uma bancada de trabalho.",
+        "30": "Opcional: Encontre um módulo de sensor para reparar a bússola.",
+        "40": "Devolva a bússola para Daniel em The Narrows.",
+        "5": "Opcional: Fale com Follows-Chalk sobre levá-lo como guia.",
+        "50": "Repare a bússola quebrada com o módulo do sensor."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6EF",
+      "FORMID": "00F6EF",
+      "EDID": "NVDLC02MQ02b",
+      "FULL": "Fui pescar",
+      "NNAM": {
+        "10": "Procure rádios comunicadores no Zion Fishing Lodge.",
+        "30": "Encontre a chave do armário trancado na Cabana de Pesca de Zion."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F6F0",
+      "FORMID": "00F6F0",
+      "EDID": "NVDLC02MQ02c",
+      "FULL": "Armadilha para Turistas",
+      "NNAM": {
+        "10": "Procure na Estação de Guarda Florestal de Zion por um kit de suprimentos médicos.",
+        "20": "Encontre aguarrás para o kit de suprimentos médicos.",
+        "30": "Encontre fita isolante para o kit de suprimentos médicos.",
+        "40": "Opcional: Encontre uísque, vodca ou escocês para esterilizar o kit de suprimentos médicos.",
+        "50": "Procure na Zion General Store por cinco lancheiras Li'l Scout.",
+        "35": "Recupere o kit de suprimentos médicos numa fogueira.",
+        "55": "Encontre a chave da escrivaninha na Loja Geral de Zion."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F708",
+      "FORMID": "00F708",
+      "EDID": "NVDLC02MQ02d",
+      "FULL": "Portador das Dores",
+      "NNAM": {
+        "10": "Leve os suprimentos que você reuniu para Daniel em The Narrows."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F70D",
+      "FORMID": "00F70D",
+      "EDID": "NVDLC02XPCalculator",
+      "FULL": "Calculadora de XP para DLC02"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB63",
+      "FORMID": "00FB63",
+      "EDID": "NVDLC02SorrowsGenericDialogue",
+      "FULL": "Diálogo Genérico dos Sorrows"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB64",
+      "FORMID": "00FB64",
+      "EDID": "NVDLC02WhiteLegsGenericDialogue",
+      "FULL": "Diálogo Genérico dos White Legs"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00FB65",
+      "FORMID": "00FB65",
+      "EDID": "NVDLC02DeadHorseGenericDialogue",
+      "FULL": "[Jogador(a)]: Qual é a dos Dead Horses?\n[Dead Horse]: Só estamos tentando sobreviver por aqui.\n[Jogador(a)]: O que vocês fazem?\n[Dead Horse]: Catamos, negociamos e tentamos ficar longe de problemas.\n[Jogador(a)]: O que você acha dos White Legs?\n[Dead Horse]: São um bando de selvagens. Tentamos ficar longe deles.\n[Jogador(a)]: O que você acha dos Sorrows?\n[Dead Horse]: São gente boa. Às vezes negociamos com eles.\n[Jogador(a)]: O que você acha dos Grandes Khans?\n[Dead Horse]: São encrenca. Tentamos evitá-los.\n[Jogador(a)]: O que você acha da Legion?\n[Dead Horse]: São uma ameaça para todos. Tentamos ficar escondidos.\n[Jogador(a)]: O que você acha da NCR?\n[Dead Horse]: São gente boa, eu acho. Tentam manter a paz.\n[Jogador(a)]: Onde vocês conseguem seus suprimentos?\n[Dead Horse]: Catamos o que podemos e negociamos com os Sorrows.\n[Jogador(a)]: O que vocês fazem para se divertir?\n[Dead Horse]: Bebemos, jogamos e contamos histórias.\n[Jogador(a)]: Qual é a melhor coisa de viver aqui?\n[Dead Horse]: A liberdade. Ninguém manda na gente.\n[Jogador(a)]: Qual é a pior coisa de viver aqui?\n[Dead Horse]: A constante ameaça de violência.\n[Jogador(a)]: Qual é o seu nome?\n[Dead Horse]: Sou só um Dead Horse.\n[Jogador(a)]: Tchau.\n[Dead Horse]: Até mais."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C25",
+      "FORMID": "010C25",
+      "EDID": "NVDLC02MQ07",
+      "FULL": "Partindo do Paraíso",
+      "NNAM": {
+        "10": "Retorne ao Mojave pela Passagem Sul."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C81",
+      "FORMID": "010C81",
+      "EDID": "NVDLC02FollowersBanter",
+      "FULL": "Controlador de falas aleatórias dos Seguidores."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C82",
+      "FORMID": "010C82",
+      "EDID": "NVDLC02MS04",
+      "FULL": "Assunto de Família",
+      "NNAM": {
+        "10": "Descubra o que Daniel sabe sobre a família de Waking Cloud.",
+        "20": "Conte a Nuvem Desperta sobre a família dela."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C83",
+      "FORMID": "010C83",
+      "EDID": "NVDLC02MS03",
+      "FULL": "O Fardo do Homem Civilizado",
+      "NNAM": {
+        "10": "Fale com Joshua Graham sobre o desejo de Follows-Chalk de ver a civilização.",
+        "20": "Diga a Follows-Chalk sua opinião sobre a civilização."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D96",
+      "FORMID": "010D96",
+      "EDID": "NVDLC02MQ05Timer2",
+      "FULL": "Controle de atenuação para o clímax de MQ05"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EB4",
+      "FORMID": "010EB4",
+      "EDID": "NVDLC02MQ04ForceGreetQuest",
+      "FULL": "Forçar missão de saudação para o fim de MQ04."
+    },
+    {
+      "FORM": "@HonestHearts.esm:010FBC",
+      "FORMID": "010FBC",
+      "EDID": "NVDLC02MQ04ZionWLEnc",
+      "FULL": "Script de encontro em Zion para NVDLC02MQ04"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0117AB",
+      "FORMID": "0117AB",
+      "EDID": "NVDLC02DeathTracker",
+      "FULL": "Rastreamento para iniciar MQ06 se NPCs-chave morrerem."
+    },
+    {
+      "FORM": "@HonestHearts.esm:011968",
+      "FORMID": "011968",
+      "EDID": "NVDLC02MQ05ZionWLEnc",
+      "FULL": "Roteiro de Encontro em Zion para NVDLC02MQ05"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B5A",
+      "FORMID": "009B5A",
+      "EDID": "NVDLC02Enc",
+      "FULL": "Roteiro Mestre de Encontros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A3B9",
+      "FORMID": "00A3B9",
+      "EDID": "NVDLC02MS02",
+      "FULL": "Carneiro-Selvagems da Virgem Oriental",
+      "NNAM": {
+        "10": "Encontre o filhote de carneiro selvagem perdido.",
+        "20": "Leve o bezerro de volta para a mãe dele.",
+        "11": "(Opcional) Não mate nenhum dos Carneiros Selvagens da Montanha.",
+        "25": "Leve o bezerro de volta ao rebanho.",
+        "30": "Fale com Follows-Chalk",
+        "5": "Encontre um jeito de subir nos Penhascos.",
+        "27": "Mate todos os Carneiros Selvagens da Montanha.",
+        "26": "Leve o bezerro para o Segue-Giz"
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AE9C",
+      "FORMID": "00AE9C",
+      "EDID": "NVDLC02MQ06",
+      "FULL": "Caos em Zion",
+      "NNAM": {
+        "10": "Recupere o mapa do Cânion de Zion.",
+        "15": "Deixe Zion e volte para o Ermos de Mojave."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4D1",
+      "FORMID": "00B4D1",
+      "EDID": "NVDLC02MQ05c",
+      "FULL": "Opcional: Retome a Ponte",
+      "NNAM": {
+        "10": "Derrote os White Legs que estão segurando a ponte para Pine Creek."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4D2",
+      "FORMID": "00B4D2",
+      "EDID": "NVDLC02MQ05b",
+      "FULL": "Opcional: Santidade dos Mortos",
+      "NNAM": {
+        "10": "Opcional: Fale com os Sorrows no cemitério.",
+        "20": "Mate os White Legs que estão profanando o cemitério dos Sorrows.",
+        "15": "Opcional: Mate os White Legs que estão profanando o cemitério dos Sorrows."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4D3",
+      "FORMID": "00B4D3",
+      "EDID": "NVDLC02MQ05a",
+      "FULL": "Opcional: Prisioneiros de Guerra",
+      "NNAM": {
+        "10": "Liberte os prisioneiros do Sorrow na Subestação de Rangers Osprey.",
+        "20": "Opcional: Mate os White Legs na Subestação de Rangers Osprey.",
+        "30": "Encontre a chave da porta da cela."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7C0",
+      "FORMID": "00C7C0",
+      "EDID": "NVDLC02MQ03a",
+      "FULL": "Os Escoteiros Avançados",
+      "NNAM": {
+        "15": "Opcional: Roube os totens de guerra dos White Legs dos acampamentos.",
+        "18": "Opcional: Destrua os acampamentos dos Perna Branca em Bighorn Bluff.",
+        "5": "Lide com o acampamento dos White Legs."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7C1",
+      "FORMID": "00C7C1",
+      "EDID": "NVDLC02MQ03b",
+      "FULL": "A Estrada da Traição",
+      "NNAM": {
+        "25": "Opcional: Desarme as armadilhas na ponte.",
+        "28": "Opcional: Mate os White Legs que estão plantando as armadilhas.",
+        "10": "Lide com as armadilhas dos White Legs."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C7C2",
+      "FORMID": "00C7C2",
+      "EDID": "NVDLC02MQ03c",
+      "FULL": "Monstros do Rio",
+      "NNAM": {
+        "35": "Opcional: Desmorone a Caverna Yao Guai.",
+        "38": "Opcional: Mate o Yao Guai em Pine Creek.",
+        "36": "Plantar explosivos de mineração em pontos-chave dentro da caverna.",
+        "37": "Saia da caverna e detone as cargas com o detonador de mineração.",
+        "10": "Lidar com os Yao Guai em Pine Creek."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:0094C3",
+      "FORMID": "0094C3",
+      "EDID": "NVDLC02MS01",
+      "FULL": "Rito de Passagem",
+      "NNAM": {
+        "10": "Pegue as raízes de 3 plantas de Datura Sagrada.",
+        "20": "Devolva as raízes ao Xamã.",
+        "30": "Volte ao Xamã para começar o ritual.",
+        "40": "Pegue a pata do Fantasma de She.",
+        "50": "Volte para o Xamã.",
+        "5": "Fale com White Bird, o xamã.",
+        "25": "Pegue as raízes de 3 plantas de Datura Sagrada."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A37",
+      "FORMID": "008A37",
+      "EDID": "NVDLC02MQ05",
+      "FULL": "Fuga de Zion",
+      "NNAM": {
+        "20": "Abra caminho até o Túnel de Pine Creek.",
+        "30": "Lidar com Salt-Upon-Wounds",
+        "40": "Fale com Daniel.",
+        "50": "Use o detonador para desabar o túnel de Pine Creek."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008A36",
+      "FORMID": "008A36",
+      "EDID": "NVDLC02MQ04",
+      "FULL": "Esmague os White Legs",
+      "NNAM": {
+        "10": "Localize o líder dos White Legs, Salt-Upon-Wounds, e lide com ele.",
+        "30": "Volte para Daniel em A Garganta."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008894",
+      "FORMID": "008894",
+      "EDID": "NVDLC02MQ03",
+      "FULL": "A Grande Escadaria",
+      "NNAM": {
+        "5": "Encontre um mapa da região da Grande Escadaria.",
+        "1": "Opcional: Fale com Nuvem Desperta sobre levá-la como guia.",
+        "3": "Descubra um jeito de abrir a porta do esconderijo do Sobrevivencialista."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008893",
+      "FORMID": "008893",
+      "EDID": "NVDLC02MQ01",
+      "FULL": "Chegada em Zion",
+      "NNAM": {
+        "10": "Opcional: Derrote o ataque dos White Legs.",
+        "20": "Entre no Vale de Zion.",
+        "30": "Viaje para o acampamento dos Dead Horses em Eastern Virgin.",
+        "40": "Fale com Joshua Graham.",
+        "5": "Siga Jed."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008892",
+      "FORMID": "008892",
+      "EDID": "NVDLC02MQ02",
+      "FULL": "Trem de Abastecimento",
+      "NNAM": {
+        "40": "Leve os suprimentos para Daniel em The Narrows.",
+        "30": "Opcional: Fale com Follows-Chalk sobre levá-lo como guia."
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:008891",
+      "FORMID": "008891",
+      "EDID": "NVDLC02MQ00",
+      "FULL": "Expedição Trilhas Felizes",
+      "NNAM": {
+        "10": "Encontre o mestre da caravana Trilhas Felizes.",
+        "20": "Avise o Jed que você está pronto para partir assim que estiver viajando sozinho e carregando 34 quilos ou menos.",
+        "30": "Avise o Jed que você está pronto para partir assim que estiver viajando sozinho e carregando 45 quilos ou menos."
+      }
+    }
+  ]
+}

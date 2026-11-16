@@ -1,0 +1,55 @@
+{
+  "AMMO": [
+    {
+      "FORM": "@LonesomeRoad.esm:00925F",
+      "FORMID": "00925F",
+      "EDID": "AmmoNVDLC04RocketIncendiary",
+      "FULL": "Foguete, Incendiário",
+      "ONAM": "Rocket Inc.",
+      "QNAM": "Inc."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009261",
+      "FORMID": "009261",
+      "EDID": "AmmoNVDLC04Nails",
+      "FULL": "Pregos",
+      "ONAM": "Pregos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009262",
+      "FORMID": "009262",
+      "EDID": "AmmoNVDLC04Rocket",
+      "FULL": "Foguete",
+      "ONAM": "Foguete"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009263",
+      "FORMID": "009263",
+      "EDID": "AmmoNVDLC04RocketHE",
+      "FULL": "Foguete, Explosivo Potente",
+      "ONAM": "Foguete AE",
+      "QNAM": "HE"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A865",
+      "FORMID": "00A865",
+      "EDID": "AmmoNVDLC04EyebotHeal",
+      "FULL": "Munição de Cura",
+      "ONAM": "Curar"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D278",
+      "FORMID": "00D278",
+      "EDID": "NVDLC04AmmoMissileRobot",
+      "FULL": "Míssil",
+      "ONAM": "Míssil"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D5CF",
+      "FORMID": "00D5CF",
+      "EDID": "AmmoNVDLC04NailsCustom",
+      "FULL": "Flechettes",
+      "ONAM": "Flechettes"
+    }
+  ]
+}

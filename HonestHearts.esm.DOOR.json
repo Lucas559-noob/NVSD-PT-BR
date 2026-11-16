@@ -1,0 +1,76 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@HonestHearts.esm:008897",
+      "FORMID": "008897",
+      "EDID": "NVDLC02InvisibleCaveDoorEnter",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00946D",
+      "FORMID": "00946D",
+      "EDID": "NVDLC02ZionStoreOutDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00946E",
+      "FORMID": "00946E",
+      "EDID": "NVDLC02ZionStoreDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A66F",
+      "FORMID": "00A66F",
+      "EDID": "NVDLC02MojaveDoor",
+      "FULL": "Jornada para a Caverna da Passagem do Norte"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CC78",
+      "FORMID": "00CC78",
+      "EDID": "NVDLC02CaveSurvDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F378",
+      "FORMID": "00F378",
+      "EDID": "NVDLC02CaveSurvDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0101B9",
+      "FORMID": "0101B9",
+      "EDID": "NVDLC02ZionDoor",
+      "FULL": "Jornada ao Vale de Zion"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0108A3",
+      "FORMID": "0108A3",
+      "EDID": "NVDLC02InvisibleCaveDoorExit",
+      "FULL": "Sair"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010EB2",
+      "FORMID": "010EB2",
+      "EDID": "NVDLC02MQ05aDoor",
+      "FULL": "Porta da Cela"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01146C",
+      "FORMID": "01146C",
+      "EDID": "NVDLC02NorthernPassageDoor",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011470",
+      "FORMID": "011470",
+      "EDID": "NVDLC02NorthernPassageDoorEnter",
+      "FULL": "Entrada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0115D0",
+      "FORMID": "0115D0",
+      "EDID": "NVDLC02NorthernPassageExitDoor",
+      "FULL": "Porta"
+    }
+  ]
+}

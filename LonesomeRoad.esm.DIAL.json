@@ -1,0 +1,3010 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@LonesomeRoad.esm:00E127",
+      "FORMID": "00E127",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic029",
+      "FULL": "Estou voltando para o Mojave para resolver umas pendências."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA73",
+      "FORMID": "00DA73",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic028",
+      "FULL": "Eu sei que uma pessoa pode destruir uma nação. A Legião testa nações, as fortalece... Que ela faça isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6D",
+      "FORMID": "00DA6D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic024",
+      "FULL": "A Legião não tolera traidores. O que te fez virar as costas para o Leste?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6C",
+      "FORMID": "00DA6C",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic026",
+      "FULL": "Eu não ligo para o que acontece com a NCR, mas não posso permitir que você machuque a Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA6B",
+      "FORMID": "00DA6B",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic027",
+      "FULL": "É assim que tem que terminar entre nós? Você já seguiu para o Leste uma vez, pode fazer isso de novo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA64",
+      "FORMID": "00DA64",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic178",
+      "FULL": "[Legion] Se eu destruí a NCR neste lugar, por que você se importa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA63",
+      "FORMID": "00DA63",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic179",
+      "FULL": "[Legion] Está puto porque essa explosão atrapalhou os planos da Legião? Foi um acidente."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA62",
+      "FORMID": "00DA62",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic180",
+      "FULL": "[Legion] Ver este lugar... significou mais para você do que a Legião?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA61",
+      "FORMID": "00DA61",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic181",
+      "FULL": "[Legion] Então... quando você me chamou de traidor em Hopeville, esse título pertence a você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA60",
+      "FORMID": "00DA60",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic182",
+      "FULL": "[Legion] A Legião não mata a Legião, mas você não é mais um deles. Eu vou te matar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5D",
+      "FORMID": "00DA5D",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic176",
+      "FULL": "[Legion] Legião não mata Legião. Ordens de Caesar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA5C",
+      "FORMID": "00DA5C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic177",
+      "FULL": "[Legion] Você disse que jurou não me matar. Se você é da Legião, por que estamos em conflito?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA58",
+      "FORMID": "00DA58",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic143",
+      "FULL": "Eu não sou nenhum traidor, e quando eu ando, não escondo minha presença."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA57",
+      "FORMID": "00DA57",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic153",
+      "FULL": "Você mencionou \"descartar meu disfarce?\" O que você quer dizer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA56",
+      "FORMID": "00DA56",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic156",
+      "FULL": "Você disse \"irmãos\" antes. Então... você também é da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA55",
+      "FORMID": "00DA55",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic160",
+      "FULL": "Parece que a ideia de uma mulher na Legião te surpreende."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA54",
+      "FORMID": "00DA54",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic174",
+      "FULL": "Continue falando assim, e eu te mato."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA53",
+      "FORMID": "00DA53",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic175",
+      "FULL": "Pelo menos eu não me escondo atrás de uma máquina como um covarde."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4D",
+      "FORMID": "00DA4D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic119",
+      "FULL": "Se minhas palavras não vão te fazer mudar de ideia, que tal as mensagens no Eyebot?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4C",
+      "FORMID": "00DA4C",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic126",
+      "FULL": "Tem história aqui dentro. Os registros do que restou da \"América\"."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4B",
+      "FORMID": "00DA4B",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic127",
+      "FULL": "Seus registros falam de um lugar onde a América sobreviveu... talvez ainda exista. E está desmoronando."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA4A",
+      "FORMID": "00DA4A",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic128",
+      "FULL": "O Eyebot era um mensageiro, enviado ao Oeste, para fazer contato com os remanescentes da América."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA49",
+      "FORMID": "00DA49",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic129",
+      "FULL": "O pacote que eu trouxe era de Navarro, o Divide escaneou os registros do ED-E da Mojave."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA48",
+      "FORMID": "00DA48",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic130",
+      "FULL": "Você interrompeu a jornada dele para o Oeste, aprisionou-o. Se alguma parte da América sobreviveu, está isolada agora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA47",
+      "FORMID": "00DA47",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic131",
+      "FULL": "Acredito que os mísseis não podem ser parados. Se você acreditar em mim, talvez consigamos passar por isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA46",
+      "FORMID": "00DA46",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic132",
+      "FULL": "O símbolo que você usa está morto, e você ajudou a matá-lo. A questão é: o que você fará para consertá-lo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA3A",
+      "FORMID": "00DA3A",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic023",
+      "FULL": "Acho que não é isso que importa aqui."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA39",
+      "FORMID": "00DA39",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic068",
+      "FULL": "Não tenho nada além de palavras para te fazer mudar de ideia. Se não vai me ouvir, acabou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA38",
+      "FORMID": "00DA38",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic070",
+      "FULL": "Não tenho mais nada a dizer, eu já venci. Tudo que você odeia em mim, você se tornou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA37",
+      "FORMID": "00DA37",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic076",
+      "FULL": "\"Você pode voltar para casa, Courier.\" Não é uma mensagem para mim, e sim para você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA36",
+      "FORMID": "00DA36",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic100",
+      "FULL": "Você disse que um lar é um lugar onde se respira vida, um momento em que você sabe quem é."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA35",
+      "FORMID": "00DA35",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic115",
+      "FULL": "Se um Courier construiu uma comunidade, me parece que você também consegue."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA34",
+      "FORMID": "00DA34",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic116",
+      "FULL": "Você está planejando matar uma nação à distância, assim como a NCR, assim como me acusou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA33",
+      "FORMID": "00DA33",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic117",
+      "FULL": "Base moral? O que eu fiz por acidente, você está fazendo de propósito."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA32",
+      "FORMID": "00DA32",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic118",
+      "FULL": "Você não passa de um eco meu, seguindo minha estrada, deixando minha história ditar a sua."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA31",
+      "FORMID": "00DA31",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic120",
+      "FULL": "O Divide sobreviveu em você. Se sentiu que valia a pena lutar por ele, você pode reconstruí-lo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA30",
+      "FORMID": "00DA30",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic121",
+      "FULL": "Olha, só o fato de estarmos conversando já deveria significar que você não quer fazer isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2F",
+      "FORMID": "00DA2F",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic122",
+      "FULL": "Então pare com isso, você não pode acreditar de verdade no que está fazendo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2E",
+      "FORMID": "00DA2E",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic123",
+      "FULL": "Nem pense em sugerir que somos iguais. Você não teria conseguido fazer isso sem que eu trouxesse o que você precisa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2D",
+      "FORMID": "00DA2D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic124",
+      "FULL": "Não há perigo ali. Você pulou a parte de construir a comunidade e foi direto para matar uma."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA2C",
+      "FORMID": "00DA2C",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic125",
+      "FULL": "Quero que morra sabendo que está errado, e é disso que a história lembrará."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA28",
+      "FORMID": "00DA28",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic019",
+      "FULL": "Se você queria me matar, devia ter feito isso há muito tempo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA27",
+      "FORMID": "00DA27",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic022",
+      "FULL": "Acredito que destruir o símbolo nunca é a resposta. Mudá-lo... aí já são outros quinhentos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA25",
+      "FORMID": "00DA25",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic001",
+      "FULL": "Eu ainda não entendo... por que você está fazendo isso?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA07",
+      "FORMID": "00DA07",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic003",
+      "FULL": "Eu tenho algumas fitas de áudio."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA06",
+      "FORMID": "00DA06",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic010",
+      "FULL": "Vou deixar suas palavras responderem, das fitas que você deixou ao longo da estrada para o Divide."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA05",
+      "FORMID": "00DA05",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic011",
+      "FULL": "\"Quem é você, que não conhece sua história?\""
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA04",
+      "FORMID": "00DA04",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic067",
+      "FULL": "Nos registros dos White Legs, você mencionou sua tribo e seu passado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA01",
+      "FORMID": "00DA01",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic081",
+      "FULL": "Quando tudo parecia perdido, você perguntou, mesmo temendo a resposta."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DA00",
+      "FORMID": "00DA00",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic091",
+      "FULL": "Era tudo que você podia dizer para evitar ser morto. É o que eu espero aqui."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9FF",
+      "FORMID": "00D9FF",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic095",
+      "FULL": "Você estava preso, precisava escapar e precisava da distração. Era a chave."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9FE",
+      "FORMID": "00D9FE",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic096",
+      "FULL": "A pergunta lembrou àqueles com quem você falou do propósito deles, do porquê de se importarem."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9FD",
+      "FORMID": "00D9FD",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic097",
+      "FULL": "Você acha mesmo que esses mísseis podem matar todo mundo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9FC",
+      "FORMID": "00D9FC",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic098",
+      "FULL": "Se você acredita que a destruição do Divide foi justa, então não posso impedi-lo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9FB",
+      "FORMID": "00D9FB",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic099",
+      "FULL": "Você mesmo disse nos registros que a tecnologia é um beco sem saída. Esses mísseis não vão resolver porra nenhuma."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F9",
+      "FORMID": "00D9F9",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic101",
+      "FULL": "Pelos seus padrões? Ou pelos da História?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F8",
+      "FORMID": "00D9F8",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic102",
+      "FULL": "Não provou que está errado. É por isso que o conflito entre a Legião e a NCR deve continuar. Para testá-lo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F7",
+      "FORMID": "00D9F7",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic103",
+      "FULL": "Qualquer símbolo merece uma chance de se defender, por palavras ou atos... não... isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F6",
+      "FORMID": "00D9F6",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic104",
+      "FULL": "Mas sua tribo era Nova Canaã."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F5",
+      "FORMID": "00D9F5",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic105",
+      "FULL": "Os White Legs podiam muito bem ter sido o seu povo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F4",
+      "FORMID": "00D9F4",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic106",
+      "FULL": "Estou falando do passado, do respeito que eles te mostraram."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F3",
+      "FORMID": "00D9F3",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic107",
+      "FULL": "Você está errado, e você os levou a destruir sua tribo em Nova Canaã."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F2",
+      "FORMID": "00D9F2",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic108",
+      "FULL": "No registro, você disse que eles eram sombras, pelo jeito que usavam o cabelo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F1",
+      "FORMID": "00D9F1",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic109",
+      "FULL": "Na morte dessa história, outra nasceu, e você aprendeu a respeitar os White Legs."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9F0",
+      "FORMID": "00D9F0",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic110",
+      "FULL": "Mas os Cabelos Retorcidos sobreviveram, mesmo após Caesar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9EF",
+      "FORMID": "00D9EF",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic111",
+      "FULL": "Então você carrega dois símbolos, então: a marca da América e os Cabelos Torcidos, nenhum dos dois morto."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9EE",
+      "FORMID": "00D9EE",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic112",
+      "FULL": "É a prova de que matar um símbolo vai ser mais difícil do que você imaginava."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9ED",
+      "FORMID": "00D9ED",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic113",
+      "FULL": "Não, o que isso quer dizer é que as peças que sobrarem podem ficar piores do que eram antes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9EC",
+      "FORMID": "00D9EC",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic114",
+      "FULL": "Talvez dê pra dizer algo parecido sobre aquela bandeira do Velho Mundo nas suas costas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DF",
+      "FORMID": "00D9DF",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic146",
+      "FULL": "Quer o robô? Por quê?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DE",
+      "FORMID": "00D9DE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic147",
+      "FULL": "O que ele tem de tão importante?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9DA",
+      "FORMID": "00D9DA",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic141",
+      "FULL": "[Legion] Eu não fiquei do lado da Legião até Mojave."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9D9",
+      "FORMID": "00D9D9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic142",
+      "FULL": "[Legion] Eu vou garantir que você responda por isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C5",
+      "FORMID": "00D9C5",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic080",
+      "FULL": "\"O porquê disso?\" É você quem precisa responder isso. Por que está fazendo isso?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C4",
+      "FORMID": "00D9C4",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic136",
+      "FULL": "Então você está puto porque eu, sem querer, levei um explosivo para o Divide?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C3",
+      "FORMID": "00D9C3",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic144",
+      "FULL": "O que aconteceu aqui foi um acidente. Deixe toda a raiva ir embora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C2",
+      "FORMID": "00D9C2",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic155",
+      "FULL": "A explosão de A Divisão... o quê, eu matei sua família? Sua esposa... filhos?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C1",
+      "FORMID": "00D9C1",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic157",
+      "FULL": "Quando você fala dos mortos, você quer dizer os Homens Marcados? A Legião e a NCR?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9C0",
+      "FORMID": "00D9C0",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic158",
+      "FULL": "[NCR] Os mortos? Quer dizer, as tropas da República que estavam aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BF",
+      "FORMID": "00D9BF",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic159",
+      "FULL": "[Legion] Os mortos? Quer dizer seus irmãos na Legião... nossos irmãos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BE",
+      "FORMID": "00D9BE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic161",
+      "FULL": "E então? A explosão do Divide matou sua família? Sua esposa... filhos?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BD",
+      "FORMID": "00D9BD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic162",
+      "FULL": "Se você é da Legião, está puto porque eu destruí a linha de suprimentos do Divide em vez de você?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BC",
+      "FORMID": "00D9BC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic163",
+      "FULL": "[Legion] Matar a NCR, cortar a linha de suprimentos deles em A Divisão serve à Legião, assim como a todos nós."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BB",
+      "FORMID": "00D9BB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic164",
+      "FULL": "Se você me culpa pelo que aconteceu aqui na Divisão, por que se importa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9BA",
+      "FORMID": "00D9BA",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic165",
+      "FULL": "Você acha que eu sou responsável por isso. Minha pergunta é qual é a sua ligação com este lugar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B9",
+      "FORMID": "00D9B9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic166",
+      "FULL": "Fico feliz que este lugar tenha queimado... obviamente, significava algo para você, o que torna tudo ainda melhor."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B8",
+      "FORMID": "00D9B8",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic167",
+      "FULL": "Então você acreditava neste lugar. No que ele já foi."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B7",
+      "FORMID": "00D9B7",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic168",
+      "FULL": "Se você se importava com a Divisão, então lamento o que aconteceu aqui."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B6",
+      "FORMID": "00D9B6",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic169",
+      "FULL": "Tudo chega ao fim. Se você botou fé em algo fora de você, azar o seu."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B5",
+      "FORMID": "00D9B5",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic170",
+      "FULL": "E é por isso que você me quer morto."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B4",
+      "FORMID": "00D9B4",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic171",
+      "FULL": "Então essa é a vingança, então. Por destruir o Divide."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B3",
+      "FORMID": "00D9B3",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic172",
+      "FULL": "Se é por isso que você está puto, você não viu nada ainda."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D9B2",
+      "FORMID": "00D9B2",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic173",
+      "FULL": "Não entendo. Que mensagem?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97C",
+      "FORMID": "00D97C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic100",
+      "FULL": "Então você está dizendo que eu já andei por essa estrada vindo da outra direção... de Oeste para Leste. Para casa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97B",
+      "FORMID": "00D97B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic130",
+      "FULL": "Aconteceu alguma coisa? Você parece... puto... com o meu robô."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D97A",
+      "FORMID": "00D97A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic132",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D979",
+      "FORMID": "00D979",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic133",
+      "FULL": "Por que a NCR queria manter a rota aberta?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D978",
+      "FORMID": "00D978",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic135",
+      "FULL": "Este lugar era importante para a Legião?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D73A",
+      "FORMID": "00D73A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic020",
+      "FULL": "Se você viu isso acontecer, como sobreviveu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D739",
+      "FORMID": "00D739",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic134",
+      "FULL": "Então você me culpa por isso? Um acidente?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D736",
+      "FORMID": "00D736",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic137",
+      "FULL": "Isso é vingança por quase te matar, então."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D735",
+      "FORMID": "00D735",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic138",
+      "FULL": "Essa encomenda... você disse que tinha marcas? Quais eram?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D734",
+      "FORMID": "00D734",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic139",
+      "FULL": "Por que eu traria isso aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D733",
+      "FORMID": "00D733",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic140",
+      "FULL": "Onde está o pacote agora?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D70F",
+      "FORMID": "00D70F",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic071",
+      "FULL": "Se você me culpa pelo Divide, então deixe que eu responda por isso, não outros."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D70E",
+      "FORMID": "00D70E",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic072",
+      "FULL": "O que aconteceu em A Divisão, o que eu fiz, foi um acidente. O que você está fazendo... é loucura."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D70D",
+      "FORMID": "00D70D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic073",
+      "FULL": "Então, qual é - pretende bombardear o Mojave?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D70B",
+      "FORMID": "00D70B",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic075",
+      "FULL": "Isso é entre você e eu, mais ninguém."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D709",
+      "FORMID": "00D709",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic077",
+      "FULL": "< Tópico Armazenamento: Sequência Final com Ulysses no Templo. Não traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D708",
+      "FORMID": "00D708",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic078",
+      "FULL": "Vocês não podem destruir o Oeste, nem com todos os mísseis aqui."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D707",
+      "FORMID": "00D707",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic079",
+      "FULL": "Acha que eu me importo se você lançar mísseis na NCR? Manda bala."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D706",
+      "FORMID": "00D706",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic080",
+      "FULL": "Porque deveria ter uma chance? Seu povo não merece o que está prestes a acontecer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D703",
+      "FORMID": "00D703",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic083",
+      "FULL": "Bem, eu só disse tudo isso porque aposto que você tem algum jeito de impedir tudo isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D702",
+      "FORMID": "00D702",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic084",
+      "FULL": "Acredito que uma pessoa pode... construir ou destruir... uma nação. Você já sabe disso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D701",
+      "FORMID": "00D701",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic085",
+      "FULL": "Mesmo que os mísseis sejam lançados, e eu morra aqui, se eu conseguir te convencer, isso já é o suficiente para mim."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D700",
+      "FORMID": "00D700",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic086",
+      "FULL": "A Divisão? Que que você quer dizer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6FF",
+      "FORMID": "00D6FF",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic087",
+      "FULL": "Já lidamos com tudo que pode nos atirar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6FE",
+      "FORMID": "00D6FE",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic088",
+      "FULL": "Ainda pode haver uma saída para isso. Só preciso de tempo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6FD",
+      "FORMID": "00D6FD",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic089",
+      "FULL": "Vegas conquistou o direito de sobreviver, seu povo não merece o que está prestes a acontecer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6FA",
+      "FORMID": "00D6FA",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic092",
+      "FULL": "Se você bombardear o Oeste e o Leste... é assim que as coisas deveriam terminar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F4",
+      "FORMID": "00D6F4",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic150",
+      "FULL": "Quê? ED-E?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F3",
+      "FORMID": "00D6F3",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic151",
+      "FULL": "ED-E não vai a lugar nenhum."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F2",
+      "FORMID": "00D6F2",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic152",
+      "FULL": "Se acha que pode tirar de mim, tente."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6F0",
+      "FORMID": "00D6F0",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic154",
+      "FULL": "Você não vai tirar o ED-E de mim."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6EC",
+      "FORMID": "00D6EC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic148",
+      "FULL": "Essa estrada não leva a lugar nenhum. Não há nada na Fenda."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D6EB",
+      "FORMID": "00D6EB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic149",
+      "FULL": "O que te faz pensar que isso leva para casa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D495",
+      "FORMID": "00D495",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic069",
+      "FULL": "Você pode não acreditar em nações. Eu acredito."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D490",
+      "FORMID": "00D490",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic145",
+      "FULL": "Então você aprendeu a mensagem errada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D485",
+      "FORMID": "00D485",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic019",
+      "FULL": "Eu não ouvi todos. Se tiver tempo, ouvirei."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D480",
+      "FORMID": "00D480",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic018",
+      "FULL": "Eu nunca fui um agente da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D46B",
+      "FORMID": "00D46B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic122",
+      "FULL": "Encontrei algumas gravações suas na estrada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D46A",
+      "FORMID": "00D46A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic123",
+      "FULL": "{DUPLICADO}Então... quer dizer que eles não eram tão importantes assim?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D469",
+      "FORMID": "00D469",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic124",
+      "FULL": "{DUPLICADO}Eu... acho que eles me contam... onde você estava. Coisas que fez."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D468",
+      "FORMID": "00D468",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic125",
+      "FULL": "Antes de ir mais longe, eu mereço umas respostas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D467",
+      "FORMID": "00D467",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic126",
+      "FULL": "Quero saber mais sobre o pacote que entreguei."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D466",
+      "FORMID": "00D466",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic127",
+      "FULL": "Qual é a nossa história? Como você me conhece?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D465",
+      "FORMID": "00D465",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic128",
+      "FULL": "Não entendo por que não me matou em Primm."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D464",
+      "FORMID": "00D464",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic129",
+      "FULL": "Mas o que era?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D462",
+      "FORMID": "00D462",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic131",
+      "FULL": "O que você quer dizer com \"quando despertou?\""
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D457",
+      "FORMID": "00D457",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic121",
+      "FULL": "Você vai atrás da Long 15? São mais milhas do que a Legion consegue controlar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D452",
+      "FORMID": "00D452",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic114",
+      "FULL": "Então... eles não eram tão importantes assim?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D451",
+      "FORMID": "00D451",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic120",
+      "FULL": "Eu... acho que me contam... onde você esteve. Coisas que você fez."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44F",
+      "FORMID": "00D44F",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic119",
+      "FULL": "Encontrei mais gravações suas na estrada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44C",
+      "FORMID": "00D44C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic017",
+      "FULL": "Então... eles não eram tão importantes assim?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D44A",
+      "FORMID": "00D44A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic118",
+      "FULL": "Quando nos falamos pela primeira vez em Hopeville, você mencionou que jurou não me matar. Por quê?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D443",
+      "FORMID": "00D443",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic117",
+      "FULL": "Eu achei algumas gravações suas em Hopeville."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D442",
+      "FORMID": "00D442",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic062",
+      "FULL": "Recebi sua última mensagem."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D431",
+      "FORMID": "00D431",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic093",
+      "FULL": "Eu não sou culpado por Ashton, o Chip ou o Divide."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D430",
+      "FORMID": "00D430",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic101",
+      "FULL": "Não há nada que me impeça de sair daqui e deixar você apodrecer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42F",
+      "FORMID": "00D42F",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic103",
+      "FULL": "Na Estrada Alta, você mencionou que a NCR e a Legião lutaram aqui... antes e depois da Divisa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42E",
+      "FORMID": "00D42E",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic105",
+      "FULL": "Foi isso que fez a Legião chegar ao Divide."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42D",
+      "FORMID": "00D42D",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic106",
+      "FULL": "Então você faz parte da Legião. Um dos batedores deles? Assassinos?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42C",
+      "FORMID": "00D42C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic107",
+      "FULL": "É a primeira vez que ouço falar da Legião chegando tão a oeste do Colorado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42B",
+      "FORMID": "00D42B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic108",
+      "FULL": "E então, o que aconteceu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D42A",
+      "FORMID": "00D42A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic109",
+      "FULL": "Não quero saber da história disso, chega de papo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D429",
+      "FORMID": "00D429",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic110",
+      "FULL": "Vocês estavam planejando atacar a NCR aqui, então."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D428",
+      "FORMID": "00D428",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic111",
+      "FULL": "Então a Legião não sabe o que aconteceu aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D427",
+      "FORMID": "00D427",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic112",
+      "FULL": "Como você planejava atacar o Divide?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D426",
+      "FORMID": "00D426",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic113",
+      "FULL": "Encontrei algumas gravações suas na estrada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D424",
+      "FORMID": "00D424",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic115",
+      "FULL": "Nos registros... você mencionou uma tribo chamada Cabelos Retorcidos... sua tribo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D423",
+      "FORMID": "00D423",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic116",
+      "FULL": "Os registros do Big Empty mencionaram que você falou com a história."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D415",
+      "FORMID": "00D415",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic082",
+      "FULL": "Eu não tive nada a ver com isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D414",
+      "FORMID": "00D414",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic090",
+      "FULL": "Você disse que eu trouxe isso do Oeste?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D413",
+      "FORMID": "00D413",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic091",
+      "FULL": "Este pacote... não me lembro dele."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D412",
+      "FORMID": "00D412",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic092",
+      "FULL": "Eu estive no Oeste, é possível, mas..."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D410",
+      "FORMID": "00D410",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic094",
+      "FULL": "Eu não sou responsável por isso, não tinha como saber."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D40F",
+      "FORMID": "00D40F",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic095",
+      "FULL": "Não pode ter certeza de que fui eu."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D40E",
+      "FORMID": "00D40E",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic096",
+      "FULL": "Não entendo como um pacote poderia ter feito isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D40D",
+      "FORMID": "00D40D",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic097",
+      "FULL": "Eu não fazia ideia de que o silo estava ativo até o míssil estar no ar em direção a Hopeville."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D40C",
+      "FORMID": "00D40C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic098",
+      "FULL": "Eu não tinha a intenção de disparar aquele míssil sobre o Divide."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D40B",
+      "FORMID": "00D40B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic099",
+      "FULL": "Já chega dessa merda. Seja lá qual for a sua, tô fora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D408",
+      "FORMID": "00D408",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic102",
+      "FULL": "Você queria que eu viesse ao Divide, eu vim. E agora?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D406",
+      "FORMID": "00D406",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic104",
+      "FULL": "Ainda não terminei de falar com você, ainda quero saber mais coisas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D405",
+      "FORMID": "00D405",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic089",
+      "FULL": "Seja lá o que estivessem carregando, estavam lutando lado a lado com os que usavam a armadura da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3F5",
+      "FORMID": "00D3F5",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic077",
+      "FULL": "Nunca estive aqui antes, pelo menos não vindo por essa estrada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3F4",
+      "FORMID": "00D3F4",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic078",
+      "FULL": "Você continua dizendo isso, como se soubesse onde eu nasci... mas não sabe."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3F3",
+      "FORMID": "00D3F3",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic079",
+      "FULL": "< Placeholder Node: Ulysses falando sobre a história de Divide. Não Traduzir >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3F1",
+      "FORMID": "00D3F1",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic081",
+      "FULL": "Já trilhei muitas estradas difíceis, na Mojave e antes. Não quer dizer nada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3EF",
+      "FORMID": "00D3EF",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic083",
+      "FULL": "Você é maluco. Sua cabeça está mais ferrada que a Divisa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3EE",
+      "FORMID": "00D3EE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic084",
+      "FULL": "Seja lá no que você acredita que aconteceu, você está enganado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3ED",
+      "FORMID": "00D3ED",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic085",
+      "FULL": "Você ainda está supondo coisas sobre tudo isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3EC",
+      "FORMID": "00D3EC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic086",
+      "FULL": "Não existe outra linha de suprimentos para Mojave além da Long 15."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3EB",
+      "FORMID": "00D3EB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic087",
+      "FULL": "Talvez você devesse me contar o que aconteceu."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3EA",
+      "FORMID": "00D3EA",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic088",
+      "FULL": "Já foi para Denver? Aquilo é território da Legion."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3E9",
+      "FORMID": "00D3E9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic054",
+      "FULL": "O que se esconde embaixo? Quer dizer, aquelas criaturas na passagem subterrânea?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DE",
+      "FORMID": "00D3DE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic073",
+      "FULL": "Não quero saber de papo, só quero saber pra onde ir agora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DD",
+      "FORMID": "00D3DD",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic128",
+      "FULL": "< Storage Node: Ulysses está discutindo tuneleiros e o futuro. Não Traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DC",
+      "FORMID": "00D3DC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic074",
+      "FULL": "[Legion] Você foi para Denver? Aquilo é território da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DB",
+      "FORMID": "00D3DB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic075",
+      "FULL": "Denver? Que é isso?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3DA",
+      "FORMID": "00D3DA",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic129",
+      "FULL": "< Nó de Armazenamento: Ulysses falando sobre Denver e o Leste. Não Traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D9",
+      "FORMID": "00D3D9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic076",
+      "FULL": "Você está dizendo... que eles estavam aqui antes de toda essa destruição?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D5",
+      "FORMID": "00D3D5",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic072",
+      "FULL": "Espera... tem mais uma coisa que eu queria falar. Sobre... tudo isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3D4",
+      "FORMID": "00D3D4",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic127",
+      "FULL": "< Nó de Armazenamento Ulysses dando a direção final ao jogador. Não traduza. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C1",
+      "FORMID": "00D3C1",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic061",
+      "FULL": "Por mais obcecado que você seja por história, o futuro é o que eu prefiro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3C0",
+      "FORMID": "00D3C0",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic062",
+      "FULL": "Não se apresse em desconsiderar Vegas. Há mais força lá do que pode parecer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BF",
+      "FORMID": "00D3BF",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic063",
+      "FULL": "O que você tem contra Vegas?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BE",
+      "FORMID": "00D3BE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic064",
+      "FULL": "Os planos de Sr. House para o futuro vão além disso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BD",
+      "FORMID": "00D3BD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic065",
+      "FULL": "O que você quis dizer antes com \"é uma dança\"?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BC",
+      "FORMID": "00D3BC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic066",
+      "FULL": "Vegas é um dos lugares mais seguros em Mojave, e isso me dá esperança."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BB",
+      "FORMID": "00D3BB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic067",
+      "FULL": "Tribos? Quer dizer as famílias de New Vegas?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3BA",
+      "FORMID": "00D3BA",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic068",
+      "FULL": "House é mais pragmático do que você imagina."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3B9",
+      "FORMID": "00D3B9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic069",
+      "FULL": "Duvido que você já tenha conhecido House."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3B8",
+      "FORMID": "00D3B8",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic070",
+      "FULL": "Esquece. Fique com suas opiniões sobre Vegas, eu fico com as minhas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D3B7",
+      "FORMID": "00D3B7",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic071",
+      "FULL": "O Mojave ficou para trás. Quero saber o que está por vir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39D",
+      "FORMID": "00D39D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic126",
+      "FULL": "< Nó de Armazenamento Ulysses falando sobre o jogador ser da Legião. Não traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39C",
+      "FORMID": "00D39C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic051",
+      "FULL": "\"Irmãos?\" Então... você também é da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39B",
+      "FORMID": "00D39B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic052",
+      "FULL": "Uma mulher na Legião te surpreende?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D39A",
+      "FORMID": "00D39A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic053",
+      "FULL": "É por isso que você não é mais da Legião, então?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D398",
+      "FORMID": "00D398",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic055",
+      "FULL": "O poder de New Vegas é uma ameaça para você?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D397",
+      "FORMID": "00D397",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic056",
+      "FULL": "Se tem medo de Vegas e do Sr. House, deveria ter mesmo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D396",
+      "FORMID": "00D396",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic057",
+      "FULL": "Você odeia muito a NCR. Esse tipo de ódio não é novidade no Mojave."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D395",
+      "FORMID": "00D395",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic058",
+      "FULL": "Tem um jeito melhor?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D394",
+      "FORMID": "00D394",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic059",
+      "FULL": "Pelo menos eles estão tentando ajudar Mojave."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D393",
+      "FORMID": "00D393",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic060",
+      "FULL": "Não me interesso pela sua política."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D351",
+      "FORMID": "00D351",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic048",
+      "FULL": "Espera... então você jurou não me matar? Por quê?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D350",
+      "FORMID": "00D350",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic049",
+      "FULL": "Você não está fazendo sentido."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D34F",
+      "FORMID": "00D34F",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic050",
+      "FULL": "Esqueça seu nome. De volta ao trabalho que você recusou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D346",
+      "FORMID": "00D346",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic044",
+      "FULL": "Então você é quem enviou a mensagem de rádio... Ulysses."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D345",
+      "FORMID": "00D345",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic045",
+      "FULL": "Ulysses... isso soa como nome da Legião... um herói da Legião?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D344",
+      "FORMID": "00D344",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic046",
+      "FULL": "Então... é sobre brigar? Ou...?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D343",
+      "FORMID": "00D343",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic047",
+      "FULL": "Olha, não precisamos brigar por isso. Podemos resolver na conversa, certo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32C",
+      "FORMID": "00D32C",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic050",
+      "FULL": "< Tópico Armazenamento: Quando o jogador se vira para sair, Ulysses fala de Lanius. Não traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32B",
+      "FORMID": "00D32B",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic051",
+      "FULL": "Quem é o Legado Lanius?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D32A",
+      "FORMID": "00D32A",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic052",
+      "FULL": "Chega. Seja lá o que me espera na Represa Hoover, estou pronto."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D329",
+      "FORMID": "00D329",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic053",
+      "FULL": "O que pode me dizer sobre ele?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D328",
+      "FORMID": "00D328",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic054",
+      "FULL": "Ele é só um general. Eu dou conta dele."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D327",
+      "FORMID": "00D327",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic055",
+      "FULL": "Bem, se eu fosse um escravo ou um cachorro, eu estaria com medo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D326",
+      "FORMID": "00D326",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic056",
+      "FULL": "Por que ele está vindo para o Oeste?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D325",
+      "FORMID": "00D325",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic057",
+      "FULL": "Alguma ideia de como derrotá-lo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D324",
+      "FORMID": "00D324",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic058",
+      "FULL": "Ele deve ter uma fraqueza."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D323",
+      "FORMID": "00D323",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic059",
+      "FULL": "Se ele me cruzar, eu quebro ele."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D322",
+      "FORMID": "00D322",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic060",
+      "FULL": "Outros legados?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D321",
+      "FORMID": "00D321",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic061",
+      "FULL": "Outros Legados? Quer dizer, Graham."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D320",
+      "FORMID": "00D320",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic063",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D31F",
+      "FORMID": "00D31F",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic064",
+      "FULL": "< Tópico Armazenamento: Falando sobre Joshua Graham, por que Lanius deveria dar ouvidos à história. Não traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D31E",
+      "FORMID": "00D31E",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic065",
+      "FULL": "Eu vou me lembrar disso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D31D",
+      "FORMID": "00D31D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic066",
+      "FULL": "Deixaremos isso para a história, então."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D30B",
+      "FORMID": "00D30B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic142",
+      "FULL": "Ah, acho que vou logo acionar o lançamento. Nunca gostei de nenhum daqueles lugares."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D303",
+      "FORMID": "00D303",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic045",
+      "FULL": "Cheguei em Vegas e lidei com o House."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D302",
+      "FORMID": "00D302",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic046",
+      "FULL": "Você não parece feliz."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D301",
+      "FORMID": "00D301",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic047",
+      "FULL": "Achei que ficaria feliz em saber que House foi resolvido."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D300",
+      "FORMID": "00D300",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic048",
+      "FULL": "Se Vegas ruir, parece que mais história será perdida."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2FF",
+      "FORMID": "00D2FF",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic049",
+      "FULL": "< Tópico Armazenamento: Concluindo pensamentos sobre House. Não traduzir. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F6",
+      "FORMID": "00D2F6",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic039",
+      "FULL": "Caesar está morto, eu o matei."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F5",
+      "FORMID": "00D2F5",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic040",
+      "FULL": "Caesar está morto, morreu na mesa de cirurgia."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F4",
+      "FORMID": "00D2F4",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic041",
+      "FULL": "< Topic Storage: Discussing Caesar's Death. Do not translate. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F3",
+      "FORMID": "00D2F3",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic042",
+      "FULL": "Você está com raiva?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F2",
+      "FORMID": "00D2F2",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic043",
+      "FULL": "Não tinha certeza de como você reagiria."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2F1",
+      "FORMID": "00D2F1",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic044",
+      "FULL": "Eu não poderia me importar menos com história... e menos ainda com Caesar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D4",
+      "FORMID": "00D2D4",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic043",
+      "FULL": "Outros Homens Marcados tinham equipamento da NCR, e não estavam carregando máscaras ou lâminas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D3",
+      "FORMID": "00D2D3",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic005",
+      "FULL": "Não me importa o que tem a dizer. Só quero saber onde você está."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D2",
+      "FORMID": "00D2D2",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic041",
+      "FULL": "É bom você ter munição suficiente quando eu arrombar sua porta."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2D1",
+      "FORMID": "00D2D1",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic042",
+      "FULL": "A Divisão não vai me impedir de chegar até você, pode confiar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2CD",
+      "FORMID": "00D2CD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic002",
+      "FULL": "Tem alguma coisa lá embaixo? A cidade parece que foi bombardeada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BF",
+      "FORMID": "00D2BF",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic079",
+      "FULL": "< Nó de Armazenamento. Não traduza. >"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BE",
+      "FORMID": "00D2BE",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic025",
+      "FULL": "Esquece. O que você quer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BD",
+      "FORMID": "00D2BD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic026",
+      "FULL": "Habitantes? Não parece que tenha alguém vivo lá embaixo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BC",
+      "FORMID": "00D2BC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic033",
+      "FULL": "O que quer que tenha acontecido em Divide, não houve sobreviventes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BB",
+      "FORMID": "00D2BB",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic034",
+      "FULL": "Do que você está falando?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2BA",
+      "FORMID": "00D2BA",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic035",
+      "FULL": "Nunca vi corpos mutilados desse jeito."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B9",
+      "FORMID": "00D2B9",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic036",
+      "FULL": "Mas... nem mesmo a radiação é suficiente para causar esses ferimentos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B8",
+      "FORMID": "00D2B8",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic037",
+      "FULL": "Parece que foram esfolados... e depois levantaram de novo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B7",
+      "FORMID": "00D2B7",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic038",
+      "FULL": "A radiação neste lugar parece que faria mais mal a eles."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B6",
+      "FORMID": "00D2B6",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic039",
+      "FULL": "Por que eles iriam querer ficar aqui se este lugar está matando-os?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D2B5",
+      "FORMID": "00D2B5",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic040",
+      "FULL": "O que tem aqui? Este lugar parece destruído."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D131",
+      "FORMID": "00D131",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic027",
+      "FULL": "[NCR] Aqueles corpos no silo eram soldados da NCR... alguns das forças especiais."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D130",
+      "FORMID": "00D130",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic028",
+      "FULL": "[Legion] Os mortos no silo, alguns eram Frumentarii da Legião, batedores. Assassinos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D12F",
+      "FORMID": "00D12F",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic029",
+      "FULL": "Você devia estar carregando o Chip?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D12E",
+      "FORMID": "00D12E",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic030",
+      "FULL": "Parece que você me conhece, mas eu nunca te vi na vida."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D12D",
+      "FORMID": "00D12D",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic031",
+      "FULL": "Então você se recusou a entregar o Chip... O quê, pra me fazer morrer?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D12C",
+      "FORMID": "00D12C",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic032",
+      "FULL": "Se queria me ver morto, por que esperou?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09C",
+      "FORMID": "00D09C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic131",
+      "FULL": "Tanto faz. Só te resgatei pelo apoio de fogo, de qualquer jeito."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09B",
+      "FORMID": "00D09B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic132",
+      "FULL": "Que seja, latrina. Tô cagando pros seus problemas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D09A",
+      "FORMID": "00D09A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic133",
+      "FULL": "{Armas 50}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D099",
+      "FORMID": "00D099",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic134",
+      "FULL": "{Explosivos 35}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D098",
+      "FORMID": "00D098",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic135",
+      "FULL": "{Explosivos 65}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D097",
+      "FORMID": "00D097",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic136",
+      "FULL": "Pode fazer um pouco de combustível de lança-chamas em vez de células de energia?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D096",
+      "FORMID": "00D096",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic137",
+      "FULL": "Eu não preciso de células de energia agora. Eu quero umas cargas de mochila, ED-E."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D095",
+      "FORMID": "00D095",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic138",
+      "FULL": "{Conserto 35}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D094",
+      "FORMID": "00D094",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic139",
+      "FULL": "{Conserto 65}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D093",
+      "FORMID": "00D093",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic140",
+      "FULL": "{Conserto 25}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D092",
+      "FORMID": "00D092",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic141",
+      "FULL": "{Armas 25}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF5B",
+      "FORMID": "00CF5B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic084",
+      "FULL": "Ótimo. Talvez você realmente seja útil para mim, então."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF5A",
+      "FORMID": "00CF5A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic113",
+      "FULL": "É, ele provavelmente morreu. Acho que isso significa que agora eu sou seu dono."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF59",
+      "FORMID": "00CF59",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic114",
+      "FULL": "É melhor você ser sincero comigo, lata de lixo, ou eu posso te enfiar de volta naquela cápsula."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF58",
+      "FORMID": "00CF58",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic115",
+      "FULL": "Beleza, que seja. Escuta aqui, robô: eu sou seu dono agora. Me siga e tente ser útil."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF57",
+      "FORMID": "00CF57",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic116",
+      "FULL": "Que se dane. Você é um computador glorificado, por que se dar ao trabalho de desligar você para te melhorar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF56",
+      "FORMID": "00CF56",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic117",
+      "FULL": "Se me perguntar, Whitley se envolveu demais. É só pesquisa com robôs, não ter um filho."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF55",
+      "FORMID": "00CF55",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic118",
+      "FULL": "Se vazar algum dos meus segredos, eu vou vazar suas entranhas eletrônicas. Só pra deixar claro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF54",
+      "FORMID": "00CF54",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic119",
+      "FULL": "Quanto tempo faz isso? E você ainda não conseguiu? Que beleza de sistemas de navegação aprimorados."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF53",
+      "FORMID": "00CF53",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic120",
+      "FULL": "Buá, buá, o robozinho perdeu o papai. Pare de choramingar, lata de lixo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF52",
+      "FORMID": "00CF52",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic121",
+      "FULL": "Heh heh. Tiro ao robô ao prato. Parece divertido."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF51",
+      "FORMID": "00CF51",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic122",
+      "FULL": "Era por isso tudo? Algum programa infantil velho de antes da guerra?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF50",
+      "FORMID": "00CF50",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic123",
+      "FULL": "Parece uma baita perda de tempo, pra mim."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF4F",
+      "FORMID": "00CF4F",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic124",
+      "FULL": "Fuja de mim de novo desse jeito e eu vou reciclar você em latas de conserva. Eu sou seu dono, robô."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF4E",
+      "FORMID": "00CF4E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic125",
+      "FULL": "Acha que eu ia deixar uma propriedade valiosa como você para trás? De jeito nenhum. Você pode valer uns tampinhas um dia."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF40",
+      "FORMID": "00CF40",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic038",
+      "FULL": "Parece útil. Tem algum sobrando?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF31",
+      "FORMID": "00CF31",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic035",
+      "FULL": "Você foi a Hopeville desde que o míssil Ashton atingiu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF30",
+      "FORMID": "00CF30",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic036",
+      "FULL": "Qual é a história?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CF2F",
+      "FORMID": "00CF2F",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic037",
+      "FULL": "Pode me contar a receita?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDC0",
+      "FORMID": "00CDC0",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic025",
+      "FULL": "Esquece isso. Se quer dar um fim nisso, vamos nessa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDB8",
+      "FORMID": "00CDB8",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic033",
+      "FULL": "Já me fez perder tempo demais. Prepare-se para morrer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA8",
+      "FORMID": "00CDA8",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic020",
+      "FULL": "Então... você acha que jogar bombas no Mojave vai resolver alguma coisa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA7",
+      "FORMID": "00CDA7",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic021",
+      "FULL": "Suas fitas provam que você andou pelo Mojave, mas aprendeu as lições erradas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CDA3",
+      "FORMID": "00CDA3",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic018",
+      "FULL": "O que é a Milha do Courier? Foi lá que o míssil Ashton caiu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD9A",
+      "FORMID": "00CD9A",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic002",
+      "FULL": "E quanto aos Homens Marcados?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD99",
+      "FORMID": "00CD99",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic012",
+      "FULL": "A Divisão é radioativa... tem certeza de que quer ficar aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD98",
+      "FORMID": "00CD98",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic013",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD97",
+      "FORMID": "00CD97",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic014",
+      "FULL": "É aqui que vocês vão acampar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD96",
+      "FORMID": "00CD96",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic015",
+      "FULL": "Tenho alguns materiais que juntei, se quiser dar uma olhada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD95",
+      "FORMID": "00CD95",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic016",
+      "FULL": "Alguma receita que pode me ensinar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD94",
+      "FORMID": "00CD94",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic017",
+      "FULL": "Achou alguma coisa na poeira de Hopeville?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD57",
+      "FORMID": "00CD57",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic021",
+      "FULL": "Não quero saber de papo, só quero passar por isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD56",
+      "FORMID": "00CD56",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic022",
+      "FULL": "Este cânion tem quilômetros de extensão... talvez mais. Onde eu posso te encontrar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD55",
+      "FORMID": "00CD55",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic023",
+      "FULL": "O que aconteceu aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CD54",
+      "FORMID": "00CD54",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic024",
+      "FULL": "Chega dessa palhaçada. Me diga onde você está."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB07",
+      "FORMID": "00CB07",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic009",
+      "FULL": "Quais eram as criaturas na passagem subterrânea?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB06",
+      "FORMID": "00CB06",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic012",
+      "FULL": "Aqueles Homens Marcados em Hopeville... alguns tinham máscaras e lâminas estranhas que eu nunca tinha visto antes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB05",
+      "FORMID": "00CB05",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic013",
+      "FULL": "Alguns dos soldados esfolados de Hopeville pareciam da NCR... mas lutavam ao lado de outros com armadura da Legião."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CB04",
+      "FORMID": "00CB04",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic014",
+      "FULL": "Se esta é a Estrada Alta... onde ela vai dar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CAFD",
+      "FORMID": "00CAFD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic015",
+      "FULL": "O que você quis dizer com \"morte mais lenta para o Mojave\"?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CAFC",
+      "FORMID": "00CAFC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic016",
+      "FULL": "Nunca vi criaturas como essas antes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA92",
+      "FORMID": "00CA92",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic004",
+      "FULL": "Esquece isso. Vou te ensinar o que acontece quando se cruza o caminho do mensageiro errado."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA91",
+      "FORMID": "00CA91",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic005",
+      "FULL": "Estava esperando que você pudesse me ajudar a dar forma a algo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA90",
+      "FORMID": "00CA90",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic006",
+      "FULL": "O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA8F",
+      "FORMID": "00CA8F",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic007",
+      "FULL": "Queria saber mais sobre a Barragem Hoover."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA8E",
+      "FORMID": "00CA8E",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic008",
+      "FULL": "Dry Wells foi destruída... era ali que você nasceu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00CA8D",
+      "FORMID": "00CA8D",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic009",
+      "FULL": "A Longa 15 não existe mais. A principal linha de suprimentos para a NCR foi cortada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C823",
+      "FORMID": "00C823",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic008",
+      "FULL": "Acha que eu tô vindo atrás de você? Tire essa ideia da cabeça."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C821",
+      "FORMID": "00C821",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic010",
+      "FULL": "Não pretendo ir para o Divide atrás de você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C820",
+      "FORMID": "00C820",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic011",
+      "FULL": "Beleza. Eu vou achar esse gatilho... e depois vou te achar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C80B",
+      "FORMID": "00C80B",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic003",
+      "FULL": "Que lugar é este?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C80A",
+      "FORMID": "00C80A",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic004",
+      "FULL": "São aqueles os corpos que eu vi no silo? Os soldados que parecem ter sido esfolados?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C808",
+      "FORMID": "00C808",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic006",
+      "FULL": "Aqueles... soldados, da NCR ou da Legião, os que estavam no silo já estavam mortos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C807",
+      "FORMID": "00C807",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic007",
+      "FULL": "Chega de conversa. Você se deu a muito trabalho pra me atrair até aqui, então vamos nessa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7FD",
+      "FORMID": "00C7FD",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic000",
+      "FULL": "Talvez seja melhor você me dizer quem é e o que quer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C7FC",
+      "FORMID": "00C7FC",
+      "EDID": "NVDLC04DialogueEDENVDLC04UlyssesTopic001",
+      "FULL": "Como você está falando através do ED-E?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F4",
+      "FORMID": "00B8F4",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic104",
+      "FULL": "Eu gostaria que você reproduzisse um daqueles registros de áudio."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F3",
+      "FORMID": "00B8F3",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic105",
+      "FULL": "Reproduzir o registro sobre sua habilidade de invadir sistemas criptografados."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F2",
+      "FORMID": "00B8F2",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic106",
+      "FULL": "E aquela em que o Dr. Whitley berrou com o Dr. Grant?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F1",
+      "FORMID": "00B8F1",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic107",
+      "FULL": "Vamos ouvir o registro onde Whitley fala sobre os planos do Coronel Autumn."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8F0",
+      "FORMID": "00B8F0",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic108",
+      "FULL": "Reproduzir a ligação de Whitley com o Coronel Autumn."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8EF",
+      "FORMID": "00B8EF",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic109",
+      "FULL": "Quero ouvir a gravação de quando Whitley mandou você nessa jornada."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8EE",
+      "FORMID": "00B8EE",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic110",
+      "FULL": "Vamos ouvir aquela em que você foi atacado por invasores."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8ED",
+      "FORMID": "00B8ED",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic111",
+      "FULL": "Eu gostei daquela em que o pirralho te encontrou."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B8EC",
+      "FORMID": "00B8EC",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic112",
+      "FULL": "Mostre-me o trailer da Incrível Odisseia de RALPHIE, o Robô."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F3",
+      "FORMID": "00B6F3",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic093",
+      "FULL": "Que diabos aconteceu? Você simplesmente fugiu de mim."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F2",
+      "FORMID": "00B6F2",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic094",
+      "FULL": "Você está bem?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F1",
+      "FORMID": "00B6F1",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic095",
+      "FULL": "{Ciência 60}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6F0",
+      "FORMID": "00B6F0",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic096",
+      "FULL": "Vamos nessa. Vamos acabar com isso. Agora."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6EF",
+      "FORMID": "00B6EF",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic097",
+      "FULL": "Tá, bem, não faça de novo. Vamos, partiu."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6EE",
+      "FORMID": "00B6EE",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic098",
+      "FULL": "Você está à mercê da sua programação, eu entendo. Não é culpa sua. Agora, está pronto para ir?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6ED",
+      "FORMID": "00B6ED",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic099",
+      "FULL": "Seja lá o que ele estiver planejando, Ulysses obviamente quer você lá. Vamos, eu odiaria decepcioná-lo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6EC",
+      "FORMID": "00B6EC",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic100",
+      "FULL": "O que aconteceu? Você simplesmente decolou como se finalmente tivesse encontrado o lar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6EB",
+      "FORMID": "00B6EB",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic101",
+      "FULL": "É claro que eu vim atrás de você. Eu não ia te deixar para trás."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6EA",
+      "FORMID": "00B6EA",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic102",
+      "FULL": "Uma frequência de sobreposição? Então, o quê, Ulysses só... chamou você aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B6E9",
+      "FORMID": "00B6E9",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic103",
+      "FULL": "Mas por que ele faria isso? Não foi para me atrair até aqui, Ulysses já sabia que eu estava vindo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD3A",
+      "FORMID": "00AD3A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic083",
+      "FULL": "{Registro de Áudio do ED-E 8 - Criança}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD38",
+      "FORMID": "00AD38",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic085",
+      "FULL": "{Registro de Áudio do ED-E 8 - RALPHIE}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD37",
+      "FORMID": "00AD37",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic086",
+      "FULL": "De repente, muitas coisas fazem mais sentido."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD36",
+      "FORMID": "00AD36",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic087",
+      "FULL": "É isso que você está fazendo? Tentando achar o caminho de casa?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD35",
+      "FORMID": "00AD35",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic088",
+      "FULL": "Vamos lá, ED-E. Precisamos voar longe e rápido se quisermos chegar ao fim da Divisão."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD34",
+      "FORMID": "00AD34",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic089",
+      "FULL": "Sim, ED-E, tenho certeza de que RALPHIE, o Robô, ficaria muito orgulhoso de você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD33",
+      "FORMID": "00AD33",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic090",
+      "FULL": "Farei o que puder para ajudar você a voltar para casa. Depois que resolvermos as coisas por aqui."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD32",
+      "FORMID": "00AD32",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic091",
+      "FULL": "Não se preocupe, não vou deixar nenhum general velho e malvado te pegar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD31",
+      "FORMID": "00AD31",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic092",
+      "FULL": "Às vezes me sinto da mesma forma. Por que você acha que eu virei um mensageiro?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A869",
+      "FORMID": "00A869",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic077",
+      "FULL": "Eu gostaria de fabricar munição. Pode me ajudar?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A868",
+      "FORMID": "00A868",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic082",
+      "FULL": "Deixe-me acessar suas multiferramentas. Quero criar algo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E3",
+      "FORMID": "00A6E3",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic078",
+      "FULL": "Você pode consertar minha arma?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E1",
+      "FORMID": "00A6E1",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic080",
+      "FULL": "Preciso de algumas Células de Microfusão. Você consegue fazer algumas?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A6E0",
+      "FORMID": "00A6E0",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic081",
+      "FULL": "Estou ficando sem Células de Energia Pequenas. Pode fazer mais para mim?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2E",
+      "FORMID": "008E2E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic046",
+      "FULL": "Estou impressionado que você não tenha pifado em algum lugar pelo caminho."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2D",
+      "FORMID": "008E2D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic047",
+      "FULL": "Parece que também não foi fácil para ele."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2C",
+      "FORMID": "008E2C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic048",
+      "FULL": "Aposto que Whitley ficaria orgulhoso de você por ter chegado tão longe."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2B",
+      "FORMID": "008E2B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic049",
+      "FULL": "Saqueadores, hein? Amadores. Eu teria rastreado vocês e transformado vocês em sucata."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E2A",
+      "FORMID": "008E2A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic050",
+      "FULL": "Você deu sorte de escapar deles. Eles teriam te vendido como sucata num piscar de olhos."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E29",
+      "FORMID": "008E29",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic051",
+      "FULL": "Não admira que você não tenha chegado até Navarro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E28",
+      "FORMID": "008E28",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic052",
+      "FULL": "{Conserto 50}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E27",
+      "FORMID": "008E27",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic053",
+      "FULL": "Você desistiu disso para continuar a missão de Whitley?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E26",
+      "FORMID": "008E26",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic054",
+      "FULL": "Valia a pena? Você ainda não chegou em Navarro ainda."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E25",
+      "FORMID": "008E25",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic055",
+      "FULL": "Illinois? Então foi aí que você pegou essa placa. A outra você, quero dizer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E24",
+      "FORMID": "008E24",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic056",
+      "FULL": "O que é um Chicago?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E23",
+      "FORMID": "008E23",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic057",
+      "FULL": "Mas o registro dizia que esse tipo de criptografia mataria você!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E22",
+      "FORMID": "008E22",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic058",
+      "FULL": "Parece que ainda posso escolher o alvo real do míssil. Talvez possamos trabalhar com isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E21",
+      "FORMID": "008E21",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic059",
+      "FULL": "Tem certeza de que esta é a única maneira de impedir o lançamento do míssil?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E20",
+      "FORMID": "008E20",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic060",
+      "FULL": "Se... se você tem certeza que quer isso, tudo bem. Vá em frente e pare o míssil. E... adeus."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1F",
+      "FORMID": "008E1F",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic061",
+      "FULL": "Não me importo! Eu mesmo vou mudar o alvo do míssil. Nunca gostei da NCR mesmo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1E",
+      "FORMID": "008E1E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic062",
+      "FULL": "Que se dane. A Legião merece isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1D",
+      "FORMID": "008E1D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic063",
+      "FULL": "{Som de Sacrifício do ED-E}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1C",
+      "FORMID": "008E1C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic064",
+      "FULL": "{Registro de Áudio do ED-E 8 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1B",
+      "FORMID": "008E1B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic065",
+      "FULL": "Devagar, devagar. Que quer dizer com não ser o ED-E que eu conheço?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E1A",
+      "FORMID": "008E1A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic066",
+      "FULL": "Você é uma cópia? Feita pelas bases militares em Divide? Que bizarro."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E19",
+      "FORMID": "008E19",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic067",
+      "FULL": "Este silo deve ter instalações de engenharia bem avançadas para escanear você remotamente e construir cópias."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E18",
+      "FORMID": "008E18",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic068",
+      "FULL": "Existem mais robôs como você? Com a mesma memória e tudo? Interessante..."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E17",
+      "FORMID": "008E17",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic069",
+      "FULL": "Deixa pra lá."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E16",
+      "FORMID": "008E16",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic070",
+      "FULL": "Whitley era bem protetor com os Eyebots dele, hein?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E15",
+      "FORMID": "008E15",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic071",
+      "FULL": "Não acredito que aprovariam isso. Já conheci robôs o bastante para saber que são mais do que máquinas."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E14",
+      "FORMID": "008E14",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic072",
+      "FULL": "Vamos continuar. Temos muito terreno para cobrir."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E13",
+      "FORMID": "008E13",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic073",
+      "FULL": "Ele soa mais como um pai do que um inventor nestes registros."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E12",
+      "FORMID": "008E12",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic074",
+      "FULL": "Ele deve ter tentado mudar as coisas. Não parece o tipo que deixa barato."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E11",
+      "FORMID": "008E11",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic075",
+      "FULL": "Entendo por que você largou aquele lugar, então."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008E10",
+      "FORMID": "008E10",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic076",
+      "FULL": "Espero que aqueles desgraçados tenham tido o que mereciam."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C99",
+      "FORMID": "008C99",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic006",
+      "FULL": "{Ciência 35}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C98",
+      "FORMID": "008C98",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic007",
+      "FULL": "ED-E? O que você está fazendo aqui?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C97",
+      "FORMID": "008C97",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic008",
+      "FULL": "Acho que sua ajuda seria muito útil para sair daqui. Pode vir comigo?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C96",
+      "FORMID": "008C96",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic009",
+      "FULL": "Essa é uma gravação do seu desenvolvimento. Está dizendo que consegue burlar a segurança eletrônica?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C95",
+      "FORMID": "008C95",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic010",
+      "FULL": "Essa era a voz do seu criador? O que aconteceu com ele?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C94",
+      "FORMID": "008C94",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic011",
+      "FULL": "Que fascinante. Vamos continuar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C93",
+      "FORMID": "008C93",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic012",
+      "FULL": "Só painéis com um receptor em forma de prato? Acho que o console na sala principal tinha um desses."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C92",
+      "FORMID": "008C92",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic013",
+      "FULL": "Bem, pode ser o suficiente pra gente passar por esse silo."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C91",
+      "FORMID": "008C91",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic014",
+      "FULL": "Bem, tenho certeza de que ele está bem. Onde quer que ele esteja."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C90",
+      "FORMID": "008C90",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic015",
+      "FULL": "Talvez você o veja de novo algum dia."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8F",
+      "FORMID": "008C8F",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic016",
+      "FULL": "Certo, vamos continuar andando."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8E",
+      "FORMID": "008C8E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic017",
+      "FULL": "Parece que o Dr. Whitley realmente se importava com você."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8D",
+      "FORMID": "008C8D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic018",
+      "FULL": "Dr. Grant parece um crime de guerra prestes a acontecer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8C",
+      "FORMID": "008C8C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic019",
+      "FULL": "Essa é uma história terrível, ED-E, mas precisamos ir em frente."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8B",
+      "FORMID": "008C8B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic020",
+      "FULL": "Quem diabos é \"General Winters?\" A gravação mencionou um Coronel Autumn."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C8A",
+      "FORMID": "008C8A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic021",
+      "FULL": "RALPHIE quem? Você ainda não está se fazendo entender, ED-E."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C89",
+      "FORMID": "008C89",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic022",
+      "FULL": "Não precisa me dizer. Eu teria arrebentado ela toda."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C88",
+      "FORMID": "008C88",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic023",
+      "FULL": "Uau, você beija sua mãe com essa boca suja?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C87",
+      "FORMID": "008C87",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic024",
+      "FULL": "Parece que o Dr. Whitley era meio um elemento fora da lei."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C86",
+      "FORMID": "008C86",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic025",
+      "FULL": "Você grava tudo que é dito perto de você?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C85",
+      "FORMID": "008C85",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic026",
+      "FULL": "Acho que Whitley deu um jeito de impedir que você fosse sucateado. Vamos continuar."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C84",
+      "FORMID": "008C84",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic027",
+      "FULL": "{Sobrevivência 55}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C83",
+      "FORMID": "008C83",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic028",
+      "FULL": "Whitley te soltou sozinho? Isso deve ter sido assustador."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C82",
+      "FORMID": "008C82",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic029",
+      "FULL": "Vamos, precisamos continuar andando."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C81",
+      "FORMID": "008C81",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic030",
+      "FULL": "O que foi isso?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C80",
+      "FORMID": "008C80",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic031",
+      "FULL": "Isso soou mal."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7F",
+      "FORMID": "008C7F",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic032",
+      "FULL": "Sem tempo pra conversa. Não gostei da cara desse lugar, é melhor a gente continuar andando."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7E",
+      "FORMID": "008C7E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic033",
+      "FULL": "Onde isso aconteceu?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7D",
+      "FORMID": "008C7D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic034",
+      "FULL": "Parece que aquele garoto gostava bastante de você. Por que você foi embora?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7C",
+      "FORMID": "008C7C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic035",
+      "FULL": "Vamos lá, ED-E, vamos nessa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7B",
+      "FORMID": "008C7B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic036",
+      "FULL": "Você... você está dizendo que pode impedir esse míssil?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C7A",
+      "FORMID": "008C7A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic037",
+      "FULL": "Não, ED-E, eu não vou deixar você se sacrificar assim. Tem que haver outro jeito!"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C79",
+      "FORMID": "008C79",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic038",
+      "FULL": "Melhor você do que eu. Vamos nessa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C78",
+      "FORMID": "008C78",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic039",
+      "FULL": "É, tô começando a ver de onde você puxou isso."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C77",
+      "FORMID": "008C77",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic040",
+      "FULL": "Ele devia ter obedecido às ordens. Sem respeito pela hierarquia, a unidade toda desmorona."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C76",
+      "FORMID": "008C76",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic041",
+      "FULL": "Acho que eu teria gostado dele."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C75",
+      "FORMID": "008C75",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic042",
+      "FULL": "Vamos nessa."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C74",
+      "FORMID": "008C74",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic043",
+      "FULL": "Sério? Bem, é melhor eu tomar cuidado com o que digo a você, hein?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C73",
+      "FORMID": "008C73",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic044",
+      "FULL": "Não, ED-E, eu não quero ouvir suas gravações de \"cantadas humanas\". Isso é... bizarro demais."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008C72",
+      "FORMID": "008C72",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic045",
+      "FULL": "Sim, ED-E, tenho certeza de que você não fez a viagem inteira de uma vez. Ainda é impressionante."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8E",
+      "FORMID": "008A8E",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic001",
+      "FULL": "{Registro de Áudio do ED-E 7 - Pai}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8D",
+      "FORMID": "008A8D",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic002",
+      "FULL": "Que som foi esse que você tocou? Algum tipo de pane na memória?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8C",
+      "FORMID": "008A8C",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic003",
+      "FULL": "Não, não foi sua sequência de inicialização, foi uma gravação. Algo sobre alguém chamado RALPHIE."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8B",
+      "FORMID": "008A8B",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic004",
+      "FULL": "Sim, tenho certeza que ouvi. Alguma coisa afrouxou seus módulos de memória?"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A8A",
+      "FORMID": "008A8A",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic005",
+      "FULL": "Okay, se não quer me contar, é só dizer."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A35",
+      "FORMID": "008A35",
+      "EDID": "NVDLC04DialogueEDENVDLC04EDETopic000",
+      "FULL": "{Sons de Emoção do ED-E}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A34",
+      "FORMID": "008A34",
+      "EDID": "NVDLC04EDEHappy",
+      "FULL": "{ED-E Feliz}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A33",
+      "FORMID": "008A33",
+      "EDID": "NVDLC04EDESad",
+      "FULL": "{ED-E Triste}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A32",
+      "FORMID": "008A32",
+      "EDID": "NVDLC04EDEExcited",
+      "FULL": "{ED-E Animado}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008A31",
+      "FORMID": "008A31",
+      "EDID": "NVDLC04EDEScared",
+      "FULL": "{ED-E Assustado}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A1",
+      "FORMID": "0088A1",
+      "EDID": "NVDLC04EDEAudioLog001",
+      "FULL": "{Registro de Áudio ED-E 1}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0088A0",
+      "FORMID": "0088A0",
+      "EDID": "NVDLC04EDEAudioLog002a",
+      "FULL": "{Registro de Áudio ED-E 2 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889F",
+      "FORMID": "00889F",
+      "EDID": "NVDLC04EDEAudioLog002b",
+      "FULL": "{Registro de Áudio ED-E 2 - Grant}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889E",
+      "FORMID": "00889E",
+      "EDID": "NVDLC04EDEAudioLog003",
+      "FULL": "{Registro de Áudio ED-E 3 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889D",
+      "FORMID": "00889D",
+      "EDID": "NVDLC04EDEAudioLog004",
+      "FULL": "{Registro de Áudio ED-E 4 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889C",
+      "FORMID": "00889C",
+      "EDID": "NVDLC04EDEAudioLog005",
+      "FULL": "{Registro de Áudio ED-E 5 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889B",
+      "FORMID": "00889B",
+      "EDID": "NVDLC04EDEAudioLog006",
+      "FULL": "{Registro de Áudio ED-E 6}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00889A",
+      "FORMID": "00889A",
+      "EDID": "NVDLC04EDEAudioLog007",
+      "FULL": "{Registro de Áudio ED-E 7 - Little Boy}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008899",
+      "FORMID": "008899",
+      "EDID": "NVDLC04EDEAudioLog008",
+      "FULL": "{Registro de Áudio ED-E 8 - Locutor de TV}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008897",
+      "FORMID": "008897",
+      "EDID": "NVDLC04EDEAudioLog010",
+      "FULL": "{Registro de Áudio ED-E 10 - Whitley}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087D7",
+      "FORMID": "0087D7",
+      "EDID": "NVDLC04EDEUlyssesTopic001",
+      "FULL": "{Interrupção de Ulysses 1}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087D6",
+      "FORMID": "0087D6",
+      "EDID": "NVDLC04EDEUlyssesTopic002",
+      "FULL": "{Interrupção de Ulysses 2}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087D5",
+      "FORMID": "0087D5",
+      "EDID": "NVDLC04EDEUlyssesTopic003",
+      "FULL": "{Interrupção de Ulysses 3}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0087D4",
+      "FORMID": "0087D4",
+      "EDID": "NVDLC04EDEUlyssesTopic004",
+      "FULL": "{Interrupção de Ulysses 4}"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:003E3A",
+      "FORMID": "003E3A",
+      "EDID": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic000",
+      "FULL": "O Divide não conseguiu me deter, o Mojave não conseguiu me matar. Você não tem muita chance."
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCD",
+      "FORMID": "11EBCD",
+      "EDID": "FollowersTacticsCombatAggressive",
+      "FULL": "Quero que você ataque os inimigos assim que os vir."
+    },
+    {
+      "FORM": "@FalloutNV.esm:11EBCC",
+      "FORMID": "11EBCC",
+      "EDID": "FollowersTacticsCombatPassive",
+      "FULL": "Quero que você não ataque inimigos a menos que eu já os tenha enfrentado."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03F",
+      "FORMID": "0BD03F",
+      "EDID": "FollowersFiredYes",
+      "FULL": "Sim, tenho certeza."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0BD03E",
+      "FORMID": "0BD03E",
+      "EDID": "FollowersFiredNo",
+      "FULL": "Pensando bem, fique comigo por mais um pouco."
+    },
+    {
+      "FORM": "@FalloutNV.esm:040C66",
+      "FORMID": "040C66",
+      "EDID": "FollowersHiredNo",
+      "FULL": "Seguidores do ApocalipseHiredNo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:037084",
+      "FORMID": "037084",
+      "EDID": "FollowersHired",
+      "FULL": "Acho que devíamos viajar juntos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037083",
+      "FORMID": "037083",
+      "EDID": "FollowersFired",
+      "FULL": "Chegou a hora de nos separarmos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037082",
+      "FORMID": "037082",
+      "EDID": "FollowersLetsGo",
+      "FULL": "Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707F",
+      "FORMID": "03707F",
+      "EDID": "FollowersTactics",
+      "FULL": "Vamos falar sobre suas táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707E",
+      "FORMID": "03707E",
+      "EDID": "FollowersTacticsCombat",
+      "FULL": "Quero que você mude seu estilo de combate."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707D",
+      "FORMID": "03707D",
+      "EDID": "FollowersTacticsCombatGOODBYE",
+      "FULL": "É isso. Vamos nessa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707C",
+      "FORMID": "03707C",
+      "EDID": "FollowersTacticsCombatEND",
+      "FULL": "Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707B",
+      "FORMID": "03707B",
+      "EDID": "FollowersTacticsCombatMelee",
+      "FULL": "Mude para uma arma de combate corpo a corpo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:03707A",
+      "FORMID": "03707A",
+      "EDID": "FollowersTacticsCombatRanged",
+      "FULL": "Quero que você use armas de ataque à distância."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037079",
+      "FORMID": "037079",
+      "EDID": "FollowersTacticsDistance",
+      "FULL": "Vamos falar sobre o quão perto você está me seguindo."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037078",
+      "FORMID": "037078",
+      "EDID": "FollowersTacticsDistanceClose",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037077",
+      "FORMID": "037077",
+      "EDID": "FollowersTacticsDistanceDefault",
+      "FULL": "Fique perto de mim."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037076",
+      "FORMID": "037076",
+      "EDID": "FollowersTacticsDistanceEND",
+      "FULL": "Sua distância está boa. Vamos falar sobre outra coisa."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037075",
+      "FORMID": "037075",
+      "EDID": "FollowersTacticsDistanceGOODBYE",
+      "FULL": "Beleza, tá tudo certo. Vamos vazar daqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037074",
+      "FORMID": "037074",
+      "EDID": "FollowersTacticsDistanceLong",
+      "FULL": "Mantenha distância. Tente flanqueá-los."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037073",
+      "FORMID": "037073",
+      "EDID": "FollowersTacticsEnd",
+      "FULL": "Chega de táticas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037072",
+      "FORMID": "037072",
+      "EDID": "FollowersTrade",
+      "FULL": "Vamos trocar equipamentos."
+    },
+    {
+      "FORM": "@FalloutNV.esm:037071",
+      "FORMID": "037071",
+      "EDID": "FollowersWait",
+      "FULL": "Espere aqui."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000ED",
+      "FORMID": "0000ED",
+      "EDID": "AvoidThreat",
+      "FULL": "Evitar Ameaça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EC",
+      "FORMID": "0000EC",
+      "EDID": "FireExplosive",
+      "FULL": "Fogo Explosivo"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E6",
+      "FORMID": "0000E6",
+      "EDID": "PowerAttack",
+      "FULL": "Ataque Poderoso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Ataque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DF",
+      "FORMID": "0000DF",
+      "EDID": "Steal",
+      "FULL": "Roubar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Acertou"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D2",
+      "FORMID": "0000D2",
+      "EDID": "HELLO",
+      "FULL": "Olá"
+    }
+  ]
+}

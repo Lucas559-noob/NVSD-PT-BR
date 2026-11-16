@@ -1,0 +1,295 @@
+{
+  "REFR": [
+    {
+      "FORM": "@OldWorldBlues.esm:0119D3",
+      "FORMID": "0119D3",
+      "RXATO": "Pegue o LAER Avançado de Elijah"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094C4",
+      "FORMID": "0094C4",
+      "EDID": "NVDLC03SLChemicalMarker",
+      "XMRK": "Fábrica de Toxinas Inovadoras Z-43"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094CE",
+      "FORMID": "0094CE",
+      "RXATO": "Abrir Porta para a Fábrica de Toxinas Inovadoras Z-43"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094D4",
+      "FORMID": "0094D4",
+      "EDID": "NVDLC03SLTunnelWestMarker",
+      "XMRK": "Túnel Oeste de Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094D6",
+      "FORMID": "0094D6",
+      "RXATO": "Abrir Porta para Pesquisa de Dinâmica de Ondas de Luz Z-38"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00955B",
+      "FORMID": "00955B",
+      "EDID": "NVDLC03SLSaturniteMarker",
+      "XMRK": "Instalações de Pesquisa de Liga Saturnita"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009575",
+      "FORMID": "009575",
+      "EDID": "NVDLC03SLVillageMarker",
+      "XMRK": "Vila Higgs"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00957B",
+      "FORMID": "00957B",
+      "EDID": "NVDLC03SLCazadorMarker",
+      "XMRK": "Laboratório de Emenda de DNA Z-14 Pepsinae"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00957C",
+      "FORMID": "00957C",
+      "EDID": "NVDLC03SLNightstalkerMarker",
+      "XMRK": "Laboratório de Preservação de DNA Z-9 Crotalus"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00957E",
+      "FORMID": "00957E",
+      "EDID": "NVDLC03CommMarker",
+      "XMRK": "Transmissor de Signal Hills"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009581",
+      "FORMID": "009581",
+      "EDID": "NVDLC03SLWeatherStationMarker",
+      "XMRK": "Estação Meteorológica X-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00958B",
+      "FORMID": "00958B",
+      "EDID": "NVDLC03LittleYangtzeMarker",
+      "XMRK": "Pequeno Yangtze"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00958F",
+      "FORMID": "00958F",
+      "EDID": "NVDLC03SLHologramMarker",
+      "XMRK": "Pesquisa de Dinâmica de Ondas Leves Z-38"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009591",
+      "FORMID": "009591",
+      "EDID": "NVDLC03SLCuckoosNestMarker",
+      "XMRK": "O Ninho do Cuco"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009594",
+      "FORMID": "009594",
+      "EDID": "NVDLC03SLTunnelEastMarker",
+      "XMRK": "Túnel Leste de Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009596",
+      "FORMID": "009596",
+      "EDID": "NVDLC03SatelliteStationMapMarker",
+      "XMRK": "Conjunto de Antenas Transmissoras X-2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00959B",
+      "FORMID": "00959B",
+      "EDID": "NVDLC03SLArtilleryLandingMarker",
+      "XMRK": "Zona de Alvo X-7b \"Cidade da Detonação\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00959C",
+      "FORMID": "00959C",
+      "EDID": "NVDLC03SLArtilleryLaunchMarker",
+      "XMRK": "Lançador de Artilharia X-7a \"Campo Esquerdo\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095A1",
+      "FORMID": "0095A1",
+      "EDID": "NVDLC03MedCenterMarker",
+      "XMRK": "Instalação Médica Y-17"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095A8",
+      "FORMID": "0095A8",
+      "EDID": "NVDLC03X8MapMarker",
+      "XMRK": "Centro de Pesquisa X-8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095AB",
+      "FORMID": "0095AB",
+      "EDID": "NVDLC03SLHazmatMarker",
+      "XMRK": "Área de Testes de Materiais Perigosos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095AF",
+      "FORMID": "0095AF",
+      "EDID": "NVDLC03SLDisintegrationMarker",
+      "XMRK": "Plataforma de Desintegração de Resíduos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095B2",
+      "FORMID": "0095B2",
+      "EDID": "NVDLC03SLSecuritronMarker",
+      "XMRK": "Usina de Desmonte de Securitrons"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095B7",
+      "FORMID": "0095B7",
+      "EDID": "NVDLC03SLRuinsMarker",
+      "XMRK": "Centro de Pesquisa Y-0"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095BA",
+      "FORMID": "0095BA",
+      "EDID": "NVDLC03SLBotanicalMarker",
+      "XMRK": "Jardim Botânico X-22"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095BD",
+      "FORMID": "0095BD",
+      "EDID": "NVDLC03NorthTunnelMarker",
+      "XMRK": "Túnel Norte de Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0095C3",
+      "FORMID": "0095C3",
+      "EDID": "NVDLC03MagnetohydraulicsMarker",
+      "XMRK": "Complexo Magnetohidráulico"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009A21",
+      "FORMID": "009A21",
+      "EDID": "NVDLC03DomeThinkTankMarker",
+      "XMRK": "O Think Tank"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009A23",
+      "FORMID": "009A23",
+      "EDID": "NVDLC03TheSinkBalconyMarker",
+      "XMRK": "A Varanda da Pia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009A25",
+      "FORMID": "009A25",
+      "EDID": "NVDLC03FZDomeEntranceMapMarker",
+      "XMRK": "Entrada da Cúpula da Zona Proibida"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009A27",
+      "FORMID": "009A27",
+      "RXATO": "Entre no Ninho do Cuco"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00ACF4",
+      "FORMID": "00ACF4",
+      "EDID": "NVDLC03X13MapMarker",
+      "XMRK": "Instalações de Pesquisa X-13"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F92B",
+      "FORMID": "00F92B",
+      "EDID": "NVDLC03SLConstructionMarker",
+      "XMRK": "Canteiro de Obras"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013A23",
+      "FORMID": "013A23",
+      "EDID": "NVDLC03X12MapMarker",
+      "XMRK": "Centro de Pesquisa X-12"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141E9",
+      "FORMID": "0141E9",
+      "EDID": "NVDLC03SLHexMarker",
+      "XMRK": "Arquipélago Hexcreto X-66"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141F8",
+      "FORMID": "0141F8",
+      "EDID": "NVDLC03ElijahsWatchMarker",
+      "XMRK": "Vigilância de Elijah"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B4C",
+      "FORMID": "014B4C",
+      "RXATO": "Entre no Posto de Ulysses"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B4E",
+      "FORMID": "014B4E",
+      "EDID": "NVDLC03SLUlyssesPointMarker",
+      "XMRK": "Ponto de Ulysses"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B6E",
+      "FORMID": "014B6E",
+      "EDID": "NVDLC03SLLoadingMarker",
+      "XMRK": "Estação de Carregamento"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014896",
+      "FORMID": "014896",
+      "EDID": "NVDLC03MysteriousCaveMarker",
+      "XMRK": "Caverna Misteriosa"
+    },
+    {
+      "FORM": "@FalloutNV.esm:159AC5",
+      "FORMID": "159AC5",
+      "EDID": "MojaveDriveInMapMarker",
+      "XMRK": "Mojave Drive-in"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AC2",
+      "FORMID": "014AC2",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009516",
+      "FORMID": "009516",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094D1",
+      "FORMID": "0094D1",
+      "RXATO": "Abrir Portão para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004633",
+      "FORMID": "004633",
+      "RXATO": "Abrir Porta para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01070E",
+      "FORMID": "01070E",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094CF",
+      "FORMID": "0094CF",
+      "RXATO": "Saída para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BAFD",
+      "FORMID": "00BAFD",
+      "RXATO": "Coletar Carne Pendurada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C146",
+      "FORMID": "00C146",
+      "RXATO": "Coletar Carne Pendurada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D3BD",
+      "FORMID": "00D3BD",
+      "RXATO": "Coletar Carne Pendurada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D3BE",
+      "FORMID": "00D3BE",
+      "RXATO": "Coletar Carne Pendurada"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "TERM": [
+    {
+      "FORM": "@LonesomeRoad.esm:003EAC",
+      "FORMID": "003EAC",
+      "EDID": "NVDLC04Road01MilitaryGateTerminal",
+      "FULL": "Terminal do Portão",
+      "DESC": ">\\ Bem-vindo, USUÁRIO",
+      "MENU": {
+        "ITXT": [
+          "Abrir Portão"
+        ],
+        "RNAM": [
+          "Abrindo o Portão..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00749A",
+      "FORMID": "00749A",
+      "EDID": "NVDLC04TerminalSilo01UtilityRoomEnter",
+      "FULL": "Nível de Acesso de Manutenção Três",
+      "DESC": "Manutenção do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Porta de Acesso à Manutenção",
+          "Status de Acesso da Manutenção",
+          "Status de Acesso da Manutenção",
+          "Registro de Status de Acesso à Manutenção",
+          "Registro de Status de Acesso à Manutenção"
+        ],
+        "RNAM": [
+          "Porta de Manutenção Destrancada.",
+          "Acesso de Manutenção Trancado.",
+          "Acesso de Manutenção Desbloqueado.",
+          "Acessando Registro de Status...",
+          "Acessando Registro de Status..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00749B",
+      "FORMID": "00749B",
+      "EDID": "NVDLC04TerminalSilo01FirstRobots",
+      "FULL": "Nível de Controle de Segurança Dois",
+      "DESC": "Sistemas de Segurança do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Desativar Segurança Robótica de Segundo Nível",
+          "Status de Segurança Nível 2",
+          "Status de Segurança Nível 2",
+          "Registro de Segurança de Nível Dois"
+        ],
+        "RNAM": [
+          "Segurança Robótica Desativada.",
+          "Nível de Segurança Ativo.",
+          "Nível de Segurança Inativo.",
+          "Acessando o Registro de Segurança..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00894C",
+      "FORMID": "00894C",
+      "EDID": "NVDLC04TerminalSilo01Mainframe",
+      "FULL": "Terminal do Mainframe",
+      "DESC": "Hopeville Missile Silo Mainframe:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Destranque as Portas do Bunker do Silo"
+        ],
+        "RNAM": [
+          "Abrindo o Silo..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008F5F",
+      "FORMID": "008F5F",
+      "EDID": "NVDLC04TempleMaintenanceTerminal",
+      "FULL": "Terminal de Manutenção",
+      "DESC": "Bem-vindo ao Sistema de Manutenção do Eyebot.",
+      "MENU": {
+        "ITXT": [
+          "Relatórios de Manutenção de Eyebots",
+          "Relatórios de Manutenção de Eyebots",
+          "Acessar Área de Manutenção de Eyebots",
+          "Acessar Corredor Principal"
+        ],
+        "RNAM": [
+          "Door Unlocked."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008F60",
+      "FORMID": "008F60",
+      "EDID": "NVDLC04TempleMaintenanceTerminal02",
+      "FULL": "Terminal de Manutenção",
+      "DESC": "AVISO\nSistema de segurança de manutenção do Eyebot ativado.\nDeseja prosseguir?",
+      "MENU": {
+        "ITXT": [
+          "Sim"
+        ],
+        "RNAM": [
+          "Portas Destrancadas."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009075",
+      "FORMID": "009075",
+      "EDID": "NVDLC04Silo02TerminalTEMP",
+      "FULL": "Ponto de Acesso ED-E",
+      "DESC": "Ponto de Acesso ED-E Temporário."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092F6",
+      "FORMID": "0092F6",
+      "EDID": "NVDLC04TerminalSilo01SecuritySentry",
+      "FULL": "Terminal do Comandante da Base",
+      "DESC": "Silo de Mísseis de Hopeville:\n\nBem-vindo, Comandante.",
+      "MENU": {
+        "ITXT": [
+          "Desativar Sistemas de Sentinela Pessoal",
+          "Abrir Portas da Sentinela Particular",
+          "Status de Segurança da Sentinela Pessoal",
+          "Status de Segurança da Sentinela Pessoal"
+        ],
+        "RNAM": [
+          "Sistemas de Segurança Desativados.",
+          "Portas da Sentinela abertas.",
+          "Segurança da Sentinela Ativa.",
+          "Segurança da Sentinela Desativada."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092F7",
+      "FORMID": "0092F7",
+      "EDID": "NVDLC04TerminalSilo01SecurityTurret",
+      "FULL": "Terminal de Segurança da Torreta",
+      "DESC": "Sistemas de Segurança do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Hackear Torretas de Segurança",
+          "Status de Segurança da Torre de Primeiro Nível",
+          "Status de Segurança da Torre de Primeiro Nível"
+        ],
+        "RNAM": [
+          "Torretas de Segurança Comprometidas...",
+          "Segurança da Torre Ativa.",
+          "Erro: Segurança da Torreta Comprometida..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A2CB",
+      "FORMID": "00A2CB",
+      "EDID": "NVDLC04DivideWaterPlantTerminal",
+      "FULL": "Terminal do Gerente",
+      "DESC": "Sistema de Email Inlook",
+      "MENU": {
+        "ITXT": [
+          "E-mail para o Tesoureiro da Cidade",
+          "Resposta do Tesoureiro da Cidade"
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A2CC",
+      "FORMID": "00A2CC",
+      "EDID": "NVDLC04DivideGovtTerminal",
+      "FULL": "Terminal do Escritório do Tesoureiro",
+      "DESC": "Sistema de Email Inlook",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Tesoureiro",
+          "E-mail Interno",
+          "Memorando do Comandante Devlin"
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A2CD",
+      "FORMID": "00A2CD",
+      "EDID": "NVDLC04DivideAptTerminal",
+      "FULL": "Computador da Jackie",
+      "DESC": "Meu Computador",
+      "MENU": {
+        "ITXT": [
+          "Barulho",
+          "Terremotos",
+          "Mais Terremotos"
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7D2",
+      "FORMID": "00A7D2",
+      "EDID": "NVDLC04TerminalSilo01EDERelease",
+      "FULL": "Controle do Robô de Manutenção",
+      "DESC": "Manutenção do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Desbloquear Bot Protótipo",
+          "Status do Pod Robótico",
+          "Status do Pod Robótico",
+          "Registro do Departamento de Manutenção",
+          "Aviso do Armazém",
+          "Lembrete da Intendência"
+        ],
+        "RNAM": [
+          "Protótipo da Cápsula Robô Desbloqueado.",
+          "Cápsula de Robô Trancada.",
+          "Bot Pod Desbloqueado.",
+          "Acessando o Registro de Manutenção..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00B99D",
+      "FORMID": "00B99D",
+      "EDID": "NVDLC04TempleRepairPodTerminal",
+      "FULL": "Terminal da Cápsula de Reparo",
+      "DESC": "Bem-vindo ao Sistema de Manutenção do Eyebot.",
+      "MENU": {
+        "ITXT": [
+          "Abrir Cápsula de Reparo 1 - Vazia",
+          "Abrir Cápsula de Reparo 2 - OCUPADA",
+          "Abrir Cápsula de Reparo 2 - OCUPADA",
+          "Abrir Cápsula de Reparo 2 - OCUPADA",
+          "Cápsula de Reparos Aberta 3 - Desocupada"
+        ],
+        "RNAM": [
+          "Mau funcionamento da porta... Tente novamente",
+          "Cápsula de Reparos 2 Aberta",
+          "ERRO - Robôs de segurança ainda ativos.",
+          "ERRO: Ocupante da Cápsula 2 Inoperante.",
+          "Mau funcionamento da porta... Tente novamente"
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C12F",
+      "FORMID": "00C12F",
+      "EDID": "NVDLC04DivideGovtTerminalWW",
+      "FULL": "Terminal do Escritório do Tesoureiro",
+      "DESC": "Senha \"GUEST\" Aceita\n\nBem-vindo ao Mainframe",
+      "MENU": {
+        "ITXT": [
+          "Relatório do Tesoureiro",
+          "E-mail Interno",
+          "Memorando do Comandante Devlin"
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C61D",
+      "FORMID": "00C61D",
+      "EDID": "NVDLC04TerminalSilo01HydraulicsRoomEnter",
+      "FULL": "Nível de Acesso Hidráulico Três",
+      "DESC": "Manutenção do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Destrancar Porta de Acesso Hidráulico",
+          "Status de Acesso Hidráulico",
+          "Status de Acesso Hidráulico"
+        ],
+        "RNAM": [
+          "Porta Hidráulica Destrancada.",
+          "Acesso Hidráulico Bloqueado.",
+          "Acesso Hidráulico Desbloqueado."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C61E",
+      "FORMID": "00C61E",
+      "EDID": "NVDLC04TerminalSilo01Bots01RoomEnter",
+      "FULL": "Nível de Acesso de Segurança Sentinela Um",
+      "DESC": "Sistemas de Segurança do Silo de Mísseis de Hopeville:\n\nBem-vindo, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Porta de Acesso de Segurança da Sentinela",
+          "Status de Acesso de Segurança da Sentinela",
+          "Status de Acesso de Segurança da Sentinela"
+        ],
+        "RNAM": [
+          "Porta de Segurança da Sentinela Destrancada.",
+          "Acesso de Segurança da Sentinela Trancado.",
+          "Acesso de Segurança da Sentinela Desbloqueado."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C621",
+      "FORMID": "00C621",
+      "EDID": "NVDLC04TerminalRoad01Armory",
+      "FULL": "Terminal de Acesso ao Arsenal",
+      "DESC": "Arsenal da Base de Mísseis de Hopeville:\n\nBoas-vindas, Usuário.",
+      "MENU": {
+        "ITXT": [
+          "Abrir Arsenal",
+          "Status de Acesso ao Arsenal",
+          "Status de Acesso ao Arsenal"
+        ],
+        "RNAM": [
+          "Liberando acesso ao arsenal...",
+          "Acesso ao Arsenal Trancado.",
+          "Acesso ao Arsenal Desbloqueado."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C839",
+      "FORMID": "00C839",
+      "EDID": "NVDLC04TerminalSilo02DoorLock",
+      "FULL": "Terminal",
+      "DESC": "Silo de Mísseis Ashton:\n\nBem-vindo(a), usuário(a).",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C83A",
+      "FORMID": "00C83A",
+      "EDID": "NVDLC04TempleMaintenanceDoorLock",
+      "FULL": "Terminal",
+      "DESC": "Sala de Armazenamento Alfa Um:\n\nBem-vindo(a), usuário(a).",
+      "MENU": {
+        "ITXT": [
+          "Desativar Fechadura"
+        ],
+        "RNAM": [
+          "Autorização concedida, Destravando..."
+        ]
+      }
+    }
+  ]
+}

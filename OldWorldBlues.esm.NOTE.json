@@ -1,0 +1,872 @@
+{
+  "NOTE": [
+    {
+      "FORM": "@OldWorldBlues.esm:00C894",
+      "FORMID": "00C894",
+      "EDID": "NVDLC03X13RobotComplianceNote",
+      "FULL": "Conformidade Robótica",
+      "TNAM": "Para este teste, você deve desativar todos os robôs ativos sem ser detectado. Precisamos calibrar o FCG (Gerador de Conformidade de Campo) do traje para a variação correta. Todas as medidas de segurança estão ativas. Uma execução bem-sucedida concederá um item no Armário de Suprimentos.\n\nSucesso: Desative todos os robôs sem ser detectado.\n\nFalha: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C895",
+      "FORMID": "00C895",
+      "EDID": "NVDLC03X13InfiltrationNote",
+      "FULL": "Infiltração Básica",
+      "TNAM": "Para este teste, você deve roubar um documento no escritório do Administrador sem ser detectado pelos robôs rangers. Uma execução bem-sucedida atualizará automaticamente o software do traje e concederá um item no Armário de Suprimentos.\n\nSucesso: Chegue ao escritório do Administrador e roube o documento sem ser detectado.\n\nFalha: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CC21",
+      "FORMID": "00CC21",
+      "EDID": "NVDLC03X8TestTerminalNote01",
+      "TNAM": "Enquanto programava o novo modelo residencial Cyberdog para buscar objetos arremessados por seres humanos com o propósito de diversão, acidentalmente usei uma amostra de áudio da sua latida como o objeto a ser buscado. O Cyberdog agora se apegou à amostra e exibiu sinais de tendências agressivas quando tentei recuperá-la. Eu o deixei na Área de Reconstrução Residencial até que seja necessário. Acredito que o Cyberdog a enterrou.\n\nDra. Gail Richardson, PhD, Engenheira de Testes, Projeto Cyberdog X-8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DBA4",
+      "FORMID": "00DBA4",
+      "EDID": "NVDLC03X13FieldGunNote",
+      "FULL": "Aviso do Emissor Sônico",
+      "TNAM": "Conseguimos criar com sucesso um módulo de capacitância capaz de emitir um pulso eletromagnético focalizado de um Emissor Sônico. Embora o impacto físico seja bastante fraco, Jenkins disparou a arma contra um campo de força e fritou a matriz emissora do campo. Após estudo adicional, descobrimos que a arma afeta apenas uma pequena faixa de frequências. Infelizmente, a frequência dos nossos campos de força está dentro dessa faixa. A arma foi enviada para X-8 para estudo adicional.\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD48",
+      "FORMID": "00DD48",
+      "EDID": "NVDLC03X8SchoolRecord",
+      "FULL": "Registro Disciplinar de Betsy Bright",
+      "TNAM": "Registro Disciplinar de Betsy Bright\n\nFaltas Não Justificadas 7\nComportamento Disruptivo 3\nFumar na Propriedade da Escola 11"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD49",
+      "FORMID": "00DD49",
+      "EDID": "NVDLC03X8SchoolGrades",
+      "FULL": "Relatório de Notas do Semestre: Richie Marcus",
+      "TNAM": "Boletim do Semestre: Richie \"Amante de Ovo\" Marcus\n\nInglês F-\nMatemática F-\nCiências F--\nHistória F-"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD4A",
+      "FORMID": "00DD4A",
+      "EDID": "NVDLC03X8SchoolSchedule",
+      "FULL": "Cronograma Depois da Escola de Cherie O' Bannon",
+      "TNAM": "Agenda de Atividades Extracurriculares de Cherie O'Bannon\n\nBalé: Terça e Quinta, das 16h30 às 18h30\nEquipe de Líderes de Torcida: Quarta, das 16h15 às 17h15\nVoluntária no Centro de Tutoria: Segunda, das 16h15 às 18h"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E173",
+      "FORMID": "00E173",
+      "EDID": "NVDLC03X8SplicingRules",
+      "FULL": "Regras de Enxerto Biomecânico",
+      "TNAM": "1) Devido aos cortes recentes no nosso financiamento, impostos pelo governo, apenas TRÊS experimentos podem ser realizados por dia.\n2) Não temos espaço infinito para canis aqui em X-8! Apenas UM Cyberdog além dos necessários para o processo de teste pode ser criado.\n3) Remova todos os detritos da plataforma antes de conduzir quaisquer experimentos de junção. \n4) Experimentos NÃO são permitidos fora das Instalações de X-8.\n5) Por fim, a Segurança deve ser desativada antes que os experimentos possam ser executados."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E240",
+      "FORMID": "00E240",
+      "EDID": "NVDLC03X8InternalMemo01",
+      "FULL": "Teste de Recuperação de Dados Institucionais X-8",
+      "TNAM": "Os indivíduos serão informados de que estamos medindo a eficácia da infiltração comunista nas escolas americanas. Eles não saberão sobre os Cyberdogs até que realmente comecem o processo de teste.\n\n1) TESTE A aciona os protocolos de proteção do Cyberdog junto com os sistemas de torretas automatizadas padrão.\n2) TESTE B adiciona Protectrons ao teste anterior. O TESTE B também inclui alguns testes básicos para o Módulo de Capacitância do Disruptor de Campo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E241",
+      "FORMID": "00E241",
+      "EDID": "NVDLC03X8InternalMemo02",
+      "FULL": "Teste do Ciber-cão Residencial Proibido!",
+      "TNAM": "Até segunda ordem, por favor, não entrem na área de testes do Ciber-cão Residencial, nem conduzam experimentos nela. Os Ciber-cães ainda estão sendo programados, e qualquer perturbação pode ter uma influência drástica no progresso deles. Restringir o acesso dessa forma também deve ajudar a evitar repetições do Incidente: BRINCADEIRA, cujos acordos estão saindo diretamente do nosso orçamento.\n\nDra. Gail Richardson, PhD, Engenheira de Testes, Projeto Ciber-cão X-8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E242",
+      "FORMID": "00E242",
+      "EDID": "NVDLC03X8ShippingMemo1",
+      "FULL": "Aconselhe, por favor.",
+      "TNAM": "Dr. Richardson,\n\nAcabamos de receber o último carregamento de cães para o processo do experimento Cyberdog, mas... bem, francamente, acho que nosso fornecedor nos sacaneou. Os animais devem ser basicamente selvagens. Toda vez que chegamos perto dos canis de transporte, eles soltam a mais horrível chiadeira e... bem, o único jeito de descrever é um chocalho. Por favor, aconselhe: devemos abrir os canis ou apenas mandá-los de volta?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E243",
+      "FORMID": "00E243",
+      "EDID": "NVDLC03X8SubjectInfo",
+      "FULL": "Informações do Sujeito de Teste X-8",
+      "TNAM": "Neste teste, VOCÊ vai assumir o papel de um daqueles Comunistas malignos, infiltrando uma instituição de APRENDIZADO AMERICANO HONESTO. (Não se preocupe, Cidadão, é só de faz de conta!) Seu objetivo é roubar documentos que um traidor Comunista sujo DE VERDADE (que você não é) poderia usar para LAVAR O CÉREBRO DE NOSSAS CRIANÇAS (o que você não faria). Este teste nos ajudará a proteger as mentes frágeis de nossas crianças dos agentes do COMUNISMO INTERNACIONAL! Agentes como VOCÊ!\n\nSó brincando! Sabemos que você é um americano leal! NÃO É?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E244",
+      "FORMID": "00E244",
+      "EDID": "NVDLC03X8ShippingMemo2",
+      "FULL": "RE: Favor informar",
+      "TNAM": "Então, a pedido do Dr. Richardson, abrimos um daqueles canis da nossa última remessa. O \"cão\" lá dentro (e uso esse termo com muita liberdade) parecia estar sofrendo de um caso realmente horrendo de sarna e, ao ser solto, atacou, matou e tentou engolir o Especialista Akers inteiro. Felizmente, a situação se conteve, pelo menos por enquanto, já que o SPC Akers era um homem muito grande e a criatura morreu engasgada.\n\nAlguém sabe algo sobre essa remessa? Aconselhem, por favor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E245",
+      "FORMID": "00E245",
+      "EDID": "NVDLC03X8ShippingMemo3",
+      "FULL": "Departamento de Expedição em Bloqueio",
+      "TNAM": "À luz do grande número de fatalidades devido ao último carregamento de cobaias experimentais, o departamento de entregas entrará em quarentena. Dou minha garantia pessoal de que, assim que essa praga de monstros for resolvida, farei hora extra para entregar seus pedidos de forma pontual e eficiente. No entanto, como sou atualmente o único membro sobrevivente do departamento de entregas, ainda pode haver alguns atrasos. Até lá, a Dra. Calis em X-13 tem o cartão de acesso para a área.\n\nSkippy, Único Sobrevivente"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E246",
+      "FORMID": "00E246",
+      "EDID": "NVDLC03X8FieldGunNote",
+      "FULL": "Protótipo de Canhão de Campanha Emprestado",
+      "TNAM": "A Instalação X-13 nos emprestou o protótipo do Módulo de Onda de Pulso EM para o Emissor Sônico para uso em nossas simulações do Teste de Recuperação de Dados. O Módulo permite que o Emissor Sônico desative certos campos de força. NÃO permitam que os sujeitos de teste deixem a instalação X-8 com este Módulo! Mesmo que não funcione fora de Big MT, é um pesadelo de segurança. Agradeço a atenção de todos neste assunto.\n\nDr. Adam Figgis, MD PhD DVM DDM DD, Supervisor de Teste"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E57A",
+      "FORMID": "00E57A",
+      "EDID": "NVDLC03X8GraveRobbers",
+      "FULL": "Projeto: Burke e Projeto: Hare - LEIA, POR FAVOR",
+      "TNAM": "Sim, o Projeto: Burke envolve o que alguns indivíduos menos científicos podem chamar de \"roubo de túmulos\". Sim, somos forçados a isso devido a cortes no orçamento. Não, nenhum dos funcionários superiores usa os corpos para mais nada. Finalmente, em relação ao rumor de que o Projeto: Hare se envolve em operações de liquidação contra alvos não militares para obter espécimes de pesquisa, não vou dignificá-los com uma resposta. Alguma outra pergunta?\n\nDr. Adam Figgis, MD PhD DVM DDM DD, Supervisor de Testes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E721",
+      "FORMID": "00E721",
+      "EDID": "NVDLC03X13NoSuitTerminalMsg",
+      "FULL": "Nenhum Traje Detectado!",
+      "TNAM": "Para ativar este terminal, equipe o Traje Furtivo Mk II."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F02A",
+      "FORMID": "00F02A",
+      "EDID": "NVDLC03X42DroneNote01",
+      "FULL": "Registro de Teste do Robo-Escorpião Gigante",
+      "TNAM": "A blindagem de saturnita do Robo-Escorpião Gigante superou as expectativas... quase. Embora seja virtualmente impenetrável a armas de pequeno porte, o Emissor Sônico que Parsons trouxe conseguiu fritar vários dos subsistemas do protótipo. Teremos que analisar uma blindagem IEM aprimorada para o próximo protótipo.\n\nEm uma nota mais positiva, o novo laser atômico do protótipo está funcionando admiravelmente. Alguma radiação residual é deixada para trás após a descarga da arma, pode ser necessário requisitar mais trajes de proteção contra radiação e medicamentos como precaução."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F03D",
+      "FORMID": "00F03D",
+      "EDID": "NVDLC03X42DroneNote02",
+      "FULL": "Eficácia do Drone-Alvo",
+      "TNAM": "As constantes melhorias no Robo-Escorpião Gigante tornaram os modelos Protectron que estávamos usando como \"forças comunistas hostis\" praticamente inúteis. Nesta altura, eles são pouco mais que distrações."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F421",
+      "FORMID": "00F421",
+      "EDID": "NVDLC03X13InfiltrationExpNote",
+      "FULL": "Infiltração de Especialista",
+      "TNAM": "Para este teste, você deve roubar um documento no escritório do Administrador sem ser detectado pelos robôs rangers. Fios laser e detectores de proximidade foram ativados para aumentar a dificuldade. Uma execução bem-sucedida atualizará automaticamente o software do traje e concederá um item no Armário de Suprimentos.\n\nSucesso: alcance o escritório do Administrador e roube o documento sem ser detectado.\n\nFalha: detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F422",
+      "FORMID": "00F422",
+      "EDID": "NVDLC03X13InfiltrationAdvNote",
+      "FULL": "Infiltração Avançada",
+      "TNAM": "Para este teste, você deve se esgueirar até o escritório do Administrador e roubar um documento de lá sem ser detectado pelos robôs rangers. Fios-laser foram adicionados para aumentar a dificuldade. Uma execução bem-sucedida atualizará automaticamente o software do traje e concederá um item no Armário de Suprimentos.\n\nSucesso: Chegue ao escritório do Administrador e roube o documento sem ser detectado.\n\nFracasso: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F449",
+      "FORMID": "00F449",
+      "EDID": "NVDLC03X42PowerNote02",
+      "TNAM": "AVISO: Maximizar a saída de energia nesta fase pode potencialmente danificar ou destruir o protótipo.\n\nTem certeza de que deseja prosseguir?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7F3",
+      "FORMID": "00F7F3",
+      "EDID": "NVDLC03X13RobotComplianceReplayNote",
+      "FULL": "Conformidade Robótica",
+      "TNAM": "Para este teste, você deve desativar todos os robôs ativos sem ser detectado. Todas as medidas de segurança estão ativas. Uma execução bem-sucedida concederá um item no Armário de Suprimentos.\n\nSucesso: Desative todos os robôs sem ser detectado.\n\nFalha: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7F4",
+      "FORMID": "00F7F4",
+      "EDID": "NVDLC03X13InfiltrationExpReplayNote",
+      "FULL": "Infiltração de Especialista",
+      "TNAM": "Para este teste, você deve roubar um documento no escritório do Administrador sem ser detectado pelos robôs patrulhando. Sensores a laser e detectores de proximidade foram ativados para aumentar a dificuldade. Uma execução bem-sucedida concederá um item no Armário de Suprimentos.\n\nSucesso: Chegue ao escritório do Administrador e roube o documento sem ser detectado.\n\nFracasso: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7F5",
+      "FORMID": "00F7F5",
+      "EDID": "NVDLC03X13InfiltrationAdvReplayNote",
+      "FULL": "Infiltração Avançada",
+      "TNAM": "Para este teste, você deve se esgueirar e roubar um documento no escritório do Administrador sem ser detectado pelos robôs rangers. Raios laser foram adicionados para aumentar a dificuldade. Uma execução bem-sucedida concederá um item no Armário de Suprimentos.\n\nSucesso - Chegue ao escritório do Administrador e roube o documento, sem ser detectado.\n\nFracasso - Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F7F6",
+      "FORMID": "00F7F6",
+      "EDID": "NVDLC03X13InfiltrationReplayNote",
+      "FULL": "Infiltração Básica",
+      "TNAM": "Para este teste, você deve roubar um documento no escritório do Administrador sem ser detectado pelos robôs de patrulha. Uma execução bem-sucedida concederá um item no Armário de Suprimentos.\n\nSucesso: Chegue ao escritório do Administrador e roube o documento sem ser detectado.\n\nFracasso: Detecção."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F996",
+      "FORMID": "00F996",
+      "EDID": "NVDLC03X42ShutdownTerminalPassword",
+      "FULL": "Senha do Terminal de Desligamento de Emergência",
+      "TNAM": "Vai levar semanas para deixar o protótipo funcional se tivermos que iniciar o procedimento de desligamento de emergência, mas é melhor do que destruir a coisa de vez (pelo menos até conseguirmos os outros 17 protótipos que pedimos)."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011263",
+      "FORMID": "011263",
+      "EDID": "NVDLC03X8ShippingMemo4",
+      "FULL": "Departamento de Expedição em Bloqueio",
+      "TNAM": "Na nossa última reunião de supervisores, discutimos os possíveis benefícios do pequeno acidente de transporte. Estamos considerando estudar o comportamento do espécime inesperado, soltando-o em nossa área de testes antes de removê-lo da instalação X-8. O departamento de transporte permanecerá em isolamento até que uma decisão seja tomada.\n\nDr. Adam Figgis, MD PhD DVM DDM DD, Supervisor de Testes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011277",
+      "FORMID": "011277",
+      "EDID": "NVDLC03X13NightstalkerResearchNote",
+      "FULL": "Manipulação de DNA de Perseguidor Noturno",
+      "TNAM": "Acredito que este último soro provou ser um sucesso. Sob observação humana, as criaturas permanecem visíveis, mas algumas das gravações noturnas revelam que o soro está funcionando. Os animais parecem estar aprendendo a usar sua nova habilidade de camuflagem quando não há ninguém por perto. Talvez haja uma limitação física ou alguma desvantagem mental na habilidade, o que impede seu uso sob coação. Acho que vou prosseguir com os testes de estresse dos animais logo na segunda de manhã."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F92",
+      "FORMID": "011F92",
+      "EDID": "NVDLC03SonicGunGabrielsBarkNOTE",
+      "FULL": "Amostra de Áudio - Latido de Gabriel",
+      "TNAM": "Esta holofita contém uma amostra de áudio do Latido de Gabriel. Ela pode ser usada para modificar a arma Emissor Sônico na Jukebox do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F93",
+      "FORMID": "011F93",
+      "EDID": "NVDLC03SonicGunOperaSingerNOTE",
+      "FULL": "Amostra de áudio - Cantora de ópera",
+      "TNAM": "Esta holofita contém uma amostra de áudio intitulada \"Cantora de Ópera\". Ela pode ser usada para modificar a arma Emissor Sônico na Jukebox do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F94",
+      "FORMID": "011F94",
+      "EDID": "NVDLC03SonicGunRoboScorpionNOTE",
+      "FULL": "Amostra de Áudio - Robo-Escorpião de Mobius",
+      "TNAM": "Esta holofita contém uma amostra de áudio do Robo-Escorpião Gigante de Mobius. Ela pode ser usada para modificar a arma Emissor Sônico na Jukebox do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F95",
+      "FORMID": "011F95",
+      "EDID": "NVDLC03SonicGunTarantulaNOTE",
+      "FULL": "Amostra de Áudio - Tarântula Gigante",
+      "TNAM": "Esta holofita contém uma amostra de áudio intitulada \"Ataque de Tarântula Gigante\". Ela pode ser usada para modificar a arma Emissor Sônico na Jukebox do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F96",
+      "FORMID": "011F96",
+      "EDID": "NVDLC03HQBuddyBiologyNOTE",
+      "FULL": "Projeto Sink: Estação de Pesquisa Biológica",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Estação de Pesquisa Biológica\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F97",
+      "FORMID": "011F97",
+      "EDID": "NVDLC03HQBuddyAutoDocNOTE",
+      "FULL": "Projeto da Cuba: Auto-Doc",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade do assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F98",
+      "FORMID": "011F98",
+      "EDID": "NVDLC03HQBuddyJukeboxNOTE",
+      "FULL": "Projeto da Pia: Jukebox",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Jukebox\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F99",
+      "FORMID": "011F99",
+      "EDID": "NVDLC03HQBuddyBookChuteNOTE",
+      "FULL": "Projeto da Pia: Rampa de Livros",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Ejetor de Livros\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F9C",
+      "FORMID": "011F9C",
+      "EDID": "NVDLC03HQBuddyToasterNOTE",
+      "FULL": "Projeto da Cuba: Torradeira",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Torradeira\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F9D",
+      "FORMID": "011F9D",
+      "EDID": "NVDLC03HQBuddySinkNOTE",
+      "FULL": "Projeto da Cuba: Cuba",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade do assistente robótico da Pia: \"Pia\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F9E",
+      "FORMID": "011F9E",
+      "EDID": "NVDLC03HQBuddyLightSwitch01NOTE",
+      "FULL": "Projeto da Cuba: Interruptor de Luz 01",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Interruptor de Luz 01\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011F9F",
+      "FORMID": "011F9F",
+      "EDID": "NVDLC03HQBuddyLightSwitch02NOTE",
+      "FULL": "Projeto da Pia: Interruptor de Luz 02",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Interruptor de Luz 02\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA0",
+      "FORMID": "011FA0",
+      "EDID": "NVDLC03HQBuddyMuggyNOTE",
+      "FULL": "Projeto da Cuba: Muggy",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Muggy\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA1",
+      "FORMID": "011FA1",
+      "EDID": "NVDLC03HQUpgradeAutoDocBarberNOTE",
+      "FULL": "Melhoria do Auto-Doc: Aprimoramentos de Estilo de Cabelo",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA2",
+      "FORMID": "011FA2",
+      "EDID": "NVDLC03HQUpgradeAutoDocC13NOTE",
+      "FULL": "Melhoria do Auto-Doc: Implante C-13",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA3",
+      "FORMID": "011FA3",
+      "EDID": "NVDLC03HQUpgradeAutoDocM5NOTE",
+      "FULL": "Melhoria do Auto-Doc: Implante M-5",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA4",
+      "FORMID": "011FA4",
+      "EDID": "NVDLC03HQUpgradeAutoDocY3NOTE",
+      "FULL": "Melhoria do Auto-Doc: Implante Y-3",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA5",
+      "FORMID": "011FA5",
+      "EDID": "NVDLC03HQUpgradeAutoDocY7NOTE",
+      "FULL": "Melhoria do Auto-Doc: Implante Y-7",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FA9",
+      "FORMID": "011FA9",
+      "EDID": "NVDLC03HQUpgradeBookChuteMulchingNOTE",
+      "FULL": "Melhoria da Calha de Livros: Trituração",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Ejetor de Livros\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FAA",
+      "FORMID": "011FAA",
+      "EDID": "NVDLC03HQUpgradeSinkWaterNOTE",
+      "FULL": "Melhoria do Tanque: Produção de Água",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico da Pia: \"Pia\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FAF",
+      "FORMID": "011FAF",
+      "EDID": "NVDLC03HQUpgradeLight01SmartNOTE",
+      "FULL": "Melhoria do Interruptor 01: \"Luzes Inteligentes\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Interruptor de Luz 01\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FB1",
+      "FORMID": "011FB1",
+      "EDID": "NVDLC03HQUpgradeMuggyPartsProductionNOTE",
+      "FULL": "Melhoria \"Muggy\": Produção de Peças",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Muggy\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FB3",
+      "FORMID": "011FB3",
+      "EDID": "NVDLC03RecipeSkillBookBarterNOTE",
+      "FULL": "Receitas - Livro de Habilidade de Troca",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite criar um livro de habilidade de Troca."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FBE",
+      "FORMID": "011FBE",
+      "EDID": "NVDLC03RecipeSkillBookEnergyWeapNOTE",
+      "FULL": "Receitas - Livro de Habilidade de Armas de Energia",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite criar um livro de perícia de armas de energia."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FBF",
+      "FORMID": "011FBF",
+      "EDID": "NVDLC03RecipeSkillBookExplosivesNOTE",
+      "FULL": "Receitas - Livro de Perícia Explosivos",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite que você faça um livro de perícia de Explosivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC0",
+      "FORMID": "011FC0",
+      "EDID": "NVDLC03RecipeSkillBookGunsNOTE",
+      "FULL": "Receitas - Livro de Habilidade de Armas de Fogo",
+      "TNAM": "Esta holofita contém uma receita de Bancada que permite que você faça um Livro de Habilidade de Armas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC1",
+      "FORMID": "011FC1",
+      "EDID": "NVDLC03RecipeSkillBookLockpickingNOTE",
+      "FULL": "Receitas - Livro de Habilidade de Gazua",
+      "TNAM": "Esta holofita contém uma receita de Bancada que permite fazer um Livro de Habilidade de Gazua."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC2",
+      "FORMID": "011FC2",
+      "EDID": "NVDLC03RecipeSkillBookMedicineNOTE",
+      "FULL": "Receitas - Livro de Habilidade Medicina",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite que você fazer um livro de perícia em Medicina."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC3",
+      "FORMID": "011FC3",
+      "EDID": "NVDLC03RecipeSkillBookMeleeWeapNOTE",
+      "FULL": "Receitas - Livro de Perícia de Armas Brancas",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite criar um livro de perícia de armas brancas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC4",
+      "FORMID": "011FC4",
+      "EDID": "NVDLC03RecipeSkillBookRepairNOTE",
+      "FULL": "Receitas - Livro de Perícia de Reparo",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite que você faça um livro de habilidade de Reparo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC5",
+      "FORMID": "011FC5",
+      "EDID": "NVDLC03RecipeSkillBookScienceNOTE",
+      "FULL": "Receitas - Livro de Perícia Ciência",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite que você fazer um Livro de Habilidade de Ciência."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC6",
+      "FORMID": "011FC6",
+      "EDID": "NVDLC03RecipeSkillBookSneakNOTE",
+      "FULL": "Receitas - Livro de Habilidade Furtividade",
+      "TNAM": "Esta holofita contém uma receita de Bancada que permite criar um Livro de Habilidade de Furtividade."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC7",
+      "FORMID": "011FC7",
+      "EDID": "NVDLC03RecipeSkillBookSpeechNOTE",
+      "FULL": "Receitas - Livro de Perícia de Oratória",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite fazer um livro de habilidade de Oratória."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC8",
+      "FORMID": "011FC8",
+      "EDID": "NVDLC03RecipeSkillBookSurvivalNOTE",
+      "FULL": "Receitas - Livro de Habilidade de Sobrevivência",
+      "TNAM": "Esta holofita contém uma receita de Bancada que permite que você faça um Livro de Perícia de Sobrevivência."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011FC9",
+      "FORMID": "011FC9",
+      "EDID": "NVDLC03RecipeSkillBookUnarmedNOTE",
+      "FULL": "Receitas - Livro de Perícia Desarmado",
+      "TNAM": "Esta holofita contém uma receita de bancada que permite criar um livro de habilidade de Luta Desarmada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0122E7",
+      "FORMID": "0122E7",
+      "EDID": "NVDLC03HQUpgradeLight02MoodNOTE",
+      "FULL": "Interruptor de Luz 02 Melhoria: \"Luzes de Humor\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Interruptor de Luz 02\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124A7",
+      "FORMID": "0124A7",
+      "EDID": "NVDLC03X8DataRetrievalExpNote",
+      "FULL": "Recuperação de Dados",
+      "TNAM": "Para este teste, você deve usar todos os meios necessários para recuperar três arquivos de alunos de uma escola de ensino médio comum. Protocolos básicos de segurança foram ativados.\\n\\nSucesso - Recupere três arquivos de alunos.\\n\\nFalha - Medidas de segurança o proíbem de recuperar os arquivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124A8",
+      "FORMID": "0124A8",
+      "EDID": "NVDLC03X8DataRetrievalAdvanceExpNote",
+      "FULL": "Recuperação de Dados",
+      "TNAM": "Para este teste, você deve usar todos os meios necessários para recuperar três arquivos de estudantes de uma escola secundária comum. Utilize o Módulo de Capacitância do Disruptor de Campo para o Emissor Sônico para navegar melhor pela área. Protectrons e protocolos básicos de segurança foram ativados.\n\nSucesso - Recupere três arquivos de estudantes.\n\nFalha - Medidas de segurança impedem que você recupere os arquivos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124A9",
+      "FORMID": "0124A9",
+      "EDID": "NVDLC03x8GuardTestExpNote",
+      "FULL": "Teste de Cão Cibernético de Guarda Residencial",
+      "TNAM": "Os parâmetros para este teste estão incompletos no momento. Cuidado com o cachorro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A0B",
+      "FORMID": "012A0B",
+      "EDID": "NVDLC03X8Experiment02Note",
+      "FULL": "Fita Holo do Experimento de Enxerto de Cães e Lobotomizados",
+      "TNAM": "Esta holofita contém dados de junção de cães e Lobotomites que podem ser usados no Terminal de Junção Biomecânica X-8."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A0C",
+      "FORMID": "012A0C",
+      "EDID": "NVDLC03X8Experiment03Note",
+      "FULL": "Holotape do Experimento de Enxerto de Robôs e Perseguidor Noturnos",
+      "TNAM": "Esta holofita contém dados de junção de robôs e Perseguidor Noturnos que podem ser usados no Terminal de Junção Biomecânica X-8."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012A0D",
+      "FORMID": "012A0D",
+      "EDID": "NVDLC03X8Experiment01Note",
+      "FULL": "Holotape do Experimento de Junção de Cão e Robô",
+      "TNAM": "Esta holofita contém dados de junção de cães e robôs que podem ser usados no Terminal de Junção Biomecânica X-8."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B98",
+      "FORMID": "012B98",
+      "EDID": "NVDLC03X13SubjectObservations1bNote",
+      "FULL": "Observações do Sujeito de Teste",
+      "TNAM": "Sim, sim. Faça os testes, se isso te manter longe do meu caminho. Estou voltando para as jaulas para ver se um cutucão com um ferrão vai ativar as habilidades deles. Os outros líderes de projeto vão aparecer em alguns dias e precisamos ser capazes de mostrar progresso a eles!\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B99",
+      "FORMID": "012B99",
+      "EDID": "NVDLC03X13K9ModNote",
+      "FULL": "Pesquisa Independente",
+      "TNAM": "Enquanto Slough está ocupado enchendo a pança e tentando encontrar novos lugares para esconder suas tranqueiras da Calis, eu decidi experimentar um mod de um dos técnicos lá da X-8. Eu posso não ter tido grana pra fazer um doutorado que nem aqueles sabichões lá de cima, mas eu programo desde que usava fraldas. Achei um monte de redundâncias e falhas de loop exponencial que aqueles paspalhos devem ter deixado passar. Meus reparos devem acelerar a taxa de recarga daquela arma K9 que eles estão bolando. Talvez se eu deixar em uma das mesas deles, ela seja implementada de verdade. Deus sabe que eles não me levariam a sério se eu tentasse levar o crédito."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9A",
+      "FORMID": "012B9A",
+      "EDID": "NVDLC03X13SubjectObservations2bNote",
+      "FULL": "RE: RE: RE: Observações do Sujeito de Teste",
+      "TNAM": "Por que diabos você continua me mandando essas mensagens? Você trabalha do outro lado da maldita rampa. Venha até aqui e diga o que precisa dizer. Pare de desperdiçar meu tempo com essas mensagens incessantes!\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9B",
+      "FORMID": "012B9B",
+      "EDID": "NVDLC03X13SubjectObservations2Note",
+      "FULL": "Observações do Sujeito de Teste",
+      "TNAM": "Eu fiz o teste de laboratório e notei que não houve mudanças perceptíveis nos exames de sangue deles. Estou preocupado que o uso de ferrões elétricos possa reagir com a química das injeções. Estamos pisando em terreno novo. Eu odiaria ver seu trabalho duro perdido por uma mudança na química cerebral. Essas criaturas podem ser inestimáveis para o esforço de guerra se pudermos de alguma forma controlar seu comportamento.\n\n-Assistente Paris"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9C",
+      "FORMID": "012B9C",
+      "EDID": "NVDLC03X13SubjectObservations1Note",
+      "FULL": "Observações do Sujeito de Teste",
+      "TNAM": "Percebi que algumas das criaturas têm ficado cada vez mais agressivas quando entro no laboratório pela manhã. Algo mudou na dieta delas? Posso fazer uns testes, se quiser.\n\n-Assist. Paris"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9D",
+      "FORMID": "012B9D",
+      "EDID": "NVDLC03X13SuggestionNote",
+      "FULL": "Sugestão.",
+      "TNAM": "Notei que seu trabalho tem piorado ultimamente. Isso parece ter coincidido com um ganho de peso notável nos últimos meses. Desenvolvi um implante que comprovadamente aumenta o desempenho, enquanto reduz o peso em animais de laboratório. É verdade que ainda não o testamos em humanos, mas tenho certeza de que é perfeitamente seguro. Além disso, por favor, pare de lanchar no laboratório. Se você sujar outra câmera de novo, vou banir toda a comida das instalações.\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9E",
+      "FORMID": "012B9E",
+      "EDID": "NVDLC03X13SecurityLockDownNote",
+      "FULL": "Aviso de Envio X-13",
+      "TNAM": "Seu carregamento de ferrões de gado chegou hoje. Gostaria de lembrar que nossos sistemas são projetados para impedir a infiltração por agentes inimigos, não ameaças internas. Se estiver fazendo testes em criaturas, encaminhe essa tarefa para a instalação de testes com animais. Como descobriu com o Emissor Sônico, nossos campos de força não lidam bem com flutuações de energia.\n\n-Cpt. Hamm\nSegurança da Base"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012B9F",
+      "FORMID": "012B9F",
+      "EDID": "NVDLC03X13SecurityLockDownReplyNote",
+      "FULL": "RE: Aviso de Remessa X-13",
+      "TNAM": "Tudo está sob controle aqui embaixo. Se eu precisar da sua ajuda, avisarei. Paris chegará em breve para pegar a remessa.\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA0",
+      "FORMID": "012BA0",
+      "EDID": "NVDLC03X13ReslaRoilNote",
+      "FULL": "Dá uma olhada nessa modificação em que tenho trabalhado!",
+      "TNAM": "E aí, camarada! Tenho ajudado o pessoal em X-8 a testar esse brinquedo novo que eles andaram construindo. Se liga, é uma arma que usa o cérebro de um cachorro pra rastrear alvos! Me pediram pra dar uma olhada no código do gatilho da arma, e eu bolei essa modificação. Da próxima vez que você for lá, que tal dar uma chance? Calis tá me atolando pra deixar X-13 pronta pra visita dos cabeças, e ele quer as torretas no lugar pra gente não falhar nos novos requisitos de segurança.\n\nValeu!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA1",
+      "FORMID": "012BA1",
+      "EDID": "NVDLC03X13GetOffYourButtNote",
+      "FULL": "Tira a bunda da cadeira, Butz!",
+      "TNAM": "Essa é a última vez que vou te avisar, Butz. Estou vendo essa revistinha saindo do seu manual de campo. Não me engana, seu imbecil. Da próxima vez que eu te pegar folgando, vou escrever uma advertência disciplinar e você vai passar o seu tempo livre engraxando os emissores.\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA2",
+      "FORMID": "012BA2",
+      "EDID": "NVDLC03X13WTHNote",
+      "FULL": "Que merda é essa...?!",
+      "TNAM": "Que merda é essa com esse cara?! Eu só tava lendo a última edição de A Fantasma!, e aquele rabugento do Calis me chamou de imbecil. Que merda é um imbecil, afinal? Engraçado, ha ha, meu sobrenome é Butz. Essa já deu na escola, seu cuzão esnobe. Desculpa, só precisava desabafar.\n\n-Butz"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA3",
+      "FORMID": "012BA3",
+      "EDID": "NVDLC03X13SuitTorsoNote",
+      "FULL": "Pesquisa de Torso Mk II",
+      "TNAM": "Eu carreguei a atualização de firmware mais recente da Kael para a roupa. Acho que a Kael se superou dessa vez. Firmware com autoatualização é uma adição genial a este sistema. Conforme atualizamos a roupa, ela adaptará automaticamente os novos sistemas às especificações do usuário durante os testes e liberará os recursos conforme entram em operação. Isso economizará centenas de horas mexendo nas configurações.\n\nAnotação para mim mesmo: fazer um barril da minha infame \"Battle Brew\" para a Kael."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA4",
+      "FORMID": "012BA4",
+      "EDID": "NVDLC03X13SuitArmsNote",
+      "FULL": "Pesquisa da Luva Mk II",
+      "TNAM": "Tenho trabalhado com Mori para ajustar as luvas ao torso e cheguei a algumas melhorias que devem aumentar bastante a destreza manual do usuário. Adaptei o novo composto de amortecimento emborrachado de Redding e o apliquei nas palmas das mãos e em outras superfícies de alto desgaste. Assim que o traje se ajustar ao usuário, os benefícios dessas melhorias devem ser óbvios."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA5",
+      "FORMID": "012BA5",
+      "EDID": "NVDLC03X13SuitBootsNote",
+      "FULL": "Pesquisa de Bota Mk II",
+      "TNAM": "A descoberta do pesquisador Kael com o software do Traje me levou a uma descoberta própria. Ao adicionar um buffer servo avançado aos equipamentos de perna existentes, consegui aumentar a resolução dos dados enviados para e recebidos do módulo de controle central. Assim que essas belezinhas forem conectadas ao torso, um agente deverá ser capaz de passar por baixo de barreiras quase tão rápido quanto consegue correr!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C78",
+      "FORMID": "012C78",
+      "EDID": "NVDLC03X13TestObservationsNote",
+      "FULL": "Pesquisa Independente",
+      "TNAM": "Tenho observado Mendoza tropeçar nos vários testes do X-13 e notei uma falha crítica no projeto do emissor de fio-disparador. Um cientista habilidoso ou alguém com conhecimento avançado em reparo de eletrônicos poderia arrombar as caixas e hackear seu circuito IFF para ignorar o atual sujeito de teste. Vou ver se consigo reforçar as caixas depois que os chefões visitarem a instalação esta semana."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D7E",
+      "FORMID": "013D7E",
+      "EDID": "NVDLC03HQUpgradeAutoDocCosmeticNOTE",
+      "FULL": "Melhoria do Auto-Doc: Aprimoramentos Cosméticos",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico do Sink: \"Auto-Doc\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013EB8",
+      "FORMID": "013EB8",
+      "EDID": "NVDLC03X13TestAreaANote",
+      "FULL": "Área de Teste A - Revisão",
+      "TNAM": "Chayanov me fez correr pela primeira parte da instalação para testar os fios-disparadores e as minas de proximidade outro dia, e a roupa ficava me assando. Mori diz que umas atualizações novas de firmware corrigiram a capacidade de sincronização de ajuste da roupa, mas não boto muita fé. As pernas ficaram me travando e o torso estava ridículo de apertado. Talvez eu devesse parar de pegar uns Bolinhos Chiques dos esconderijos do Slough."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01418D",
+      "FORMID": "01418D",
+      "EDID": "NVDLC03HazmatNote",
+      "FULL": "Código de Segurança da Cápsula Hazmat",
+      "TNAM": "Código de Desbloqueio: 646F6E7470616E6963"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141FE",
+      "FORMID": "0141FE",
+      "EDID": "NVDLC03X42PowerNote01",
+      "TNAM": "O novo laser atômico está sobrecarregando o gerador do Robo-Escorpião Gigante. Aquela porra desligou bem no meio dos testes de armas semana passada.\n\nEu insisti em reduzir a potência do laser em 25%, mas, em vez disso, colocaram um gerador reserva no Escorpião. Perigoso, na minha opinião. Os sistemas não foram projetados para lidar com a energia de dois sistemas ao mesmo tempo, e se algum técnico novato ligar o gerador reserva cedo demais, bem..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141FF",
+      "FORMID": "0141FF",
+      "EDID": "NVDLC03X42EmergencyNote01",
+      "TNAM": "Seguindo as instruções dos superiores depois daquela *única* vez que a rotina de ataque do Robo-Escorpião Gigante deu pane, instalamos um procedimento de desligamento de emergência. Esperemos que nunca tenhamos que usá-lo, os sistemas do protótipo vão todos pro caralho, e não voltaremos a funcionar por semanas. Os militares estão esperando a entrega de um modelo pronto para a batalha em seis meses, e o projeto já teve atrasos demais."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142CA",
+      "FORMID": "0142CA",
+      "EDID": "NVDLC03SchematicsFIDONote",
+      "FULL": "Esquemas - K9000 FIDO",
+      "TNAM": "Esquemas para aprimorar a K9000 Cyberdog Brain Gun com um cérebro de cão cibernético particularmente agressivo e leal em uma suspensão de biogel vermelha e vibrante."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014747",
+      "FORMID": "014747",
+      "EDID": "NVDLC03ChristineMedicalCenterHolotapeNote",
+      "FULL": "Registro do Paciente: Y-17.0"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014748",
+      "FORMID": "014748",
+      "EDID": "NVDLC03ChristineUlysses01HolotapeNote",
+      "FULL": "Registro do Paciente: Y-17.5"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014749",
+      "FORMID": "014749",
+      "EDID": "NVDLC03ChristineUlysses02HolotapeNote",
+      "FULL": "Registro do Paciente: Y-17.9"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AB3",
+      "FORMID": "014AB3",
+      "EDID": "NVDLC03X8Test2SonicEmitterNote",
+      "FULL": "Nota do Emissor Sônico do Teste 2 X-8",
+      "TNAM": "Um Emissor Sônico é necessário para completar este teste. Se você não recebeu um Emissor Sônico ou perdeu o que lhe foi fornecido, entre em contato com seu anfitrião da Big MT para receber um antes de entrar na área de testes.\nAdendo: Devido a cortes na equipe, um novo Emissor Sônico agora pode ser recebido na Unidade Central de Inteligência do The Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B80",
+      "FORMID": "014B80",
+      "EDID": "NVDLC03X8CyberdogGunNote",
+      "FULL": "Pedido de Assistência",
+      "TNAM": "Tivemos um pequeno problema com uma de nossas Cintas de Trauma Y-17. Infelizmente, um membro da equipe de pesquisa X-12 engasgou com uma semente de cabaça e morreu enquanto trabalhava até tarde ontem à noite. Por alguma razão, sua Cinta de Trauma Y-17 não desliga. Na verdade, ela começou a apresentar mau funcionamento e está fazendo com que o falecido Sr. Harris ataque outros funcionários. Você tem algum protótipo que possa nos emprestar para detê-la?\n\n-Barb"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B86",
+      "FORMID": "014B86",
+      "EDID": "NVDLC03X13SonicEmitterFieldNote",
+      "FULL": "Dados do Emissor Sônico",
+      "TNAM": "Anexado a esta mensagem estão os dados que coletei sobre o efeito do Módulo de Onda de Pulso EM nos nossos emissores de campo de força. Estou enviando a arma protótipo para você testar. Por favor, encaminhe isso para Ohlen assim que puder determinar como podemos proteger nossos emissores do efeito PEM desta arma.\n\n-Dra. Calis"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014F86",
+      "FORMID": "014F86",
+      "EDID": "NVDLC03X13VRTestKudosNote",
+      "FULL": "VR Teste Parabéns",
+      "TNAM": "Parabéns pela adição da vagem de feijão para a Simulação de RV. Curti a referência a João e o Pé de Feijão, camarada! Espero que o Calis não surte. Fique esperto com aquele cara. Ele sempre foi meio esquentadinho por causa de coisas bobas. Tive que mudar meu equipamento de Cerveja de Batalha para o depósito do X-12 depois que ele teve um ataque proibicionista por causa disso com os Líderes.\n\n-Mori"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014F87",
+      "FORMID": "014F87",
+      "EDID": "NVDLC03X13VRTestFWRENote",
+      "FULL": "FW: RE: Teste de RV",
+      "TNAM": "A Simulação VR está corrompida?! Caralho! Parece que tem um bug no software em algum lugar. Espero que, por Deus, isso não foda com os sistemas do traje. Acabei de atualizar o firmware para Mori no fim de semana. Por enquanto, vamos só dizer para Calis que estamos com \"problemas de energia\" e focar nos testes da REPCONN até deixarmos o traje pronto para testes no mundo real.\n\n-Kael\np.s. Apague esta mensagem o mais rápido possível. Não quero Calis enchendo o meu saco por causa disso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C7",
+      "FORMID": "0155C7",
+      "EDID": "NVDLC03ElijahWatchJournal",
+      "FULL": "Diário de Vigia de Elijah",
+      "TNAM": "Este acampamento é melhor do que o que montei no topo do telhado de Signal Hills, linha de transmissão limpa para sua torre de rádio e um bom ponto de observação no Túnel Norte. Montei um perímetro de torretas e um transmissor, devo ser capaz de controlar os trens remotamente para escapar antes que robôs cheguem. Os Securitrons quebrados são uma boa linha de defesa, aparentemente os cérebros no Domo Central não conseguem controlá-los como fazem com os outros.\n\nNenhum sinal do Mensageiro... ou daquela mulher. No fim das contas, eu estava certo sobre o Acampamento Yangtze, estava sendo vigiado lá, provavelmente por um assassino da Irmandade do Aço pronto para me \"sentenciar\". Ela teve o que merecia, no entanto. Depois do ataque dos robôs, a vi sendo arrastada para o sudeste por robôs médicos... provavelmente se juntou às fileiras dos Lobotomizados aqui, não preciso mais me preocupar com ela."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C8",
+      "FORMID": "0155C8",
+      "EDID": "NVDLC03ElijahSignalHillsPage",
+      "FULL": "Página Rasgada do Diário",
+      "TNAM": "Montamos acampamento aqui depois do ataque em Yangtze. Exposto demais aqui. O transmissor está vulnerável, hackeei ele, configurei um link remoto para poder acessá-lo a qualquer momento. Preciso encontrar um lugar mais perto do túnel de trem ao norte com linha de visão clara para transmissão daqui. Os cânions são perigosos demais, não posso voltar para Yangtze. Tem aquela estação meteorológica a noroeste que atraiu aquele Mensageiro para cá, mas ir para lá parece encrenca. Por enquanto, vou explorar o local de Descarte de Lixo, depois ao redor do perímetro daquela Fábrica de Securitrons, ver se consigo encontrar uma posição mais defensável."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015614",
+      "FORMID": "015614",
+      "EDID": "NVDLC03HQUpgradeMainComputerK9ModReslaRoilNOTE",
+      "FULL": "Melhoria do Computador Principal: Mod K9000 \"Resla Roil\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico da Pia: \"Unidade Central de Inteligência\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015615",
+      "FORMID": "015615",
+      "EDID": "NVDLC03HQUpgradeMainComputerLAERModAuxClipNOTE",
+      "FULL": "Melhoria do Computador Principal: Mod LAER \"Chip de Recarga Auxiliar\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico da Pia: \"Unidade Central de Inteligência\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015616",
+      "FORMID": "015616",
+      "EDID": "NVDLC03HQUpgradeMainComputerLAERModPrismNOTE",
+      "FULL": "Melhoria do Computador Principal: Mod LAER \"Lente Prismática\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico da Pia: \"Unidade Central de Inteligência\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015617",
+      "FORMID": "015617",
+      "EDID": "NVDLC03HQUpgradeMainComputerK9ModMentatChowNOTE",
+      "FULL": "Melhoria do Computador Principal: Mod K9000 \"Chow Mentat\"",
+      "TNAM": "Esta holofita contém um arquivo de atualização para o assistente robótico da Pia: \"Unidade Central de Inteligência\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F3",
+      "FORMID": "0158F3",
+      "EDID": "NVDLC03TerminalChemicalNote",
+      "FULL": "Ordem de Requisição: Trajes Químicos",
+      "TNAM": "Recebi notícias hoje de que houve um vazamento químico em Sierra Madre. Sinclair estava no telefone pedindo mais ajuda aos executivos do Think Tank, então eles estão enviando a ele os protótipos de trajes químicos para proteger os trabalhadores da Villa. Parece que estão dando continuidade a um experimento com outro experimento? Todo o processo me dá arrepios, e a forma como eles estão monitorando Sierra Madre Villa e examinando os \"resultados\"... Acho que Sinclair nem sabe pelo que realmente está pagando. Ser como as cobaias chinesas de Little Yangtze... talvez fosse misericordioso se a guerra começasse, pondo fim a essa corrente de horrores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F4",
+      "FORMID": "0158F4",
+      "EDID": "NVDLC03TerminalY17Note",
+      "FULL": "Sierra Madre: Caso de Teste?",
+      "TNAM": "Ouvi um dos executivos mencionar que, Sinclair sabendo ou não, Sierra Madre seria um \"caso de teste\" para o Auto-Doc e a pesquisa de Toxinas Inovadoras. Talvez estivessem brincando, mas até esse tipo de piada me dá calafrios... Se eu fosse envenenado por uma daquelas toxinas, de jeito nenhum eu rastejaria para dentro de um dos Auto-Docs Y-17 aqui nem que minha vida dependesse disso. A tecnologia médica só daqueles trajes de trauma me faz querer que apaguem suas pesquisas - os trajes pensam mais do que as pessoas dentro deles."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F5",
+      "FORMID": "0158F5",
+      "EDID": "NVDLC03TerminalYO02Note",
+      "FULL": "Atualização de Financiamento do Dispensador",
+      "TNAM": "Consegui o financiamento do Sinclair. Pelo que pude perceber, ele está disposto não só a ir à falência por causa desses dispositivos, como também fez um acordo com os executivos da Big MT, deixando a Villa se tornar um laboratório para a tecnologia protótipo supostamente inofensiva daqui. Já vi os executivos da Big MT fazerem isso com outras cidades isoladas (a pesquisa meteorológica de Hopeville, no norte), e todo o processo... não foi para isso que eu me alistei."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F6",
+      "FORMID": "0158F6",
+      "EDID": "NVDLC03TerminalYO01Note",
+      "FULL": "Ordem de Requisição: Distribuidores",
+      "TNAM": "Finalizamos o projeto dos distribuidores para a vila Sierra Madre, conforme solicitado. Aquele figurão do Sinclair foi falar com os executivos da Big MT; ele queria distribuidores de emergência para sua Vila protegida, caso a guerra estourasse e eles precisassem cuidar dos sobreviventes lá. Ele fez tudo o que pôde para isolar a comunidade e reforçar a segurança, agora só precisa garantir o fornecimento de alimentos e ser capaz de racionar recursos em caso de holocausto nuclear. Ouvi dizer que ele até estreitou as ruas para que os carros não pudessem entrar na cidade, muito menos chegar à Vila."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F7",
+      "FORMID": "0158F7",
+      "EDID": "NVDLC03TerminalHolograml02Note",
+      "FULL": "Vera Keyes: Relatório de Progresso do Holograma",
+      "TNAM": "Estou passando horas tentando fazer o holograma da Vera Keyes ficar perfeito. Sou físico, não escultor. Ficar repetindo os traços faciais e o vestido dela para corresponder às expectativas de Sinclair... já está me dando vontade de fazer uma reclamação. Não acho que Sinclair esteja fazendo isso por amor ou, bem, luxúria.\n\nEm algum momento, ele ficou frio em relação a tudo, como se criar o holograma \"perfeito\" fosse algo que ele odiasse."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158F8",
+      "FORMID": "0158F8",
+      "EDID": "NVDLC03TerminalHolograml01Note",
+      "FULL": "Ordem de Requisição: Hologramas",
+      "TNAM": "Se não fosse pelo pedido do Sinclair, esse projeto de holograma teria sido cancelado há muito tempo. Além da tecnologia de dispensador que ele quer para o Sierra Madre, ele falou com os executivos da Big MT sobre usar os hologramas para defesa (?), algo que a N.E. teria que aprovar; nem consigo imaginar o custo para transformar os hologramas em algo além de câmeras ambulantes e recepcionistas. E por que faríamos isso? Faz pouco tempo, e eu já odeio passar meu tempo com esses fantasmas andando pela fábrica. Preferia ver o dinheiro da pesquisa gasto em realmente melhorar os sensores de campo de visão ou adicionar melhorias aos emissores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015CC8",
+      "FORMID": "015CC8",
+      "EDID": "NVDLC03X8CyberdogGunNote02",
+      "FULL": "Assistência concedida",
+      "TNAM": "Estou enviando a Arma Cão Cibernético K9000. Deve dar conta do recado. Me avise se tiver alguma dúvida operacional.\n\n-Adam"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015CC9",
+      "FORMID": "015CC9",
+      "EDID": "NVDLC03X8CyberdogGunNote03",
+      "FULL": "K9000 Cybercão Selada em X-12",
+      "TNAM": "Tivemos outro incidente infeliz. Ao tentar destruir o Cinto de Trauma do Sr. Harris, o membro da equipe de controle de desastres que carregava a arma escorregou e caiu, derrubando a arma. Desarmada, a equipe teve que fugir e selar o laboratório. Infelizmente, seu Protótipo de Arma Ciber-cão K9000 foi selado dentro da X-12.\n\n-Barb"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01604D",
+      "FORMID": "01604D",
+      "EDID": "NVDLC03TraumaHarnessNote",
+      "FULL": "Resultados dos Testes do Arnês de Trauma Y-17",
+      "TNAM": "A Y-17 Trauma Harness superou nossas expectativas mais otimistas! Os protótipos conseguiram assumir as funções motoras de um sujeito ferido e \"caminhar\" com ele de volta para a base.\n\nTeremos que ver o que acontece quando registrar movimentos neuro-auto-musculares suficientes para exibir uma gama maior de comportamentos... pensar que, se pudessem ser programados para replicar os reflexos de tiro ou luta de um usuário, teríamos algo realmente incrível para o esforço de guerra!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01604E",
+      "FORMID": "01604E",
+      "EDID": "NVDLC03YangtzeNote1",
+      "FULL": "Diário de Bordo de Little Yangtze #01",
+      "TNAM": "O governo mandou o primeiro lote de dissidentes hoje. Três trens inteiros de infiltrados comunistas. Metade deles nem fala inglês, então tivemos que mostrar para onde ir com os nossos cassetetes. Eles entenderam a mensagem eventualmente. Os médicos já estão falando sobre \"cobaias\". Acho que isso vai ajudar a impulsionar o esforço de guerra."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01604F",
+      "FORMID": "01604F",
+      "EDID": "NVDLC03YangtzeNote2",
+      "FULL": "Diário de Little Yangtze, #02",
+      "TNAM": "Um dos prisioneiros que fala um pouco de inglês (acho que ele virou o porta-voz não oficial) veio hoje ao escritório do comandante gritando sobre fantasmas famintos que estão raptando o povo dele à noite. O comandante mandou ele abandonar as superstições ignorantes de uma era passada e o jogou na solitária por três semanas. Eu já vi alguns dos robôs novos que eles estão desenvolvendo aqui e fico me perguntando de onde eles tiram os cérebros."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016050",
+      "FORMID": "016050",
+      "EDID": "NVDLC03YangtzeNote3",
+      "FULL": "Diário de Little Yangtze #03",
+      "TNAM": "Outra tentativa de fuga ontem à noite. Reunimos todos e processamos os fugitivos, mas esses filhas da puta são determinados. Estamos com turnos triplos no acampamento o tempo todo, e as horas extras estão acabando com o moral. O Comandante diz que fez uma requisição para usar o acampamento como teste de campo para as novas \"coleiras de pacificação total\" que os cientistas têm desenvolvido. Talvez assim eu consiga dormir um pouco, porra."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01634B",
+      "FORMID": "01634B",
+      "EDID": "NVDLC03HQBuddyCentralIntelligenceNOTE",
+      "FULL": "Projeto Sink: Unidade Central de Inteligência",
+      "TNAM": "Esta holofita contém o perfil de funcionalidade para o assistente robótico do Sink: \"Unidade Central de Inteligência\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01634C",
+      "FORMID": "01634C",
+      "EDID": "NVDLC03X13VRNote",
+      "FULL": "Nota da Simulação VR",
+      "TNAM": "Com meu último suspiro, escrevo que odeio tanto a Simulação de RV! Ela nos matou. Agora, eu vou matá-la."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011965",
+      "FORMID": "011965",
+      "EDID": "NVDLC03TraumaHarnessNote2",
+      "FULL": "Itens de Ação do Arnês de Trauma Y-17",
+      "TNAM": "Alguns problemas ainda precisam ser resolvidos antes que o Imobilizador Traumático Y-17 esteja pronto para produção geral: calibrar a quantidade correta de ferimento para ativar o traje continua problemático. Ainda assim, os sujeitos de Little Yangtze dificilmente poderiam protestar uma vez dentro do imobilizador. Se uma base não for designada, o traje entra em um estado de perambulação imprevisível. E, como descobrimos ao calibrar os níveis de ferimento, os sensores do traje são incapazes de reconhecer quando o usuário está morto. Felizmente, a recuperação autônoma de cadáveres é quase tão útil quanto a recuperação autônoma de vítimas!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014E4F",
+      "FORMID": "014E4F",
+      "EDID": "NVDLC03ElijahYangtzeNote1",
+      "FULL": "Entrada do Diário - Dia 2",
+      "TNAM": "2º dia no campo de concentração pré-Guerra. Mantinham cidadãos chineses aqui antes da guerra. A radiação os transformou, tive que mantê-los no campo com coleiras (explica por que algumas dessas \"coleiras de escravos\" existem, sempre me perguntei, algumas eram claramente tecnologia pré-Guerra). Pesquisando as frequências das coleiras, delicado – a arquitetura do circuito é confusa, desmontá-las leva tempo. Preciso ter cuidado, não posso ser detectado pelos robôs locais, ou cérebros insanos da Cúpula tentarão me levar de volta para lá, então... vão me pesquisar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014E50",
+      "FORMID": "014E50",
+      "EDID": "NVDLC03ElijahYangtzeNote2",
+      "FULL": "Entrada do Diário - Dia 3",
+      "TNAM": "Nenhum sinal daquele Mensageiro de antes. Se ele ficar longe de mim, eu fico longe dele. Tenho pensado naquela \"Sierra Madre\" que ele mencionou... se ele estiver certo, só preciso encontrar a frequência de rádio do cassino para rastreá-la. Não precisaria da ajuda dele. Se os hologramas funcionais e o gás tóxico estiverem preservados lá, pode ser mais fácil estudá-los lá sem robôs para interferir. E aqueles distribuidores... talvez eu possa usá-los também."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014E51",
+      "FORMID": "014E51",
+      "EDID": "NVDLC03ElijahYangtzeNote3",
+      "FULL": "Entrada do Diário - Dia 4",
+      "TNAM": "Dia 4, ainda continuo a pesquisa... descobri um jeito de desativar a coleira depois de algumas falhas, só alguns necróticos sem cabeça. Tem sido difícil pescar no acampamento sem um deles tentando correr para o portão e suas cabeças explodindo. Coleiras malditas, irritadiças.\n\n...preciso racionar os Mentats, estão me dando enxaquecas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014E52",
+      "FORMID": "014E52",
+      "EDID": "NVDLC03ElijahYangtzeNote4",
+      "FULL": "Entrada do Diário - Dia 4 - Adendo",
+      "TNAM": "Enquanto configurava os rádios para monitorar o Domo e os robôs, achei que vi um brilho (luneta?) vindo do prédio do outro lado do complexo.\n\nDevo dar uma olhada, garantir que não estou sendo vigiado... pode ser aquele Mensageiro?\n\nMesmo assim, ele teria vindo direto em vez de se esconder. Meu instinto diz que é outra pessoa."
+    }
+  ]
+}

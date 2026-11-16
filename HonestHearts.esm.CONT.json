@@ -1,0 +1,1444 @@
+{
+  "CONT": [
+    {
+      "FORM": "@HonestHearts.esm:0093C6",
+      "FORMID": "0093C6",
+      "EDID": "NVDLC02DebugBox",
+      "FULL": "Caixa de Depuração"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B8D",
+      "FORMID": "009B8D",
+      "EDID": "NVDLC02DeskOfficeCornerMetalLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B8E",
+      "FORMID": "009B8E",
+      "EDID": "NVDLC02DeskOfficeMetalLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009B8F",
+      "FORMID": "009B8F",
+      "EDID": "NVDLC02FilingCabinetBunch01LOW",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009EBE",
+      "FORMID": "009EBE",
+      "EDID": "NVDLC02ShippingCrate",
+      "FULL": "Caixa de Remessa da Caravana Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A927",
+      "FORMID": "00A927",
+      "EDID": "NVDLC02ExplosivesCrateMED",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A928",
+      "FORMID": "00A928",
+      "EDID": "NVDLC02ExplosivesCrateLOW",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A929",
+      "FORMID": "00A929",
+      "EDID": "NDLC02MetalBoxMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92A",
+      "FORMID": "00A92A",
+      "EDID": "NDLC02MetalBoxLOW",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92B",
+      "FORMID": "00A92B",
+      "EDID": "NVDLC02ReinforcedBoxMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92C",
+      "FORMID": "00A92C",
+      "EDID": "NVDLC02ReinforcedBoxLOW",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92D",
+      "FORMID": "00A92D",
+      "EDID": "NVDLC02SackMED",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92E",
+      "FORMID": "00A92E",
+      "EDID": "NVDLC02SackLOW",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A92F",
+      "FORMID": "00A92F",
+      "EDID": "NVDLC02CrateLOW",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A930",
+      "FORMID": "00A930",
+      "EDID": "NVDLC02CrateMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A931",
+      "FORMID": "00A931",
+      "EDID": "NVDLC02WoodenCrateContainerMED",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00A932",
+      "FORMID": "00A932",
+      "EDID": "NVDLC02WoodenCrateContainerLOW",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AAF6",
+      "FORMID": "00AAF6",
+      "EDID": "NVDLC02LodgeFootlocker",
+      "FULL": "Armário de Suprimentos de Emergência"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AAF9",
+      "FORMID": "00AAF9",
+      "EDID": "NVDLC02StoreDesk",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB63",
+      "FORMID": "00AB63",
+      "EDID": "NVDLC02CrateHIGH",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB64",
+      "FORMID": "00AB64",
+      "EDID": "NVDLC02DeskOfficeCornerMetalMED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB65",
+      "FORMID": "00AB65",
+      "EDID": "NVDLC02DeskOfficeCornerMetalHIGH",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB66",
+      "FORMID": "00AB66",
+      "EDID": "NVDLC02DeskOfficeCornerMetalLOCKED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB67",
+      "FORMID": "00AB67",
+      "EDID": "NVDLC02DeskOfficeMetalMED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB68",
+      "FORMID": "00AB68",
+      "EDID": "NVDLC02DeskOfficeMetalHIGH",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB69",
+      "FORMID": "00AB69",
+      "EDID": "NVDLC02DeskOfficeMetalLOCKED",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6A",
+      "FORMID": "00AB6A",
+      "EDID": "NVDLC02ExplosivesCrateHIGH",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6B",
+      "FORMID": "00AB6B",
+      "EDID": "NVDLC02ExplosivesCrateLOCKED",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6C",
+      "FORMID": "00AB6C",
+      "EDID": "NVDLC02FilingCabinetBunch01MED",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6D",
+      "FORMID": "00AB6D",
+      "EDID": "NVDLC02FilingCabinetBunch01HIGH",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6E",
+      "FORMID": "00AB6E",
+      "EDID": "NVDLC02FilingCabinetBunch01LOCKED",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB6F",
+      "FORMID": "00AB6F",
+      "EDID": "NVDLC02ReinforcedBoxHIGH",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB70",
+      "FORMID": "00AB70",
+      "EDID": "NVDLC02ReinforcedBoxLOCKED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB71",
+      "FORMID": "00AB71",
+      "EDID": "NVDLC02SackHIGH",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB72",
+      "FORMID": "00AB72",
+      "EDID": "NVDLC02WoodenCrateContainerHIGH",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB73",
+      "FORMID": "00AB73",
+      "EDID": "NVDLC02HollowRockContainerLOW",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB74",
+      "FORMID": "00AB74",
+      "EDID": "NVDLC02HollowRockContainerMED",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB75",
+      "FORMID": "00AB75",
+      "EDID": "NVDLC02HollowRockContainerHIGH",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB76",
+      "FORMID": "00AB76",
+      "EDID": "NVDLC02AntRefusePile04aLOW",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB77",
+      "FORMID": "00AB77",
+      "EDID": "NVDLC02AntRefusePile04aMED",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB78",
+      "FORMID": "00AB78",
+      "EDID": "NVDLC02AntRefusePile04aHIGH",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB79",
+      "FORMID": "00AB79",
+      "EDID": "NVDLC02FootlockerLOW",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7A",
+      "FORMID": "00AB7A",
+      "EDID": "NVDLC02FootlockerMED",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7B",
+      "FORMID": "00AB7B",
+      "EDID": "NVDLC02FootlockerHIGH",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7C",
+      "FORMID": "00AB7C",
+      "EDID": "NVDLC02MetalBox01LOW",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7D",
+      "FORMID": "00AB7D",
+      "EDID": "NVDLC02MetalBox01MED",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7E",
+      "FORMID": "00AB7E",
+      "EDID": "NVDLC02MetalBox01HIGH",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB7F",
+      "FORMID": "00AB7F",
+      "EDID": "NVDLC02LootFirstAidKitLOW",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB80",
+      "FORMID": "00AB80",
+      "EDID": "NVDLC02LootFirstAidKitMED",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB81",
+      "FORMID": "00AB81",
+      "EDID": "NVDLC02LootFirstAidKitHIGH",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB82",
+      "FORMID": "00AB82",
+      "EDID": "NVDLC02Grave01ContLOW",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB83",
+      "FORMID": "00AB83",
+      "EDID": "NVDLC02Grave01ContMED",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB84",
+      "FORMID": "00AB84",
+      "EDID": "NVDLC02Grave01ContHIGH",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB85",
+      "FORMID": "00AB85",
+      "EDID": "NVDLC02LootAmmoBoxLOW",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB86",
+      "FORMID": "00AB86",
+      "EDID": "NVDLC02LootAmmoBoxMED",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB87",
+      "FORMID": "00AB87",
+      "EDID": "NVDLC02LootAmmoBoxHIGH",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB88",
+      "FORMID": "00AB88",
+      "EDID": "NVDLC02ToolboxLOW",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB89",
+      "FORMID": "00AB89",
+      "EDID": "NVDLC02ToolboxMED",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8A",
+      "FORMID": "00AB8A",
+      "EDID": "NVDLC02ToolboxHIGH",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8B",
+      "FORMID": "00AB8B",
+      "EDID": "NVDLC02DuffleBagLOW",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8C",
+      "FORMID": "00AB8C",
+      "EDID": "NVDLC02DuffleBagMED",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8D",
+      "FORMID": "00AB8D",
+      "EDID": "NVDLC02DuffleBagHIGH",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8E",
+      "FORMID": "00AB8E",
+      "EDID": "NVDLC02LootFilingCabinetLOW",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB8F",
+      "FORMID": "00AB8F",
+      "EDID": "NVDLC02LootFilingCabinetMED",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB90",
+      "FORMID": "00AB90",
+      "EDID": "NVDLC02LootFilingCabinetHIGH",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB91",
+      "FORMID": "00AB91",
+      "EDID": "NVDLC02HollowLogLOW",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB92",
+      "FORMID": "00AB92",
+      "EDID": "NVDLC02HollowLogMED",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB93",
+      "FORMID": "00AB93",
+      "EDID": "NVDLC02HollowLogHIGH",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB94",
+      "FORMID": "00AB94",
+      "EDID": "NVDLC02AntRefusePile02aLOW",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB95",
+      "FORMID": "00AB95",
+      "EDID": "NVDLC02AntRefusePile02aMED",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB96",
+      "FORMID": "00AB96",
+      "EDID": "NVDLC02AntRefusePile02aHIGH",
+      "FULL": "Pilhas de Lixo de Formigas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB97",
+      "FORMID": "00AB97",
+      "EDID": "NVDLC02SuitcaseLOW",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB98",
+      "FORMID": "00AB98",
+      "EDID": "NVDLC02SuitcaseMED",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AB99",
+      "FORMID": "00AB99",
+      "EDID": "NVDLC02SuitcaseHIGH",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9A",
+      "FORMID": "00AD9A",
+      "EDID": "NVDLC02SuitcaseLOCKED",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9B",
+      "FORMID": "00AD9B",
+      "EDID": "NVDLC02ToolboxLOCKED",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9C",
+      "FORMID": "00AD9C",
+      "EDID": "NVDLC02MetalBox01LOCKED",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9D",
+      "FORMID": "00AD9D",
+      "EDID": "NVDLC02LootFirstAidKitLOCKED",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9E",
+      "FORMID": "00AD9E",
+      "EDID": "NVDLC02LootAmmoBoxLOCKED",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00AD9F",
+      "FORMID": "00AD9F",
+      "EDID": "NVDLC02FootlockerLOCKED",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B1CC",
+      "FORMID": "00B1CC",
+      "EDID": "NVDLC02ExplosivesCrateHIGHLocked",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B4AC",
+      "FORMID": "00B4AC",
+      "EDID": "NVDLC02DuffleBagFORCHALLENGE",
+      "FULL": "Depósito de Suprimentos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C980",
+      "FORMID": "00C980",
+      "EDID": "NVDLC02LodgeCabinet",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCB3",
+      "FORMID": "00CCB3",
+      "EDID": "NVDLC02DuffleBagMEDSCaveWKey",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D066",
+      "FORMID": "00D066",
+      "EDID": "NVDLC02SuitcaseScout",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DB1B",
+      "FORMID": "00DB1B",
+      "EDID": "NVDLC02ClayPot02Empty",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DB1C",
+      "FORMID": "00DB1C",
+      "EDID": "NVDLC02ClayPot01Empty",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00DDA7",
+      "FORMID": "00DDA7",
+      "EDID": "NVDLC02JoshuaVendor",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E926",
+      "FORMID": "00E926",
+      "EDID": "NVDLC02FootlockerReloadingCRAFTING",
+      "FULL": "Baú de Munição da Bancada de Recarga"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E927",
+      "FORMID": "00E927",
+      "EDID": "NVDLC02SackCampfireCRAFTING",
+      "FULL": "Saco de Acampamento"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E928",
+      "FORMID": "00E928",
+      "EDID": "NVDLC02ReinforcedBoxWorkbenchCRAFTING",
+      "FULL": "Caixote da Bancada de Trabalho"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E929",
+      "FORMID": "00E929",
+      "EDID": "NVDLC02ClayPot02FRUITGRAIN",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E92A",
+      "FORMID": "00E92A",
+      "EDID": "NVDLC02ClayPot01FRUITGRAIN",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E92B",
+      "FORMID": "00E92B",
+      "EDID": "NVDLC02ClayPot02INGREDIENTS",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E92C",
+      "FORMID": "00E92C",
+      "EDID": "NVDLC02ClayPot02HEALING",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E92D",
+      "FORMID": "00E92D",
+      "EDID": "NVDLC02ClayPot01HEALING",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00E92E",
+      "FORMID": "00E92E",
+      "EDID": "NVDLC02ClayPot01INGREDIENTS",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F368",
+      "FORMID": "00F368",
+      "EDID": "NVDLC02DuffleBagSurvivalistDude",
+      "FULL": "A Sacola de Lona do Sobrevivente"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4A0",
+      "FORMID": "00F4A0",
+      "EDID": "NVDLC02CrateOldWorldMED",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4AD",
+      "FORMID": "00F4AD",
+      "EDID": "NVDLC02LootGunsHouseCabinetT2",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4BD",
+      "FORMID": "00F4BD",
+      "EDID": "NVDLC02LootClothesHouseCabinet01Old",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F4E6",
+      "FORMID": "00F4E6",
+      "EDID": "NVDLC02LootGunsFootlocker01Ranger",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F57D",
+      "FORMID": "00F57D",
+      "EDID": "NVDLC02LootExplosivesCrateXXXTier4Hi",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F57E",
+      "FORMID": "00F57E",
+      "EDID": "NVDLC02LootGunsSack01DeadHorse",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F57F",
+      "FORMID": "00F57F",
+      "EDID": "NVDLC02DuffleBagHIGHVault22",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F673",
+      "FORMID": "00F673",
+      "EDID": "NVDLC02CrateEmpty",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F674",
+      "FORMID": "00F674",
+      "EDID": "NVDLC02CrateMedVault22",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F82B",
+      "FORMID": "00F82B",
+      "EDID": "NVDLC02ToolboxHIGHRangerProd",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F8AA",
+      "FORMID": "00F8AA",
+      "EDID": "NVDLC02CrateOldWorldLOW",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010295",
+      "FORMID": "010295",
+      "EDID": "NVDLC02CrateHIGHDeadHorseWeapon",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C2B",
+      "FORMID": "010C2B",
+      "EDID": "NVDLC02DuffleBagHIGHVault22Note",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010C72",
+      "FORMID": "010C72",
+      "EDID": "NVDLC02DanielVendor",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010D9C",
+      "FORMID": "010D9C",
+      "EDID": "NVDLC02SackEVHiddenSkel",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DE7",
+      "FORMID": "010DE7",
+      "EDID": "NVDLC02SackOldWorldHIGH",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DE9",
+      "FORMID": "010DE9",
+      "EDID": "NVDLC02PWSackHIGH",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DEC",
+      "FORMID": "010DEC",
+      "EDID": "NVDLC02PWSackMED",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DEE",
+      "FORMID": "010DEE",
+      "EDID": "NVDLC02PWSackLOW",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010DEF",
+      "FORMID": "010DEF",
+      "EDID": "NVDLC02SuitcaseOldWorldHIGH",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010E1A",
+      "FORMID": "010E1A",
+      "EDID": "NVDLC02SackWhiteLegs",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010E1B",
+      "FORMID": "010E1B",
+      "EDID": "NVDLC02SackSorrows",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010E1C",
+      "FORMID": "010E1C",
+      "EDID": "NVDLC02SackDeadHorses",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01118C",
+      "FORMID": "01118C",
+      "EDID": "NVDLC02ClayPot01zGen01",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01118D",
+      "FORMID": "01118D",
+      "EDID": "NVDLC02ClayPot01zGen02",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01118E",
+      "FORMID": "01118E",
+      "EDID": "NVDLC02ClayPot01zGen03",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01118F",
+      "FORMID": "01118F",
+      "EDID": "NVDLC02ClayPot02zGen01",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011190",
+      "FORMID": "011190",
+      "EDID": "NVDLC02ClayPot02zGen02",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011191",
+      "FORMID": "011191",
+      "EDID": "NVDLC02ClayPot02zGen03",
+      "FULL": "Pote de barro"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011192",
+      "FORMID": "011192",
+      "EDID": "NVDLC02CratezGen01",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011193",
+      "FORMID": "011193",
+      "EDID": "NVDLC02CratezGen02",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011194",
+      "FORMID": "011194",
+      "EDID": "NVDLC02CratezGen03",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011195",
+      "FORMID": "011195",
+      "EDID": "NVDLC02CratezGen04",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011196",
+      "FORMID": "011196",
+      "EDID": "NVDLC02CratezGen05",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011197",
+      "FORMID": "011197",
+      "EDID": "NVDLC02DeskOfficeCornerMetalzGen01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011198",
+      "FORMID": "011198",
+      "EDID": "NVDLC02DeskOfficeCornerMetalzGen02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011199",
+      "FORMID": "011199",
+      "EDID": "NVDLC02DeskOfficeCornerMetalzGen03",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119A",
+      "FORMID": "01119A",
+      "EDID": "NVDLC02DeskOfficeMetalzGen01",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119B",
+      "FORMID": "01119B",
+      "EDID": "NVDLC02DeskOfficeMetalzGen02",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119C",
+      "FORMID": "01119C",
+      "EDID": "NVDLC02DeskOfficeMetalzGen03",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119D",
+      "FORMID": "01119D",
+      "EDID": "NVDLC02DuffleBagzGen01",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119E",
+      "FORMID": "01119E",
+      "EDID": "NVDLC02DuffleBagzGen02",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01119F",
+      "FORMID": "01119F",
+      "EDID": "NVDLC02DuffleBagzGen03",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A0",
+      "FORMID": "0111A0",
+      "EDID": "NVDLC02DuffleBagzGen04",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A1",
+      "FORMID": "0111A1",
+      "EDID": "NVDLC02DuffleBagzGen05",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A2",
+      "FORMID": "0111A2",
+      "EDID": "NVDLC02ExplosivesCratezGen01",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A3",
+      "FORMID": "0111A3",
+      "EDID": "NVDLC02ExplosivesCratezGen02",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A4",
+      "FORMID": "0111A4",
+      "EDID": "NVDLC02ExplosivesCratezGen03",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A5",
+      "FORMID": "0111A5",
+      "EDID": "NVDLC02ExplosivesCratezGen04",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A6",
+      "FORMID": "0111A6",
+      "EDID": "NVDLC02ExplosivesCratezGen05",
+      "FULL": "Caixa de Explosivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A7",
+      "FORMID": "0111A7",
+      "EDID": "NVDLC02FilingCabinetBunch01zGen01",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A8",
+      "FORMID": "0111A8",
+      "EDID": "NVDLC02FilingCabinetBunch01zGen02",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111A9",
+      "FORMID": "0111A9",
+      "EDID": "NVDLC02FilingCabinetBunch01zGen03",
+      "FULL": "Arquivos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AA",
+      "FORMID": "0111AA",
+      "EDID": "NVDLC02FootlockerzGen01",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AB",
+      "FORMID": "0111AB",
+      "EDID": "NVDLC02FootlockerzGen02",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AC",
+      "FORMID": "0111AC",
+      "EDID": "NVDLC02FootlockerzGen03",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AD",
+      "FORMID": "0111AD",
+      "EDID": "NVDLC02FootlockerzGen04",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AE",
+      "FORMID": "0111AE",
+      "EDID": "NVDLC02FootlockerzGen05",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111AF",
+      "FORMID": "0111AF",
+      "EDID": "NVDLC02Grave01ContzGen01",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B0",
+      "FORMID": "0111B0",
+      "EDID": "NVDLC02Grave01ContzGen02",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B1",
+      "FORMID": "0111B1",
+      "EDID": "NVDLC02Grave01ContzGen03",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B2",
+      "FORMID": "0111B2",
+      "EDID": "NVDLC02Grave03ContzGen01",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B3",
+      "FORMID": "0111B3",
+      "EDID": "NVDLC02Grave02ContzGen01",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B4",
+      "FORMID": "0111B4",
+      "EDID": "NVDLC02Grave02ContzGen02",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B5",
+      "FORMID": "0111B5",
+      "EDID": "NVDLC02Grave02ContzGen03",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B6",
+      "FORMID": "0111B6",
+      "EDID": "NVDLC02Grave03ContzGen02",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B7",
+      "FORMID": "0111B7",
+      "EDID": "NVDLC02Grave03ContzGen03",
+      "FULL": "Túmulo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B8",
+      "FORMID": "0111B8",
+      "EDID": "NVDLC02HollowLogzGen01",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111B9",
+      "FORMID": "0111B9",
+      "EDID": "NVDLC02HollowLogzGen02",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BA",
+      "FORMID": "0111BA",
+      "EDID": "NVDLC02HollowLogzGen03",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BB",
+      "FORMID": "0111BB",
+      "EDID": "NVDLC02HollowLogzGen04",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BC",
+      "FORMID": "0111BC",
+      "EDID": "NVDLC02HollowLogzGen05",
+      "FULL": "Tronco Oco"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BD",
+      "FORMID": "0111BD",
+      "EDID": "NVDLC02HollowRockContzGen01",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BE",
+      "FORMID": "0111BE",
+      "EDID": "NVDLC02HollowRockContzGen02",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111BF",
+      "FORMID": "0111BF",
+      "EDID": "NVDLC02HollowRockContzGen03",
+      "FULL": "Rocha Oca"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C0",
+      "FORMID": "0111C0",
+      "EDID": "NVDLC02LootAmmoBoxzGen01",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C1",
+      "FORMID": "0111C1",
+      "EDID": "NVDLC02LootAmmoBoxzGen02",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C2",
+      "FORMID": "0111C2",
+      "EDID": "NVDLC02LootAmmoBoxzGen03",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C3",
+      "FORMID": "0111C3",
+      "EDID": "NVDLC02LootAmmoBoxzGen04",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C4",
+      "FORMID": "0111C4",
+      "EDID": "NVDLC02LootAmmoBoxzGen05",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C5",
+      "FORMID": "0111C5",
+      "EDID": "NVDLC02LootAmmoBox02zGen01",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C6",
+      "FORMID": "0111C6",
+      "EDID": "NVDLC02LootAmmoBox02zGen02",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C7",
+      "FORMID": "0111C7",
+      "EDID": "NVDLC02LootAmmoBox02zGen03",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C8",
+      "FORMID": "0111C8",
+      "EDID": "NVDLC02LootAmmoBox02zGen04",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111C9",
+      "FORMID": "0111C9",
+      "EDID": "NVDLC02LootAmmoBox02zGen05",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CA",
+      "FORMID": "0111CA",
+      "EDID": "NVDLC02LootAmmoBox02zGen06",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CB",
+      "FORMID": "0111CB",
+      "EDID": "NVDLC02LootAmmoBox02zGen07",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CC",
+      "FORMID": "0111CC",
+      "EDID": "NVDLC02LootClothesHouseCabinet01OldzGen01",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CD",
+      "FORMID": "0111CD",
+      "EDID": "NVDLC02LootClothesHouseCabinet01OldzGen02",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CE",
+      "FORMID": "0111CE",
+      "EDID": "NVDLC02LootClothesHouseCabinet01OldzGen03",
+      "FULL": "Cômoda"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111CF",
+      "FORMID": "0111CF",
+      "EDID": "NVDLC02LootFilingCabinetzGen01",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D0",
+      "FORMID": "0111D0",
+      "EDID": "NVDLC02LootFilingCabinetzGen02",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D1",
+      "FORMID": "0111D1",
+      "EDID": "NVDLC02LootFilingCabinetzGen03",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D2",
+      "FORMID": "0111D2",
+      "EDID": "NVDLC02LootFirstAidKitzGen01",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D3",
+      "FORMID": "0111D3",
+      "EDID": "NVDLC02LootFirstAidKitzGen02",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D4",
+      "FORMID": "0111D4",
+      "EDID": "NVDLC02LootFirstAidKitzGen03",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D5",
+      "FORMID": "0111D5",
+      "EDID": "NVDLC02LootFirstAidKitzGen04",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D6",
+      "FORMID": "0111D6",
+      "EDID": "NVDLC02LootFirstAidKitzGen05",
+      "FULL": "Caixa de Primeiros Socorros"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D7",
+      "FORMID": "0111D7",
+      "EDID": "NVDLC02LootGunsFootlocker01zGen01",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D8",
+      "FORMID": "0111D8",
+      "EDID": "NVDLC02LootGunsFootlocker01zGen02",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111D9",
+      "FORMID": "0111D9",
+      "EDID": "NVDLC02LootGunsFootlocker01zGen03",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DA",
+      "FORMID": "0111DA",
+      "EDID": "NVDLC02LootGunsFootlocker01zGen04",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DB",
+      "FORMID": "0111DB",
+      "EDID": "NVDLC02LootGunsFootlocker01zGen05",
+      "FULL": "Maleta de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DC",
+      "FORMID": "0111DC",
+      "EDID": "NVDLC02LootGunsHouseCabinetzGen01",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DD",
+      "FORMID": "0111DD",
+      "EDID": "NVDLC02LootGunsHouseCabinetzGen02",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DE",
+      "FORMID": "0111DE",
+      "EDID": "NVDLC02LootGunsHouseCabinetzGen03",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111DF",
+      "FORMID": "0111DF",
+      "EDID": "NVDLC02MetalBox01zGen01",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E0",
+      "FORMID": "0111E0",
+      "EDID": "NVDLC02MetalBox01zGen02",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E1",
+      "FORMID": "0111E1",
+      "EDID": "NVDLC02MetalBox01zGen03",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E2",
+      "FORMID": "0111E2",
+      "EDID": "NVDLC02MetalBox01zGen04",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E3",
+      "FORMID": "0111E3",
+      "EDID": "NVDLC02MetalBox01zGen05",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E4",
+      "FORMID": "0111E4",
+      "EDID": "NVDLC02SackzGen01",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E5",
+      "FORMID": "0111E5",
+      "EDID": "NVDLC02SackzGen02",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E6",
+      "FORMID": "0111E6",
+      "EDID": "NVDLC02SackzGen03",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E7",
+      "FORMID": "0111E7",
+      "EDID": "NVDLC02SackzGen04",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E8",
+      "FORMID": "0111E8",
+      "EDID": "NVDLC02SackzGen05",
+      "FULL": "Sacola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111E9",
+      "FORMID": "0111E9",
+      "EDID": "NVDLC02ReinforcedBoxzGen01",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111EA",
+      "FORMID": "0111EA",
+      "EDID": "NVDLC02ReinforcedBoxzGen02",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111EB",
+      "FORMID": "0111EB",
+      "EDID": "NVDLC02ReinforcedBoxzGen03",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111EC",
+      "FORMID": "0111EC",
+      "EDID": "NVDLC02SackCampfireCRAFTINGzGen01",
+      "FULL": "Saco de Acampamento"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111ED",
+      "FORMID": "0111ED",
+      "EDID": "NVDLC02SackCampfireCRAFTINGzGen02",
+      "FULL": "Saco de Acampamento"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111EE",
+      "FORMID": "0111EE",
+      "EDID": "NVDLC02SackCampfireCRAFTINGzGen03",
+      "FULL": "Saco de Acampamento"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111EF",
+      "FORMID": "0111EF",
+      "EDID": "NVDLC02ShippingCratezGen01",
+      "FULL": "Caixa de Remessa Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F0",
+      "FORMID": "0111F0",
+      "EDID": "NVDLC02ShippingCratezGen02",
+      "FULL": "Caixa de Remessa Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F1",
+      "FORMID": "0111F1",
+      "EDID": "NVDLC02ShippingCratezGen03",
+      "FULL": "Caixa de Remessa Trilhas Felizes"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F2",
+      "FORMID": "0111F2",
+      "EDID": "NVDLC02SuitcasezGen01",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F3",
+      "FORMID": "0111F3",
+      "EDID": "NVDLC02SuitcasezGen02",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F4",
+      "FORMID": "0111F4",
+      "EDID": "NVDLC02SuitcasezGen03",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F5",
+      "FORMID": "0111F5",
+      "EDID": "NVDLC02ToolboxzGen01",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F6",
+      "FORMID": "0111F6",
+      "EDID": "NVDLC02ToolboxzGen02",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F7",
+      "FORMID": "0111F7",
+      "EDID": "NVDLC02ToolboxzGen03",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F8",
+      "FORMID": "0111F8",
+      "EDID": "NVDLC02WoodenCrateContainerzGen01",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111F9",
+      "FORMID": "0111F9",
+      "EDID": "NVDLC02WoodenCrateContainerzGen02",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FA",
+      "FORMID": "0111FA",
+      "EDID": "NVDLC02WoodenCrateContainerzGen03",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FB",
+      "FORMID": "0111FB",
+      "EDID": "NVDLC02ToolboxzGen04",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FC",
+      "FORMID": "0111FC",
+      "EDID": "NVDLC02ToolboxzGen05",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FD",
+      "FORMID": "0111FD",
+      "EDID": "NVDLC02CrateTechGen01",
+      "FULL": "Cofre do Pé-de-Cama"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FE",
+      "FORMID": "0111FE",
+      "EDID": "NVDLC02CrateTechGen02",
+      "FULL": "Cofre do Pé-de-Cama"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0111FF",
+      "FORMID": "0111FF",
+      "EDID": "NVDLC02CrateTechGen03",
+      "FULL": "Cofre do Pé-de-Cama"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011200",
+      "FORMID": "011200",
+      "EDID": "NVDLC02DuffleBagzGen06",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011201",
+      "FORMID": "011201",
+      "EDID": "NVDLC02DuffleBagzGen07",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@FalloutNV.esm:166B58",
+      "FORMID": "166B58",
+      "EDID": "NVWoodenCrateContainer",
+      "FULL": "Caixote de Madeira"
+    }
+  ]
+}

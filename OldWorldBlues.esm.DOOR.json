@@ -1,0 +1,232 @@
+{
+  "DOOR": [
+    {
+      "FORM": "@OldWorldBlues.esm:0045CA",
+      "FORMID": "0045CA",
+      "EDID": "NVDLC03BrokenGrateDoor",
+      "FULL": "Grelha Quebrada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0094D0",
+      "FORMID": "0094D0",
+      "EDID": "NVDLC03MetroGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009CE8",
+      "FORMID": "009CE8",
+      "EDID": "NVDLC03X8CavetoMainDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A3A5",
+      "FORMID": "00A3A5",
+      "EDID": "NVDLC03X13UtlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB56",
+      "FORMID": "00BB56",
+      "EDID": "NVDLC03X13ExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BB57",
+      "FORMID": "00BB57",
+      "EDID": "NVDLC03X13EntranceDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00BE21",
+      "FORMID": "00BE21",
+      "EDID": "NVDLC03SinkBalconyDoor",
+      "FULL": "Porta da Sacada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00C652",
+      "FORMID": "00C652",
+      "EDID": "NVDLC03TTankSlidingDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00CC1F",
+      "FORMID": "00CC1F",
+      "EDID": "NVDLC03SatelliteDishLadder",
+      "FULL": "Escada da Antena Parabólica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D6D1",
+      "FORMID": "00D6D1",
+      "EDID": "NVDLC03ThinkTankDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F02D",
+      "FORMID": "00F02D",
+      "EDID": "NVDLC03ForbiddenZoneDomeDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F423",
+      "FORMID": "00F423",
+      "EDID": "NVDLC03X13RepconExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00FA50",
+      "FORMID": "00FA50",
+      "EDID": "NVDLC03X8KennelUtlDoor01",
+      "FULL": "Porta do Canil X-8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0105AE",
+      "FORMID": "0105AE",
+      "EDID": "NVDLC03X8MainUtlDoorBg01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0142A2",
+      "FORMID": "0142A2",
+      "EDID": "NVDLC03X13TestEntranceDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@FalloutNV.esm:061909",
+      "FORMID": "061909",
+      "EDID": "HotelElevatorDoor02",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014949",
+      "FORMID": "014949",
+      "EDID": "NVDLC03ThinkTankToBigEmptyDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AB1",
+      "FORMID": "014AB1",
+      "EDID": "NVDLC03X8MaintoSchoolDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AB2",
+      "FORMID": "014AB2",
+      "EDID": "NVDLC03X8SchoolDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AC0",
+      "FORMID": "014AC0",
+      "EDID": "NVDLC03InvisibleCaveDoor",
+      "FULL": "Saída para Big MT"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015503",
+      "FORMID": "015503",
+      "EDID": "NVDLC03X8UtlDoor01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015546",
+      "FORMID": "015546",
+      "EDID": "NVDLC03DomeThinkTankDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015557",
+      "FORMID": "015557",
+      "EDID": "NVDLC03SinkElevatorDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015582",
+      "FORMID": "015582",
+      "EDID": "NVDLC03X8MaintoCaveDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158A7",
+      "FORMID": "0158A7",
+      "EDID": "NVDLC03X8LibraryDownDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158A8",
+      "FORMID": "0158A8",
+      "EDID": "NVDLC03X8LibraryUpDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015D3A",
+      "FORMID": "015D3A",
+      "EDID": "NVDLC03ForbiddenDoorSTATIC",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015D3B",
+      "FORMID": "015D3B",
+      "EDID": "NVDLCYangtzeGate",
+      "FULL": "Portão"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015FA2",
+      "FORMID": "015FA2",
+      "EDID": "NVDLC03X8UtlDoor02",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01662D",
+      "FORMID": "01662D",
+      "EDID": "NVDLC03ForbiddenDomeDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0166E0",
+      "FORMID": "0166E0",
+      "EDID": "NVDLC03DomeTheSinkDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112B6",
+      "FORMID": "0112B6",
+      "EDID": "NVDLC03DomeSinkDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112B8",
+      "FORMID": "0112B8",
+      "EDID": "NVDLC03DomeIntDoor",
+      "FULL": "Elevador"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0463CE",
+      "FORMID": "0463CE",
+      "EDID": "IndDoorSmAnim01",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01530C",
+      "FORMID": "01530C",
+      "EDID": "NVDLC03X13VREntDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01530D",
+      "FORMID": "01530D",
+      "EDID": "NVDLC03X13VRExitDoor",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016A50",
+      "FORMID": "016A50",
+      "EDID": "NVDLC03InvisibleDoorDup",
+      "FULL": "Porta"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016A53",
+      "FORMID": "016A53",
+      "EDID": "NVDLC03MetroGateDup",
+      "FULL": "Portão"
+    }
+  ]
+}

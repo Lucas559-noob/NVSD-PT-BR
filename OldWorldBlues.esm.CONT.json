@@ -1,0 +1,448 @@
+{
+  "CONT": [
+    {
+      "FORM": "@OldWorldBlues.esm:004527",
+      "FORMID": "004527",
+      "EDID": "NVDLC03SinkRefrigerator",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004746",
+      "FORMID": "004746",
+      "EDID": "NVDLC03PlayerTrunk",
+      "FULL": "Porta-malas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:004749",
+      "FORMID": "004749",
+      "EDID": "NVDLC03SinkToolbox",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00474C",
+      "FORMID": "00474C",
+      "EDID": "NVDLC03SinkSupplyChute",
+      "FULL": "Duto de Suprimentos"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0048FD",
+      "FORMID": "0048FD",
+      "EDID": "NVDLC03SinkPaperRecycler",
+      "FULL": "Reciclador de Papel"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0079E5",
+      "FORMID": "0079E5",
+      "EDID": "NVDLC03DeskOfficeMetalCornerLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0079E8",
+      "FORMID": "0079E8",
+      "EDID": "NVDLC03DeskOfficeMetalLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF0",
+      "FORMID": "009FF0",
+      "EDID": "NVDLC03ToolCabinetMetalLOW",
+      "FULL": "Armário de Ferramentas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF1",
+      "FORMID": "009FF1",
+      "EDID": "NVDLC03MetalBox01MilitaryLOW",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF2",
+      "FORMID": "009FF2",
+      "EDID": "NVDLC03MetalBox01OfficeLOW",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF3",
+      "FORMID": "009FF3",
+      "EDID": "NVDLC03LockerLOW",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF4",
+      "FORMID": "009FF4",
+      "EDID": "NVDLC03LockerGroupLOW",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF5",
+      "FORMID": "009FF5",
+      "EDID": "NVDLC03FootlockerFactoryLOW",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF6",
+      "FORMID": "009FF6",
+      "EDID": "NVDLC03FootlockerMilitaryLOW",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF7",
+      "FORMID": "009FF7",
+      "EDID": "NVDLC03FilingCabinetLOW",
+      "FULL": "Arquivo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF8",
+      "FORMID": "009FF8",
+      "EDID": "NVDLC03FilingCabinetGroup01LOW",
+      "FULL": "Armários de Arquivo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FF9",
+      "FORMID": "009FF9",
+      "EDID": "NVDLC03FilingCabinetGroup02LOW",
+      "FULL": "Armários de Arquivo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FFA",
+      "FORMID": "009FFA",
+      "EDID": "NVDLC03FilingCabinetGroup03LOW",
+      "FULL": "Armários de Arquivo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FFB",
+      "FORMID": "009FFB",
+      "EDID": "NVDLC03LockerCabinetLOW",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:009FFC",
+      "FORMID": "009FFC",
+      "EDID": "NVDLC03ToolboxLOW",
+      "FULL": "Caixa de Ferramentas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AD02",
+      "FORMID": "00AD02",
+      "EDID": "NVDLC03X8CaveMoundSonicGun",
+      "FULL": "Ponto de Escavação do Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AD03",
+      "FORMID": "00AD03",
+      "EDID": "NVDLC03X8CaveMound",
+      "FULL": "Ponto de Escavação do Gabe"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D58B",
+      "FORMID": "00D58B",
+      "EDID": "NVDLC03SinkToolCabinet",
+      "FULL": "Armário de Estoque"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D591",
+      "FORMID": "00D591",
+      "EDID": "NVDLC03SinkNukaColaMachine",
+      "FULL": "Máquina de Venda Nuka-Cola"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DA2E",
+      "FORMID": "00DA2E",
+      "EDID": "NVDLC03NighstalkerCraftingContainer",
+      "FULL": "Amostras de Perseguidor Noturno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD30",
+      "FORMID": "00DD30",
+      "EDID": "NVDLC03MetalBoxThinkTank",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD32",
+      "FORMID": "00DD32",
+      "EDID": "NVDLC03FootlockerThinkTank",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E30E",
+      "FORMID": "00E30E",
+      "EDID": "NVDLC03SinkVendorContainer",
+      "FULL": "Recipiente do Vendedor da Pia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E848",
+      "FORMID": "00E848",
+      "EDID": "NVDLC03X13TestSafe",
+      "FULL": "Cofre de Parede do Administrador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F037",
+      "FORMID": "00F037",
+      "EDID": "NVDLC03ForbiddenLockerEmpty",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F03A",
+      "FORMID": "00F03A",
+      "EDID": "NVDLC03ForbiddenLocker02",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F03B",
+      "FORMID": "00F03B",
+      "EDID": "NVDLC03ForbiddenLocker01",
+      "FULL": "Cacifo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F424",
+      "FORMID": "00F424",
+      "EDID": "NVDLC03X13FloorSafe",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F425",
+      "FORMID": "00F425",
+      "EDID": "NVDLC03X13RewardSafe",
+      "FULL": "Cofre de Recompensa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0104E4",
+      "FORMID": "0104E4",
+      "EDID": "NVDLC03FootlockerForbidden",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010919",
+      "FORMID": "010919",
+      "EDID": "NVDLC03DuffleBagLOW",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091A",
+      "FORMID": "01091A",
+      "EDID": "NVDLC03WoodenCrateLOW",
+      "FULL": "Caixote de Madeira"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091B",
+      "FORMID": "01091B",
+      "EDID": "NVDLC03OvenRangeDirtyLOW",
+      "FULL": "Forno"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091C",
+      "FORMID": "01091C",
+      "EDID": "NVDLC03CabinetHousehold",
+      "FULL": "Armário"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091D",
+      "FORMID": "01091D",
+      "EDID": "NVDLC03MetalBoxHouseholdLOW",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091E",
+      "FORMID": "01091E",
+      "EDID": "NVDLC03DeskWoodenLOW",
+      "FULL": "Mesa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01091F",
+      "FORMID": "01091F",
+      "EDID": "NVDLC03RefrigeratorWithFoodLOW",
+      "FULL": "Geladeira"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010920",
+      "FORMID": "010920",
+      "EDID": "NVDLC03HotelWardrobeLOW",
+      "FULL": "Guarda-roupa"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010921",
+      "FORMID": "010921",
+      "EDID": "NVDLC03FootlockerHouseholdLOW",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010922",
+      "FORMID": "010922",
+      "EDID": "NVDLC03SSVendingMachineLOW",
+      "FULL": "Máquina de Vendas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010C97",
+      "FORMID": "010C97",
+      "EDID": "NVDLC03GraveContainerLOW",
+      "FULL": "Sepultura"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010D24",
+      "FORMID": "010D24",
+      "EDID": "NVDLC03KleinTrunk",
+      "FULL": "Porta-malas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010E4B",
+      "FORMID": "010E4B",
+      "EDID": "NVDLC03MobiusTrunk",
+      "FULL": "Porta-malas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010E4D",
+      "FORMID": "010E4D",
+      "EDID": "NVDLC03ThinkTankTrunk",
+      "FULL": "Porta-malas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011261",
+      "FORMID": "011261",
+      "EDID": "NVDLC03ElectricalBox01LOW",
+      "FULL": "Caixa de Eletricidade"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011346",
+      "FORMID": "011346",
+      "EDID": "NVDLC03ElectricalBox01MED",
+      "FULL": "Caixa de Eletricidade"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011381",
+      "FORMID": "011381",
+      "EDID": "NVDLC03ArtilleryLandingFootlocker",
+      "FULL": "Baú"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011E63",
+      "FORMID": "011E63",
+      "EDID": "NVDLC03X13PlayerContainer",
+      "FULL": "Armazenamento de Coisas do(a) Jogador(a)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA6",
+      "FORMID": "012BA6",
+      "EDID": "NVDLC03X13VentStash",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA7",
+      "FORMID": "012BA7",
+      "EDID": "NVDLC03X13VentStashEmpty",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BA8",
+      "FORMID": "012BA8",
+      "EDID": "NVDLC03X13ToolboxSnacks",
+      "FULL": "Caixa de Ferramentas Engraxada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012BB2",
+      "FORMID": "012BB2",
+      "EDID": "NVDLC03LootLockerX13Weapons",
+      "FULL": "Armário de Armas"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0141F5",
+      "FORMID": "0141F5",
+      "EDID": "NVDLC03WeatherStationDuffleBag",
+      "FULL": "Mochila Encharcada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01495F",
+      "FORMID": "01495F",
+      "EDID": "NVDLC03BattleBrewBox",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014960",
+      "FORMID": "014960",
+      "EDID": "NVDLC03BattleBrewBarrel",
+      "FULL": "Barril Estranho"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014ABF",
+      "FORMID": "014ABF",
+      "EDID": "NVDLC03FoodFreshContainer",
+      "FULL": "Caixote"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014F84",
+      "FORMID": "014F84",
+      "EDID": "NVDLC03X13DrunkBox",
+      "FULL": "Caixa de Metal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B0B",
+      "FORMID": "015B0B",
+      "EDID": "NVDLC03X13VentStashLockpickSkill",
+      "FULL": "Respiradouro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015DCE",
+      "FORMID": "015DCE",
+      "EDID": "NVDLC03X13SuitcaseKennelKey",
+      "FULL": "Mala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112CB",
+      "FORMID": "0112CB",
+      "EDID": "NVDLC03MetalBoxDriedSeedSamples01",
+      "FULL": "Caixa de Amostras"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112CC",
+      "FORMID": "0112CC",
+      "EDID": "NVDLC03MetalBoxDriedSeedSamples02",
+      "FULL": "Caixa de Amostras"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112CD",
+      "FORMID": "0112CD",
+      "EDID": "NVDLC03MetalBoxDriedSeedSamples03",
+      "FULL": "Caixa de Amostras"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012304",
+      "FORMID": "012304",
+      "EDID": "NVDLC03SinkToolCabinetWorkBench",
+      "FULL": "Armário de Estoque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0CD3CC",
+      "FORMID": "0CD3CC",
+      "EDID": "LootAmmoBoxEmpty",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0132A2",
+      "FORMID": "0132A2",
+      "EDID": "NVDLC03LootAmmoBoxSink",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013909",
+      "FORMID": "013909",
+      "EDID": "NVDLC3LootAmmoTier3Box308",
+      "FULL": "Caixa de Munição"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D83",
+      "FORMID": "013D83",
+      "EDID": "NVDLC03LootSafeWallEmpty",
+      "FULL": "Cofre"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01533B",
+      "FORMID": "01533B",
+      "EDID": "NVDLC03DuffleBagHIGH",
+      "FULL": "Bolsa de Lona"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01533C",
+      "FORMID": "01533C",
+      "EDID": "NVDLC03X13ToolboxChems",
+      "FULL": "Caixa de Ferramentas"
+    }
+  ]
+}

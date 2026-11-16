@@ -1,0 +1,4192 @@
+{
+  "DIAL": [
+    {
+      "FORM": "@OldWorldBlues.esm:016349",
+      "FORMID": "016349",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkSinkTalkerTopic003",
+      "FULL": "Estou bem. Falamos mais tarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01611D",
+      "FORMID": "01611D",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic022",
+      "FULL": "Mobius e eu... nós... fizemos uma aliança. Tipo isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01611C",
+      "FORMID": "01611C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic023",
+      "FULL": "Há várias formas médicas de fazer essa... proeza."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01611B",
+      "FORMID": "01611B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic024",
+      "FULL": "A ciência deu um jeito, Klein."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01611A",
+      "FORMID": "01611A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic025",
+      "FULL": "<Mentira> Acha que eu matei o Mobius? Não, ele está vivo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016119",
+      "FORMID": "016119",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic026",
+      "FULL": "Ele oferece um acordo: fique aqui, parado, e ele deixará você viver."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016118",
+      "FORMID": "016118",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic027",
+      "FULL": "Você está disposto a arriscar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016117",
+      "FORMID": "016117",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic028",
+      "FULL": "Você ainda pode fazer isso... aqui, em silêncio, para mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016116",
+      "FORMID": "016116",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic029",
+      "FULL": "Eu posso trazer o Mojave, este mundo, para você. Você estará seguro e ainda poderá experimentar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01610C",
+      "FORMID": "01610C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic065",
+      "FULL": "Ouvi dizer que um dos visitantes anteriores à Cúpula falou com você, fez algumas perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01610B",
+      "FORMID": "01610B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic018",
+      "FULL": "Você deve ter notado que o campo de pacificação está desativado. Adivinha o que acontece agora?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01610A",
+      "FORMID": "01610A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic019",
+      "FULL": "Você acha que eu matei Mobius?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016109",
+      "FORMID": "016109",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic020",
+      "FULL": "Mobius e eu conversamos e chegamos a um acordo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016108",
+      "FORMID": "016108",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic021",
+      "FULL": "Não posso deixar você dissecar o Mojave. Nem deixar você partir."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016107",
+      "FORMID": "016107",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic032",
+      "FULL": "Tem alguma coisa que eu possa fazer para detê-los que não envolva violência?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016106",
+      "FORMID": "016106",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic049",
+      "FULL": "Eu queria muito, muito mesmo matá-los."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016105",
+      "FORMID": "016105",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic051",
+      "FULL": "Alguma sugestão de como fazê-los mudar de ideia?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016104",
+      "FORMID": "016104",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic052",
+      "FULL": "Eu gostaria de me esforçar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016103",
+      "FORMID": "016103",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic053",
+      "FULL": "Assustá-los? Como?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E9",
+      "FORMID": "0160E9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic058",
+      "FULL": "Eu tenho algumas perguntas sobre essa \"extração de cérebro\" que vocês realizaram."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E8",
+      "FORMID": "0160E8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic059",
+      "FULL": "Você disse antes que Mobius poderia estar com meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E7",
+      "FORMID": "0160E7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic060",
+      "FULL": "Por que Mobius iria querer meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E6",
+      "FORMID": "0160E6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic000",
+      "FULL": "E aí, gênio? E agora?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E5",
+      "FORMID": "0160E5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic001",
+      "FULL": "Essas tecnologias têm as informações de que você precisa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E4",
+      "FORMID": "0160E4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic002",
+      "FULL": "Certo, fico feliz que tenha recebido os esquemas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E3",
+      "FORMID": "0160E3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic003",
+      "FULL": "Sua resposta não está me enchendo de confiança."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E2",
+      "FORMID": "0160E2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic004",
+      "FULL": "Algo errado?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E1",
+      "FORMID": "0160E1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic005",
+      "FULL": "\"Sim...\" o quê?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160E0",
+      "FORMID": "0160E0",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic006",
+      "FULL": "Você sequer sabe o que essas tecnologias fazem?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DF",
+      "FORMID": "0160DF",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic007",
+      "FULL": "Por que me fez pegar eles se não sabe como eles ajudariam?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DE",
+      "FORMID": "0160DE",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic008",
+      "FULL": "Vou enfiar minha bota no seu módulo de voz se você não me der dados concretos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DD",
+      "FORMID": "0160DD",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic009",
+      "FULL": "Talvez a nova frequência do Emissor Sônico possa explodir a fechadura da porta da Zona Proibida, ou...?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DC",
+      "FORMID": "0160DC",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic010",
+      "FULL": "Acha que o traje sorrateiro X-13 consegue se infiltrar e chegar até Mobius?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DB",
+      "FORMID": "0160DB",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic011",
+      "FULL": "A antena parece que pode danificar as coisas de forma irreparável. Talvez pudesse arrombar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160DA",
+      "FORMID": "0160DA",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic012",
+      "FULL": "Vou deixar você pensar um pouco, então."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D9",
+      "FORMID": "0160D9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic013",
+      "FULL": "Todos esses dispositivos parecem muito científicos. Muito."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D8",
+      "FORMID": "0160D8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic014",
+      "FULL": "E o traje é um regulador cardíaco, e a frequência sônica é um vibrador espinhal?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D7",
+      "FORMID": "0160D7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic015",
+      "FULL": "Sim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D6",
+      "FORMID": "0160D6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic016",
+      "FULL": "...Estou esperando você chegar a uma conclusão."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D5",
+      "FORMID": "0160D5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic017",
+      "FULL": "Você se lembra de quais outros efeitos biológicos os outros itens causaram?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D4",
+      "FORMID": "0160D4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic061",
+      "FULL": "< Nó de Tópico de Depuração - Checagem de Habilidade Ato 2 - Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D3",
+      "FORMID": "0160D3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic062",
+      "FULL": "Então eu vou atrás dele?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D2",
+      "FORMID": "0160D2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic063",
+      "FULL": "Então não há tempo a perder."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160D1",
+      "FORMID": "0160D1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic064",
+      "FULL": "Na verdade, essa não é a conclusão que eu teria tirado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160CF",
+      "FORMID": "0160CF",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic066",
+      "FULL": "Essas tecnologias parecem mais úteis... medicinalmente, de alguma forma."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160AC",
+      "FORMID": "0160AC",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic044",
+      "FULL": "Eu não dou a mínima pro que você tem a dizer. Me diz por que me trouxeram aqui. Agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160AB",
+      "FORMID": "0160AB",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic045",
+      "FULL": "Essa arma é tudo? Ah, nunca se tem armas demais, na real."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160AA",
+      "FORMID": "0160AA",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic014",
+      "FULL": "Eu podia usar mais... energia... essas paradas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A9",
+      "FORMID": "0160A9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03Doctor8LVLTopic000",
+      "FULL": "Legal. Isso deve ser o bastante."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A8",
+      "FORMID": "0160A8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03Doctor8LVLTopic001",
+      "FULL": "Então isso vai funcionar no Emissor Sônico?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A7",
+      "FORMID": "0160A7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03Doctor8LVLTopic002",
+      "FULL": "Hum... estes também foram esterilizados, né?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A6",
+      "FORMID": "0160A6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic052",
+      "FULL": "Estou ouvindo, pode falar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A5",
+      "FORMID": "0160A5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic053",
+      "FULL": "Desembucha logo antes que você me mate de tédio."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A4",
+      "FORMID": "0160A4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic054",
+      "FULL": "Então é só plugar isso na parada de mapa circular no Sink lá em cima?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A3",
+      "FORMID": "0160A3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic055",
+      "FULL": "Certo, ter uma loja disponível seria útil... ela tem uma conexão com uma loja, certo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A2",
+      "FORMID": "0160A2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic056",
+      "FULL": "Só uma dessas fichas, hein? Acho que são raras."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0160A1",
+      "FORMID": "0160A1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic057",
+      "FULL": "Então é só voltar lá pra cima e ir até o console circular principal?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01609B",
+      "FORMID": "01609B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic013",
+      "FULL": "Eu preferia ter uma boa e velha arma."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01609A",
+      "FORMID": "01609A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic043",
+      "FULL": "< Nó de Tópico de Depuração - Ramo de Armas\/Armazenamento de Teste de Habilidade - Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016098",
+      "FORMID": "016098",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic030",
+      "FULL": "Acho que vou te matar, afinal das contas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016077",
+      "FORMID": "016077",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic001",
+      "FULL": "Meu cérebro me disse que o Think Tank precisa ser detido. Pode ajudar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016076",
+      "FORMID": "016076",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic019",
+      "FULL": "Sabe como posso parar o Think Tank?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016075",
+      "FORMID": "016075",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic020",
+      "FULL": "Qual era o plano que você tinha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016074",
+      "FORMID": "016074",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic021",
+      "FULL": "Bem, eu não quero tirá-los da encrenca, eu quero matá-los."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016073",
+      "FORMID": "016073",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic022",
+      "FULL": "Alguma tática que eu poderia usar para atacar o Think Tank?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016072",
+      "FORMID": "016072",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic023",
+      "FULL": "Tudo o que você me contou não faz sentido... seu plano, até mesmo seu nome, \"Mobius\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016071",
+      "FORMID": "016071",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic024",
+      "FULL": "Parece que você esqueceu seu plano mestre. Surpreendente que se lembre do seu próprio nome."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016070",
+      "FORMID": "016070",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic025",
+      "FULL": "Então... você se reprogramou?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606F",
+      "FORMID": "01606F",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic026",
+      "FULL": "Por que você os prendeu?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606E",
+      "FORMID": "01606E",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic027",
+      "FULL": "Então toda essa insanidade é por sua causa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606D",
+      "FORMID": "01606D",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic028",
+      "FULL": "Um loop de recursão foi projetado para impedir o fluxo de informações. Então..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606C",
+      "FORMID": "01606C",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic029",
+      "FULL": "Então é por isso que eles têm todos aqueles nomes idiotas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606B",
+      "FORMID": "01606B",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic031",
+      "FULL": "Continue, quero ouvir o resto disso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01606A",
+      "FORMID": "01606A",
+      "EDID": "TestDUPLICATE000",
+      "FULL": "< Teste de Nó: Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016069",
+      "FORMID": "016069",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic033",
+      "FULL": "Isso é meio cuzão de fazer com seus amigos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016068",
+      "FORMID": "016068",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic034",
+      "FULL": "\"Ouro-bor-ous?\" Que diabo isso significa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016067",
+      "FORMID": "016067",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic035",
+      "FULL": "Se você fez uma lobotomia no Think Tank, por que aterrorizá-los?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016066",
+      "FORMID": "016066",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic036",
+      "FULL": "Não entendo por que você enviou as ameaças, e o exército de Robo-Escorpiões, contra o Think Tank."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016065",
+      "FORMID": "016065",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic037",
+      "FULL": "Mas deve ter havido outros sinais de um mundo maior."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016064",
+      "FORMID": "016064",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic038",
+      "FULL": "Mas houve outros visitantes. Por que eu sou diferente?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016063",
+      "FORMID": "016063",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic039",
+      "FULL": "Está me culpando por isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016062",
+      "FORMID": "016062",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic040",
+      "FULL": "Hã? Do que você está falando?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016061",
+      "FORMID": "016061",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic041",
+      "FULL": "Que foi, algum tipo de problema de saúde?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016060",
+      "FORMID": "016060",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic042",
+      "FULL": "Então você colocou suas ameaças em um loop para mantê-los ocupados?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605F",
+      "FORMID": "01605F",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic043",
+      "FULL": "Você sabe algo sobre os outros visitantes?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605E",
+      "FORMID": "01605E",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic044",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605D",
+      "FORMID": "01605D",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic045",
+      "FULL": "Não entendo por que queriam que eu reunisse as tecnologias."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605C",
+      "FORMID": "01605C",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic046",
+      "FULL": "Qual o propósito das tecnologias?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605B",
+      "FORMID": "01605B",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic047",
+      "FULL": "Mas o Think Tank baixou os esquemas, não os itens. Eles podem reconstruí-los."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01605A",
+      "FORMID": "01605A",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic048",
+      "FULL": "Houve outros dados transmitidos na sua mensagem de ameaça?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016059",
+      "FORMID": "016059",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic050",
+      "FULL": "Se não for direto ao ponto, vou começar a atirar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F65",
+      "FORMID": "015F65",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic017",
+      "FULL": "Entendo. Bem, tenho perguntas a fazer."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F64",
+      "FORMID": "015F64",
+      "EDID": "RemovePacificationFieldTopLevel",
+      "FULL": "Tem como remover o campo de pacificação aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F63",
+      "FORMID": "015F63",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic024",
+      "FULL": "Por que você disse \"três menos um\" indivíduos antes?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F62",
+      "FORMID": "015F62",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic025",
+      "FULL": "Mas como eu ainda estou falando e andando por aí?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F61",
+      "FORMID": "015F61",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic026",
+      "FULL": "Isso não faz sentido. Como isso sequer é possível?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F60",
+      "FORMID": "015F60",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic027",
+      "FULL": "Sinto-me estranho aqui, em paz, mas no limite."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5F",
+      "FORMID": "015F5F",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic028",
+      "FULL": "Tem algum jeito de desligar isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5E",
+      "FORMID": "015F5E",
+      "EDID": "Research",
+      "FULL": "Você parece não ter a menor ideia da sua própria pesquisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5D",
+      "FORMID": "015F5D",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic011",
+      "FULL": "Muito bem... quando você criou os Cazadores?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5C",
+      "FORMID": "015F5C",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic017",
+      "FULL": "Então, os Perseguidor Noturnos foram criados para qual propósito, então?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5B",
+      "FORMID": "015F5B",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic018",
+      "FULL": "Me dê um fato concreto. Um. Fato."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F5A",
+      "FORMID": "015F5A",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic004",
+      "FULL": "Por que vocês arrasaram este lugar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F59",
+      "FORMID": "015F59",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic019",
+      "FULL": "Eu vi a vastidão da varanda. Você fez uma bagunça nessa paisagem."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F58",
+      "FORMID": "015F58",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic020",
+      "FULL": "Essa cratera parece que foi atacada em conjunto por robôs gigantes fodidos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F57",
+      "FORMID": "015F57",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic021",
+      "FULL": "Cidades de teste?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F56",
+      "FORMID": "015F56",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic022",
+      "FULL": "O que foi essa explosão?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F54",
+      "FORMID": "015F54",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic024",
+      "FULL": "Me fale sobre essa \"Cerca de Radar\" ao redor da Cratera."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F53",
+      "FORMID": "015F53",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic025",
+      "FULL": "Essa cerca não faz muito sentido pra mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F52",
+      "FORMID": "015F52",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic026",
+      "FULL": "Então, se eu pegar meu cérebro de volta, posso ir embora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F51",
+      "FORMID": "015F51",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic027",
+      "FULL": "Espera um minuto... Isso quer dizer que você está preso aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F50",
+      "FORMID": "015F50",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic028",
+      "FULL": "Não quer ir embora daqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F4F",
+      "FORMID": "015F4F",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic029",
+      "FULL": "Mas existe um mundo inteiro além deste lugar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F4E",
+      "FORMID": "015F4E",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic030",
+      "FULL": "Provas do contrário?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015F4D",
+      "FORMID": "015F4D",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic031",
+      "FULL": "Isso não prova que você está errado?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B4A",
+      "FORMID": "015B4A",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic065",
+      "FULL": "{Oratória 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B49",
+      "FORMID": "015B49",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic066",
+      "FULL": "Então, chegamos a um impasse. Você não consegue sentir o que eu sinto, e eu não consigo pensar como você pensa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B48",
+      "FORMID": "015B48",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic067",
+      "FULL": "É, aposto que não pensou nisso, hein?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B47",
+      "FORMID": "015B47",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic069",
+      "FULL": "Acho que temos que confiar um no outro e reconhecer que não somos completos se estivermos separados."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B46",
+      "FORMID": "015B46",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic070",
+      "FULL": "Bem... talvez a gente possa continuar assim. Que que cê acha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B45",
+      "FORMID": "015B45",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic071",
+      "FULL": "Não sei. Preciso pensar mais um pouco sobre isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B44",
+      "FORMID": "015B44",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic072",
+      "FULL": "Então, qual é, prefere ficar aqui? Nunca sair daquele tanque de... seja lá o que for aquela porcaria?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B43",
+      "FORMID": "015B43",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic073",
+      "FULL": "Bem, se você gosta tanto de ficar aí, talvez eu simplesmente te deixe."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B42",
+      "FORMID": "015B42",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic068",
+      "FULL": "Olha o que aconteceu com o Think Tank. Quer acabar que nem eles depois de algumas centenas de anos?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B41",
+      "FORMID": "015B41",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic074",
+      "FULL": "O que aconteceria comigo se eu te deixasse aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B40",
+      "FORMID": "015B40",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic075",
+      "FULL": "Por que você nunca disse nada sobre como se sentia antes?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3F",
+      "FORMID": "015B3F",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic076",
+      "FULL": "E se eu te colocar de volta?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3E",
+      "FORMID": "015B3E",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic077",
+      "FULL": "{Ciência 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3D",
+      "FORMID": "015B3D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic078",
+      "FULL": "Beleza, pode ficar aqui. Não preciso dessa dor de cabeça."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3C",
+      "FORMID": "015B3C",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic079",
+      "FULL": "Acho que vou voltar ao Think Tank e fazê-los me deixar sair. Eles prometeram fazer isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3B",
+      "FORMID": "015B3B",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic080",
+      "FULL": "Talvez eu explore mais a Grande Montanha antes de voltar ao Think Tank."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B3A",
+      "FORMID": "015B3A",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic081",
+      "FULL": "Beleza, então. Estou indo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B39",
+      "FORMID": "015B39",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic082",
+      "FULL": "Eu vou!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B38",
+      "FORMID": "015B38",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic084",
+      "FULL": "Ótimo!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B37",
+      "FORMID": "015B37",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic085",
+      "FULL": "Isso é ridículo. Não posso deixar meu cérebro apodrecer aqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B36",
+      "FORMID": "015B36",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic086",
+      "FULL": "Bem... então... adeus. Estou voltando para o Think Tank. Eles prometeram me deixar sair."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B35",
+      "FORMID": "015B35",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic083",
+      "FULL": "Mudei de ideia. Quero você de volta no meu crânio, afinal."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B34",
+      "FORMID": "015B34",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic088",
+      "FULL": "Tenho certeza. Pode entrar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B33",
+      "FORMID": "015B33",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic089",
+      "FULL": "Pensando bem, deixa pra lá."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A61",
+      "FORMID": "015A61",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic043",
+      "FULL": "Você está mesmo dizendo que deixaria o Think Tank nos passar a perna?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A60",
+      "FORMID": "015A60",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic044",
+      "FULL": "{Armas de Fogo 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5F",
+      "FORMID": "015A5F",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic045",
+      "FULL": "{Armas de Energia 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5E",
+      "FORMID": "015A5E",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic046",
+      "FULL": "{Explosivos 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5D",
+      "FORMID": "015A5D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic047",
+      "FULL": "{Corpo a Corpo 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5C",
+      "FORMID": "015A5C",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic048",
+      "FULL": "{Desarmado 75+}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5B",
+      "FORMID": "015A5B",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic049",
+      "FULL": "Digamos que a violência é o último recurso do homem civilizado, e eu estou me sentindo bem pouco civilizado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A5A",
+      "FORMID": "015A5A",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic050",
+      "FULL": "Não precisa ser sarcástico. Encontrar seu próprio cérebro é um evento um tanto bizarro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A59",
+      "FORMID": "015A59",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic051",
+      "FULL": "Sim. Porque ficar correndo em uma cratera cheia de experimentos científicos bizarros faz da higiene uma prioridade."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A58",
+      "FORMID": "015A58",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic052",
+      "FULL": "Tenho estado ocupado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A57",
+      "FORMID": "015A57",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic053",
+      "FULL": "E você? Aquele tanque não está exatamente com cara de quem acabou de sair da concessionária."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A56",
+      "FORMID": "015A56",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic054",
+      "FULL": "Não quer se reunir? Achei que ficaria feliz em voltar para a minha cabeça!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A55",
+      "FORMID": "015A55",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic055",
+      "FULL": "Mas e as coisas boas? E uma brisa fresca no seu rosto, o cheiro de comida... amor?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A54",
+      "FORMID": "015A54",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic056",
+      "FULL": "Mas e as coisas boas? Esmagar aqueles que se opõe a você, o cheiro de fogo... espólios?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A53",
+      "FORMID": "015A53",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic057",
+      "FULL": "Eu entendo seu ponto. O que posso fazer para tornar isso um acordo justo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A52",
+      "FORMID": "015A52",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic058",
+      "FULL": "Que pena. Eu tenho armas, você não. Você vem comigo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A51",
+      "FORMID": "015A51",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic060",
+      "FULL": "Vamos lá, você é meu cérebro e eu sou seu corpo. Era pra ser, meu bem!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A50",
+      "FORMID": "015A50",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic061",
+      "FULL": "Eu prometo que vou me cuidar melhor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A4F",
+      "FORMID": "015A4F",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic062",
+      "FULL": "<Mentira> Prometo que vou cuidar melhor de mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A4E",
+      "FORMID": "015A4E",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic059",
+      "FULL": "Vamos lá, você é meu cérebro e eu sou seu corpo. Era pra ser, meu bem!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A4D",
+      "FORMID": "015A4D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic063",
+      "FULL": "Vamos lá, você é meu cérebro e eu sou seu corpo. Era pra ser, meu bem!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A4C",
+      "FORMID": "015A4C",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic064",
+      "FULL": "Vamos lá, você é meu cérebro e eu sou seu corpo. Era pra ser, meu bem!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DF",
+      "FORMID": "0158DF",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic042",
+      "FULL": "Isso vai ser um problema. Até me consertarem, também não posso sair de Grande Montanha."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DE",
+      "FORMID": "0158DE",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic041",
+      "FULL": "{Teste de Oratória 75}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DD",
+      "FORMID": "0158DD",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic040",
+      "FULL": "O que tem de tão ruim em deixar os cérebros escaparem? Eles não parecem tão terríveis."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DC",
+      "FORMID": "0158DC",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic039",
+      "FULL": "Admita. Você é tão glandular quanto eu."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DB",
+      "FORMID": "0158DB",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic038",
+      "FULL": "{Medicina 55}"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158DA",
+      "FORMID": "0158DA",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic037",
+      "FULL": "E a minha espinha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D9",
+      "FORMID": "0158D9",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic036",
+      "FULL": "Essa conversa toda de gente esperta está me dando dor de cabeça. Por favor, pare com isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D8",
+      "FORMID": "0158D8",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic035",
+      "FULL": "Ué, cérebro? Você parece... inteligente pra caralho de repente."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D7",
+      "FORMID": "0158D7",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic034",
+      "FULL": "Bem, você não tem boca, mas fala. Explique essa, seu sabichão!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D6",
+      "FORMID": "0158D6",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic033",
+      "FULL": "Você fala um monte de ciência, cérebro, mas não faz muito sentido."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D5",
+      "FORMID": "0158D5",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic032",
+      "FULL": "Bem, isso responde. Próximo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D4",
+      "FORMID": "0158D4",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic031",
+      "FULL": "Parece uma coincidência bem improvável."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D3",
+      "FORMID": "0158D3",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic027",
+      "FULL": "Como ele conseguiu fazer isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0158D2",
+      "FORMID": "0158D2",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic012",
+      "FULL": "Achei uma holofita para te melhorar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015766",
+      "FORMID": "015766",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic000",
+      "FULL": "Você é... meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015765",
+      "FORMID": "015765",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic001",
+      "FULL": "Por que você é tão cuzão?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015764",
+      "FORMID": "015764",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic002",
+      "FULL": "Escuta, você é meu cérebro, então é bom me respeitar mais!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015763",
+      "FORMID": "015763",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic003",
+      "FULL": "Na verdade, sim. Eu adoraria um biscoito."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015762",
+      "FORMID": "015762",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic004",
+      "FULL": "Vamos, vamos nessa. Estamos saindo daqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015761",
+      "FORMID": "015761",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic005",
+      "FULL": "Por que meu cérebro soa tão... másculo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015760",
+      "FORMID": "015760",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic006",
+      "FULL": "Como diabos o Mobius conseguiu meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575F",
+      "FORMID": "01575F",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic007",
+      "FULL": "Que legal! Eu consigo conversar com meu próprio cérebro! Será que meu coração e minha espinha também conseguem?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575E",
+      "FORMID": "01575E",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic008",
+      "FULL": "Isso é bizarro demais. Eu volto mais tarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575D",
+      "FORMID": "01575D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic009",
+      "FULL": "É claro que você é responsável! Você é meu cérebro!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575C",
+      "FORMID": "01575C",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic010",
+      "FULL": "Ah, qual é, essa merda é divertida!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575B",
+      "FORMID": "01575B",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic011",
+      "FULL": "Eu não sabia que isso te causava tanta aflição."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01575A",
+      "FORMID": "01575A",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic012",
+      "FULL": "Voltaremos a este assunto mais tarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015759",
+      "FORMID": "015759",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic013",
+      "FULL": "Eu podia esmagar esse tanque em que você está. Que tal?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015758",
+      "FORMID": "015758",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic014",
+      "FULL": "Assim que você voltar para a minha cabeça, eu vou assistir televisão. Muita. E muita. Televisão."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015757",
+      "FORMID": "015757",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic015",
+      "FULL": "Tudo bem, esquece."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015756",
+      "FORMID": "015756",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic016",
+      "FULL": "Não me tente, cérebro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015755",
+      "FORMID": "015755",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic017",
+      "FULL": "Eu faria. E tomaria um coquetel de álcool e néctar de formiga toda noite."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015754",
+      "FORMID": "015754",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic018",
+      "FULL": "Talvez não, mas chamou a sua atenção, não chamou?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015753",
+      "FORMID": "015753",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic019",
+      "FULL": "Deixa pra lá. Quero falar sobre outra coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015752",
+      "FORMID": "015752",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic020",
+      "FULL": "Não me lembro de ter te dado uma escolha. Vamos logo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015751",
+      "FORMID": "015751",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic021",
+      "FULL": "O que vai ser preciso para te convencer?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015750",
+      "FORMID": "015750",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic022",
+      "FULL": "Vamos, temos um dever com o Ermo, temos que sair daqui!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574F",
+      "FORMID": "01574F",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic023",
+      "FULL": "Não vou passar o resto da minha vida aqui, sendo que tem um mundo inteiro para saquear."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574E",
+      "FORMID": "01574E",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic024",
+      "FULL": "Espere um pouco, já voltaremos a isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574D",
+      "FORMID": "01574D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic025",
+      "FULL": "Por quê? Eles prometeram nos juntar de novo assim que eu fizesse o que eles queriam."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574C",
+      "FORMID": "01574C",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic026",
+      "FULL": "Então vamos fazê-los compartilhar. Vamos lá, cérebro, hora de socar a porrada!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574B",
+      "FORMID": "01574B",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic028",
+      "FULL": "Hmm. Deixe-me pensar sobre isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01574A",
+      "FORMID": "01574A",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic029",
+      "FULL": "Se o Think Tank não cumprir o acordo, faremos com que cumpram. Vamos nessa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015749",
+      "FORMID": "015749",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic030",
+      "FULL": "Eu cuido dos miolos. Fique aqui, você será mais útil fora da minha cabeça."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015597",
+      "FORMID": "015597",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic000",
+      "FULL": "O que você é, algum tipo de interruptor de luz falante de merda?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015596",
+      "FORMID": "015596",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic001",
+      "FULL": "Eu vi outro interruptor no outro cômodo. Você também controla aquele?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015595",
+      "FORMID": "015595",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic002",
+      "FULL": "Preciso ir agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015594",
+      "FORMID": "015594",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic003",
+      "FULL": "E o que você descobriu?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015593",
+      "FORMID": "015593",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic004",
+      "FULL": "Você pode acender aquelas luzes para mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015592",
+      "FORMID": "015592",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic005",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015591",
+      "FORMID": "015591",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic006",
+      "FULL": "Parece que tem treta entre vocês. Ou, hum, circuitos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015590",
+      "FORMID": "015590",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic007",
+      "FULL": "Sei lá, luzes inteligentes poderiam ser úteis."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01558F",
+      "FORMID": "01558F",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic008",
+      "FULL": "Beleza, então. Esquece que eu disse alguma coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01558E",
+      "FORMID": "01558E",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic009",
+      "FULL": "Calma, eu não tenho tesão por interruptores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01558D",
+      "FORMID": "01558D",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic010",
+      "FULL": "O que posso dizer, ela e eu simplesmente... nos encaixamos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01558C",
+      "FORMID": "01558C",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic002",
+      "FULL": "Que função você desempenha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01558A",
+      "FORMID": "01558A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic004",
+      "FULL": "Tenho que ir. Falamos mais tarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015589",
+      "FORMID": "015589",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic011",
+      "FULL": "Parece com o que o outro interruptor estava fazendo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015588",
+      "FORMID": "015588",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic005",
+      "FULL": "Quais foram os resultados?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015587",
+      "FORMID": "015587",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic006",
+      "FULL": "Isso tem algo a ver com o que o outro interruptor está fazendo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015586",
+      "FORMID": "015586",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic007",
+      "FULL": "Eu tenho mais algumas perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015585",
+      "FORMID": "015585",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic008",
+      "FULL": "Você pode acender aquelas luzes para mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E9",
+      "FORMID": "0153E9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic048",
+      "FULL": "< Nó de Tópico de Depuração - Armazenamento de Nó do Emissor Sônico - Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E8",
+      "FORMID": "0153E8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic049",
+      "FULL": "Se você já tem a arma, não entendo o que precisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E7",
+      "FORMID": "0153E7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic050",
+      "FULL": "Se tiver alguma arma que possa me dar, me passa, vou dar bom uso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E6",
+      "FORMID": "0153E6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic051",
+      "FULL": "Pelo amor de... Por favor. Parem. De brigar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E5",
+      "FORMID": "0153E5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic010",
+      "FULL": "Ah... obrigado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E4",
+      "FORMID": "0153E4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic011",
+      "FULL": "Essa coisa é bem legal. Tem um bagulho de onda sonora na parte de trás!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E3",
+      "FORMID": "0153E3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic012",
+      "FULL": "O que você estava dizendo sobre a disrupção do campo de força?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E2",
+      "FORMID": "0153E2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic003",
+      "FULL": "Espera... então essa arma que você me deu consegue desativar campos de força?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E1",
+      "FORMID": "0153E1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic004",
+      "FULL": "Isso só funciona nos campos aqui na cratera?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153E0",
+      "FORMID": "0153E0",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic005",
+      "FULL": "Eu não poderia me importar menos com tudo isso. Posso ir?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153DF",
+      "FORMID": "0153DF",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorBorousLVLTopic000",
+      "FULL": "Se não houver mais nada, preciso impedir Mobius."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153DC",
+      "FORMID": "0153DC",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic006",
+      "FULL": "Então eu não posso sair?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153DB",
+      "FORMID": "0153DB",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic007",
+      "FULL": "Tem um perímetro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153DA",
+      "FORMID": "0153DA",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic008",
+      "FULL": "Isso soa suspeitosamente como se eu não pudesse ir embora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153D9",
+      "FORMID": "0153D9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic046",
+      "FULL": "Ah, pode deixar que eu não vou adulterar nada, prometo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153D8",
+      "FORMID": "0153D8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic047",
+      "FULL": "Vou pegar essas maravilhas tecnológicas e ver o estrago que consigo fazer."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0153D7",
+      "FORMID": "0153D7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic009",
+      "FULL": "Por que você não vai lá e acaba com eles?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01537B",
+      "FORMID": "01537B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic003",
+      "FULL": "Qual o seu objetivo aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01537A",
+      "FORMID": "01537A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic004",
+      "FULL": "Você toca música?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015379",
+      "FORMID": "015379",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic005",
+      "FULL": "Falo com você mais tarde."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015378",
+      "FORMID": "015378",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic006",
+      "FULL": "Você parece bem relaxado para um motor de destruição."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015377",
+      "FORMID": "015377",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic007",
+      "FULL": "Você pode fazer algo assim para mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015376",
+      "FORMID": "015376",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic008",
+      "FULL": "Eu gostaria de falar sobre outra coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01533D",
+      "FORMID": "01533D",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic002",
+      "FULL": "Preciso que meu equipamento seja consertado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B79",
+      "FORMID": "014B79",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic002",
+      "FULL": "Oi, cachorrinho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B78",
+      "FORMID": "014B78",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic003",
+      "FULL": "Vá esperar na entrada. Bom garoto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B77",
+      "FORMID": "014B77",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic004",
+      "FULL": "Venha comigo, garota."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B76",
+      "FORMID": "014B76",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic005",
+      "FULL": "Por que diabos você está só parado aí?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B75",
+      "FORMID": "014B75",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic006",
+      "FULL": "Então se manda."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B74",
+      "FORMID": "014B74",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic007",
+      "FULL": "Eu te fiz. Você fica comigo. Entendeu?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B73",
+      "FORMID": "014B73",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic008",
+      "FULL": "O que você está fazendo, cão?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B72",
+      "FORMID": "014B72",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic009",
+      "FULL": "Vá esperar em outro lugar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B71",
+      "FORMID": "014B71",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic010",
+      "FULL": "Certo. Calcanhar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B70",
+      "FORMID": "014B70",
+      "EDID": "NVDLC03X8DogFollowerDialogueNVDLC03CrCyberDogX8ExperimentTopic012",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B6B",
+      "FORMID": "014B6B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic001",
+      "FULL": "Achei uma holofita para te melhorar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014AA8",
+      "FORMID": "014AA8",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic002",
+      "FULL": "Perdi meu Emissor Sônico. Você pode fazer outro para mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014996",
+      "FORMID": "014996",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic000",
+      "FULL": "Encontrei um holodisco para te aprimorar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014743",
+      "FORMID": "014743",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic017",
+      "FULL": "Pode me falar sobre seus Robo-Escorpiões?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014742",
+      "FORMID": "014742",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic018",
+      "FULL": "Você não parece agressivo. Por que anunciar ameaças ao Think Tank?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014741",
+      "FORMID": "014741",
+      "EDID": "MobiusConclusion",
+      "FULL": "Espera... parece que você construiu os Robo-Escorpiões e fez ameaças para manter o Think Tank ocupado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014731",
+      "FORMID": "014731",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic000",
+      "FULL": "Melhor assim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472F",
+      "FORMID": "01472F",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic002",
+      "FULL": "Chega. Vim aqui pra te matar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472E",
+      "FORMID": "01472E",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic003",
+      "FULL": "Ah... obrigado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472D",
+      "FORMID": "01472D",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic004",
+      "FULL": "Vou guardar para depois."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472C",
+      "FORMID": "01472C",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic005",
+      "FULL": "Sei lá, tô viajando legal agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472B",
+      "FORMID": "01472B",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic006",
+      "FULL": "Eu vou guardar, não quero misturar com álcool se puder evitar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01472A",
+      "FORMID": "01472A",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic007",
+      "FULL": "Que lacaios?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014729",
+      "FORMID": "014729",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic008",
+      "FULL": "Vou detoná-los como detonei aquela sua tranqueira gigante lá embaixo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014728",
+      "FORMID": "014728",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic009",
+      "FULL": "Do jeito que você quiser morrer serve pra mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014727",
+      "FORMID": "014727",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic010",
+      "FULL": "Você não é exatamente o que eu esperava."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014726",
+      "FORMID": "014726",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic011",
+      "FULL": "Preciso do meu cérebro de volta."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014725",
+      "FORMID": "014725",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic012",
+      "FULL": "Por que você roubou meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014724",
+      "FORMID": "014724",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic013",
+      "FULL": "Exato. Eu quero meu cérebro para poder ir embora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014723",
+      "FORMID": "014723",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic014",
+      "FULL": "Por que isso seria um problema?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014722",
+      "FORMID": "014722",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic015",
+      "FULL": "Mas eu quero partir."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014721",
+      "FORMID": "014721",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic016",
+      "FULL": "Eu estava curioso sobre algumas coisas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01432D",
+      "FORMID": "01432D",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic000",
+      "FULL": "Tudo aqui parece perigoso. Esses dispositivos parecem perigosos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01432C",
+      "FORMID": "01432C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic038",
+      "FULL": "Esquece isso. Cadê a saída?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01432B",
+      "FORMID": "01432B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic039",
+      "FULL": "Quanto mais rápido eu terminar com isso, melhor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01432A",
+      "FORMID": "01432A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic040",
+      "FULL": "Confie em mim, quero acabar logo com isso o mais rápido possível."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014329",
+      "FORMID": "014329",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic041",
+      "FULL": "E se eu não tiver pressa e explorar a cratera?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014328",
+      "FORMID": "014328",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic000",
+      "FULL": "Acho melhor eu começar a andar, então."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014327",
+      "FORMID": "014327",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic001",
+      "FULL": "Não parece ser a minha praia. Talvez eu explore um pouco."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014326",
+      "FORMID": "014326",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic002",
+      "FULL": "Então, pode me ajudar a fazer isso o mais rápido possível? Parece que vou ter que andar pra caralho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014325",
+      "FORMID": "014325",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic003",
+      "FULL": "Pilones? Que pilones?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014324",
+      "FORMID": "014324",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic004",
+      "FULL": "Ah... que bom. Não quero mais ouvir falar sobre isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014323",
+      "FORMID": "014323",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic005",
+      "FULL": "Pode se apressar, por favor? Tenho um cronograma."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014322",
+      "FORMID": "014322",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic042",
+      "FULL": "Pode me dizer mais sobre esses pilares?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01430B",
+      "FORMID": "01430B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic005",
+      "FULL": "Achei uns discos de melhoria pra você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01430A",
+      "FORMID": "01430A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic012",
+      "FULL": "Eu achei aquele disco de aprimoramento que você estava procurando."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D6F",
+      "FORMID": "013D6F",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic010",
+      "FULL": "Eu achei um arquivo de backup para o seu módulo corroído."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D6E",
+      "FORMID": "013D6E",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic011",
+      "FULL": "Você fabricou algum componente eletrônico?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013D6D",
+      "FORMID": "013D6D",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic001",
+      "FULL": "Eu quero recalibrar o Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0137DA",
+      "FORMID": "0137DA",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkJukeboxTalkerTopic000",
+      "FULL": "Eu achei um arquivo de áudio para você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013582",
+      "FORMID": "013582",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic009",
+      "FULL": "Eu achei uma cópia de segurança do seu... processador de lápis."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01357C",
+      "FORMID": "01357C",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic008",
+      "FULL": "Eu achei uma cópia de segurança do seu... processador de lápis."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013550",
+      "FORMID": "013550",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic017",
+      "FULL": "< Nó de Tópico de Depuração - Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354F",
+      "FORMID": "01354F",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic027",
+      "FULL": "Você disse algo sobre precisar de tecnologias para deter Mobius?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354E",
+      "FORMID": "01354E",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic028",
+      "FULL": "Primeiro, você tira meu cérebro, agora quer que eu salve você?!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354D",
+      "FORMID": "01354D",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic029",
+      "FULL": "Não, não vou te ajudar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354C",
+      "FORMID": "01354C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic030",
+      "FULL": "Por que eu? Não pode fazer isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354B",
+      "FORMID": "01354B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic031",
+      "FULL": "Eu ajudo. O que precisa que eu faça?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01354A",
+      "FORMID": "01354A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic032",
+      "FULL": "\"Não?\" Por que não?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013549",
+      "FORMID": "013549",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic033",
+      "FULL": "Esquece, não vou te ajudar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013548",
+      "FORMID": "013548",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic034",
+      "FULL": "Eu posso dizer \"não\", e vou dizer de novo. Estou indo embora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013547",
+      "FORMID": "013547",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic035",
+      "FULL": "O que te faz ter tanta certeza de que Mobius tem meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013546",
+      "FORMID": "013546",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic036",
+      "FULL": "Como diabos eu estou falando com você agora?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013545",
+      "FORMID": "013545",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic037",
+      "FULL": "Chega, esquece isso. Não vou te ajudar até ter meu cérebro de volta."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013544",
+      "FORMID": "013544",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic001",
+      "FULL": "Que tecnologias são essas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013543",
+      "FORMID": "013543",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic002",
+      "FULL": "Eu vou indo, então, e volto com essas... coisas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01352A",
+      "FORMID": "01352A",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic001",
+      "FULL": "Acho que você quis dizer \"impossível\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013529",
+      "FORMID": "013529",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic002",
+      "FULL": "Queria falar com você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013528",
+      "FORMID": "013528",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic003",
+      "FULL": "O quê, meu Pip-Boy?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013527",
+      "FORMID": "013527",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic004",
+      "FULL": "Algum problema com a RobCo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013526",
+      "FORMID": "013526",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic005",
+      "FULL": "Agenda? Eu não tenho agenda nenhuma, não com a RobCo, de qualquer forma."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013525",
+      "FORMID": "013525",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic006",
+      "FULL": "Calma. Só queria fazer umas perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013524",
+      "FORMID": "013524",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic007",
+      "FULL": "O que você faz aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013523",
+      "FORMID": "013523",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic008",
+      "FULL": "Você tem outro nome?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013522",
+      "FORMID": "013522",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic009",
+      "FULL": "Me fale sobre Mobius e esses monstros dele."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013521",
+      "FORMID": "013521",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic010",
+      "FULL": "Você pode me falar sobre esta instalação?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013520",
+      "FORMID": "013520",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic011",
+      "FULL": "Ouvi dizer que você e o 8 foram atacados por visitantes anteriores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351F",
+      "FORMID": "01351F",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic012",
+      "FULL": "Um Escorpião-robô Gigante?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351E",
+      "FORMID": "01351E",
+      "EDID": "DoctorOQuestionTopic",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351D",
+      "FORMID": "01351D",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic013",
+      "FULL": "Isso não soa impressionante - quebrar máquinas, isso sim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351C",
+      "FORMID": "01351C",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic014",
+      "FULL": "Me diga o que aconteceu."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351B",
+      "FORMID": "01351B",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic015",
+      "FULL": "Quem eram os outros?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01351A",
+      "FORMID": "01351A",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic016",
+      "FULL": "Por que isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013507",
+      "FORMID": "013507",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic000",
+      "FULL": "Animal? Acabou de me chamar de animal?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013506",
+      "FORMID": "013506",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic001",
+      "FULL": "Você sempre fica tão dramático?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013505",
+      "FORMID": "013505",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic002",
+      "FULL": "Calma. Eu só tenho algumas perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013504",
+      "FORMID": "013504",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic003",
+      "FULL": "Quem é você? O que faz aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013502",
+      "FORMID": "013502",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic005",
+      "FULL": "Quero saber mais sobre Mobius e a Zona Proibida."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013501",
+      "FORMID": "013501",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic006",
+      "FULL": "Por que Klein quer essas tecnologias em específico?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013500",
+      "FORMID": "013500",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic007",
+      "FULL": "Pode me contar sobre o Big Empty?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134FF",
+      "FORMID": "0134FF",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic008",
+      "FULL": "Pode me falar sobre a Grand... err, Grande Montanha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134FE",
+      "FORMID": "0134FE",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic009",
+      "FULL": "Você é responsável pelos Cazadores?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134FD",
+      "FORMID": "0134FD",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic010",
+      "FULL": "Perseguidor Noturnos? Aquelas coisas malucas de coiote-cobra...?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134FB",
+      "FORMID": "0134FB",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic012",
+      "FULL": "Contidas em Grande Montanha? Essas coisas estão por toda a Mojave!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134FA",
+      "FORMID": "0134FA",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic013",
+      "FULL": "O que te faz pensar que eles não escaparam?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134F9",
+      "FORMID": "0134F9",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic014",
+      "FULL": "Acho que não são estéreis, eles procriam, com certeza."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134F8",
+      "FORMID": "0134F8",
+      "EDID": "BorousQuestionTopic",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134F7",
+      "FORMID": "0134F7",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic015",
+      "FULL": "Não, tudo bem, confie em mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134F6",
+      "FORMID": "0134F6",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic016",
+      "FULL": "Vai em frente, quem sabe você me deixa mais fértil ou me engravida."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134EA",
+      "FORMID": "0134EA",
+      "EDID": "KleinQuestionTopic",
+      "FULL": "Eu tenho outras perguntas para você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E9",
+      "FORMID": "0134E9",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic018",
+      "FULL": "Quem é o Dr. Mobius?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E8",
+      "FORMID": "0134E8",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic019",
+      "FULL": "Por que eu tenho essa sensação estranha... passiva aqui dentro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E7",
+      "FORMID": "0134E7",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic020",
+      "FULL": "Que lugar é este?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E6",
+      "FORMID": "0134E6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic021",
+      "FULL": "Gostaria de saber sobre a Zona Proibida."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E5",
+      "FORMID": "0134E5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic022",
+      "FULL": "Você parece ser o responsável. Quem é você?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E4",
+      "FORMID": "0134E4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic023",
+      "FULL": "Por que a programação anti-agressão?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E3",
+      "FORMID": "0134E3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic024",
+      "FULL": "Mas eu gosto de brigar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E2",
+      "FORMID": "0134E2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic025",
+      "FULL": "Quem eram esses visitantes?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134E1",
+      "FORMID": "0134E1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic026",
+      "FULL": "Já ouvi falar desse lugar chamado \"Big Empty\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134DC",
+      "FORMID": "0134DC",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic016",
+      "FULL": "Para não cortar sua fala... tem alguma coisa chegando no monitorzão?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B6",
+      "FORMID": "0134B6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic001",
+      "FULL": "Como vocês todos estão falando por essa caixa de voz?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B5",
+      "FORMID": "0134B5",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic002",
+      "FULL": "Eu... estava num teatro, então... eu estava aqui. Que lugar é este?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B4",
+      "FORMID": "0134B4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic003",
+      "FULL": "São vocês que fizeram essa cirurgia em mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B3",
+      "FORMID": "0134B3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic004",
+      "FULL": "Do que você está falando?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B2",
+      "FORMID": "0134B2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic005",
+      "FULL": "Eu acordo aqui, todo retalhado, e quero umas respostas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B1",
+      "FORMID": "0134B1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic006",
+      "FULL": "Lobotomizado?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134B0",
+      "FORMID": "0134B0",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic007",
+      "FULL": "Escuta, eu quero saber como eu cheguei aqui... e como eu volto pra casa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134AE",
+      "FORMID": "0134AE",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic009",
+      "FULL": "Estou a segundos de quebrar seus monitores."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134AD",
+      "FORMID": "0134AD",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic010",
+      "FULL": "Sim. Estou supondo que aquele satélite que caiu era seu?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134AC",
+      "FORMID": "0134AC",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic011",
+      "FULL": "Quem são vocês e que lugar é este?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0134AB",
+      "FORMID": "0134AB",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic012",
+      "FULL": "Por que eu me sinto... passivo? Eu devia estar puto - muito puto, e não estou."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013220",
+      "FORMID": "013220",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic056",
+      "FULL": "Então, se eu não colocar meu cérebro de volta na minha cabeça, não posso ir embora nunca?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01321D",
+      "FORMID": "01321D",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic087",
+      "FULL": "< Não Traduzir - Tópicos Expositórios do Cérebro do Jogador>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013216",
+      "FORMID": "013216",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic000",
+      "FULL": "E-eu... quer dizer, eu, ofereço um ACORDO. Fiquem AQUI. Fiquem PARADOS, e ele vai... eu vou deixar vocês VIVEREM."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013215",
+      "FORMID": "013215",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic083",
+      "FULL": "Eu VOU deixar você fazer isso. Para MIM."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D53",
+      "FORMID": "012D53",
+      "EDID": "NVDLC03DialoguePlayerBrainNVDLC03BrainTankTopic000",
+      "FULL": "Beleza, temos um acordo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012D02",
+      "FORMID": "012D02",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic055",
+      "FULL": "Uma boa martelada pode resolver seu problema com o monitor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012CDD",
+      "FORMID": "012CDD",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic041",
+      "FULL": "Eu encontrei seu \"bichinho\" em X-8."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012CD8",
+      "FORMID": "012CD8",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic042",
+      "FULL": "Encontrei seu \"bichinho\" em X-8 e tive que matá-lo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012CB0",
+      "FORMID": "012CB0",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic042",
+      "FULL": "Bem, não precisa mais se preocupar com o Sr. House."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012CAF",
+      "FORMID": "012CAF",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic043",
+      "FULL": "Não acho que vou te preocupar contando o que House e seus robôs andaram aprontando desde então."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C9C",
+      "FORMID": "012C9C",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic009",
+      "FULL": "Não é sempre que encontro um interruptor com cérebro e beleza. Acho que vou gostar daqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C9B",
+      "FORMID": "012C9B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic010",
+      "FULL": "Eu gostaria disso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C9A",
+      "FORMID": "012C9A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic011",
+      "FULL": "Por que esperar? Posso falar sobre teoremas agora mesmo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C99",
+      "FORMID": "012C99",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch01TalkerTopic012",
+      "FULL": "Talvez. Eu aviso você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C98",
+      "FORMID": "012C98",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic013",
+      "FULL": "Um interruptor que me excita? Devo estar sonhando."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C97",
+      "FORMID": "012C97",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic014",
+      "FULL": "Só as gostosas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C96",
+      "FORMID": "012C96",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic015",
+      "FULL": "Nunca. Sou todinho seu, meu bem."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C95",
+      "FORMID": "012C95",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkLightSwitch02TalkerTopic016",
+      "FULL": "Você tem razão. Tenho sim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C94",
+      "FORMID": "012C94",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic003",
+      "FULL": "Estou pronto, vamos nessa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012C93",
+      "FORMID": "012C93",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic006",
+      "FULL": "Pensando bem, agora não."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DF",
+      "FORMID": "0128DF",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic004",
+      "FULL": "Por que existem tantos módulos de personalidade?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DE",
+      "FORMID": "0128DE",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic007",
+      "FULL": "Você consegue fazer mais alguma coisa além de processar livros?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DD",
+      "FORMID": "0128DD",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic000",
+      "FULL": "Canecas? Por que você quer canecas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DC",
+      "FORMID": "0128DC",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic001",
+      "FULL": "Quem é você?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DB",
+      "FORMID": "0128DB",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic002",
+      "FULL": "Aqui, pegue o que quiser."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128DA",
+      "FORMID": "0128DA",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic003",
+      "FULL": "Desculpe, não tenho nenhum."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D9",
+      "FORMID": "0128D9",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic004",
+      "FULL": "Tenho que ir."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D8",
+      "FORMID": "0128D8",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic013",
+      "FULL": "Não preciso de mais nada. Adeus."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D7",
+      "FORMID": "0128D7",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic005",
+      "FULL": "Você parece bem obcecado por canecas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D6",
+      "FORMID": "0128D6",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic006",
+      "FULL": "O que você faz com as canecas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D5",
+      "FORMID": "0128D5",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic000",
+      "FULL": "Treme? Você é uma torradeira. Quão temível você pode ser?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D4",
+      "FORMID": "0128D4",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic001",
+      "FULL": "Quase tenho medo de perguntar qual é a sua função."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D2",
+      "FORMID": "0128D2",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic003",
+      "FULL": "Preciso ir agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D1",
+      "FORMID": "0128D1",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic007",
+      "FULL": "Vamos mudar de assunto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128D0",
+      "FORMID": "0128D0",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic004",
+      "FULL": "Bem, eu, por um, estou tremendo na base."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128CF",
+      "FORMID": "0128CF",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic005",
+      "FULL": "Por que tanta fúria?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128CD",
+      "FORMID": "0128CD",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03MuggyTopic009",
+      "FULL": "Você pode fazer mais alguma coisa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128CC",
+      "FORMID": "0128CC",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic007",
+      "FULL": "Gostaria de mudar de assunto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128CB",
+      "FORMID": "0128CB",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic008",
+      "FULL": "Então você assassina torradeiras?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128CA",
+      "FORMID": "0128CA",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic009",
+      "FULL": "O que mais você faz?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C9",
+      "FORMID": "0128C9",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic010",
+      "FULL": "Quer dizer tipo este aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C8",
+      "FORMID": "0128C8",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic011",
+      "FULL": "Ficarei de olho em qualquer Punho Energético de Saturnita, então."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C7",
+      "FORMID": "0128C7",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic012",
+      "FULL": "Tenho umas torradeiras para você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C6",
+      "FORMID": "0128C6",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic013",
+      "FULL": "Você sabe que o mundo já foi queimado em fogo nuclear, certo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C5",
+      "FORMID": "0128C5",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic014",
+      "FULL": "Deixa pra lá. Tenho coisas mais importantes para perguntar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C4",
+      "FORMID": "0128C4",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic015",
+      "FULL": "Sim. Há alguns séculos, na verdade."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0128C3",
+      "FORMID": "0128C3",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkToasterTalkerTopic016",
+      "FULL": "<Mentira> Não, estou só zoando. Continue vivendo o sonho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012509",
+      "FORMID": "012509",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic082",
+      "FULL": "Talvez você devesse consultar seus colegas primeiro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124F4",
+      "FORMID": "0124F4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic079",
+      "FULL": "Pelo que me parece, sua matemática está errada... e as chances não são boas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124F3",
+      "FORMID": "0124F3",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic080",
+      "FULL": "Não é uma democracia, é um centro de pesquisa. E mais da metade dos seus colegas discordam das suas descobertas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124E4",
+      "FORMID": "0124E4",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic081",
+      "FULL": "Eu topo. É o seguinte. Eu não vou me render, você que vai."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124C2",
+      "FORMID": "0124C2",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic077",
+      "FULL": "Eu queria saber mais sobre o Think Tank."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124C1",
+      "FORMID": "0124C1",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic078",
+      "FULL": "Eu estava interessado em ouvir mais sobre a... ciência... que os outros... fazem. Aqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124B8",
+      "FORMID": "0124B8",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic040",
+      "FULL": "O que você e Klein disseram antes sobre as funções de troca da Unidade Central de Inteligência?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124B0",
+      "FORMID": "0124B0",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic041",
+      "FULL": "Preciso de mais daquelas tampinhas inúteis para testar as funções de barganha da CIU lá em cima."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01247F",
+      "FORMID": "01247F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic102",
+      "FULL": "Hum... tem algo pra me ajudar a \"matar\" o \"tempo\"?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012477",
+      "FORMID": "012477",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic104",
+      "FULL": "Você sabe... sonjacular."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012476",
+      "FORMID": "012476",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic118",
+      "FULL": "Por favor, não me faça desenhar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012475",
+      "FORMID": "012475",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic121",
+      "FULL": "Quer dizer, literalmente, tem alguma coisa pra me ajudar a passar o tempo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012474",
+      "FORMID": "012474",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic122",
+      "FULL": "Tem alguma coisa para mim? Deixa eu ver."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012473",
+      "FORMID": "012473",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic123",
+      "FULL": "Bom te ver também, 8. Alguma descoberta nova hoje?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012462",
+      "FORMID": "012462",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic026",
+      "FULL": "Então... \"O\", fez alguma descoberta incrível para compartilhar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012461",
+      "FORMID": "012461",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic030",
+      "FULL": "Então... \"Zero\", fez alguma descoberta incrível para compartilhar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012460",
+      "FORMID": "012460",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic036",
+      "FULL": "< Nó de Armazenamento. Não Traduzir. >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012455",
+      "FORMID": "012455",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic037",
+      "FULL": "Parece lixo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012454",
+      "FORMID": "012454",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic038",
+      "FULL": "Essa sucata de metal é pra ser alguma coisa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012453",
+      "FORMID": "012453",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic039",
+      "FULL": "Com certeza é... interessante. Seja lá o que isso já foi."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012390",
+      "FORMID": "012390",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic035",
+      "FULL": "Operou algum animal coitado recentemente às cegas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01238F",
+      "FORMID": "01238F",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic040",
+      "FULL": "Ajudou algum animal a descobrir seu potencial genético ultimamente?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01236B",
+      "FORMID": "01236B",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic023",
+      "FULL": "{Burlado}Me parece que você tem mais... necessidades biológicas do que seus equivalentes."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012367",
+      "FORMID": "012367",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic029",
+      "FULL": "Me parece que você tem mais... necessidades biológicas do que seus equivalentes."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012366",
+      "FORMID": "012366",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic030",
+      "FULL": "Você parece... estar... me encarando muito."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012365",
+      "FORMID": "012365",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic031",
+      "FULL": "<Feche as pálpebras, respire fundo e então se espreguice languidamente.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012364",
+      "FORMID": "012364",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic032",
+      "FULL": "<Vira-se e tosse forte, então coça o nariz lentamente.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012363",
+      "FORMID": "012363",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic033",
+      "FULL": "<Passe as mãos pelos lados do rosto e expire rapidamente.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012362",
+      "FORMID": "012362",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic034",
+      "FULL": "Por que você simplesmente não cede? Não há nada de errado em admirar o corpo humano."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012361",
+      "FORMID": "012361",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic035",
+      "FULL": "Vocês são todos um bando de hipócritas. Se acham superiores, mas sentem falta de ser humanos, admitam."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01235E",
+      "FORMID": "01235E",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic036",
+      "FULL": "Eu poderia voltar a qualquer hora e só respirar, se você quiser."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01235D",
+      "FORMID": "01235D",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic037",
+      "FULL": "Eu conto para os outros se não valer a pena."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01235C",
+      "FORMID": "01235C",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic038",
+      "FULL": "Na verdade, eu estou aqui para... respirar um pouco."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01235B",
+      "FORMID": "01235B",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic039",
+      "FULL": "Um gesto repetitivo de extorsão, talvez. Largue a grana."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012359",
+      "FORMID": "012359",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic040",
+      "FULL": "Eu tenho um ursinho de pelúcia de verdade, se você quiser."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012358",
+      "FORMID": "012358",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic041",
+      "FULL": "Bem, achei que você gostasse deles. Você vive falando neles."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012357",
+      "FORMID": "012357",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic042",
+      "FULL": "Tem certeza de que suas palavras não estão embaralhadas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012356",
+      "FORMID": "012356",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic043",
+      "FULL": "Você está me confundindo completamente agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012355",
+      "FORMID": "012355",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic044",
+      "FULL": "Hum... então você confunde ursos de brinquedo com... humanos?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012354",
+      "FORMID": "012354",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic045",
+      "FULL": "Sabe, já trilhamos esse caminho antes. Seguindo em frente."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA8",
+      "FORMID": "011DA8",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic003",
+      "FULL": "Então você faz livros em branco? Qual é a utilidade disso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA7",
+      "FORMID": "011DA7",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic004",
+      "FULL": "Mas esses livros são nosso último legado da época antes! Não pode destruí-los!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA6",
+      "FORMID": "011DA6",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic005",
+      "FULL": "Livros em branco, hein? É, acho que posso dar um jeito neles."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA5",
+      "FORMID": "011DA5",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic006",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA4",
+      "FORMID": "011DA4",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic000",
+      "FULL": "\"Senhor?\" Você sabe que sou uma mulher, certo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA3",
+      "FORMID": "011DA3",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic001",
+      "FULL": "Você é algum tipo de Inteligência Artificial?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA1",
+      "FORMID": "011DA1",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic003",
+      "FULL": "Que serviços você oferece?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011DA0",
+      "FORMID": "011DA0",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic005",
+      "FULL": "Quer dizer que existem outros... módulos de personalidade aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9F",
+      "FORMID": "011D9F",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic006",
+      "FULL": "Por que isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9E",
+      "FORMID": "011D9E",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic007",
+      "FULL": "Então posso acessar as funções deles sem carregar as holofitas de personalidade?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9D",
+      "FORMID": "011D9D",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic008",
+      "FULL": "Deixa pra lá, deixe-me perguntar outra coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9C",
+      "FORMID": "011D9C",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic009",
+      "FULL": "Eu gostaria de comprar algumas coisas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9B",
+      "FORMID": "011D9B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic010",
+      "FULL": "Ligue as matrizes de personalidade da Pia."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D9A",
+      "FORMID": "011D9A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic011",
+      "FULL": "Desligue as matrizes de personalidade do Sink."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D99",
+      "FORMID": "011D99",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkMainComputerTalkerTopic012",
+      "FULL": "Tenho alguns holodiscos de personalidade para instalar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011D98",
+      "FORMID": "011D98",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic004",
+      "FULL": "Estou me sentindo meio maluco. Pode fazer uma avaliação psiquiátrica em mim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01193E",
+      "FORMID": "01193E",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic023",
+      "FULL": "Essa é a tigela do Gabe? Seu cachorro da X-8, Gabe?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01193D",
+      "FORMID": "01193D",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic032",
+      "FULL": "Essa tigela de cachorro parece familiar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01193C",
+      "FORMID": "01193C",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic033",
+      "FULL": "Hum... talvez seja tipo uma lembrança ou algo assim?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011937",
+      "FORMID": "011937",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic034",
+      "FULL": "Bem, me parece que pertence a um amigo seu."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011936",
+      "FORMID": "011936",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic036",
+      "FULL": "< Teste de Nó: Não Traduzir >"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011935",
+      "FORMID": "011935",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic037",
+      "FULL": "Pelo que me parece, você machucou alguém que te amava muito."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011932",
+      "FORMID": "011932",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic038",
+      "FULL": "Não há nada para se envergonhar. Gabe sabia qual era o seu lugar: como um espécime."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01192F",
+      "FORMID": "01192F",
+      "EDID": "NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic039",
+      "FULL": "Espero que pense no que fez."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01192A",
+      "FORMID": "01192A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic069",
+      "FULL": "Tenho algumas perguntas para você primeiro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118EC",
+      "FORMID": "0118EC",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic017",
+      "FULL": "Falar sobre as coisas que te incomodam, bem, pode ajudar ou algo assim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118D2",
+      "FORMID": "0118D2",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic018",
+      "FULL": "Não entendo. O quê, acharam que sua carta era um número?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118D0",
+      "FORMID": "0118D0",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic019",
+      "FULL": "Não sei. \"O\" soa mais impressionante."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118C6",
+      "FORMID": "0118C6",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic020",
+      "FULL": "Isso... não é uma grande melhora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118BF",
+      "FORMID": "0118BF",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic021",
+      "FULL": "Tudo bem, então você quer que eu te chame de Zero, ou...?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0118BD",
+      "FORMID": "0118BD",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic022",
+      "FULL": "Bem, Zero e \"O\" se parecem muito, não tem como notar a diferença."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117EF",
+      "FORMID": "0117EF",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic023",
+      "FULL": "\"Zero.\" Passe um traço por ele."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117EE",
+      "FORMID": "0117EE",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic024",
+      "FULL": "É um código termlink padrão para distinguir os dois."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117ED",
+      "FORMID": "0117ED",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic025",
+      "FULL": "Você está realmente confuso com isso ou está me zoando?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117EA",
+      "FORMID": "0117EA",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic027",
+      "FULL": "Quero falar com você sobre seu nome."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117E7",
+      "FORMID": "0117E7",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic028",
+      "FULL": "E é isso que faz de você um zero de verdade."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117E6",
+      "FORMID": "0117E6",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic029",
+      "FULL": "Então é isso que você quer ser?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0117D5",
+      "FORMID": "0117D5",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic031",
+      "FULL": "Ou talvez queira continuar com \"O\". Tipo, o \"Oh!\" da descoberta."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0116E7",
+      "FORMID": "0116E7",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic032",
+      "FULL": "Bem, há poder no zero. Ele reduz qualquer coisa multiplicada por ele... a zero."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0116E6",
+      "FORMID": "0116E6",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic033",
+      "FULL": "Talvez devesse deixar os nomes de lado e focar nas conquistas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0116BD",
+      "FORMID": "0116BD",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic034",
+      "FULL": "Não faço ideia de como vocês, seus incompetentes, sobreviveram por tanto tempo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0116BC",
+      "FORMID": "0116BC",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic035",
+      "FULL": "Bem, há poder no zero. Ele reduz qualquer coisa multiplicada por ele... a zero."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011541",
+      "FORMID": "011541",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic079",
+      "FULL": "Calma. Não pretendo hackear seu módulo de voz desta vez."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011540",
+      "FORMID": "011540",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic087",
+      "FULL": "Agora que nos conhecemos melhor, pode me falar sobre o Emissor Sônico?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153F",
+      "FORMID": "01153F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic088",
+      "FULL": "Sério? Hum."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153E",
+      "FORMID": "01153E",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic093",
+      "FULL": "Sim, eu já entendi essa parte."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153D",
+      "FORMID": "01153D",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic094",
+      "FULL": "Bem, \"projeto\" é meio evidente. \"Emissor\" funciona melhor."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153C",
+      "FORMID": "01153C",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic095",
+      "FULL": "Vila do Higgs? Pode indicar no meu Pip-Boy?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153B",
+      "FORMID": "01153B",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic096",
+      "FULL": "Não, eu já estive lá. Vila Higgs, certo? Sua casa fica lá?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01153A",
+      "FORMID": "01153A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic097",
+      "FULL": "Isso parece interessante. Claro, umas direções seriam ótimas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011539",
+      "FORMID": "011539",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic098",
+      "FULL": "Bem, eu não roubei seu lugar, mas é aquele hangar enorme no meio da Cratera, então..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011538",
+      "FORMID": "011538",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic099",
+      "FULL": "Então sua casa é ali?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011537",
+      "FORMID": "011537",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic100",
+      "FULL": "Bem, o quê? Quer que eu roube sua casa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011536",
+      "FORMID": "011536",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic101",
+      "FULL": "Então tem um código de emissor na sua casa em Higgs?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011535",
+      "FORMID": "011535",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic103",
+      "FULL": "Ah, dois códigos. Um para a jukebox e outro para a ópera. Legal. Vou ficar de olho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011534",
+      "FORMID": "011534",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic105",
+      "FULL": "Espera, quantos? Um... ou...?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011533",
+      "FORMID": "011533",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic106",
+      "FULL": "Fã de ópera, hein? Beleza, o jukebox foi instalado no Sink, entendido."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011532",
+      "FORMID": "011532",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic107",
+      "FULL": "Não, já anotei tudo, valeu."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011531",
+      "FORMID": "011531",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic108",
+      "FULL": "Eu posso já ter pegado os dois. Eu pego quase tudo que não está pregado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011530",
+      "FORMID": "011530",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic109",
+      "FULL": "Eu aprimorei o Emissor ao máximo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152F",
+      "FORMID": "01152F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic110",
+      "FULL": "Eu também estou feliz. Não posso deixar essa coisa juntar poeira."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152E",
+      "FORMID": "01152E",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic111",
+      "FULL": "É um pouco lento para disparar, mas a frequência de desativação do campo de força é prática."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152D",
+      "FORMID": "01152D",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic112",
+      "FULL": "Que pena que a disrupção do campo de força só funciona aqui."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152C",
+      "FORMID": "01152C",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic113",
+      "FULL": "Você está bem? Você parece... muito feliz."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152B",
+      "FORMID": "01152B",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic114",
+      "FULL": "Você está me dando um pouco de medo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01152A",
+      "FORMID": "01152A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic115",
+      "FULL": "Algo errado? Seus monitores estão ficando todos borrados."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011529",
+      "FORMID": "011529",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic116",
+      "FULL": "Você deveria estar orgulhoso. É um dispositivo bacana."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011528",
+      "FORMID": "011528",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic117",
+      "FULL": "Tudo bem, tudo bem, não fique tão feliz em vê-lo funcionando a toda capacidade."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011527",
+      "FORMID": "011527",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic119",
+      "FULL": "Ah... ei, obrigado. Não quero que acabe, você tem razão."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011526",
+      "FORMID": "011526",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic120",
+      "FULL": "Ótimo. Mais células de energia. Era só o que me faltava."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011523",
+      "FORMID": "011523",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic054",
+      "FULL": "Pode me dar um Mentat?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011473",
+      "FORMID": "011473",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic060",
+      "FULL": "Hum, sobre quando eu cheguei. Diga que você não transou no... meu... Emissor Sônico."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011472",
+      "FORMID": "011472",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic061",
+      "FULL": "Como você ligou o Emissor Sônico quando eu cheguei de novo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011471",
+      "FORMID": "011471",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic062",
+      "FULL": "Bem, tinha que haver outro jeito de ligar a porra dessa coisa. Podemos ao menos conversar sobre isso na próxima vez?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011470",
+      "FORMID": "011470",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic063",
+      "FULL": "Não precisa ficar com vergonha, é que é melhor manter essas coisas em particular, sabe?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146F",
+      "FORMID": "01146F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic064",
+      "FULL": "Eu geralmente só pego uma célula de fusão e oscilo a carga dela, vibra por tipo, uma hora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146E",
+      "FORMID": "01146E",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic065",
+      "FULL": "Normalmente, consigo achar um pouco de Cram por aí. Boto um pouco de fita isolante na tampa e pronto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146D",
+      "FORMID": "01146D",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic066",
+      "FULL": "Quanto menos se falar sobre isso, melhor. Vamos seguir em frente e esquecer."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146C",
+      "FORMID": "01146C",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic067",
+      "FULL": "Hum... se você estiver falando essa parada de código, eu posso te invadir, certo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146B",
+      "FORMID": "01146B",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic068",
+      "FULL": "Se isso é código termlink, não se preocupe, não vou me aproveitar do seu código exposto."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01146A",
+      "FORMID": "01146A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic069",
+      "FULL": "Vai levar só um segundo para violar seus direitos e fazer sua voz ser minha."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011469",
+      "FORMID": "011469",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic070",
+      "FULL": "Sem problema. Sei como é ser cobaia."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011468",
+      "FORMID": "011468",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic071",
+      "FULL": "Tá bom, tá bom, pare de sorrir, seu idiota."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011467",
+      "FORMID": "011467",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic072",
+      "FULL": "Olha, não me faça me arrepender disso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011466",
+      "FORMID": "011466",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic073",
+      "FULL": "Tudo bem. Deixe-me ver o que você tem. Vou pegar estas Células de Energia..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011448",
+      "FORMID": "011448",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic074",
+      "FULL": "E umas Células de Microfusão..."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011431",
+      "FORMID": "011431",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic075",
+      "FULL": "Agora, destranque seu quarto, eu quero o que tem lá dentro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011413",
+      "FORMID": "011413",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic076",
+      "FULL": "E, por último, se eu precisar que você concorde cegamente comigo, você concordará. Entendido?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011412",
+      "FORMID": "011412",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic077",
+      "FULL": "Eu sei que não vai funcionar nos protocolos de ataque. Mesmo assim, talvez eu precise de alguém do meu lado em um debate."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01140F",
+      "FORMID": "01140F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic078",
+      "FULL": "Você não tem muita escolha. E obrigado pelos equipamentos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113FB",
+      "FORMID": "0113FB",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic080",
+      "FULL": "Não entendi. Talvez seja por causa dos estragos?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113FA",
+      "FORMID": "0113FA",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic081",
+      "FULL": "Não... tenho certeza. Do que você quis dizer."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F9",
+      "FORMID": "0113F9",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic082",
+      "FULL": "Isso é perda de tempo, esquece."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F8",
+      "FORMID": "0113F8",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic083",
+      "FULL": "Então um dos visitantes não o danificou, ele o reprogramou."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F7",
+      "FORMID": "0113F7",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic084",
+      "FULL": "E quem assumiu o controle dos trens? Antes de vocês desligarem tudo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F6",
+      "FORMID": "0113F6",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic085",
+      "FULL": "Não me admira que vocês estejam tão ariscos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F5",
+      "FORMID": "0113F5",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic086",
+      "FULL": "Tipo, uh, eu jamais machucaria você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F4",
+      "FORMID": "0113F4",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic089",
+      "FULL": "Está bem, está bem. Não precisa bancar o bonzinho e o sentimental."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113F1",
+      "FORMID": "0113F1",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic090",
+      "FULL": "Tá, tá. Podemos seguir em frente?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113EF",
+      "FORMID": "0113EF",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic091",
+      "FULL": "Hum... tudo bem."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113EE",
+      "FORMID": "0113EE",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic092",
+      "FULL": "Você não pareceu muito convencido ali."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113CE",
+      "FORMID": "0113CE",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic051",
+      "FULL": "Heh-heh, boa piada com a referência ao arquivo de cabeçalho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113C3",
+      "FORMID": "0113C3",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic052",
+      "FULL": "Bem, o código tem uns problemas, não discuto isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113C2",
+      "FORMID": "0113C2",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic053",
+      "FULL": "Hum... acabei de perceber que estou entendendo você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113C1",
+      "FORMID": "0113C1",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic054",
+      "FULL": "Bem, toda vida é feita de padrões, você só precisa deixar o inconsciente processá-los."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113BF",
+      "FORMID": "0113BF",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic055",
+      "FULL": "Não querendo me gabar, mas eu sempre fui mais perspicaz que todo mundo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113BC",
+      "FORMID": "0113BC",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic056",
+      "FULL": "Seu módulo de voz danificado... pode me contar sobre o ataque?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113BB",
+      "FORMID": "0113BB",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic057",
+      "FULL": "Então, seu padrão de transmissão é termlink RobCo, mas não por escolha."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113BA",
+      "FORMID": "0113BA",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic058",
+      "FULL": "Não, não, eu entendo que é difícil aprender uma língua nova."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113B9",
+      "FORMID": "0113B9",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic059",
+      "FULL": "Concordo. Se alguém se desse ao trabalho, você é mais do que só efeitos sonoros num tanque."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0113B0",
+      "FORMID": "0113B0",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic018",
+      "FULL": "Seu módulo de voz foi danificado, ouvi dizer. Num ataque."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011396",
+      "FORMID": "011396",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic075",
+      "FULL": "Espera... os escorpiões de metal podem te picar e te deixar burro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011394",
+      "FORMID": "011394",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic076",
+      "FULL": "Não entendo como venenos podem te deixar burro."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011386",
+      "FORMID": "011386",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic070",
+      "FULL": "{Loc: Tentando repetir \"cirurgia\"}Você disse... código \"cirurgia\"? Quer dizer, tipo, coisa de computador no Doutor?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011385",
+      "FORMID": "011385",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic071",
+      "FULL": "Então o Comp-Doutor faz... o que Mobius faria se estivesse aqui, me picotando?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011384",
+      "FORMID": "011384",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic072",
+      "FULL": "Meu cérebro saberia?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01137D",
+      "FORMID": "01137D",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic073",
+      "FULL": "O que você quer dizer?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01137C",
+      "FORMID": "01137C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic074",
+      "FULL": "Qual é. Cérebros não falam... bem, a maioria."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01137B",
+      "FORMID": "01137B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic008",
+      "FULL": "Se você não me disser o que preciso encontrar, não posso te ajudar, beleza?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011316",
+      "FORMID": "011316",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic013",
+      "FULL": "<Pisca lentamente com uma expressão vazia.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011315",
+      "FORMID": "011315",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic014",
+      "FULL": "<Mostrar o dedo do meio.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011314",
+      "FORMID": "011314",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic015",
+      "FULL": "<Nó de Tópico de Depuração - Não Traduzir.>"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011313",
+      "FORMID": "011313",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic015",
+      "FULL": "Você removeu meu cérebro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011312",
+      "FORMID": "011312",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic016",
+      "FULL": "Lobotomizando? Você me lobotomizou?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011311",
+      "FORMID": "011311",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic017",
+      "FULL": "É por isso que estou me sentindo tão estranho... e pesado?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011310",
+      "FORMID": "011310",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorBorousLVLTopic001",
+      "FULL": "Mas estou todo dolorido!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130F",
+      "FORMID": "01130F",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorBorousLVLTopic002",
+      "FULL": "Por que estou todo cortado? Parece que alguma criança estava brincando com as minhas entranhas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130E",
+      "FORMID": "01130E",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorBorousLVLTopic003",
+      "FULL": "Quanta cirurgia você fez em mim? Me sinto como um quebra-cabeça mal montado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130D",
+      "FORMID": "01130D",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic006",
+      "FULL": "Você tirou meu cérebro, coração e espinha dorsal?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130C",
+      "FORMID": "01130C",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic007",
+      "FULL": "Se você arrancasse meu cérebro, onde diabos ele estaria?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130B",
+      "FORMID": "01130B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic008",
+      "FULL": "Você extraiu meu cérebro... mas o que você quer dizer com \"deslocado\"?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01130A",
+      "FORMID": "01130A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic067",
+      "FULL": "Hum... antes de eu \"recuperar\" essa tecnologia, você tem certeza de que seu plano vai funcionar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011309",
+      "FORMID": "011309",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic068",
+      "FULL": "Você disse \"barganha?\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011308",
+      "FORMID": "011308",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic009",
+      "FULL": "Hum... com licença, você tem mais?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011307",
+      "FORMID": "011307",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic010",
+      "FULL": "Ainda parece meio fraco. Talvez precise de um pouco mais."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:011306",
+      "FORMID": "011306",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic011",
+      "FULL": "A montanha de coisas parece bom."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01070F",
+      "FORMID": "01070F",
+      "EDID": "MobiusMessage",
+      "FULL": "Mensagem do Dr. Mobius - pode repetir?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01025B",
+      "FORMID": "01025B",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic018",
+      "FULL": "Às vezes me chamam de \"Mensageiro\"."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01025A",
+      "FORMID": "01025A",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic019",
+      "FULL": "Houve outro Mensageiro?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010259",
+      "FORMID": "010259",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic020",
+      "FULL": "Eu tinha outras perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010258",
+      "FORMID": "010258",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic021",
+      "FULL": "Qual era a pergunta?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010257",
+      "FORMID": "010257",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic022",
+      "FULL": "O que aconteceu com os visitantes?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010248",
+      "FORMID": "010248",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic004",
+      "FULL": "Não exatamente. Tenho perguntas que precisam ser respondidas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010247",
+      "FORMID": "010247",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic005",
+      "FULL": "Agora não. Tenho perguntas em vez disso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010246",
+      "FORMID": "010246",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic006",
+      "FULL": "Quem é você? O que faz aqui?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010245",
+      "FORMID": "010245",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic007",
+      "FULL": "O que é \"formografia\"?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010244",
+      "FORMID": "010244",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic008",
+      "FULL": "211 doutorados? Como isso é sequer possível?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010243",
+      "FORMID": "010243",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic009",
+      "FULL": "\"Primeiro chefe pesquisador?\" Muitos títulos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010242",
+      "FORMID": "010242",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic010",
+      "FULL": "Por que você removeu meu cérebro? E... como?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010241",
+      "FORMID": "010241",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic011",
+      "FULL": "Não entendo como a tecnologia que o Klein quer vai ajudar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010240",
+      "FORMID": "010240",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic012",
+      "FULL": "Pode me contar sobre o Big Empty?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01023F",
+      "FORMID": "01023F",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic013",
+      "FULL": "Pode me falar sobre o Big Empty... uh, Grande Montanha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01023E",
+      "FORMID": "01023E",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic014",
+      "FULL": "Cobaias anteriores?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01023D",
+      "FORMID": "01023D",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic015",
+      "FULL": "Isso costumava ser uma montanha?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01023C",
+      "FORMID": "01023C",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic016",
+      "FULL": "Perguntas? Que tipo?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010220",
+      "FORMID": "010220",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic006",
+      "FULL": "Isso... ah... que pena. Ou bom. Ou algo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021F",
+      "FORMID": "01021F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic007",
+      "FULL": "Posso te fazer umas perguntas?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021E",
+      "FORMID": "01021E",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic008",
+      "FULL": "Quem é você?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021D",
+      "FORMID": "01021D",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic009",
+      "FULL": "Sabe alguma coisa sobre o Dr. Mobius ou a Zona Proibida?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021C",
+      "FORMID": "01021C",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic010",
+      "FULL": "É... isso é um sim? Ou um não? Ou... um sim-não?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021B",
+      "FORMID": "01021B",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic011",
+      "FULL": "É bom você não estar me xingando agora, porra."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01021A",
+      "FORMID": "01021A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic012",
+      "FULL": "Tenho quase certeza de que você me entende, e eu quero umas respostas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010219",
+      "FORMID": "010219",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic013",
+      "FULL": "Tem... um padrão na sua fala, ou algo assim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010218",
+      "FORMID": "010218",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic014",
+      "FULL": "Quanto mais você fala... algo é... técnico na forma como você está grasnando para mim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010217",
+      "FORMID": "010217",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic015",
+      "FULL": "Pode me contar sobre essas tecnologias que o Klein quer?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010216",
+      "FORMID": "010216",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic016",
+      "FULL": "Me fale sobre o Big Empty."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010215",
+      "FORMID": "010215",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic017",
+      "FULL": "Me fala sobre o Grande Vazio... eh, Grande Montanha, isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010213",
+      "FORMID": "010213",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic019",
+      "FULL": "Tudo bem, tudo bem... só se acalme. Não queria te alarmar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010212",
+      "FORMID": "010212",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic020",
+      "FULL": "Você vai arrebentar um eixo do monitor se continuar assim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010211",
+      "FORMID": "010211",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic021",
+      "FULL": "Eu já saquei, aqueles dois nomes te dão pesadelos."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010210",
+      "FORMID": "010210",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic022",
+      "FULL": "Você parece meio cabisbaixo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020F",
+      "FORMID": "01020F",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic023",
+      "FULL": "Você está bem? Meio que ficou sem fôlego ali no meio."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020E",
+      "FORMID": "01020E",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic024",
+      "FULL": "Se você acabou de dizer \"esse lugar parece um hospício científico\", concordo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020D",
+      "FORMID": "01020D",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic025",
+      "FULL": "Não precisa ficar indignado, só estava fazendo uma pergunta."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020C",
+      "FORMID": "01020C",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic026",
+      "FULL": "Uau, calma aí... seja lá o que você for. Cérebro. Jarra. Coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020B",
+      "FORMID": "01020B",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic027",
+      "FULL": "Você prefere que eu chamasse de \"Grande Merdal\"?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01020A",
+      "FORMID": "01020A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic028",
+      "FULL": "Você parece agitado. Ou está borbulhando. Ou algo assim."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010209",
+      "FORMID": "010209",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic029",
+      "FULL": "Juro que seu cérebro... tanque... sei lá, acabou de soltar faíscas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010208",
+      "FORMID": "010208",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic030",
+      "FULL": "Sabia que perguntar a você seria inútil."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010207",
+      "FORMID": "010207",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic031",
+      "FULL": "Hum... prazer em te conhecer... uh... círculo... duplo... a... traço... seja lá quem for."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010206",
+      "FORMID": "010206",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic032",
+      "FULL": "Parece importante. Acho."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010205",
+      "FORMID": "010205",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic033",
+      "FULL": "Talvez eu devesse ter perguntado quem você costumava ser."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010204",
+      "FORMID": "010204",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic034",
+      "FULL": "Eu não faço ideia do que você acabou de dizer. Mais do que o normal."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010203",
+      "FORMID": "010203",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic035",
+      "FULL": "Como eu disse, técnico. Muito técnico mesmo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010202",
+      "FORMID": "010202",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic036",
+      "FULL": "Esquece que eu mencionei. Até eu mencionar de novo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010201",
+      "FORMID": "010201",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic037",
+      "FULL": "Hum... sim, definitivamente um padrão."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010200",
+      "FORMID": "010200",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic038",
+      "FULL": "Vamos só seguir em frente, preciso de tempo para entender isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FF",
+      "FORMID": "0101FF",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic039",
+      "FULL": "Você realmente me dá vontade de chutar essa sua caixa de voz."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FE",
+      "FORMID": "0101FE",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic040",
+      "FULL": "Estou cheio de surpresas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FD",
+      "FORMID": "0101FD",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic041",
+      "FULL": "Bem, eu já hackeei terminais RobCo o suficiente pra saber."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FC",
+      "FORMID": "0101FC",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic042",
+      "FULL": "Não dá pra escapar do código deles, nem com módulos de voz, hein?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FB",
+      "FORMID": "0101FB",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic043",
+      "FULL": "Bem, eu só ouvi o ritmo na sequência, só."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101FA",
+      "FORMID": "0101FA",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic044",
+      "FULL": "Eu acho que tenho ouvido pra coisa."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F9",
+      "FORMID": "0101F9",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic045",
+      "FULL": "Eu sei, provavelmente devia usar isso pra contar cartas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F8",
+      "FORMID": "0101F8",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic046",
+      "FULL": "Confia em mim, eu vou conseguir as tecnologias, beleza?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F7",
+      "FORMID": "0101F7",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic047",
+      "FULL": "Não, ainda não lidei com Mobius ainda."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F6",
+      "FORMID": "0101F6",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic048",
+      "FULL": "Eu falo com o Klein em um segundo, pare de me pressionar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F5",
+      "FORMID": "0101F5",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic049",
+      "FULL": "De nada, 8. O prazer foi meu."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0101F4",
+      "FORMID": "0101F4",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic050",
+      "FULL": "Chega. Eu tinha perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F631",
+      "FORMID": "00F631",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic003",
+      "FULL": "Pode me falar sobre o Dr. Mobius?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F626",
+      "FORMID": "00F626",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic000",
+      "FULL": "O rápido Scribe saltou sobre o Paladino preguiçoso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F625",
+      "FORMID": "00F625",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic001",
+      "FULL": "\"Gesto circular de saudação?\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F624",
+      "FORMID": "00F624",
+      "EDID": "NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic002",
+      "FULL": "De que padrões de comportamento recursivos você está falando?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F623",
+      "FORMID": "00F623",
+      "EDID": "NVDLC03Dialogue0NVDLC03DoctorOLVLTopic000",
+      "FULL": "Você é o Dr. O, correto?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F61A",
+      "FORMID": "00F61A",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic000",
+      "FULL": "Hum... o que foi isso?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F619",
+      "FORMID": "00F619",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic001",
+      "FULL": "Consegue falar? Você me entende?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F618",
+      "FORMID": "00F618",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic002",
+      "FULL": "Não faço a menor ideia do que você está dizendo agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F617",
+      "FORMID": "00F617",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic003",
+      "FULL": "Aconteceu alguma coisa com seu módulo de voz?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F616",
+      "FORMID": "00F616",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic004",
+      "FULL": "Me encher de estática e cliques não ajuda em nada."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F615",
+      "FORMID": "00F615",
+      "EDID": "NVDLC03Dialogue8NVDLC03Doctor8LVLTopic005",
+      "FULL": "Sou eu de novo. Eu queria fazer umas perguntas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F606",
+      "FORMID": "00F606",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic000",
+      "FULL": "Gostaria de contratar seus serviços."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F605",
+      "FORMID": "00F605",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic001",
+      "FULL": "Não preciso de nada agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F604",
+      "FORMID": "00F604",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkAutoDocTalkerTopic002",
+      "FULL": "Você consegue fazer algo além de me curar?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F602",
+      "FORMID": "00F602",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic000",
+      "FULL": "Erradicar a sedição?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F601",
+      "FORMID": "00F601",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic001",
+      "FULL": "Tenho algum material subversivo para você processar."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F600",
+      "FORMID": "00F600",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBookChuteTalkerTopic002",
+      "FULL": "Nada agora. Adeus."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F07B",
+      "FORMID": "00F07B",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkSinkTalkerTopic000",
+      "FULL": "Você parece meio preocupado com poeira. Qual foi?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F07A",
+      "FORMID": "00F07A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkSinkTalkerTopic001",
+      "FULL": "Eu só queria uma bebida, obrigado."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F079",
+      "FORMID": "00F079",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkSinkTalkerTopic002",
+      "FULL": "Eu só vim aqui para encher algumas dessas garrafas vazias."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F04A",
+      "FORMID": "00F04A",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic000",
+      "FULL": "O que você acabou de dizer?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F049",
+      "FORMID": "00F049",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic001",
+      "FULL": "Minha semente? Acho que você confundiu a biologia."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F048",
+      "FORMID": "00F048",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic002",
+      "FULL": "Eu ordeno que abra sua porta e receba minha porra!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F047",
+      "FORMID": "00F047",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic003",
+      "FULL": "O que isso significa?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F046",
+      "FORMID": "00F046",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic004",
+      "FULL": "Preciso ir agora."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F045",
+      "FORMID": "00F045",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic005",
+      "FULL": "Gostaria de processar algumas plantas."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F042",
+      "FORMID": "00F042",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic008",
+      "FULL": "Então, se eu trouxer amostras de plantas secas, você pode cloná-las e cultivá-las nesses vasos?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F03F",
+      "FORMID": "00F03F",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03SinkBioResearchStationTopic011",
+      "FULL": "O que é Salient Green?"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AC62",
+      "FORMID": "00AC62",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusTopic000",
+      "FULL": "Renda-se, Mobius, não quero lutar com você."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00AC61",
+      "FORMID": "00AC61",
+      "EDID": "NVDLC03DialogueMobiusNVDLC03DoctorMobiusTopic001",
+      "FULL": "Eu derrotei seu Robo-Escorpião Gigante, você é o próximo."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A82B",
+      "FORMID": "00A82B",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinTopic000",
+      "FULL": "Eu achei meu cérebro, agora você e eu vamos resolver isso."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A82A",
+      "FORMID": "00A82A",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinTopic001",
+      "FULL": "Não vou entregar meu cérebro... tem umas coisas que a gente precisa discutir."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A829",
+      "FORMID": "00A829",
+      "EDID": "NVDLC03DialogueKleinNVDLC03DoctorKleinTopic002",
+      "FULL": "Acho que você está atrasado para sua lobotomia, Klein."
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0039A6",
+      "FORMID": "0039A6",
+      "EDID": "NVDLC03DialogueKleinNVDLC03KleinTopic001",
+      "FULL": "Recuperei todas as informações tecnológicas."
+    },
+    {
+      "FORM": "@FalloutNV.esm:15D7F9",
+      "FORMID": "15D7F9",
+      "EDID": "NVDLC03DialogueHQBuddiesNVDLC03LightSwitch02Topic000",
+      "FULL": "Achei uma holofita para te melhorar."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000EF",
+      "FORMID": "0000EF",
+      "EDID": "Death",
+      "FULL": "Morte"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000ED",
+      "FORMID": "0000ED",
+      "EDID": "AvoidThreat",
+      "FULL": "Evitar Ameaça"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E6",
+      "FORMID": "0000E6",
+      "EDID": "PowerAttack",
+      "FULL": "Ataque Poderoso"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000E4",
+      "FORMID": "0000E4",
+      "EDID": "Assault",
+      "FULL": "Ataque"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DE",
+      "FORMID": "0000DE",
+      "EDID": "Flee",
+      "FULL": "Fugir"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DD",
+      "FORMID": "0000DD",
+      "EDID": "Hit",
+      "FULL": "Acertou"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000DC",
+      "FORMID": "0000DC",
+      "EDID": "Attack",
+      "FULL": "Atacar"
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D4",
+      "FORMID": "0000D4",
+      "EDID": "GOODBYE",
+      "FULL": "Adeus."
+    },
+    {
+      "FORM": "@FalloutNV.esm:0000D2",
+      "FORMID": "0000D2",
+      "EDID": "HELLO",
+      "FULL": "Olá"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@HonestHearts.esm:00CC05",
+      "FORMID": "00CC05",
+      "EDID": "ModNVDLC02WarClubCasing",
+      "FULL": "Corpos de Clava de Guerra",
+      "DESC": "Aumenta o dano (+5)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CC06",
+      "FORMID": "00CC06",
+      "EDID": "ModNVDLC02WarClubHonors",
+      "FULL": "Honras do Clube de Guerra",
+      "DESC": "Aumenta a velocidade de ataque (+25%)."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00996B",
+      "FORMID": "00996B",
+      "EDID": "ModNVDLC0245AutoSubmachinegunDrums",
+      "FULL": "Tambores .45 Auto SMG",
+      "DESC": "Aumenta a capacidade de munição."
+    },
+    {
+      "FORM": "@HonestHearts.esm:00996A",
+      "FORMID": "00996A",
+      "EDID": "ModNVDLC0245AutoSubmachinegunCompensator",
+      "FULL": "Comp. SMG Auto .45",
+      "DESC": "Reduz a propagação."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E18",
+      "FORMID": "008E18",
+      "EDID": "ModNVDLC0245AutoPistolSilencer",
+      "FULL": ".45 AP Silenciador",
+      "DESC": "Silencia arma."
+    },
+    {
+      "FORM": "@HonestHearts.esm:008E17",
+      "FORMID": "008E17",
+      "EDID": "ModNVDLC0245AutoPistolHDSlide",
+      "FULL": "Cano Reforçado .45 AP",
+      "DESC": "Aumenta a condição."
+    }
+  ]
+}

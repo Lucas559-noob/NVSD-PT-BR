@@ -1,0 +1,402 @@
+{
+  "QUST": [
+    {
+      "FORM": "@OldWorldBlues.esm:002FCA",
+      "FORMID": "002FCA",
+      "EDID": "NVDLC03MQ00",
+      "FULL": "Sessão de Ficção Científica da Meia-Noite!",
+      "NNAM": {
+        "10": "Investigue a sessão da meia-noite no Drive-in Mojave."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCB",
+      "FORMID": "002FCB",
+      "EDID": "NVDLC03MQ01",
+      "FULL": "Bem-vindo ao Big Empty",
+      "NNAM": {
+        "10": "Descubra onde diabos você está.",
+        "20": "Fale com seus... algozes.",
+        "30": "Pegue a parada do cérebro da antena X-2, a parada da espinha do emissor de ondas sonoras... e o traje de coração sorrateiro.",
+        "40": "Correção: Eles têm a arma emissora sônica... projeto... Eles precisam de uma nova frequência para ela.",
+        "50": "Correção: Então pegue a parada do cérebro da antena X-2... a nova frequência para o Emissor Sônico e o traje de coração ardiloso.",
+        "60": "Correção: Espera, tem outra frequência opcional do Emissor Sônico que desativa Campos de Força, que não é a frequência que eles precisam...? Argh, esquece isso.",
+        "70": "Encerrando estes registros de entrada, limpando a partição de utilidade."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCC",
+      "FORMID": "002FCC",
+      "EDID": "NVDLC03MQ05",
+      "FULL": "Melancolia do Velho Mundo",
+      "NNAM": {
+        "10": "Volte ao Think Tank e diga ao Dr. Klein que você concluiu suas tarefas.",
+        "20": "Vá para o Domo da Zona Proibida.",
+        "30": "Confronte o Dr. Mobius no Domo da Zona Proibida.",
+        "40": "Recupere seu cérebro da Zona Proibida.",
+        "50": "Confronte o Dr. Klein no Think Tank e termine seu aprisionamento em Big MT.",
+        "60": "Mate o Dr. Klein e os outros membros do Think Tank.",
+        "35": "Satisfaça a curiosidade do Dr. Mobius sobre como é ser morto.",
+        "25": "Desative ou destrua o Robo-Escorpião Gigante.",
+        "70": "Deixar o Think Tank.",
+        "52": "(Opcional) Use o Auto-Doc do Sink para recuperar seu coração original.",
+        "53": "(Opcional) Use o Auto-Doc do Sink para recuperar sua coluna original.",
+        "51": "(Opcional) Recupere a holofita de personalidade do Auto-Doc do Sink de Y-17 para restaurar a funcionalidade do Auto-Doc."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCD",
+      "FORMID": "002FCD",
+      "EDID": "NVDLC03MQ02",
+      "FULL": "X-2: Transmissões Estranhas!",
+      "NNAM": {
+        "20": "Suba na antena parabólica e pegue a Antena X-2.",
+        "10": "Vá para o Conjunto de Antenas Transmissoras X-2."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCE",
+      "FORMID": "002FCE",
+      "EDID": "NVDLC03MQ03",
+      "FULL": "X-8: Terror no Ensino Médio!",
+      "NNAM": {
+        "10": "Viaje para o Centro de Pesquisa X-8.",
+        "20": "Inicie o teste de Recuperação de Dados Institucionais no Terminal de Testes X-8.",
+        "30": "Saia da Instalação Institucional X-8.",
+        "40": "Inicie o Teste de Guarda de Cão Cibernético Residencial no Terminal de Testes X-8.",
+        "60": "Procure os locais de escavação de Gabe na Instalação de Testes Residencial X-8 pela amostra de áudio do Latido de Gabriel.",
+        "25": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "50": "Entre na Instalação de Testes Residenciais X-8."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:002FCF",
+      "FORMID": "002FCF",
+      "EDID": "NVDLC03MQ04",
+      "FULL": "X-13: Ataque do Infiltrador!",
+      "NNAM": {
+        "10": "Vá para a Instalação de Pesquisa X-13.",
+        "20": "Recupere as Luvas Protótipo X-13.",
+        "30": "Recupere as Botas Protótipo X-13.",
+        "40": "Recupere a Placa Peitoral Protótipo X-13.",
+        "50": "Ative o Teste Básico de Infiltração para começar a inicializar o Traje de Furtividade.",
+        "60": "Teste Básico de Infiltração: Obtenha o Doutorumento X-13 do Cofre na Parede do Administrador para completar a inicialização do Traje Furtivo."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003256",
+      "FORMID": "003256",
+      "EDID": "NVDLC03DialogueKlein",
+      "FULL": "Diálogo Dr. Klein"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:003733",
+      "FORMID": "003733",
+      "EDID": "NVDLC03DialogueMobius",
+      "FULL": "Diálogo Dr. Mobius"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0039A0",
+      "FORMID": "0039A0",
+      "EDID": "NVDLC03Ending",
+      "FULL": "Sequência de Slides Finais"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:006D8D",
+      "FORMID": "006D8D",
+      "EDID": "NVDLC03X13Setup",
+      "FULL": "Projeto X-13",
+      "NNAM": {
+        "5": "Retorne ao Terminal de Experimentos.",
+        "20": "Conclua o Teste Básico de Infiltração.",
+        "50": "Conclua o Teste de Conformidade Robótica.",
+        "30": "Conclua o Teste de Infiltração Avançada.",
+        "10": "Monte o Traje Furtivo Experimental.",
+        "100": "[Opcional] Conclua todos os testes do X-13.",
+        "40": "Complete o Teste de Infiltração de Perito.",
+        "25": "Conclua a Repetição do Teste Básico de Infiltração.",
+        "35": "Conclua a Reexibição do Teste de Infiltração Avançada.",
+        "45": "Complete a Reexibição do Teste de Infiltração de Especialista.",
+        "55": "Conclua a Repetição do Teste de Conformidade Robótica."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00A755",
+      "FORMID": "00A755",
+      "EDID": "NVDLC03Enc",
+      "FULL": "NVDLC03Enc"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DD5C",
+      "FORMID": "00DD5C",
+      "EDID": "NVDLC03X8Setup",
+      "FULL": "Teste de Recuperação de Dados X-8",
+      "NNAM": {
+        "10": "Reúna os três registros dos alunos.",
+        "20": "Saia da área de testes.",
+        "30": "Baixe a Onda de Pulso EM do Disruptor de Campo para o Emissor Sônico.",
+        "40": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "50": "Saia da área de testes.",
+        "25": "Ative o Teste de Recuperação de Dados Institucionais (Avançado) no Terminal de Teste X-8.",
+        "60": "Liberem o espécime incomum na área de testes.",
+        "80": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "90": "Saia da área de testes.",
+        "100": "Ative o Teste de Recuperação de Dados Institucionais (Avançado) no Terminal de Teste X-8.",
+        "110": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "120": "Saia da área de testes.",
+        "28": "Entre na área de testes.",
+        "75": "Entre na área de testes.",
+        "105": "Entre na área de testes.",
+        "70": "Ative o Teste de Recuperação de Dados Institucionais (Básico) no Terminal de Testes X-8.",
+        "140": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "150": "Saia da área de testes.",
+        "160": "Recupere os dados de teste do Terminal de Testes X-8.",
+        "55": "Encontre a chave dos canis X-8 (Melhoria de Onda de Pulso EM do Emissor Sônico Necessária).",
+        "52": "Encontre mais informações sobre o Teste X-8."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5D1",
+      "FORMID": "00E5D1",
+      "EDID": "NVDLC03Dialogue8",
+      "FULL": "Diálogo Dr. 8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5D2",
+      "FORMID": "00E5D2",
+      "EDID": "NVDLC03Dialogue0",
+      "FULL": "Diálogo Dr. O"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E5D3",
+      "FORMID": "00E5D3",
+      "EDID": "NVDLC03DialogueBorous",
+      "FULL": "\"Então, você é quem tem causado toda essa confusão por aqui, hein?\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E6F2",
+      "FORMID": "00E6F2",
+      "EDID": "NVDLC03DialogueHQBuddies",
+      "FULL": "E aí, {jogador}.\nEstou aqui para te ajudar, se precisar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou aqui para te ajudar.\nEstou"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F621",
+      "FORMID": "00F621",
+      "EDID": "NVDLC03DialogueDala",
+      "FULL": "Diálogo Dra. Dala"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:010915",
+      "FORMID": "010915",
+      "EDID": "NVDLC03X13Replay",
+      "FULL": "Projeto X-13 Redux",
+      "NNAM": {
+        "25": "Conclua a Repetição do Teste Básico de Infiltração.",
+        "35": "Conclua a Reexibição do Teste de Infiltração Avançada.",
+        "45": "Complete a Reexibição do Teste de Infiltração de Especialista.",
+        "55": "Conclua a Repetição do Teste de Conformidade Robótica.",
+        "5": "Retorne ao Terminal de Experimentos."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01207F",
+      "FORMID": "01207F",
+      "EDID": "NVDLC03HoloSupport",
+      "FULL": "Suporte de Script para Funções de Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0124AA",
+      "FORMID": "0124AA",
+      "EDID": "NVDLC03X8Replay",
+      "FULL": "Repetição do Teste de Recuperação de Dados X-8",
+      "NNAM": {
+        "10": "Recupere os três registros de alunos dos terminais nas mesas da Instalação Institucional X-8.",
+        "20": "Saia da área de testes."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014603",
+      "FORMID": "014603",
+      "EDID": "NVDLC03DebugTopics",
+      "FULL": "Tópicos de Depuração"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01462D",
+      "FORMID": "01462D",
+      "EDID": "NVDLC03Holotapes",
+      "FULL": "Holodiscos do Big Empty"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015A95",
+      "FORMID": "015A95",
+      "EDID": "NVDLC03X8RobobrainDialogue",
+      "FULL": "Diálogo Robocérebro X8"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015EF8",
+      "FORMID": "015EF8",
+      "EDID": "NVDLC03GenericDialogueRoboScorpion",
+      "FULL": "Diálogo Genérico de Roboescorpião"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015EF9",
+      "FORMID": "015EF9",
+      "EDID": "NVDLC03GenericDialogueRoboScorpionGiant",
+      "FULL": "*   \"Exterminando.\""
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015EFA",
+      "FORMID": "015EFA",
+      "EDID": "NVDLC03GenericDialogueCorpseSuit",
+      "FULL": "Traje de Cadáver - Diálogo Genérico"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015EFB",
+      "FORMID": "015EFB",
+      "EDID": "NVDLC03GenericDialogueSecuritronDamaged",
+      "FULL": "Diálogo Genérico do Securitron Avariado"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0166E2",
+      "FORMID": "0166E2",
+      "EDID": "NVDLC03SonicEmitterQuest",
+      "FULL": "Melhoria do Emissor Sônico",
+      "NNAM": {
+        "10": "Viaje até o Centro de Pesquisa X-8 para encontrar a melhoria de Onda de Pulso EM disruptora de campo de força para o Emissor Sônico.",
+        "70": "Teste a Onda de Pulso EM do Emissor Sônico em um campo de força.",
+        "20": "Comece o teste Institucional no Terminal de Testes X-8.",
+        "30": "Encontre os três registros de estudantes nos terminais da Instalação Institucional X-8.",
+        "40": "Saia das Instalações Institucionais X-8 pela saída do andar de cima.",
+        "50": "Comece o teste Institucional Avançado no Terminal de Testes X-8.",
+        "60": "Aprimorar o Emissor Sônico."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112D6",
+      "FORMID": "0112D6",
+      "EDID": "NVDLC03HQBuddySamples",
+      "FULL": "Pesquisa de Campo",
+      "NNAM": {
+        "10": "Encontre todas as amostras de áudio para a Jukebox.",
+        "20": "Encontre amostras para a Estação de Pesquisa Biológica.",
+        "30": "Leve as amostras de volta à Pia."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112E3",
+      "FORMID": "0112E3",
+      "EDID": "NVDLC03HQBuddy",
+      "FULL": "Todos os Meus Amigos Têm Botões de Desligar",
+      "NNAM": {
+        "10": "Encontre os módulos que faltam para a Pia, o Auto-Doc e a Estação de Pesquisa Biológica.",
+        "20": "Encontre os módulos que faltam para os Interruptores de Luz e o Jukebox.",
+        "30": "Encontre os módulos que faltam para a Torradeira, Muggy e o Escorrega de Livros.",
+        "40": "Instale os módulos de personalidade em The Sink.",
+        "5": "Encontre os módulos de personalidade perdidos.",
+        "15": "Encontre o primeiro conjunto de módulos de personalidade para a Pia.",
+        "25": "Encontre o segundo conjunto de módulos de personalidade para a Pia.",
+        "35": "Encontre o terceiro conjunto de módulos de personalidade para a Central.",
+        "1": "Vá para a Pia e instale a Unidade Central de Inteligência."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0112E5",
+      "FORMID": "0112E5",
+      "EDID": "NVDLC03HQBuddyUpgrade",
+      "FULL": "Influenciando Pessoas",
+      "NNAM": {
+        "10": "Encontre as melhorias para a Unidade Central de Inteligência da Pia.",
+        "20": "Encontre as melhorias para o Auto-Doc da Pia.",
+        "30": "Encontre as melhorias para as IAs de suporte da Pia.",
+        "40": "Instale as melhorias na Pia."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0121E3",
+      "FORMID": "0121E3",
+      "EDID": "NVDLC03ThinkTankQuest",
+      "FULL": "Querendo Saber Tudo",
+      "NNAM": {
+        "10": "Fale com o Dr. Klein, apesar da sua falta de protetores auriculares.",
+        "20": "Conversar com o Dr. O.",
+        "30": "Apresente-se à Dra. Dala.",
+        "40": "Diga olá para o Dr. Borous. Com cuidado.",
+        "50": "\"Fale\" com o Dr. 8... se conseguir."
+      }
+    },
+    {
+      "FORM": "@FalloutNV.esm:07AE95",
+      "FORMID": "07AE95",
+      "EDID": "GenericFeralGhoul",
+      "FULL": "Missão: Diálogo com Necrófago Feral"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013653",
+      "FORMID": "013653",
+      "EDID": "NVDLC03RadioBroadcast",
+      "FULL": "NVDLC03 Missão de Rádio"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013FFD",
+      "FORMID": "013FFD",
+      "EDID": "NVDLC03BrainTankOpenTimer",
+      "FULL": "Cronômetro de Abertura do Tanque Cerebral"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014BF8",
+      "FORMID": "014BF8",
+      "EDID": "NVDLC03ThinkTankDoctorBorous",
+      "FULL": "A Melhor Amiga de um Cérebro",
+      "NNAM": {
+        "10": "Tente encontrar qualquer vestígio de Gabe em Higgs Village.",
+        "20": "Veja se consegue encontrar mais evidências de Gabe em X-8.",
+        "30": "Devolva a tigela de Gabe para o Dr. Borous."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014C2C",
+      "FORMID": "014C2C",
+      "EDID": "NVDLC03ThinkTankDoctorDala",
+      "FULL": "Saindo da Casca",
+      "NNAM": {
+        "10": "Descubra o que tanto fascina Dala na biologia."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014C2D",
+      "FORMID": "014C2D",
+      "EDID": "NVDLC03ThinkTankDoctorKlein",
+      "FULL": "Ele Veio... E Se Foi",
+      "NNAM": {
+        "10": "Pergunte ao Dr. Klein sobre a conversa que ele teve com o último visitante do Big Empty."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014C63",
+      "FORMID": "014C63",
+      "EDID": "NVDLC03ThinkTankDoctor8",
+      "FULL": "Na Mesma Frequência",
+      "NNAM": {
+        "10": "Investigar o código do terminal de 8."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014CFB",
+      "FORMID": "014CFB",
+      "EDID": "NVDLC03ThinkTankDoctor0a",
+      "FULL": "O Que Tem Um Nome?",
+      "NNAM": {
+        "10": "Veja se consegue resolver o problema do O com o nome dele."
+      }
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014CFE",
+      "FORMID": "014CFE",
+      "EDID": "NVDLC03ThinkTankDoctor0b",
+      "FULL": "Quando os Visitantes Atacam!",
+      "NNAM": {
+        "10": "Pergunte ao Dr. O sobre o ataque ao Think Tank."
+      }
+    }
+  ]
+}

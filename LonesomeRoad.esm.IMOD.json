@@ -1,0 +1,46 @@
+{
+  "IMOD": [
+    {
+      "FORM": "@LonesomeRoad.esm:009258",
+      "FORMID": "009258",
+      "EDID": "ModNVDLC04RedGlareFarSighting",
+      "FULL": "Mira de Longo Alcance do Red Glare",
+      "DESC": "Aumenta o nível de zoom."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009259",
+      "FORMID": "009259",
+      "EDID": "ModNVDLC04RedGlareAlphaStrike",
+      "FULL": "Ataque Alfa Red Glare",
+      "DESC": "Aumenta a velocidade dos foguetes."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925A",
+      "FORMID": "00925A",
+      "EDID": "ModNVDLC04SMMGRecoilCompensator",
+      "FULL": "Compensador de Recuo SMMG",
+      "DESC": "Reduz a dispersão da arma."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925B",
+      "FORMID": "00925B",
+      "EDID": "ModNVDLC04SMMGMechanicalUpgrade",
+      "FULL": "Melhoria Mecânica SMMG",
+      "DESC": "Aumenta a condição máxima da arma."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925C",
+      "FORMID": "00925C",
+      "EDID": "ModNVDLC04SMMGExtendedMag",
+      "FULL": "Carregador Estendido SMMG",
+      "DESC": "Aumenta o tamanho do carregador."
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00925D",
+      "FORMID": "00925D",
+      "EDID": "ModNVDLC04RedGlareAutoLauncher",
+      "FULL": "Lançador Automático Red Glare",
+      "DESC": "Aumenta a Cadência de Tiro"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "TERM": [
+    {
+      "FORM": "@HonestHearts.esm:009E68",
+      "FORMID": "009E68",
+      "EDID": "NVDLC02RangerTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Baixar Mapa da Grande Escadaria"
+        ],
+        "RNAM": [
+          "Baixando mapa..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00B7A3",
+      "FORMID": "00B7A3",
+      "EDID": "NVDLC02EVSurvivalistTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Ano de 2077.",
+          "Ano de 2078."
+        ],
+        "RNAM": [
+          "Acessando registro...",
+          "Acessando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D28D",
+      "FORMID": "00D28D",
+      "EDID": "NVDLC02ZionSCaveSElectricDoorTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Controle da Porta Elétrica."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D298",
+      "FORMID": "00D298",
+      "EDID": "NVDLC02ZionSCaveSElectricDoorTerminal02",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Sim.",
+          "Não."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D326",
+      "FORMID": "00D326",
+      "EDID": "NVDLC02ZionSCaveSLogTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Ano de 2083.",
+          "Ano de 2084.",
+          "Ano de 2095."
+        ],
+        "RNAM": [
+          "Acessando registro...",
+          "Acessando registro...",
+          "Acessando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4C0",
+      "FORMID": "00D4C0",
+      "EDID": "NVDLC02ZionSCaveNLogTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Ano de 2097.",
+          "Ano de 2100.",
+          "Ano de 2101."
+        ],
+        "RNAM": [
+          "Acessando registro...",
+          "Acessando registro...",
+          "Acessando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00D4C1",
+      "FORMID": "00D4C1",
+      "EDID": "NVDLC02ZionSCaveWLogTerminal01",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Ano de 2108.",
+          "Ano de 2113.",
+          "Ano de 2123."
+        ],
+        "RNAM": [
+          "Acessando registro...",
+          "Acessando registro...",
+          "Acessando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F39D",
+      "FORMID": "00F39D",
+      "EDID": "NVDLC02NarrowsSurvivalistTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "Ano de 2096 I.",
+          "Ano 2096 II."
+        ],
+        "RNAM": [
+          "Acessando registro...",
+          "Acessando registro..."
+        ]
+      }
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F863",
+      "FORMID": "00F863",
+      "EDID": "NVDLC02ZionStoreTerminal",
+      "FULL": "Terminal",
+      "DESC": "Rede do Parque Nacional de Zion",
+      "MENU": {
+        "ITXT": [
+          "RE: Erro de Envio",
+          "RE: Excursão de Ônibus?",
+          "Re: Problemas de Envio (DE NOVO!)"
+        ],
+        "RNAM": [
+          "Acessando E-mail...",
+          "Acessando E-mail...",
+          "Acessando E-mail..."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "NPC_": [
+    {
+      "FORM": "@LonesomeRoad.esm:003E40",
+      "FORMID": "003E40",
+      "EDID": "NVDLC04Ulysses",
+      "FULL": "Ulysses"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086ED",
+      "FORMID": "0086ED",
+      "EDID": "NVDLC04MarkedMenTEMPLATE",
+      "FULL": "Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086EE",
+      "FORMID": "0086EE",
+      "EDID": "NVDLC04MarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086EF",
+      "FORMID": "0086EF",
+      "EDID": "NVDLC04MarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F0",
+      "FORMID": "0086F0",
+      "EDID": "NVDLC04MarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F1",
+      "FORMID": "0086F1",
+      "EDID": "NVDLC04MarkedMenMarauder",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F2",
+      "FORMID": "0086F2",
+      "EDID": "NVDLC04MarkedMenHunterBoss",
+      "FULL": "Blister"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F3",
+      "FORMID": "0086F3",
+      "EDID": "NVDLC04MarkedMenMarauderBoss",
+      "FULL": "Besta"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F4",
+      "FORMID": "0086F4",
+      "EDID": "NVDLC04MarkedMenRavagerBoss",
+      "FULL": "Bonesaw"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0086F5",
+      "FORMID": "0086F5",
+      "EDID": "NVDLC04MarkedMenScoutBoss",
+      "FULL": "Lâmina"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008802",
+      "FORMID": "008802",
+      "EDID": "NVDLC04DivideMarkedMenMarauder",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008803",
+      "FORMID": "008803",
+      "EDID": "NVDLC04DivideMarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008804",
+      "FORMID": "008804",
+      "EDID": "NVDLC04DivideMarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:008805",
+      "FORMID": "008805",
+      "EDID": "NVDLC04DivideMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00899C",
+      "FORMID": "00899C",
+      "EDID": "NVDLC04DivideMarkedMenScoutD01",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00899D",
+      "FORMID": "00899D",
+      "EDID": "NVDLC04DivideMarkedMenHunterD01",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089E7",
+      "FORMID": "0089E7",
+      "EDID": "NVDLC04Road01MarkedMenMarauder",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089E8",
+      "FORMID": "0089E8",
+      "EDID": "NVDLC04Road01CampBossMarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089E9",
+      "FORMID": "0089E9",
+      "EDID": "NVDLC04Road01CampBossMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089EA",
+      "FORMID": "0089EA",
+      "EDID": "NVDLC04Road01CampBossMarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089EB",
+      "FORMID": "0089EB",
+      "EDID": "NVDLC04Road01MarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089EC",
+      "FORMID": "0089EC",
+      "EDID": "NVDLC04Road01MarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089ED",
+      "FORMID": "0089ED",
+      "EDID": "NVDLC04Road01Camp01MarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089EE",
+      "FORMID": "0089EE",
+      "EDID": "NVDLC04Road01Camp01MarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089EF",
+      "FORMID": "0089EF",
+      "EDID": "NVDLC04Road01Camp01MarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0089F0",
+      "FORMID": "0089F0",
+      "EDID": "NVDLC04Road01MarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009078",
+      "FORMID": "009078",
+      "EDID": "NVDLC04DivideMarkedMenScoutSniper",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090A3",
+      "FORMID": "0090A3",
+      "EDID": "NVDLC04Silo01DeadMarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090AA",
+      "FORMID": "0090AA",
+      "EDID": "NVDLC04Silo01DeadMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0090B0",
+      "FORMID": "0090B0",
+      "EDID": "NVDLC04Silo01DeadMarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009109",
+      "FORMID": "009109",
+      "EDID": "NVDLC04DivideMarkedMenRavagerRespawn",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00910A",
+      "FORMID": "00910A",
+      "EDID": "NVDLC04DivideMarkedMenScoutRespawn",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00910B",
+      "FORMID": "00910B",
+      "EDID": "NVDLC04DivideMarkedMenHunterRespawn",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00910C",
+      "FORMID": "00910C",
+      "EDID": "NVDLC04DivideMarkedMenMarauderRespawn",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00923E",
+      "FORMID": "00923E",
+      "EDID": "NVDLC04Narrator",
+      "FULL": "Bill, o Coletor de Impostos"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0092EB",
+      "FORMID": "0092EB",
+      "EDID": "NVDLC04MarkedMentest01",
+      "FULL": "datest"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00936C",
+      "FORMID": "00936C",
+      "EDID": "NVDLC04DivideEastCampMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00936D",
+      "FORMID": "00936D",
+      "EDID": "NVDLC04DivideEastCampMarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00936F",
+      "FORMID": "00936F",
+      "EDID": "NVDLC04DivideEastCampMarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00949B",
+      "FORMID": "00949B",
+      "EDID": "NVDLC04TempleMarkedMenRavager01",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00949C",
+      "FORMID": "00949C",
+      "EDID": "NVDLC04TempleMarkedMenScout01",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00949D",
+      "FORMID": "00949D",
+      "EDID": "NVDLC04TempleMarkedMenHunter01",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0097A5",
+      "FORMID": "0097A5",
+      "EDID": "NVDLC04Road02MarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:0097A8",
+      "FORMID": "0097A8",
+      "EDID": "NVDLC04Road02MarkedMenMarauder",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009815",
+      "FORMID": "009815",
+      "EDID": "NVDLC04Road02MarkedMenSurvivor",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:009A00",
+      "FORMID": "009A00",
+      "EDID": "NVDLC04TempleMarkedMenMarauder01",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A691",
+      "FORMID": "00A691",
+      "EDID": "NVDLC04TempleMarkedMenBomber01",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7D8",
+      "FORMID": "00A7D8",
+      "EDID": "NVDLC04TempleMarkedMenBomber02",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7D9",
+      "FORMID": "00A7D9",
+      "EDID": "NVDLC04TempleMarkedMenHunter02",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7DA",
+      "FORMID": "00A7DA",
+      "EDID": "NVDLC04TempleMarkedMenMarauder02",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A7DB",
+      "FORMID": "00A7DB",
+      "EDID": "NVDLC04TempleMarkedMenRavager02",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A873",
+      "FORMID": "00A873",
+      "EDID": "NVDLC04Merchant",
+      "FULL": "Almoxarifado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A906",
+      "FORMID": "00A906",
+      "EDID": "NVDLC04Road01PostMarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A907",
+      "FORMID": "00A907",
+      "EDID": "NVDLC04Road01PostMarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A908",
+      "FORMID": "00A908",
+      "EDID": "NVDLC04Road01PostMarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00A909",
+      "FORMID": "00A909",
+      "EDID": "NVDLC04Road01PostMarkedMenMarauder",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00AD19",
+      "FORMID": "00AD19",
+      "EDID": "NVDLC04TempleMarkedMenScout02",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BD35",
+      "FORMID": "00BD35",
+      "EDID": "NVDLC04AudioLogTrooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00BD37",
+      "FORMID": "00BD37",
+      "EDID": "NVDLC04AudioLogTrooper03",
+      "FULL": "Soldado Gleeson"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C005",
+      "FORMID": "00C005",
+      "EDID": "NVDLC04DeadNCRRangerVeteran",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1F7",
+      "FORMID": "00C1F7",
+      "EDID": "NVDLC04NukeLegionCenturion",
+      "FULL": "Gaius Magnus"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1F9",
+      "FORMID": "00C1F9",
+      "EDID": "NVDLC04NukeLegionLegionaryRange",
+      "FULL": "Legionário Veterano Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1FE",
+      "FORMID": "00C1FE",
+      "EDID": "NVDLC04NukeLegionLegionaryMelee",
+      "FULL": "Legionário Prime Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C1FF",
+      "FORMID": "00C1FF",
+      "EDID": "NVDLC04NukeLegionExplorerRange",
+      "FULL": "Explorador Legionário Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C204",
+      "FORMID": "00C204",
+      "EDID": "NVDLC04NukeLegionExplorerMelee",
+      "FULL": "Explorador Legionário Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C346",
+      "FORMID": "00C346",
+      "EDID": "NVDLC04DeadNCRVeteranPowerArmor",
+      "FULL": "Soldado Pesado da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C30F",
+      "FORMID": "00C30F",
+      "EDID": "NVDLC04NukeSilo2Marauder",
+      "FULL": "Saqueador Homem Marcado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C312",
+      "FORMID": "00C312",
+      "EDID": "NVDLC04NukeSilo2Ravager",
+      "FULL": "Devastador Homem Marcado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C34B",
+      "FORMID": "00C34B",
+      "EDID": "NVDLC04NukeSilo2Hunter",
+      "FULL": "Caçador Homem Marcado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C34C",
+      "FORMID": "00C34C",
+      "EDID": "NVDLC04NukeSilo2Scout",
+      "FULL": "Escoteiro Marcado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C859",
+      "FORMID": "00C859",
+      "EDID": "NVDLC04Road02MarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00C9D5",
+      "FORMID": "00C9D5",
+      "EDID": "NVDLC04Road02MarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1A3",
+      "FORMID": "00D1A3",
+      "EDID": "NVDLC04Skeleton01",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1A4",
+      "FORMID": "00D1A4",
+      "EDID": "NVDLC04DeadGeneral",
+      "FULL": "General Martin Retslaf"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1AA",
+      "FORMID": "00D1AA",
+      "EDID": "NVDLC04DeadSniper",
+      "FULL": "Controle de Distúrbios da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D1AE",
+      "FORMID": "00D1AE",
+      "EDID": "NVDLC04DeadSniper02",
+      "FULL": "Controle de Distúrbios da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D311",
+      "FORMID": "00D311",
+      "EDID": "NVDLC04Whitley",
+      "FULL": "Whitley"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D312",
+      "FORMID": "00D312",
+      "EDID": "NVDLC04Dad",
+      "FULL": "O Pai"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D313",
+      "FORMID": "00D313",
+      "EDID": "NVDLC04Announcer",
+      "FULL": "Locutor"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D314",
+      "FORMID": "00D314",
+      "EDID": "NVDLC04Howard",
+      "FULL": "Dr. Howard"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D315",
+      "FORMID": "00D315",
+      "EDID": "NVDLC04Kid",
+      "FULL": "A Criança"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D786",
+      "FORMID": "00D786",
+      "EDID": "NVDLC04Divide2MarkedMenScout",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D787",
+      "FORMID": "00D787",
+      "EDID": "NVDLC04Divide2MarkedMenHunter",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D788",
+      "FORMID": "00D788",
+      "EDID": "NVDLC04Divide2MarkedMenRavager",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D789",
+      "FORMID": "00D789",
+      "EDID": "NVDLC04Divide2MarkedMenMarauder",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D89F",
+      "FORMID": "00D89F",
+      "EDID": "NVDLC04NukeNCRHeavyTrooper",
+      "FULL": "Soldado Pesado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D8FC",
+      "FORMID": "00D8FC",
+      "EDID": "NVDLC04NukeNCRColonel",
+      "FULL": "Soldado Pesado Irradiado"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D970",
+      "FORMID": "00D970",
+      "EDID": "NVDLC04RoadTunnelDeadTrooper01",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D971",
+      "FORMID": "00D971",
+      "EDID": "NVDLC04RoadTunnelDeadTrooper02",
+      "FULL": "Soldado da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D973",
+      "FORMID": "00D973",
+      "EDID": "NVDLC04RoadTunnelDeadTrooper03",
+      "FULL": "Ranger da NCR"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00D99A",
+      "FORMID": "00D99A",
+      "EDID": "NVDLC04NukeNCRHeavyTrooperBoss",
+      "FULL": "Coronel Royez"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAEB",
+      "FORMID": "00DAEB",
+      "EDID": "NVDLC04TempleMarkedMenHunter01Weak",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAEC",
+      "FORMID": "00DAEC",
+      "EDID": "NVDLC04TempleMarkedMenScout01Weak",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAED",
+      "FORMID": "00DAED",
+      "EDID": "NVDLC04TempleMarkedMenScout02Weak",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAEE",
+      "FORMID": "00DAEE",
+      "EDID": "NVDLC04TempleMarkedMenMarauder02Weak",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAEF",
+      "FORMID": "00DAEF",
+      "EDID": "NVDLC04TempleMarkedMenRavager02Weak",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAF1",
+      "FORMID": "00DAF1",
+      "EDID": "NVDLC04TempleMarkedMenRavager01Weak",
+      "FULL": "Devastador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAF3",
+      "FORMID": "00DAF3",
+      "EDID": "NVDLC04TempleMarkedMenMarauder01Weak",
+      "FULL": "Saqueador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAFA",
+      "FORMID": "00DAFA",
+      "EDID": "NVDLC04TempleMarkedMenBomber01Weak",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAFB",
+      "FORMID": "00DAFB",
+      "EDID": "NVDLC04TempleMarkedMenBomber02Weak",
+      "FULL": "Batedor dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DAFC",
+      "FORMID": "00DAFC",
+      "EDID": "NVDLC04TempleMarkedMenHunter02Weak",
+      "FULL": "Caçador dos Homens Marcados"
+    },
+    {
+      "FORM": "@LonesomeRoad.esm:00DC37",
+      "FORMID": "00DC37",
+      "EDID": "NVDLC04UlyssesFake",
+      "FULL": "Ulysses"
+    }
+  ]
+}

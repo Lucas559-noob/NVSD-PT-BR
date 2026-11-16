@@ -1,0 +1,196 @@
+{
+  "RCPE": [
+    {
+      "FORM": "@HonestHearts.esm:00CCFB",
+      "FORMID": "00CCFB",
+      "EDID": "NVDLC02RecipeWeaponBindingRitual",
+      "FULL": "Ritual de Ligação de Arma"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCFC",
+      "FORMID": "00CCFC",
+      "EDID": "NVDLC02RecipeDaturana",
+      "FULL": "Daturana"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00CCFD",
+      "FORMID": "00CCFD",
+      "EDID": "NVDLC02RecipeDaturaHide",
+      "FULL": "Couro de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F400",
+      "FORMID": "00F400",
+      "EDID": "NVDLC02RecipeConversionFissionBATtoSEC",
+      "FULL": "Conversão, Bateria de Fissão para SEC"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00F707",
+      "FORMID": "00F707",
+      "EDID": "NVDLC02RecipeMedicalSupplyKit",
+      "FULL": "Kit de Suprimentos Médicos"
+    },
+    {
+      "FORM": "@HonestHearts.esm:010CD9",
+      "FORMID": "010CD9",
+      "EDID": "NVDLC02RecipeBreakdown45Auto",
+      "FULL": ".45 Auto Avariada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01103D",
+      "FORMID": "01103D",
+      "EDID": "NVDLC02RecipeHealingPoultice",
+      "FULL": "Cataplasma Curativo"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0110FD",
+      "FORMID": "0110FD",
+      "EDID": "NVDLC02RecipeGeckoGreenHideTanned",
+      "FULL": "Couro de Gecko Esverdeado Curtido"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011104",
+      "FORMID": "011104",
+      "EDID": "NVDLC02RecipeArmorLeatherGecko",
+      "FULL": "Armadura de Couro de Gecko com Reforço"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011105",
+      "FORMID": "011105",
+      "EDID": "NVDLC02RecipeArmorLeatherReinforcedGecko",
+      "FULL": "Armadura de Couro de Gecko Reforçada"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011106",
+      "FORMID": "011106",
+      "EDID": "NVDLC02RecipeArmorMetalGecko",
+      "FULL": "Armadura de Metal com Escamas de Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011107",
+      "FORMID": "011107",
+      "EDID": "NVDLC02RecipeArmorMetalReinforcedGecko",
+      "FULL": "Armadura de Metal Reforçada com Couro de Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011108",
+      "FORMID": "011108",
+      "EDID": "NVDLC02RecipeDaturaAntivenom",
+      "FULL": "Antiveneno de Datura"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01110B",
+      "FORMID": "01110B",
+      "EDID": "NVDLC02RecipeBloodShield",
+      "FULL": "Escudo de Sangue"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01110C",
+      "FORMID": "01110C",
+      "EDID": "NVDLC02RecipeHomebrewedNukaCola",
+      "FULL": "Nuka-Cola de Fabricação Caseira"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01110D",
+      "FORMID": "01110D",
+      "EDID": "NVDLC02RecipeHomebrewedSS",
+      "FULL": "Sunset Sarsaparilla Fabricada em Casa"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011110",
+      "FORMID": "011110",
+      "EDID": "NVDLC02RecipeWastelandTequila",
+      "FULL": "Tequila do Deserto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011113",
+      "FORMID": "011113",
+      "EDID": "NVDLC02RecipeBlackCoffee",
+      "FULL": "Café Preto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011114",
+      "FORMID": "011114",
+      "EDID": "NVDLC02RecipeMealsToMetal",
+      "FULL": "Comida-em-Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011115",
+      "FORMID": "011115",
+      "EDID": "NVDLC02RecipeCookeryToMetal",
+      "FULL": "Culinária-para-Metal"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011207",
+      "FORMID": "011207",
+      "EDID": "NVDLC02DogHideBelt",
+      "FULL": "Cinto de Couro de Cão"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011208",
+      "FORMID": "011208",
+      "EDID": "NVDLC02CoyoteHideBelt",
+      "FULL": "Cinto de Couro de Coiote"
+    },
+    {
+      "FORM": "@HonestHearts.esm:011209",
+      "FORMID": "011209",
+      "EDID": "NVDLC02GeckoHideBelt",
+      "FULL": "Cinto de Pele de Gecko"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01120A",
+      "FORMID": "01120A",
+      "EDID": "NVDLC02FireGeckoHideBelt",
+      "FULL": "Cinto de Couro de Gecko Flamejante"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01120B",
+      "FORMID": "01120B",
+      "EDID": "NVDLC02GoldenGeckoHideBelt",
+      "FULL": "Cinto de Couro de Gecko-Dourado"
+    },
+    {
+      "FORM": "@HonestHearts.esm:01120C",
+      "FORMID": "01120C",
+      "EDID": "NVDLC02GreenGeckoHideBelt",
+      "FULL": "Cinto de Pele de Gecko Verde"
+    },
+    {
+      "FORM": "@HonestHearts.esm:0112FC",
+      "FORMID": "0112FC",
+      "EDID": "NVDLC02RecipeWastelandTequilaLarge",
+      "FULL": "Tequila Grande do Deserto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:00C988",
+      "FORMID": "00C988",
+      "EDID": "NVDLC02RecipeCompass",
+      "FULL": "Bússola"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E76",
+      "FORMID": "009E76",
+      "EDID": "NVDLC02Recipe45AutoP",
+      "FULL": "Munição .45 Auto +P"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E75",
+      "FORMID": "009E75",
+      "EDID": "NVDLC02Recipe45Super",
+      "FULL": ".45 Super Carregamento Manual"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009E74",
+      "FORMID": "009E74",
+      "EDID": "NVDLC02Recipe45Auto",
+      "FULL": "Cartucho .45 Auto"
+    },
+    {
+      "FORM": "@HonestHearts.esm:009909",
+      "FORMID": "009909",
+      "EDID": "NVDLC02RecipeDaturaRootPoison",
+      "FULL": "Datura Negra"
+    }
+  ]
+}

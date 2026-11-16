@@ -1,0 +1,256 @@
+{
+  "SPEL": [
+    {
+      "FORM": "@OldWorldBlues.esm:00800F",
+      "FORMID": "00800F",
+      "EDID": "NVDLC03AtomicStrBoostAE",
+      "FULL": "Força Atômica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:008010",
+      "FORMID": "008010",
+      "EDID": "NVDLC03AtomicDisplayTextAE",
+      "FULL": "Texto Atômico"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098BF",
+      "FORMID": "0098BF",
+      "EDID": "NVDLC03IncreasedDamageResistance",
+      "FULL": "Resistência a Dano Aumentada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C0",
+      "FORMID": "0098C0",
+      "EDID": "NVDLC03TorsoRestoration",
+      "FULL": "Restauração do Torso"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0098C1",
+      "FORMID": "0098C1",
+      "EDID": "NVDLC03SpinelessStrBoostAE",
+      "FULL": "Força de Fracote"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00D686",
+      "FORMID": "00D686",
+      "EDID": "NVDLC03RoboScorpionBurstAttack",
+      "FULL": "Ataque de Rajada do RoboScorpion"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00DA21",
+      "FORMID": "00DA21",
+      "EDID": "NVDLC03StealthSuitStimpak",
+      "FULL": "Auto-Injetor de Stimpak"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00E23B",
+      "FORMID": "00E23B",
+      "EDID": "NVDLC03GiantRoboScorpionDeathSpell",
+      "FULL": "Feitiço da Morte do Roboescorpião Gigante"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:00F98E",
+      "FORMID": "00F98E",
+      "EDID": "NVDLC03RoboscorpionGiantDT30",
+      "FULL": "Robo-escorpião Gigante DR 30"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202A",
+      "FORMID": "01202A",
+      "EDID": "NVDLC03HologramRegen",
+      "FULL": "Regeneração do Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202B",
+      "FORMID": "01202B",
+      "EDID": "NVDLC03HologramFlickerInSpell",
+      "FULL": "Oscilação do Holograma Ativada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202C",
+      "FORMID": "01202C",
+      "EDID": "NVDLC03HologramFlickerOutSpell",
+      "FULL": "Holograma Desliga"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202D",
+      "FORMID": "01202D",
+      "EDID": "NVDLC03HologramFlickerSpell",
+      "FULL": "Oscilação do Holograma"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202E",
+      "FORMID": "01202E",
+      "EDID": "NVDLC03HoloFireImmunity",
+      "FULL": "Imune a Fogo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01202F",
+      "FORMID": "01202F",
+      "EDID": "NVDLC03HologramNeutralSpell",
+      "FULL": "Holograma Neutro"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012030",
+      "FORMID": "012030",
+      "EDID": "NVDLC03HologramNeutralSpell2",
+      "FULL": "Holograma Neutro 2"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012768",
+      "FORMID": "012768",
+      "EDID": "NVDLC03TraitEarlyBirdAmAE",
+      "FULL": "Bônus do Passarinho Matinal"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012769",
+      "FORMID": "012769",
+      "EDID": "NVDLC03TraitEarlyBirdPmAE",
+      "FULL": "Punição por Madrugar"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276A",
+      "FORMID": "01276A",
+      "EDID": "NVDLC03TraitHotBloodedAE",
+      "FULL": "Punição de Sangue Quente"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01276C",
+      "FORMID": "01276C",
+      "EDID": "NVDLC03TraitHoarderAE",
+      "FULL": "Punição de Acumulador"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133A2",
+      "FORMID": "0133A2",
+      "EDID": "NVDLC03TraitClaustrophobiaAE",
+      "FULL": "Bônus\/Penalidade de Claustrofobia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0133AD",
+      "FORMID": "0133AD",
+      "EDID": "NVDLC03TraitSkilledAE",
+      "FULL": "Bônus de Habilidade (+5 em habilidades)"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013464",
+      "FORMID": "013464",
+      "EDID": "NVDLC03HQSmartLightsAE",
+      "FULL": "Luzes Inteligentes"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013465",
+      "FORMID": "013465",
+      "EDID": "NVDLC03HQMoodLightingAE",
+      "FULL": "Iluminação Cênica"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013EA5",
+      "FORMID": "013EA5",
+      "EDID": "NVDLC03HeatWeaponAE",
+      "FULL": "Incendiar Alvo"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013EB6",
+      "FORMID": "013EB6",
+      "EDID": "NVDLC03AntennaClubParalysisAE",
+      "FULL": "Paralisia do Clube da Antena"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013F06",
+      "FORMID": "013F06",
+      "EDID": "NVDLC03AcidWeapAE",
+      "FULL": "Crítico de Arma Ácida"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014963",
+      "FORMID": "014963",
+      "EDID": "NVDLC03RedMist",
+      "FULL": "Névoa Vermelha"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:01527B",
+      "FORMID": "01527B",
+      "EDID": "NVDLC03LegendaryBloatflyDT",
+      "FULL": "Limiar de Dano do Mosca-mutante Lendário"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0155C6",
+      "FORMID": "0155C6",
+      "EDID": "NVDLC03SonicGunBloodyMess",
+      "FULL": "Cantora de Ópera Banho de Sangue"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015B0A",
+      "FORMID": "015B0A",
+      "EDID": "NVDLC03ScienceWeapAE",
+      "FULL": "CIÊNCIA POW!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BC7",
+      "FORMID": "015BC7",
+      "EDID": "NVDLC03MadScienceWeapAE",
+      "FULL": "Ataque da Ciência Maluca!"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BEB",
+      "FORMID": "015BEB",
+      "EDID": "NVDLC03RoboscorpionGiantDT10",
+      "FULL": "Robo-escorpião Gigante DR 10"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BEC",
+      "FORMID": "015BEC",
+      "EDID": "NVDLC03RoboscorpionGiantDT15",
+      "FULL": "Robo-escorpião Gigante DR 15"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BED",
+      "FORMID": "015BED",
+      "EDID": "NVDLC03RoboscorpionGiantDT20",
+      "FULL": "Robo-escorpião Gigante DR 20"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:015BEE",
+      "FORMID": "015BEE",
+      "EDID": "NVDLC03RoboscorpionGiantDT25",
+      "FULL": "Robo-escorpião Gigante DR 25"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012EAE",
+      "FORMID": "012EAE",
+      "EDID": "NVDLC03TraitClaustrophobiaBonusAE",
+      "FULL": "Bônus de Claustrofobia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:012EAF",
+      "FORMID": "012EAF",
+      "EDID": "NVDLC03TraitClaustrophobiaPenaltyAE",
+      "FULL": "Penalidade por Claustrofobia"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:013908",
+      "FORMID": "013908",
+      "EDID": "NVDLC03SonicTarantulaCritEffect",
+      "FULL": "Explosão Flamejante"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:014B1F",
+      "FORMID": "014B1F",
+      "EDID": "NVDLC03ReinforcedSpineStrBoostAE",
+      "FULL": "Coluna Reforçada"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:0152F5",
+      "FORMID": "0152F5",
+      "EDID": "NVDLC03RadiationResistanceAE",
+      "FULL": "Resistência à Radiação"
+    },
+    {
+      "FORM": "@OldWorldBlues.esm:016A7F",
+      "FORMID": "016A7F",
+      "EDID": "NVDLC03SinkDrinkSpell",
+      "FULL": "Feitiço de Bebida da Pia"
+    }
+  ]
+}
